@@ -10,7 +10,7 @@
 
 * DotD: scanned? ~ single line faces
 * Mike Marean:
-* Patrick & Jay: Iliad
+*   
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
 * MarJon: photos + scissors
