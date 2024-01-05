@@ -10,13 +10,14 @@
 
 * DotD: scanned? ~ single line faces
 * Mike Marean:
+* Corbett
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
 * MarJon: photos + scissors
 
 ## Soon
 
-* home depot: #WM54901409 1-800-466-3337 case #346 855 50
+* ?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">will trust</a>
 
@@ -26,7 +27,6 @@
 * SW: wipes ~ wish dashing liquid
 * Fred:
 * A:
-* A: wallet
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">0 Simplicity</a>
 
