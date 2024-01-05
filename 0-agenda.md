@@ -10,7 +10,6 @@
 
 * DotD: scanned? ~ single line faces
 * Mike Marean:
-*   
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
 * MarJon: photos + scissors
@@ -27,7 +26,7 @@
 * SW: wipes ~ wish dashing liquid
 * Fred:
 * A:
-* A: Bidet + wallet
+* A: wallet
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">0 Simplicity</a>
 
