@@ -1,0 +1,516 @@
+
+Matches: to:(theo@evereverland.net
+"theo@evereverland.net"
+wallet.google.com
+Do this: Skip Inbox, Apply label "admin/receipts"
+	Matches: to:(buildingprocessnetwork@googlegroups.com
+	Do this: Skip Inbox, Apply label "org-newco/building patterns"
+goldberg@berkeley.edu
+Do this: Skip Inbox, Apply label "org-newco/aotn"
+	Matches: list:(<bbn67.googlegroups.com>
+	Do this: Skip Inbox, Apply label "org-newco/sps / bbn / syr"
+tgd@tgdpro.com
+Do this: Skip Inbox, Apply label "org-newco/tgd", Never send it to Spam
+	Matches: list:(team-fogg.us
+	Do this: Skip Inbox, Apply label "org-newco/fogg"
+coaches@fogg.us
+Do this: Skip Inbox, Apply label "org-newco/fogg"
+dfamigletti@griffinasset.com
+"admin", Never send it to Spam
+
+Matches: list:(<pattern-repository-dev.googlegroups.com>
+"org-newco/building patterns"
+crossingproject@hotmail.com
+"org-newco/aotn"
+subscriptionmail@cybersource.com
+"admin/charity"
+ranjitonthemove@hotmail.com
+"org-newco/aotn"
+info.bcnm@berkeley.edu
+"org-newco/aotn"
+customerservice@salliemae.com
+"admin/receipts"
+t@tiffanyshlain.com
+"org-newco/aotn"
+ebill3@conservice.com
+"admin/receipts"
+invoice@customercare.publicstorage.com
+"admin/receipts"
+donotreply@publicstorage.com
+"admin/receipts"
+Matches: [tgd]
+"org-newco/tgd"
+zazaarmour@yahoo.com
+"ace-it"
+digital-no-reply@amazon.com
+"admin/receipts"
+service@paypal.com
+"admin/receipts"
+whlshp19@pacbell.net
+"org-newco/fogg"
+eaccountnotify@verizonwireless.com
+"admin/receipts"
+support@github.com
+"admin/receipts"
+support@dreamhost.com
+"admin/receipts"
+filethis.com
+"admin/receipts"
+
+
+armour.eloise@gmail.com
+"ace-it"
+info@cclarkgallery.com
+"org-newco/aotn"
+no_reply@bayareafastrak.org
+"admin/receipts"
+fred@allardyce.com
+"org-newco/fogg"
+homeshopping@safeway.com
+"admin/receipts"
+salliemae.com
+"admin/receipts"
+cdutkin@comcast.net
+"org-newco/fogg"
+Barbary_Coast_Neighborhood_Assoc@mail.vresp.com
+"org-newco/fogg"
+jsw@peterc.org
+"admin/internet"
+
+@sfwater.org
+"org-newco/fogg"
+Matches: list:"weeklydrinkers.yahoogroups.com"
+"fam-friend"
+
+whann@att.net
+"org-newco/fogg"
+
+Matches: to:(ace-it@googlegroups.com
+"ace-it"
+armour.cb@gmail.com OR alixarmour@gmail.com
+"ace-it", Never send it to Spam
+
+aldensmith@gmail.com
+"ace-it/plus"
+cahazel@comcast.net
+"org-newco/fogg"
+
+	Matches: list:"bbn66.googlegroups.com"
+"org-newco/sps / bbn / syr"
+
+maria.ronay@gmail.com
+"org-newco/fogg"
+jsbarker@sps.edu
+"org-newco/sps / bbn / syr"
+bernard.gray@grayventures.com
+"org-newco/sps / bbn / syr"
+reply@nextdoor.com
+"org-newco/fogg"
+simo@simoneri.com
+"org-newco/aotn"
+emaildl.att-mail.com
+"admin/receipts"
+googleplay-noreply@google.com
+"admin/receipts"
+
+VZWMail@ecrmemail.verizonwireless.com
+"admin/receipts"
+
+tracyferguson@me.com
+"ace-it/plus"
+fergiesmith@gmail.com
+"ace-it/plus"
+lcaffrey@caffreyinsurance.com
+"admin"
+no-reply@eyebuydirect.com
+"admin/receipts"
+corbettsmith@gmail.com
+"ace-it/plus"
+Renee@shawcpas.com
+"admin"
+bill.benkavitch@gmail.com
+"org-newco/fogg"
+ryan@searchtransparencysem.com
+"admin"
+emailff.att-mail.com
+"admin/receipts"
+	Matches: list:"theartsection.googlegroups.com"
+"org-newco/aotn"
+gerikoeppel@me.com
+"org-newco/fogg"
+gerikoeppel@gmail.com
+"org-newco/fogg"
+ebill5@conservice.com
+"admin/receipts"
+ebill1@conservice.com
+"admin/download to do"
+Lea@douglasswinthrop.com
+"admin"
+joshhuffard@gmail.com
+"admin"
+receipts.san.francisco@uber.com
+"admin/receipts"
+Josh@douglasswinthrop.com
+"admin"
+cynthia@bikeeastbay.org
+"ace-it"
+deliverysupport@safeway.com
+"admin/receipts"
+support@sonic.net
+"admin/receipts"
+Lisa@douglasswinthrop.com
+"admin"
+Rossana@douglasswinthrop.com
+"admin"
+	Matches: list:"sps65editors.googlegroups.com"
+"org-newco/sps / bbn / syr"
+dse@docusign.net
+"admin"
+
+wyndmoor@comcast.net
+"org-newco/sps / bbn / syr"
+billing@sonic.net
+"admin/receipts"
+	Matches: to:(coaches@fogg.us OR theo@fogg.us
+	Do this: Skip Inbox, Apply label "org-newco/fogg"
+bruno.ferte@free.fr
+"fam-friend/bruno ferté"
+
+no-reply@rs.email.nextdoor.com
+"ToTrash"
+GilliganTJ@aol.com
+"org-newco/fogg"
+
+raygor@sonic.net
+"org-newco/fogg"
+billing-noreply@google.com
+"admin/receipts"
+online.communications@alerts.comcast.net
+Do this: Skip Inbox, Apply label "admin/receipts"
+CollegeBoard@noreply.collegeboard.org OR newsletters@sfgate.com OR do-not-reply@crimemapping.com OR admin@grequestionaday.com
+"admin/internet"
+Arvinds@zulu.com
+"org-newco/fogg"
+
+no-reply@lyftmail.com
+Do this: Skip Inbox, Apply label "admin/receipts"
+sps@pushpage.org
+"org-newco/sps / bbn / syr"
+projectfi-noreply@google.com
+"admin/receipts"
+timothygeraci@gmail.com
+"org-newco/fogg"
+CustomerService@navient.com
+"admin/receipts"
+payments-noreply@google.com
+"admin/receipts"
+PSQL1@180medical.com
+"admin/receipts"
+	Matches: list:"na-cba@googlegroups.com"
+"fam-friend"
+duluthtrading@trans.duluthtradingemail.com
+"admin/receipts"
+marciadeforest@gmail.com
+"org-newco/fogg"
+medicare@caffreyinsurance.com
+"admin"
+
+SQL-PROD1@180medical.com
+"admin/receipts"
+succeedstudy@ucsf.edu
+"admin/internet"
+info@lithiumcycles.com
+"admin/receipts"
+
+kennethleebaker@gmail.com
+"org-newco/jaanga spider"
+tparisi@gmail.com
+"org-newco/jaanga spider"
+gregory.kielian@gmail.com
+"org-newco/jaanga spider"
+aleksandar.xyz@gmail.com
+"org-newco/jaanga spider"
+3dmashup@comcast.net
+"org-newco/jaanga spider"
+dave@realmofconcepts.com
+"org-newco/jaanga spider"
+damonweb3d@gmail.com
+"org-newco/jaanga spider"
+ascottiii@gmail.com
+"org-newco/jaanga spider"
+support@leapmotion.com
+"org-newco/jaanga spider"
+mail@niconectado.com
+"org-newco/jaanga spider"
+msutherland@leapmotion.com
+"org-newco/jaanga spider"
+eruscitto@leapmotion.com
+"org-newco/jaanga spider"
+ricardo.cabello@gmail.com
+"org-newco/jaanga spider"
+no-reply@leapmotion.com
+"org-newco/jaanga spider"
+damon@ideabuilderhomes.com
+"org-newco/jaanga spider"
+robertjoleary@gmail.com
+"org-newco/jaanga spider"
+icohen@leapmotion.com
+"org-newco/jaanga spider"
+d+MTE0MjA2ODY2ODI4OTgyNzM3Njgw-MTA0MTQwNjI1NzgxNzExODYxMTU3@docs.google.com
+"org-newco/jaanga spider"
+d+MTE0MjA2ODY2ODI4OTgyNzM3Njgw-MTE1MTI4MzIxMDU0NzEzMTA3MDI5@docs.google.com
+"org-newco/jaanga spider"
+info@meetup.com
+"org-newco/jaanga spider"
+acolgan@leapmotion.com
+"org-newco/jaanga spider"
+acolgan@ocuspec.com
+"org-newco/jaanga spider"
+auto-message@eventbrite.com
+"org-newco/jaanga spider"
+tparisi@gmail.com
+"org-newco/jaanga spider"
+sadeghipour@gmail.com
+"org-newco/jaanga spider"
+citizens.arrest@gmail.com
+"org-newco/jaanga spider"
+elcinertugrul@gmail.com
+"org-newco/jaanga spider"
+sketches of topology
+"org-newco/jaanga spider"
+bodu3d@gmail.com
+"org-newco/jaanga spider"
+michele.ducceschi@gmail.com
+"org-newco/jaanga spider"
+jeremy.tammik@autodesk.com
+"org-newco/jaanga spider"
+k.udilovich@wosad.com
+"org-newco/jaanga spider"
+brendon.smith9@gmail.com
+"org-newco/jaanga spider"
+greg@abantech.net
+"org-newco/jaanga spider"
+tandm@xanadu.net
+"org-newco/jaanga spider"
+	Matches: list:"wikihouse.googlegroups.com"
+"org-newco/jaanga spider"
+	Matches: list:"community.leapmotion.com"
+"org-newco/jaanga spider"
+	Matches: list:"art-github-io@googlegroups.com"
+"org-newco/jaanga spider"
+cqcqcq@gmail.com
+"org-newco/jaanga spider"
+	Matches: list:"Abantech/abantech.github.io <abantech.github.io.Abantech.github.com>"
+"org-newco/jaanga spider"
+SMichler@rwbaird.com
+"org-newco/jaanga spider"
+stuartmichler@me.com
+"org-newco/jaanga spider"
+makhaled.eg@gmail.com
+"org-newco/jaanga spider"
+Benjamin.Welle@perkinswill.com
+"org-newco/jaanga spider"
+	Matches: list:"ladybug-tools/spider <spider.ladybug-tools.github.com>"
+"org-newco/jaanga spider"
+dengusiak@gmail.com
+"org-newco/jaanga spider"
+
+domains-noreply@google.com
+"admin/receipts"
+ebyron@pacbell.net
+"admin"
+info@carmelsoft.com
+"org-newco/jaanga spider"
+louie9690@gmail.com
+"admin"
+info@dailystoic.com
+ryanjwold@gmail.com
+"org-newco/jaanga spider"
+
+stripe.com) receipts @stripe.com
+Do this: Skip Inbox, Apply label "admin/receipts"
+
+giving@syr.edu
+"admin/charity"
+ebill@conservicemail.com
+"admin/receipts"
+bingo@patreon.com
+"admin/receipts"
+
+support@digmypics.com
+"admin/receipts"
+memoriesrenewed.com
+"admin"
+
+fertebruno@gmail.com
+"fam-friend/bruno ferté"
+heritagesf.org
+"admin"
+communicationsoffice@sps.edu
+"org-newco/sps / bbn / syr"
+Matches: (unsubscribe OR "view in browser" OR "view as a web page" OR "privacy policy" OR "click here" OR "view online" OR "update your preferences" OR "opt out" OR "manage your account"
+"ToTrash"
+Matches: subject:(todo*
+"to-do"
+anderson_barb@earthlink.net OR sfcarm@gmail.com OR marthanellbeatty@hotmail.com OR yvonne.benedict@sbcglobal.net OR eabissellsf@gmail.com OR jlpbolles@gmail.com OR bernieburke@comcast.net OR eleanorgeorgeburke@gmail.com OR clevengerbl@aol.com OR mcougey42@aol.com OR lucia398@yahoo.com OR rdugliss@gmail.com OR bettyroydy@gmail.com OR marcia.forman@yahoo.com OR jean5128sf@gmail.com OR jmfraps@gmail.com OR thanley640@comcast.net OR grahamgene@sbcglobal.net OR gardnerh2005@yahoo.com OR agathahoff@gmail.com OR dlh1927sf@gmail.com OR pathulting@aol.com OR mej1928@gmail.com OR ejordan94112@gmail.com OR moniquekaufman6@gmail.com OR kkirkpatrick1346@gmail.com OR gblearned@gmail.com OR mglindlow@gmail.com OR giselalloyd@gmail.com OR sisluo@gmail.com OR lookuotsing@gmail.com OR marjmam@sbcglobal.net OR samoore007@comcast.net OR bummiemorris@gmail.com OR kay.narron@gmail.com OR mcaroper@gmail.com OR prush@sbcglobal.net OR Sharpie.L1780@yahoo.com OR garyskootsky@comcast.net OR kristineskootsky@mac.com OR jane@standing.com OR stentsf@gmail.com OR marthatorres@sbcglobal.net OR mercedesvandenberg@gmail.com OR mlwake@mindspring.com OR fww@wentker.com OR joann@wentker.com OR rawesson@sbcglobal.net OR marlene_wesson@email.msn.com
+"fam-friend/heritage"
+sps.edu
+"org-newco/sps / bbn / syr"
+joseleos@gmail.com
+"org-newco/sps / bbn / syr"
+
+giving@syr.edu
+"admin/charity"
+ebill@conservicemail.com
+"admin/receipts"
+bingo@patreon.com
+"admin/receipts"
+
+Matches: subject:([weeklydrinkers]
+"ToTrash"
+
+Fam Friends
+
+taniabecker8@gmail.com OR
+juliettehannedouche@gmail.com OR
+stig@norroc.com OR
+harolnick@cs.com OR
+paulmasson@comcast.net OR
+jandaross@waitrose.com OR
+flofrog@me.com OR
+francois.hannedouche@gmail.com OR
+dve@ucla.edu OR
+tania@taniabecker.com OR
+ple@ple.us OR
+cynziam@aol.com OR
+agp@websightdesign.com OR
+luniverre.cordes@gmail.com OR
+mark@helmmusic.com OR
+alexander.grant.hancock@gmail.com OR
+flofrog@me.com OR
+alex@wiredcraft.com OR
+pauljamesmasson@comcast.net OR
+chovey333@gmail.com OR
+aymeric.lavit@gmail.com OR
+pamela.dorothy@gmail.com OR
+ccborage@gmail.com OR
+dchace@comcast.net OR
+abem@tds.net OR
+aryschlum@gmail.com OR
+allison@allisonarmour.us OR
+mdefores@yahoo.com OR
+geischeid@gmail.com OR
+wenig181@outlook.com OR
+donatella.basdereff@sciencespo.fr OR
+wtyre@glessnerhouse.org OR
+andookro@me.com OR
+pmbusiness.service@gmail.com OR, Categorize as Primary
+jbmichael@aol.com OR
+havenpell@mac.com OR
+a@g8.io OR
+babs.lowe7@gmail.com OR
+afield@scu.edu OR
+rdjin1938@gmail.com OR
+andookro@icloud.com OR
+shammah.chancellor@gmail.com OR
+baireswilliame@gmail.com OR
+douglas.dwyer@me.com OR
+jayama12@hotmail.com OR
+everestjim@yahoo.com OR
+mia@miagrosjean.com OR
+marisa.rodriguez@freeborders.com OR
+jmichler@salesforce.com OR
+mattdfuchs@gmail.com OR
+douglas@dbmail.com OR
+rvanegas@gmail.com OR
+ronan@devo.ps OR
+david.naylor.sf@gmail.com OR
+tim.child@comcast.net OR
+mark.carranza@gmail.com OR
+allison@allisonarmour.com OR aline@french-american.tv OR richard@wecurious.com OR Duff@mikanet.com OR wurm@berkeley.edu OR
+pftq@pftq.com OR
+hunvreus@gmail.com OR
+dan_1122@hotmail.com OR
+
+To ToTrash
+
+apps-scripts-notifications@google.com OR
+paypal@mail.paypal.com OR
+noreply@discourse.ladybug.tools OR
+id@proxyvote.com OR
+threejs@discoursemail.com OR
+dave@davenetics.com OR
+cclarkgallery.com OR
+notification@facebookmail.com OR
+turbotax@e.turbotax.intuit.com OR
+tim@48hills.org OR
+news@insideapple.apple.com OR
+assistant-noreply@google.com OR
+news-googleplay@google.com OR
+chris@gomakethings.com OR
+minion@180medical.com OR
+noreply@discourse.radiance-online.org OR
+googlestore-noreply@google.com OR
+noreply@medium.com OR
+help@team.shoeboxed.com OR
+sfist@impress3.com OR
+eventbrite.com OR
+customerservice@navient.com OR
+reply@rs.email.nextdoor.com OR
+calendar-notification@google.com OR
+donotreplyucsfmychart@ucsf.edu OR
+noreply@github.com OR
+auto-reply@usps.com OR
+ca12npima@mail.house.gov OR
+morningconsult.com OR
+noreply@marinetraffic.com OR
+noreply@community.stackedit.io OR
+editor@edge.org OR
+atn@atncorp.com OR
+no-reply@mail.instagram.com OR
+admin@curensea.com OR
+
+
+
+
+communications@sfport.com OR
+adrianmonck@weforum.org OR
+pigeon@hoodline.com OR
+shipment-tracking@amazon.com OR
+notifications@github.com OR
+frontend@cooperpress.com OR
+support@codepen.io OR
+crew@morningbrew.com OR
+noreply@mail.idnotify.com OR
+googlefi-noreply@google.com OR
+energyplus_support@yahoogroups.com OR
+sfdug.coordinator@gmail.com OR
+ibpsa.sfbayarea@gmail.com OR
+briefing@wikitribune.com OR
+alumni_programs@bbns.org OR
+nytimes.com OR
+hello@getrocketbook.com OR
+noreply@groups.io OR
+info@pentagram.com OR
+thinkwithgoogle-noreply@google.com OR
+newsletter@wiredcraft.com OR
+sfmta@public.govdelivery.com OR
+hi@hiutdenim.co.uk OR
+team@emails.evernote.com OR
+unmethours@bigladdersoftware.com OR
+t@tiffanyshlain.com OR
+webgl-dev-list.googlegroups.com OR
+info@mailer.netflix.com OR
+ascottiii@gmail.com OR
+googlehome.noreply@google.com OR
+communications@swissnexsf.org OR
+list@ben-evans.com OR
+suinla@syr.edu OR
+marketing@khronos.org OR
+do-not-reply@ello.co OR
+orangecentral@syr.edu OR
+no-reply@rentcafe.com OR
+info@super73.com OR
+netexchangeproducts@pershing.com OR
+atsfport@sfport.com OR
+aper@asiape.com OR

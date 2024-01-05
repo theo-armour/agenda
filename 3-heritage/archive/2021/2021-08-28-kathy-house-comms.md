@@ -1,0 +1,14 @@
+# 2021-08-28 Kathy
+
+## House
+
+* Can we start emailing? subgroup?
+* Groups.io? Separate group HotM?
+* Where to keep records?
+* System of tagging
+
+## Communications
+
+* Please comment
+* OK to add your name?
+* Will phone or contact every one
