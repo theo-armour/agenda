@@ -14,6 +14,7 @@
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
 * MarJon: photos + scissors
+* Margaret jacobs: fun & games
 
 ## Soon
 
@@ -32,7 +33,7 @@
 
 * ?
 * ace: decide furniture
-* Lawrence: pay
+* Lawrence: pay feb?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
