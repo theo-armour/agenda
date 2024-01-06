@@ -81,6 +81,13 @@ How to pay for it all ~ How to benefit from it all
 * [2023-12-23 Cash Flow Design](https://theo-armour.github.io/agenda/#1-simplicity/2023-12-30-cash-flow-design.md)
 
 
+## More
+
+### “The Life-Changing Magic of Tidying Up” — Marie Kondo
+
+Treat every item you own like a good friend, and if you don't think of it like that then throw it out.
+
+
 ***
 
 <center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
