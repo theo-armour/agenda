@@ -14,12 +14,12 @@
 * Corbett
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
-* MarJon: photos + scissors
 * Margaret jacobs: fun & games
 
 ## Soon
 
 * ?
+* MarJon: photos + scissors
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">will trust</a>
 
