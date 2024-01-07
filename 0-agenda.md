@@ -10,6 +10,8 @@
 
 * DotD: scanned? ~ single line faces
 * Mike Marean:
+* mJohn
+* Doris
 * Corbett
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
@@ -24,8 +26,8 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* Better Brother scanner?  
-* SW: wipes ~ wish dashing liquid
+* Better Brother scanner?
+* SW: Citrical
 * Fred:
 * A:
 
