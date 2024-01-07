@@ -10,7 +10,6 @@
 
 * DotD: scanned? ~ single line faces
 * Mike Marean:
-*   
 * Corbett
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
