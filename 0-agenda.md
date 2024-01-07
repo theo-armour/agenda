@@ -9,7 +9,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
 * DotD: scanned? ~ single line faces
-* Mike Marean:
+*   
 * Corbett
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
