@@ -9,25 +9,28 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
 * DotD: scanned? ~ single line faces
-* Mike Marean:
 * Corbett
+* ple:
+* AlexP
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
-* MarJon: photos + scissors
-* Margaret jacobs: fun & games
+*   
 
 ## Soon
 
 * ?
+* Margaret jacobs: fun & games
+* MarJon: photos + scissors
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">will trust</a>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* Better Brother scanner?  
-* SW: wipes ~ wish dashing liquid
+* Better Brother scanner?
+* SW: Citrical
 * Fred:
 * A:
+* chromecast: mute
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">0 Simplicity</a>
 
@@ -121,8 +124,8 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/0-heritage-agenda.md&quot;">3.0 Heritage</a>
 
 * @@@
-* laura-wagner-dining-service-report
-* 628 222-3097?
+*   
+* Emergency: 628 222-3097?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1 heritage happenings</a>
 
