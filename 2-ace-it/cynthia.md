@@ -3,6 +3,10 @@
 creativity inc??
 
 
+## 2024-01-08
+
+
+
 ## 2023-12-11
 
 * Cot in Room
@@ -14,7 +18,7 @@ creativity inc??
 
 ## 2023-11-13
 
-* graphic designer
+* Graphic designer
 
 ## 2023-11-08
 
