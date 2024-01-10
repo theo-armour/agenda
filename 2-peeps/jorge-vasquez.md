@@ -16,3 +16,8 @@ Lots of Internet
 Olga.. great example
 
 Rendering skills?
+
+
+## Hotel Muisca - Bogotá, Centro Histórico
+
+* https://www.hotelmuisca.com/
