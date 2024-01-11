@@ -6,7 +6,7 @@
 * [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)
 * 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
 * Example: Nature abhors a double negative
-*   
+* Find happiness: is a thing
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
@@ -71,7 +71,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
 
 * ?
-* Isabelle: Caffrey
+*   
 * Engelhardts + Isa: after Christmas
 * Tania: ??
 * Allison: Iliad ~ drisco
