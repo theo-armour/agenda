@@ -55,7 +55,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* Cynthia: socks
+*   
 * ace: simplify notice
 * ace: notify DWA tax return status?
 * ace: share ms365
@@ -63,7 +63,7 @@
 * Alix: web essentials
 * Alix: energy prompt ~ features/benefits ~ EAT ~ links
 * Alix: Mood mirrors
-* Eloise: mapstory.js
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
 
