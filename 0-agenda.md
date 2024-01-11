@@ -9,7 +9,8 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
 * DotD: scanned? ~ single line faces
-*   
+* Fred Wentker: zoom
+* Randy: appendix + tides
 * AlexP
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
@@ -25,7 +26,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * Better Brother scanner?
-* SW: Citrical
+* SW:
 * Fred:
 * A:
 * chromecast: mute
@@ -34,7 +35,7 @@
 
 * ?
 * ace: decide furniture
-* Lawrence: pay feb?
+* Lawrence: last exta pay in feb?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
