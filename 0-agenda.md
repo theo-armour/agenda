@@ -59,22 +59,20 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-*   
-* ace: simplify notice
+* * ace: simplify notice
 * ace: notify DWA tax return status?
 * ace: share ms365
 * Isabelle my waiver
 * Alix: web essentials
 * Alix: energy prompt ~ features/benefits ~ EAT ~ links
 * Alix: Mood mirrors
-*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
 
 * ?
-* Engelhardts + Isa: after Christmas  
+* Engelhardts + Isa: after Christmas
 * Tania: ??
-* Allison: Iliad ~ drisco
+* Allison: Iliad ~ drisco ~ PLE
 * Allison: Swan Lake Ballet February 24 ~ driver ~ resto
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
