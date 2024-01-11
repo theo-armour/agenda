@@ -10,11 +10,9 @@
 
 * DotD: scanned? ~ single line faces
 * Corbett
-* ple:
 * AlexP
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
-*   
 
 ## Soon
 
@@ -124,8 +122,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/0-heritage-agenda.md&quot;">3.0 Heritage</a>
 
 * @@@
-*   
-* Emergency: 628 222-3097?
+* * Emergency: 628 222-3097?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1 heritage happenings</a>
 
