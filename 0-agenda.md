@@ -7,6 +7,7 @@
 * 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
 * Example: Nature abhors a double negative
 * Find happiness: is a thing
+* Nip issues in the bud by throwing money at them
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
@@ -71,8 +72,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
 
 * ?
-*   
-* Engelhardts + Isa: after Christmas
+* Engelhardts + Isa: after Christmas  
 * Tania: ??
 * Allison: Iliad ~ drisco
 * Allison: Swan Lake Ballet February 24 ~ driver ~ resto
@@ -89,9 +89,9 @@
 * Emily Brennan: ??
 * Floris: web sites
 * Jason Carman:
-* Jorge Vasquez: Patrick > Paul ~ our John
+* Jorge Vasquez: Michael Merrill
 * Khoren:
-* Laura:
+* Laura Wagner:
 * Mark Linton: latex to python
 * Matthew Fuchs:
 * Nienke Hoffman: reply
@@ -125,7 +125,10 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/0-heritage-agenda.md&quot;">3.0 Heritage</a>
 
 * @@@
-* \* Emergency: 628 222-3097?
+* Italian Museum: tour
+* Men's group outing
+* Organist: evensong
+* Emergency: 628 222-3097?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1 heritage happenings</a>
 
