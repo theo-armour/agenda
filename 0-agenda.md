@@ -7,7 +7,7 @@
 * 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
 * Example: Nature abhors a double negative
 * Find happiness: is a thing
-* Nip issues in the bud by throwing money at them
+* If there's an issues to nip in the bud them throw money at it
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
