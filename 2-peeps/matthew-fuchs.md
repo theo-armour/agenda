@@ -21,7 +21,24 @@ https://docs.google.com/presentation/d/1qCHCUZgwpYYpykDtZ3L0332tANLAi0LQS7NWzqMG
 * https://docs.google.com/document/d/1fdhDUDEBSimEAcDqQuoBr2iE78o841iY3fOEwrVGu9g/edit?usp=sharing
 
 
-## 2023-11-22
+## 2024-01-11
+
+Hi Matthew
+
+I hope you had a good holiday season and that this new year is off to a good start.
+
+I'm sorry that I've not been in touch. I've just once again opened "The Wall Between the Virtual and the Real has Collapsed". It's always a fun read. I mostly get what you are driving at. But somehow, I keep having a roadblock in being able to explain it myself let alone to others. There is a density of ideas along with the innate complexity of building and launching a mass-market product that makes it difficult to get a handle on.
+
+I'd have to ask a zillion questions before bing able to offer a usable critique. I'm not sure that's the best use of your time or mine.
+
+Anyway, I'm still interested in what you are doing. I'm still interested in helping you in any way I can. I'm just not sure what that is. ;-)
+
+Anyway, I hope you are well and that you are making progress. Stop by and say hello if you are in the city. Or let's do a Zoom call if you have a moment.
+
+Cheers,
+
+Theo
+
 
 
 ## 2023-11-17

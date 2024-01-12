@@ -8,9 +8,19 @@ Son Mike - urologist
 
 ## 2024-01-08
 
-* Incomplete Nature
-* Three laws of obervability
-* emacs on vscode
+Terence Deacon
+
+* https://anthropology.berkeley.edu/terrence-w-deacon
+* Incomplete Nature ~ https://www.amazon.com/Incomplete-Nature-Mind-Emerged-Matter-ebook/dp/B005LW5JAS
+* Three laws of observability ~ https://raindrop.io/TheoA/observability-40565518
+
+* emacs on vscode ~
+Name: Awesome Emacs Keymap
+Id: tuttieee.emacs-mcx
+Description: Emacs Friendly Keymap with multi cursor support, improved mark-mode experience, clipboard and kill-ring integration, and lots of improvements and bug fixes.
+Version: 0.55.0
+Publisher: Yuichiro Tachibana (Tsuchiya)
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx
 
 
 ## 2024-01-05
