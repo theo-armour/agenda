@@ -29,7 +29,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * Better Brother scanner?
-* SW:
+* SW: RSV shot
 * Fred:
 * A:
 * chromecast: mute
@@ -59,7 +59,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* * ace: simplify notice
+* \* ace: simplify notice
 * ace: notify DWA tax return status?
 * ace: share ms365
 * Isabelle my waiver
