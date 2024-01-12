@@ -5,11 +5,15 @@
 * 2023-12-23: 31. Simplicity does not precede complexity, but follows it. [https://cpsc.yale.edu/epigrams-programming](https://cpsc.yale.edu/epigrams-programming)
 * [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)
 * 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
+* Example: Nature abhors a double negative
+* Find happiness: is a thing
+* If there's an issues to nip in the bud them throw money at it
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
 * DotD: scanned? ~ single line faces
-* Corbett
+* Fred Wentker: zoom
+* Randy: appendix + tides
 * AlexP
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
@@ -25,7 +29,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * Better Brother scanner?
-* SW: Citrical
+* SW:
 * Fred:
 * A:
 * chromecast: mute
@@ -34,7 +38,7 @@
 
 * ?
 * ace: decide furniture
-* Lawrence: pay feb?
+* Lawrence: last exta pay in feb?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
@@ -55,23 +59,20 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* Cynthia: socks
-* ace: simplify notice
+* * ace: simplify notice
 * ace: notify DWA tax return status?
 * ace: share ms365
 * Isabelle my waiver
 * Alix: web essentials
 * Alix: energy prompt ~ features/benefits ~ EAT ~ links
 * Alix: Mood mirrors
-* Eloise: mapstory.js
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
 
 * ?
-* Isabelle: Caffrey
 * Engelhardts + Isa: after Christmas
 * Tania: ??
-* Allison: Iliad ~ drisco
+* Allison: Iliad ~ drisco ~ PLE
 * Allison: Swan Lake Ballet February 24 ~ driver ~ resto
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
@@ -86,9 +87,9 @@
 * Emily Brennan: ??
 * Floris: web sites
 * Jason Carman:
-* Jorge Vasquez: Patrick > Paul ~ our John
+* Jorge Vasquez: Michael Merrill
 * Khoren:
-* Laura:
+* Laura Wagner:
 * Mark Linton: latex to python
 * Matthew Fuchs:
 * Nienke Hoffman: reply
@@ -122,7 +123,10 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/0-heritage-agenda.md&quot;">3.0 Heritage</a>
 
 * @@@
-* * Emergency: 628 222-3097?
+* Italian Museum: tour
+* Men's group outing
+* Organist: evensong
+* Emergency: 628 222-3097?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1 heritage happenings</a>
 
