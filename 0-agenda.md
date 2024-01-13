@@ -13,7 +13,7 @@
 
 * DotD: scanned? ~ single line faces
 * Fred Wentker: zoom
-* Randy: appendix + tides
+* Randy Gridley: appendix + tides
 * AlexP
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
