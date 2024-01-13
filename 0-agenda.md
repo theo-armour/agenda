@@ -13,6 +13,8 @@
 
 * DotD: scanned? ~ single line faces
 * Fred Wentker: zoom
+* Bernie + Patrick: lunch
+* Martha?: flowers
 * Randy Gridley: appendix + tides
 * AlexP
 * Kathy & Richard: thanks
