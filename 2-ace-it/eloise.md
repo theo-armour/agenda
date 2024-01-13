@@ -2,6 +2,12 @@
 
 https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md
 
+
+## 2024-01-13
+
+* arcgis
+* Professors?
+
 ## 2023-11-25
 
 * Hotshots article

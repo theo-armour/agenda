@@ -1,7 +1,6 @@
 
 # Mike Marean
 
-
 Wife: Eileen ~ student counselor
 Daughter Laura
 Son Mike - urologist
