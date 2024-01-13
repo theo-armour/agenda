@@ -12,7 +12,10 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
 * DotD: scanned? ~ single line faces
+* ecat: cash flow
+* mike-mearamn
 * Fred Wentker: zoom
+* Til: download program
 * Bernie + Patrick: lunch
 * Martha?: flowers
 * Randy Gridley: appendix + tides
