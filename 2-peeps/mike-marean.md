@@ -6,7 +6,38 @@ Wife: Eileen ~ student counselor
 Daughter Laura
 Son Mike - urologist
 
-## 2024-01-08
+## Interactive Object Network Indices For Law, Fact Patterns And Their Interaction
+
+No All Caps
+
+Links wherever possible
+
+* https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind
+* "The" law? https://en.wikipedia.org/wiki/Law
+* https://en.wikipedia.org/wiki/Index,_A_History_of_the
+* https://en.wikipedia.org/wiki/Deontic_logic
+* https://en.wikipedia.org/wiki/Wesley_Newcomb_Hohfeld
+* https://en.wikipedia.org/wiki/Claim_rights_and_liberty_rights
+* https://en.wikipedia.org/wiki/Flowchart
+* https://en.wikipedia.org/wiki/Workflow
+* https://en.wikipedia.org/wiki/Petri_net
+
+Meaning
+
+* a schematic of the paths taken, while not forgetting the paths not taken
+* a connected graph of the paths taken, while not forgetting the paths not taken
+* a timeline of the recording of events
+* annotation as to whether the events are prescriptive or voluntary
+* a way of measuring the "distance" between right and wrong. AI  ;-)
+* Discovering bias in the law
+* Adding metrics of logic to the law
+* the visualization of negative visualization
+* the eye of the law
+* Two diagrams of the same thing: what the law wants and what happened
+
+
+
+## 2024-01-12
 
 I still have not digested your paper, but hope to do so over the weekend.
 
@@ -17,6 +48,8 @@ One of the most complicated books I ever read - by a very smart author. In some 
 
 * https://anthropology.berkeley.edu/terrence-w-deacon
 * Incomplete Nature ~ https://www.amazon.com/Incomplete-Nature-Mind-Emerged-Matter-ebook/dp/B005LW5JAS
+
+## https://en.wikipedia.org/wiki/The_Dawn_of_Everything
 
 
 ## Three laws of observability
