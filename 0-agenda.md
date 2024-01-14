@@ -22,6 +22,7 @@
 * AlexP
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
+* Claudia: appraisels + shipper + geni
 
 ## Soon
 
