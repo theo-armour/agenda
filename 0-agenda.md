@@ -16,13 +16,15 @@
 *   
 * Fred Wentker: zoom
 * Til: download program
-*   
+* Carmen Brooks: meeting + estimate
+* Josh: call after 
 * Martha?: flowers
 * Randy Gridley: appendix + tides
 * AlexP
 * Kathy & Richard: thanks
 * Claudia: Douglas Sandberg: first contact
 * Claudia: appraisels + shipper + geni
+* editor
 
 ## Soon
 
@@ -65,7 +67,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* \* ace: simplify notice
+* ace: simplify notice
 * ace: notify DWA tax return status?
 * ace: share ms365
 * Isabelle my waiver
