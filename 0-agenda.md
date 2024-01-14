@@ -16,7 +16,7 @@
 *   
 * Fred Wentker: zoom
 * Til: download program
-* Bernie + Patrick: lunch
+*   
 * Martha?: flowers
 * Randy Gridley: appendix + tides
 * AlexP
