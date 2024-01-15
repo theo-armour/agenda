@@ -6,7 +6,35 @@
 Having now written the "2024-01-02-preface" document, I have a better I dead about what to write about here. So expect more detail and background here in the next few days.
 
 
-## Notes
+## Concept
+
+Finishing the design will require resources and time. I have the time. I need to figure out the resources - the people and the money.
+
+### Project costs
+
+There will be:
+
+* Consultation
+* Photography
+* Appraisals
+* Freight ~ local and long distance
+* And storage until it is sold, donated or given away
+
+I have zero idea how much thesewill cost.
+
+### Income
+
+* Furniture ~ very little
+* China, glass and silver ~ very little
+* Jewelry ~ ??
+* Art ~ good tax deductions
+
+### Shipping
+
+* Shipping to ACE ~ ??
+
+
+## Smooth cash flow is wanted
 
 * I can deal with money dripping out of my portfolio
 * I don't deals so well with chunks of money dropping out of my portfolio
@@ -14,28 +42,37 @@ Having now written the "2024-01-02-preface" document, I have a better I dead abo
 
 ## My long term investment strategy
 
-On average investments in the stock market have returned 7% to 10% per year
+On average investments in the stock market have returned 7% to 10% per year. See links belo
+
+Over the past thirty years, I have allocatd my income as follows:
 
 * Spend up to 3% of my portfolio per year paying taxes
 * Spend up to 3% of my portfolio per year paying expenses
 * Allow the rest to grow to cover inflation
 
-Generally, investment guidance for the elderly who wish to grow their portfolio is to talke out 4% per year.
+Generally, investment guidance for the elderly who wish to grow their portfolio is to take out 4% per year. This what the trust fund pay out.
 
+
+Links
+
+* https://www.businessinsider.com/personal-finance/average-stock-market-return
+* https://www.investopedia.com/ask/answers/042415/what-average-annual-return-sp-500.asp
+* https://money.usnews.com/investing/articles/what-is-the-average-stock-market-return
 
 
 ## Income
 
 * Currently drawing $9K month from portfolio
 * Income $1K social security ~ $1,500 - $450 Medicare deducted
-* No more DWA income (was $4K per year)
+* No more Websight Design income (was $4K per year)
 * 2023 special: $25K California state tax refund
 
 The $9K month has been the same for a decade or more. It's time to increase it.
 
+
 ## 2023 What I spent
 
-* $108,000 from pershing to me
+* $108,000 from Pershing to me
 * $28,500 from Pershing to Manatt ~ not including payments I made using my monthly money
 
 
@@ -53,7 +90,7 @@ Perhaps I should have refinanced the loans. But I didn't. Anyway, refinancing no
 
 ## Expenses
 
-* $4,200+ month goes to Heritage for rent + donations ~ not including guest & wine charges
+* $4,500+ month goes to Heritage for rent + donations ~ not including guest & wine charges
 * Roughly $1.3K month goes to college loans << coming back soon
 
 Rough fixed costs
@@ -62,7 +99,7 @@ Rough fixed costs
 * 1400 Public Storage
 * $177 Phone
 * $337 Blue Shield + Silverscript
-* $100 Marina Cleaners
+* $100 Marina Cleaners for laundry
 * $300 Online stuff & charities
 
 
@@ -80,11 +117,17 @@ Rough fixed costs
 * Then give the money to ACE
 
 
-## Gifts Reminder
+## Gifts & Taxes Reminder
 
 * $17,000 max in 2023 / 12 months = 1416.67 / month
 
+Once I pay off the loans, I want to resume giving money to ACE. I would to do  $17K per year.
 
-## Questions
+## To Do
 
-* How to set up ACH?
+* Zelle sucks.How to set up ACH?
+* Kayakomat shares to ACE
+* D
+Links
+
+* https://en.wikipedia.org/wiki/Automated_clearing_house
