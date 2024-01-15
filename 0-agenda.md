@@ -11,9 +11,8 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
-* WHO: wellness list 
-* ecat: cash flow
-* * Fred Wentker: zoom
+*   
+* Fred Wentker: zoom
 * Til: download program
 * Carmen Brooks: meeting + estimate
 * Josh: call after 
