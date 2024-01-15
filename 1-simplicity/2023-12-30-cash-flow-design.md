@@ -1,9 +1,14 @@
 # [Simplicity Read Me]( https://theo-armour.github.io/agenda/#1-simplicity/README.md ) /  [2023-12-30 Cash Flow Design]( https://theo-armour.github.io/agenda/#1-simplicity/2023-12-30-cash-flow-design.md )
 
 
+## Preface 2024-01-15
+
+This paper is still quite higgledy-piggledy. I have no good example or template - and no previous experience to follow. Maybe one day...
+
+
 ## Preface 2024-01-04
 
-Having now written the "2024-01-02-preface" document, I have a better I dead about what to write about here. So expect more detail and background here in the next few days.
+Having now written the "2024-01-02-preface" document, I have a better I idea about what to write about here. So expect more detail and background here in the next few days.
 
 
 ## Concept
@@ -34,13 +39,15 @@ I have zero idea how much thesewill cost.
 * Shipping to ACE ~ ??
 
 
-## Smooth cash flow is wanted
+## General Principles
+
+### Smooth cash flow is wanted
 
 * I can deal with money dripping out of my portfolio
 * I don't deals so well with chunks of money dropping out of my portfolio
 * Try and keep with taking less than 3% out of portfolio
 
-## My long term investment strategy
+### My long term investment strategy
 
 On average investments in the stock market have returned 7% to 10% per year. See links belo
 
@@ -52,6 +59,13 @@ Over the past thirty years, I have allocatd my income as follows:
 
 Generally, investment guidance for the elderly who wish to grow their portfolio is to take out 4% per year. This what the trust fund pay out.
 
+### Get it done
+
+If you can't fix it yourself, throw some money at it
+
+The major cost will be the digitization of the collection. I have no idea how much it will cost.
+
+I must set a limit on how much I spend. How about the cost of buying a new car is the maximum I should spend?
 
 Links
 
@@ -76,19 +90,7 @@ The $9K month has been the same for a decade or more. It's time to increase it.
 * $28,500 from Pershing to Manatt ~ not including payments I made using my monthly money
 
 
-## College Loans
-
-Yup, I'm still paying them off
-
-* College Loans 2023-12-04: Total Current Balance: $56,781.84
-* No other loans
-* Note: Loan interest is all capitalized
-* The interest has now been paid off, all current payments pack back the principal
-
-Perhaps I should have refinanced the loans. But I didn't. Anyway, refinancing now would not be a good idea.
-
-
-## Expenses
+### Expenses
 
 * $4,500+ month goes to Heritage for rent + donations ~ not including guest & wine charges
 * Roughly $1.3K month goes to college loans << coming back soon
@@ -101,6 +103,17 @@ Rough fixed costs
 * $337 Blue Shield + Silverscript
 * $100 Marina Cleaners for laundry
 * $300 Online stuff & charities
+
+### College Loans
+
+Yup, I'm still paying them off
+
+* College Loans 2023-12-04: Total Current Balance: $56,781.84
+* No other loans
+* Note: Loan interest is all capitalized
+* The interest has now been paid off, all current payments pack back the principal
+
+Perhaps I should have refinanced the loans. But I didn't. Anyway, refinancing now would not be a good idea.
 
 
 ## Goals
@@ -127,7 +140,8 @@ Once I pay off the loans, I want to resume giving money to ACE. I would to do  $
 
 * Zelle sucks.How to set up ACH?
 * Kayakomat shares to ACE
-* D
+* DAF
+
 Links
 
 * https://en.wikipedia.org/wiki/Automated_clearing_house
