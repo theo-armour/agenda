@@ -14,7 +14,7 @@
 * Fred Wentker: zoom  
 * Til: download program
 * Carmen Brooks: meeting + estimate
-* Josh: call after 
+* Josh: call after 21st
 * Martha?: flowers
 * Randy Gridley: appendix + tides
 * AlexP
