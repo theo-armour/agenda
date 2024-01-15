@@ -64,7 +64,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* ace: simplify notice
+* ace: notion
 * ace: notify DWA tax return status?
 * ace: share ms365
 * Isabelle my waiver
