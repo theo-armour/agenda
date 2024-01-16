@@ -11,8 +11,8 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
-*   
-* Carmen Brooks: meeting + estimate
+* *   
+        * Carmen Brooks: meeting + estimate
 * Randy Gridley: appendix + tides
 * Chase: appointment
 * Brother: check if fried
