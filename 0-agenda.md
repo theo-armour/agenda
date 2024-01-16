@@ -16,6 +16,9 @@
 * Randy Gridley: appendix + tides
 * Chase: appointment
 * Brother: check if fried
+* HH: meeting
+* HH: Calendar
+* HH: February masthead
 
 ## Soon
 
@@ -62,7 +65,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* ace: notion
+* ace: notion Cludia?
 * ace: notify DWA tax return status?
 * ace: share ms365
 * Eloise: Grand Canyon run
