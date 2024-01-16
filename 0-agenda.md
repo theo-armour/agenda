@@ -7,21 +7,22 @@
 * 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
 * Example: Nature abhors a double negative
 * Find happiness: is a thing
-* If there's an issues to nip in the bud them throw money at it
+* If there's an issues to nip in the bud then throw money at it
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
-* Fred Wentker: zoom
-* Til: download program
+*   
 * Carmen Brooks: meeting + estimate
 * Randy Gridley: appendix + tides
-* AlexP
 * Chase: appointment
 * Brother: check if fried
 
 ## Soon
 
 * ?
+* Fred Wentker: zoom
+* Til: download program
+* AlexP: msg
 * Josh: call after 21st
 * Margaret jacobs: fun & games
 * MarJon: photos + scissors
