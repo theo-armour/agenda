@@ -3,6 +3,11 @@
 ## Actions
 
 * Rico: Jan 2
+* Claudia: Douglas Sandberg: first contact
+* Claudia: appraisels + shipper + geni
+* editor
+* ace: decide furniture
+* Lawrence: last exta pay in feb?
 * Douglas Sandberg: first contact
 * Photographer spec
 
