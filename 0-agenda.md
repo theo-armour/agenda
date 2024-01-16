@@ -40,11 +40,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">0 Simplicity</a>
 
 * ?
-* Claudia: Douglas Sandberg: first contact
-* Claudia: appraisels + shipper + geni
-* editor
-* ace: decide furniture
-* Lawrence: last exta pay in feb?
+*   
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
