@@ -12,7 +12,6 @@
 
 * TGD: Mark on Latex to Python
 * TGD: Hover 1 ~ flying camera
-* TGD: Flying camera post
 * Evan & Medium ~ Morning Consult ~ SDGs ~ Air Quality
 * Evan ~ AQI ~ morning consult ~ SDG
 
