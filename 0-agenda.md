@@ -14,18 +14,15 @@
 * Fred Wentker: zoom
 * Til: download program
 * Carmen Brooks: meeting + estimate
-* Josh: call after 21st
-* Martha?: flowers
 * Randy Gridley: appendix + tides
 * AlexP
-* Kathy & Richard: thanks
-* Claudia: Douglas Sandberg: first contact
-* Claudia: appraisels + shipper + geni
-* editor
+* Chase: appointment
+*   
 
 ## Soon
 
 * ?
+* Josh: call after 21st
 * Margaret jacobs: fun & games
 * MarJon: photos + scissors
 
@@ -34,7 +31,8 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * Better Brother scanner?
-* SW: RSV shot
+* SW: RSV shot ~ 
+* Martha?: flowers
 * Fred:
 * A:
 * chromecast: mute
@@ -42,6 +40,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">0 Simplicity</a>
 
 * ?
+* Claudia: Douglas Sandberg: first contact
+* Claudia: appraisels + shipper + geni
+* editor
 * ace: decide furniture
 * Lawrence: last exta pay in feb?
 
@@ -94,6 +95,7 @@
 * Jason Carman:
 * Jorge Vasquez: Michael Merrill
 * Jose Leos:
+* Kathy & Richard: thanks
 * Khoren:
 * Laura Wagner:
 * Mark Linton: latex to python
