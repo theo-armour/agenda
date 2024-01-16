@@ -17,7 +17,7 @@
 * Randy Gridley: appendix + tides
 * AlexP
 * Chase: appointment
-*   
+* Brother: check if fried
 
 ## Soon
 
@@ -31,7 +31,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * Better Brother scanner?
-* SW: RSV shot ~ 
+* SW: RSV shot ~ Goodwll
 * Martha?: flowers
 * Fred:
 * A:
@@ -40,7 +40,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">0 Simplicity</a>
 
 * ?
-*   
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
@@ -54,6 +53,7 @@
 
 * ?
 * Dr K: thanks
+* Gary Richmond: msg
 * UCSF: Eyes checkup
 * UCSF: Ortho appointment
 
