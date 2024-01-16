@@ -11,7 +11,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
-* Fred Wentker: zoom  
+* Fred Wentker: zoom
 * Til: download program
 * Carmen Brooks: meeting + estimate
 * Josh: call after 21st
@@ -93,6 +93,7 @@
 * Floris: web sites
 * Jason Carman:
 * Jorge Vasquez: Michael Merrill
+* Jose Leos:
 * Khoren:
 * Laura Wagner:
 * Mark Linton: latex to python
@@ -104,6 +105,7 @@
 * Ray Eisenberg
 * Randy Morgan: Published Agenda
 * Richard Caro: Zoom ~ Heritage Happenings
+* Rory Johnson:
 * Santani Teng: agenda ~ read papers
 * Simone: contacts?
 * Stephan Breuer: exhibit
