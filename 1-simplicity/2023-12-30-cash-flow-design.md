@@ -27,14 +27,14 @@ There will be:
 
 I have zero idea how much thesewill cost.
 
-### Income
+### Sales Income
 
 * Furniture ~ very little
 * China, glass and silver ~ very little
 * Jewelry ~ ??
 * Art ~ good tax deductions
 
-### Shipping
+### Shipping Costs
 
 * Shipping to ACE ~ ??
 
@@ -74,7 +74,7 @@ Links
 * https://money.usnews.com/investing/articles/what-is-the-average-stock-market-return
 
 
-## Income
+## Portfolio Income
 
 * Currently drawing $9K month from portfolio
 * Income $1K social security ~ $1,500 - $450 Medicare deducted
@@ -83,14 +83,16 @@ Links
 
 The $9K month has been the same for a decade or more. It's time to increase it.
 
+## Expenses
 
-## 2023 What I spent
+
+### 2023 What I spent
 
 * $108,000 from Pershing to me
 * $28,500 from Pershing to Manatt ~ not including payments I made using my monthly money
 
 
-### Expenses
+### Monthly expenses
 
 * $4,500+ month goes to Heritage for rent + donations ~ not including guest & wine charges
 * Roughly $1.3K month goes to college loans << coming back soon
@@ -145,3 +147,13 @@ Once I pay off the loans, I want to resume giving money to ACE. I would to do  $
 Links
 
 * https://en.wikipedia.org/wiki/Automated_clearing_house
+
+## Questions
+
+* Current portfoloio value: $4.9M
+* Public or not?
+* Examples of a good cash flow design?
+* Alix: March
+* Cynthia: April
+* Éloïse:January
+* Finding Happiness in the midst of suffering: share paper?
