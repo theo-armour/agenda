@@ -21,6 +21,7 @@
 ## Soon
 
 * ?
+* MikeM
 * Jonathen Liao: dinner here 
 * Fred Wentker: zoom
 * Til: download program
@@ -69,9 +70,6 @@
 * ace: share ms365
 * Eloise: Grand Canyon run
 * Isabelle my waiver
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">alix</a>
-
 * Alix: web essentials
 * Alix: energy prompt ~ features/benefits ~ EAT ~ links
 * Alix: Mood mirrors
@@ -88,7 +86,7 @@
 
 * ?
 * Tania: ??
-* Allison: Swan Lake Ballet February 24 ~ driver ~ resto
+*
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
