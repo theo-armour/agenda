@@ -3,8 +3,16 @@
 creativity inc??
 
 
-## 2024-01-08
+## 2024-01-16
 
+* OneNote versus Notion
+* House / down payment $100K / median house price Sacramento $500K
+* Claudia on Notion
+* Corbett's pole saw
+* Lolo's run / nice article
+* Katie Double Happiness ~ photo
+* April birthday
+* SmArm Group:
 
 
 ## 2023-12-11
