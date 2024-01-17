@@ -2,7 +2,6 @@
 
 ## Actions
 
-
 ## Theo
 
 * Photographer spec to Claudia
@@ -14,21 +13,19 @@
 * Decide furniture
 * Claudia in notion
 
-
 ## Claudia
 
 * Claudia: Douglas Sandberg: first contact
 * Claudia: appraisels + shipper + geni + editor
+* More links
 
 ## Rico
 
 * Rico: Jan 17
 
-
 ## Douglas Sandberg
 
 * First contact
-
 
 ## Lawrence Fine Art
 
