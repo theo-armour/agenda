@@ -12,7 +12,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
 * Carmen Brooks: meeting + estimate
-* Chase: appointment  
+* Chase: appointment
 * Brother: check if fried
 * CK: photo spec
 * HH: Calendar
@@ -81,6 +81,8 @@
 * ?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">eloise</a>
+
+* ?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
 
