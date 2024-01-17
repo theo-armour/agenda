@@ -12,10 +12,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
 * Carmen Brooks: meeting + estimate
-* Randy Gridley: appendix + tides
-* Chase: appointment
+* Chase: appointment  
 * Brother: check if fried
-*   
+* CK: photo spec
 * HH: Calendar
 * HH: February masthead
 
@@ -64,7 +63,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* ace: notion Cludia?
+* ace: notion Claudia?
 * ace: notify DWA tax return status?
 * ace: share ms365
 * Eloise: Grand Canyon run
