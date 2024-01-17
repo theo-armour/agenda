@@ -7,23 +7,21 @@
 * 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
 * Example: Nature abhors a double negative
 * Find happiness: is a thing
-* If there's an issues to nip in the bud, then throw money at it
+* If there's an issue to nip in the bud, then throw money at it
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a> Today
 
- 
-
 * Carmen Brooks: meeting + estimate
-* Randy Gridley: appendix + tides
-* Chase: appointment
+* Chase: appointment  
 * Brother: check if fried
-* HH: meeting
+* CK: photo spec
 * HH: Calendar
 * HH: February masthead
 
 ## Soon
 
 * ?
+* Jonathen Liao: dinner here 
 * Fred Wentker: zoom
 * Til: download program
 * AlexP: msg
@@ -66,7 +64,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* ace: notion Cludia?
+* ace: notion Claudia?
 * ace: notify DWA tax return status?
 * ace: share ms365
 * Eloise: Grand Canyon run
