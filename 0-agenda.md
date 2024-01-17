@@ -21,6 +21,7 @@
 ## Soon
 
 * ?
+* Jonathen Liao: dinner here 
 * Fred Wentker: zoom
 * Til: download program
 * AlexP: msg
