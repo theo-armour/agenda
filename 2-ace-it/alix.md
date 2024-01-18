@@ -10,6 +10,10 @@
 
 \* Storage update
 
+\* Notion ~ usage
+
+\* Notion ~ Claudia
+
   
 
 ## 2023-10-05
