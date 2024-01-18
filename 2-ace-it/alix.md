@@ -1,10 +1,16 @@
 # Alix
 
-
 ## 2023-12-07
 
 * Ronan Berder / Damien
 
+  
+
+## 2024-01-18
+
+\* Storage update
+
+  
 
 ## 2023-10-05
 
@@ -27,14 +33,13 @@
 
 Energy prompt
 
-My Energy has a color which is dark purple, with shapes of very sharp triangles. The movement of the energy is very fast, the music style  that would resemble it is heavy metal.
+My Energy has a color which is dark purple, with shapes of very sharp triangles. The movement of the energy is very fast, the music style that would resemble it is heavy metal.
 
 ## 2023-08-03
 
 Going sailing with Gergana
 
-https://www.circunomics.com/ >> OK!
-
+[https://www.circunomics.com/](https://www.circunomics.com/) >> OK!
 
 Heart the idea.
 
@@ -50,32 +55,24 @@ Therefore: Look hard for the something solid and real and actually happening now
 
 ## 2023-07-15
 
-https://www.cosmicdesign.io/podcasts/alix-armour
-
+[https://www.cosmicdesign.io/podcasts/alix-armour](https://www.cosmicdesign.io/podcasts/alix-armour)
 
 How Olive Stones & Walnut Shells Can Change the Energy Game
 
- My daughter Alix explains how her company is helping transform waste products into useful commodities.
-
+My daughter Alix explains how her company is helping transform waste products into useful commodities.
 
 Please have a look at or listen to this insightful and engaging podcast. Alix personifies her business, she has great energy!
-
-
-
-
 
 ## 2023-07-06
 
 * P65: who is selling? ~ dilution? ~ better reports ~
 * W&T: next steps?
 
-
 ## 2023-06-26
 
 * Will
 
 p65 call
-
 
 ## 2023-06-15
 
@@ -89,9 +86,7 @@ p65 call
 * Simone ~ Notary
 * wegozero: awesome
 * H & C: more links, more facts or data
-* CR banking ~ Olga
-*
-Opportunities
+* CR banking ~ Olga \* Opportunities
 * ?? cargo bike
 * ann noca mobility
 * TVS
@@ -110,23 +105,23 @@ Opportunities
 ## 2023-04-04
 
 ??:
+
 * H&C
 * W&T
 
-
 ## 2023-03-28
 
-* https://www.kate.tech/ ~ COO job
+* [https://www.kate.tech/](https://www.kate.tech/) ~ COO job
 * friend's name ~ floris ~
-  * blogs to HTML to GitHUB static sites!!!
+    * blogs to HTML to GitHUB static sites!!!
 * Envolio ~
-* webcam  easter
+* webcam easter
 * Paris
-
 
 ## 2023-03-17
 
 Compliance ~ being
+
 * Adhere to Deep Compliance, Auditing, Accountability, Responsibility and Transparency
 * Obtain and maintain recognition from bodies that matter:
 * SDG, federal, regional, local, economic sector, industry whatever
@@ -138,9 +133,9 @@ Compliance ~ being
 
 Numbers ~ Knowing
 
-https://twitter.com/G_S_Bhogal/status/1636876184863797248
-15. Scoreboard Principle:
-Metrics motivate. Quantifying your progress on a task will push you to work harder, as it’ll become like a game in which you’re trying to increase your score. Find ways to number your progress, and you’ll become determined to make the numbers grow.
+[https://twitter.com/G\_S\_Bhogal/status/1636876184863797248](https://twitter.com/G_S_Bhogal/status/1636876184863797248)
+
+15.  Scoreboard Principle: Metrics motivate. Quantifying your progress on a task will push you to work harder, as it’ll become like a game in which you’re trying to increase your score. Find ways to number your progress, and you’ll become determined to make the numbers grow.
 
 * Really Useful. Much wanted. Allows accessing to others peoples stats. Enables comparisons
 * Goals ~ targets ~ metric: it's all about the numbers
@@ -148,14 +143,14 @@ Metrics motivate. Quantifying your progress on a task will push you to work hard
 * The numbers must be meaningful to the individual - personal data on a timely identifiable basis
 
 Design ~ Doing
+
 * There's an app for that.
 * Make it so no human data entry.
 * All data points are captured digitally, automatically, always
 
-
 ## 2023-03-06
 
-* https://www.andersenshelling.com/services
+* [https://www.andersenshelling.com/services](https://www.andersenshelling.com/services)
 * MS365
 * Manatt
 * chatGPT
@@ -166,20 +161,19 @@ thre para
 
 Smart Scales
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8122302/
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8122302/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8122302/)
 
-https://www.cnn.com/cnn-underscored/reviews/best-smart-scale
+[https://www.cnn.com/cnn-underscored/reviews/best-smart-scale](https://www.cnn.com/cnn-underscored/reviews/best-smart-scale)
 
 WiFi 3D Vision
 
-https://www.discovermagazine.com/technology/wifi-signals-used-to-see-people-inside-rooms
+[https://www.discovermagazine.com/technology/wifi-signals-used-to-see-people-inside-rooms](https://www.discovermagazine.com/technology/wifi-signals-used-to-see-people-inside-rooms)
 
-https://www.popularmechanics.com/technology/security/a42575068/scientists-use-wifi-to-see-through-walls/
+[https://www.popularmechanics.com/technology/security/a42575068/scientists-use-wifi-to-see-through-walls/](https://www.popularmechanics.com/technology/security/a42575068/scientists-use-wifi-to-see-through-walls/)
 
 Smart Water ~ Evan
 
-* https://www.moen.com/flo
-
+* [https://www.moen.com/flo](https://www.moen.com/flo)
 
 ## 2023-02-28
 
@@ -213,9 +207,7 @@ Smart Water ~ Evan
 
 ## 2023-02-03
 
-Family member last pass
-BTW, please try:
-LastPass > Left menu > "Emergency Access" > "People Who Trust Me"
+Family member last pass BTW, please try: LastPass > Left menu > "Emergency Access" > "People Who Trust Me"
 
 Luca Turin
 
@@ -237,9 +229,7 @@ Luca Turin
 
 ## 2023-01-09
 
-family member last pass
-BTW, please try:
-LastPass > Left menu > "Emergency Access" > "People Who Trust Me"
+family member last pass BTW, please try: LastPass > Left menu > "Emergency Access" > "People Who Trust Me"
 
 ## 2023-01-02
 
@@ -273,13 +263,7 @@ LastPass > Left menu > "Emergency Access" > "People Who Trust Me"
 
 ## 2022-10-25
 
-Manattt ~ docs 1 & 2 ~ Nov 4 comments?
-Exit Narrative
-Costa Rica
-Start reference file / split journal
-Want Framework?
-Simone/neil
-safe box
+Manattt ~ docs 1 & 2 ~ Nov 4 comments? Exit Narrative Costa Rica Start reference file / split journal Want Framework? Simone/neil safe box
 
 ## 2022-10-18
 
@@ -321,8 +305,7 @@ Document Styling
 
 * Cruise
 * Super73 funding
-* Manatt
-      \* shared folder
+* Manatt   \* shared folder
 
 ## 2022-06-20
 
@@ -349,9 +332,7 @@ Upcoming
 
 ## 2022-03-08
 
-Check is here
-ants smell cancer
-jewelry
+Check is here ants smell cancer jewelry
 
 ## 2021-11-30
 
@@ -399,19 +380,13 @@ jewelry
 
 ### 2021-05-24
 
-Alix:
-To agree on:
+Alix: To agree on:
 
-1. send email to lawyer(s)
-2. Watches: decide to keep or sell. Will reply to Carol
-3. Coins, need to organize them from storage, can’t help in the immediate
+1.  send email to lawyer(s)
+2.  Watches: decide to keep or sell. Will reply to Carol
+3.  Coins, need to organize them from storage, can’t help in the immediate
 
-Daddy:
-Thinking out loud
-Relationship with daughters is purely friendship ~ no obligations or expectations
-Hiring assistants to accomplish the tasks needed to be done
-Players will be mix of meatworld and online
-Effort will be open source and on GitHub
+Daddy: Thinking out loud Relationship with daughters is purely friendship ~ no obligations or expectations Hiring assistants to accomplish the tasks needed to be done Players will be mix of meatworld and online Effort will be open source and on GitHub
 
 ### 2021-05-06
 
@@ -513,8 +488,7 @@ Make good use
 
 ## Digital Marketing
 
-Leah Rosenthal, Director of Digital Marketing
-[leah@websightdesign.com](mailto:leah@websightdesign.com)
+Leah Rosenthal, Director of Digital Marketing [leah@websightdesign.com](mailto:leah@websightdesign.com)
 
 ## Scout
 
@@ -524,8 +498,7 @@ Leah Rosenthal, Director of Digital Marketing
 
 ## Scout ideas
 
-What to do with empty space?
-Photo poster
+What to do with empty space? Photo poster
 
 ## GoPro Fusion
 
@@ -533,31 +506,21 @@ Photo poster
 
 * It's all about the software
 
-[https://www.facebook.com/alixa](https://www.facebook.com/alixa)
-[http://alixarmour.com](http://alixarmour.com)
-[http://akinalighting.com](http://akinalighting.com)
+[https://www.facebook.com/alixa](https://www.facebook.com/alixa) [http://alixarmour.com](http://alixarmour.com) [http://akinalighting.com](http://akinalighting.com)
 
 ## Life ideas
 
-have:
-focus / desire for assembling people / project oriented / excellent multi-channel communications / sense of design
-flexibility / perseverance /
+have: focus / desire for assembling people / project oriented / excellent multi-channel communications / sense of design flexibility / perseverance /
 
 needs developing: antenna
 
-Children ~ if the right magic happens, you will know and you will have. needs right person/right support
-large corporation - zooming up
+Children ~ if the right magic happens, you will know and you will have. needs right person/right support large corporation - zooming up
 
-peeps to talk to? charlotte/arnaud ~ corinne ~ autonomy dude
-peeps look for 35-40 / established success
-the demand: ladies in Tech
+peeps to talk to? charlotte/arnaud ~ corinne ~ autonomy dude peeps look for 35-40 / established success the demand: ladies in Tech
 
-[http://www.brille24.de/](http://www.brille24.de/) ~ web site should be flatter / full screen images
-nimblescooters.com - The World's Original Cargo Scooter
-[http://www.joshfire.com/en/home.html](http://www.joshfire.com/en/home.html)
+[http://www.brille24.de/](http://www.brille24.de/) ~ web site should be flatter / full screen images nimblescooters.com - The World's Original Cargo Scooter [http://www.joshfire.com/en/home.html](http://www.joshfire.com/en/home.html)
 
-[http://www.cg-mobile.com/](http://www.cg-mobile.com/) ~ 10/19/2011 report
-[https://www.igo3d.com/](https://www.igo3d.com/)
+[http://www.cg-mobile.com/](http://www.cg-mobile.com/) ~ 10/19/2011 report [https://www.igo3d.com/](https://www.igo3d.com/)
 
 ## Roxana Piffl
 
