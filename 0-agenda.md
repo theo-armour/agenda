@@ -26,7 +26,6 @@
 
 * ?
 * MikeM
-*   
 * AlexP: msg
 * Josh: call after 21st
 * Margaret jacobs: fun & games
