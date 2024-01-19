@@ -2,6 +2,8 @@
 
 ## Agenda
 
+* pcStick: fix
+* pcMele: ??
 * chromecast: mute
 * Dronatella ~ front Elevation ~ roses
 * Loona
