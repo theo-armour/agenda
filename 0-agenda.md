@@ -71,8 +71,6 @@
 
 * ace: notion Claudia?
 * ace: notify DWA tax return status?
-* ace: share ms365
-* Isabelle my waiver
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">alix</a>
 
