@@ -67,7 +67,7 @@
 
 * ?
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.2 claudia</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-claudia-agenda.md&quot;">1.2 claudia</a>
 
 * ?
 
@@ -104,11 +104,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
 
 * ?
-
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-evereverland/0-evereverland-agenda.md&quot;">3.0 evereverland</a>
-
-* ?
-*
 
 ***
 
