@@ -1,12 +1,14 @@
 # Eloise
 
-https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md
+* https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md
 
 
 ## 2024-01-13
 
+* Arizina run
+* Grand Canyon run
 * arcgis
-* Professors?
+* Professors names?
 
 ## 2023-11-25
 
