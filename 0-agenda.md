@@ -23,7 +23,6 @@
 * ?
 * MikeM
 * Jonathen Liao: dinner here 
-*   
 * Til: Jack ~ Friday 
 * AlexP: msg
 * Josh: call after 21st
@@ -40,7 +39,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* Better Brother scanner?
+*   
 * SW: RSV shot ~ Goodwill
 * Fred:
 * A:
