@@ -15,8 +15,7 @@
 * Chase: appointment
 * Brother: check if fried
 * CK: photo spec
-* HH: Calendar
-* HH: February masthead
+*   
 
 ## Soon
 

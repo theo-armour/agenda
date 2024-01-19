@@ -37,7 +37,6 @@ The following changes will make the calendar easier to format
 -   “Total Body Workout” to “Total Workout”
 
 
-
 ### Resident Directory
 
 -   No changes this month \~ so no need to send out
