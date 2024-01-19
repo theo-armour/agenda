@@ -3,7 +3,7 @@
 ## Agenda
 
 * List all my GitHub orgs
-* Eikon: ??
+* Eikon: cubism 3.0 post
 
   
 
