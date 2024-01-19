@@ -8,7 +8,7 @@
 
 ## February cameo logo
 
--   Idea: Mt Rushmore folks as 90 year olds?
+-   Cupid
 -   See also themes below
 
 ## Content for Next Issue: February 2024
@@ -18,10 +18,10 @@
 -   Trish: Astors book review \~ got it
 -   Doris: ??
 -   Jane: "Silk" Parachute
--   Martha Nell: Article on Sylvie the Chef
+-   Martha Nell: Article on Sylvie the Chef + lucy
 -   Patrick: Sheila + Residents Council or Board?
--   Theo: Aging in Place
--   Miscellany: ??
+-   Theo:
+-   Miscellany: lion
 
 ## Calendar
 
@@ -36,7 +36,6 @@ The following changes will make the calendar easier to format
 -   “Life Enrichment Meeting” to “Activities Mtg”
 -   “Total Body Workout” to “Total Workout”
 
-###
 
 ### Resident Directory
 
