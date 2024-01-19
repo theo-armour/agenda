@@ -15,7 +15,7 @@
 * Chase: appointment
 * Brother: check if fried
 * CK: photo spec
-*   
+* CK: Appraiser
 
 ## Soon
 
@@ -23,19 +23,18 @@
 * MikeM
 * Jonathen Liao: dinner here 
 * Fred Wentker: zoom
-* Til: download program
+* Til: Jack ~ Friday 
 * AlexP: msg
 * Josh: call after 21st
 * Margaret jacobs: fun & games
 * MarJon: photos + scissors
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">will trust</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">will trust</a>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * Better Brother scanner?
 * SW: RSV shot ~ Goodwill
-* Martha?: flowers
 * Fred:
 * A:
 * chromecast: mute
@@ -69,17 +68,17 @@
 * ace: share ms365
 * Isabelle my waiver
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">alix</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">alix</a>
 
 * Alix: web essentials
 * Alix: energy prompt ~ features/benefits ~ ECAT ~ links
 * Alix: Mood mirrors
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
 * ?
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">eloise</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">eloise</a>
 
 * ?
 * Eloise: Grand Canyon run
