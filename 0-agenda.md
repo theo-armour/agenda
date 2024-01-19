@@ -26,8 +26,7 @@
 
 * ?
 * MikeM
-* Jonathen Liao: dinner here 
-* Til: Jack ~ Friday 
+*   
 * AlexP: msg
 * Josh: call after 21st
 * Margaret jacobs: fun & games
