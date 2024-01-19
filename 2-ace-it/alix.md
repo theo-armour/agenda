@@ -1,6 +1,10 @@
 # Alix
 
-  
+## 2024-01-19
+
+* Alix: web essentials
+* Alix: energy prompt ~ features/benefits ~ ECAT ~ links
+* Alix: Mood mirrors
 
 ## 2023-12-07
 
