@@ -2,8 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2023-12-23: 31. Simplicity does not precede complexity, but follows it. [https://cpsc.yale.edu/epigrams-programming](https://cpsc.yale.edu/epigrams-programming)
-* [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)
+* [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)  
 * 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
 * Example: Nature abhors a double negative
 * Find happiness: is a thing
@@ -45,7 +44,6 @@
 * SW: RSV shot ~ Goodwill
 * Fred:
 * A:
-* chromecast: mute
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
