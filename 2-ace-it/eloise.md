@@ -1,9 +1,12 @@
 # Eloise
 
-https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md
+[https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md](https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md)
 
+## 
 
-## 2024-01-13
+##   
+
+2024-01-13
 
 * arcgis
 * Professors?
@@ -19,7 +22,7 @@ https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md
 
 storymap.js actually looks really good, but start with ArcGIS. ;-)
 
-https://opensource.com/alternatives/arcgis
+[https://opensource.com/alternatives/arcgis](https://opensource.com/alternatives/arcgis)
 
 ## 2023-09-16
 
@@ -30,7 +33,6 @@ Eloise helping Kelsey with her 100 mile run in WA. No cell.
 * Ladders of participation?
 * Crisis management course
 
-
 ## 2023-04-29
 
 * Name of group? @gallatinrappelcrew
@@ -38,7 +40,6 @@ Eloise helping Kelsey with her 100 mile run in WA. No cell.
 * Read what papers / magazines / get on same page
 * Montana transgender laws
 * WCU dialog?
-
 
 ## 2023-04-22
 
@@ -72,8 +73,8 @@ CV
 Qualifications
 
 * Many types ~ add auspices ~ fft1?
-* https://www.nwcg.gov/positions/fft1
-* Native in English and French, fluent in Italian and ...
+* [https://www.nwcg.gov/positions/fft1](https://www.nwcg.gov/positions/fft1)
+* Native in English and French, fluent in Italian and …
 
 Education
 
@@ -82,7 +83,6 @@ Education
 Responsibilities
 
 * Categorize ~ See Cynthia Leadership. problem-solving, communication, etc
-
 
 ## 2023-02-02
 
@@ -102,7 +102,6 @@ Ordered SD card for bird feeder
 * Birdfeeder ~ this weekend ~ battery -
 * Ski ~ ten minutes away
 
-
 ## 2022-10-22
 
 * Freedom?
@@ -110,8 +109,7 @@ Ordered SD card for bird feeder
 * 2 lb weights
 * Bird feeder camera
 * PT Kristina?
-* https://en.wikipedia.org/wiki/Asilomar_Conference_Grounds
-
+* [https://en.wikipedia.org/wiki/Asilomar\_Conference\_Grounds](https://en.wikipedia.org/wiki/Asilomar_Conference_Grounds)
 
 ## 2022-04-15
 
@@ -125,27 +123,21 @@ Ordered SD card for bird feeder
 * Bird feeder camera
 * $15K
 
-
 ## 2022-01-15
 
 * Garmin
 
 ## Itinerary
 
-I plan on coming back to SLO Tuesday, spending the night, then going down to Joshua tree on Wednesday.
-I plan on spending the weekend there, mostly camping and doing day hikes, or just 1 night backpacking since water access is very limited.
-Then, drive out to zion. A friend of a friend lives in the town of Springdale, the town by the park, so I'll spend a night there, then spend 4-5 days scrambling around (Angels landing, observation point, kolob, east/west rim trails, la verkin...).
+I plan on coming back to SLO Tuesday, spending the night, then going down to Joshua tree on Wednesday. I plan on spending the weekend there, mostly camping and doing day hikes, or just 1 night backpacking since water access is very limited. Then, drive out to zion. A friend of a friend lives in the town of Springdale, the town by the park, so I'll spend a night there, then spend 4-5 days scrambling around (Angels landing, observation point, kolob, east/west rim trails, la verkin…).
 
-Then, escalante for the coyote gulch back country trail.
-Probably three days? Spend the first night in the town there to restock on food, shower.
+Then, escalante for the coyote gulch back country trail. Probably three days? Spend the first night in the town there to restock on food, shower.
 
 Then, either out straight to monument valley, or stop by bears ears for a night.
 
-Then either grand canyon or Bryce canyon.
-3-5 days.
+Then either grand canyon or Bryce canyon. 3-5 days.
 
-Then death valley!
-I plan on being there for the last week, and maybe have some friends meet me there.
+Then death valley! I plan on being there for the last week, and maybe have some friends meet me there.
 
 ## Daddy Questions
 
@@ -164,8 +156,4 @@ I plan on being there for the last week, and maybe have some friends meet me the
 
 ## Links of Interest
 
-https://www.buzzfeed.com/peggy/essential-winter-camping-hacks?utm_term=.lcK27XPG5#.fuZAqL9d5
-https://www.pinterest.com.au/pin/420594052677457800/
-https://www.pinterest.com/pin/186969822003396421
-https://www.blacks.co.uk/blog/2016/07/ultralight-backpackers-cheat-sheet-multipurpose-hiking-gear
-
+[https://www.buzzfeed.com/peggy/essential-winter-camping-hacks?utm\_term=.lcK27XPG5#.fuZAqL9d5](https://www.buzzfeed.com/peggy/essential-winter-camping-hacks?utm_term=.lcK27XPG5#.fuZAqL9d5) [https://www.pinterest.com.au/pin/420594052677457800/](https://www.pinterest.com.au/pin/420594052677457800/) [https://www.pinterest.com/pin/186969822003396421](https://www.pinterest.com/pin/186969822003396421) [https://www.blacks.co.uk/blog/2016/07/ultralight-backpackers-cheat-sheet-multipurpose-hiking-gear](https://www.blacks.co.uk/blog/2016/07/ultralight-backpackers-cheat-sheet-multipurpose-hiking-gear)
