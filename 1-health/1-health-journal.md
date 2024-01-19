@@ -1,5 +1,17 @@
 # Health Journal
 
+## 2023-12-04
+
+* Urine: clear very light lemonade but tiny white strings - white blood cells
+* Vitals: tmp 95-96 ~ oxy 91-98 ~ pulse 54 - 70+ ~ bp 120/50 - 140/80
+* Sleep: awful until I took a Tylenol
+* Fitness: 1/3rd ?
+* Weight: 175!
+
+
+## 2023-11-27
+
+* Cloudy smelly urine
 
 ## 2023-10-26
 
