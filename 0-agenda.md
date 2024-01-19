@@ -2,7 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)  
+* [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)
 * 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
 * Example: Nature abhors a double negative
 * Find happiness: is a thing
@@ -23,7 +23,7 @@
 * ?
 * MikeM
 * Jonathen Liao: dinner here 
-* Fred Wentker: zoom
+*   
 * Til: Jack ~ Friday 
 * AlexP: msg
 * Josh: call after 21st
