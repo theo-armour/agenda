@@ -93,13 +93,13 @@
 
 ***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
 
 * ?
 
 ***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/0-heritage-agenda.md&quot;">3.0 Heritage</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * @@@
 * Italian Museum: tour
@@ -107,7 +107,7 @@
 * Organist: evensong
 * Emergency: 628 222-3097?
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1 heritage happenings</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 
 * ?
 * Theo: levels of service
@@ -116,7 +116,7 @@
 * Michael Merrill: Ryan Wilmot + article + Substack
 * Sheila & Patrick: article?
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-2-activities/0-activities.md&quot;">3.2 activities</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
 
 * RSV clinic?
 * SharePoint?
@@ -124,13 +124,13 @@
 * Calendar: items in mine
 * Karina: Touchtown errors
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.2 out and about</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.1.2 out and about</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-2-services/0-services.md&quot;">3.2 services</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-services/0-services.md&quot;">3.1.2 services</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-2-wellness/0-wellness.md&quot;">3.2 wellness</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-wellness/0-wellness.md&quot;">3.1.2 wellness</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-3-residents/0-residents.md&quot;">3.3 residents</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-3-residents/0-residents.md&quot;">3.3 residents</a>
 
 * ?
 * Granucci: email?
@@ -139,11 +139,11 @@
 * MJohn: Ann Johnson
 * Mercedes/Leichems: Crenn or Balboa
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-4-residents-council/1-residents-council.md&quot;">3.4 residents council</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a>
 
 * ?
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-5-staff/1-staff.md&quot;">3.5 staff</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-staff/1-staff.md&quot;">3.1.5 staff</a>
 
 * ?
 * TouchTown: Patti?
@@ -152,11 +152,15 @@
 * Heritage: capital projects reports
 * Lunch Jeff Brenner
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/3-5-townhall/0-townhall.md&quot;">3.5 townhall</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a>
 
 ***
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-spider-gbxml/0-spider-gbxml-agenda.md&quot;">3.0 Spider gbXML</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-3-evereverland/0-evereverland-agenda.md&quot;">3.3 evereverland</a>
+
+* ?
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-4-spider-gbxml/0-spider-gbxml-agenda.md&quot;">3.4 Spider gbXML</a>
 
 * Marketing: Want benefits. Prices. Are we all on the same page?
 * Why Google Slides
@@ -167,9 +171,16 @@
 
 ***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-hardware/0-hardware-agenda.md&quot;">4.1 hardware</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-qdata-apps-journal/0-qdata.md&quot;">4.1 qData Apps Journal</a>
 
 * ?
+* 2024: start migration
+* newTab: linkedIn ~ word
+* InfoStuff: birthdays
+* Trayo: fix residents dir
+* NewwwTab: snippets ~ inkedIn ~ word
+* readme.html: document. Title & description update
+* webcam: yosemite
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
 
@@ -181,24 +192,20 @@
 * Contacts: cull
 * Contacts: to Outlook
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-organizations-repos/0-organizations-repos.md&quot;">4.3 organizations repos</a>
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
+
+* ?
+
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-organizations-repos/0-organizations-repos.md&quot;">4.4 organizations repos</a>
 
 * ?
 * Theo Armour: update about
 * Every repo has a line
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qData Apps Journal</a>
 
-* ?
-* 2024: start migration
-* newTab: linkedIn ~ word
-* InfoStuff: birthdays
-* Trayo: fix residents dir
-* NewwwTab: snippets ~ inkedIn ~ word
-* readme.html: document. Title & description update
-* webcam: yosemite
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-5-evereverland/0-evereverland-agenda.md&quot;">4.t evereverland</a>
 
 ## Reminders
 
