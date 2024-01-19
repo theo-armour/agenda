@@ -67,7 +67,7 @@
 * whoop?
 * To Kill
 * Bay Guardian
-* https://www.sfbg.com/2022/10/10/endorsements-fall-2022/
+* [https://www.sfbg.com/2022/10/10/endorsements-fall-2022/](https://www.sfbg.com/2022/10/10/endorsements-fall-2022/)
 
 ## Alix Paine
 
@@ -158,15 +158,10 @@
 * Peter McM
 * Mad VonM
 * Jason Allen
-* Shoeboxed
-  \[\] AlixP / Abby
-  \[\] Doug Dwyer
-  \[\] Bill Kennedy / Randy
-* Drew?? Willito / Raymond / Drew
-  \[\] Johan / Micha: takeaways from meeting/ new GH org
-  \[\] Dr Yoga
+* Shoeboxed \[\] AlixP / Abby \[\] Doug Dwyer \[\] Bill Kennedy / Randy
+* Drew?? Willito / Raymond / Drew \[\] Johan / Micha: takeaways from meeting/ new GH org \[\] Dr Yoga
 
-* * *
+***
 
 ## 2020-07-26
 
