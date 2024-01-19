@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* chromecast: mute
 * Dronatella ~ front Elevation ~ roses
 * Loona
 * Squegg Video
@@ -30,6 +31,6 @@
 
 * clean pages
 
-* * *
+***
 
 <center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.main.scrollTo(0,0);">❦</a></center>
