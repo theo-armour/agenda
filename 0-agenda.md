@@ -96,8 +96,9 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
 
-* WSD: AI
-* Eikon: cubism 1.0 post
+## \* ?
+
+  
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-evereverland/0-evereverland-agenda.md&quot;">3.0 evereverland</a>
 

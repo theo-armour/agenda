@@ -3,6 +3,9 @@
 ## Agenda
 
 * List all my GitHub orgs
+* Eikon: cubism 3.0 post
+
+  
 
 ## BBN ~ [https://bbns.org](https://bbns.org)
 
@@ -26,12 +29,10 @@
 
 ## WSD
 
-* WSD: Gustav  
+* WSD: Gustav
 
 ## Change Log
 
 ***
-
-# 
 
 <center title="hello!"><a href="javascript:main.window.scrollTo(0,0);" style="text-decoration:none;">❦</a></center>
