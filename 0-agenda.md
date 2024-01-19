@@ -212,8 +212,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-hardware/0-hardware-agenda.md&quot;">4.1 hardware</a>
 
 * ?
-* pcStick: fix
-* pcMele: ??
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
 
