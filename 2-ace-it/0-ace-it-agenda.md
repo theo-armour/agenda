@@ -2,89 +2,25 @@
 
 ## Agenda
 
-## 2023-10-29
-
-* Holiday: Christmas + Thanksgiving
-* Traveling with a walker
-* Theo Will & Trust: Waiver to Vivian
-* Family: Tania
-* Tania: address
-* Communications: groups + email + WhatsApp + photos
-
-## 2023-10-04
-
-* Family call
-* Kayakomat: should we buy the new shares?
-* My tax refund: Where to send money?
-* Theo Will & Trust:
-* Holiday: Christmas + Thanksgiving
-* Family: Tania
-* Communications: groups + email + WhatsApp + photos
-
-## 2023-07-02
-
-* Alix: eggs
-* Alix: Ellen Pronk
-* Cynthia: job
-* Eloise
-* Isabelle: touring ~ Aaron
-
-More
-
-* Alex P: moving
-
-## Speech & Writings of Interest
-
-* Style Manual
-* Liberty, fraternity, equality
-* Learning to say Yes
-* Fliteboard article
-* Husk & Stone PP
+* ace: share ms365
+* Isabelle my waiver
 
 ## Topics of conversation
 
-* Subscriptions
-* shared address
-* 440 Exit
-* Jennifer / Sotheby's
-* Storage
-* Wills and trusts
-* All of us
-* EverEverland
+* How to communicate with the family?
 * Family photos & files
-* online access for all
-* Isabelle's PDF
-* Charity Donations
-* Investment strategies
-* Family photographs
-* Isabelle's properties
-* What is a good family?
-* Domain registrations
-* DAF money ~ Jewelry money
-* Pay off Sallie Mae Loans
-
-## what does Theo really want
-
-* Perhaps it's lack of boredom or just disinterest
-
-Mission
-
-* Technical competence ~ shared visions of the nice aspects of tech used wisely
-* A love of art - in touch with something beyond us
-* A sense of history - past and future
-* A sense of agency - we do something useful and purposeful
-* We have huge assets - we use these wisely, nicely and generously
-* We are people of a family ~ we actively engage with others and our own
-* We are smart ~ we can figure things out that helps others
-* We perform ~ maybe it's dancing, or a soccer match or just a swim in the sea - we live in active moments
-* We use each others skills to make the thing that is greater than its parts
-* Party time! ~
-
-We are something more than consumers of media who measure the passage of time by Hallmark Instagram moments
 
 ## Change Log
+
+### 2024-01-18
+
+* Archive stuff
 
 ### 2023-05-10
 
 * Cleaning up the house / adding things to consider
-* readme.html to Markdown file 2021-11-07-
+* readme.html to Markdown file 2021-11-07
+
+***
+
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
