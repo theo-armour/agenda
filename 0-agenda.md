@@ -7,6 +7,12 @@
 * Example: Nature abhors a double negative
 * Find happiness: is a thing
 * If there's an issue to nip in the bud, then throw money at it
+* 2024-01-19 ~ If you see something, say something ~ Michael Howard
+* If you think something, write something  
+* If you hear something, sing something
+* If you taste something, digest something
+* If you smell something, remember something
+* If you touch something, feel something
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a>
 
