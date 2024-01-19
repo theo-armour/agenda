@@ -97,11 +97,6 @@
 
 * ?
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-evereverland/0-evereverland-agenda.md&quot;">3.0 evereverland</a>
-
-* ?
-* WordPress: 100-year Site
-
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-heritage/0-heritage-agenda.md&quot;">3.0 Heritage</a>
@@ -161,7 +156,7 @@
 
 ***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-spider-gbxml/0-spider-gbxml-agenda.md&quot;">3.0 Spider gbXML</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-spider-gbxml/0-spider-gbxml-agenda.md&quot;">3.0 Spider gbXML</a>
 
 * Marketing: Want benefits. Prices. Are we all on the same page?
 * Why Google Slides
@@ -194,6 +189,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qData Apps Journal</a>
 
+* ?
 * 2024: start migration
 * newTab: linkedIn ~ word
 * InfoStuff: birthdays
@@ -201,6 +197,8 @@
 * NewwwTab: snippets ~ inkedIn ~ word
 * readme.html: document. Title & description update
 * webcam: yosemite
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-5-evereverland/0-evereverland-agenda.md&quot;">4.t evereverland</a>
 
 ## Reminders
 
