@@ -1,29 +1,54 @@
 # 2.0 Peeps Agenda
 
+## Agenda
+
+* Anders Grigel:
+* Anders ~ Jurgen Habermas & the bourgeois public ~ Jena Germany sphere
+* Andranik
+* Aselia A:
+* Arvind Saxena:
+* Chris Bradshaw
+* Emily Brennan: ??
+* Floris: web sites
+* Jason Carman:
+* JenCarPey: A
+* Jonathen Liao: dinner here late January
+* Jonathan K Rubin, \\415 215 3724
+* Jorge Vasquez: Michael Merrill
+* Jose Leos:
+* Kathy & Richard: thanks
+* Khoren: Myint
+* Larry Albukerk: back early August
+* Laura Wagner:
+* Mark Linton: latex to python
+* Matthew Fuchs:
+* Mia Grosjean: talk
+* Mia Harlock: CynthiaM for meal
+* Nienke Hoffman: reply
+* Olga: Heritage Happenings
+* Omar Woodworth: dinner
+* Paula Cornyn: update
+* Peter Dobey:???
+* Ray Eisenberg
+* Randy Morgan: Published Agenda
+* Richard Caro: Zoom ~ Heritage Happenings
+* Rory Johnson:
+* Santani Teng: agenda ~ read papers
+* Simone: contacts?
+* Stephan Breuer: exhibit
+* Taylor Schmidt:
+* Vish: threejs physics ~ wp adds
+* Zach: temtop
+
 ## Things to Consider
 
-* JenCarPey: A
-* Mia: CynthiaM for meal
-* Mia Grosjean: talk
-* Larry Albukerk: back early August
-* Arvind
-* Anders ~ Jurgen Habermas & the bourgeois public ~ Jena Germany sphere
-* Jonathan K Rubin, \\415 215 3724
-* Andranik
 * Alix P
-* Tania ~ Kip
-* Corinne ~ Allison Armour
 * ?
 
 ## Nienke
 
 * Lunch ?
 
-## Myint
-
-* Khoren
-
-* Tu Phone ~ clip
 
 ## Cookie
 
