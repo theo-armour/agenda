@@ -54,10 +54,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
 * ?
-* Dr K: thanks
-* Gary Richmond: msg
-* UCSF: Eyes checkup
-* UCSF: Ortho appointment
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
 
@@ -67,7 +63,7 @@
 
 * ?
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-claudia-agenda.md&quot;">1.2 claudia</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.2 claudia</a>
 
 * ?
 
@@ -104,6 +100,10 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
 
 * ?
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-evereverland/0-evereverland-agenda.md&quot;">3.0 evereverland</a>
+
+* ? \*
 
 ***
 
@@ -200,20 +200,15 @@
 * Contacts: cull
 * Contacts: to Outlook
 
-
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
 
 * ?
-
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-organizations-repos/0-organizations-repos.md&quot;">4.4 organizations repos</a>
 
 * ?
 * Theo Armour: update about
 * Every repo has a line
-
-
-
 
 ## Reminders
 
