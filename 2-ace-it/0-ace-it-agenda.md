@@ -4,6 +4,8 @@
 
 * ace: share ms365
 * Isabelle my waiver
+* Notion ~ permissions
+* Tania's recollections to PDF ~ transcripts
 
 ## Topics of conversation
 
@@ -23,4 +25,4 @@
 
 ***
 
-<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
+<center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);">❦</a></center>
