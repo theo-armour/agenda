@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* Better Brother scanner?
 * pcStick: fix
 * pcMele: ??
 * chromecast: mute
