@@ -39,8 +39,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-*   
-* SW: RSV shot ~ Goodwill
+* * SW: RSV shot ~ Goodwill
 * Fred:
 * A:
 
@@ -92,37 +91,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
-* ??
-* Omar Woodworth: dinner
-* Jonathen Liao: dinner here late January
-* Anders Grigel:
-* Aselia A:
-* Arvind Saxena:
-* Chris Bradshaw
-* Emily Brennan: ??
-* Floris: web sites
-* Jason Carman:
-* Jorge Vasquez: Michael Merrill
-* Jose Leos:
-* Kathy & Richard: thanks
-* Khoren:
-* Laura Wagner:
-* Mark Linton: latex to python
-* Matthew Fuchs:
-* Nienke Hoffman: reply
-* Olga: Heritage Happenings
-* Paula Cornyn: update
-* Peter Dobey:???
-* Ray Eisenberg
-* Randy Morgan: Published Agenda
-* Richard Caro: Zoom ~ Heritage Happenings
-* Rory Johnson:
-* Santani Teng: agenda ~ read papers
-* Simone: contacts?
-* Stephan Breuer: exhibit
-* Taylor Schmidt:
-* Vish: threejs physics ~ wp adds
-* Zach: temtop
+* ??  
 
 ***
 
