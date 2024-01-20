@@ -3,7 +3,6 @@
 ## Setup 2024 repos
 
 * Theo Agenda
-* MMMMMM
 * Theo 2024
 
 ## Possession De-acquisitions
