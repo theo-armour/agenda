@@ -17,6 +17,8 @@
 
 **Today**
 
+* Mary L: strategic plan file
+* Olga A: swim + Ferguson
 * Carmen Brooks: meeting + estimate
 * Chase: appointment
 * Brother: check if fried
