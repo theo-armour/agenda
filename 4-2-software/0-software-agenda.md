@@ -6,6 +6,12 @@
 
 ## Agenda
 
+* Look into AI coach
+* Heritage: calendar
+* Birthdays: in both my calendars
+* Contacts: backup
+* Contacts: cull
+* Contacts: to Outlook
 * 2023-11-16~ Move as much as possible to Pages
 
 ## AutoHotKey

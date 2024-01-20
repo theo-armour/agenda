@@ -1,7 +1,14 @@
 # 4.0 Tech ~ My Apps ~ Agenda
 
-## Agenda
+## Agend
 
+* 2024: start migration
+* newTab: linkedIn ~ word
+* InfoStuff: birthdays
+* Trayo: fix residents dir
+* NewwwTab: snippets ~ inkedIn ~ word
+* readme.html: document. Title & description update
+* webcam: yosemite
 *   Find Wikipedia equivalent categories for my folder names ~ topics
 *   spreadsheet mailing list
 

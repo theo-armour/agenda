@@ -10,10 +10,10 @@
 *   Add list of my org & repos 
 *   Extract interesting documents and add to pages
 *   Rejig Demos
-*     
-    
+* Theo Armour: update about
+* Every repo has a line
 
-  
+
 
 * * *
 
