@@ -3,10 +3,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)
-*   
-* If there's an issue to nip in the bud, then throw money at it
+* * If there's an issue to nip in the bud, then throw money at it
 * 2024-01-19 ~ If you see something, say something ~ Michael Howard
-* If you think something, write something  
+* If you think something, write something
 * If you hear something, sing something
 * If you taste something, digest something
 * If you smell something, remember something
@@ -141,11 +140,6 @@
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-3-residents/0-residents.md&quot;">3.3 residents</a>
 
 * ?
-* Granucci: email?
-* MargaretM: SDGs
-* MJohn: sharpen scissors
-* MJohn: Ann Johnson
-* Mercedes/Leichems: Crenn or Balboa
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a>
 
