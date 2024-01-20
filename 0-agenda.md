@@ -16,8 +16,7 @@
 
 **Today**
 
-*   
-* Carmen Brooks: meeting + estimate
+* Carmen Brooks: meeting + estimate  
 * Chase: appointment
 * Brother: check if fried
 * CK: photo spec
