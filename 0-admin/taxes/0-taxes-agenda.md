@@ -21,7 +21,7 @@
 
 \* Baker Tilley
 
-\* Donations
+\* Charity ~ SPS ~ BBN ~ Syracuse ~ Heritage
 
 ### 2024 Estimated Taxes
 
