@@ -2,6 +2,11 @@
 
 ## Agenda
 
+**\* Jorge <> Michael Merrill**
+
+**## Peeps  
+**
+
 * Anders Grigel:
 * Anders ~ Jurgen Habermas & the bourgeois public ~ Jena Germany sphere
 * Andranik
@@ -25,7 +30,7 @@
 * Mia Grosjean: talk
 * Mia Harlock: CynthiaM for meal
 * Nienke Hoffman: reply
-* Olga: Heritage Happenings
+* Olga A: Heritage Happenings
 * Omar Woodworth: dinner
 * Paula Cornyn: update
 * Peter Dobey:???
@@ -48,7 +53,6 @@
 ## Nienke
 
 * Lunch ?
-
 
 ## Cookie
 
