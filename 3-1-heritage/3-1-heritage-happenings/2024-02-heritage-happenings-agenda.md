@@ -19,8 +19,9 @@
 -   Doris: ??
 -   Jane: "Silk" Parachute
 -   Martha Nell: Article on Sylvie the Chef + lucy
--   Patrick: Sheila + Residents Council or Board?
--   Theo:
+-   Patrick: Sheila: Hong Kong, Taiwan, Singapore
+-   Patrick: Residents Council or Board?
+-   Theo: levels of service
 -   Miscellany: lion
 
 ## Calendar

@@ -2,6 +2,14 @@
 
 * Amazon for the aged ~ designated shopper Karina Margaret
 
+## Agenda
+
+* RSV clinic?
+* SharePoint?
+* Karina: TheKey
+* Calendar: items in mine
+* Karina: Touchtown errors
+
 ## Events
 
 * MalibuBuckeroo.com ~ ??

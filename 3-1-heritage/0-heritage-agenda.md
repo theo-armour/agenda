@@ -1,6 +1,12 @@
 # 3.0 Heritage Agenda
 
+## Agenda
 
+* Michael Merrill: Ryan Wilmot + article + Substack
+* Italian Museum: tour
+* Men's group outing
+* Organist: evensong
+* Emergency: 628 222-3097
 
 ***
 

@@ -1,14 +1,17 @@
 # 3.1 Heritage Happenings
 
+
+
 ## Heritage Happenings Submissions Guidelines
 
-Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q](https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q)
+Link: https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q
 
 ## Heritage Happenings Reference Manual & Style Guide
 
-Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc](https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc)
+Link: https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc
 
-**Actions**  
+
+**Actions**
 
 * Photo quiz: with MargaretM
 * Submission Guide

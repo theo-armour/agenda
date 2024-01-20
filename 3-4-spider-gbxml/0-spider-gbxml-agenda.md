@@ -2,10 +2,18 @@
 
 ## Agenda
 
-* Spider bug ~ [Transparancy · Issue #54 · ladybug-tools/spider-gbxml-tools (github.com)](https://github.com/ladybug-tools/spider-gbxml-tools/issues/54)
+* Marketing: Want benefits. Prices. Are we all on the same page?
+* Why Google Slides
+* Features & Benefits ~ "What is going on here?" page for the "Boss"
+* Use shap-e
+* Zia-programmer: scratch
+* Zia: @@@ music video
+* Spider bug ~ https://github.com/ladybug-tools/spider-gbxml-tools/issues/54
 * Mostapha ~ ny times ~ construction productivity
 * The Successful How-To
 * Mostapha ~ mktg video: link?
+
+
 
 ## Connect
 
