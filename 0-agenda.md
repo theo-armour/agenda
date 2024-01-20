@@ -24,7 +24,7 @@
 **Soon**
 
 * ?
-* Check business card: Ombund + MM
+*   
 * MikeM
 * Michael: Jorge
 * AlexP: msg
