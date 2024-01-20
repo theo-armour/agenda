@@ -15,6 +15,7 @@
 
 **Today**
 
+* Mary L: strategic plan file
 * Carmen Brooks: meeting + estimate
 * Chase: appointment
 * Brother: check if fried
