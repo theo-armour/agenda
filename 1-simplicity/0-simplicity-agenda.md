@@ -4,20 +4,13 @@
 
 ## Theo
 
-* Photographer spec to Claudia
-* Spec to Sandberg
+* Spec to Sandberg  
 
 ## ECAT
 
 * Decide 12 chairs
 * Decide furniture
 * Claudia in notion
-
-## Claudia
-
-* Claudia: Douglas Sandberg: first contact
-* Claudia: appraisels + shipper + geni + editor
-* More links
 
 ## Rico
 
@@ -29,4 +22,4 @@
 
 ## Lawrence Fine Art
 
-* Lawrence: last exta pay in feb?
+* Lawrence: last extra pay in feb?
