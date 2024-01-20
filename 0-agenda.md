@@ -5,6 +5,8 @@
 * [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)
 * \* If there's an issue to nip in the bud, then throw money at it
 * 2024-01-19 ~ If you see something, say something ~ Michael Howard
+
+* If you see something, say something
 * If you think something, write something
 * If you hear something, sing something
 * If you taste something, digest something
