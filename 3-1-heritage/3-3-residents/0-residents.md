@@ -3,6 +3,7 @@
 
 ## Agend
 
+* Maretha Nell: Julia Morgan H plans
 * Granucci: email?
 * MargaretM: SDGs
 * MJohn: sharpen scissors

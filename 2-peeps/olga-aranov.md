@@ -1,9 +1,22 @@
 # Olga Aranov
 
+## 2024-01-19
+
+* https://skillswimming.com/swimming-camp/
+* https://www.usms.org/
+* https://www.swimtrek.com/
+* https://www.swimtrek.com/usms
+* https://swimswam.com/training/swim-camps/
+
+Walter Ferguson
+
+* https://en.wikipedia.org/wiki/Walter_Ferguson_(singer-songwriter)
+* https://www.youtube.com/watch?v=NxEUzFhjs8E&t=76s
+
+
 ## 2023-11-03
 
 Suzie's Cakes & Cal Wine / dinner HotM with Nina
-
 
 ## 2023-06-08
 
