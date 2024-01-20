@@ -1,6 +1,16 @@
 
 # Residents
 
+## Agend
+
+* Granucci: email?
+* MargaretM: SDGs
+* MJohn: sharpen scissors
+* MJohn: Ann Johnson
+* Mercedes/Leichems: Crenn or Balboa
+
+## Margaret Jacobs
+
 * Margaret: https://www.dwt.com/-/media/files/news/2013/01/quoted-in-hipaa-can-pose-unique-challenges-for-ass/files/boh-jan-2013/fileattachment/boh-jan-2013.pdf
 
 ## Agenda
