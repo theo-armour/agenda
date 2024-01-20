@@ -1,12 +1,9 @@
 # 0 Admin Personal
 
-## Setup 2020 repos
+## Setup 2024 repos
 
-\* Theo Agenda
-
-\* Theo 2024
-
-  
+* Theo Agenda
+* Theo 2024
 
 ## Possession De-acquisitions
 

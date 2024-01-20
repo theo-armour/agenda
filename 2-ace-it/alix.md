@@ -1,20 +1,20 @@
 # Alix
 
+## 2024-01-19
+
+* Alix: web essentials
+* Alix: energy prompt ~ features/benefits ~ ECAT ~ links
+* Alix: Mood mirrors
+
 ## 2023-12-07
 
 * Ronan Berder / Damien
 
-  
-
 ## 2024-01-18
 
-\* Storage update
-
-\* Notion ~ usage
-
-\* Notion ~ Claudia
-
-  
+* Storage update
+* Notion ~ usage
+* Notion ~ Claudia
 
 ## 2023-10-05
 

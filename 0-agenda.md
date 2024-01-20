@@ -3,10 +3,14 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)
-* 2024-01-02 ~ theo: sometimes you just have to dive in and then you find your sea legs ~ [https://en.wikipedia.org/wiki/Anti-proverb](https://en.wikipedia.org/wiki/Anti-proverb)
-* Example: Nature abhors a double negative
-* Find happiness: is a thing
+*   
 * If there's an issue to nip in the bud, then throw money at it
+* 2024-01-19 ~ If you see something, say something ~ Michael Howard
+* If you think something, write something  
+* If you hear something, sing something
+* If you taste something, digest something
+* If you smell something, remember something
+* If you touch something, feel something
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a>
 
@@ -22,8 +26,6 @@
 
 * ?
 * MikeM
-* Jonathen Liao: dinner here 
-* Til: Jack ~ Friday 
 * AlexP: msg
 * Josh: call after 21st
 * Margaret jacobs: fun & games
@@ -71,13 +73,11 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* ace: notion Claudia?
+* ?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">alix</a>
 
-* Alix: web essentials
-* Alix: energy prompt ~ features/benefits ~ ECAT ~ links
-* Alix: Mood mirrors
+* ?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
