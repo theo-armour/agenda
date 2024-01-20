@@ -28,7 +28,7 @@
 * MikeM
 * Michael: Jorge
 * AlexP: msg
-* Peter D: 
+
 * Josh: call after 21st
 * Margaret jacobs: Pinr Park + fun & games
 * MarJon: photos + scissors
