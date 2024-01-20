@@ -116,11 +116,7 @@
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
 
-* RSV clinic?
-* SharePoint?
-* Karina: TheKey
-* Calendar: items in mine
-* Karina: Touchtown errors
+* ?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.1.2 out and about</a>
 
@@ -139,11 +135,6 @@
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-staff/1-staff.md&quot;">3.1.5 staff</a>
 
 * ?
-* TouchTown: Patti?
-* Praveen
-* Fire alarm test: announce
-* Heritage: capital projects reports
-* Lunch Jeff Brenner
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a>
 
@@ -162,23 +153,10 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-qdata-apps-journal/0-qdata.md&quot;">4.1 qData Apps Journal</a>
 
 * ?
-* 2024: start migration
-* newTab: linkedIn ~ word
-* InfoStuff: birthdays
-* Trayo: fix residents dir
-* NewwwTab: snippets ~ inkedIn ~ word
-* readme.html: document. Title & description update
-* webcam: yosemite
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
 
 * ?
-* Look into AI coach
-* Heritage: calendar
-* Birthdays: in both my calendars
-* Contacts: backup
-* Contacts: cull
-* Contacts: to Outlook
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
 
@@ -187,8 +165,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-organizations-repos/0-organizations-repos.md&quot;">4.4 organizations repos</a>
 
 * ?
-* Theo Armour: update about
-* Every repo has a line
 
 ## Reminders
 
