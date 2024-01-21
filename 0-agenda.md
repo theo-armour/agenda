@@ -16,8 +16,7 @@
 
 **Today**
 
-* Chase: appointment  
-* Brother: check if fried
+* Chase: appointment
 * CK: photo spec
 * CK: Appraiser
 
