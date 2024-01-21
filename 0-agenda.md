@@ -111,7 +111,7 @@
 
 * ?
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/2024/02-february/2024-02-heritage-happenings-agenda.md&quot;">February</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/2024/02-february/2024-02-heritage-happenings-agenda.md&quot;">Februry</a>
 
 * ?
 
