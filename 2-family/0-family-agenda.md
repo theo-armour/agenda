@@ -2,6 +2,8 @@
 
 ## Agenda
 
+* ?
+  
 ## Things to consider
 
 * Iliad
@@ -10,18 +12,18 @@
 * Dawn of Everything
 * Genealogy
 
+## Tania
+
+* 
+
 ## Allison
 
 * Santa Barbara housing project
 * Swan Lake Ballet February 24 ~ driver ~ resto
 
-## Tania
-
-
 ## Philip
 
 * Alex
-
 
 ## email
 
