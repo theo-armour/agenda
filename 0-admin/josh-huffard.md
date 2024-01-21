@@ -1,9 +1,16 @@
 # Josh
 
 
-## Questions for January
+## Questions for January 2024
+
 
 * Date next meeting?
+* Look at quarterly report
+* Did you ever have Nvidia on your radar?
+* $100K to Cynthia for house
+* PLE ~ sorry
+* Will & Trust: Lea?
+* Manatt: awful & expensive
 
 ## 2023-05-04
 

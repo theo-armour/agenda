@@ -1,5 +1,10 @@
 # Insurance
 
+## Agenda
+
+* Check Blue Shield
+* Dental insurance?
+
 ## Actions
 
 * Public Storage insurance

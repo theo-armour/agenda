@@ -2,16 +2,56 @@
 
 ## 2024-01-19
 
-* https://skillswimming.com/swimming-camp/
-* https://www.usms.org/
-* https://www.swimtrek.com/
-* https://www.swimtrek.com/usms
-* https://swimswam.com/training/swim-camps/
+If needed: https://www.youtube.com/watch?v=hE1PYCQ159k
 
-Walter Ferguson
+Hi Olga
 
-* https://en.wikipedia.org/wiki/Walter_Ferguson_(singer-songwriter)
-* https://www.youtube.com/watch?v=NxEUzFhjs8E&t=76s
+Thank you for your message full of cool links. I heart good links.
+
+Yes. It was a good, engaging dinner. I particularly enjoyed learning about the concept of musicianship. It’s obvious when you think about it but, heh heh, I have never heard it before.
+
+Here are my links:
+
+### Swimming Camps
+
+There are a number of organizations offering swimming camps in the US. Could you get one interested in sponsoring a camp at Cahuita?? Below are some of the ones that I have found.
+I see that Skill Swimming offers camps in Peru. The one for this year is already fully booked. So why not Costa Rica as well?
+
+• https://skillswimming.com/swimming-camp/
+• https://www.usms.org/
+• https://www.swimtrek.com/
+• https://www.swimtrek.com/usms
+• https://swimswam.com/training/swim-camps/
+
+### Investors
+
+Looking for potential investors in a swimming camp program in Costa Rica. Two approaches:
+• Contacts offered by the swimming camps - such as the the ones listed above
+• Wealthy people in the Costa Rican community in the Bay area
+
+### My Nephew
+Lock Cooper lives in Tamarindo.
+He is associated with: https://rpmrealestatecr.com/ and he owns a wine bar there.
+
+
+### Walter Ferguson
+
+• https://en.wikipedia.org/wiki/Walter_Ferguson_(singer-songwriter)
+• https://www.youtube.com/watch?v=NxEUzFhjs8E&t=76s
+Ferguson reminds me of a calypso musician I remember from the 60s George Symonette - Calypso and Goombay Rhythms
+
+• https://www.youtube.com/watch?v=_jCTVrsT2PI&t=980s
+
+
+### Phone numbers
+
+Me: 415 828 0000
+You: ??
+
+
+Cheers,
+Theo
+
 
 
 ## 2023-11-03

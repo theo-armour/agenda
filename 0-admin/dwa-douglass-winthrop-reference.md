@@ -2,10 +2,7 @@
 
 * 212-557-7680
 
-## DWA
 
-* IRA distribution
-* Donor Advised Fund
 
 ## Josh / DWA
 
