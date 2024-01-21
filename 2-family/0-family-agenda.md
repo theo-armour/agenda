@@ -3,7 +3,7 @@
 ## Agenda
 
 * ?
-  
+
 ## Things to consider
 
 * Iliad
@@ -14,7 +14,7 @@
 
 ## Tania
 
-* 
+## \* ?  
 
 ## Allison
 
@@ -27,10 +27,10 @@
 
 ## email
 
-* ace-it@groups.io
-* AldenSmith@gmail.com
-* allison@allisonarmour.com
-* davidlmorgan.01@gmail.com
-* jonathangterry@gmail.com
-* Juliettevka@gmail.com
-* taniabecker8@gmail.com
+* [ace-it@groups.io](mailto:ace-it@groups.io)
+* [AldenSmith@gmail.com](mailto:AldenSmith@gmail.com)
+* [allison@allisonarmour.com](mailto:allison@allisonarmour.com)
+* [davidlmorgan.01@gmail.com](mailto:davidlmorgan.01@gmail.com)
+* [jonathangterry@gmail.com](mailto:jonathangterry@gmail.com)
+* [Juliettevka@gmail.com](mailto:Juliettevka@gmail.com)
+* [taniabecker8@gmail.com](mailto:taniabecker8@gmail.com)
