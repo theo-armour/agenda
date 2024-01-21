@@ -20,7 +20,7 @@
 ## Work-in-progress
 
 * Skin clinic ~ Dermatology visits
-* [Sara's Medical Advocacy & Planning (sarasmap.com)](https://www.sarasmap.com/)
+* [Sara's Medical Advocacy & Planning ~ https://www.sarasmap.com/
 * Three books on aging for the library
 * Laura Wagner
 * Linda Hibbs: email & phone

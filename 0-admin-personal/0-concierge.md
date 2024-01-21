@@ -52,11 +52,12 @@ Fredericksen on way home from Perry's
 
 * Winter barefoot shoes
 * Shirts ~ Orvis
+
+
+## Deprecated
+
 * Bidet
 * Bidet ~ https://cowaymega.com/products/bidetmega-400
-
-Deprecated?
-
 * Alinker
 * Food Scale??
 * DiBlasi folding trike

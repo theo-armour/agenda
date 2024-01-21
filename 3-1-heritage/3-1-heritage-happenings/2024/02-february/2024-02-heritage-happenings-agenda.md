@@ -1,4 +1,4 @@
-# 2024-02 February \~ Heritage Happenings Agenda
+# 2024-02 February ~ Heritage Happenings Agenda
 
 ## January issue
 
