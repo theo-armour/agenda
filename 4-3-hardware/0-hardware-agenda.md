@@ -5,7 +5,6 @@
 * Better Brother scanner?
 * pcStick: fix
 * pcMele: ??
-* chromecast: mute
 * Dronatella ~ front Elevation ~ roses
 * Loona
 * Squegg Video

@@ -5,7 +5,6 @@
 * [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)
 * \* If there's an issue to nip in the bud, then throw money at it
 * 2024-01-19 ~ If you see something, say something ~ Michael Howard
-
 * If you see something, say something
 * If you think something, write something
 * If you hear something, sing something
@@ -17,11 +16,7 @@
 
 **Today**
 
-* Mary L: strategic plan file
-* Olga A: swim + Ferguson
-* Carmen Brooks: meeting + estimate
-* Chase: appointment
-* Brother: check if fried
+*   
 * CK: photo spec
 * CK: Appraiser
 
@@ -29,9 +24,10 @@
 
 * ?
 * MikeM
+* Michael: Jorge
 * AlexP: msg
-* Josh: call after 21st
-* Margaret jacobs: fun & games
+* Josh: call after 21st  
+* Margaret jacobs: Pine Park + fun & games
 * MarJon: photos + scissors
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
