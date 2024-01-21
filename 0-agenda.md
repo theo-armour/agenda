@@ -2,8 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)
-* 2024-01-19 ~ If you see something, say something ~ Michael Howard
+* 2024-01-19 ~ If you see something, say something ~ Michael Howard  
 * If you see something, say something
 * If you think something, write something
 * If you hear something, sing something
@@ -15,8 +14,8 @@
 
 **Today**
 
-* CK: photo spec
-* CK: Appraiser
+* \* CK: photo spec  
+    * CK: Appraiser
 
 **Soon**
 
