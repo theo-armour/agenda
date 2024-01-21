@@ -3,7 +3,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * [Theo Armour - YouTube](https://www.youtube.com/@TheoArmour/shorts)
-* \* If there's an issue to nip in the bud, then throw money at it
 * 2024-01-19 ~ If you see something, say something ~ Michael Howard
 * If you see something, say something
 * If you think something, write something
@@ -16,7 +15,7 @@
 
 **Today**
 
-* * CK: photo spec  
+* \* CK: photo spec  
     * CK: Appraiser
 
 **Soon**
