@@ -2,7 +2,6 @@
 
 ## Agenda
 
-* Lawrence Art: Update monthly
 * Sallie Mae: check the numbers ~ continue payments
 * Check Direct debits - make list
 
