@@ -16,9 +16,8 @@
 
 **Today**
 
-*   
-* CK: photo spec
-* CK: Appraiser
+* * CK: photo spec  
+    * CK: Appraiser
 
 **Soon**
 
@@ -26,7 +25,7 @@
 * MikeM
 * Michael: Jorge
 * AlexP: msg
-* Josh: call after 21st  
+* Josh: call after 21st
 * Margaret jacobs: Pine Park + fun & games
 * MarJon: photos + scissors
 
