@@ -1,6 +1,12 @@
 # Eloise
 
-* https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md
+* [https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md](https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md)
+
+  
+
+## 2024-01-20
+
+\* Lolo ran a marathon today
 
 ## 2024-01-13
 
@@ -20,8 +26,7 @@
 
 storymap.js actually looks really good, but start with ArcGIS. ;-)
 
-https://opensource.com/alternatives/arcgis
-
+[https://opensource.com/alternatives/arcgis](https://opensource.com/alternatives/arcgis)
 
 ## 2023-09-16
 
