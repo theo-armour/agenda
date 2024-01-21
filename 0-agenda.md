@@ -23,7 +23,6 @@
 **Soon**
 
 * ?
-*   
 * MikeM
 * Michael: Jorge
 * AlexP: msg
