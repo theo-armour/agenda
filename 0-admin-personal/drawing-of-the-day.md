@@ -2,8 +2,6 @@
 
 ## Tasks
 
-* SotD: DotD > check all dwgs scanned
-
 
 ## dall-e
 

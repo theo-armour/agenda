@@ -2,7 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-01-19 ~ If you see something, say something ~ Michael Howard  
+* 2024-01-19 ~ If you see something, say something ~ Michael Howard
 * If you see something, say something
 * If you think something, write something
 * If you hear something, sing something
@@ -14,7 +14,7 @@
 
 **Today**
 
-* \* CK: photo spec  
+* \* CK: photo spec
     * CK: Appraiser
 
 **Soon**
@@ -108,6 +108,10 @@
 * ?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
+
+* ?
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/2024/02-february/2024-02-heritage-happenings-agenda.md&quot;">February</a>
 
 * ?
 
