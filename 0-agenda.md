@@ -16,7 +16,7 @@
 
 **Today**
 
-* Chase: appointment
+*   
 * CK: photo spec
 * CK: Appraiser
 
