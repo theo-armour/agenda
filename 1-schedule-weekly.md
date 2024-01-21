@@ -1,7 +1,5 @@
 # 0.1 Schedule Weekly
 
-
-
 ## Maybe 
 
 I could schedule each day of the week to a task.
@@ -18,15 +16,16 @@ Weekends: whatever + admin
 ## Monday
 
 Review
+
 * Admin agenda
 * Check Calendar ~ add items
 * Run though my lists of Agendas
 
 Today
+
 * 4pm coffee
 * Margaret Johnson dinner?
 * 5pm ~ Cynthia call
-
 
 ## Tuesday
 
@@ -84,6 +83,7 @@ Morning
 * Soak butt rags
 
 Review
+
 * Family agenda
 * Eloise call
 * Manage bookmarks
@@ -99,6 +99,7 @@ Afternoon or Evening
 After breakfast
 
 * Trim nose hair
+* Change water in sprouts vase
 * Wash eyeglasses
 * Tidy bathroom cupboard
 
@@ -107,6 +108,6 @@ Afternoon
 * Basement: mail + batteries + shredding
 * Photography excursion + Long Now
 
-* * *
+***
 
 <center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);">❦</a></center>
