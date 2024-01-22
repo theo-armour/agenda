@@ -14,8 +14,8 @@
 
 **Today**
 
-* \* CK: photo spec
-    * CK: Appraiser
+* CK: photo spec
+* CK: Appraiser
 
 **Soon**
 
