@@ -16,6 +16,8 @@
 
 * CK: photo spec
 * CK: Appraiser
+* Alix: FinDes links
+* Activities: draft calendar
 
 **Soon**
 
