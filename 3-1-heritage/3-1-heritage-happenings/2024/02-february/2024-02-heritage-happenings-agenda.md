@@ -1,18 +1,16 @@
 # 2024-02 February ~ Heritage Happenings Agenda
 
-## 
+* Newsleter: prepare template
+* 
 
-## Agenda
+## February ~ Production
 
-## \* Calendar: first draft
+Doc file
 
-January issue
+* prepare first pass
 
-* Calendar: December: oops!
-* Resident Directory ~ Terry Moughan oops!
-* Newsletter: the style is settling down and OK but a bit bland
-
-## February cameo logo
+* 
+cameo logo
 
 * Cupid
 * See also themes below
@@ -23,7 +21,7 @@ January issue
 * Margaret Missiaen: Garden article
 * Trish: Astors book review ~ got it
 * Doris: ??
-* Jane: "Silk" Parachute
+* Jane: "Silk" Form Parachutes to Petticoats
 * Martha Nell: Article on Sylvie the Chef + lucy
 * Patrick: Sheila: Hong Kong, Taiwan, Singapore
 * Patrick: Residents Council or Board?
@@ -32,7 +30,16 @@ January issue
 
 ## Calendar
 
+* Calendar: first draft sent
+* Message re movie conflicts
+ 
 May try to list all three days of movies: Friday, Saturday, & Sunday
+
+## January issue
+
+* Calendar: December: oops!
+* Resident Directory ~ Terry Moughan oops!
+* Newsletter: the style is settling down and OK but a bit bland
 
 ### Changes in activity titles
 
