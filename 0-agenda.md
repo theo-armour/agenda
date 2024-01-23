@@ -15,7 +15,7 @@
 **Today**
 
 * CK: photo spec
-* CK: Appraiser
+* CK: furniture in storage doc
 * Alix: FinDes links
 * Activities: draft calendar
 
