@@ -23,6 +23,7 @@
 **Soon**
 
 * ?
+* Joe: Final Design
 * MikeM
 * Michael: Jorge
 * AlexP: msg
