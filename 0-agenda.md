@@ -14,8 +14,10 @@
 
 **Today**
 
-* \* CK: photo spec
-    * CK: Appraiser
+* CK: photo spec
+* CK: Appraiser
+* Alix: FinDes links
+* Activities: draft calendar
 
 **Soon**
 
@@ -24,7 +26,7 @@
 * Michael: Jorge
 * AlexP: msg
 * Josh: call after 21st
-* Margaret jacobs: Pine Park + fun & games
+* Margaret jacobs: fun & games
 * MarJon: photos + scissors
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
@@ -111,7 +113,7 @@
 
 * ?
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/2024/02-february/2024-02-heritage-happenings-agenda.md&quot;">**February**</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/2024/02-february/2024-02-heritage-happenings-agenda.md&quot;"><strong>February</strong></a>
 
 * ?
 
