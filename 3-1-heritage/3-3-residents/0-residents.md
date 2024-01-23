@@ -1,8 +1,9 @@
-
 # Residents
 
-## Agend
+## Agenda
 
+* Margaret jacobs: fun & games
+* MarJon: photos + scissors
 * Maretha Nell: Julia Morgan H plans
 * Granucci: email?
 * MargaretM: SDGs
@@ -12,7 +13,7 @@
 
 ## Margaret Jacobs
 
-* Margaret: https://www.dwt.com/-/media/files/news/2013/01/quoted-in-hipaa-can-pose-unique-challenges-for-ass/files/boh-jan-2013/fileattachment/boh-jan-2013.pdf
+* Margaret: [https://www.dwt.com/-/media/files/news/2013/01/quoted-in-hipaa-can-pose-unique-challenges-for-ass/files/boh-jan-2013/fileattachment/boh-jan-2013.pdf](https://www.dwt.com/-/media/files/news/2013/01/quoted-in-hipaa-can-pose-unique-challenges-for-ass/files/boh-jan-2013/fileattachment/boh-jan-2013.pdf)
 
 ## Agenda
 
@@ -33,13 +34,12 @@
 * walker links
 * Ear plug links
 * Leichems
-* Til visit
-    MJacobs
+* Til visit MJacobs
 * Communications
 * How will you share your intervention with Karina ?
-  * Ask people for dinner
-  * Mary Liz, Nancy S, Robert Segrin, Monique
-  * Ask Rod who he who he would like to have dinner with
+    * Ask people for dinner
+    * Mary Liz, Nancy S, Robert Segrin, Monique
+    * Ask Rod who he who he would like to have dinner with
 * mech turk upwork ~ voice
 * Mary Charlotte's slides
 * Monique ~ finding peace
