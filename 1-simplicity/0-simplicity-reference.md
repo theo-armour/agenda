@@ -28,7 +28,7 @@ It prepares stuff to go to evereverland, or to family or wherever.
 * https://artisticlicense.org/cow-hollow-woodworks/
 *
 
-dealer ~ 
+dealer ~
 ## Lawrence Fine Arts
 
 * Recommended by Alix and Jennifer
@@ -40,6 +40,10 @@ dealer ~
 * (650) 624-9883
 * Sajal Patel
 
+## Michaan's Auctions
+
+* https://michaans.com/
+* Free appraisals for twenty items
 
 ## Photos
 
