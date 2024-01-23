@@ -16,7 +16,7 @@
 
 * CK: photo spec
 * Michaan: Hobart 2024
-* Chae: visit re account name update
+* Chase: visit re account name update
 * Alix: FinDes links
 * Activities: draft calendar
 
@@ -27,7 +27,6 @@
 * Michael: Jorge
 * AlexP: msg
 * Josh: call after 21st
-*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
