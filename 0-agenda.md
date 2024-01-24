@@ -15,19 +15,19 @@
 **Today**
 
 * CK: photo spec
-* CK: Appraiser
+* Michaan: Hobart 2024
+* Chase: visit re account name update
 * Alix: FinDes links
 * Activities: draft calendar
 
 **Soon**
 
 * ?
+* Joe: Final Design
 * MikeM
 * Michael: Jorge
 * AlexP: msg
-* Josh: call after 21st
-* Margaret jacobs: fun & games
-* MarJon: photos + scissors
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
