@@ -1,6 +1,10 @@
 # Theo Health History
 
-## Current problem(s) of primary concern, symptoms, how it’s being treated, how it’s affecting your life, your theory/fears regarding cause/nature of problem
+## Current problem(s) of primary concern
+
+symptoms
+
+How it’s being treated, how it’s affecting your life, your theory/fears regarding cause/nature of problem
 
 Generally: free from pain, able to pursue life, liberty and happiness with a minimum of impediments
 
