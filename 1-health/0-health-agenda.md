@@ -1,6 +1,5 @@
 # 1.0 Health Agenda Read Me
 
-
 ## Appointments
 
 * January 25 @ 2 Yogalakshmi Rajendran
@@ -12,15 +11,14 @@
 * Gary Richmond: msg
 * UCSF: Eyes checkup
 * UCSF: Ortho appointment
-* Uber Voucher
+*   
 * Meet Martha N
 * Heritage: PT referral ~ EmpowerMe
-
 
 ## Work-in-progress
 
 * Skin clinic ~ Dermatology visits
-* [Sara's Medical Advocacy & Planning ~ https://www.sarasmap.com/
+* \[Sara's Medical Advocacy & Planning ~ [https://www.sarasmap.com/](https://www.sarasmap.com/)
 * Three books on aging for the library
 * Laura Wagner
 * Linda Hibbs: email & phone
@@ -80,7 +78,6 @@ See 2-pph.md / Gary
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pt-exercise-routines-daily.md&quot;">1.2 PT Exercises Daily</a>
 
-
-* * *
+***
 
 <center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);">❦</a></center>
