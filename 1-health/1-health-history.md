@@ -1,6 +1,5 @@
 # Theo Health History
 
-
 ## Current problem(s) of primary concern, symptoms, how it’s being treated, how it’s affecting your life, your theory/fears regarding cause/nature of problem
 
 Generally: free from pain, able to pursue life, liberty and happiness with a minimum of impediments
@@ -18,16 +17,16 @@ Problems mostly relate to the wear and tear due to aging
 ### Current medications and doses
 
 * Esomeprazole 20 mg capsule per day
-  * Commonly known as: NEXIUM
-  * For dysphagia and internal bleeding
-  * Experimenting with reduction from 40 mg per day
+    * Commonly known as: NEXIUM
+    * For dysphagia and internal bleeding
+    * Experimenting with reduction from 40 mg per day
 * Ketoconazole 2% Shampoo 120ml
 * Ciclopirox 8 % topical solution nail polish
-  * Commonly known as: PENLAC
-  * Apply topically nightly at bedtime to affected nails for fungal infection
+    * Commonly known as: PENLAC
+    * Apply topically nightly at bedtime to affected nails for fungal infection
 * Triamcinolone Acetonide 0.1% Cream 454gm
-  * https://en.wikipedia.org/wiki/Triamcinolone
-  * https://en.wikipedia.org/wiki/Triamcinolone_acetonide
+    * [https://en.wikipedia.org/wiki/Triamcinolone](https://en.wikipedia.org/wiki/Triamcinolone)
+    * [https://en.wikipedia.org/wiki/Triamcinolone\_acetonide](https://en.wikipedia.org/wiki/Triamcinolone_acetonide)
 * Vitamin D3 ~ 1000 IUD Vi
 
 ### Current Problems History
@@ -41,9 +40,9 @@ Problems mostly relate to the wear and tear due to aging
 
 ## Past Conditions – significant resolved conditions
 
-* Eyeglasses for near sightedness since 1960
-* Partial paraplegic
-* Left hand amputee
+* 1961 ~ Eyeglasses for near sightedness since 1960
+* 1969-04 ~ Partial paraplegic
+* 1969-04 ~ Left hand amputee
 * Deep pockets around molars in gums
 * Arthritis in hip
 * Stomach: Large paraesophageal hernia. Cameron's ulcers/erosions
@@ -54,7 +53,8 @@ Problems mostly relate to the wear and tear due to aging
 * Colon cancer
 * Bursitis
 * Hernia
-* Broken femur
+* 2022-11 ~ Broken femur
+* 2023-11 ~ UTI
 
 ### Occupational illnesses/injuries; disability, compensation
 
@@ -80,7 +80,7 @@ Problems mostly relate to the wear and tear due to aging
 ### Surgical procedures (include dates)
 
 * 2000 ~ 2020 ~ Colonoscopies and endoscopies
-* _Dermato fibroma_  removal x ~20
+* _Dermato fibroma_ removal x ~20
 * _Keratosis pilaris_ ~ chicken skin ~ reduced symptoms with aging
 
 ### Major accidental trauma
@@ -151,7 +151,7 @@ See above
 
 * Married 1981 to 2001
 * Three daughters
-* See about page: https://theo-armour.github.io/#page/about.md
+* See about page: [https://theo-armour.github.io/#page/about.md](https://theo-armour.github.io/#page/about.md)
 
 ### Health-related behaviors: habits, health promotion, safety
 
@@ -170,9 +170,9 @@ See above
 ### Goals of care
 
 * Maintain a five year plan covering
-  * Fitness
-  * Diet
-  * Sanity
+    * Fitness
+    * Diet
+    * Sanity
 
 ### Advance directives
 
