@@ -4,13 +4,20 @@
 ## Questions for January 2024
 
 
-* Date next meeting?
-* Look at quarterly report
-* Did you ever have Nvidia on your radar?
-* $100K to Cynthia for house
+* Date next meeting: 2024-01-24
+
+* Transfer of Assets to Trust
+* MSFT ~ Nvidia ~ let your clients speak somehow
+* WSD
 * PLE ~ sorry
-* Will & Trust: Lea?
-* Manatt: awful & expensive
+* Corporate Transparency Act: Beneficial ownership reports
+* ACH for individuals?
+* Quarterly report: virtually unreadable ~ footnotes not links ~ nothing yto doubleclick
+* Did you ever have Nvidia on your radar?
+* Maybe this year: $100K to Cynthia for house
+* Will & Trust: Lea? Olivia?
+* Manatt/ lawer: good ~ firm: awful & expensive
+* Final Design
 
 ## 2023-05-04
 
