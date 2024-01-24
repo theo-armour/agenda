@@ -11,7 +11,6 @@
 * Gary Richmond: msg
 * UCSF: Eyes checkup
 * UCSF: Ortho appointment
-*   
 * Meet Martha N
 * Heritage: PT referral ~ EmpowerMe
 
