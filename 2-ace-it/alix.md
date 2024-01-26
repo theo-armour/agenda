@@ -1,5 +1,8 @@
 # Alix
 
+## 2024-01-25
+
+* Joe + Endineering
 ## 2024-01-19
 
 * Alix: web essentials
