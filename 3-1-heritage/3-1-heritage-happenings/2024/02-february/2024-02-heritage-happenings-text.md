@@ -61,7 +61,7 @@ In 1952, Duncan was called back into the military for service during the Korean 
 We can forget the rooms in the house in Killeen. The house, itself, at 1705 Cole Street in a bleak housing development, was totally forgettable. It was in the middle of a sunflower patch, with dark tile flooring that hid the scorpions that came out at night -- every sort of venomous wildlife lived with us. It was blazing hot in the summer (the local market, the Mini-Max, was so air conditioned that walking in and out of it was a physical shock) and there were no trees anywhere near the house. We lived there – an ordeal -- for the two years of Duncan’s military hitch. A recent Google search shows the house now with trees and a carport.
 Tom attended the nearby school in Killeen, but Libby’s birthday came in October, too late for the schools in Killeen, so she and Anne went to a day care center on the base.
 The day a tornado (they called them “twisters”) threatened the base, they called frantically for me to come get the kids but Duncan had the car, out at the far end of the base. He was able to get them home and the storm veered off, missing Fort Hood but almost destroying Waco.
-The house I do remember with pleasure from that time was actually in the nearby town of Temple. The sergeant living next door to us in Killeen was able to rent it for his family. He, his Mexican wife, and their numerous children were crammed into a low-ceilinged white box just like our house. I can't remember how I got involved with their move, but I do remember loading the wife and what seemed like hordes of small, quiet, well-behaved children into my car and driving them over to the new home. It was a clean, though unpainted, clapboard house built up on blocks – no cellar - with lots of rooms for everyone, high ceilings, breezes, and trees. It had a yard to play in -- no grass, only packed  earth, but they thought it wonderful. Such joy for them all! It looked to me, at the time, like a sharecropper's shanty but I could see how much better it was for them than the mingy little place in Killeen, and I was glad for them.
+The house I do remember with pleasure from that time was actually in the nearby town of Temple. The sergeant living next door to us in Killeen was able to rent it for his family. He, his Mexican wife, and their numerous children were crammed into a low-ceilinged white box just like our house. I can't remember how I got involved with their move, but I do remember loading the wife and what seemed like hordes of small, quiet, well-behaved children into my car and driving them over to the new home. It was a clean, though unpainted, clapboard house built up on blocks – no cellar - with lots of rooms for everyone, high ceilings, breezes, and trees. It had a yard to play in -- no grass, only packed earth, but they thought it wonderful. Such joy for them all! It looked to me, at the time, like a sharecropper's shanty but I could see how much better it was for them than the mingy little place in Killeen, and I was glad for them.
 Next chapter: Anne nearly dies, we move back to New York.
 
 
@@ -82,8 +82,99 @@ To view these flowers, take the steps toward the grassy center of the garden. On
 
 Astor: The Rise and Fall of an American Fortune by Anderson Cooper ~ 2023 ~ NF
 By Trish Otstott
-This is the incredible story of a family that squandered an enormous private fortune.  Cooper wrote this book as a follow-up to Vanderbilt, which was his book about his own family and its lost fortune.  Astor begins with the end, as Brooke Aster and Gloria Vanderbilt, each seated at her own number one table at Mortimer’s in New York City, reign as the last queens of the tail end of the Golden Age.
-The Astor fortune was established by John Jacob Astor with his slaughtering of thousands of beavers for their precious pelts. The fortune evaporates because of an excess of everything.  Over the generations, various Astors built huge five and six story mansions, owned several lavish yachts and spent vast sums of money while traveling the globe for pleasure, acquiring rare antiques along the way. The last little bits of the Astor fortune were then fought over by Brooke Astor and her son who was not even an Astor at all.
+This is the incredible story of a family that squandered an enormous private fortune. Cooper wrote this book as a follow-up to Vanderbilt, which was his book about his own family and its lost fortune. Astor begins with the end, as Brooke Aster and Gloria Vanderbilt, each seated at her own number one table at Mortimer’s in New York City, reign as the last queens of the tail end of the Golden Age.
+The Astor fortune was established by John Jacob Astor with his slaughtering of thousands of beavers for their precious pelts. The fortune evaporates because of an excess of everything. Over the generations, various Astors built huge five and six story mansions, owned several lavish yachts and spent vast sums of money while traveling the globe for pleasure, acquiring rare antiques along the way. The last little bits of the Astor fortune were then fought over by Brooke Astor and her son who was not even an Astor at all.
 I thought this book was interesting and I particularly enjoyed understanding how this famous family and its famous fortune fit into our country’s history. From the Waldorf Astoria in New York City to the sinking of the Titanic, this family left its mark in so many ways.
 I delivered this book to HotM last week. Hope you enjoy it.
+
+## Events
+
+Jenni Swerdlow ~ Drumming for Wellness
+Thursday, 1 February at 2:00 in Friendship Hall
+
+Grand Follies: Nostalgic Nightclub Cabaret
+Thursday, 8 February at 3:00 in Friendship Hall
+
+Asian Art Museum: Lunar New Year – Year of the Dragon
+Monday, 12 February at 3:00 in Friendship Hall
+
+Frank Cefalu: Valentine's Day Happy Hour
+Tuesday, 13 February at 3:00 in Morgan Parlor
+
+Jing Mo: Chinese New Year Celebration
+Thursday, 16 February at 5:30 in the Dining Room
+
+De Young Museum: Fashioning San Francisco
+Monday, 19 February at 3:00 in Friendship Hall
+
+Catherine Comier: All About San Francisco Public Library
+Monday, 26 February at 3:00 in Friendship Hall
+Rescheduled from January
+
+Bacio (Labradoodle): SPCA Visit
+Thursday, 29 February at 1:30 in Friendship Hall
+
+Jason Myers: Sing-along
+Thursday, 29 February at 3:00 in Friendship Hall
+
+## Books
+
+The System: Who Rigged it, How We Fix It ~ 2021 ~ NF
+Robert B Reich
+Reich has held many jobs in the government, including Secretary of Labor under President Bill Clinton. Locally, he’s been a Professor of Public Policy at UC Berkeley.
+
+The Night Country ~ 1997 ~ NF
+Loren Eiseley
+Reflections on “the mystery of life” from a famed anthropologist.
+
+The Christmas Guest: A Novella 2023 M
+ An American art student in London visits a classmate’ country home over the holidays. and finds an unsolved murder hanging over the family.
+
+Daughter of Fortune: A Novel ~ 2020 F
+Isabel Allende
+The tale of a young Chilean woman’s search for love not wealth during California’s Gold Rush days.
+
+The American Experiment: Dialogues of a Dream ~ 2021 ~ NF
+David M Rubenstein
+A collection of interviews with some of America’s greatest minds.
+
+High Stakes: ~ A Novel ~ 2022 ~ F
+Danielle Steel
+Set around a New York talent agency, a group of women discover the high cost of success.
+
+Facing East: Ancient Health and Beauty Secrets for the Modern Age ~ 2016 ~ NF
+Jingduan Yang
+
+The Answer is…reflections on my life ~ 2020 ~ NF
+Alex Trebek
+
+The Second Stranger: A Novel ~ 2023 ~ M
+Martin Griffin
+A thriller set in the remote Scottish Highlands
+
+Use the Power You Have: A Brown Woman’s Guide to Politics and Political Change ~ 2020 ~ NF
+Pramila Jayapal
+Born in India, Jayapal, a Democrat, currently represents the 7th congressional district iin Washington n congress. She’s the first Indian-American to serve in the House of Representatives
+
+No one you know: A novel ~2008 ~ M
+Michelle Richmond
+A mystery thriller about a Stanford student who was murdered in a crime that was never solved.
+
+House of Thieves: A Novel ~ 2015 ~ F
+Charles Belfoure
+A story about a architect in Gilded Age New York who is forced to work for a criminal ring
+
+
+## Sylvie
+
+Sylvie Holdmam ~ Executive Chef ~ An update
+By Martha Nell Beatty
+The beginning of 2024 Sylvie stepped into the role of executive chef after serving as sous chef under Kevin for three years. She is starting with a complete team in the kitchen with two new hires as cooks.
+Each year there are two sets of menus that repeat every four weeks. They originate from Morrison, but individual chefs then create their own menus with recipes that are on a massive Morrison date base Sylvie is currently working with the fall/winter menus that were set up by Kevin. But soon she will be planning the spring/summer set.
+Now Sylvie has less concerns about following the strict guidelines that the
+kitchen had to follow when the Health Center was open. Previously, it was required that the dietician approve every menu adhering to very strict standards. Of course, there are still guidelines to follow. There is aways a consideration for such things as sodium levels and fat content.
+Sylvie is excited about the Around the World menus that she will create this year. The third Friday every month there will be a focus on a specific country with entertainment typical of that country. We’ve already had Italian night and, as always, in February, there will be a Chinese New Year dinner. Katie Loo will do her usual by bringing dim sum and desserts. February will also see another Morrison special evening with Mardi Gras.
+We have had some of the twelve cuisines over the years but never every month. In 2024, new countries to be featured include India. Thailand and El Salvador. What will be missing this year is Japan.
+We are pleased that Sylvie was promoted to executive chef and know we have many good meals ahead of us.
+
 

@@ -1,15 +1,14 @@
 # 2024-02 February ~ Heritage Happenings Agenda
 
 * Newsleter: prepare template
-* 
+*
 
 ## February ~ Production
 
 Doc file
 
 * prepare first pass
-
-* 
+*
 cameo logo
 
 * Cupid
@@ -18,21 +17,24 @@ cameo logo
 ## Content for Next Issue: February 2024
 
 * Around the World: China ~ article?
+* Margaret Johnson
 * Margaret Missiaen: Garden article
 * Trish: Astors book review ~ got it
 * Doris: ??
-* Jane: "Silk" Form Parachutes to Petticoats
+* Jane: "Silk" From Parachutes to Petticoats
 * Martha Nell: Article on Sylvie the Chef + lucy
+* Martha Nell: Article on Nancy Drew
 * Patrick: Sheila: Hong Kong, Taiwan, Singapore
 * Patrick: Residents Council or Board?
 * Theo: levels of service
+* SusanS ~ photos
 * Miscellany: lion
 
 ## Calendar
 
 * Calendar: first draft sent
 * Message re movie conflicts
- 
+
 May try to list all three days of movies: Friday, Saturday, & Sunday
 
 ## January issue
@@ -49,6 +51,23 @@ The following changes will make the calendar easier to format
 * “What’s Happening” to “What's Up!”
 * “Life Enrichment Meeting” to “Activities Mtg”
 * “Total Body Workout” to “Total Workout”
+
+## 2024-01-27 questions
+
+Adding Names
+Some events events include "with Jeanne", all the other events led by team members - including events led by Jeanne - do not include the leaders name. Can we be consistent?
+
+Here is a suggestion for the calendar:
+
+Events led by team members do not include the leaders name. Events led by residents, outsiders or contractors do include the leaders name.
+
+I have updated the calendar to reflect this change.
+
+Does anybody know the name of the person who leads the Episcopal service?
+
+Does Claudia lead other classes besides Thursday and Friday yoga?
+
+Are are any other events missing a non-team-members's name?
 
 ### Resident Directory
 
