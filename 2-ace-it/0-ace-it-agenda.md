@@ -2,10 +2,13 @@
 
 ## Agenda
 
+* Cynthia: Tania's recollections to PDF ~ transcripts
+* 77 ~ too busy ~ now Heritage Happenings ~ Final Design
+* Funding trust
+* Isabelle: operation? y waiver
 * ace: share ms365
-* Isabelle my waiver
 * Notion ~ permissions
-* Tania's recollections to PDF ~ transcripts
+* Lolo: HH & chat
 
 ## Topics of conversation
 

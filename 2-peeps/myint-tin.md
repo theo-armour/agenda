@@ -19,3 +19,8 @@
 * With insurgents
 * In Chiang Mai
 
+## Burmese Cuisine
+
+* Tea leaf salad
+* Mohinga
+* Ohn-no-khauk-swe

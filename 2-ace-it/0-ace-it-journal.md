@@ -40,6 +40,17 @@ More
 * Fliteboard article
 * Husk & Stone PP
 
+## Liberty ~ sorority ~ equality
+
+Liberty
+
+* not having to follow family ways
+* exposed to multiple life styles
+* not having to worry about making enough money to pay for college or to retire
+Sorority
+
+Equality > Equity
+
 ## Topics of conversation
 
 * Subscriptions
