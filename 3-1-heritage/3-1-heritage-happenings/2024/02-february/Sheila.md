@@ -1,4 +1,8 @@
-I had jush flown in to Taiwan & was looking for a cheaphotel. I was afraid they were full up, but no, they had plenty of empty rooms, in fact the hotel was nearly empty, I had a nice room for $5. I spent that first rainy afternoon writing a letter home:
+# Sheila in Taipei, Taiwan
+
+The Around the World adventure is celebrating China this month. We asked Sheil to share thoughts about her visit to Taipei in 1966
+
+I had just flown in to Taiwan & was looking for a cheap hotel. I was afraid they were full up, but no, they had plenty of empty rooms, in fact the hotel was nearly empty, I had a nice room for $5. I spent that first rainy afternoon writing a letter home:
 
 Evergreen Hotel Sun Moon Lake Taiwan
 
