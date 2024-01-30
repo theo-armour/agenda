@@ -9,6 +9,7 @@
 * If you taste something, digest something
 * If you smell something, remember something
 * If you touch something, feel something
+* 2024-01-29: With all else equal, take the road most documented. ~ https://jarbus.net/blog/take-the-road-most-documented/
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a>
 
