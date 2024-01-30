@@ -14,11 +14,11 @@
 
 **Today**
 
-* Diapers
+*   
 * CK: photo spec
 * Michaan: Hobart 2024
 * Alix: FinDes links
-* Activities: draft calendar
+*   
 
 **Soon**
 
