@@ -24,6 +24,7 @@
 **Soon**
 
 * ?
+* Read: ends book
 * Joe: Final Design
 * MikeM
 * Michael: Jorge
@@ -85,6 +86,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">eloise</a>
 
 * ?
+* Reply: Rio Vista city
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
 
