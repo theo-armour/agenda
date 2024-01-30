@@ -1,7 +1,14 @@
 # 2024-02 February ~ Heritage Happenings Agenda
 
-* Newsleter: prepare template
-*
+* Newsletter: prepare template
+* Draft message list:
+* Happenings
+* Patti
+* Trish Otstott
+* Roxana
+* Stephen
+* Jeanne
+* Angie Lam
 
 ## February ~ Production
 

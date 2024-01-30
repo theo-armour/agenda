@@ -178,3 +178,34 @@ We have had some of the twelve cuisines over the years but never every month. In
 We are pleased that Sylvie was promoted to executive chef and know we have many good meals ahead of us.
 
 
+## San Francisco Jing Mo
+
+Jing Mo started in Shanghai, China in 1910 and has proliferated around the world. Brought to San Francisco in the early sixties, today, SF Jing Mo is a non-profit organization led by Sifu Rick L "Bucky" Wing, a acknowledged disciple of legendary  Grandmaster Wong Jack Man.
+
+
+
+## Aging in Place
+
+From time-to-time residents hear about “levels of service”. The term relates to fees that residents may be asked to pay above and beyond the regular monthly rent fee.
+Please note: if you are a resident on the Type A Life Care Contract: you can skip to the next article! This topic does not apply to you.
+If, however, you are on a Type C Continuing Care Contract then learning about “levels of services” may be useful to you.
+As you age you may need help with daily activities such doing laundry, managing medications, or taking a shower. Typically, you are helped by a Certified Nursing Assistant (CAN) and Heritage charges you by the time and resources needed.
+If you need assistance only on odd occasions, the services are charged individually. If, however, you need help on a regular basis for a number of activities then this is where the levels of service comes in.
+In essence its like a “frequent flier” discount. The more you require help the better the discount. There are four levels of service ranging from just a moderate amount of help to needing help for almost everything. The price you pay will be the cheaper of whether services paid individually or paid in bulk with a level of service agreement.
+It is worth noting that the levels of service are loosely defined. You needs are highly individual. Levels of service are agreed by you, your primary care givers and team members. More on levels of service in future issues.
+Theo Armour, editor
+
+
+## Understanding "Levels of Service" in Aging in Place
+
+Residents often encounter the term “levels of service,” particularly in the context of additional fees that may be incurred beyond the standard monthly rent.
+
+Important Note: If you're a resident under the Type A Life Care Contract, feel free to move on to the next article, as this information does not pertain to you.
+
+For those with a Type C Continuing Care Contract, gaining an understanding of “levels of services” is beneficial. As aging progresses, various daily activities like laundry, medication management, or showering might require assistance. This support is typically provided by a Certified Nursing Assistant (CNA), with Heritage determining charges based on the time and resources utilized.
+
+Service charges are structured in two ways: For sporadic assistance needs, services are billed individually. However, if you find yourself requiring regular support for multiple activities, this is where the concept of levels of service becomes relevant. Think of it as a “frequent flier” discount: the more assistance you need, the greater the discount. The service levels are categorized into four tiers, ranging from minimal assistance to comprehensive support. Billing is calculated to ensure cost-effectiveness, comparing individual service charges versus a bundled rate under a level of service agreement.
+
+It's crucial to recognize that levels of service are tailored; your needs are unique. These service levels are determined collaboratively by you, your primary caregivers, and team members. We will delve deeper into the nuances of levels of service in future editions.
+
+Theo Armour, Editor
