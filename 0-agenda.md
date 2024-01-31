@@ -9,21 +9,22 @@
 * If you taste something, digest something
 * If you smell something, remember something
 * If you touch something, feel something
-* 2024-01-29: With all else equal, take the road most documented. ~ https://jarbus.net/blog/take-the-road-most-documented/
+* 2024-01-29: With all else equal, take the road most documented. ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)
+* Marty Nolan: Perfection is an illusion
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a>
 
 **Today**
 
-*   
-* CK: photo spec
+* * CK: photo spec
 * Michaan: Hobart 2024
 * Alix: FinDes links
-*   
+* Gukhui
 
 **Soon**
 
 * ?
+* Read: ends book
 * Joe: Final Design
 * MikeM
 * Michael: Jorge
@@ -81,6 +82,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
 * ?
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">eloise</a>
 

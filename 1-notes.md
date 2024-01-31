@@ -1,14 +1,8 @@
 # Notes
 
-??59
+???p
 
-Tu phone
-
-Dalle a
-
-Shrinkinstagram
-
-Sell art online
+Shower drain
 
 [https://oip.manual.canon/portal-americas/contents/ic-lbp-cl.html?h2\_title=LBP633Cdw%20%2F%20LBP632Cdw&qr\_papermnl=](https://oip.manual.canon/portal-americas/contents/ic-lbp-cl.html?h2_title=LBP633Cdw%20%2F%20LBP632Cdw&qr_papermnl=)
 
