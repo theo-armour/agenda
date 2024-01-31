@@ -2,7 +2,11 @@
 
 creativity inc??
 
-https://en.wikipedia.org/wiki/Creativity,\_Inc. ~ Cynthia liked it  
+[https://en.wikipedia.org/wiki/Creativity,\_Inc](https://en.wikipedia.org/wiki/Creativity,_Inc). ~ Cynthia liked it
+
+  
+
+* Reply: Rio Vista city
 
 ## 2024-01-16
 
