@@ -209,3 +209,15 @@ Service charges are structured in two ways: For sporadic assistance needs, servi
 It's crucial to recognize that levels of service are tailored; your needs are unique. These service levels are determined collaboratively by you, your primary caregivers, and team members. We will delve deeper into the nuances of levels of service in future editions.
 
 Theo Armour, Editor
+
+## Aging in Place ~ "Levels of Service"
+
+Residents often encounter the term “levels of service,” particularly in the context of additional fees that may be incurred beyond the standard monthly rent.
+
+If you're under the Type A Life Care Contract, feel free to move on to the next article; this information does not apply to you.
+
+For those with a Type C Continuing Care Contract, gaining an understanding of “levels of services” is beneficial. As aging progresses, various daily activities like laundry, medication management, or showering might require assistance. This support is typically provided by a Certified Nursing Assistant (CNA), with Heritage determining charges based on the time and resources utilized.
+
+Service charges are structured in two ways: For sporadic assistance needs, services are billed individually. However, if you find yourself requiring regular support for multiple activities, this is where the concept of levels of service becomes relevant. Think of it as a “frequent flier” discount: the more assistance you need, the more likely you are to need a full level of care, which is more inclusive and generally less expensive. The service levels are categorized into five tiers, ranging from minimal a la carte-type assistance to comprehensive custodial care and support. Billing is calculated to ensure cost-effectiveness, comparing individual service charges versus a bundled rate under a level of service agreement.
+
+It's crucial to recognize that levels of service are tailored; your needs are unique. These service levels are determined collaboratively by you, your primary caregivers, and team members. We will delve deeper into the nuances of levels of service in future editions.
