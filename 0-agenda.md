@@ -16,10 +16,11 @@
 
 **Today**
 
+* Sprouts: change the water
 * CK: photo spec
 * Michaan: Hobart 2024
 * Alix: FinDes links
-* Gukhui
+*   
 * Eastern Bank: Money to Chase
 * Sean: fix shower ~ door\* Be technical
 * HH: post-mortem
@@ -29,7 +30,7 @@
 * ?
 * Read: ends book
 * Joe: Final Design
-* MikeM: 3D Mind Map
+*   
 * Michael: Jorge
 * AlexP: msg
 * ace-it: get HH
@@ -97,6 +98,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * ??
+* Gukhui: ?
+* MikeM
+* MikeM: 3D Mind Map
 
 ***
 
@@ -119,6 +123,8 @@
 * ?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/2024/02-february/2024-02-heritage-happenings-agenda.md&quot;"><strong>February</strong></a>
+
+March
 
 * ?
 
