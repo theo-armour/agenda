@@ -36,7 +36,6 @@ And
 * Where do you share documents?
 * Where do you share diagrams?
 * What cloud?
-* What License?
 * All of the above in one place and free and open source?
 * be able show as mind map or visual program schematic or show as game board or minecraft scene or 3D VR ~ or even reality
 * separation between content and appearance
