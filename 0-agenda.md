@@ -15,7 +15,7 @@
 * Alix: FinDes links
 * DWA: money to Chase Trust account
 * Eastern Bank: Money to Chase
-* Sean: fix shower ~ door\* Be technical
+* Sean: fix shower ~ door
 * ArmourHQ: upload documents
 
 **Soon**
