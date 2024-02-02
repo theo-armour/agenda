@@ -29,7 +29,7 @@
 * ?
 * Read: ends book
 * Joe: Final Design
-* MikeM
+* MikeM: 3D Mind Map
 * Michael: Jorge
 * AlexP: msg
 * ace-it: get HH
