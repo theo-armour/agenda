@@ -10,8 +10,47 @@ Interactive Object Network Indices For Law, Fact Patterns And Their Interaction
 
 ## 2024-02-01
 
+Talked
+
 * gbXML
 * Final Design
+
+Questions
+
+* What problem are you solving?
+* What is the value proposition?
+* What is the business model?
+* What is the go-to-market strategy?
+* What is the competition?
+* What is the technology stack?
+* What is the team?
+* What is the roadmap?
+* What is the ask?
+
+And
+
+* How do you collaborate with others?
+* where do you share chat + long form?
+* Where do you share code?
+* Where do you open, close, and track issues?
+* Where do you share documents?
+* Where do you share diagrams?
+* What cloud?
+* What License?
+* All of the above in one place and free and open source?
+* be able show as mind map or visual program schematic or show as game board or minecraft scene or 3D VR ~ or even reality
+* separation between content and appearance
+* Mike: the bad that gets into the courts but the good that gets good families can be forgotten
+* Mike the mouth: words are ephemeral - yet he is proud of the half life of his code
+
+Me
+
+* Me: I hve enough money to do what I want to do
+* Want: to create money for others to do what they want to do
+* Want to be on my schedule ~ not beholden to anybody else's sched
+* Want to be able to work with people I like
+* Want to be able to work on things I like
+
 
 ## Interactive Object Network Indices For Law, Fact Patterns And Their Interaction
 
