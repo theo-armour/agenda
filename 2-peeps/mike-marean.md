@@ -5,6 +5,14 @@ Wife: Eileen ~ student counselor
 Daughter Laura
 Son Mike - urologist
 
+In 2024-theo/people/mike Marean
+Interactive Object Network Indices For Law, Fact Patterns And Their Interaction
+
+## 2024-02-01
+
+* gbXML
+* Final Design
+
 ## Interactive Object Network Indices For Law, Fact Patterns And Their Interaction
 
 No All Caps

@@ -1,8 +1,18 @@
 # Alix
 
+## 2024-02-01
+
+My Designed Life: Mental models
+
+Heritage Happenings
+
+* instagram for old people
+* topic residents and family
+
 ## 2024-01-25
 
 * Joe + Endineering
+
 ## 2024-01-19
 
 * Alix: web essentials

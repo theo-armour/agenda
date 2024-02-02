@@ -1,4 +1,4 @@
-# 2024-01-17 Rico  has a look See
+# 2024-01-17 Rico has a look See
 
 
 Hello all

@@ -118,3 +118,43 @@ Valuation $250
 
 
 
+## Silver
+
+### 1401 ~ Silver candy box with hinges
+
+Silver candy box with hinges, the lobed oval bowl with a crested hinged lid decorated with repousse foliate devices and opening to a vermeil interior.
+5-3/4 x 7 x 5 inches. (LR)
+Valuation $1,000
+
+### 1402 ~ English pocket watch by George Prior, Londo
+
+English pocket watch by George Prior, London. The white enamel dial (hands missing) enclosed in a silver Middle Eastern case engraved with leaves, trumpets, drums. Width: 2-1/2 inches. Not photographed.
+Valuation $ 650
+
+### 1403 ~ Middle Eastern box shaped cigarette case
+
+Middle Eastern box shaped cigarette case, engraved with a crest and tobacco maker's name, the hinged cover decorated with black enamel and opening to a gold washed interior. Early 20th century.
+3-1/4 x 2-7/8 x 5/8 inches.
+Valuation $ 750
+
+### 1404 ~ Small glass and silver liqueur carafe
+
+Small glass and silver liqueur carafe.
+Height: 7-1/4 inches
+Valuation $ 300
+
+### 1405 ~ Japanese small quatrefoil shape silver box and cover
+
+Japanese small quatrefoil shape silver box and cover with embossed wisteria design. 2 x 4 x 3-3/4 inches.
+Valuation $ 800
+
+### 1406 ~ Italian small silver circular box and cover
+
+Italian small silver circular box and cover with repousse interior figure.
+1 x 3-1/2 inches
+Valuation $ 300
+
+### 1407 ~ Sterling silver tea bell
+
+Sterling silver tea bell.
+Valuation $ 125
