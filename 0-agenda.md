@@ -20,6 +20,9 @@
 * Michaan: Hobart 2024
 * Alix: FinDes links
 * Gukhui
+* Eastern Bank: Money to Chase
+* Sean: fix shower ~ door\* Be technical
+* HH: post-mortem
 
 **Soon**
 
