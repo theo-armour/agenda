@@ -9,7 +9,7 @@
 
 **Today**
 
-* Sprouts: change the water
+*   
 * CK: photo spec
 * Michaan: Hobart 2024
 * Alix: FinDes links
@@ -21,7 +21,7 @@
 **Soon**
 
 * ?
-* Read: ends book
+* Read: Ends book
 * Joe: Final Design
 * AlexP: msg
 *   
