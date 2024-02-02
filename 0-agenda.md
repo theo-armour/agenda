@@ -2,15 +2,14 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-01-29: With all else equal, take the road most documented < stand on the shoulders... ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)  
+* 2024-01-29: With all else equal, take the road most documented < stand on the shoulders… ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)
 * Marty Nolan: Perfection is an illusion!
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a>
 
 **Today**
 
-*   
-* CK: photo spec
+* * CK: photo spec
 * Michaan: Hobart 2024
 * Alix: FinDes links
 * DWA: money to Chase Trust account
@@ -24,7 +23,6 @@
 * Read: Ends book
 * Joe: Final Design
 * AlexP: msg
-*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -53,7 +51,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
 * ?
-* Cholesterol
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
 
@@ -123,7 +121,6 @@
 March
 
 * HH: post-mortem
-
 * ?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
