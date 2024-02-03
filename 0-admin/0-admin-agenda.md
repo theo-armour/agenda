@@ -15,6 +15,9 @@
 
 ## Eastern Bank
 
+* Eastern Bank: login
+* Eastern Bank: Money to Chase
+
 ## Expense Tracking
 
 * Mint to Credit Karma / export data where to?
