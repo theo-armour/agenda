@@ -2,10 +2,18 @@
 
 ## Actions
 
-* DWA: note re Estimated payments not sent??
 * Mint to Credit Karma / export data where to?
-*   
 * Pay loans ~ Total Current Balance: $56,781.84
+
+  
+
+## Chase
+
+\* ?
+
+## DWA
+
+* DWA: note re Estimated payments not sent??
 *   
 
 ## Thinking
