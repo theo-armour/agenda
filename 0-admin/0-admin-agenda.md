@@ -2,19 +2,30 @@
 
 ## Actions
 
-* Mint to Credit Karma / export data where to?
-* Pay loans ~ Total Current Balance: $56,781.84
-
-  
+* ?
 
 ## Chase
 
 \* ?
 
-## DWA
+## DWA + Pershing
 
 * DWA: note re Estimated payments not sent??
-*   
+
+\* DWA: Send Will & Trust docs
+
+  
+
+## Expense Travking
+
+* Mint to Credit Karma / export data where to?
+* Monarch
+
+## Loans
+
+* Pay loans ~ Total Current Balance: $56,781.84
+
+  
 
 ## Thinking
 
