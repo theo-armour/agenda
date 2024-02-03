@@ -11,7 +11,7 @@
 
 * * CK: photo spec
 * Michaan: Hobart 2024
-* Alix: FinDes links
+* Alix: FinDes Linkses
 *   
 * Eastern Bank: Money to Chase
 * Sean: fix shower ~ door
