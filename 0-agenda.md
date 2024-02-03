@@ -12,7 +12,7 @@
 * * CK: photo spec
 * Michaan: Hobart 2024
 * Alix: FinDes links
-* DWA: money to Chase Trust account
+*   
 * Eastern Bank: Money to Chase
 * Sean: fix shower ~ door
 * ArmourHQ: upload documents
