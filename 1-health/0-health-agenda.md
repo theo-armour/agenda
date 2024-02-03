@@ -9,7 +9,6 @@
 
 * RSV shot
 * Create sub-folders
-* Dr K: thanks
 * Gary Richmond: msg
 * UCSF: Eyes checkup
 * UCSF: Ortho appointment
