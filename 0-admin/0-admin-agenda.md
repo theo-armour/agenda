@@ -6,17 +6,16 @@
 
 ## Chase
 
-\* ?
+* ?
 
 ## DWA + Pershing
 
 * DWA: note re Estimated payments not sent??
+* DWA: Send Will & Trust docs
 
-\* DWA: Send Will & Trust docs
+## Eastern Bank
 
-  
-
-## Expense Travking
+## Expense Tracking
 
 * Mint to Credit Karma / export data where to?
 * Monarch
@@ -25,17 +24,11 @@
 
 * Pay loans ~ Total Current Balance: $56,781.84
 
-  
-
 ## Thinking
 
 * Shoeboxed ~ to dropbox ~ Download scans
 
-  
-
 ## Confirm?
-
-  
 
 * Stop AI monthlies < confirm
 * Stop Samsung insurance
