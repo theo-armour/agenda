@@ -77,7 +77,7 @@ Before breakfast
 
 Morning
 
-* Take out bathroom trash
+*   
 * Replace trash bag
 *   
 * Soak butt rags
