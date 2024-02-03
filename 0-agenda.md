@@ -9,17 +9,19 @@
 
 **Today**
 
-* CK: photo spec
-* Michaan: Hobart 2024
-* Alix: FinDes Linkses
 *   
-* Sean: fix shower ~ door
+* Alix: FinDes Links
+* Read: Ends book
 * ArmourHQ: upload documents
+* desk: wash
 
 **Soon**
 
 * ?
-* Read: Ends book
+* Caludia:
+* Leslie
+* Santani
+* Sean: fix shower ~ door
 * Joe: Final Design
 * AlexP: msg
 
@@ -55,6 +57,8 @@
 
 * ?
 * Monocle: discord giveaway
+* CK: photo spec
+* Michaan: Hobart 2024
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a>
 
