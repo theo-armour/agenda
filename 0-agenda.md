@@ -5,14 +5,14 @@
 * 2024-01-29: With all else equal, take the road most documented < stand on the shoulders… ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)
 * Marty Nolan: Perfection is an illusion!
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admon Agenda</a>
 
 **Today**
 
-* * CK: photo spec
+* CK: photo spec
 * Michaan: Hobart 2024
 * Alix: FinDes Linkses
-*   
+* Eastern Bank: login
 * Eastern Bank: Money to Chase
 * Sean: fix shower ~ door
 * ArmourHQ: upload documents
