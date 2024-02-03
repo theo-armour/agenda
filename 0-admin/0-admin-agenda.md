@@ -4,14 +4,22 @@
 
 * DWA: note re Estimated payments not sent??
 * Mint to Credit Karma / export data where to?
-* Stop Samsung insurance
+*   
 * Pay loans ~ Total Current Balance: $56,781.84
-* Stop AI monthlies
-* Carmen: Pershing statement
+*   
 
 ## Thinking
 
 * Shoeboxed ~ to dropbox ~ Download scans
+
+  
+
+## Confirm?
+
+  
+
+* Stop AI monthlies < confirm
+* Stop Samsung insurance
 
 ***
 
