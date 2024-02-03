@@ -10,7 +10,7 @@
 **Today**
 
 * Claudia:
-* Leslie
+*   
 * Santani
 
 * Read: Ends book
