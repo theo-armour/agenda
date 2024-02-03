@@ -2,16 +2,18 @@
 
 ## Appointments
 
+* February 15: Dr Y
 * January 25 @ 2 Yogalakshmi Rajendran
 
 ## Agenda
 
+* RSV shot
 * Create sub-folders
 * Dr K: thanks
 * Gary Richmond: msg
 * UCSF: Eyes checkup
 * UCSF: Ortho appointment
-* Meet Martha N
+*   
 * Heritage: PT referral ~ EmpowerMe
 
 ## Work-in-progress
