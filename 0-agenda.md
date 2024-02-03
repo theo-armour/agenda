@@ -12,7 +12,7 @@
 * * Alix: FinDes Links
 * Read: Ends book
 * ArmourHQ: upload documents
-*   
+* Goodwill + Jorge
 
 **Soon**
 
