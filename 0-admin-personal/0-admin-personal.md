@@ -3,6 +3,7 @@
 ## Agenda
 
 * ?
+* Update ICE
 
 ## Possession De-acquisitions
 
