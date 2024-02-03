@@ -77,9 +77,9 @@ Before breakfast
 
 Morning
 
-*   
+* Take out bathroom trash
 * Replace trash bag
-*   
+* Sponge wash coffee mug
 * Soak butt rags
 
 Review
