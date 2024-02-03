@@ -9,16 +9,15 @@
 
 **Today**
 
-*   
-* Alix: FinDes Links
+* * Alix: FinDes Links
 * Read: Ends book
 * ArmourHQ: upload documents
-* desk: wash
+*   
 
 **Soon**
 
 * ?
-* Caludia:
+* Claudia:
 * Leslie
 * Santani
 * Sean: fix shower ~ door
