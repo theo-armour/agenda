@@ -12,6 +12,12 @@
 * Staff person: Use of AI to help with her
 * Lab studies: Can I participate? Or am I too old.
 
+## 2024-02-03
+
+Hi Santani
+
+
+
 ## 2023-12-03
 
 Hi Santani

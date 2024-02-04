@@ -1,19 +1,25 @@
 # Eloise
 
-* [https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md](https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md)
+* https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md
 
-  
+
+## 2024-02-03
+
 
 ## 2024-01-20
 
-\* Lolo ran a marathon today
+* Lolo ran a marathon today
 
 ## 2024-01-13
 
-* Arizina run
-* Grand Canyon run
-* arcgis
-* Professors names?
+* Arizina run ~ https://aravaiparunning.com/network/blackcanyon/ ~ 60K ~ 37 miles
+* Idaho run ~ hells canyon March 15 ~ 15 miles
+* Grand Canyon run ~ march 25 thursday ~ 50 miles
+* arcGIS/R
+* Professors names? ~ brigit eastep ~ center public land.
+* professor: jonathan Coop
+
+
 
 ## 2023-11-25
 
@@ -26,7 +32,7 @@
 
 storymap.js actually looks really good, but start with ArcGIS. ;-)
 
-[https://opensource.com/alternatives/arcgis](https://opensource.com/alternatives/arcgis)
+https://opensource.com/alternatives/arcgis
 
 ## 2023-09-16
 

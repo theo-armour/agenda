@@ -42,7 +42,6 @@
 * Neighborhood Events
 * Moscone Rec Center
 * Next Village
-* Senior discounts & benefits
 * Directors Interviews
 * BoD reports
 * Residents: Cottage Uses
