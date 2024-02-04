@@ -8,6 +8,16 @@ Son Mike - urologist
 In 2024-theo/people/mike Marean
 Interactive Object Network Indices For Law, Fact Patterns And Their Interaction
 
+## 2024-02-04
+
+Hi Mike
+
+Here is a link to some notes
+
+https://theo-armour.github.io/agenda/#2-peeps/2024-02-03-mike-marean.md
+
+Password: ecat88
+
 ## 2024-02-01
 
 Talked

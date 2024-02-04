@@ -1,14 +1,5 @@
 # 2024-02-03 Mike Marean
 
-Hi Mike
-
-Here is a link to some notes
-
-https://theo-armour.github.io/agenda/#2-peeps/2024-02-03-mike-marean.md
-
-Password: ecat88
-
-
 
 ## Display Paradigms ~ Separation of Concerns
 
