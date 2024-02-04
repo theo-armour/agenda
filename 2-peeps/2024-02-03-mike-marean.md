@@ -1,25 +1,45 @@
 # 2024-02-03 Mike Marean
 
-## Separation of Concerns
+## Display Paradigms ~ Separation of Concerns
 
 We talked of using 3D Mind Maps to display content. This is a good idea, but we need to be careful to separate the concerns of the data and the display. The data should be stored in a way that is independent of the display. This will allow us to change the display without changing the data. And vice versa.
 
-Display paradigms of interest
+Thinking out loud: Alternative display paradigms of possible interest
 
-* Textual: any particular trail described with words only. All bble to be podcasted
+* Textual: any particular trail described with words only. All able to be podcasted
 * 2D game board with 3D pieces
   * Think of a chess board with 3D pieces, but it's dungeons and dragons
   * Move pieces to alternate locations and let AI determine possible alternative outcomes
 * Full 3D gaming environment ~ with court buildings and offices and papers flying back and forth and avatars holding meetings
   * Cartoon style
   * Courtroom drawing style
-  * Photorealistic
+  * Photorealistic styles
   * See https://unity.com/
 
-https://en.wikipedia.org/wiki/Separation_of_concerns#HTML,_CSS,_JavaScript
+The mental model to keep in mind is "Separation of Concerns".
+
+### Wikipedia Entries
+
+* https://en.wikipedia.org/wiki/Separation_of_powers
+* https://en.wikipedia.org/wiki/Separation_of_duties
+* https://en.wikipedia.org/wiki/Separation_of_content_and_presentation
+* https://en.wikipedia.org/wiki/Separation_of_concerns#HTML,_CSS,_JavaScript
+
+Separation of concerns ~ tim berners lee
+
+* https://en.wikipedia.org/wiki/Tim_Berners-Lee#Policy_work
+* What will the system look like? ~ https://www.w3.org/History/1989/proposal.html
 
 
-## Communication
+### Examples
+
+* executive, legislative, judicial
+* html, css, JavaScript
+* ISP, email, cloud
+* Computer, Operating system, IDE
+
+
+## Communication ~ text messaging vs email vs GitHub
 
 In my world, we have to share:
 
@@ -29,12 +49,18 @@ In my world, we have to share:
 * Wishlists
 * & much more
 
-Text messaging is not a good way to share this information. I might be able to text you each time there is an update, but that is not a good way to share information with a group of people. We need a better way to share this information.
+Test messaging is fine for scheduling and checking in, but text messaging is not a good way to share the type of information listed above. I might be able to text you each time there is an update, but that is not a good way to share information with a group of people. We need a better way to share this information.
 
-How do you generally tackle these isues?
+Text is fine for messages up to ten to twenty words.
+
+Email is fine for simple topics and messages up to a few paragraphs.
+
+For anything larger or more complex, I use GitHub and VS Code for most of my efforts. And I am trying out Notion.so to communicate with my daughters.
+
+How do you generally tackle these issues?
 
 
-## The Project
+## Projects ~ Project Definition ~
 
 Needs
 
@@ -43,7 +69,6 @@ Needs
 * Vision
 
 In our recent conversation, we talked about a template to describe a project. Here is a template that I have used in the past to kick things off. It is a Notion template:
-
 
 
 <aside>
@@ -64,7 +89,7 @@ Why is solving this problem urgent? Why is it important?
 
 ---
 
-# 💭 Proposal
+### 💭 Proposal
 
 > **Example questions to answer:**
 How are we solving this issue? What alternatives did we consider?  Why did we land with this?
@@ -76,7 +101,7 @@ Have we considered how we’re building this to be fast, performant, scalable an
 
 ---
 
-# 🛫 Plan
+### 🛫 Plan
 
 > **Example questions to answer:**
 What are we building?  How does it work? How do we know that it works? What are we measuring? When will it be ready?
@@ -111,7 +136,7 @@ What are we building?  How does it work? How do we know that it works? What are 
 ****
 
 
-## Open or Closed Source?
+## Open or Closed Source
 
 Everything I do is open,Hee is some of my thinking:
 
@@ -132,21 +157,21 @@ Jefferson: lighting a candle does not diminish the light of the first candle.
 
 What is to be remembered? Very interesting question!
 
-If I hear you/Mike correctly, then every iota of legal procedure anywhere, any time, is to be remembered. Every action sets a precedent.
+If I hear you/Mike correctly, then every iota of legal procedure anywhere, any time, is to be remembered. Every action sets a precedent. Precedents are important. They need to be remembered.
 
 Recording these facts is hugely important. The failures, the lessons learned, the bad outcomes, the bad people, the bad ideas. We can learn from these.
 
-And yet, this only covers the very bad things, sorry outcomes and intransigent issues there ever has been.
+And yet, this only covers the very bad things, sorry outcomes and intransigent issues that people do.
 
 But what about the good things? The good outcomes? The good people? The good ideas?
 
-I talked with you about my "final design". And you replied by talking about these being forgettable for you.
+I talked with you about my "final design". And you [highly simplified] replied by talking about these aspects of life being forgettable for you.
 
 So, I agree there should be a UN declaration of Human Rights clause on being forgettable. But I also think there should be a UN declaration of Human Rights clause on being rememberable.
 
 Putting it another way: I described my "Final Design" thing as being all about tieing up all the loose ends of my life and creating a virtual reality "Matrix" of my life. You replied by talking about being forgettable.
 
-Well, suppose I framed it another way? Let's say I wanted to write the autobiography of an interesting life? In order to write that document it would be handy to have access to to `every court case` my old faxes or whatever.
+Well, suppose I frame my ideas another way? Let's say I wanted to write the autobiography of an interesting life? In order to write that document it would be handy to have access to to `every court case`, my old faxes or whatever.
 
 So, what I want to do is to write my autobiography. To do something that people have done for millennia. And in doing so, to be able to access all the information I need to write that document, and at the same time to make it some how authoritative
 
@@ -158,7 +183,13 @@ Alan Kay: "The best way to predict the future is to invent it."
 
 Use my past to define my future
 
-## SPS School Prayer
+
+## Saint Paul’s School ~ The School Prayer
+
+I recited the following prayer frequently during mu six years at Saint Paul's School. Many years later I was reminded of it. Atheist as I am, I still find its petition and reminders resonates well with my mission in life.
 
 "Grant, O Lord, that in all the joys of life we may never forget to be kind. Help us to be unselfish in friendship, thoughtful of those less happy than ourselves, and eager to bear the burdens of others; through Jesus Christ our Savior. Amen."
+
+
+https://www.sps.edu/living/chapel-program
 
