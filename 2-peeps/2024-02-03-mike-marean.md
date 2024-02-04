@@ -1,5 +1,15 @@
 # 2024-02-03 Mike Marean
 
+Hi Mike
+
+Here is a link to some notes
+
+https://theo-armour.github.io/agenda/#2-peeps/2024-02-03-mike-marean.md
+
+Password: ecat88
+
+
+
 ## Display Paradigms ~ Separation of Concerns
 
 We talked of using 3D Mind Maps to display content. This is a good idea, but we need to be careful to separate the concerns of the data and the display. The data should be stored in a way that is independent of the display. This will allow us to change the display without changing the data. And vice versa.
