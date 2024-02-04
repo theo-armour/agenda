@@ -2,16 +2,39 @@
 
 ## Actions
 
+* ?
+
+## Chase
+
+* ?
+
+## DWA + Pershing
+
 * DWA: note re Estimated payments not sent??
+* DWA: Send Will & Trust docs
+
+## Eastern Bank
+
+* Eastern Bank: login
+* Eastern Bank: Money to Chase
+
+## Expense Tracking
+
 * Mint to Credit Karma / export data where to?
-* Stop Samsung insurance
+* Monarch
+
+## Loans
+
 * Pay loans ~ Total Current Balance: $56,781.84
-* Stop AI monthlies
-* Carmen: Pershing statement
 
 ## Thinking
 
 * Shoeboxed ~ to dropbox ~ Download scans
+
+## Confirm?
+
+* Stop AI monthlies < confirm
+* Stop Samsung insurance
 
 ***
 

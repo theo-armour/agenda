@@ -5,30 +5,26 @@
 * 2024-01-29: With all else equal, take the road most documented < stand on the shoulders… ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)
 * Marty Nolan: Perfection is an illusion!
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-agenda.md&quot;">0 Agenda</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 **Today**
 
-* * CK: photo spec
-* Michaan: Hobart 2024
-* Alix: FinDes Linkses
-*   
-* Eastern Bank: Money to Chase
-* Sean: fix shower ~ door
+* Claudia:
+* Read: Ends book
 * ArmourHQ: upload documents
 
 **Soon**
 
 * ?
-* Read: Ends book
+* MikeM
+* Alix: FinDes Links
+* Sean: fix shower ~ door
 * Joe: Final Design
 * AlexP: msg
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
 * ?
-* Taxes: collect + scan documents
-* Carmen: upload documents
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will trust</a>
 
@@ -36,9 +32,9 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* SW: RSV shot ~ Goodwill
+* SW: RSV shot ~ wipes
 * Fred:
-* A:
+* A: mouseWash
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
@@ -51,12 +47,12 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
 * ?
-*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
 
 * ?
 * Monocle: discord giveaway
+*   
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a>
 
@@ -66,6 +62,8 @@
 
 * ?
 * tech donations
+* CK: photo spec
+* Michaan: Hobart 2024
 
 ***
 
@@ -93,7 +91,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * ??
-* Gukhui: ?
+* Gukhui:?
 * MikeM
 * MikeM: 3D Mind Map
 
