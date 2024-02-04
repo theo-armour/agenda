@@ -16,6 +16,7 @@
 **Soon**
 
 * ?
+* MikeM
 * Alix: FinDes Links
 * Sean: fix shower ~ door
 * Joe: Final Design
@@ -90,7 +91,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * ??
-* Gukhui: ?
+* Gukhui:?
 * MikeM
 * MikeM: 3D Mind Map
 
