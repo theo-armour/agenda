@@ -18,6 +18,10 @@ Thinking out loud: Alternative display paradigms of possible interest
 
 The mental model to keep in mind is "Separation of Concerns".
 
+### Recent 3D Mind Map Examples
+
+<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/TheoA/3d-mind-maps-41394298/embed"></iframe>
+
 ### Wikipedia Entries
 
 * https://en.wikipedia.org/wiki/Separation_of_powers
