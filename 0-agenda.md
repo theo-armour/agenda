@@ -16,8 +16,7 @@
 **Soon**
 
 * ?
-*   
-* Alix: FinDes Links
+* Alix: FinDes Links  
 * Sean: fix shower ~ door
 * Joe: Final Design
 * AlexP: msg
