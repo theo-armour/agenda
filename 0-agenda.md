@@ -12,7 +12,6 @@
 * Claudia:
 * Read: Ends book
 * ArmourHQ: upload documents
-*   
 
 **Soon**
 
@@ -34,7 +33,7 @@
 
 * SW: RSV shot ~ wipes
 * Fred:
-* A:
+* A: mouseWash
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
@@ -52,8 +51,7 @@
 
 * ?
 * Monocle: discord giveaway
-* CK: photo spec
-* Michaan: Hobart 2024
+*   
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a>
 
@@ -63,6 +61,8 @@
 
 * ?
 * tech donations
+* CK: photo spec
+* Michaan: Hobart 2024
 
 ***
 
