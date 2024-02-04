@@ -4,7 +4,7 @@
 
 We talked of using 3D Mind Maps to display content. This is a good idea, but we need to be careful to separate the concerns of the data and the display. The data should be stored in a way that is independent of the display. This will allow us to change the display without changing the data. And vice versa.
 
-Thinking out loud: Alternative display paradigms of possible interest
+### Thinking out loud: Alternative display paradigms of possible interest
 
 * Textual: any particular trail described with words only. All able to be podcasted
 * 2D game board with 3D pieces
@@ -18,9 +18,13 @@ Thinking out loud: Alternative display paradigms of possible interest
 
 The mental model to keep in mind is "Separation of Concerns".
 
+
 ### Recent 3D Mind Map Examples
 
+My efforts from 2020 or so are not as sophisticated as the current tools. I have been using Raindrop.io to collect and display my 3D Mind Maps I came across:
+
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/TheoA/3d-mind-maps-41394298/embed"></iframe>
+
 
 ### Wikipedia Entries
 
@@ -64,13 +68,17 @@ For anything larger or more complex, I use GitHub and VS Code for most of my eff
 How do you generally tackle these issues?
 
 
-## Projects ~ Project Definition ~
+## Projects ~ Project Definition
 
 Needs
 
-* Name < Important, a word or two
+* Name < Important, a word or two, a code name, a project name whatever
 * Vocabulary / Schema of essential terms
 * Vision
+
+A project without a name is like a room without a door. It is hard to get in and out of. It is hard to talk about. It is hard to remember. It is hard to find.
+
+### Project Definition Template
 
 In our recent conversation, we talked about a template to describe a project. Here is a template that I have used in the past to kick things off. It is a Notion template:
 
@@ -142,15 +150,16 @@ What are we building?  How does it work? How do we know that it works? What are 
 
 ## Open or Closed Source
 
-Everything I do is open,Hee is some of my thinking:
+[first draft]
+
+Everything I do is open, here is some of my thinking:
 
 * At my age that last thing I need is people making demands of my remaining mortal coil minutes
 * I have  fair amount of money. Goldilocks amount. Not too much, not too little. Just right.
 * I may not have billions to throw around, but I have a fair amount of accumulated wisdom to share around
+* I do not want to be beholden to others
 
-I do not want to be beholden to others.
-
-At the same time, I want a wide possible audience, dissemination, people involved and use of my work.Linus Torvalds, Guido van Rossum, Kernighan & Ritchie, Bjarne Stroustrup, Alain Colmerauer & Robert Kowalski and others are heroes. They have created far more wealth and social capital than Steve and Bill. They have made the world a better place by **sharing** their work.
+At the same time, I want a wide possible audience, dissemination, people involved and use of my work. Linus Torvalds, Guido van Rossum, Kernighan & Ritchie, Bjarne Stroustrup, Alain Colmerauer & Robert Kowalski and others are heroes. They have created far more wealth and social capital than Steve and Bill. They have made the world a better place by **sharing** their work.
 
 If I am in the very fortunate position of having the ability to share, then I am obligated to share.
 
@@ -158,6 +167,8 @@ Jefferson: lighting a candle does not diminish the light of the first candle.
 
 
 ## The "Final Design"
+
+[Work in progress]
 
 What is to be remembered? Very interesting question!
 
