@@ -16,7 +16,7 @@
 **Soon**
 
 * ?
-* MikeM
+*   
 * Alix: FinDes Links
 * Sean: fix shower ~ door
 * Joe: Final Design
