@@ -17,7 +17,7 @@ Heritage Happenings
 
 ## 2024-01-19
 
-* Alix: web essentials
+* Alix: web essentials < where??
 * Alix: energy prompt ~ features/benefits ~ ECAT ~ links
 * Alix: Mood mirrors
 
