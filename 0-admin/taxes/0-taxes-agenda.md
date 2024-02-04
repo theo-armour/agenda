@@ -5,7 +5,8 @@
 ### Appointment
 
 * Carmen: 2024-02-10 @4pm
-*   
+* Taxes: collect + scan documents
+* Carmen: upload documents
 
 ### HRBlock Carmen Brooks
 
