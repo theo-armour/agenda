@@ -10,10 +10,9 @@
 **Today**
 
 * Claudia:
-*   
 * Read: Ends book
 * ArmourHQ: upload documents
-* Goodwill + Jorge
+*   
 
 **Soon**
 
@@ -35,7 +34,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* SW: RSV shot ~ Goodwill
+* SW: RSV shot ~ 
 * Fred:
 * A:
 
