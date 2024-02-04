@@ -32,7 +32,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* SW: RSV shot ~ wipes
+* SW: RSV shot ~ wipes ~ measuring spoons
 * Fred:
 * A: mouseWash
 
@@ -52,7 +52,6 @@
 
 * ?
 * Monocle: discord giveaway
-*   
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a>
 
