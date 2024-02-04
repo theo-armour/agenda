@@ -10,8 +10,7 @@
 **Today**
 
 * Claudia:
-* Santani
-
+*   
 * Read: Ends book
 * ArmourHQ: upload documents
 * Goodwill + Jorge
@@ -19,7 +18,7 @@
 **Soon**
 
 * ?
-* Alix: FinDes Links  
+* Alix: FinDes Links
 * Sean: fix shower ~ door
 * Joe: Final Design
 * AlexP: msg
