@@ -1,5 +1,7 @@
 # Alix
 
+\* read Ends
+
 ## 2024-02-01
 
 My Designed Life: Mental models
