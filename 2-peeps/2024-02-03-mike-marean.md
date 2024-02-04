@@ -6,13 +6,13 @@ We talked of using 3D Mind Maps to display content. This is a good idea, but we 
 
 Display paradigms of interest
 
-* Textual: any particular trail described with words only. Able to be podcasted
+* Textual: any particular trail described with words only. All bble to be podcasted
 * 2D game board with 3D pieces
   * Think of a chess board with 3D pieces, but it's dungeons and dragons
-  * Move pieces to alternate locations and let AI determine possible outcomes
+  * Move pieces to alternate locations and let AI determine possible alternative outcomes
 * Full 3D gaming environment ~ with court buildings and offices and papers flying back and forth and avatars holding meetings
   * Cartoon style
-  * Courtroom drawing
+  * Courtroom drawing style
   * Photorealistic
   * See https://unity.com/
 
@@ -44,7 +44,7 @@ Needs
 
 In our recent conversation, we talked about a template to describe a project. Here is a template that I have used in the past to kick things off. It is a Notion template:
 
-```markdown
+
 
 <aside>
 
@@ -110,7 +110,6 @@ What are we building?  How does it work? How do we know that it works? What are 
 
 ****
 
-```
 
 ## Open or Closed Source?
 
@@ -151,13 +150,13 @@ Well, suppose I framed it another way? Let's say I wanted to write the autobiogr
 
 So, what I want to do is to write my autobiography. To do something that people have done for millennia. And in doing so, to be able to access all the information I need to write that document, and at the same time to make it some how authoritative
 
-At the same time the last thing I would want is to have whatever Ido framed as a paper document. ;-)
+At the same time the last thing I would want is to have whatever I do framed as a paper document. ;-)
 
 Invent the future:
 
 Alan Kay: "The best way to predict the future is to invent it."
 
-
+Use my past to define my future
 
 ## SPS School Prayer
 
