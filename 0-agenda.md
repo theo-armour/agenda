@@ -10,13 +10,13 @@
 **Today**
 
 * Claudia:
-* Read: Ends book
+*   
 * ArmourHQ: upload documents
 
 **Soon**
 
 * ?
-* Alix: FinDes Links  
+* Alix: FinDes Links
 * Sean: fix shower ~ door
 * Joe: Final Design
 * AlexP: msg
