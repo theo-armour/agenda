@@ -35,7 +35,7 @@ dealer ~
 * Customer Code: ARMT0125D
 * http://lawrencefinearts.com/
 * 231 Michelle Ct
-* Sooth San Francisco, CA
+* South San Francisco, CA
 * info@lawrencefinearts.com
 * (650) 624-9883
 * Sajal Patel
@@ -44,6 +44,11 @@ dealer ~
 
 * https://michaans.com/
 * Free appraisals for twenty items
+
+## Clars
+
+* https://clars.com/
+
 
 ## Photos
 
