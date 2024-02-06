@@ -12,6 +12,7 @@
 * Simplicity: draft to auction houses
 * Eastern Bank>Ch: Send $ to Chase
 * Cynthia: address + socks
+* HH>Committee: invite
 
 **Soon**
 
