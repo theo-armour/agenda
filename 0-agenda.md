@@ -16,11 +16,10 @@
 **Soon**
 
 * ?
-* Uber: voucher
+*   
 * Manatt>Vivian: close out
 * Alix: FinDes Links
 * Sean: door paint
-*   
 * AlexP: msg
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
