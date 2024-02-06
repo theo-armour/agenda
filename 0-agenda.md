@@ -11,6 +11,7 @@
 
 * Simplicity: draft to auction houses
 * Eastern Bank>Ch: Send $ to Chase
+* Cynthia: address + socks
 
 **Soon**
 
@@ -76,7 +77,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
 * ?
-* Socks
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">eloise</a>
 
