@@ -10,13 +10,13 @@
 **Today**
 
 * Claudia:
-* Read: Ends book
 * ArmourHQ: upload documents
 
 **Soon**
 
 * ?
-* Alix: FinDes Links  
+* Uber: voucher
+* Alix: FinDes Links
 * Sean: fix shower ~ door
 * Joe: Final Design
 * AlexP: msg
@@ -33,7 +33,6 @@
 
 * SW: RSV shot ~ wipes ~ measuring spoons
 * Fred:
-* A: mouseWash
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
@@ -77,6 +76,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
 * ?
+* Socks
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">eloise</a>
 
