@@ -3,6 +3,11 @@
 * https://ww2.arb.ca.gov/
 * https://www.linkedin.com/in/cynthiaarmour/
 
+
+## creativity inc
+
+https://en.wikipedia.org/wiki/Creativity,_Inc ~ Cynthia liked it
+
 ## Lead
 
 * Chakora
