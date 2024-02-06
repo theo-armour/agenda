@@ -10,7 +10,7 @@
 **Today**
 
 * Simplicity: draft to auction houses
-* Eastern Bank>Ch: Send $ to Chase
+*   
 * HH>Committee: invite
 
 **Soon**
