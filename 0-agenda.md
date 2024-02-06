@@ -10,12 +10,13 @@
 **Today**
 
 * Simplicity: draft to auction houses
-*   
 * HH>Committee: invite
+* Laundry ~ Mano ~ Safeway
 
 **Soon**
 
 * ?
+* Endineering: read
 * HRBlock>Carmen: tax docs
 * Manatt>Vivian: close out
 * ArmourHQ: upload documents
