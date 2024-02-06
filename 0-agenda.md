@@ -17,7 +17,7 @@
 * ?
 * Uber: voucher
 * Alix: FinDes Links
-* Sean: fix shower ~ door
+* Sean: door paint
 * Joe: Final Design
 * AlexP: msg
 
