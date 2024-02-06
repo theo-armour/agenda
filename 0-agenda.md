@@ -11,7 +11,6 @@
 
 * Simplicity: draft to auction houses
 * Eastern Bank>Ch: Send $ to Chase
-*   
 * HH>Committee: invite
 
 **Soon**
@@ -22,6 +21,7 @@
 * ArmourHQ: upload documents
 * Sean: door paint
 * AlexP: msg
+* S23: return
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
