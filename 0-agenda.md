@@ -10,12 +10,12 @@
 **Today**
 
 * Claudia:
-*   
 * ArmourHQ: upload documents
 
 **Soon**
 
 * ?
+* Uber: voucher
 * Alix: FinDes Links
 * Sean: fix shower ~ door
 * Joe: Final Design
