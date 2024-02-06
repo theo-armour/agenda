@@ -11,14 +11,13 @@
 
 * Simplicity: draft to auction houses
 * Eastern Bank>Ch: Send $ to Chase
-* ArmourHQ: upload documents
 
 **Soon**
 
 * ?
-*   
+* HRBlock>Carmen: tax docs
 * Manatt>Vivian: close out
-* Alix: FinDes Links
+* ArmourHQ: upload documents
 * Sean: door paint
 * AlexP: msg
 
@@ -90,9 +89,8 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * ??
-* Gukhui:?
 * MikeM
-* MikeM: 3D Mind Map
+*   
 
 ***
 
