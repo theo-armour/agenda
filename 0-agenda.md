@@ -9,13 +9,15 @@
 
 **Today**
 
-* Claudia:
+* Simplicity: draft to auction houses
+* Eastern Bank>Ch: Send $ to Chase
 * ArmourHQ: upload documents
 
 **Soon**
 
 * ?
 * Uber: voucher
+* Manatt>Vivian: close out
 * Alix: FinDes Links
 * Sean: door paint
 * Joe: Final Design
