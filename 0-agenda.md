@@ -11,7 +11,6 @@
 **Today**
 
 * Simplicity: draft to auction houses
-*   
 
 **Soon**
 
@@ -36,7 +35,9 @@
 * SW: RSV shot ~ splenda ~wipes ~ measuring spoons
 * Fred:
 * First mac??
-* Sean: hooks
+* Sean: hooks  
+    https://cdsp.edu/call/online/ ~ 8 feb  
+*   
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
