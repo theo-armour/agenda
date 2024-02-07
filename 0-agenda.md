@@ -16,12 +16,12 @@
 **Soon**
 
 * ?
-* Peter Dobey: 5pm
+* Peter Dobey: 7pm
 * Endineering: read
 * HRBlock>Carmen: tax docs
 * Manatt>Vivian: close out
 * ArmourHQ: upload documents
-* Sean: door paint
+*   
 * AlexP: msg
 * S23: return
 
