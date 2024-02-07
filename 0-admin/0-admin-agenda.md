@@ -15,8 +15,7 @@
 
 ## Eastern Bank
 
-* Eastern Bank: login
-* Eastern Bank: Money to Chase
+* waiting transfer
 
 ## Expense Tracking
 
