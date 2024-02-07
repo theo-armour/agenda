@@ -19,7 +19,6 @@
 * Peter Dobey: 9pm
 * Endineering: read
 * HRBlock>Carmen: tax docs
-*   
 * ArmourHQ: upload documents
 * AlexP: msg
 * S23: return
