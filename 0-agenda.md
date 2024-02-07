@@ -11,11 +11,12 @@
 
 * Simplicity: draft to auction houses
 * HH>Committee: invite
-* Laundry ~ Mano ~ Safeway
+* Laundry ~ Mamo ~ Safeway
 
 **Soon**
 
 * ?
+* Peter Dobey: 5pm
 * Endineering: read
 * HRBlock>Carmen: tax docs
 * Manatt>Vivian: close out
