@@ -10,7 +10,6 @@
 **Today**
 
 * Simplicity: draft to auction houses
-* HH>Committee: invite
 * Laundry ~ Mamo ~ Safeway
 
 **Soon**
@@ -21,7 +20,6 @@
 * HRBlock>Carmen: tax docs
 * Manatt>Vivian: close out
 * ArmourHQ: upload documents
-*   
 * AlexP: msg
 * S23: return
 
