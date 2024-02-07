@@ -3,6 +3,7 @@
 ## Actions
 
 * ?
+* use Manatt $$
 
 ## Chase
 
@@ -21,6 +22,7 @@
 
 * Mint to Credit Karma / export data where to?
 * Monarch
+* Tiller: try it ~ https://www.tillerhq.com/
 
 ## Loans
 
