@@ -4,6 +4,7 @@
 
 * 2024-01-29: With all else equal, take the road most documented < stand on the shoulders… ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)
 * Marty Nolan: Perfection is an illusion!
+* 2024-02-06 ~ If it's worth doing, then it's worth doing badly.
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -15,7 +16,7 @@
 **Soon**
 
 * ?
-* Peter Dobey: 7pm
+* Peter Dobey: 9pm
 * Endineering: read
 * HRBlock>Carmen: tax docs
 * Manatt>Vivian: close out
@@ -33,7 +34,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* SW: RSV shot ~ wipes ~ measuring spoons
+* SW: RSV shot ~ splenda ~wipes ~ measuring spoons
 * Fred:
 * First mac??
 
@@ -118,6 +119,7 @@
 March
 
 * HH: post-mortem
+* MLohn: #7 
 * ?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
@@ -133,6 +135,7 @@ March
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-3-residents/0-residents.md&quot;">3.3 residents</a>
 
 * ?
+* MJohn: Champagne
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a>
 
