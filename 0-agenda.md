@@ -19,7 +19,7 @@
 * Peter Dobey: 9pm
 * Endineering: read
 * HRBlock>Carmen: tax docs
-* Manatt>Vivian: close out
+*   
 * ArmourHQ: upload documents
 * AlexP: msg
 * S23: return
@@ -37,6 +37,7 @@
 * SW: RSV shot ~ splenda ~wipes ~ measuring spoons
 * Fred:
 * First mac??
+* Sean: hooks
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
