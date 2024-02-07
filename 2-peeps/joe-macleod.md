@@ -10,6 +10,25 @@
 * https://learn.endineering.co/courses/endineering-course
 
 
+## 2024-02-06 Endineering
+
+Please
+
+* Update it digitally at lease once a year
+  * Book is now very old
+* Add the ability to be a colleges text. Add questions at vthe end of chapters
+* What is your end-game" Your personal off-boarding?
+* links in the text?
+* Trade-ins are a thing
+* Houses, cars, and now phones: very tradeable
+* The audience talks back
+* Amazon reviews
+* Too much work for you; need help
+* Book is boring; diagrams repetitive;
+* Separate "news" from "reference"
+
+
+
 ## 2024-02-05
 
 ## what a wonderful and varied life and career you have had < Having
