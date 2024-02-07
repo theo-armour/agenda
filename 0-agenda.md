@@ -10,7 +10,7 @@
 **Today**
 
 * Simplicity: draft to auction houses
-* Laundry ~ Mamo ~ Safeway
+*   
 
 **Soon**
 
@@ -79,7 +79,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
 * ?
-*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">eloise</a>
 
@@ -93,7 +92,6 @@
 
 * ??
 * MikeM
-*   
 
 ***
 
