@@ -4,22 +4,24 @@
 
 * 2024-01-29: With all else equal, take the road most documented < stand on the shoulders… ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)
 * Marty Nolan: Perfection is an illusion!
+* 2024-02-06 ~ If it's worth doing, then it's worth doing badly.
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 **Today**
 
-* Claudia:
-* ArmourHQ: upload documents
+* Simplicity: draft to auction houses
 
 **Soon**
 
 * ?
-* Uber: voucher
-* Alix: FinDes Links
-* Sean: fix shower ~ door
-* Joe: Final Design
+* Peter Dobey: 9pm
+* Endineering: read
+* HRBlock>Carmen: tax docs
+* ArmourHQ: upload documents
 * AlexP: msg
+* S23: return
+* Simone: message
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -31,8 +33,12 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* SW: RSV shot ~ wipes ~ measuring spoons
+* SW: RSV shot ~ splenda ~wipes ~ measuring spoons
 * Fred:
+* First mac??
+* Sean: hooks  
+    https://cdsp.edu/call/online/ ~ 8 feb  
+*   
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
@@ -76,7 +82,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
 * ?
-* Socks
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">eloise</a>
 
@@ -89,9 +94,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * ??
-* Gukhui:?
 * MikeM
-* MikeM: 3D Mind Map
 
 ***
 
@@ -118,6 +121,7 @@
 March
 
 * HH: post-mortem
+* MLohn: #7 
 * ?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
@@ -133,6 +137,7 @@ March
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-3-residents/0-residents.md&quot;">3.3 residents</a>
 
 * ?
+* MJohn: Champagne
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a>
 

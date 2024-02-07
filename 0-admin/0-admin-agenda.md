@@ -3,6 +3,7 @@
 ## Actions
 
 * ?
+* use Manatt $$
 
 ## Chase
 
@@ -15,13 +16,13 @@
 
 ## Eastern Bank
 
-* Eastern Bank: login
-* Eastern Bank: Money to Chase
+* waiting transfer
 
 ## Expense Tracking
 
 * Mint to Credit Karma / export data where to?
 * Monarch
+* Tiller: try it ~ https://www.tillerhq.com/
 
 ## Loans
 

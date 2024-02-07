@@ -6,7 +6,7 @@
 * Chase: draft message
 * Eastern Bank: draft message + password
 * Kayakomat: draft message
-
+* Manatt>Vivian: close out
 
 ## Agenda Memorandum of Personal Property
 
@@ -25,7 +25,6 @@
 
 * Carmen: Taxes ~ msg sent
 * Josh: trust titles ~ msg sent
-
 
 ## 2023-12-20?
 
