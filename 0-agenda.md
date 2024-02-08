@@ -15,14 +15,12 @@
 **Soon**
 
 * ?
-*   
 * Endineering: read
 * HRBlock>Carmen: tax docs
 * ArmourHQ: upload documents
 * AlexP: msg
-* S23: return
-* Simone: message
 *   
+* Simone: message
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -36,8 +34,7 @@
 
 * SW: RSV shot ~ esomaprazole
 * Fred:
-*   
-* Sean: hooks
+* * Sean: hooks
 * [https://cdsp.edu/call/online/](https://cdsp.edu/call/online/) ~ 8 feb
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
