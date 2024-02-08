@@ -19,7 +19,6 @@
 * HRBlock>Carmen: tax docs
 * ArmourHQ: upload documents
 * AlexP: msg
-*   
 * Simone: message
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
@@ -32,9 +31,9 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* SW: RSV shot ~ esomaprazole
+* SW:
 * Fred:
-* * Sean: hooks
+* Sean: hooks
 * [https://cdsp.edu/call/online/](https://cdsp.edu/call/online/) ~ 8 feb
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
