@@ -1,6 +1,7 @@
 # Alix
 
-\* read Ends
+* read Ends
+* Why Google Fi
 
 ## 2024-02-01
 
