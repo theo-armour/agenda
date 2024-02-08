@@ -3,7 +3,7 @@
 ## Appointments
 
 * February 15: Dr Y
-* January 25 @ 2 Yogalakshmi Rajendran
+* [Medicare Supplement dental plans | Blue Shield Medicare (blueshieldca.com)](https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental)  
 
 ## Agenda
 
@@ -12,8 +12,7 @@
 * Gary Richmond: msg
 * UCSF: Eyes checkup
 * UCSF: Ortho appointment
-*   
-* Heritage: PT referral ~ EmpowerMe
+* * Heritage: PT referral ~ EmpowerMe
 
 ## Work-in-progress
 
