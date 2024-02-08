@@ -8,6 +8,31 @@ https://us04web.zoom.us/j/77291689901?pwd=dHhvWE92c0VIQ1hobVJpRS8zQVdlQT09
 Meeting ID: 772 9168 9901
 Passcode: 8
 
+
+## 2024-02-07
+
+* build castles
+* make behavioral changes through the virtusal
+* derrida archive fever
+* https://en.wikipedia.org/wiki/Archive_Fever
+
+
+
+Goldfinger
+He's the man, the man with the Midas touch
+A spider's touch
+Such a cold finger
+Beckons you to enter his web of sin
+But don't go in
+
+Goldmirror
+He's the man, the man withe the mirror touch
+A an artists touch
+Beckons you to enter his wall of sin
+But don't go in
+
+
+
 ## 2023-09-08
 
 ## 2023-09-06

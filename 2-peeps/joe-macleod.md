@@ -1,5 +1,11 @@
 # Joe Macleod
 
+## Education
+
+Saint Martins College of Art and Design, London, UK
+RCA
+
+## Links
 
 * https://www.andend.co/
 * https://www.linkedin.com/in/josephmacleod/
@@ -10,22 +16,89 @@
 * https://learn.endineering.co/courses/endineering-course
 
 
+## 2024-02-07 Off-boarding your life
+
+
+
+Final Design three points
+
+Prepare to end your life following the three reminders of the final design.
+
+### Leave no trace
+
+* In general: Follow Burning man's ten principles
+* In particular: Leave no trace
+* Leave as we came in ~ with nothing
+* Leave little or effort required to "clean up" by those left behind
+* Exercise the right to be forgotten
+
+### What is remembered lives
+
+* Digitize your life
+* All of it
+* Put it all up on the cloud
+* Internet Archive
+* Exercise the right to be remembered
+
+### Heavenly bonus points: Recreate
+
+* Amuse yourself
+* Again, create something new
+* The end becomes a new beginning
+* a recreation ( an amusing and new creation)
+* Exercise the right to be reborn
+
+
 ## 2024-02-06 Endineering
 
-Please
+Endineering is not the book I had anticipated after reading Ends.
 
+If I had read Endineering first, I might have a different view.
+
+In my current view, Ends may be a better book. I am not sure though and will continue the review
+
+### Editions ~ Versioning
+
+* Book is now very old
 * Update it digitally at lease once a year
-  * Book is now very old
-* Add the ability to be a colleges text. Add questions at vthe end of chapters
+* Add the ability to be a college text. Add questions at the end of chapters
+
+### Branding
+
 * What is your end-game" Your personal off-boarding?
+* Too much work for you; need help
+* Avoid creating a star network
+* Separate "news" from "reference"
+* Separate possible projects from actual projects
+
+### Content
+
 * links in the text?
-* Trade-ins are a thing
-* Houses, cars, and now phones: very tradeable
+* Book is boring; diagrams repetitive;
+* Loose ending
+
+### Off-boarding
+
+Pre-sale support is growing
+
 * The audience talks back
 * Amazon reviews
-* Too much work for you; need help
-* Book is boring; diagrams repetitive;
-* Separate "news" from "reference"
+* Services: Yelp reviews
+
+After-sale support is growing
+
+* Ebay & Craigslist are a thing
+* Trade-ins are a thing:
+* Trade in phones & computers are a thing
+
+After markets are a thing
+
+* Houses, cars
+* Goodwill, Salvation Army
+
+## Course
+
+* Free preview not working
 
 
 
