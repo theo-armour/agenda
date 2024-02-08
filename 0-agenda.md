@@ -19,7 +19,7 @@
 * HRBlock>Carmen: tax docs
 * ArmourHQ: upload documents
 * AlexP: msg
-* Simone: message
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
