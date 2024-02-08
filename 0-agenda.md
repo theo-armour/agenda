@@ -4,7 +4,7 @@
 
 * 2024-01-29: With all else equal, take the road most documented < stand on the shoulders… ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)
 * Marty Nolan: Perfection is an illusion!
-* 2024-02-06 ~ If it's worth doing, then it's worth doing badly.
+* 2024-02-06 ~ Patrick: If it's worth doing, then it's worth doing badly.
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
