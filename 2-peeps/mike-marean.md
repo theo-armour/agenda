@@ -8,6 +8,25 @@ Son Mike - urologist
 In 2024-theo/people/mike Marean
 Interactive Object Network Indices For Law, Fact Patterns And Their Interaction
 
+
+## 2024-02-08
+
+https://substack.com/inbox/post/141477909
+
+Talks about different ways of considering the calendar
+
+Mike's work is about considering dozens of calendars. If every email has its own calendars then we have millions of calendars.
+
+### View
+
+A row of "pages" standing vertically on top of a landscape. Each page represents a tim slot. Week, day, hour, minute - whatever the user wants. The lanscape shows a map with areas representing courts, offices and other locations of interest
+Every person has a box. Beneath each box is a row of icons representing emails, calls, text and meetings. Above the box there might be a row of icons signifying other things.
+
+The persons box moves from office to couurt to other
+
+As you mouse over the pages, tthe pages seprate to enable a clear view of the currently selected page.
+
+
 ## 2024-02-04
 
 Hi Mike

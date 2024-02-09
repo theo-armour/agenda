@@ -18,9 +18,12 @@ RCA
 
 ## 2024-02-07 Off-boarding your life
 
+* Off-boarding end-of-life is a thing
+* How can we help?
 
+### Final Design three points
 
-Final Design three points
+Tie up loose ends; make it easy for a happy ending.
 
 Prepare to end your life following the three reminders of the final design.
 
@@ -32,6 +35,7 @@ Prepare to end your life following the three reminders of the final design.
 * Leave little or effort required to "clean up" by those left behind
 * Exercise the right to be forgotten
 
+
 ### What is remembered lives
 
 * Digitize your life
@@ -39,6 +43,7 @@ Prepare to end your life following the three reminders of the final design.
 * Put it all up on the cloud
 * Internet Archive
 * Exercise the right to be remembered
+
 
 ### Heavenly bonus points: Recreate
 

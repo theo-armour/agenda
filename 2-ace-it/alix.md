@@ -1,6 +1,14 @@
 # Alix
 
-\* read Ends
+* read Ends
+minimise.today
+https://www.minimise.today/
+
+
+## 2024-02-08
+
+8 - 18 march
+
 
 ## 2024-02-01
 
