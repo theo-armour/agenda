@@ -16,6 +16,41 @@ RCA
 * https://learn.endineering.co/courses/endineering-course
 
 
+## 2024-02-08
+
+ch6p25
+* Multiple engagements
+* Creating a memory
+
+Google HEART framework
+* https://www.interaction-design.org/literature/article/google-s-heart-framework-for-measuring-ux
+
+Cradle to Grave
+
+* https://c2ccertified.org/
+
+Mood memory
+
+Ch9p20
+
+https://www.deceptive.design/
+
+
+ch14 types of ending
+
+ch15 Phases of the end
+
+* Crack of doubt
+* Acknowledged
+* Actioned
+* Observed
+* Settled
+* Aftermath
+* Rebirth
+
+Ch16 diagrams useful
+
+
 ## 2024-02-07 Off-boarding your life
 
 * Off-boarding end-of-life is a thing
