@@ -19,7 +19,7 @@
 * HRBlock>Carmen: tax docs
 * ArmourHQ: upload documents
 * AlexP: msg
-* EverEverLandings: check them + number?4RgR0&PD259xFu67GY4\*%ZUS^2Q$VTb^
+* EverEverLandings: check them + number?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
