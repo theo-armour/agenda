@@ -9,6 +9,10 @@ Meeting ID: 772 9168 9901
 Passcode: 8
 
 
+## 2024-02-08
+
+https://eslac.github.io/art-gallery/art-viewer.html
+
 ## 2024-02-07
 
 * build castles
