@@ -9,6 +9,7 @@ https://www.minimise.today/
 
 8 - 18 march
 
+* Why Google Fi
 
 ## 2024-02-01
 

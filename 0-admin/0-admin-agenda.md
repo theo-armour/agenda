@@ -16,13 +16,13 @@
 
 ## Eastern Bank
 
-* waiting transfer
+* waiting transfer phone call
 
 ## Expense Tracking
 
 * Mint to Credit Karma / export data where to?
 * Monarch
-* Tiller: try it ~ https://www.tillerhq.com/
+* Tiller: try it ~ [https://www.tillerhq.com/](https://www.tillerhq.com/)
 
 ## Loans
 

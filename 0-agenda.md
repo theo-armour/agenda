@@ -4,7 +4,7 @@
 
 * 2024-01-29: With all else equal, take the road most documented < stand on the shoulders… ~ [https://jarbus.net/blog/take-the-road-most-documented/](https://jarbus.net/blog/take-the-road-most-documented/)
 * Marty Nolan: Perfection is an illusion!
-* 2024-02-06 ~ If it's worth doing, then it's worth doing badly.
+* 2024-02-06 ~ Patrick: If it's worth doing, then it's worth doing badly.
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -15,13 +15,11 @@
 **Soon**
 
 * ?
-* Peter Dobey: 9pm
 * Endineering: read
 * HRBlock>Carmen: tax docs
 * ArmourHQ: upload documents
 * AlexP: msg
-* S23: return
-* Simone: message
+* EverEverLandings: check them + number?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -33,12 +31,10 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* SW: RSV shot ~ splenda ~wipes ~ measuring spoons
+* SW:
 * Fred:
-* First mac??
-* Sean: hooks  
-    https://cdsp.edu/call/online/ ~ 8 feb  
-*   
+* Sean: hooks
+* [https://cdsp.edu/call/online/](https://cdsp.edu/call/online/) ~ 8 feb
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
@@ -77,7 +73,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">alix</a>
 
 * ?
-* Carman link
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
@@ -95,6 +91,7 @@
 
 * ??
 * MikeM
+* First mac??
 
 ***
 
