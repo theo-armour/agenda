@@ -15,11 +15,11 @@
 ### Forms needed
 
 [x] Pershing ~ NA ~ IRA
-* Eastern Bank ~ Hovey ~ Patch
-* Aidvantage ~
+[]] Eastern Bank ~ Hovey ~ Patch
+[x] Aidvantage ~
 [x] WSD
 [x] SSA
-* Baker Tilley
+[] Baker Tilly
 * Chase deposit box
 
 
@@ -28,7 +28,8 @@
 [x] SPS
 [] BBN
 [] Syracuse
-[] Heritage
+[] Heritage Donations
+[] Heritage EAF
 [] Others
 
 
