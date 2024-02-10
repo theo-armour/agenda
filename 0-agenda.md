@@ -15,7 +15,7 @@
 **Soon**
 
 * ?
-* HRBlock>Carmen: tax docs
+*   
 * ArmourHQ: upload documents
 * AlexP: msg
 
@@ -32,7 +32,6 @@
 * SW:
 * Fred:
 * Sean: hooks
-*   
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
