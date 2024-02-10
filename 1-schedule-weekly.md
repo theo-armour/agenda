@@ -79,7 +79,7 @@ Morning
 
 * Take out bathroom trash
 * Replace trash bag
-* Sponge wash coffee mug
+* Sponge wash coffee mug ~ while water is warming up: do nose & ears
 * Soak butt rags
 
 Review
