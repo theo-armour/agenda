@@ -12,7 +12,7 @@
 
 ## 2024-01-13
 
-* Arizina run ~ https://aravaiparunning.com/network/blackcanyon/ ~ 60K ~ 37 miles
+* Arizona run ~ https://aravaiparunning.com/network/blackcanyon/ ~ 60K ~ 37 miles
 * Idaho run ~ hells canyon March 15 ~ 15 miles
 * Grand Canyon run ~ march 25 thursday ~ 50 miles
 * arcGIS/R

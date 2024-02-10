@@ -4,6 +4,8 @@
 
 ## 2024-02-08
 
+https://cdsp.edu/call/online/ ~ 8 feb
+
 Your account has been successfully created, with the following information: User ID: CD3662608 PIN: 236369848 If you keep getting an invalid PIN message, your browser may have saved your password.
 
 You have successfully completed your CALL Registration for the Spring 2024 online term.

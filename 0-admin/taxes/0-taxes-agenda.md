@@ -10,20 +10,34 @@
 
 ### HRBlock Carmen Brooks
 
-* estimate
+* Estimate
 
 ### Forms needed
 
-* Pershing
-* Eastern Bank
-* Aidvantage
-* WSD
-* SSA
+[x] Pershing ~ NA ~ IRA
+* Eastern Bank ~ Hovey ~ Patch
+* Aidvantage ~
+[x] WSD
+[x] SSA
 * Baker Tilley
-* Charity ~ SPS ~ BBN ~ Syracuse ~ Heritage
+* Chase deposit box
+
+
+## Charity
+
+[x] SPS
+[] BBN
+[] Syracuse
+[] Heritage
+[] Others
+
+
+## Data needed
+
 
 ### 2024 Estimated Taxes
 
-* Vouchers
+* Vouchers ~ nicely printed
 * DWA: amount to draw
-* EFTPS
+* EFTPS ~ login
+* FTB ~ login

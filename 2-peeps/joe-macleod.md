@@ -15,6 +15,39 @@ RCA
 * https://www.monumentvalleygame.com/mvpc
 * https://learn.endineering.co/courses/endineering-course
 
+## 2024-02-09
+
+
+Ends
+
+Do you need: Open-source place for storing infographics and spreadsheets.
+
+
+* Churchill  end of the beginning
+* SDGs ~ good endings
+* software ~ open source
+* Off-boarding end-of-life is a thing
+* How can we help?
+
+london
+your end of life
+
+sweden desk cleaning
+
+ministry of the future
+solar punk
+
+sf death festIVAL
+reimigine
+
+
+There are books that are a thousand years old. This leads to the argument that paper is a better preserver of information and digital methods.
+
+Ship of Theseus retort ~ your DNA is billions of years old ~ consider the DNA of all the other creatures ~ it's not the individual atoms that count; it's the way they are joined to together ~ the protocol is more important than the fact ~ the replication ~ recombination of matter is more important than the matter itself.
+
+Ends
+
+Open-source place for storing infographics and spreadsheets.
 
 ## 2024-02-08
 
