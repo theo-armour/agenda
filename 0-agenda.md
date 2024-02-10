@@ -15,7 +15,6 @@
 **Soon**
 
 * ?
-*   
 * ArmourHQ: upload documents
 * AlexP: msg
 
