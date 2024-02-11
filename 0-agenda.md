@@ -10,7 +10,7 @@
 
 **Today**
 
-* Simplicity: draft to auction houses
+* Simplicity: send day after Claudia's mesages
 
 **Soon**
 
