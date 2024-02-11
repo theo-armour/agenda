@@ -4,9 +4,7 @@
 
 ### Appointment
 
-* Carmen: 2024-02-10 @4pm
-* Taxes: collect + scan documents
-* Carmen: upload documents
+*
 
 ### HRBlock Carmen Brooks
 
@@ -14,31 +12,35 @@
 
 ### Forms needed
 
-[x] Pershing ~ NA ~ IRA
-[]] Eastern Bank ~ Hovey ~ Patch
-[x] Aidvantage ~
-[x] WSD
-[x] SSA
-[] Baker Tilly
-* Chase deposit box
+\* Pershing ~ NA ~ IRA
 
+* Eastern Bank ~ Hovey ~ Patch
+* Aidvantage ~ \[x\] WSD \[x\] SSA
+* Baker Tilley
+* Chase deposit box
+* Medical expenses
+*
 
 ## Charity
 
-[x] SPS
-[] BBN
-[] Syracuse
-[] Heritage Donations
-[] Heritage EAF
-[] Others
+\* SPS
 
+\* BBN
+
+\* Syracuse
+
+\* Heritage
+
+\* wikipedia
+
+\* Others
 
 ## Data needed
-
 
 ### 2024 Estimated Taxes
 
 * Vouchers ~ nicely printed
 * DWA: amount to draw
+* DAF
 * EFTPS ~ login
 * FTB ~ login
