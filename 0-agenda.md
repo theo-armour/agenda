@@ -60,6 +60,7 @@
 * tech donations
 * CK: photo spec
 * Michaan: Hobart 2024
+* Clars: 
 
 ***
 
