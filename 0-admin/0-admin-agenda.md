@@ -4,11 +4,11 @@
 
 * ?
 * use Manatt $$
-* Manatt/Vovian: message to return retainer.
+* Manatt/Vivan: message to return retainer.
 
 ## Chase
 
-* ?
+* Chase?
 
 ## DWA + Pershing
 
@@ -17,7 +17,7 @@
 
 ## Eastern Bank
 
-* EasternB: waiting transfer phone call / done
+* Eastern Bank?
 
 ## Expense Tracking
 
@@ -25,7 +25,7 @@
 * Monarch
 * Tiller: try it ~ [https://www.tillerhq.com/](https://www.tillerhq.com/)
 
-## Loans
+## Loans AidVantage
 
 * Pay loans ~ Total Current Balance: $56,781.84
 
@@ -35,6 +35,7 @@
 
 ## Confirm?
 
+* Eastern Bank: Confirm funds sent to Chase (March '24)
 * Stop AI monthlies < confirm
 * Stop Samsung insurance
 
