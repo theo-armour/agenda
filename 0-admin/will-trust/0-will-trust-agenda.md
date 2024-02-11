@@ -2,10 +2,7 @@
 
 ## Agenda Trust Funding ~ high priority
 
-* DWA: draft instructions
-* Chase: draft message
-* Eastern Bank: draft message + password
-* Kayakomat: draft message
+* Kayakomat: draft message  
 * Manatt>Vivian: close out
 
 ## Agenda Memorandum of Personal Property
@@ -20,6 +17,18 @@
 
 * Letter from Isabelle ~ will waiver for Isabelle
 * Blessing from Lea Highet of DWA
+
+  
+
+## 2024-02-11
+
+  
+
+Completed
+
+* DWA: draft instructions
+* Chase: draft message
+* Eastern Bank: draft message + password
 
 ## 2023-12-26
 
