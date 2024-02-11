@@ -12,8 +12,7 @@
 
 ### Forms needed
 
-\* Pershing ~ NA ~ IRA
-
+* Pershing ~ NA ~ IRA
 * Eastern Bank ~ Hovey ~ Patch
 * Aidvantage ~ \[x\] WSD \[x\] SSA
 * Baker Tilley
@@ -23,17 +22,12 @@
 
 ## Charity
 
-\* SPS
-
-\* BBN
-
-\* Syracuse
-
-\* Heritage
-
-\* wikipedia
-
-\* Others
+* SPS
+* BBN
+* Syracuse
+* Heritage
+* wikipedia
+* Others
 
 ## Data needed
 
