@@ -4,6 +4,7 @@
 
 * ?
 * use Manatt $$
+* Manatt/Vovian: message to return retainer.
 
 ## Chase
 
@@ -16,7 +17,7 @@
 
 ## Eastern Bank
 
-* waiting transfer phone call
+* EasternB: waiting transfer phone call / done
 
 ## Expense Tracking
 
