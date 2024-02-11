@@ -12,16 +12,28 @@
 
 ### Forms needed
 
-\[x\] Pershing ~ NA ~ IRA
+\* Pershing ~ NA ~ IRA
 
 * Eastern Bank ~ Hovey ~ Patch
 * Aidvantage ~ \[x\] WSD \[x\] SSA
 * Baker Tilley
 * Chase deposit box
+* Medical expenses
+*   
 
 ## Charity
 
-\[x\] SPS \[\] BBN \[\] Syracuse \[\] Heritage \[\] Others
+\* SPS
+
+\* BBN
+
+\* Syracuse
+
+\* Heritage
+
+\* wikipedia
+
+\* Others
 
 ## Data needed
 
@@ -29,5 +41,6 @@
 
 * Vouchers ~ nicely printed
 * DWA: amount to draw
+* DAF
 * EFTPS ~ login
 * FTB ~ login
