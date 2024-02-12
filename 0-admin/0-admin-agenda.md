@@ -4,7 +4,7 @@
 
 * ?
 * use Manatt $$
-* Manatt/Vivan: message to return retainer.
+*   
 
 ## Chase
 
