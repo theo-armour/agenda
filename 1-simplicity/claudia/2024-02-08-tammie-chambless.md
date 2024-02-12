@@ -6,7 +6,7 @@ deric@clars.com
 
 
 
-## Michaan's : Furniture Consignment Inquiry - Referral from Claudia Kraehe
+## Michaan's : Furniture Auction Inquiry - Referral from Claudia Kraehe
 
 Dear Tammie,
 
