@@ -3,16 +3,16 @@
 ## Appointments
 
 * February 15: Dr Y
-* [Medicare Supplement dental plans | Blue Shield Medicare (blueshieldca.com)](https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental)  
+* [Medicare Supplement dental plans | Blue Shield Medicare (blueshieldca.com)](https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental)
 
 ## Agenda
 
-* RSV shot
+*   
 * Create sub-folders
 * Gary Richmond: msg
 * UCSF: Eyes checkup
 * UCSF: Ortho appointment
-* * Heritage: PT referral ~ EmpowerMe
+* \* Heritage: PT referral ~ EmpowerMe
 
 ## Work-in-progress
 
