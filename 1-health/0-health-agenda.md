@@ -7,8 +7,7 @@
 
 ## Agenda
 
-*   
-* Create sub-folders
+* Create sub-folders  
 * Gary Richmond: msg
 * UCSF: Eyes checkup
 * UCSF: Ortho appointment
