@@ -16,7 +16,7 @@
 * Evan & Medium ~ Morning Consult ~ SDGs ~ Air Quality
 * Evan ~ AQI ~ morning consult ~ SDG
 
-## SPS / Paulies
+## SPS / Paulies ~ https://sps.edu
 
 * Randy
 * Rory ~ Should actors have to be clever?
@@ -24,7 +24,8 @@
 
 ## Syracuse
 
-* Check Syracuse donations
+* Sracuse: Login
+* Syracuse:Check donations
 
 ## WSD
 
