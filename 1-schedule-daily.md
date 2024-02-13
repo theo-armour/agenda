@@ -40,7 +40,6 @@ tags #habits
 * Floss teeth, rinse mouth, clean eyeglasses
 * Trigger: Turn on computers and waiting for apps to load:
 * Then: hand weights + Squegg
-
 * Tripper: Moving coffee mug triggers taking vitamins
 * Brewing coffee triggers squats & arm extensions
 
