@@ -61,7 +61,8 @@
 * ?
 * tech donations
 * CK: photo spec
-* Clars/Deric: 
+* Clars/Deric: Hobart 2024
+* ECAT: Hobart 2034 to spreadsheet
 
 ***
 
