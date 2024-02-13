@@ -11,7 +11,7 @@
 
 **Today**
 
-* Simplicity: send day after Claudia's messages
+* Simplicity:
 
 **Soon**
 
