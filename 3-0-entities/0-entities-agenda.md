@@ -5,8 +5,6 @@
 * List all my GitHub orgs
 * Eikon: cubism 3.0 post
 
-  
-
 ## BBN ~ [https://bbns.org](https://bbns.org)
 
 * Monthly donation to BB&N?
@@ -20,6 +18,7 @@
 
 ## SPS / Paulies
 
+* Randy
 * Rory ~ Should actors have to be clever?
 * Jose ~ Agenda ~ Rory ~ monthly notice ~ private vs public ~ content
 
