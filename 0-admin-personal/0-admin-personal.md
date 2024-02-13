@@ -9,5 +9,8 @@
 
 ## Possession De-acquisitions
 
-* Monocle
 * Goodwill: shoes
+* Cynthia: Teva Planter
+* Alix: Green Screen
+* Alix: Frame upgrades
+*
