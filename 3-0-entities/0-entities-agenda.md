@@ -1,4 +1,4 @@
-# Organizations Agenda
+# Entities Agenda
 
 ## Agenda
 
