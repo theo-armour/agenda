@@ -4,7 +4,7 @@
 
 ### Appointment
 
-*
+\* ?
 
 ### HRBlock Carmen Brooks
 
@@ -12,13 +12,12 @@
 
 ### Forms needed
 
-* Pershing ~ NA ~ IRA
+* @Pershing ~ NA ~ IRA
 * Eastern Bank ~ Hovey ~ Patch
-* Aidvantage ~ \[x\] WSD \[x\] SSA
-* Baker Tilley
+* @Aidvantage ~ \[x\] WSD \[x\] SSA
+* @Baker Tilley
 * Chase deposit box
-* Medical expenses
-*
+* Medical expenses \*
 
 ## Charity
 
@@ -26,10 +25,13 @@
 * BBN
 * Syracuse
 * Heritage
-* wikipedia
+* Wikipedia
 * Others
 
 ## Data needed
+
+**\* ?  
+**
 
 ### 2024 Estimated Taxes
 
