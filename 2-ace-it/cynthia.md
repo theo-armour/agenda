@@ -1,10 +1,16 @@
 # Cynthia
 
 
-
 * Reply: Rio Vista city
 * Amazon Socks
 * Address?
+
+## 2024-02-12
+
+* https://californiaforever.com
+* https://twitter.com/CAForever/
+* https://www.instagram.com/californiaforever/
+CEO lives in Solano County
 
 ## 2024-01-16
 
