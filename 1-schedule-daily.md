@@ -46,11 +46,12 @@ tags #habits
 
 ## Checking messages
 
-\* 
-
 * Open journal: Update ToMatto + write something
+* Checking emai:: check categories: delete messseage when category over 100
 
-Morning coffee break @ 10
+  
+
+## Morning coffee break @ 10
 
 * 2x hall with walker
 * Rinse coffee mug
@@ -72,7 +73,7 @@ Possibilities
 
 And that might just be enough
 
-After lunch
+## After lunch
 
 * 10oz coffee
 * Nap
@@ -80,6 +81,7 @@ After lunch
 ## After Nap
 
 * left leg lifts
+* Right arm lifts
 * Wall pushups 
 
 ## Before dinner
