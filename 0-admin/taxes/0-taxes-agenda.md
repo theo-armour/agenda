@@ -4,7 +4,7 @@
 
 ### Appointment
 
-\* ?
+* ?
 
 ### HRBlock Carmen Brooks
 
@@ -17,7 +17,7 @@
 * @Aidvantage ~ \[x\] WSD \[x\] SSA
 * @Baker Tilley
 * Chase deposit box
-* Medical expenses \*
+* Medical expenses
 
 ## Charity
 
@@ -30,8 +30,7 @@
 
 ## Data needed
 
-**\* ?  
-**
+\* ?  
 
 ### 2024 Estimated Taxes
 
