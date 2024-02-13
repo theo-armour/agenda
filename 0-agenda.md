@@ -11,7 +11,8 @@
 
 **Today**
 
-* Manatt/Vivian
+* Manatt/Vivian: termination
+* Tiller: complete the import
 
 **Soon**
 
