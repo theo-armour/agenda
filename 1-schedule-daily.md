@@ -16,32 +16,38 @@ tags #habits
 * Thumb stretches
 * Standing straight
 
-Showering
+## Showering
 
 * Touching toes
 * Squats
 
-At basin
+## At basin
 
 * Wash face
 * Brush teeth
 * Take pills
 * Put on diaper
 
-Dressing
+## Dressing
 
 * Nails
 * Creaming
 * Put on socks
 
-After breakfast
+## At desk after breakfast
 
 * 3 flights stairs and hall walk with cane
 * Floss teeth, rinse mouth, clean eyeglasses
-* Turning on computers and waiting for DropBox to go green:
-* Triggers hand weights + Squegg
-* Moving coffee mug triggers taking vitamins
+* Trigger: Turn on computers and waiting for apps to load:
+* Then: hand weights + Squegg
+
+* Tripper: Moving coffee mug triggers taking vitamins
 * Brewing coffee triggers squats & arm extensions
+
+## Checking messages
+
+\* 
+
 * Open journal: Update ToMatto + write something
 
 Morning coffee break @ 10
@@ -57,8 +63,7 @@ Morning coffee break @ 11:30
 
 11:30 habit
 
-Thing one: Just recognize it each day
-Thing two: Just go for a pee
+Thing one: Just recognize it each day Thing two: Just go for a pee
 
 Possibilities
 
@@ -94,6 +99,6 @@ After lunch
 * Lights and shade
 * Exercises
 
-* * *
+***
 
 <center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);">❦</a></center>
