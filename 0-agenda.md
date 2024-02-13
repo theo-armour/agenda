@@ -112,6 +112,7 @@
 * ?
 * Patti: guestroom: paintings
 * Xfinity: Demian: upload speedss24 
+* Vivien: C-contract rates
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 
