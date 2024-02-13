@@ -61,7 +61,7 @@
 * ?
 * tech donations
 * CK: photo spec
-* Clars: 
+* Clars/Deric: 
 
 ***
 
