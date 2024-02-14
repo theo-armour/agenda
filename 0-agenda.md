@@ -13,14 +13,15 @@
 
 * Manatt/Vivian: termination
 * Tiller: complete the import
+* Tom Johnson
+* Quentin  
 
 **Soon**
 
 * ?
 * ArmourHQ: upload documents
 * AlexP: msg
-* Tom Johnson
-* Quentin  
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -109,6 +110,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
+* Melissa: Alix 17th checkout
 * Patti: guestroom: paintings
 * Xfinity: Demian: upload speedss24 
 * Vivien: C-contract rates
