@@ -7,11 +7,12 @@
 
 ## Agenda
 
-* Create sub-folders  
+* Create sub-folders
 * Gary Richmond: msg
 * UCSF: Eyes checkup
 * UCSF: Ortho appointment
-* \* Heritage: PT referral ~ EmpowerMe
+* UCSF Colonoscopy
+* Heritage: PT referral ~ EmpowerMe
 
 ## Work-in-progress
 
