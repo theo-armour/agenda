@@ -4,7 +4,7 @@
 
 ## Theo
 
-* Spec to Sandberg  
+* Spec to Sandberg
 
 ## ECAT
 
@@ -12,14 +12,10 @@
 * Decide furniture
 * Claudia in notion
 
-## Rico
-
-* Rico: Jan 17
-
 ## Douglas Sandberg
 
 * First contact
 
 ## Lawrence Fine Art
 
-* Lawrence: last extra pay in feb?
+* Lawrence: last extra pay in Feb?
