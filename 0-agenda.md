@@ -62,7 +62,7 @@
 * ?
 * tech donations
 * CK: photo spec
-* ECAT: Hobart 2024 to spreadsheet
+* ECAT: 
 
 ***
 
