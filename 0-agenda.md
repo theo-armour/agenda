@@ -12,7 +12,7 @@
 **Today**
 
 * Manatt/Vivian: termination
-* ecat: clars reply
+*   
 * Tiller: complete the import
 * Tom Johnson
 * Quentin  
