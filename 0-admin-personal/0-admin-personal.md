@@ -10,7 +10,11 @@
 ## Possession De-acquisitions
 
 * Goodwill: shoes
+
+## ACE
+
 * Cynthia: Teva Planter
+* Cynthia: Finish hand
 * Alix: Green Screen
-* Alix: Frame upgrades
-*
+* Alix: Framework upgrades
+* Alix: Superhexa goggles
