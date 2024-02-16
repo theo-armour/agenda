@@ -60,7 +60,7 @@
 
 * ?
 * CK: dealers
-* tech donations libraries
+* Tech donations libraries
 * CK: photo spec
 * ECAT: 
 
@@ -73,7 +73,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">alix</a>
 
 * ?
-* Green screen
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
@@ -102,7 +101,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-evereverland/0-evereverland-agenda.md&quot;">3.0 evereverland</a>
 
-* ? \*
+* ?
 
 ***
 
