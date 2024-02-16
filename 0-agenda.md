@@ -14,7 +14,6 @@
 * HH: agenda
 * Tiller: complete the import
 * John walker: Roxie
-* john walker
 * Tom Johnson
 
 **Soon**
@@ -94,9 +93,7 @@
 * Nienke
 * First mac??
 
-
 ***
-
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
 
