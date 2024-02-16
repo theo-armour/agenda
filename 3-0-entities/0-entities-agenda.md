@@ -2,8 +2,11 @@
 
 ## Agenda
 
-* List all my GitHub orgs
-* Eikon: cubism 3.0 post
+* Eikon: cubism 3.0 post  
+
+## Endiatx
+
+\* Message reply
 
 ## BBN ~ [https://bbns.org](https://bbns.org)
 
@@ -16,7 +19,7 @@
 * Evan & Medium ~ Morning Consult ~ SDGs ~ Air Quality
 * Evan ~ AQI ~ morning consult ~ SDG
 
-## SPS / Paulies ~ https://sps.edu
+## SPS / Paulies ~ [https://sps.edu](https://sps.edu)
 
 * Randy
 * Rory ~ Should actors have to be clever?
