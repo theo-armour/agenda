@@ -15,6 +15,7 @@
 * Tiller: complete the import
 * Tom Johnson
 * Quentin  
+* Jon Casey: EAF Donations
 
 **Soon**
 
@@ -60,7 +61,7 @@
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.2 claudia</a>
 
 * ?
-* tech donations
+* tech donations libraries
 * CK: photo spec
 * ECAT: 
 
