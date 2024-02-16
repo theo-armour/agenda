@@ -2,7 +2,7 @@
 
 ## Appointments
 
-* February 15: Dr Y
+* Dr V: date ??
 * [Medicare Supplement dental plans | Blue Shield Medicare (blueshieldca.com)](https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental)
 
 ## Agenda
@@ -13,6 +13,8 @@
 * UCSF: Ortho appointment
 * UCSF Colonoscopy
 * Heritage: PT referral ~ EmpowerMe
+* https://www.alignmenthealthplan.com/ ~ free lunch?  
+* Ortho Appt: March 4 ~ check ou
 
 ## Work-in-progress
 
