@@ -32,11 +32,11 @@
 ## Syracuse
 
 * Sracuse: Login
-* Syracuse:Check donations
+* Syracuse: Check donations
 
 ## WSD
 
-* WSD: Gustav
+* WSD: Gustav??
 
 ## Change Log
 
