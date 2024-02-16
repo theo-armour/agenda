@@ -3,7 +3,7 @@
 ## Actions
 
 * ?
-* use Manatt $$
+* aidVantage: restart payments
 
 ## Chase
 
@@ -30,13 +30,9 @@
 
 * Pay loans ~ Total Current Balance: $56,781.84
 
-## Thinking
-
-* Shoeboxed ~ to dropbox ~ Download scans
-
 ## Expense Tracking
 
-* Mint to Credit Karma / export data where to?
+* Mint to Credit Karma
 * Monarch
 
 ## Confirm?

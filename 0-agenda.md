@@ -12,15 +12,16 @@
 **Today**
 
 * Tiller: complete the import
-* Quentin/Torrey
-* Manatt/Vivian: termination
+*   
+* john walker
+*   
 * Tom Johnson
 
 **Soon**
 
 * ?
 * ArmourHQ: upload documents
-*   
+* Mecical appointments
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -32,7 +33,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* SW: Nail Fungus liquid
+* SW: Nail Fungus liquid ~ Champage price
 * A: 3D Scanner ~ after retainer refund
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
