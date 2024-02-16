@@ -4,7 +4,7 @@
 
 * Kayakomat: draft message
 * Manatt>Vivian: close out
-* Manatt/Vivan: message to return retainer.
+*   
 
 ## Agenda Memorandum of Personal Property
 
