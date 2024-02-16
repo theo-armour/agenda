@@ -21,7 +21,7 @@
 ## Tiller
 
 * Tiller: try it ~ [https://www.tillerhq.com/](https://www.tillerhq.com/)
-* Mint: export 2nd csv
+*   
 * Tiller: import 2nd CSV
 * Tiller: categories 
 * Tiller: Years + donations
