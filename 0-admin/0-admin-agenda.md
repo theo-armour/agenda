@@ -20,9 +20,9 @@
 
 ## Tiller
 
-* Tiller: try it ~ [https://www.tillerhq.com/](https://www.tillerhq.com/)
-*   
-* Tiller: import 2nd CSV
+~ [https://www.tillerhq.com/](https://www.tillerhq.com/)
+
+* Tiller: import 2nd CSV  
 * Tiller: categories 
 * Tiller: Years + donations
 
