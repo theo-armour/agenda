@@ -12,7 +12,8 @@
 **Today**
 
 * Tiller: complete the import
-* Quentin/Torrey
+* Endiantx: Quentin/Torrey: draft OKjohn walker
+*   
 * Tom Johnson
 
 **Soon**
