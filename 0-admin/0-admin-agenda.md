@@ -11,7 +11,7 @@
 
 ## DWA + Pershing
 
-* DWA: note re Estimated payments not sent??
+* DWA/Josh: note re Estimated payments not sent??
 * DWA: Send Will & Trust docs
 
 ## Eastern Bank
