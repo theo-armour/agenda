@@ -17,4 +17,6 @@ Account name: Norman Armour
 Account number: 702053203
 Routing number 322271627
 
+This routing number can only be used for direct deposits and ACH transactions. For wire transfers, please use routing number 021000021.
+
 

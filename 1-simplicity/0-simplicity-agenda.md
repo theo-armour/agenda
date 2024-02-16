@@ -8,6 +8,9 @@
 
 ## Claudia
 
+* Antique dealers
+* 3D Scanning
+
 ## ECAT
 
 * Work on spreadsheet
@@ -16,6 +19,7 @@
 
 ## Douglas Sandberg
 
+* Find what I did before
 * Draft spec
 * First contact
 
