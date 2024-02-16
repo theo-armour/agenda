@@ -13,7 +13,7 @@
 
 * Tiller: complete the import
 * Quentin/Torrey
-* Manatt/Vivian: termination
+*   
 * Tom Johnson
 
 **Soon**
