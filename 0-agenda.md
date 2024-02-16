@@ -11,17 +11,16 @@
 
 **Today**
 
-* Manatt/Vivian: termination
 * Tiller: complete the import
+* Quentin/Torrey
+* Manatt/Vivian: termination
+* Tom Johnson
 
 **Soon**
 
 * ?
 * ArmourHQ: upload documents
-* AlexP: msg
-* Tom Johnson
-* Quentin  
-* Walk to fort Mason?
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -33,9 +32,8 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* SW:
-* Fred:
-* A:
+* SW: Nail Fungus liquid
+* A: 3D Scanner ~ after retainer refund
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
@@ -61,10 +59,10 @@
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.2 claudia</a>
 
 * ?
-* tech donations
+* CK: dealers
+* tech donations libraries
 * CK: photo spec
-* Clars/Deric: Hobart 2024
-* ECAT: Hobart 2034 to spreadsheet
+* ECAT: 
 
 ***
 
@@ -93,6 +91,7 @@
 
 * ??
 * MikeM
+* Nienke
 * First mac??
 
 ***
@@ -115,6 +114,10 @@
 * Vivien: C-contract rates
 * Christina: email? Article
 
+Waiting
+
+* Jon Casey: EAF Donations
+
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 
 * ?
@@ -123,6 +126,8 @@
 
 March
 
+* Agenda
+* Contacts for events
 * HH: post-mortem
 * MJohn: #7 
 * ?

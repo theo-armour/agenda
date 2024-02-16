@@ -4,7 +4,6 @@
 
 * ?
 * use Manatt $$
-*   
 
 ## Chase
 
@@ -18,11 +17,6 @@
 ## Eastern Bank
 
 * Eastern Bank?
-
-## Expense Tracking
-
-* Mint to Credit Karma / export data where to?
-* Monarch
 
 ## Tiller
 
@@ -39,6 +33,11 @@
 ## Thinking
 
 * Shoeboxed ~ to dropbox ~ Download scans
+
+## Expense Tracking
+
+* Mint to Credit Karma / export data where to?
+* Monarch
 
 ## Confirm?
 
