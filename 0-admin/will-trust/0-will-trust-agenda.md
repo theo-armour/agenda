@@ -3,8 +3,7 @@
 ## Agenda Trust Funding ~ high priority
 
 * Kayakomat: draft message
-* Manatt>Vivian: close out
-* Manatt/Vivan: message to return retainer.
+* Manatt/Vivian: close out
 
 ## Agenda Memorandum of Personal Property
 
@@ -17,9 +16,16 @@
 ## Agenda ~ medium priority
 
 * Letter from Isabelle ~ will waiver for Isabelle
-* Blessing from Lea Highet of DWA
+* DWA: Blessing from Lea Highet of DWA
 
-## 2024-02-11
+## Change Log
+
+### 2024-02-16
+
+* Manatt/Vivan: message to return retainer
+* Manatt/Vivan: Vivian phone to confirm details  
+
+### 2024-02-11
 
 Completed
 
@@ -27,12 +33,12 @@ Completed
 * Chase: draft message
 * Eastern Bank: draft message + password
 
-## 2023-12-26
+### 2023-12-26
 
 * Carmen: Taxes ~ msg sent
 * Josh: trust titles ~ msg sent
 
-## 2023-12-20?
+### 2023-12-20?
 
 Sent msg to Vivian
 

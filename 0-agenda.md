@@ -11,7 +11,9 @@
 
 **Today**
 
+* HH: agenda
 * Tiller: complete the import
+* John walker: Roxie
 * john walker
 * Tom Johnson
 
@@ -31,7 +33,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* SW: Nail Fungus liquid ~ Champage price
+* SW: Nail Fungus liquid ~ Champagne price
 * A: 3D Scanner ~ after retainer refund
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
@@ -59,8 +61,8 @@
 
 * ?
 * CK: dealers
+* Tech donations libraries
 * CK: photo spec
-* tech donations libraries
 * ECAT: 
 
 ***
@@ -91,6 +93,16 @@
 * MikeM
 * Nienke
 * First mac??
+
+***
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
+
+* ?
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-evereverland/0-evereverland-agenda.md&quot;">3.0 evereverland</a>
+
+* ?
 
 ***
 
@@ -138,7 +150,7 @@ March
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-3-residents/0-residents.md&quot;">3.3 residents</a>
 
 * ?
-* MJohn: Champagne
+* MJohnson: Champagne
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a>
 
@@ -174,9 +186,14 @@ March
 
 * ?
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-qdata-apps-journal/0-qdata.md&quot;">4.1 qData Apps Journal</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
 
 * ?
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-organizations-repos/0-organizations-repos.md&quot;">4.4 organizations repos</a>
+
+* ?
+* List of all my GitHub orgs
 
 ## Reminders
 

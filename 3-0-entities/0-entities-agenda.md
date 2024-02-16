@@ -2,8 +2,15 @@
 
 ## Agenda
 
-* List all my GitHub orgs
-* Eikon: cubism 3.0 post
+* ?
+
+## Ikons
+
+* cubism 3.0 post
+
+## Endiatx ~ https://endiatx.com
+
+* Message reply
 
 ## BBN ~ [https://bbns.org](https://bbns.org)
 
@@ -16,7 +23,7 @@
 * Evan & Medium ~ Morning Consult ~ SDGs ~ Air Quality
 * Evan ~ AQI ~ morning consult ~ SDG
 
-## SPS / Paulies ~ https://sps.edu
+## SPS / Paulies ~ [https://sps.edu](https://sps.edu)
 
 * Randy
 * Rory ~ Should actors have to be clever?
@@ -25,11 +32,11 @@
 ## Syracuse
 
 * Sracuse: Login
-* Syracuse:Check donations
+* Syracuse: Check donations
 
-## WSD
+## WSD ~ https://websightdesign.com
 
-* WSD: Gustav
+* WSD: Gustav??
 
 ## Change Log
 

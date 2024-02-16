@@ -65,9 +65,9 @@ afternoon
 
 ## Friday
 
-* Review Tech agenda
-* 7:15 alarm
+* 7:15 alarm  
 * Shower
+* Review Tech agenda
 
 ## Saturday
 
