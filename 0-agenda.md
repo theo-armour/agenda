@@ -15,7 +15,7 @@
 * Tiller: complete the import
 * Tom Johnson
 * Quentin/Torrey
-* Jon Casey: EAF Donations
+*   
 
 **Soon**
 
