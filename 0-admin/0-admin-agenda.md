@@ -22,7 +22,7 @@
 
 ~ [https://www.tillerhq.com/](https://www.tillerhq.com/)
 
-* Tiller: import 2nd CSV  
+* Tiller: import 2nd CSV
 * Tiller: categories 
 * Tiller: Years + donations
 
@@ -40,6 +40,12 @@
 * Eastern Bank: Confirm funds sent to Chase (March '24)
 * Stop AI monthlies < confirm
 * Stop Samsung insurance
+
+  
+
+Change Log
+
+  
 
 ***
 
