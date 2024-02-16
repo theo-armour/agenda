@@ -3,7 +3,7 @@
 ## Agenda Trust Funding ~ high priority
 
 * Kayakomat: draft message
-* Manatt>Vivian: close out
+* Manatt/Vivian: close out
 
 ## Agenda Memorandum of Personal Property
 
@@ -16,7 +16,7 @@
 ## Agenda ~ medium priority
 
 * Letter from Isabelle ~ will waiver for Isabelle
-* W\\DWA: Blessing from Lea Highet of DWA
+* DWA: Blessing from Lea Highet of DWA
 
 ## Change Log
 
@@ -24,7 +24,7 @@
 
 ### 2024-02-16
 
-  
+* Manatt/Vivan: message to return retainer
 
 ## 2024-02-11
 
