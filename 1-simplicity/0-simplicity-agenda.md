@@ -6,14 +6,17 @@
 
 * Spec to Sandberg
 
+## Claudia
+
 ## ECAT
 
+* Work on spreadsheet
 * Decide 12 chairs
 * Decide furniture
-* Claudia in notion
 
 ## Douglas Sandberg
 
+* Draft spec
 * First contact
 
 ## Lawrence Fine Art

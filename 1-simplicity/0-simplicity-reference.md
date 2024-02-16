@@ -28,7 +28,8 @@ It prepares stuff to go to evereverland, or to family or wherever.
 * https://artisticlicense.org/cow-hollow-woodworks/
 *
 
-dealer ~
+## Dealers ~
+
 ## Lawrence Fine Arts
 
 * Recommended by Alix and Jennifer
