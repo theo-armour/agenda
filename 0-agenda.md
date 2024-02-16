@@ -12,9 +12,7 @@
 **Today**
 
 * Tiller: complete the import
-*   
 * john walker
-*   
 * Tom Johnson
 
 **Soon**
@@ -61,8 +59,8 @@
 
 * ?
 * CK: dealers
-* tech donations libraries
 * CK: photo spec
+* tech donations libraries
 * ECAT: 
 
 ***
@@ -74,7 +72,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">alix</a>
 
 * ?
-* Green screen
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
@@ -94,16 +91,6 @@
 * MikeM
 * Nienke
 * First mac??
-
-***
-
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
-
-* ?
-
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-evereverland/0-evereverland-agenda.md&quot;">3.0 evereverland</a>
-
-* ? \*
 
 ***
 
@@ -142,7 +129,7 @@ March
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.1.2 out and about</a>
 
-\* 
+* ? 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-services/0-services.md&quot;">3.1.2 services</a>
 
@@ -165,6 +152,10 @@ March
 
 ***
 
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
+
+* ?
+
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-3-evereverland/0-evereverland-agenda.md&quot;">3.3 evereverland</a>
 
 * ?
@@ -175,7 +166,7 @@ March
 
 ***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-qdata-apps-journal/0-qdata.md&quot;">4.1 qData Apps Journal</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-organizations-repos/0-organizations-repos.md&quot;">4.4 organizations repos</a>
 
 * ?
 
@@ -183,11 +174,7 @@ March
 
 * ?
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
-
-* ?
-
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-organizations-repos/0-organizations-repos.md&quot;">4.4 organizations repos</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-qdata-apps-journal/0-qdata.md&quot;">4.1 qData Apps Journal</a>
 
 * ?
 
