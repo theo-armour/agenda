@@ -11,16 +11,14 @@
 
 **Today**
 
-*   
 * Tiller: complete the import
-* Tom Johnson
 * Quentin/Torrey
-*   
+* Manatt/Vivian: termination
+* Tom Johnson
 
 **Soon**
 
 * ?
-* Manatt/Vivian: termination
 * ArmourHQ: upload documents
 *   
 
@@ -35,7 +33,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * SW: Nail Fungus liquid
-* A:
+* A: 3D Scanner ~ after retainer refund
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
@@ -116,6 +114,10 @@
 * Vivien: C-contract rates
 * Christina: email? Article
 
+Waiting
+
+* Jon Casey: EAF Donations
+
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 
 * ?
@@ -124,6 +126,8 @@
 
 March
 
+* Agenda
+* Contacts for events
 * HH: post-mortem
 * MJohn: #7 
 * ?
