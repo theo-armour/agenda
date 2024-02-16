@@ -12,7 +12,7 @@
 ## DWA + Pershing
 
 * DWA/Josh: note re Estimated payments not sent??
-* DWA: Send Will & Trust docs
+* DWA: Send Will & Trust docs / Olivia to look
 
 ## Eastern Bank
 
@@ -35,7 +35,7 @@
 * Mint to Credit Karma
 * Monarch
 
-## Confirm?
+## Waiting ~ Confirm?
 
 * Eastern Bank: Confirm funds sent to Chase (March '24)
 * Stop AI monthlies < confirm
@@ -43,9 +43,14 @@
 
   
 
-Change Log
+## Change Log
 
   
+
+### 2024-02-16
+
+* Tiller: try it 
+* Mint: export 2nd csv
 
 ***
 
