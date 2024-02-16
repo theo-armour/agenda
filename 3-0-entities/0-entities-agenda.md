@@ -6,11 +6,11 @@
 
 ## Ikons
 
-\* cubism 3.0 post
+* cubism 3.0 post
 
-## Endiatx
+## Endiatx ~ https://endiatx.com
 
-\* Message reply
+* Message reply
 
 ## BBN ~ [https://bbns.org](https://bbns.org)
 
@@ -34,7 +34,7 @@
 * Sracuse: Login
 * Syracuse: Check donations
 
-## WSD
+## WSD ~ https://websightdesign.com
 
 * WSD: Gustav??
 
