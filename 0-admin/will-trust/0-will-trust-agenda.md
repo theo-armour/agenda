@@ -4,7 +4,6 @@
 
 * Kayakomat: draft message
 * Manatt>Vivian: close out
-*   
 
 ## Agenda Memorandum of Personal Property
 
@@ -17,7 +16,15 @@
 ## Agenda ~ medium priority
 
 * Letter from Isabelle ~ will waiver for Isabelle
-* Blessing from Lea Highet of DWA
+* W\\DWA: Blessing from Lea Highet of DWA
+
+## Change Log
+
+  
+
+### 2024-02-16
+
+  
 
 ## 2024-02-11
 
