@@ -23,6 +23,7 @@
 ### 2024-02-16
 
 * Manatt/Vivan: message to return retainer
+* Manatt/Vivan: Vivian phone to confirm details  
 
 ### 2024-02-11
 
