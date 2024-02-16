@@ -11,9 +11,9 @@
 
 **Today**
 
+* HH: agenda
 * Tiller: complete the import
-*   
-* john walker: Roxie
+* John walker: Roxie
 * Tom Johnson
 
 **Soon**
