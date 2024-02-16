@@ -20,13 +20,11 @@
 
 ## Change Log
 
-  
-
 ### 2024-02-16
 
 * Manatt/Vivan: message to return retainer
 
-## 2024-02-11
+### 2024-02-11
 
 Completed
 
@@ -34,12 +32,12 @@ Completed
 * Chase: draft message
 * Eastern Bank: draft message + password
 
-## 2023-12-26
+### 2023-12-26
 
 * Carmen: Taxes ~ msg sent
 * Josh: trust titles ~ msg sent
 
-## 2023-12-20?
+### 2023-12-20?
 
 Sent msg to Vivian
 
