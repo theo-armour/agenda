@@ -2,7 +2,11 @@
 
 ## Agenda
 
-* Eikon: cubism 3.0 post  
+* ?
+
+## Ikons
+
+\* cubism 3.0 post
 
 ## Endiatx
 
