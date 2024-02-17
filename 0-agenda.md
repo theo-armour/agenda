@@ -14,7 +14,7 @@
 * HH: agenda
 * Tiller: complete the import
 * John walker: Roxie
-* Tom Johnson
+* Johnson: $275 for 4 Veuve
 
 **Soon**
 
