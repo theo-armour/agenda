@@ -3,6 +3,7 @@
 ## Appointments
 
 * Dr V: date ??
+* Ortho Appt: March 4 ~ check out
 * [Medicare Supplement dental plans | Blue Shield Medicare (blueshieldca.com)](https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental)
 
 ## Agenda
@@ -10,11 +11,10 @@
 * Create sub-folders
 * Gary Richmond: msg
 * UCSF: Eyes checkup
-* UCSF: Ortho appointment
 * UCSF Colonoscopy
-* Heritage: PT referral ~ EmpowerMe
-* https://www.alignmenthealthplan.com/ ~ free lunch?  
-* Ortho Appt: March 4 ~ check ou
+* EmpowerMe: PT referral
+* [https://www.alignmenthealthplan.com/](https://www.alignmenthealthplan.com/) ~ free lunch?
+*   
 
 ## Work-in-progress
 
