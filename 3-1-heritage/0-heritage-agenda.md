@@ -4,7 +4,7 @@
 
 * Michael Merrill: Ryan Wilmot + article + Substack
 * Italian Museum: tour
-* Men's group outing
+* Men's group outing ~ Cliff house
 * Organist: evensong
 * Emergency: 628 222-3097
 
