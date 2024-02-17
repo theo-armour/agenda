@@ -77,7 +77,7 @@ The names of the RNs and CNAs on duty is posted by the Henderson Clinic
 
 ### Menus
 
-Daily menus: side dishes printed in font to small for some people to read
+Daily menus: side dishes printed in font too small for some people to read
 
 ***
 

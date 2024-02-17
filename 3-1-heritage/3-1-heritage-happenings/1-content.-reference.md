@@ -36,11 +36,11 @@
 
 ## Trish: Things to research
 
-* Senior discounts & benefits
-* Three books for elders for the library
+* Senior discounts & benefits ~ done ~ not very successful
+* Three books for elders for the library 
 * Fort Mason Events
 * Neighborhood Events
-* Moscone Rec Center
+* Moscone Recreation Center
 * Next Village
 * Directors Interviews
 * BoD reports
