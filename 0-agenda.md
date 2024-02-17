@@ -11,7 +11,7 @@
 
 **Today**
 
-* Bring over 2023 journal entries
+*   
 * Santani
 * HH: agenda
 * Tiller: complete the import
