@@ -50,7 +50,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
 
 * ?
-* Joe Macleod
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a>
 
@@ -89,6 +88,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 peeps</a>
 
 * ??
+* Joe Macleod
 * MikeM
 * Nienke
 * First mac??
@@ -103,7 +103,7 @@
 
 * ?
 * Patti: guestroom: paintings
-* Xfinity: Demian: upload speedss24 
+* Xfinity: Demian: upload speeds
 * Vivien: C-contract rates
 * Christina: email? Article
 
@@ -115,14 +115,10 @@ Waiting
 
 * ?
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/2024/02-february/2024-02-heritage-happenings-agenda.md&quot;"><strong>February</strong></a>
-
-March
+March  
 
 * Agenda
 * Contacts for events
-* HH: post-mortem
-* MJohn: #7 
 * ?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
