@@ -11,6 +11,8 @@
 
 **Today**
 
+* Bring over 2023 journal entries
+* Santani
 * HH: agenda
 * Tiller: complete the import
 * John Walker: Roxie
@@ -178,7 +180,6 @@ March
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
 
 * ?
-
 
 ## Reminders
 
