@@ -5,7 +5,7 @@
 * Cynthia: Tania's recollections to PDF ~ transcripts
 * 77 ~ too busy ~ now Heritage Happenings ~ Final Design
 * Funding trust
-* Isabelle: operation? y waiver
+* Isabelle: operation? Waiver
 * ace: share ms365
 * Notion ~ permissions
 * Lolo: HH & chat
@@ -14,6 +14,7 @@
 
 * How to communicate with the family?
 * Family photos & files
+* Isabelle was a better startup person than I was with her gardens  
 
 ## Change Log
 
