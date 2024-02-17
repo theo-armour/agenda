@@ -11,9 +11,7 @@
 
 **Today**
 
-*   
 * Santani
-* HH: agenda
 * Tiller: complete the import
 * John Walker: Roxie
 * Margaret Johnson: $275 for 4 Veuve
