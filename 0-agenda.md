@@ -11,7 +11,7 @@
 
 *   
 *   
-* Wash desk
+*   
 * Tania
 * Alison & pals
 * Olga
