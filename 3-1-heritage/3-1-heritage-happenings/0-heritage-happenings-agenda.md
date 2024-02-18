@@ -28,7 +28,8 @@ Operella@sbcglobal.net
 
   
 
-  
+* HH: Ella Wong <operella@sbcglobal.net>
+*   
 
 * Photo quiz: with MargaretM
 * Submission Guide
