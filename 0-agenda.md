@@ -10,17 +10,15 @@
 **Today**
 
 * Tania
-*   
-*   
 * Allison & pals: message
 * Olga
-* Cancel Ortho medical
 * John Walker: Roxie
 * Margaret Johnson: $275 for 4 Veuve
 
 **Soon**
 
 * ?
+* Cancel Ortho medical
 * Armour HQ: upload documents
 * Medical appointments
 
