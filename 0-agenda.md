@@ -9,11 +9,10 @@
 
 **Today**
 
-*   
-*   
-*   
-* Tania
-* Alison & pals
+* Tania  
+* Pick up page
+* Shirley & MargaretM: photos
+* Alison & pals: message
 * Olga
 * Cancel Ortho medical
 * John Walker: Roxie
