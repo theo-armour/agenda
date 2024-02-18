@@ -10,7 +10,7 @@
 **Today**
 
 *   
-* Irving C
+*   
 * Wash desk
 * Tania
 * Alison & pals
