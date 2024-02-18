@@ -9,6 +9,8 @@
 
 **Today**
 
+* Claudia
+* Endiatx
 * Tania
 * Allison & pals: message
 * Olga
