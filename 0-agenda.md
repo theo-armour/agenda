@@ -9,8 +9,8 @@
 
 **Today**
 
-* Tania  
-* Pick up page
+* Tania
+*   
 * Shirley & MargaretM: photos
 * Alison & pals: message
 * Olga
@@ -21,7 +21,6 @@
 **Soon**
 
 * ?
-
 * Armour HQ: upload documents
 * Medical appointments
 
