@@ -11,8 +11,8 @@
 
 * Tania
 *   
-* Shirley & MargaretM: photos
-* Alison & pals: message
+*   
+* Allison & pals: message
 * Olga
 * Cancel Ortho medical
 * John Walker: Roxie
