@@ -179,6 +179,8 @@ March
 
 ## Reminders
 
+*   
+* vscode: simple browser
 * Delete old passwords
 * Harvests those bookmarks
 * try oneNote
