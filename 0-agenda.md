@@ -9,7 +9,7 @@
 
 **Today**
 
-* Santani
+*   
 * Irving C
 * Wash desk
 * Tania
@@ -23,8 +23,6 @@
 
 * ?
 
-*   
-*   
 * Armour HQ: upload documents
 * Medical appointments
 
@@ -187,7 +185,7 @@ March
 
 ## Reminders
 
-* * vscode: simple browser
+* \* vscode: simple browser
 * Delete old passwords
 * Harvests those bookmarks
 * try oneNote
