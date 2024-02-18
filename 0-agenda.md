@@ -24,7 +24,7 @@
 * ?
 
 *   
-* HH: Ella Wong <operella@sbcglobal.net>
+*   
 * Armour HQ: upload documents
 * Medical appointments
 
