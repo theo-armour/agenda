@@ -1,16 +1,34 @@
 # 3.1 Heritage Happenings
 
-
 ## Heritage Happenings Submissions Guidelines
 
-Link: https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q
+Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q](https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q)
 
 ## Heritage Happenings Reference Manual & Style Guide
 
-Link: https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc
-
+Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc](https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc)
 
 ### Ideas Actions
+
+  
+
+Baytrish@aol.com
+
+  
+
+Jmansfield3105@gmail.com
+
+  
+
+Patski5700@sbcglobal.net
+
+  
+
+Operella@sbcglobal.net
+
+  
+
+  
 
 * Photo quiz: with MargaretM
 * Submission Guide
@@ -40,7 +58,7 @@ Link: https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc
 
 * New Logo
 * External Comments
-* https://www.fiverr.com/
+* [https://www.fiverr.com/](https://www.fiverr.com/)
 * Testing of prints
 
 ## Calendar
