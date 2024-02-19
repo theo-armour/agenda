@@ -1,86 +1,44 @@
+:root {
+	font: 100% verdana, arial, sans-serif;
+	line-height: 150%;
+}
 
+h1 {
+	font-size: 1.2em;
+}
 
-		:root {
-			font: 100% monospace;
-		}
+h2 {
+	font-size: 1.1em;
+}
 
-		* {
-			box-sizing: border-box;
-		}
+h3 {
+	font-size: 0.9em;
+}
 
-		body {
-			margin: 0 auto;
-			max-width: 50rem;
-		}
+h1,
+h2,
+h3 {
+	color: #800;
+	margin-bottom: 0;
+	padding: 0;
+}
 
-		a {
-			color: #880000;
-			text-decoration: none;
-		}
+p {
+	color: #000;
+	margin-top: 0;
+	padding: 0;
+}
 
-		a:hover,
-		a:focus,
-		a:active {
-			text-decoration: underline;
-		}
+ul {
+	margin-top: -1em;
+	padding-top: 0em;
+}
 
-		aside {
-			border: 1px solid lightgray;
-			margin-top: 15px;
-			padding: 2px;
-		}
+a {
+	color: #007BFF;
+	text-decoration: none;
+}
 
-		button,
-		input[type=button] {
-			background-color: #eee;
-			border: 2px #eee solid;
-			color: #888;
-		}
-
-		blockquote {
-			background-color: #ddd;
-			padding: 1rem;
-		}
-
-		code {
-			background-color: #eee;
-		}
-
-		img {
-			max-width: 100%;
-			vertical-align: middle;
-		}
-
-		pre {
-			background-color: #eee;
-			padding: 0.5rem;
-		}
-
-		summary {
-			cursor: pointer;
-			font-size: 1.5rem;
-			font-weight: bold;
-			outline: none;
-		}
-
-		::-webkit-scrollbar {
-			background: #333;
-		}
-
-		::-webkit-scrollbar-thumb {
-			background: #880000;
-		}
-
-		/* read me footer */
-		.aDingbat {
-			text-decoration: none;
-			font-size: 2rem;
-		}
-
-		.iframe-resize {
-			height: 400px;
-			overflow: hidden;
-			padding: 0.5rem;
-			resize: both;
-			width: 100%;
-		}
+a:hover {
+	text-decoration: underline;
+}
