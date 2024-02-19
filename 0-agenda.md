@@ -2,21 +2,26 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-02-06 ~ Patrick: If it's worth doing, then it's worth doing badly.  
+* 2024-02-06 ~ Patrick: If it's worth doing, then it's worth doing badly.
 * 2024-02-12 ~ mathematics is the longest continuous human thought.
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 **Today**
 
-* Santani
-* Cancel Ortho medical
+* Claudia
+* vsCode: css
+* Endiatx
+* Tania
+* Allison & pals: message
+* Olga
 * John Walker: Roxie
 * Margaret Johnson: $275 for 4 Veuve
 
 **Soon**
 
 * ?
+* Cancel Ortho medical
 * Armour HQ: upload documents
 * Medical appointments
 
@@ -179,6 +184,7 @@ March
 
 ## Reminders
 
+* \* vscode: simple browser
 * Delete old passwords
 * Harvests those bookmarks
 * try oneNote
