@@ -1,0 +1,50 @@
+:root {
+	font: 100% verdana, arial, sans-serif;
+	line-height: 150%;
+}
+
+h1 {
+	font-size: 1.2em;
+}
+
+h2 {
+	font-size: 1.05em;
+}
+
+h3 {
+	font-size: 0.9em;
+}
+
+h1,
+h2,
+h3 {
+	color: #800;
+	margin-bottom: 0;
+	padding: 0;
+}
+
+p {
+	color: #000;
+	margin-top: 0;
+	padding: 0;
+}
+
+ul {
+	margin-top: -1em;
+	padding-top: 0em;
+}
+
+a {
+	color: #007BFF;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+em {
+	color: blue;
+	font-style: italic;
+
+}
