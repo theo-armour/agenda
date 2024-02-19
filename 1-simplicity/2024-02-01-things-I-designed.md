@@ -1,8 +1,8 @@
 # Things I designed
 
-* Sabattical every ten years
-* Move every ten yesrs
-* Given that I had a good aamount of money, I should not compete withe people who don't have that kind of money
+* Sabbatical every ten years
+* Move every ten years
+* Given that I had a good amount of money, I should not compete withe people who don't have that kind of money
 * Build demos
 * Buy cheap stuff
 * Embrace solitude
