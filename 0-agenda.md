@@ -4,13 +4,21 @@
 
 * 2024-02-06 ~ Patrick: If it's worth doing, then it's worth doing badly.
 * 2024-02-12 ~ mathematics is the longest continuous human thought.
+* 2024-02-18 ~ if I use something I must "touch" it somehow.
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 **Today**
 
 * Claudia
-* vsCode: css
+* Floris
+
+  
+
+  
+
+  
+
 * Endiatx
 * Tania
 * Allison & pals: message
