@@ -10,7 +10,7 @@
 **Today**
 
 * Claudia
-* vsCode: css
+*   
 * Endiatx
 * Tania
 * Allison & pals: message
