@@ -10,8 +10,7 @@
 
 **Today**
 
-*   
-* Floris
+* Floris  
 * Endiatx
 * Tania
 * Allison & pals: message
