@@ -1,6 +1,9 @@
 # Quentin Caron
 
 
+* https://www.linkedin.com/in/quentin-caron/
+
+
 ## 2024-02-15
 
 Hello Torrey and Quentin

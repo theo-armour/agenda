@@ -5,11 +5,19 @@
 * Amazon Socks
 * Address?
 
+## 2024-02-19
+
+* Check items in spreadsheet
+* Ready to pick up furniture
+* Will&Trust: finished with Vivian
+
+
 ## 2024-02-12
 
 * https://californiaforever.com
 * https://twitter.com/CAForever/
 * https://www.instagram.com/californiaforever/
+
 CEO lives in Solano County
 
 ## 2024-01-16

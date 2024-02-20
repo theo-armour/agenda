@@ -17,7 +17,7 @@ https://www2.archivists.org/
 ## Desired outcome
 
 * Tens of thousands of documents are
-  * online and available to the public
+  * Online and available to the public
   * Hosted on servers with a lengthy expected lifespan
   * Preferably at no charge
   * Cataloged
