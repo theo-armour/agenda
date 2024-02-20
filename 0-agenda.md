@@ -13,7 +13,7 @@
 * Floris
 * Endiatx
 * Tania
-* Allison & pals: message
+*   
 * Olga
 * 2am
 * HH: Calendar
