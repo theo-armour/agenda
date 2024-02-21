@@ -1,3 +1,6 @@
+# endiatix
+
+* https://endiatx.com
 
 
 ## 2024-02-19 Chris Green
@@ -18,7 +21,7 @@ I plan to copy all three of you on the emails so you can see what I have written
 BTW, I am not a founder of Autodesk (though a friend of many of the 13 founders)
 
 * I founded the first AutoCAD dealership in Asia in 1984
-* From 1986 to 1991 ~ as a consultant to Autodesk I was sent all over China and East Asia to prepare organizations such as Jiao Tong University, Samsung & TSMC on how to use AutoCAD to build factories and other things. It worked.EEndiatx: draft 
+* From 1986 to 1991 ~ as a consultant to Autodesk I was sent all over China and East Asia to prepare organizations such as Jiao Tong University, Samsung & TSMC on how to use AutoCAD to build factories and other things. It worked.EEndiatx: draft
 * 1991 to 1998 ~ I designed three releases of AutoCAD
 
 More recentlyI have been involved
