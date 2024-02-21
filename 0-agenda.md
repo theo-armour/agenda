@@ -11,9 +11,7 @@
 **Today**
 
 * Floris
-* Endiatx
 * Tania
-*   
 * Olga
 * 2am
 * HH: Calendar
