@@ -1,8 +1,17 @@
 # Alix
 
-* read Ends
 minimise.today
 https://www.minimise.today/
+
+## 2024-02-21
+
+* Ends ~ anything to do?
+* Yosemite
+* Furniture ~ shipping
+* Framework ~ updates
+* Logo ~ images ~ carousel? 3D
+* Helen's birthday
+
 
 
 ## 2024-02-08
