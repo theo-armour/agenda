@@ -108,7 +108,7 @@
 * Patti: guestroom: paintings
 * Xfinity: Demian: upload speeds
 * Vivien: C-contract rates
-* Christina: email? Article
+* Christina: email? Article/
 
 Waiting
 
@@ -129,7 +129,6 @@ March
 * ?
 * Activity descriptions
 * phone dir: outsiders: phones + email
-* movie schedule
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.1.2 out and about</a>
 
