@@ -13,7 +13,7 @@
 * Trish: Japan article
 * Doris: civil war visits
 * Jane: coronation
-* Martha Nell: ??
+* Martha Nell: Porter
 * Martha Nell: Library acquisitions
 * Martha Nell: Article on Nancy Drew
 * Sheila: Ireland
