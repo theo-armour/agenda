@@ -10,12 +10,15 @@
 
 **Today**
 
-* Paul Mason: Aaron  
+* Paul Mason: Aaron
+* Jorge: prompts
+* Quentin
+* Claudia
+* MikeM
 * Floris
 * Tania
 * Olga
 * 2am
-* HH: Calendar
 * John Walker: Roxie
 * Margaret Johnson: $275 for 4 Veuve
 
