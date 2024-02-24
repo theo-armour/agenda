@@ -38,35 +38,7 @@ Relax, Re-energize w/ Healing Harp Music by Kyoto
 https://www.harpheals.net/biography
 (Coffee & Cookies will be available)
 
-
-
-None selected
-
-Skip to content
-Using Gmail with screen readers
-
-Conversations
-Mary Linde
-Financial Study Group
-
-Calendar event
-Feb 7
-Mary Linde
-Financial Study Group
-
-Calendar event
-Feb 7
-Mary Linde
-Financial Study Group
-
-Calendar event
-Feb 7
-March Sunday Movies
-Inbox
-
-Nancy Ozsogomonyan
-Feb 22, 2024, 2:09 PM (21 hours ago)
-to Yvonne, me, Roxana, Stephen
+## Sunday movies
 
 
 3 March ~ Charade ~ 1963 ~ 1hr 53m
@@ -136,4 +108,7 @@ Next time: Back to San Francisco!
 
 341 Packman Avenue, Mount Vernon, NY, almost unchanged in 70 years
 
+
+
+## Tucker
 
