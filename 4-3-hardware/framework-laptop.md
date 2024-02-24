@@ -1,6 +1,6 @@
 # Frame.work
 
-https://theo-armour.github.io/agenda/4-3-hardware/framework-laptop.md
+* https://theo-armour.github.io/agenda/readme.html#4-3-hardware/framework-laptop.md
 
 ## Links
 
