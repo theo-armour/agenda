@@ -11,6 +11,7 @@
 **Today**
 
 * Paul Mason: Aaron
+* Heritage Accounts: update payment accoiunts
 * Jorge: prompts
 * Quentin
 * Claudia
