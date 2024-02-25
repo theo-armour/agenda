@@ -20,6 +20,7 @@
 * Tania
 * Olga
 * 2am
+* Otter: cancel
 * John Walker: Roxie
 * Margaret Johnson: $275 for 4 Veuve
 
