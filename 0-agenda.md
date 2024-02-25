@@ -10,16 +10,22 @@
 
 **Today**
 
+* Jason Carman
 * Paul Mason: Aaron
+* Residents Directory
+* Heritage Accounts: update payment accoiunts
 * Jorge: prompts
 * Quentin
 * Claudia
-* MikeM
+* MikeM: Momday
 * Floris
 * Tania
 * Olga
 * 2am
+* Drake Tam: The Key
+* Otter: cancel
 * John Walker: Roxie
+* Lawrence pay $14.40
 * Margaret Johnson: $275 for 4 Veuve
 
 **Soon**
