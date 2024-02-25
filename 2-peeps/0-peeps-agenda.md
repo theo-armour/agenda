@@ -4,8 +4,8 @@
 
 **\* Jorge <> Michael Merrill**
 
-**## Peeps  
-**
+\*\*## Peeps  
+\*\*
 
 * Anders Grigel:
 * Anders ~ Jurgen Habermas & the bourgeois public ~ Jena Germany sphere
@@ -43,7 +43,7 @@
 * Stephan Breuer: exhibit
 * Taylor Schmidt:
 * Vish: threejs physics ~ wp adds
-* Zach: temtop
+* Zach Robbins: temtop
 
 ## Things to Consider
 
