@@ -10,13 +10,14 @@
 
 **Today**
 
+* Jason Carman
 * Paul Mason: Aaron
 * Residents Directory
 * Heritage Accounts: update payment accoiunts
 * Jorge: prompts
 * Quentin
 * Claudia
-* MikeM
+* MikeM: Momday
 * Floris
 * Tania
 * Olga
