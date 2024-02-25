@@ -14,9 +14,19 @@
 
 * How to communicate with the family?
 * Family photos & files
-* Isabelle was a better startup person than I was with her gardens  
+* Isabelle was a better startup person than I was with her gardens
 
 ## Change Log
+
+### 2024-02-24
+
+* Alix & Cynthia in SF
+* Yosemite visit
+* Graphics
+* Shipping
+* List of must sell items
+
+
 
 ### 2024-01-18
 
