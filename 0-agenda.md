@@ -16,7 +16,7 @@
 * Bee
 * Cancel Ortho medical
 * Residents Directory
-* HH Calendar
+*   
 * MikeM: Monday
 
 **Soon**
