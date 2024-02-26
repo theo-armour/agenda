@@ -11,7 +11,7 @@
 **Today**
 
 * Jason Carman
-* Paul Mason: Aaron
+*   
 * Residents Directory
 * Heritage Accounts: update payment accounts
 * Jorge: prompts
@@ -21,7 +21,6 @@
 * Floris
 * Tania
 * Olga
-* Drake Tam: The Key
 * Otter: cancel
 * John Walker: Roxie
 * Lawrence pay $14.40
@@ -97,13 +96,20 @@
 
 * ?
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 peeps</a>
+  
+
+\*\*\*
+
+  
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0&nbsp;</a> PEEPS
 
 * ??
+* Paul Mason: Aaron
+* Drake Tam: The Key
 * Joe Macleod
-* MikeM
 * Nienke
-* First mac??
+* Nicolas: First mac??
 
 ***
 
