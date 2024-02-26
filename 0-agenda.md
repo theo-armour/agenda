@@ -21,12 +21,11 @@
 * Floris
 * Tania
 * Olga
-*   
 * Drake Tam: The Key
 * Otter: cancel
 * John Walker: Roxie
 * Lawrence pay $14.40
-* Margaret Johnson: $275 for 4 Veuve
+* Margaret Johnson: $275 for 4 Veuve 2 TomJ
 
 **Soon**
 
