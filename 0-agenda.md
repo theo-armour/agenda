@@ -16,7 +16,6 @@
 * Bee
 * Cancel Ortho medical
 * Residents Directory
-*   
 * MikeM: Monday
 
 **Soon**
@@ -30,7 +29,7 @@
 * Olga
 * Otter: cancel
 * Armour HQ: upload documents
-* Medical appointments
+* Medical appointme
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
