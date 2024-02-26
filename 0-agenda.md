@@ -13,7 +13,7 @@
 * Jason Carman
 * Paul Mason: Aaron
 * Residents Directory
-* Heritage Accounts: update payment accoiunts
+* Heritage Accounts: update payment accounts
 * Jorge: prompts
 * Quentin
 * Claudia
@@ -46,6 +46,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 admin personal</a>
 
 * SW: Nail Fungus liquid
+* Dia as Idepth pers
 * A: 3D Scanner ~ after retainer refund
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
