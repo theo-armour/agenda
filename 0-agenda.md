@@ -17,11 +17,11 @@
 * Jorge: prompts
 * Quentin
 * Claudia
-* MikeM: Momday
+* MikeM: Monday
 * Floris
 * Tania
 * Olga
-* 2am
+*   
 * Drake Tam: The Key
 * Otter: cancel
 * John Walker: Roxie
