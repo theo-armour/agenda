@@ -10,13 +10,13 @@
 
 **Today**
 
-*   
-* Quentin
+* Quentin  
 * Claudia
 * Tania
 * Bee
 * Cancel Ortho medical
 * Residents Directory
+* HH Calendar
 * MikeM: Monday
 
 **Soon**
