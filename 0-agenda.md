@@ -10,25 +10,25 @@
 
 **Today**
 
-* Jason Carman
-* Residents Directory
-* Heritage Accounts: update payment accounts
-* Jorge: prompts
+*   
 * Quentin
 * Claudia
-* MikeM: Monday
-* Floris
 * Tania
-* Olga
-* Otter: cancel
-* John Walker: Roxie
-* Lawrence pay $14.40
-* Margaret Johnson: $275 for 4 Veuve 2 TomJ
+* Bee
+* Cancel Ortho medical
+* Residents Directory
+* MikeM: Monday
 
 **Soon**
 
 * ?
-* Cancel Ortho medical
+* Jorge: prompts
+* John Walker: Roxie
+* Margaret Johnson: $275 for 4 Veuve 2 TomJ
+* Jason Carman
+* Floris
+* Olga
+* Otter: cancel
 * Armour HQ: upload documents
 * Medical appointments
 
