@@ -11,7 +11,6 @@
 **Today**
 
 * Jason Carman
-*   
 * Residents Directory
 * Heritage Accounts: update payment accounts
 * Jorge: prompts
