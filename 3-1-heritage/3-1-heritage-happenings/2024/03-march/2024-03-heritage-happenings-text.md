@@ -110,5 +110,55 @@ Next time: Back to San Francisco!
 
 
 
-## Tucker
+## Message from the President of the Resident's Council
 
+
+Residents
+
+Birthday Table Invitations
+
+There have been requests by residents who have a birthday to be able to invite a guest to sit with them at the birthday table.
+
+Residents celebrating their birthday month may now invite one guest to join them at the monthly birthday table.
+
+Dining Services has agreed that guests can be accommodated subject to the following.
+The birthday table can accommodate a maximum of 12 people.
+Only one guest per resident may be invited
+The order of precedence is Resident, Spouse of Resident, Guest
+Dining Services must be informed about the guest invitations at least a week before the birthday dinner.
+Guests will be accommodated on a first come first served basis.
+
+March Madness Basketball Fundraiser to start March 1st 2024
+
+The fundraiser is set to start on March 1st, 2024.
+No basketball or team knowledge is necessary to participate.
+Each square in the fundraiser is priced at $5, offering a chance to win $300 if all squares are sold.
+Residents may not put a team member's name in any square.
+The fundraiser is open to friends and family.
+If all squares are sold, $200 will be contributed to the Employee Appreciation Fund.
+
+Regards
+
+Patrick Alexander
+President Residents Council.
+
+## A Coronation Story
+By Jane Standing
+
+I was working at 61 Threadneedle Street on February 6 1952 when someone came in and said the King had died. We did not quite believe it. But we soon found out that it was true.and that he was much sicker than the public knew. My boy friend, Barry, and I were going to the theater that night because it was my birthday but all the theaters were closed. We could have gone out to diner but we did not feel like it and went back to our respective homes instead..
+Elizabeth was in Kenya. She left England a Princess and came back a Queen. As she returned to London and came down the steps of ther plane in deepest morning, perfectly composed, she was greeted by Prime Minister Winston Churchill as well as other members of the Cabinet.  Churchill was visibly emotional.
+After the solemnity of the King’s funeral it was time to plan Queen Elizabeth’s coronation which was to take place on June 2 1953. All London was “en fete”. In the city there were window boxes with flowers in almost every building including the one I worked. There were banners and signs everywhere and The Mall had a spectacular overhead display.
+My boyfriend, now my fiancé’s mother was a Londoner and a staunch royalist and insisted that we go up to see the Coronation. We took the last tube train up from Uxbridge at I believe one thirty in the morning and stood in Hyde Park opposite The Dorchester Hotel. A very nice location. We were so early that we had a front row view. Did we sit on the curb?  I cannot remember. We had flasks of tea and sandwiches to sustain us.   The service was broadcast on loud speakers so we could hear what was going on. And then came the parade. I will never forget the gold coach coming by, with the queen in her coronation robes and the crown on her head. So young and beautiful -  only in her twenties.  A sight burned in my brain.  I don’t believe it was raining then but soon the heavens opened  and all the parade got soaked. It was so sad to see the soldiers in their red jackets and bearskin hats and all of the other participants including the the commonwealth contingents. I remember especially the Gurkhas from India and the Queen of Tonga in an open landau refusing an umbrella and smiling broadly.  She wanted to see and be seen.
+After it was all over my fiancé’s father said “come with me’”  We were as soaked as everyone else.  He led us under the trees and produced a  very welcome flask of brandy. We all took a hearty swig, took the train home, dried off and went to bed exhausted but happy that we had been there.
+It was a different era, no cell phones, iPads or computers We had to go to the cinema to see the actual coronation and my vision  of all the nobles in their red velvet robes and ermine was magnificent.  ( the smell of mothballs must have overcome the smell of the incense). Apparently how many black blobs on your ermine and how many silver balls on your coronet denoted your rank.  It was rumored that because the service  was so long some coronets contained packets  of sandwiches. At the actual crowning they cried “’God save the Queen” and put their coronets on hopefully sans sandwiches. The service was televised but not many people had televisions and they would have been small black and white affairs anyway.
+ King Charles had a much simpler coronation and I doubt if we will ever see such a splendid spectacle again.
+
+
+## Yvonne sys:
+
+I have more, but you asked for a few, so I am sharing these.  No author for any of these, just sayings we Irish use:
+An Irishman is never drunk as long as he can hold on to one blade of  grass and not fall off the face of the Earth.
+A trout in the pot is better than a salmon in the sea.
+If you lie down with dogs you'll rise with fleas.
+Life's journey is not to arrive safely at the grave in a well preserved body, but rather to skid in sideways, totally worn out, shouting "HOLY COW, WHAT A RIDE"
+I have more, but you asked for a few, so I am sharing these.  No author for any of these, just sayings the Irish Use.
