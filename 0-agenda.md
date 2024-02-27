@@ -12,7 +12,6 @@
 
 * Quentin  
 * Claudia
-* Tania
 * Bee
 * Cancel Ortho medical
 * Residents Directory
