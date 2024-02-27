@@ -4,11 +4,7 @@
 
 What are two topics you might discuss? General topics such as last night's game or a favorite TV show are fine.
 
-  
-
 What is one thing you hope to say?
-
-  
 
 What is one question you will ask?
 
@@ -19,6 +15,10 @@ Imagine the world where everybody was suffering. There must be a reason why some
 Exercise the arms at night
 
 French 75
+
+Visit the doyles with Jane
+
+  
 
 Negroni
 
