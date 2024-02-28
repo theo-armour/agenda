@@ -12,9 +12,7 @@
 
 * Quentin
 * Claudia
-*   
 * Cancel Ortho medical: 415-707-0420
-* Residents Directory
 
 **Soon**
 
@@ -24,7 +22,6 @@
 * Margaret Johnson: $275 for 4 Veuve 2 TomJ
 * Jason Carman
 * Floris
-*   
 * Otter: cancel
 * Armour HQ: upload documents
 * Medical appointments
