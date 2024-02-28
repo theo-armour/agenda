@@ -162,3 +162,19 @@ A trout in the pot is better than a salmon in the sea.
 If you lie down with dogs you'll rise with fleas.
 Life's journey is not to arrive safely at the grave in a well preserved body, but rather to skid in sideways, totally worn out, shouting "HOLY COW, WHAT A RIDE"
 I have more, but you asked for a few, so I am sharing these.  No author for any of these, just sayings the Irish Use.
+
+## Catherine.
+
+
+
+KatherineC: I toured Ireland in the 70s. We took a tour of the Ring of Kerry - looking at the coastline. It was supposed to be quite spectacular, but I was somewhat disappointed. Our California coastline is just as beautiful.
+
+## Bob
+
+BobG: My wife Muriel was Irish. Her parents were staunch Irish Catholics. Nonetheless they still admired Great Britain and listened to the Queen's Speech every year. They were happy that Ireland was independent but would have preferred to be members of the British Commonwealth.
+
+
+## Theo
+
+Theo: When I toured Ireland in 1973, I followed a route almost identical to Sheila's route. The differences were that we never got to the the Giant's Causeway but had a spectacular view of the Cliffs of Mohar.
+

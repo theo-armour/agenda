@@ -5,6 +5,23 @@
 * Amazon Socks
 * Address?
 
+## 2024-02-26
+
+* Yoesmite
+* House
+* Eloise
+* Furniture
+* Jewelry
+* pt - yosemite
+
+Visit
+
+* Crenn
+* Englehardts
+* Michalis / Dimsum
+* Awanee
+
+
 ## 2024-02-19
 
 * Check items in spreadsheet
