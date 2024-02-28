@@ -10,28 +10,22 @@
 
 **Today**
 
-* Jason Carman
-* Paul Mason: Aaron
-* Residents Directory
-* Heritage Accounts: update payment accounts
-* Jorge: prompts
 * Quentin
 * Claudia
-* MikeM: Momday
-* Floris
-* Tania
-* Olga
-* 2am
-* Drake Tam: The Key
-* Otter: cancel
-* John Walker: Roxie
-* Lawrence pay $14.40
-* Margaret Johnson: $275 for 4 Veuve
+* Bee
+* Cancel Ortho medical
+* Residents Directory
 
 **Soon**
 
 * ?
-* Cancel Ortho medical
+* Jorge: prompts
+* John Walker: Roxie
+* Margaret Johnson: $275 for 4 Veuve 2 TomJ
+* Jason Carman
+* Floris
+* Olga
+* Otter: cancel
 * Armour HQ: upload documents
 * Medical appointments
 
@@ -45,8 +39,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 admin personal</a>
 
-* SW: Nail Fungus liquid
-* Dia as Idepth pers
+* SW: Nail Fungus liquid gas-ex 
 * A: 3D Scanner ~ after retainer refund
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
@@ -99,13 +92,16 @@
 
 * ?
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 peeps</a>
+\*\*\*
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0&nbsp;</a>   PEEPS
 
 * ??
+* Paul Mason: Aaron
+* Drake Tam: The Key
 * Joe Macleod
-* MikeM
 * Nienke
-* First mac??
+* Nicolas: First mac??
 
 ***
 
