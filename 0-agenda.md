@@ -12,7 +12,6 @@
 
 * Quentin
 * Claudia
-* Alix
 *   
 
 **Soon**
@@ -27,6 +26,8 @@
 * Medical appointments
 * Election Endorsements
 * Heritage map
+* Tiller
+* Best way to transfer from Google to MS365
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -175,6 +176,7 @@ March
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
 
 * ?
+* Fastmail?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
 
