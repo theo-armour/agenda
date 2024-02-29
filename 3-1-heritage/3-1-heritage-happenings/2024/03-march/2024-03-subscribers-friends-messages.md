@@ -12,11 +12,11 @@ Hello Heritage Residents
 
 Your digital copies of the February Heritage Happenings are now available.
 
-Click the following link to view or download the newsletter: [Heritage Happenings Newsletter](https://heritage-happenings.github.io/happenings-issues/2024/2024-03-heritage-happenings-newsletter.pdf)
+Click the following shareable link to view or download the newsletter: [Heritage Happenings Newsletter](https://heritage-happenings.github.io/happenings-issues/2024/2024-03-happenings-newsletter.pdf)
 
-Click the following link to view or download the calendar: [Heritage Happenings Calendar](https://heritage-happenings.github.io/happenings-issues/2024/2024-03-happenings-calendar.pdf)
+Click the following shareable link to view or download the calendar: [Heritage Happenings Calendar](https://heritage-happenings.github.io/happenings-issues/2024/2024-03-happenings-calendar.pdf)
 
-The Heritage Happenings Residents Directory was not updated this month.
+The Heritage Happenings Residents Directory was updated this month. You copy is attached to this email.
 
 
 Theo
