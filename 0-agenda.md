@@ -5,6 +5,7 @@
 * 2024-02-06 ~ Patrick: If it's worth doing, then it's worth doing badly.
 * 2024-02-12 ~ mathematics is the longest continuous human thought.
 * 2024-02-18 ~ if I use something I must "touch" it somehow.
+* 2024-02-29 ~ the big department stores are empty and closing
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -12,7 +13,6 @@
 
 * Quentin
 * Claudia
-*   
 
 **Soon**
 
@@ -30,7 +30,6 @@
 * Tiller
 * Best way to transfer from Google to MS365
 * Dropbox to oneDrive
-*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -97,7 +96,7 @@
 
 \*\*\*
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0&nbsp;</a>     PEEPS
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0&nbsp;</a>      PEEPS
 
 * ??
 * Paul Mason: Aaron
