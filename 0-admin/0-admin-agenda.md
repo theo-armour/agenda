@@ -5,6 +5,8 @@
 * ?
 * aidVantage: restart payments
 * Social Security: payments update
+* paypal: update primary bank account?
+*   
 
 ## Chase
 
