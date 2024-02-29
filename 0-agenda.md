@@ -12,22 +12,25 @@
 
 * Quentin
 * Claudia
-* Bee
-* Cancel Ortho medical
-* Residents Directory
+*   
 
 **Soon**
 
 * ?
+* HH: to subscribers
 * Jorge: prompts
 * John Walker: Roxie
-* Margaret Johnson: $275 for 4 Veuve 2 TomJ
 * Jason Carman
 * Floris
-* Olga
 * Otter: cancel
 * Armour HQ: upload documents
 * Medical appointments
+* Election Endorsements
+* Heritage map
+* Tiller
+* Best way to transfer from Google to MS365
+* Dropbox to oneDrive
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -39,7 +42,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 admin personal</a>
 
-* SW: Nail Fungus liquid gas-ex 
+* SW: Nail Fungus liquid ~ 
 * A: 3D Scanner ~ after retainer refund
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
@@ -94,7 +97,7 @@
 
 \*\*\*
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0&nbsp;</a>   PEEPS
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0&nbsp;</a>     PEEPS
 
 * ??
 * Paul Mason: Aaron
@@ -114,8 +117,8 @@
 * ?
 * Patti: guestroom: paintings
 * Xfinity: Demian: upload speeds
-* Vivien: C-contract rates
-* Christina: email? Article/
+* Vivien: small charges
+* Christina: compare w/ towers
 
 Waiting
 
@@ -127,15 +130,12 @@ Waiting
 
 March
 
-* Agenda
-* Contacts for events
 * ?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
 
 * ?
 * Activity descriptions
-* phone dir: outsiders: phones + email
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.1.2 out and about</a>
 
@@ -179,6 +179,7 @@ March
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
 
 * ?
+* Fastmail?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
 
