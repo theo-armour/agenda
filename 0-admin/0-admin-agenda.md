@@ -4,6 +4,7 @@
 
 * ?
 * aidVantage: restart payments
+* Social Security: payments update
 
 ## Chase
 
@@ -41,11 +42,7 @@
 * Stop AI monthlies < confirm
 * Stop Samsung insurance
 
-  
-
 ## Change Log
-
-  
 
 ### 2024-02-16
 
