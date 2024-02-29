@@ -17,6 +17,7 @@
 **Soon**
 
 * ?
+* HH: to subscribers
 * Jorge: prompts
 * John Walker: Roxie
 * Jason Carman
@@ -28,6 +29,8 @@
 * Heritage map
 * Tiller
 * Best way to transfer from Google to MS365
+* Dropbox to oneDrive
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
