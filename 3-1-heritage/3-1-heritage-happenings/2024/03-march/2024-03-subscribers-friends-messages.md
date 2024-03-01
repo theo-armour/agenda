@@ -16,7 +16,7 @@ Click the following shareable link to view or download the newsletter: [Heritage
 
 Click the following shareable link to view or download the calendar: [Heritage Happenings Calendar](https://heritage-happenings.github.io/happenings-issues/2024/2024-03-happenings-calendar.pdf)
 
-The Heritage Happenings Residents Directory was updated this month. You copy is attached to this email.
+The Heritage Happenings Residents Directory was updated this month. Your copy is attached to this email.
 
 Theo
 
@@ -68,7 +68,7 @@ Hello family and friends
 
 Your digital copies of the March Heritage Happenings are now available.
 
-Click the following link to view or download the newsletter: Heritage Happenings Newsletter https://heritage-happenings.github.io/happenings-issues/2024/2024-03-heritage-happenings-newsletter.pdf)
+Click the following link to view or download the newsletter: Heritage Happenings Newsletter https://heritage-happenings.github.io/happenings-issues/2024/2024-03-happenings-newsletter.pdf)
 
 Click the following link to view or download the calendar: Heritage Happenings Calendar https://heritage-happenings.github.io/happenings-issues/2024/2024-03-happenings-calendar.pdf
 
@@ -96,7 +96,7 @@ Hello Heritage on the Marina Team Members
 
 Your digital copies of the March Heritage Happenings are now available.
 
-Click the following link to view or download the newsletter: [Heritage Happenings Newsletter](https://heritage-happenings.github.io/happenings-issues/2024/2024-03-heritage-happenings-newsletter.pdf)
+Click the following link to view or download the newsletter: [Heritage Happenings Newsletter](https://heritage-happenings.github.io/happenings-issues/2024/2024-03-happenings-newsletter.pdf)
 
 Click the following link to view or download the calendar: [Heritage Happenings Calendar](https://heritage-happenings.github.io/happenings-issues/2024/2024-03-happenings-calendar.pdf)
 
@@ -131,15 +131,13 @@ Hello San Francisco Ladies Protection and Relief Society Board of Directors
 
 Your digital copies of the March Heritage Happenings are now available.
 
-Click the following link to view or download the newsletter: [Heritage Happenings Newsletter](https://heritage-happenings.github.io/happenings-issues/2024/2024-03-heritage-happenings-newsletter.pdf)
+The March issues features Ireland
 
-Click the following link to view or download the calendar: [Heritage Happenings Calendar](https://heritage-happenings.github.io/happenings-issues/2024/2024-03-happenings-calendar.pdf)
+Click the following link to view or download the newsletter: Heritage Happenings Newsletter https://heritage-happenings.github.io/happenings-issues/2024/2024-03-heritage-happenings-newsletter.pdf
 
-The Heritage Happenings Residents Directory was not updated this month.
+Click the following link to view or download the calendar: Heritage Happenings Calendar https://heritage-happenings.github.io/happenings-issues/2024/2024-03-happenings-calendar.pdf
 
-
-
-Happy Year of the Dragon!
+Happy Saint Patrick's Day!
 
 Theo
 
