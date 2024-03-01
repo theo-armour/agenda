@@ -4,7 +4,7 @@
 
 * ?
 * aidVantage: restart payments
-* aypal: update primary bank account? try again
+* Paypal: update primary bank account? try again
 
 ## Chase
 
