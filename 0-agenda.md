@@ -17,7 +17,7 @@
 **Soon**
 
 * ?
-* HH: to subscribers
+* x
 * Jorge: prompts
 * John Walker: Roxie
 * Jason Carman
@@ -96,7 +96,7 @@
 
 \*\*\*
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0&nbsp;</a>      PEEPS
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0&nbsp;</a>       PEEPS
 
 * ??
 * Paul Mason: Aaron
