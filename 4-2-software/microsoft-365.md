@@ -19,3 +19,17 @@ Please help me learn how to do this.
 Theo
 
 
+## Done
+
+### 2024-03-02
+
+* Transfer from online OneDrive to online OneDrive using Beyond Compare is very slow.
+* Transfer from online OneDrive to local drive is about a minute a GB
+* Transfeer from local drive to microSD card is about 2GB per minute
+
+
+
+### 2024-03-01
+
+* upgrade t-armour@outlook.com to Microsoft 365 Family
+* transfer payments to MC 4027
