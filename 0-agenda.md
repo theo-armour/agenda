@@ -22,7 +22,7 @@
 * John Walker: Roxie
 * Jason Carman
 * Floris
-* Otter: cancel
+*   
 * Armour HQ: upload documents
 * Medical appointments
 * Election Endorsements
