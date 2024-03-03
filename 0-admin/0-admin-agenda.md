@@ -4,9 +4,7 @@
 
 * ?
 * aidVantage: restart payments
-* Social Security: payments update
-* paypal: update primary bank account?
-*   
+* Paypal: update primary bank account? try again
 
 ## Chase
 
@@ -45,6 +43,10 @@
 * Stop Samsung insurance
 
 ## Change Log
+
+### 2024-03-01
+
+* Social Security: payments update
 
 ### 2024-02-16
 
