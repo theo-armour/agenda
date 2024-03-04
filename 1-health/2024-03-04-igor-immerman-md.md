@@ -1,6 +1,6 @@
 # 2024-03-04 Igor Immerman mDp
 
-I worry about seeing such as an accident where I fall and break my right arm and life is completely turned topsy-turvy
+I worry about an accident where I fall and break my right arm and life is completely turned topsy-turvy
 
 I've been walking successfully with a cane for about 25 years. But in 2022 I broke my left femur. subsequently I have been putting much more weight on my right hand whilw holding the cane.
 
