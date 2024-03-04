@@ -22,9 +22,8 @@
 * John Walker: Roxie
 * Jason Carman
 * Floris
-* * Armour HQ: upload documents
+* Armour HQ: upload documents
 * Medical appointments
-*   
 * Heritage map
 * Tiller
 * Dropbox to oneDrive
