@@ -24,4 +24,6 @@ While waiting for the urine come out of the catheter I rotate my thumb while hol
 
 After my afternoon nap I do some simple arm exercises with a 5-pound weight
 
-While on a telephone call, I try to remember to wiggle my hand while rotting a 5 lb weight 
+While on a telephone call, I try to remember to wiggle my hand while rotting a 5 lb weight
+
+ 
