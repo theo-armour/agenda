@@ -55,6 +55,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 simplicity</a>
 
 * ?
+* Michaan'
 * Dropbox to oneDrive
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a>
