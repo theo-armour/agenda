@@ -13,8 +13,6 @@
 **Today**
 
 * Quentin
-* Claudia
-*   
 
 **Soon**
 
@@ -28,7 +26,7 @@
 * Medical appointments
 * Heritage map
 * Tiller
-* Dropbox to oneDrive
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -40,8 +38,8 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 admin personal</a>
 
-* SW: Nail Fungus liquid ~ 
-* A: 3D Scanner ~ after retainer refund ~ oximeter
+* SW:
+* A: 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
@@ -58,6 +56,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 simplicity</a>
 
 * ?
+* Dropbox to oneDrive
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a>
 
@@ -95,7 +94,7 @@
 
 \*\*\*
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0&nbsp;</a>             PEEPS
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
 
 * ??
 * Paul Mason: Aaron
