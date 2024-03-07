@@ -39,12 +39,11 @@
 
 ## My Profile
 
-
 * Add bio data
+
 ## Events Upcoming
 
 ## Done
-
 
 * 2022-10-19 ~ My photo
 
