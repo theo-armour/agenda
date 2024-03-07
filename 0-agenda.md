@@ -6,7 +6,7 @@
 * 2024-02-12 ~ mathematics is the longest continuous human thought.
 * 2024-02-18 ~ if I use something I must "touch" it somehow.
 * 2024-02-29 ~ the big department stores are empty and closing, while streets with lots of small shops are thriving
-* 2024-03-01 ~  Sometimes you don’t need to improve anything, Adeline Dimond reminds us. Sometimes you can just… exist.
+* 2024-03-01 ~ Sometimes you don’t need to improve anything, Adeline Dimond reminds us. Sometimes you can just… exist.
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -26,7 +26,6 @@
 * Medical appointments
 * Heritage map
 * Tiller
-*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
