@@ -3,7 +3,7 @@
 
 ## Business Cards
 
-* Try locall scanning
+* Try local scanning
 
 ## Shoeboxed
 

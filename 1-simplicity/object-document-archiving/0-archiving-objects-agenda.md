@@ -6,13 +6,15 @@
 Rather than taking photos of all my stuff, we will 3D scan the stuff.
 
 Good photography takes
+
 * good lighting
 * good background
 * good photographer
 
-Resulta: time-consuming, costly and prone to failure
+Results: time-consuming, costly and prone to failure
 
 Scanners
+
 * Scanners are fairly cheap
 * background is less of an issue
 * May need lighting uses latest technology
