@@ -13,7 +13,6 @@
 **Today**
 
 * Quentin
-* Michaan's update
 * Claudia: notes
 * ecat: notes
 
