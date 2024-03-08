@@ -13,7 +13,7 @@
 **Today**
 
 * Quentin
-* Michaan's updat
+* Michaan's update
 * Claudia: notes
 * ecat: notes
 
@@ -187,6 +187,7 @@ March
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
 
 * ?
+* AudiPen: Pens to Journal
 
 ## Reminders
 
