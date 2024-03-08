@@ -13,7 +13,9 @@
 **Today**
 
 * Quentin
-* Michaan's: updatr
+* Michaan's updat
+* Claudia: notes
+* ecat: notes
 
 **Soon**
 
