@@ -13,12 +13,12 @@
 **Today**
 
 * Quentin
+* Michaan's: updatr
 
 **Soon**
 
 * ?
 * Jonathan: Orthopedic reports, 
-*   
 * Lolo: chagpt
 * John Walker: Roxie
 * Jason Carman
