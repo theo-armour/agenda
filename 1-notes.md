@@ -2,7 +2,7 @@
 
 ???
 
-What are two topics you might discuss? General topics such as last night's game or a favorite TV show are fine.
+What are two topics you might discuss? General topics such as last night's game or a favorite TV show are fine.  
 
 What is one thing you hope to say?
 
@@ -17,8 +17,6 @@ Exercise the arms at night
 French 75
 
 Visit the doyles with Jane
-
-  
 
 Negroni
 
