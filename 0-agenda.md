@@ -13,7 +13,6 @@
 **Today**
 
 * Quentin
-*   
 * ecat: notes
 
 **Soon**
