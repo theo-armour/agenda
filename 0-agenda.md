@@ -13,7 +13,7 @@
 **Today**
 
 * Quentin
-* Claudia: notes
+*   
 * ecat: notes
 
 **Soon**
