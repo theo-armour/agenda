@@ -26,11 +26,12 @@ h3 {
 p {
 	color: #000;
 	margin-top: 0;
+	margin-bottom: 0.5em;
 	padding: 0;
 }
 
 ul {
-	margin-top: -1em;
+	margin-top: 0;
 	padding-top: 0em;
 }
 
@@ -46,5 +47,4 @@ a:hover {
 em {
 	color: blue;
 	font-style: italic;
-
 }

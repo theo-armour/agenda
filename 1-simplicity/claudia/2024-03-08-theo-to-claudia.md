@@ -18,6 +18,7 @@ Process
 
 ## Shipping
 
+
 * Need shipper dealing with odd lots of bulky items
 * Furniture to daughters in Amsterdam, Yosemite, Montana and Michaan's
 * A daughter to research shippers?
@@ -47,7 +48,7 @@ First priority
 
 * Glasses, China, Silver??
 
-## Meta Questions
+## The Right to be Remembered
 
 
 
