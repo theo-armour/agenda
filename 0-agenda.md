@@ -14,6 +14,7 @@
 
 * Quentin
 * ecat: notes
+* Eastern Bank
 
 **Soon**
 
