@@ -14,10 +14,10 @@
 * UCSF Colonoscopy
 * EmpowerMe: PT referral
 * [https://www.alignmenthealthplan.com/](https://www.alignmenthealthplan.com/) ~ free lunch?
-*   
 
 ## Work-in-progress
 
+* Reminder: playing with my fingers helps alleciate the stress of dental procedures
 * Skin clinic ~ Dermatology visits
 * \[Sara's Medical Advocacy & Planning ~ [https://www.sarasmap.com/](https://www.sarasmap.com/)
 * Three books on aging for the library
