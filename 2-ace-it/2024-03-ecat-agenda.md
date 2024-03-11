@@ -3,6 +3,8 @@
 ## Weekend
 
 * Sunday lunch ~ Sessions
+* Presidio 
+* Sunday pm ?
 
 ## Shipping Companies
 
@@ -14,9 +16,11 @@
 
 * Claudia?
 
+
 ## Frequent Flier Miles
 
 * How to use them?
+
 
 ## Photographs Archive
 
@@ -28,9 +32,11 @@
 * Me switching to t-armour@outlook.com for MS 365
 * Evils of Google Drive
 
+
 ## Donor Advised Fund
 
 * What actions to take?
+
 
 ## AI?
 

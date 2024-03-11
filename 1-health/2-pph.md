@@ -1,5 +1,10 @@
 # PPH
 
+* Non-medical contact?
+* New patients?
+* Contact with Martha
+* Understand Aging in Place model?
+
 ## Agenda
 
 Personal Issues

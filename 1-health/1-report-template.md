@@ -2,15 +2,23 @@
 
 ## Accomplishments since XXX / past
 
-### Statistics
+* Pharmacy / Medications / Vaccines
+* PT / OT
+* Doctors
+* Specialists
+* Medications
 
+
+### Monitoring / Statistics
+
+* Alcohol:
 * Weight:
 * Walking:
+* Fitness
 * Exercises:
-* Alcohol:
 * Hunching:
 * Sleep: OK
-* Schatzki ring, hiatus hernia,
+* Bowels
 
 ### Incidents
 
