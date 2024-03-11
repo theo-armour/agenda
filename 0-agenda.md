@@ -15,8 +15,6 @@
 * Quentin
 * ecat: notes
 * Eastern Bank: tax docs
-* PPH Gary: report
-* Packing
 
 **Soon**
 
