@@ -19,7 +19,7 @@
 **Soon**
 
 * ?
-* Jonathan: Orthopedic reports, 
+* Jonathan: Orthopedic reports
 * Lolo: chagpt
 * John Walker: Roxie
 * Jason Carman
