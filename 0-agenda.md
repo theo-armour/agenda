@@ -14,7 +14,6 @@
 
 * Quentin
 * ecat: notes
-*   
 
 **Soon**
 
