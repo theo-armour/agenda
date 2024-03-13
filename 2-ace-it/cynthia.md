@@ -2,8 +2,8 @@
 
 
 * Reply: Rio Vista city
-* Amazon Socks
-* Address?
+* edit Rico quote 
+* 
 
 ## 2024-02-26
 
