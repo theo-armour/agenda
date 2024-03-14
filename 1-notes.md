@@ -2,7 +2,23 @@
 
 ???
 
-What are two topics you might discuss? General topics such as last night's game or a favorite TV show are fine.  
+  
+
+Questions for Kyle
+
+  
+
+Should I walk on the left?
+
+Does the name Lost arrow refer to arrows on weather maps indicating wind direction?
+
+  
+
+The past two bridal veil falls was composed of a very fine gravel or send that looks like is not bothered by rain and does not form ruts when get it when it gets wet. What kind of material is this?
+
+  
+
+What are two topics you might discuss? General topics such as last night's game or a favorite TV show are fine.
 
 What is one thing you hope to say?
 
