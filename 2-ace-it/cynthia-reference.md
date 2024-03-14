@@ -1,14 +1,21 @@
 # Cynthia Reference
 
+## California Air Resources Board
+
 * https://ww2.arb.ca.gov/
+
+
+## CBA
+
 * https://www.linkedin.com/in/cynthiaarmour/
 
 
-## creativity inc
+## Creativity inc
 
 https://en.wikipedia.org/wiki/Creativity,_Inc ~ Cynthia liked it
 
-## Lead
+
+## Lead Prevention lead
 
 * Chakora
 

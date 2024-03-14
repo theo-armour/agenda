@@ -2,12 +2,12 @@
 
 
 * Reply: Rio Vista city
-* edit Rico quote 
-* 
+* edit Rico quote
+* Cigar boxes
 
 ## 2024-02-26
 
-* Yoesmite
+* Yosemite
 * House
 * Eloise
 * Furniture
@@ -19,7 +19,7 @@ Visit
 * Crenn
 * Englehardts
 * Michalis / Dimsum
-* Awanee
+* Ahwanee
 
 
 ## 2024-02-19
