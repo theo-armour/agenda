@@ -16,6 +16,10 @@ Does the name Lost arrow refer to arrows on weather maps indicating wind directi
 
 The past two bridal veil falls was composed of a very fine gravel or send that looks like is not bothered by rain and does not form ruts when get it when it gets wet. What kind of material is this?
 
+Is the big shake little shake detail a Yosemite standard or a national park standard ?
+
+  
+
   
 
 What are two topics you might discuss? General topics such as last night's game or a favorite TV show are fine.
