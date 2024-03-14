@@ -22,6 +22,8 @@ Is the big shake little shake detail a Yosemite standard or a national park stan
 
 Why is the mirror lake parking lot in such bad condition and so unusual by disabled people ?
 
+Did you get your taxes done?
+
   
 
   
