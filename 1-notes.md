@@ -18,15 +18,15 @@ The past two bridal veil falls was composed of a very fine gravel or send that l
 
 Is the big shake little shake detail a Yosemite standard or a national park standard ?
 
-  
-
 Why is the mirror lake parking lot in such bad condition and so unusual by disabled people ?
+
+Is there a sign saying John Muir hotel? 
 
 Did you get your taxes done?
 
 Cuz going up in higher altitudes cause higher heartbeats ?
 
-  
+Forced sale of tik Tok? 
 
   
 
