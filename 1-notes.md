@@ -20,6 +20,10 @@ Is the big shake little shake detail a Yosemite standard or a national park stan
 
   
 
+Why is the mirror lake parking lot in such bad condition and so unusual by disabled people ?
+
+  
+
   
 
 What are two topics you might discuss? General topics such as last night's game or a favorite TV show are fine.
