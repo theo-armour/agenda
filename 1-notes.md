@@ -24,6 +24,10 @@ Why is the mirror lake parking lot in such bad condition and so unusual by disab
 
 Did you get your taxes done?
 
+Cuz going up in higher altitudes cause higher heartbeats ?
+
+  
+
   
 
   
