@@ -100,6 +100,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
 
 * ??
+* Jerome: Borkbot
 * Rob: HH ~ meal invite
 * Marissa ~ meal invite
 * Paul Mason: Aaron
@@ -117,7 +118,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage</a>
 
 * ?
-* hritina: RC exec committee to be informed of RCFE statutes and obligations
+* Chritina: RC exec committee to be informed of RCFE statutes and obligations
 * Patti: guestroom: paintings
 * Xfinity: Demian: upload speeds
 * Vivien: small charges
