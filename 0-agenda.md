@@ -15,16 +15,19 @@
 
 * Quentin
 * Tidy Closet
-* Myint: thnks
+* Myint: thanks + photos
 * John Walker: remarks
 
 **Soon**
 
 * ?
 * Vivien
-* Voucher
+* Cynthia: thanks
+* Uber Voucher
+* Claudia
+* Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
-* Lolo: chagpt
+* Lolo: chagpt or gemin or copilot
 * John Walker: Roxie
 * Jason Carman
 * Floris
