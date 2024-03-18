@@ -1,6 +1,10 @@
 # 2.0 ace-it Agenda
 
 
+## Recraft
+
+* Are there profitable 
+
 ## Agenda
 
 * Cynthia: Tania's recollections to PDF ~ transcripts
