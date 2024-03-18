@@ -1,5 +1,7 @@
 # John Walker
 
+## Links
+
 * roxie@fourmilab.ch
 * https://scanalyst.fourmilab.ch/t/scanalyst-rite-of-passage/4276/61
 * https://accounts.autodesk.com/logon?resume=%2Fas%2FkzCeVCBuc4%2Fresume%2Fas%2Fauthorization.ping&spentity=null#username
@@ -23,7 +25,33 @@ reply
 * https://ricochet.com/1539727/john-walker-rip/#comment-7069953
 
 
-
 ## fourmilab
 
 * https://scanalyst.fourmilab.ch/t/some-experiments-with-chatgpt/2383/58
+
+## 2024-03-18
+
+* in 2003 I visited John and Roxie at their home in Lignieres. John showed me around FourmiLab. Later that evening He, Roxie, my three daughters and I went to watch the local fireworks display.
+* I was a member of his Grognards mailing list and followed his daily hikes on Twitter.
+* More recently, in December 2022, we had interchanges about AI. I amused him by creating a DALL-E image. Prrompt::
+“Draw a grumpy old man holding a ladder, standing in front of a house with a leaky gutter, dropping debris on him n the style of an early autocad release drawing”
+https://labs.openai.com/s/oeVXbkfcByf8sXmikpICUQqe
+* Prompt: Write an AutoLisp routine to draw three calipers
+https://scanalyst.fourmilab.ch/uploads/default/original/2X/a/a4e90a9beea71c74e23f04fba6923e1dd03e556a.png
+* This past February, I visite the scanalyst forum and was astounded by two posts:
+The first was the notice of John's death.
+The second post will haunt me forever The ppost is titled: "Three-Dimensional Modeling and Animation in the Browser". It was post relating to Three.js - an open source JavaScript Library for 3D interactive graphics in your browser. It way have been the last post John made on January 30.
+The reason the post resonates is that I have been a Three.js developer since 2010. I was ne of the earliest proponents of the libary ans presented a number of demos for Google's WerbGL meetups.
+More erecently I developed and maintain the Ladybug.Tools Spider gbXML Viewer. The Spider Viewer is a Three.js application that runs in the browser and is used to view and analyze building energy models. gbXML enables programs like Revit, Bentley, SketcUp to have bi-directiona communication with energy analyis programs such as OpenStudio, Trane, Ladybug Tools.
+
+
+* The reason I use Three.js is because it is the closest possible follow on to AutoLisp.
+* Bang out some code in one window. Hit enter. See the result pop up in the other windows
+* Drawing, interaction, linear algebra, and animation are all there in a package simple enough for a simpleton developer - a amateur hacker in the original sense of the word - to understand and maintain.
+
+I will always wonder: What sparked John's interest in Three.js? What was he trying to do? What was he trying to learn? What was he trying to teach? What was he trying to create?
+
+The thought that I might have had a chance to help John Walker with his investigations is an alternate reality that will bug me forever.
+
+
+
