@@ -14,13 +14,12 @@
 **Today**
 
 * Quentin
-*   
+* John Walker: remarks
 
 **Soon**
 
 * ?
-* John Walker: remarks
-* Jonathan: Orthopedic reports
+* Jonathan L: Orthopedic reports
 * Lolo: chagpt
 * John Walker: Roxie
 * Jason Carman
@@ -100,7 +99,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
 
 * ??
-* Jerome: Borkbot
+* emily
+* Jerome: dorkbot ~ aret scene ~ mushroom drink
+* Sherry ~ emaul
 * Rob: HH ~ meal invite
 * Marissa ~ meal invite
 * Paul Mason: Aaron
