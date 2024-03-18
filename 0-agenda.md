@@ -14,11 +14,13 @@
 **Today**
 
 * Quentin
+* Tidy Closet
+* Myint: thnks
 * John Walker: remarks
 
 **Soon**
 
-* ?
+* ?Vivien
 * Jonathan L: Orthopedic reports
 * Lolo: chagpt
 * John Walker: Roxie
