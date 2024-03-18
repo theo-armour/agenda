@@ -8,6 +8,8 @@
 * 2024-02-29 ~ the big department stores are empty and closing, while streets with lots of small shops are thriving
 * 2024-03-01 ~ Sometimes you don’t need to improve anything, Adeline Dimond reminds us. Sometimes you can just… exist.
 * 2024-03-13 ~ The First Pancake Principle ~ the first draft is meant to fail ~ 
+* 2024-03-18 ~ create an alternative obituary: example "he enjoyed Radamaker's Hopjes, Horlick's Malted Milk Tablets, Allenbury's Pastilles, Callard & Bowsers Licorice Toffee.
+* Favorite cocktail, paper airplane, Daddy joke
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -15,16 +17,22 @@
 
 * Quentin
 * Tidy Closet
-* Myint: thnks
+* Myint: thanks + photos
 * John Walker: remarks
 
 **Soon**
 
 * ?
+* Eisenber, Quanci, Michler, W Loch
+* Ashley E: invite
+* Shea: invite
 * Vivien
-* Voucher
+* Cynthia: thanks
+* Uber Voucher
+* Claudia
+* Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
-* Lolo: chagpt
+* Lolo: chagpt or gemin or copilot
 * John Walker: Roxie
 * Jason Carman
 * Floris
