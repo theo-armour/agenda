@@ -28,6 +28,9 @@ reply
 ## fourmilab
 
 * https://scanalyst.fourmilab.ch/t/some-experiments-with-chatgpt/2383/58
+* fermi
+* fourmi
+* 4me
 
 ## 2024-03-18
 
