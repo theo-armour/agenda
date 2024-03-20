@@ -28,7 +28,7 @@
 * Adesk: Eisenberg, Quanci, Michler, W Loch
 * Ashley E: invite
 * Shea: invite
-* * Cynthia: thanks
+* Cynthia: thanks + hat, bag, cabl
 * Claudia  
 * Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
