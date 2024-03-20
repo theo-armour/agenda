@@ -15,31 +15,21 @@
 
 **Today**
 
-* Tidy Closet  
+* Tidy Closet
 * Tammie
 * HH > Cameo: Mercury
-* Myint: thanks + photos
-*   
 
 **Soon**
 
 * ?
 * Quentin
-* \\
-
-  
-
-  
-
-  
-
+* Myint: thanks + photos
+* Hanley: Degnan images
 * Adesk: Eisenberg, Quanci, Michler, W Loch
 * Ashley E: invite
 * Shea: invite
-*   
-* Cynthia: thanks
-* Uber Voucher
-* Claudia
+* * Cynthia: thanks
+* Claudia  
 * Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
 * Lolo: chagpt or gemin or copilot
