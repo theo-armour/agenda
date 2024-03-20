@@ -15,14 +15,17 @@
 
 **Today**
 
-* Quentin
-* Tidy Closet
+* Tidy Closet  
+* Tammie
+* HH > Cameo: Mercury
 * Myint: thanks + photos
-* John Walker: remarks
+*   
 
 **Soon**
 
 * ?
+* Quentin
+
 * Eisenber, Quanci, Michler, W Loch
 * Ashley E: invite
 * Shea: invite
