@@ -26,10 +26,10 @@
 * ?
 * Quentin
 
-* Eisenber, Quanci, Michler, W Loch
+* Adesk: Eisenberg, Quanci, Michler, W Loch
 * Ashley E: invite
 * Shea: invite
-* Vivien
+* VivienR: funds
 * Cynthia: thanks
 * Uber Voucher
 * Claudia
