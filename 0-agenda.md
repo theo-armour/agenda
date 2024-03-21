@@ -15,7 +15,7 @@
 
 **Today**
 
-* Tidy Closet
+*   
 * Tammie
 * HH > Cameo: Mercury
 
@@ -29,7 +29,7 @@
 * Ashley E: invite
 * Shea: invite
 * Cynthia: thanks + hat, bag, cabl
-* Claudia  
+* Claudia
 * Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
 * Lolo: chagpt or gemin or copilot
