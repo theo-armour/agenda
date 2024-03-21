@@ -17,11 +17,12 @@
 
 *   
 * Tammie
-* HH > Cameo: Mercury
+*   
 
 **Soon**
 
 * ?
+* Tania: YV link
 * Quentin
 * Myint: thanks + photos
 * Hanley: Degnan images
