@@ -9,27 +9,27 @@
 * 2024-03-01 ~ Sometimes you don’t need to improve anything, Adeline Dimond reminds us. Sometimes you can just… exist.
 * 2024-03-13 ~ The First Pancake Principle ~ the first draft is meant to fail ~ 
 * 2024-03-18 ~ create an alternative obituary: example "he enjoyed Radamaker's Hopjes, Horlick's Malted Milk Tablets, Allenbury's Pastilles, Callard & Bowsers Licorice Toffee.
-* Favorite cocktail, paper airplane, Daddy joke
+* Favorite: cocktail, paper airplane, font, Daddy joke
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 **Today**
 
-* Quentin
 * Tidy Closet
-* Myint: thanks + photos
-* John Walker: remarks
+* Tammie
+* HH > Cameo: Mercury
 
 **Soon**
 
 * ?
-* Eisenber, Quanci, Michler, W Loch
+* Quentin
+* Myint: thanks + photos
+* Hanley: Degnan images
+* Adesk: Eisenberg, Quanci, Michler, W Loch
 * Ashley E: invite
 * Shea: invite
-* Vivien
-* Cynthia: thanks
-* Uber Voucher
-* Claudia
+* Cynthia: thanks + hat, bag, cabl
+* Claudia  
 * Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
 * Lolo: chagpt or gemin or copilot
