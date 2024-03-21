@@ -15,18 +15,16 @@
 
 **Today**
 
-*   
-* Tammie
-*   
+* * Tammie
 
 **Soon**
 
 * ?
-* Tania: YV link
+* Tania: YV link ~ next Thursday
 * Quentin
 * Myint: thanks + photos
 * Hanley: Degnan images
-* Adesk: Eisenberg, Quanci, Michler, W Loch
+* Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * Ashley E: invite
 * Shea: invite
 * Cynthia: thanks + hat, bag, cabl
