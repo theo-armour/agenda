@@ -37,7 +37,7 @@
 ## Trish: Things to research
 
 * Senior discounts & benefits ~ done ~ not very successful
-* Three books for elders for the library 
+* Three books for elders for the library
 * Fort Mason Events
 * Neighborhood Events
 * Moscone Recreation Center
@@ -80,6 +80,7 @@
 
 ### April
 
+* April Fools Day
 * National Poetry Month
 * Easter
 * Passover
