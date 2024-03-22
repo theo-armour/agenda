@@ -15,12 +15,15 @@
 
 **Today**
 
-* * Tammie
+* \* Tammie
 
 **Soon**
 
 * ?
-* Tania: YV link ~ next Thursday
+* Tania: YV link ~ next Thursday + will
+
+  
+
 * Quentin
 * Myint: thanks + photos
 * Hanley: Degnan images
