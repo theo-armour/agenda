@@ -131,12 +131,9 @@
 * ?
 * Heritage map
 * Chritina: RC exec committee to be informed of RCFE statutes and obligations
-* Patti: guestroom: paintings
 * Xfinity: Demian: upload speeds
-* Vivien: small charges
+* Martha: small charges
 * Christina: compare w/ towers
-
-Waiting
 
 *   
 
