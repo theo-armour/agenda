@@ -22,11 +22,9 @@
 * ?
 * Tania: YV link ~ next Thursday + will
 
-  
-
 * Quentin
 * Myint: thanks + photos
-* Hanley: Degnan images
+*   
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * Ashley E: invite
 * Shea: invite
