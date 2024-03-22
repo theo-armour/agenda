@@ -5,7 +5,7 @@
 * 2024-02-06 ~ Patrick: If it's worth doing, then it's worth doing badly.
 * 2024-02-12 ~ mathematics is the longest continuous human thought.
 * 2024-02-18 ~ if I use something I must "touch" it somehow.
-* 2024-02-29 ~ the big department stores are empty and closing, while streets with lots of small shops are thriving
+* 2024-02-29 ~ the big deparres are empty and closing, while streets with lots of small shops are thriving
 * 2024-03-01 ~ Sometimes you don’t need to improve anything, Adeline Dimond reminds us. Sometimes you can just… exist.
 * 2024-03-13 ~ The First Pancake Principle ~ the first draft is meant to fail ~ 
 * 2024-03-18 ~ create an alternative obituary: example "he enjoyed Radamaker's Hopjes, Horlick's Malted Milk Tablets, Allenbury's Pastilles, Callard & Bowsers Licorice Toffee.
