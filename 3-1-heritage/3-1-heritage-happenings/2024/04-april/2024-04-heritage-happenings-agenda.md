@@ -1,5 +1,46 @@
 # Heritage Happenings Agenda ~ April 2024
 
+## Agenda
+
+### Articles
+
+* @ Tom Johnson: msg sent #8 + 100 years
+* Doris
+* Eleanor Bissell: article?
+* Tucker: transcribe
+
+### Greece
+
+* All: Quotes
+* Sheila:
+
+### Activities
+
+* @Claudia: message sent classes outline
+* @Huma: msg sent to Martha Nell
+* Bianca: ask Martha Nell for help?
+
+Others?
+
+* Dr Lea
+* Jonathan the barber
+* Tess
+* Jewels + tailoring
+
+### Format
+
+* @ Nancy & Stephen: Movies format
+* Roxana: Events
+
+
+
+### Editorial
+
+* % Martha n: Levels of service: typical items
+
+***
+
+
 ## March Issue Review
 
 * Irish theme went well?
