@@ -1,29 +1,47 @@
-# 2024-04-heritage-happenings-agenda
+# Heritage Happenings Agenda ~ April 2024
 
-## First is on a Monday
+## March Issue Review
 
-* Meeting 14 March?
-* To printing on Friday 29
-* Emails to residents seeking family subscribers
+* Irish theme went well?
+* People like the quotes?
+* Editorial: OK?
 
-## Trish
+## Tight Schedule for April
 
-* Three part series on Fort Mason: history, art, restaurants
+* April First is on a Monday
+* Nobody to print or deliver over the weekend
+* Therefore "print-ready" by Friday 29
 
-## April Fool's Day
+## Themes
 
-* April 1: April Fools Day
-* Tucker and Charmly kissing
+* Around the World" Country of the month: Greece
+* Colors: azure blue and white
+* Cameo: Hermes/Mercury?
+* Herb Caen style quotes page on Greece
+* April 1: April Fools Day? Can we think up a gag?
 
-## Birthdays
+## Content
 
-* Harry
-* Margaret
+* Tucker Ingham: editorial
+* Margaret Johnson ~ Rooms #8?
+* Margaret Missiaen: Garden article?
+* Trish: book review
+* Trish: First Fort Mason article ~ history + events + openings
+* Doris: ??
+* Jane: absent
+* Martha Nell: ??
+* Martha Nell: Library acquisitions
+* Sheila: Greece
+* Eleanor Bissell: article?
+* Patrick: Residents Council or Board?
+* Theo/editorial: levels of service
+* Miscellany: Portrait photo Christina's 3 year old daughter?
 
-## Country Greece
+## Birthdays of note
 
-* Azure blue and white
-* Quotes
-* Herb Caen style
-* Ask residents at RC meeting om 29th? not
+* Harry @ 103?
+* Margaret @ 100!
+* Monique
+* Bernie
+
 
