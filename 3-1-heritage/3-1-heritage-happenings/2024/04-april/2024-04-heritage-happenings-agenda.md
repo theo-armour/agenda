@@ -5,38 +5,44 @@
 ### Articles
 
 * @ Tom Johnson: msg sent #8 + 100 years
-* Doris
 * Eleanor Bissell: article?
 * Tucker: transcribe
 
 ### Greece
 
 * All: Quotes
-* Sheila:
+* Doris
+* Tucker: ruins
+* Bernie: German lady diving into pool
+* Marty: beware of Greeks bearing gifts
+* Til: ??
+* Flora:
+* @ Sheila: please select msg
 
 ### Activities
 
-* @Claudia: message sent classes outline
-* @Huma: msg sent to Martha Nell
+* @ Claudia: message sent classes outline
+* @ Huma: msg sent to Martha Nell
 * Bianca: ask Martha Nell for help?
 
 Others?
 
+* Patrick: arts and crafts
 * Dr Lea
 * Jonathan the barber
 * Tess
 * Jewels + tailoring
+* Hector: IT Ian + Ian
 
 ### Format
 
 * @ Nancy & Stephen: Movies format
-* Roxana: Events
-
+* @ Roxana: Events
 
 
 ### Editorial
 
-* % Martha n: Levels of service: typical items
+* @ Martha n: Levels of service: typical items
 
 ***
 
