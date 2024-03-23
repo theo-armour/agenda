@@ -15,19 +15,20 @@
 
 **Today**
 
-* * Tammie
+* HH
 
 **Soon**
 
 * ?
-* Tania: YV link ~ next Thursday
+* Tammie
+* Tania: YV link ~ next Thursday + will
+
 * Quentin
 * Myint: thanks + photos
-* Hanley: Degnan images
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * Ashley E: invite
 * Shea: invite
-* Cynthia: thanks + hat, bag, cabl
+* Cynthia: thanks + hat, bag
 * Claudia
 * Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
@@ -37,7 +38,6 @@
 * Floris
 * Armour HQ: upload documents
 * Medical appointments
-* Heritage map
 * Tiller
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
@@ -105,6 +105,8 @@
 
 * ?
 
+  
+
 \*\*\*
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
@@ -112,7 +114,7 @@
 * ??
 * emily
 * Jerome: dorkbot ~ aret scene ~ mushroom drink
-* Sherry ~ emaul
+* Sherry ~ email ~ mexsp
 * Rob: HH ~ meal invite
 * Marissa ~ meal invite
 * Paul Mason: Aaron
@@ -130,15 +132,13 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage</a>
 
 * ?
+* Heritage map
 * Chritina: RC exec committee to be informed of RCFE statutes and obligations
-* Patti: guestroom: paintings
 * Xfinity: Demian: upload speeds
-* Vivien: small charges
+* Martha: small charges
 * Christina: compare w/ towers
 
-Waiting
-
-* Jon Casey: EAF Donations
+*   
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 
