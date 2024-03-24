@@ -59,3 +59,14 @@ scenes, celebrity portraits, and workers with the tools of their trades to abstr
 Sneak Preview: Cinco de Mayo Fiesta May 2nd @ 2pm
 With Mariachi San Francisco to kick off May!!!
 As we celebrate Mexico!!
+
+
+## Friday movies
+
+5 April ~ Troy ~ 2004
+An adaptation of Homer’s great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.2hr 43m.
+12 April ~ The Buddy Holly Story ~ 1978 ~ 1hr 54m
+The story of the life and career of the early rock and roll singer, from his meteoric rise to stardom, to his marriage and untimely death.
+19 April ~ Apollo 13 ~ 1995 ~ 2hr 19m
+Technical troubles scuttle the Apollo 13 mission in 1970, risking the lives of astronaut Jim Lovell and his crew in this chronicle of a true 26 April ~ The Pirate  ~ 1948 ~ 1hr 42m
+A girl is engaged to the local rich man, but meanwhile she has dream about the legendary pirate Macoco. A traveling singer falls in love with her and to impress her he poses as a pirate.

@@ -2,6 +2,31 @@
 
 ## Agenda
 
+## Calendar Confirmations
+
+* Out & About
+* Food committee
+* Tess
+* Nibbe
+* IT
+* Bday dinner
+* Kayla
+* Around the World: Greek meal
+* Gardening
+
+
+### Greek movies
+
+*  300
+* Zorba the Greek
+* My Big Fat Greek Wedding
+* Shirley Valentine
+* Mamma Mia
+* Never on Sunday
+* The Guns of Navarone
+* The Greek Tycoon
+
+
 ### Articles
 
 * @ Tom Johnson: msg sent #8 + 100 years
