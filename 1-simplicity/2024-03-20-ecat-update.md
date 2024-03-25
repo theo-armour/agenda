@@ -2,18 +2,26 @@
 
 ## Armour Collection Item Selector
 
+"Armour Collection Item Selector" Excel file was copied to "ace-it_from Google" folder.
+
 Many Update here:
 
-Link: https://1drv.ms/x/s!ArJ-RZ9B4UhDs-RpIE1uNBAqPXIj0w?e=8Gg34R
+Link:
 
 Note the following:
 
 ## Items with Unidentified locations
 
+Please help me identify where these items are located:
+
 * Location?? #816 ~ French *Directoire* fruitwood occasional table
 * Location?? #826 ~ French small end table ~ Location??
 
+In the meantime, they can be ignored.
+
 ## Rico's Repair Estimates
+
+Transcribed from his scratching estimate:
 
 * Three mirrors: $3,000 to $4,000
 * _Semainier_ in mahogany: sun damage refinish: $975
@@ -23,6 +31,25 @@ Note the following:
 * Venetian corner cabinet: repairs $3,000 to $4,000
 * Two Corner Cabinets: wax $225
 
+## Undecided Items
+
+* #803 ~ Twelve French Louis XVI Chairs
+
+## Items to ship
+
+* #806 ~ French Louis XV style walnut *semainier* > MT
+* #810 ~ Pair of French or Italian painted and colored mirror frames
+* #820 ~ Pair of Continental fruitwood corner cabinets > YV
+* #823 ~ Pair of walnut-stained open armchairs > NL
+* #824 ~ English Gothic style carved chest > MT
+
+## Shipping
+
+Decide:
+
+* Better to ship art and furniture separately or together?
+* Cheaper to compensate Eloise and Cynthia to drive & pick up or to have items shipped to them?
+
 ## Items to Dispose
 
 * #817 ~ American late Federal inlaid mahogany sofa table
@@ -31,5 +58,17 @@ Note the following:
 
 ## Observations
 
-* There three items to be disposed of
+Givens
+
+* We agree there three items to be disposed of
 * All three items are quite damaged
+
+Questions
+
+* Are any of these items worth the cost of repairing?
+* Can we obtain estimates of value remotely using the new photos?
+* Can we sell them as is?
+* Can we see if anybody wants them as donations
+* Can we see if anybody wants them as donations if we cover the shipping?
+
+
