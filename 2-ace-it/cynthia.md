@@ -3,7 +3,12 @@
 
 * Reply: Rio Vista city
 * edit Rico quote
+
+## 2024-03-25
+
+* bag ~ hat
 * Cigar boxes
+* Piranesi?
 
 ## 2024-02-26
 

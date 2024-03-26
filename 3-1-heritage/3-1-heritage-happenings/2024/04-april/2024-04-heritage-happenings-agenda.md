@@ -5,19 +5,20 @@
 ## Calendar Confirmations
 
 * Out & About
-* Food committee
 * Tess
-* Nibbe
 * IT
 * Bday dinner
 * Kayla
 * Around the World: Greek meal
-* Gardening
+* SPCA Dog
 
+More
+
+* Food committee
 
 ### Greek movies
 
-*  300
+* 300
 * Zorba the Greek
 * My Big Fat Greek Wedding
 * Shirley Valentine
@@ -36,12 +37,13 @@
 ### Greece
 
 * All: Quotes
-* Doris
-* Tucker: ruins
+* Doris: ?
+* Tucker: 
 * Bernie: German lady diving into pool
-* Marty: beware of Greeks bearing gifts
+* Marty: beware of Greeks bearing gifts ~ Timeō Danaōs et dōna ferentēs
 * Til: ??
 * Flora:
+* Tony and Linda: Never been there
 * @ Sheila: please select msg
 
 ### Activities
