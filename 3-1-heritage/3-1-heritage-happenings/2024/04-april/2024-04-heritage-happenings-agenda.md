@@ -38,7 +38,11 @@ More
 
 * All: Quotes
 * Doris: ?
+<<<<<<< HEAD
 * Tucker: 
+=======
+* Tucker: ruins
+>>>>>>> fbcce7174316026f911cc70b8ddd5aec7d9ab377
 * Bernie: German lady diving into pool
 * Marty: beware of Greeks bearing gifts ~ Timeō Danaōs et dōna ferentēs
 * Til: ??

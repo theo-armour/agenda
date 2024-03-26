@@ -97,6 +97,7 @@ However you can't buy squares for staff members.
 
 We are also planning a tea to be held in the Morgan Parlor. This will be an elegant affair like last year. Champagne will be served. The date of the Tea will be the afternoon of May 23 and tickets will go on sale in mid April. Owing to spacing there will only be 40 places available.
 
+<<<<<<< HEAD
 Sincerely
 
 Patrick Alexander
@@ -182,3 +183,13 @@ Through Apr 7th
 
 
 
+=======
+
+Sincerely
+
+
+
+Patrick Alexander
+
+President Residents' Council.
+>>>>>>> fbcce7174316026f911cc70b8ddd5aec7d9ab377
