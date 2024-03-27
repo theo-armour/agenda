@@ -23,13 +23,12 @@
 * taxes
 * Tammie
 * Tania: YV link ~ next Thursday + will
-
 * Quentin
 * Myint: thanks + photos
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * Ashley E: invite
 * Shea: invite
-* Cynthia: thanks + hat, bag
+*   
 * Claudia
 * Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
@@ -107,8 +106,6 @@
 
 * ?
 
-  
-
 \*\*\*
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
@@ -139,8 +136,6 @@
 * Xfinity: Demian: upload speeds
 * Martha: small charges
 * Christina: compare w/ towers
-
-*   
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 
