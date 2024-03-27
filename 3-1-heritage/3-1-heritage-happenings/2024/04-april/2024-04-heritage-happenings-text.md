@@ -1,5 +1,16 @@
 # 2024-04 Heritage Happenings Text
 
+## Color
+
+foreground
+
+* #002060
+
+background
+
+* #D9E0F5
+
+
 ## Sunday movies
 
 7 April ~ Whale Rider ~ 2003 ~ 1h 41m ~  Drama, Family
@@ -25,7 +36,7 @@ David Salimonas: Piano recital
 Monday, 1 April at 3:00 in Morgan Parlor
 Born in Glen Ellyn, Ill., David Saliamonas taught himself to play by ear and to improvise at the age of five. Eventually, he earned a scholarship at the Manhattan School of Music, where he received both his Master’s and Bachelor’s degrees. David has been hailed as one of the most expressive and individual pianists of his generation and critics have described him as a “tremendous talent who plays with great intensity and feeling.” He has performed throughout the US and Canada, as well as in France, Italy, Spain, Portugal, Belgium, Germany, Austria, Poland, Switzerland, Turkey, China, Japan, and Australia. His live performances of works by Rachmaninoff and Scriabin are regularly broadcast internationally by the France-based music television station Mezzo.
 
-Simon Melov: Exercise: The Ultimate Magic Bullet for Longevity
+Simon Melov: ExercisEleanor: The Ultimate Magic Bullet for Longevity
 Wednesday, 3 April at 11:00 in Friendship Hall
 If exercise were a pill, it would be the biggest blockbuster drug of all time! Regular physical activity is the best thing you can do for your health and longevity. What’s the optimal amount, and do we really need to do those 10,000 steps a day? Dr. Melov will talk about the best ways to get moving. And just wait until you hear about his exercise regimen!
 
@@ -51,12 +62,12 @@ In Celebration of Earth Day, Brenda will show and exhibit her experiences in Eas
 SPCA Visit, TBA!
 Thursday, April 11 at 1:30 in Friendship Hall
 
-Ian Scarfe: "Travels with Chopin" piano recital
+Ian ScarfEleanor: "Travels with Chopin" piano recital
 Thursday, 22 April at 3:00 in Morgan Parlor
 Pianist Ian Scarfe returns with a program that takes the audience on a journey of some of the great masterpieces of Romantic music. The concert will highlight great works by Frederic Chopin, such as his lyrical and intimate Preludes and Nocturnes, or the stormy and virtuoso Ballades and operatic and impressionist Barcarolle. Each work will be paired by a companion piece by another classical or romantic composer, offering a chance to compare and contrast styles of these great artists. Other works include selections by J. S. Bach, Edvard Grieg, Clara Schumann, and Johannes Brahms.
 Scarfe brings his signature charismatic presence to each concert, offering history and context of the composers and their era, and also special "listening guides" that give the audience a guided tour of this great music.
 
-Angela Lee: Cello recital
+Angela LeEleanor: Cello recital
 Thursday, 25 April at 3pm in Friendship Hall
 Using music to foster peace and goodwill, Angela Lee has made humanitarian trips to the Philippines and Yugoslavia. While on a UN tour of six war-torn cities throughout Bosnia-Herzegovina, she performed for NATO troops and displaced civilians.
 Earth Day/ Spring is in the Air Happy Hour w/
@@ -97,7 +108,6 @@ However you can't buy squares for staff members.
 
 We are also planning a tea to be held in the Morgan Parlor. This will be an elegant affair like last year. Champagne will be served. The date of the Tea will be the afternoon of May 23 and tickets will go on sale in mid April. Owing to spacing there will only be 40 places available.
 
-<<<<<<< HEAD
 Sincerely
 
 Patrick Alexander
@@ -142,10 +152,10 @@ Paved, accessible trails connect Fort Mason's upper and lower units. In between,
 
 There are many beaches to enjoy and explore in Golden Gate including Stinson Beach, Muir Beach, Tennessee Valley Beach, Rodeo Beach, Baker Beach and Ocean Beach.
 
-Phone: 415-561-4700
+PhonEleanor: 415-561-4700
 United States Park Police Dispatch: Non-Emergency: 415-561-5505
 
-Next issue: The History of Fort Mason
+Next issuEleanor: The History of Fort Mason
 Trish Otstott
 HH Roving Reporter
 
@@ -183,13 +193,17 @@ Through Apr 7th
 
 
 
-=======
 
-Sincerely
+## Eleanor
 
+TIME AND PLACEleanor: LUNCH IN THE HERITAGE DINING ROOM
 
-
-Patrick Alexander
-
-President Residents' Council.
->>>>>>> fbcce7174316026f911cc70b8ddd5aec7d9ab377
+Barb: "I didn't know you grew up on a farm too!"
+Eleanor: "We always had a milk cow and raised a baby calf for beef. It wouldn't be a subsistence farm* without chickens for eggs and Sunday dinners.  85% of the 100 baby chicks purchased each spring ended up in the freezer and on the dining room table; the rest were kept as laying hens. We raised pigs for pork; goats to keep vegetation in check.
+Barb: "We had a small backyard farm. We also had a milk cow and a baby calf raised to eat. My mother took care of gathering eggs from the laying hens and preparing the rest for the freezer. My responsibility was taking care of the goats. We had 6-10 of them at a time, raised as another source of meat. Goats are wonderful creatures. They are calm with a playful mischievous streak. They nuzzle you for attention. They might shove their heads under your hand to make sure they get petted. The small baby goats, especially the male species, can often be found getting ready to butt you in the rear. All it takes is a glare and wave of the hand to get rid of the offender. The goats were staked out in the field during the day. Their food source was anything that grew."
+Eleanor: "Speaking of food sources, we had huge vegetable gardens, a potato field, strawberries and raspberries. We knew the best places to pick blueberries and black berries in our small rural town. I can picture you and your siblings shelling peas, snapping beans and shucking corn, ya?"
+Barb: "Raising farm animals and growing our own food was my father's assurance he could feed our family during the Depression. He was a carpenter; work was not predictable. Dad built the house we lived in, one room at a time. The main room had a large fireplace, the only source of heat. We all lived in that room until my father added other rooms, starting with the room for my parents."
+Eleanor: My father grew up on a dairy farm where he learned skills for survival. If any of his eleven children complained about work to be done, his retort was always: "It builds character." Dad survived the Depression because he could drive a team of oxen. Trees that had been knocked down during a hurricane, needed to be taken to the nearby sawmill. Dad got the job. He too was a carpenter, building houses until arthritic knees kept him off ladders. At that point he became a cabinet maker.
+Barb: We definately learned the value of work. My goats depended on me. And our family depended on the goats for food.
+Eleanor: That was my experience too, Barbara. I describe my life as abundant; not based on money in the bank but real food, meaningful work,
+resilience- and yes, character!
