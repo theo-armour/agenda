@@ -20,19 +20,18 @@
 **Soon**
 
 * ?
-* taxes
+* Carmen: taxes
 * Tammie
-* Tania: YV link ~ next Thursday + will
+* Tania: Thursday + will
 * Quentin
 * Myint: thanks + photos
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * Ashley E: invite
 * Shea: invite
-*   
 * Claudia
 * Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
-* Lolo: chagpt or gemin or copilot
+* Lolo: chagpt or gemini or copilot
 * John Walker: Roxie
 * Jason Carman
 * Floris
@@ -134,7 +133,7 @@
 * Heritage map
 * Chritina: RC exec committee to be informed of RCFE statutes and obligations
 * Xfinity: Demian: upload speeds
-* Martha: small charges
+* Martha N: small charges
 * Christina: compare w/ towers
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
