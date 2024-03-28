@@ -198,12 +198,45 @@ Through Apr 7th
 
 TIME AND PLACEleanor: LUNCH IN THE HERITAGE DINING ROOM
 
-Barb: "I didn't know you grew up on a farm too!"
+BarBarb: "I didn't know you grew up on a farm too!"
 Eleanor: "We always had a milk cow and raised a baby calf for beef. It wouldn't be a subsistence farm* without chickens for eggs and Sunday dinners.  85% of the 100 baby chicks purchased each spring ended up in the freezer and on the dining room table; the rest were kept as laying hens. We raised pigs for pork; goats to keep vegetation in check.
-Barb: "We had a small backyard farm. We also had a milk cow and a baby calf raised to eat. My mother took care of gathering eggs from the laying hens and preparing the rest for the freezer. My responsibility was taking care of the goats. We had 6-10 of them at a time, raised as another source of meat. Goats are wonderful creatures. They are calm with a playful mischievous streak. They nuzzle you for attention. They might shove their heads under your hand to make sure they get petted. The small baby goats, especially the male species, can often be found getting ready to butt you in the rear. All it takes is a glare and wave of the hand to get rid of the offender. The goats were staked out in the field during the day. Their food source was anything that grew."
+BarBarb: "We had a small backyard farm. We also had a milk cow and a baby calf raised to eat. My mother took care of gathering eggs from the laying hens and preparing the rest for the freezer. My responsibility was taking care of the goats. We had 6-10 of them at a time, raised as another source of meat. Goats are wonderful creatures. They are calm with a playful mischievous streak. They nuzzle you for attention. They might shove their heads under your hand to make sure they get petted. The small baby goats, especially the male species, can often be found getting ready to butt you in the rear. All it takes is a glare and wave of the hand to get rid of the offender. The goats were staked out in the field during the day. Their food source was anything that grew."
 Eleanor: "Speaking of food sources, we had huge vegetable gardens, a potato field, strawberries and raspberries. We knew the best places to pick blueberries and black berries in our small rural town. I can picture you and your siblings shelling peas, snapping beans and shucking corn, ya?"
-Barb: "Raising farm animals and growing our own food was my father's assurance he could feed our family during the Depression. He was a carpenter; work was not predictable. Dad built the house we lived in, one room at a time. The main room had a large fireplace, the only source of heat. We all lived in that room until my father added other rooms, starting with the room for my parents."
+BarBarb: "Raising farm animals and growing our own food was my father's assurance he could feed our family during the Depression. He was a carpenter; work was not predictable. Dad built the house we lived in, one room at a time. The main room had a large fireplace, the only source of heat. We all lived in that room until my father added other rooms, starting with the room for my parents."
 Eleanor: My father grew up on a dairy farm where he learned skills for survival. If any of his eleven children complained about work to be done, his retort was always: "It builds character." Dad survived the Depression because he could drive a team of oxen. Trees that had been knocked down during a hurricane, needed to be taken to the nearby sawmill. Dad got the job. He too was a carpenter, building houses until arthritic knees kept him off ladders. At that point he became a cabinet maker.
-Barb: We definately learned the value of work. My goats depended on me. And our family depended on the goats for food.
+BarBarb: We definately learned the value of work. My goats depended on me. And our family depended on the goats for food.
 Eleanor: That was my experience too, Barbara. I describe my life as abundant; not based on money in the bank but real food, meaningful work,
 resilience- and yes, character!
+
+## Martha
+
+
+## Eleanor 2
+
+Barb: "I didn't know you grew up on a farm too!"
+Eleanor: "It was a subsistence farm. We had a cow for milk and raised a calf for beef. Every Spring we replenished our poultry stock with 100 adorable baby chicks. Twelve would become 'setting hens' for our daily egg supply. The rest ended up in the freezer for roast chicken dinners. The two baby pigs grew up to be hogs supplying us with the best roast pork, pork chops, sausage (yum!). The goats kept vegetation mowed to the ground. On what do goats graze? Anything that grows!"
+Barb. "We had a small backyard farm. We also had a milk cow and a baby calf raised to become meat for the family. My mother took care of gathering eggs from the laying hens and preparing the young poulets for the freezer. My responsibility was taking care of the goats. We had 6-8 at a time, raised as another source of meat. Goats are wonderful creatures.
+They are calm with a playful mischievous streak. They nuzzle you for attention. They might shove their heads under your hands to make sure they get petted. The small baby goats, especially the male species, might be found getting ready to butt  you in the behind. All it took was a glare and wave of your hand to dissuade the offender. My job was to take the goats out to pasture before I left for school in the morning and bring them home again after school. I  was known as the 'goat girl' in the neighborhood."
+Eleanor. "To keep our family fed Dad planted huge vegetable gardens, a potato field, strawberries, and raspberries. I think rhubarb grew on its own. In our small rural town we knew the best places to pick blueberries and blackberries. Mom and my older sisters would can and freeze enough vegetables and fruit to last until the next harvest. Labor intensive; delicious results. Barbara, I can picture you and your siblings pitching in-Shelling peas, snapping beans, shucking corn, ya?"
+Barb: "Ya. Farm work is never done. There is always something that  needs to be done, whether it is caring for the animals or picking the crops when ripened. We had two peach trees and a plum tree. My mother would freeze the fruit."
+Eleanor: "You and I were fortunate that our fathers, carpenters during the Depression when jobs were scarce, kept our families fed. We quickly learned the value of working together, and to this day we are able to appreciate our farm to table existence!"
+
+## Margaret M
+The seed planting workshop took place in Friendship Hall on March 20. Jeanne supplied the planting kits, Kay Narron supplied the soil and Margaret Missiaen supplied the seeds. Nancy Ozsogomonyan and Kay Tim helped with the planting. Fifteen pots of seeds including nasturtium, morning glory, pot marigold and cosmos were placed on the window to germinate. A week later some of the seeds had germinated. The next seed planting will take place on April 11.
+
+## Jon Casey
+
+
+I phoned 415-202-0308 a couple of times today but received no call back. Do I have the right number for you?
+
+Iam trying to write an editorial for the next issue of the Heritage Happenings. It's a continuation of a serries on Aging in Place. I would like to include some information on the levels of care for independent living residents with Type-C contracts (ILR/C). I have a few questions that I would like to ask you.
+
+Are there any ILR/C residents currently receiving anything similar to assisting-living levels of care?
+
+Will independent living residents who are aging in place be supported by five levels of care in a manner similar to assisted-living residents?
+
+What is the typical pricing policy for the levels of care for ILR/C residents?
+
+What are typical services provided to ILR/C residents at the different levels of care?
+
+
