@@ -2,11 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-*   
-*   
-* 2024-03-18 ~ create an alternative obituary: example "he enjoyed Radamaker's Hopjes, Horlick's Malted Milk Tablets, Allenbury's Pastilles, Callard & Bowsers Licorice Toffee.
-* Favorite: cocktail, paper airplane, font, Daddy joke
-* 2024-03-27 ~ https://en.wikipedia.org/wiki/Never\_complain,\_never\_explain
+* 2024-03-27 ~ https://en.wikipedia.org/wiki/Never\_complain,\_never\_explain  
 *   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
