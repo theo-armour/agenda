@@ -3,10 +3,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 *   
-* 2024-02-18 ~ if I use something I must "touch" it somehow.
-* 2024-02-29 ~ the big deparres are empty and closing, while streets with lots of small shops are thriving
-* 2024-03-01 ~ Sometimes you don’t need to improve anything, Adeline Dimond reminds us. Sometimes you can just… exist.
-* 2024-03-13 ~ The First Pancake Principle ~ the first draft is meant to fail ~ 
+*   
 * 2024-03-18 ~ create an alternative obituary: example "he enjoyed Radamaker's Hopjes, Horlick's Malted Milk Tablets, Allenbury's Pastilles, Callard & Bowsers Licorice Toffee.
 * Favorite: cocktail, paper airplane, font, Daddy joke
 * 2024-03-27 ~ https://en.wikipedia.org/wiki/Never\_complain,\_never\_explain
