@@ -10,6 +10,9 @@
 **Today**
 
 * HH
+* Taxes
+* Mia: 11
+*   
 
 **Soon**
 
@@ -22,7 +25,7 @@
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * Ashley E: invite
 * Shea: invite
-* * Claudia
+* Claudia
 * Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
 * Lolo: chagpt or gemini or copilot
