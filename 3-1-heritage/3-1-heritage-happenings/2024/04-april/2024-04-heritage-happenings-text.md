@@ -240,3 +240,7 @@ What is the typical pricing policy for the levels of care for ILR/C residents?
 What are typical services provided to ILR/C residents at the different levels of care?
 
 
+## Flora Zagorites
+
+Flora was married to Jerry Zagorites- a man raised in a traditional Greek family. After shopping one day, Flora returned home and heard Jerry's Uncle Leo exclaim. "Jerry, you let a woman have the money?" Jerry replied, "Uncle Leo, she's a better shopper than I am".
+
