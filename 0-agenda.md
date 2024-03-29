@@ -2,8 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-03-27 ~ https://en.wikipedia.org/wiki/Never\_complain,\_never\_explain  
-*   
+* 2024-03-27 ~ [https://en.wikipedia.org/wiki/Never\_complain,\_never\_explain](https://en.wikipedia.org/wiki/Never_complain,_never_explain)
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -12,7 +11,6 @@
 * HH
 * Taxes
 * Mia: 11
-*   
 
 **Soon**
 
@@ -137,9 +135,9 @@
 
 * ?
 
-March
+May
 
-* ?
+* Millionair donor?
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
 
