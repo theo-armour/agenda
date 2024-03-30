@@ -10,14 +10,14 @@
 
 * HH
 * Taxes
-* Mia: 11
+*   
 
 **Soon**
 
 * ?
 * Carmen: taxes
 * Tammie
-* Tania: Thursday + will
+*   
 * Quentin
 * Myint: thanks + photos
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
