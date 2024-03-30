@@ -30,7 +30,7 @@
 
 ## Data needed
 
-\* ?  
+* ?
 
 ### 2024 Estimated Taxes
 

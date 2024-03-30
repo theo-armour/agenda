@@ -2,8 +2,21 @@
 
 ## Medicare
 
+https://www.medicare.go
+
+* Premium $382.70
 * 6JH8-QR9-YX43
 * Part A & B
+
+### 2023
+
+* $527.50
+* $70
+
+Total
+
+  * $593.70 * 12 = $7,124.40
+
 
 ## Blue Shield
 
