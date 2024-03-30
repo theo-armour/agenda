@@ -17,7 +17,6 @@
 * ?
 * Carmen: taxes
 * Tammie
-*   
 * Quentin
 * Myint: thanks + photos
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
