@@ -10,7 +10,6 @@
 
 * HH
 * Taxes
-*   
 
 **Soon**
 
@@ -21,7 +20,7 @@
 * Myint: thanks + photos
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * Ashley E: invite
-* Shea: invite
+* Shemmah: invite
 * Claudia
 * Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
