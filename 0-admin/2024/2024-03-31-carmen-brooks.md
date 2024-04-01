@@ -17,7 +17,7 @@ Hi Carmen
 
 I apologize for the delay in getting the documents to you. I understand that that the delay is stressful for you and I am sorry for that.
 
-=SUMIFS('2023-transactions'!D2:D1000,'2023-transactions'!B2:B1000,charity!G5)
+
 
 
 Charity	Total: $6,688
