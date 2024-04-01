@@ -10,10 +10,12 @@
 
 * HH: Subscribers
 * Taxes
+* Speech for Margaret K
 
 **Soon**
 
 * ?
+* Mia: wedding talks
 * Carmen: taxes
 * Tammie
 * Quentin
