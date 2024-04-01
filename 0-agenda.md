@@ -44,7 +44,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 admin personal</a>
 
-* SW:
+* SW: Wipes
 * A: 
 * Aidvantage: pay
 
@@ -101,7 +101,7 @@
 * Silver: send it
 *   
 
-***
+\*\*\*
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
 
