@@ -21,7 +21,7 @@
 
 ## Tiller
 
-~ [https://www.tillerhq.com/](https://www.tillerhq.com/)
+~ https://www.tillerhq.com/
 
 * Tiller: import 2nd CSV
 * Tiller: categories 

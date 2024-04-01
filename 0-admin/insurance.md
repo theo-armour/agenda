@@ -16,4 +16,4 @@
 ## Not
 
 * Long term care insurance
-* long term disability insurance? ask my Oakland lady friend
+* Long term disability insurance? ask my Oakland lady friend

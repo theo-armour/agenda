@@ -135,7 +135,7 @@ in those days, probably $5 a day!
 
 ## Tucker
 
-Visit Greece?. You must be kidding. it's a ruin.
+Visit Greece? You must be kidding. it's in ruins.
 
 
 ##

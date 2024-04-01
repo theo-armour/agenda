@@ -1,5 +1,9 @@
 # 3.0 Heritage Agenda
 
+## Invoices
+
+* February: $94.00
+
 ## Agenda
 
 * Michael Merrill: Ryan Wilmot + article + Substack

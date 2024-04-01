@@ -28,55 +28,122 @@
 
 
 
-1. MYINTTHAN OLDEST SISTER
+## 1. Myint Than ~ oldest sister
 
-MARY SAN HER ELDER DAUGHTER (NOT ARRIVED YET)
-EASTER THAN HER YOUNGER DAUGHTER
+### Mary San
 
+* Her Elder Daughter (Not Arrived Yet)
 
-2. KHET KHET 2 ND OLDER SISTER
+### Easter Than
 
-SHWE KYI HUSBAND
-PAYA PAYA THIN DAUGHTER ( NOT ARRIVED YET )
-
-3. MYINT TUN
-
-4. MYINT TIN
-
-5. MYINT LWIN SABAL WIN
-
-HAN OO THET
-PAI OO THET LU MIN HTET
-
-6. HLA PYONE YEE
-AUNG HTAY MAY ZUN PHONE
+*  Her Younger Daughter
 
 
+## 2. Khet Khet
+
+* Second Oldest Sister
+
+### Shwe Kyi
+
+*  Husband
+
+### Paya Paya Thin
+
+* Daughter ( Not Arrived Yet )
+
+## 3. Myint Tun
+
+* Twin Brother
+* Born 1963-01-02
+* Name: High/Always Bright
+* Lives in Thailand
+
+## 4. Myint Tin
+
+* Twin Brother
+* Born 1963-01-02
+* Name: High place/position
+
+## 5. Myint Lwin
+
+* Brother ( Not Arrived Yet )
+
+### Sabal Win
+
+* His Wife
+
+### Han Oo Thet
+
+His son
+
+### Pai Oo Thet
+
+* His son
+
+### Lu Min Htet
+
+* His son
+
+## 6. Hla Pyone Yee
+
+* Sister
+
+### Aung Htay
+
+* Her husband
+* Heritage Dishwasher
+
+### May Zun Phone
+
+* Her daughter
 
 
+### 7. Aung Κυαι
 
-TWIN BROTHER
-TWIN BROTHER
-BROTHER ( NOT ARRIVED YET )
-HIS WIFE
-HIS SON
-HIS SON
-HIS SON
-SISTER
-HER HUSBAND (DISHWASHER) HER DAUGHTER
+* Awn Jo
+* Brother
+* 1971-01-03 birthday
+* "First lucky"
+
+### Τhein Τhein Οο
+
+* His Wife
+* Tane Tane O
+
+### Ρhay Thet Zum
 
 
-7. AUNG ΚΥΑΙ  BROTHER
+* His Daughter
+* Born 2001
 
-ΤΗΕΙΝ ΤΗΕΙΝ ΟΟ HlS WlFE
-ΡΗΑΥ ΤΗΕΤ ΖΙ.ΙΝ HlS DAUGHTER
-ΗΤΑΤ ΗΤΕΤ ΗΤΑΥ HlS DAUGHTER
-τυ ΡΗΟΝΕ ΜΑΥ HIS DAlJGHTER
+### Htet Htet Htar
 
-8. ΚΥΙΝ HLA ΥΕΕ SlSTER
+* His Daughter
+* Tay Te Ta
+* Born 2005
 
-9. Ι-ΙΝΙΝ ZAR ΕΙ SISTER
+### Τυ Ρhone May
 
-ΜΥΟ LWlN HER HUSBAND
-ΤΗΟΟΝ YADANA HER DAUGHTER
+* His daughter
+* "High bright". "Top one"
+* Born 2006
 
+
+## 8. Kyin Hla Υee
+
+* Jean or Djin
+* Sister
+* "Given for the girl"
+
+
+## 9. Hnin Zar El
+
+* Sister
+
+### Μyο Lwin
+
+* Her Husband
+
+### Thoon Yadana Lwin
+
+Her daughter
