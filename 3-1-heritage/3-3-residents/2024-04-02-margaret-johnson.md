@@ -2,7 +2,7 @@
 
 You are one of my best drinking buddies.
 
-We both like to drink a glass of Sauvignon Blanc and a cheese crisp.
+Yes, we both like to drink a glass of Sauvignon Blanc and a cheese crisp or two before dinner.
 
 But there's more. Why? My top ten reasons
 
@@ -14,22 +14,25 @@ Because you:
 * A diarist ~ writing copious note of your houses and travels
 * A raconteur of tales of places and travels ~ mostly of good relations ships ~
 * A collector of things that were made by hand ~ boxes, books, jewelry
-* A traveler ~ not afraid to live in new places ~ twenty houses
+* A traveler ~ not just holiday ~ not afraid to live in new places ~ twenty houses
 * A maintainer of history and heritage ~ each of your houses has a story
 * A reader of book club books ~ read and discuss the story
-* A friendly, non-judgmental person of enthusiasm
+* All in all, a friendly, non-judgmental person of enthusiasm, curiosity and energy
 
-It doesn't stop
+And the energy doesn't stop
 
-* Probably the the productive write for the Heritage Happenings monthly newsletter
-* Provide Text and photos
-* Writing gets better, improving with age
+* You are probably the the productive write for the Heritage Happenings monthly newsletter
+* Provide more Text and photos than any other writer
+* Tour writing gets better, improving with age
 * You are starting to add new twists to old stories
-* Yourt recent writing reflects aspects of the #MeToo movement
+* Your recent writing reflects aspects of the #MeToo movement
 * When writing of your past, you are beginning to add observations of the role of women in a highly patriarchal society
-*
+* Elements rarely seen in your earlier stories let alone in the Heritage Happenings
 
-Toast to a woman of many talents, whose talents are still growing, engaging and thoughtful
+I propose a toast, that we raise our glasses to a woman of many talents ~ to a woman whose talents are still growing, engaging and thoughtful
+
+To Margaret, my drinking buddy
+
 
 
 
