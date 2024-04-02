@@ -32,6 +32,7 @@
 * Armour HQ: upload documents
 * Medical appointments
 * Tiller
+* Mia: price for editing?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -107,9 +108,9 @@
 
 * ??
 * emily
-* Jerome: dorkbot ~ aret scene ~ mushroom drink
+* Jerome: dorkbot ~ art scene ~ mushroom drink
 * Sherry ~ email ~ mexsp
-* Rob: HH ~ meal invite
+* Rob&Bennet: HH ~ meal invite
 * Marissa ~ meal invite
 * Paul Mason: Aaron
 * Drake Tam: The Key
