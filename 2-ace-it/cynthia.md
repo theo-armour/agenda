@@ -4,6 +4,19 @@
 * Reply: Rio Vista city
 * edit Rico quote
 
+
+## 2024-04-01
+
+* Tania OK
+* Mirror to Mia
+* Alix P: PSP Progressive Supranuclear Palsy
+* Simplicity ~ Final Design
+* Cigar box arrived
+* Dates in Calendar
+* Filoli?
+* Visit old friends? Elliot Morin J S Orr
+
+
 ## 2024-03-25
 
 * bag ~ hat
