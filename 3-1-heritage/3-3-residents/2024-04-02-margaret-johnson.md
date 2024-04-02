@@ -33,7 +33,7 @@ I propose a toast, that we raise our glasses to a woman of many talents
 
 to a woman whose talents are still growing, engaging and thoughtful
 
-To Margaret, my drinking buddy
+To Margaret, my drinking buddy!
 
 
 
