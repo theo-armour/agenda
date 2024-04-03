@@ -11,7 +11,7 @@
 
 * HH: Subscribers
 * Simplicity
-* Speech for Margaret K or cutout
+*   
 * HH: map
 
 **Soon**
@@ -102,7 +102,6 @@
 
 * ?
 * Silver: send it
-*   
 
 \*\*\*
 
