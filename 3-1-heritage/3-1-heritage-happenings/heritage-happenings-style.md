@@ -18,6 +18,9 @@ The *Heritage Happenings* is a monthly newsletter published by residents of Heri
 * The content is entirely created by residents of Heritage on the Marina. No clip art, no stock photos, no copy and paste from the Internet
 * The content is intended to be of interest to residents of Heritage on the Marina
 
+## Colors
+
+red: #880000 or rgb(136, 0, 0)
 
 ## Text Formatting
 

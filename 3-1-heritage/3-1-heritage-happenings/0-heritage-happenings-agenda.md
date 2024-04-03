@@ -13,9 +13,6 @@ Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc](https://1drv
 
 
 Baytrish@aol.com
-
-
-
 Jmansfield3105@gmail.com
 
 
@@ -28,8 +25,6 @@ Operella@sbcglobal.net
 
 
 * HH: Ella Wong <operella@sbcglobal.net>
-*
-
 * Photo quiz: with MargaretM
 * Submission Guide
 * Style Guide

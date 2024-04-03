@@ -4,13 +4,13 @@
 
 "Armour Collection Item Selector" Excel file was copied to "ace-it_from Google" folder.
 
-Many Update here:
+Many updates were incorporated.
 
-Link:
+Link: [Armour Collection Item Selector](https://1drv.ms/x/s!ApNaa7TigSexqiQERlwkmZV-tmIP?e=OeaCX0)
 
 Note the following:
 
-## Items with Unidentified locations
+## Items with Unidentified Locations
 
 Please help me identify where these items are located:
 
@@ -38,7 +38,7 @@ Transcribed from his scratching estimate:
 ## Items to ship
 
 * #806 ~ French Louis XV style walnut *semainier* > MT
-* #810 ~ Pair of French or Italian painted and colored mirror frames
+* #810 ~ Pair of French or Italian painted and colored mirror frames > with Mia
 * #820 ~ Pair of Continental fruitwood corner cabinets > YV
 * #823 ~ Pair of walnut-stained open armchairs > NL
 * #824 ~ English Gothic style carved chest > MT
@@ -46,7 +46,6 @@ Transcribed from his scratching estimate:
 ## Shipping
 
 Decide:
-
 * Better to ship art and furniture separately or together?
 * Cheaper to compensate Eloise and Cynthia to drive & pick up or to have items shipped to them?
 
@@ -59,8 +58,7 @@ Decide:
 ## Observations
 
 Givens
-
-* We agree there three items to be disposed of
+* We agree there are three items to be disposed of
 * All three items are quite damaged
 
 Questions
