@@ -9,15 +9,14 @@
 
 **Today**
 
-*   
-* Simplicity
-* * HH: map
+* Simplicity  
+* HH: map
 
 **Soon**
 
 * ?
 * Mia: wedding talks
-* Carmen: taxes
+*   
 * Tammie
 * Quentin
 * Myint: thanks + photos
