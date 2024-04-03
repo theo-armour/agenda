@@ -1,9 +1,20 @@
 # Cynthia
 
+* Rio Vista city
 
-* Reply: Rio Vista city
-* edit Rico quote
+  
 
+## Agenda
+
+  
+
+\* Jewels to Healdsburg
+
+\* Furniture moves
+
+\* Dinner with friends
+
+  
 
 ## 2024-04-01
 
@@ -15,7 +26,6 @@
 * Dates in Calendar
 * Filoli?
 * Visit old friends? Elliot Morin J S Orr
-
 
 ## 2024-03-25
 
@@ -39,19 +49,17 @@ Visit
 * Michalis / Dimsum
 * Ahwanee
 
-
 ## 2024-02-19
 
 * Check items in spreadsheet
 * Ready to pick up furniture
 * Will&Trust: finished with Vivian
 
-
 ## 2024-02-12
 
-* https://californiaforever.com
-* https://twitter.com/CAForever/
-* https://www.instagram.com/californiaforever/
+* [https://californiaforever.com](https://californiaforever.com)
+* [https://twitter.com/CAForever/](https://twitter.com/CAForever/)
+* [https://www.instagram.com/californiaforever/](https://www.instagram.com/californiaforever/)
 
 CEO lives in Solano County
 
