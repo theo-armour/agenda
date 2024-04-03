@@ -9,10 +9,9 @@
 
 **Today**
 
-* HH: Subscribers
-* Simplicity
 *   
-* HH: map
+* Simplicity
+* * HH: map
 
 **Soon**
 
