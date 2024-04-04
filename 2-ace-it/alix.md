@@ -1,13 +1,25 @@
 # Alix
 
-minimise.today
-https://www.minimise.today/
+* https://sensay.io
+* minimise.today
+* https://www.minimise.today/
 
-## 2024-03-10
+
+## 2024-04-04
+
+###  https://invigorated-curiosity-028524.framer.app/
+
+* Schedule a call button: half covered
+* About in footer: link
+* News: links
+* Shoulders of giants
+* Data driven design
+* Evidence based design
+* Authoritative design
+* Design for the ages
+* 
 
 ## Images / Videos
-
-
 
 
 ## 2024-02-21
