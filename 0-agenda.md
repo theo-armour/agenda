@@ -14,6 +14,7 @@
 **Soon**
 
 * ?
+* Pam: minutes
 * Bennet
 * Mia: wedding talks. 
 * Mia: price for editing?
