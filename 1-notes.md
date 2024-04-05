@@ -2,13 +2,9 @@
 
 ???
 
-  
+Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
 
-m
-
-W
-
-45th artist I need to do it collective co-op okay
+Nora? 45th artist I need to do it collective co-op okay
 
 Use those arms and hands at night to testiculate for fun and get some exercise and move those bones
 
