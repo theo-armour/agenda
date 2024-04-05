@@ -18,7 +18,7 @@
 * ?
 * Mia: wedding talks. 
 * Mia: price for editing?
-* Tammie
+*   
 * Olga A:
 * Quentin
 * Myint: thanks + photos
