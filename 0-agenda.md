@@ -9,16 +9,15 @@
 
 **Today**
 
-*   
-* HH: map
+* HH: map  
 * Breugemann: read it
 
 **Soon**
 
 * ?
+* Bennet
 * Mia: wedding talks. 
 * Mia: price for editing?
-*   
 * Olga A:
 * Quentin
 * Myint: thanks + photos
