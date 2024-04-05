@@ -9,8 +9,7 @@
 
 **Today**
 
-* Simplicity
-* Bernie
+*   
 * HH: map
 * Breugemann: read it
 
