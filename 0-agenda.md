@@ -9,17 +9,15 @@
 
 **Today**
 
-* Simplicity
-* Bernie
-* HH: map
+* HH: map  
 * Breugemann: read it
 
 **Soon**
 
 * ?
+* Bennet
 * Mia: wedding talks. 
 * Mia: price for editing?
-* Tammie
 * Olga A:
 * Quentin
 * Myint: thanks + photos
