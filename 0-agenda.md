@@ -9,8 +9,7 @@
 
 **Today**
 
-* HH: map  
-* Breugemann: read it
+* HH: map
 
 **Soon**
 
