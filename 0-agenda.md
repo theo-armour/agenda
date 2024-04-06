@@ -16,6 +16,7 @@
 **Soon**
 
 * ?
+* foot length 27cm width 10cm wide
 * Denim suit
 * barefoot winter shoes
 * Pam: minutes
