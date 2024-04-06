@@ -5,7 +5,7 @@
 * 2024-03-27 ~ [https://en.wikipedia.org/wiki/Never\_complain,\_never\_explain](https://en.wikipedia.org/wiki/Never_complain,_never_explain)
 * \* 2024-04-02 ~ NYT: "middle finger politics"
 * 2024-04-05 ~ Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
-* 2024-04-05 ~ https://en.wikipedia.org/wiki/Hitchens%27s\_razor ~ "what can be asserted without evidence can also be dismissed without evidence."
+* 2024-04-05 ~ [https://en.wikipedia.org/wiki/Hitchens%27s\_razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor) ~ "what can be asserted without evidence can also be dismissed without evidence."
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -16,7 +16,7 @@
 **Soon**
 
 * ?
-* TP
+* Denim suit
 * barefoot winter shoes
 * Pam: minutes
 * Bennet: replywent with Moses?
