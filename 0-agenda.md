@@ -18,7 +18,6 @@
 * ?
 * Pam: minutes
 * Bennet: replywent with Moses?
-*   
 * Mia: wedding talks. 
 * Mia: price for editing?
 * Olga A:
