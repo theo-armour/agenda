@@ -1,6 +1,25 @@
 # Vishagan Ratnaswamy
 
 
+## Ten things I can talk about
+
+* Revit, AutoCAD, Rhino ~ former Autodesk AutoCAD Program Manager and power user of AutoCAD
+* Building codes ~ https://public.resource.org/
+* 3D in your browser ~ 14 years with Three.js
+* Digital Twins ~ https://www.unrealengine.com/ ~ https://www.linkedin.com/company/cityzenith/
+* BIM, IFC, CityGML ~ https://en.wikipedia.org/wiki/Industry_Foundation_Classes ~ https://www.ogc.org/standard/CityGML/
+* Open Source vs Closed Source ~ maintainer https://www.ladybug.tools/
+* BIM ~ software maintainer https://gbxml.org
+* Construction productivity ~ https://www.construction-physics.com/p/could-chatgpt-become-an-architect
+* AI in AEC ~ See https://app.raindrop.io/my/35784921
+* Construction ~ former registered Architect in Hong Kong & UK
+* Art and Architecture ~ former Director Peggy Guggenheim Collection
+* GitHub ~ https://github.com/theo-armour
+* Financial modeling ~ maintainer https://prediqtiv.github.io/
+
+
+## 2023
+
 * https://github.com/vratnasw/generative-UX
 * https://github.com/vratnasw/Project-Aegis
 * https://github.com/vratnasw/Causal_ml-Research

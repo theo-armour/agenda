@@ -1,6 +1,13 @@
 # CDSP.edu
 
 
+## 2024-04-05
+
+* zero sum game: Egypt loses. Israel wins, not!!!
+* Prophets are the best
+* Prophets are alternative
+* Always
+
 
 ## 2024-04-02
 
