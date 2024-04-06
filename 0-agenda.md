@@ -16,6 +16,8 @@
 **Soon**
 
 * ?
+* TP
+* barefoot winter shoes
 * Pam: minutes
 * Bennet: replywent with Moses?
 * Mia: wedding talks. 
