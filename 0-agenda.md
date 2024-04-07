@@ -20,7 +20,9 @@
 * Denim suit
 * barefoot winter shoes
 * Pam: minutes
-* Bennet: replywent with Moses?
+* Bennet: reply
+* Leichem: reply
+* Claudia: Reply
 * Mia: wedding talks. 
 * Mia: price for editing?
 * Olga A:
