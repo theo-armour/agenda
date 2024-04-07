@@ -16,6 +16,8 @@
 **Soon**
 
 * ?
+* Vish
+* Richard O
 * Plan a furneral: must have an agenda ~ songs
 * foot length 27cm width 10cm wide
 * barefoot winter shoes
