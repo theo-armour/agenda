@@ -2,6 +2,15 @@
 
 * https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md
 
+## 2024-04-06
+
+* Runs
+* Tania
+* Easter?
+* Paintings
+* Studies
+* New truck?
+* Nikon
 
 ## 2024-02-03
 
