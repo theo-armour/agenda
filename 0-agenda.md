@@ -21,7 +21,7 @@
 * Ronand
 * Richard O
 * Pam: minutes
-* Bennet: reply
+*   
 * Leichem: reply
 * Claudia: Reply
 * Mia: wedding talks. 
