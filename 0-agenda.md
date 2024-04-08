@@ -20,7 +20,6 @@
 * ?
 * Ronand
 * Richard O
-* Plan a furneral: must have an agenda ~ songs
 * Pam: minutes
 * Bennet: reply
 * Leichem: reply
@@ -32,7 +31,6 @@
 * Myint: thanks + photos
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * Ashley E: invite
-* Claudia
 * Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
 * Lolo: chagpt or gemini or copilot
