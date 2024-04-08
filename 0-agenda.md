@@ -6,7 +6,7 @@
 * \* 2024-04-02 ~ NYT: "middle finger politics"
 * 2024-04-05 ~ Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
 * 2024-04-05 ~ [https://en.wikipedia.org/wiki/Hitchens%27s\_razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor) ~ "what can be asserted without evidence can also be dismissed without evidence."
-* 2024-04-07 ~ https://fs.blog/worst-day/ \_ you're only as good as your worst day
+* 2024-04-07 ~ [https://fs.blog/worst-day/](https://fs.blog/worst-day/) \_ you're only as good as your worst day
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -14,12 +14,11 @@
 
 * HH: map
 * Bernie: visit
-*   
 
 **Soon**
 
 * ?
-* Vish
+* Ronand
 * Richard O
 * Plan a furneral: must have an agenda ~ songs
 * Pam: minutes
@@ -46,8 +45,7 @@
 
 ## Taskettes
 
-\* HH campus plan: pdf to sfg
-
+* HH campus plan: pdf to sfg
 * barefoot winter shoes
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
