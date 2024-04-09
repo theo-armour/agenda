@@ -21,7 +21,6 @@
 
 * ?
 * Ronand
-*   
 * Pam: minutes
 * Mia: wedding talks. 
 * Mia: price for editing?
