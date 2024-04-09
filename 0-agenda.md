@@ -15,14 +15,14 @@
 
 * HH: map
 * Bernie: visit
+*   
 
 **Soon**
 
 * ?
 * Ronand
-* Richard O
-* Pam: minutes
 *   
+* Pam: minutes
 * Mia: wedding talks. 
 * Mia: price for editing?
 * Quentin
