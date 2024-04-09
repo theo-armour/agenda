@@ -2,19 +2,17 @@
 
 * Rio Vista city
 
-  
+
 
 ## Agenda
 
-  
 
-\* Jewels to Healdsburg
 
-\* Furniture moves
+* Jewels to Healdsburg
+* Furniture moves
+* Dinner with friends
 
-\* Dinner with friends
 
-  
 
 ## 2024-04-01
 

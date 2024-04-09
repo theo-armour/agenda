@@ -6,7 +6,21 @@ Daughter Laura
 Son Mike - urologist
 
 In 2024-theo/people/mike Marean
+trivium
 Interactive Object Network Indices For Law, Fact Patterns And Their Interaction
+
+* https://onedrive.live.com/?cid=4348E1419F457EB2&id=4348E1419F457EB2%21837369&parId=4348E1419F457EB2%21837368&o=OneUp
+
+## 2024-04-07
+
+mil eo'brien one handed
+
+the art of thinking for yourself
+
+* Any updates to the paper?
+* Newsletter
+* My life is about bric-a-brac, anti-macassers and knickknacks
+* How an atheist designs an afterlife can be tricky
 
 
 ## 2024-02-08

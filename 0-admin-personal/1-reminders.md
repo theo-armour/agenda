@@ -1,7 +1,7 @@
 # Reminders
 
 * Amazon Customer Service ~ 1-888-280-4331
-* Passport valid until March 21 2015
+* Passport valid until March 20 2025
 * USPS: mail forwarding until August 5 2022
 * registered: [cowaymega](https://cowaymega.com/account/login) ~ 20% discount ~ code?
 * DMV ~ new ID ~ start online
@@ -21,7 +21,12 @@ Doc with all my details
 
 ## Health
 
-Glasses Prescription (10/1/2018)
+### Feet
+foot length 27cm width 10cm wide
+size 42 EU 9.5 US
+
+
+### Glasses Prescription (10/1/2018)
 
 `Sphere Cylinder Axis Add`
 
