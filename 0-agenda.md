@@ -22,7 +22,7 @@
 * Ronand
 * Richard O
 * Pam: minutes
-* Claudia: Reply
+*   
 * Mia: wedding talks. 
 * Mia: price for editing?
 * Quentin
