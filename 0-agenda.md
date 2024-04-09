@@ -24,7 +24,6 @@
 * Claudia: Reply
 * Mia: wedding talks. 
 * Mia: price for editing?
-*   
 * Quentin
 * Myint: thanks + photos
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
