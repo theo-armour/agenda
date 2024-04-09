@@ -21,8 +21,6 @@
 * Ronand
 * Richard O
 * Pam: minutes
-*   
-* Leichem: reply
 * Claudia: Reply
 * Mia: wedding talks. 
 * Mia: price for editing?
