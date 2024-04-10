@@ -26,9 +26,8 @@
 * Myint: thanks + photos
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * Ashley E: invite
-* Tu Pone ~ copilot
+* Tu Phone ~ copilot
 * Jonathan L: Orthopedic reports
-*   
 * John Walker: Roxie
 * Jason Carman
 * Floris
