@@ -2,6 +2,10 @@
 
 ???
 
+Outlive 
+
+  
+
 Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
 
 Nora? 45th artist I need to do it collective co-op okay
