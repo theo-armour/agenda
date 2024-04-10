@@ -20,7 +20,6 @@
 
 * ?
 * AidVantage
-*   
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Quentin
@@ -29,7 +28,7 @@
 * Ashley E: invite
 * Tu Pone ~ copilot
 * Jonathan L: Orthopedic reports
-* Lolo: chagpt or gemini or copilot
+*   
 * John Walker: Roxie
 * Jason Carman
 * Floris
