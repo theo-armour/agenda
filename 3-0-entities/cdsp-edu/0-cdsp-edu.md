@@ -1,5 +1,9 @@
 # CDSP.edu
 
+* https://moodle.cdsp.edu/course/view.php?id=399
+* https://moodle.cdsp.edu/login/?lang=en_us
+
+
 
 ## 2024-04-05
 

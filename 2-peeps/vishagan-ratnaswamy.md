@@ -1,6 +1,27 @@
 # Vishagan Ratnaswamy
 
 
+## 2024-04-09
+
+Philip Boykin
+* Wow! nice
+* Help small town mayors approve projects faster
+* Help small developers get projects approved faster
+
+
+Building codes
+
+* https://en.wikipedia.org/wiki/Carl_Malamud
+* https://public.resource.org/
+* https://archive.org/details/publicsafetycode
+
+Codes
+* https://www.buildingsguide.com/build/building-codes-by-state/
+
+Zoning
+* https://en.wikipedia.org/wiki/Zoning_in_the_United_States
+* https://www.zoningatlas.org/
+
 ## Ten things I enjoy talking about
 
 * Revit, AutoCAD, Rhino ~ former Autodesk AutoCAD Program Manager and power user of AutoCAD
