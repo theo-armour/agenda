@@ -20,7 +20,7 @@
 
 * ?
 * AidVantage
-* Pam: minutes
+*   
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Quentin
