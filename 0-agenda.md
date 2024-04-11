@@ -19,6 +19,8 @@
 **Soon**
 
 * ?
+* iqLand: building codes ~ pdf AI
+* Excel: embed thumbnails that enlarge
 * AidVantage
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
@@ -26,9 +28,8 @@
 * Myint: thanks + photos
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * Ashley E: invite
-* Tu Pone ~ copilot
+* Tu Phone ~ copilot
 * Jonathan L: Orthopedic reports
-*   
 * John Walker: Roxie
 * Jason Carman
 * Floris
@@ -40,6 +41,7 @@
 
 * HH campus plan: pdf to sfg
 * barefoot winter shoes
+* AI: Which Wiki category?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
