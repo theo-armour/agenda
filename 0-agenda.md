@@ -108,7 +108,7 @@
 * ?
 * Silver: send it
 
-\*\*\*
+***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
 
