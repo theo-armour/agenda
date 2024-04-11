@@ -6,6 +6,8 @@
 
 >Christian theological praxis is a term used by most liberation theologians to express how the Gospel of Jesus Christ is to be lived in the world.
 
+
+
 ## Diakonia
 
 * https://en.wikipedia.org/wiki/Diaconia
