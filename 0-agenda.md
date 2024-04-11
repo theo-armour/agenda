@@ -14,6 +14,7 @@
 **Today**
 
 * Bernie: visit
+* Linda Hanley: visit
 
 **Soon**
 
