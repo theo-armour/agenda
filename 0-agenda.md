@@ -13,7 +13,6 @@
 
 **Today**
 
-* HH: map
 * Bernie: visit
 
 **Soon**
@@ -25,22 +24,19 @@
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Quentin
-* Myint: thanks + photos
-* Adesk: Eisenberg, Quanci, Michler, Euge Loch
+* Myint: thanks + photos + JW BL
 * Ashley E: invite
 * Tu Phone ~ copilot
-* Jonathan L: Orthopedic reports
-* John Walker: Roxie
+* Jonathan L: Orthopedic reports, WSJ
 * Jason Carman
 * Floris
-* Armour HQ: upload documents
 * Medical appointments
-* Tiller
 
 ## Taskettes
 
 * HH campus plan: pngs cleaned
 * AI: Which Wiki category?
+* Tiller
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -131,6 +127,8 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
 
 * ?
+* Adesk: Eisenberg, Quanci, Michler, Euge Loch
+* John Walker: Roxie
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage</a>
 
