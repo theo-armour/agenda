@@ -19,7 +19,7 @@
 
 * Reminder: playing with my fingers helps alleviate the stress of dental procedures
 * Skin clinic ~ Dermatology visits
-* \[Sara's Medical Advocacy & Planning ~ [https://www.sarasmap.com/](https://www.sarasmap.com/)
+* Sara's Medical Advocacy & Planning ~ [https://www.sarasmap.com/](https://www.sarasmap.com/)
 * Three books on aging for the library
 * Medical tray delivery to apartments
 
