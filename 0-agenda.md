@@ -39,7 +39,7 @@
 
 ## Taskettes
 
-* HH campus plan: pdf to pngs
+* HH campus plan: pngs cleaned
 * barefoot winter shoes ~ chinese shoes
 * AI: Which Wiki category?
 
