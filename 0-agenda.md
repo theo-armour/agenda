@@ -8,6 +8,7 @@
 * 2024-04-05 ~ [https://en.wikipedia.org/wiki/Hitchens%27s\_razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor) ~ "what can be asserted without evidence can also be dismissed without evidence."
 * 2024-04-07 ~ [https://fs.blog/worst-day/](https://fs.blog/worst-day/) \_ you're only as good as your worst day
 * 2024-04-08 ~ Information is the inverse of entropy.
+* 2024-04-12 ~ Regrets: not drawing enough ~ not taking enough photos ~ even not writing enough when I was young
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -67,7 +68,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 health</a>
 
 * ?
-*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 simplicity</a>
 
@@ -95,7 +95,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">alix</a>
 
 * ?
-*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
