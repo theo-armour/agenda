@@ -15,6 +15,7 @@
 
 * Bernie: visit
 * Linda Hanley: visit
+* Medical appointments
 
 **Soon**
 
@@ -28,10 +29,8 @@
 * Myint: thanks + photos + JW BL
 * Ashley E: invite
 * Tu Phone ~ copilot
-*   
 * Jason Carman
 * Floris
-* Medical appointments
 
 ## Taskettes
 
