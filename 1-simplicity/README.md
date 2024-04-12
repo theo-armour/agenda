@@ -1,6 +1,12 @@
 # [Simplicity Read Me]( https://theo-armour.github.io/agenda/#1-simplicity/README.md )
 
 
+## Art links
+
+https://evereverland.github.io/2019/#everlandings/theo-armour/armour-fine-art/2020-armour-fine-art-manifest.md
+
+https://docs.google.com/spreadsheets/d/16Ow8TUfg5x-Z94_ljPxFgv6eCH6yQ85oW3-mFPNXYtw/edit#gid=0
+
 ## Preface 2024-01-07
 
 
