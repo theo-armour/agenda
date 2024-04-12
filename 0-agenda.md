@@ -22,6 +22,7 @@
 **Soon**
 
 * ?
+* RocketBook: Clean up 
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
 * AidVantage
