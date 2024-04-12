@@ -14,6 +14,7 @@
 **Today**
 
 * Bernie: visit
+* Vaccine app
 * Linda Hanley: visit
 * Medical appointments
 
