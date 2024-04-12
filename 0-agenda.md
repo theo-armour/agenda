@@ -17,8 +17,8 @@
 * Bernie: visit
 * Vaccine app
 * Linda Hanley: visit
-* Medical appointments
-* Kathu & Richard
+* Medical appointments: Dr Yoga: update appt
+* Kathy & Richard
 
 **Soon**
 
