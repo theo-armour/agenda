@@ -23,6 +23,7 @@
 **Soon**
 
 * ?
+* Dr Kattah: appointment
 * RocketBook: Clean up 
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
