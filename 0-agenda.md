@@ -31,6 +31,7 @@
 * Tu Phone ~ copilot
 * Jason Carman
 * Floris
+* Eloise: Silver: send it
 
 ## Taskettes
 
@@ -51,6 +52,7 @@
 
 * SW:
 * A: 
+* CVS: Shampoo
 * Aidvantage: pay
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
@@ -64,7 +66,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 health</a>
 
 * ?
-* CVS: Shampoo
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 simplicity</a>
 
@@ -92,7 +94,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">alix</a>
 
 * ?
-* Google Fi: why?
+*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">cynthia</a>
 
@@ -112,7 +114,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
 
 * ??
-* emily
+* Ashley Emory
 * Jerome: dorkbot ~ art scene ~ mushroom drink
 * Sherry ~ email ~ mexsp
 * Rob&Bennet: HH ~ meal invite
