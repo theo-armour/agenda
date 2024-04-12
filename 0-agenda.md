@@ -26,7 +26,6 @@
 * RocketBook: Clean up 
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
-* AidVantage
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Quentin
