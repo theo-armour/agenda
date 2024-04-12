@@ -1,13 +1,16 @@
 # Alix
 
-* https://sensay.io
+* [https://sensay.io](https://sensay.io)
 * minimise.today
-* https://www.minimise.today/
+* [https://www.minimise.today/](https://www.minimise.today/)
 
+  
+
+\* 
 
 ## 2024-04-04
 
-###  https://invigorated-curiosity-028524.framer.app/
+### [https://invigorated-curiosity-028524.framer.app/](https://invigorated-curiosity-028524.framer.app/)
 
 * Schedule a call button: half covered
 * About in footer: link
@@ -17,10 +20,9 @@
 * Evidence based design
 * Authoritative design
 * Design for the ages
-* 
+\*
 
 ## Images / Videos
-
 
 ## 2024-02-21
 
@@ -30,8 +32,6 @@
 * Framework ~ updates
 * Logo ~ images ~ carousel? 3D
 * Helen's birthday
-
-
 
 ## 2024-02-08
 
