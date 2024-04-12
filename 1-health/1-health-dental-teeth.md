@@ -5,85 +5,45 @@ https://dentalhealth.ucsf.edu/PatientAccess/
 * Look at Delta Insurance
 * Look at UCSF Dental Center at 100 Buchanan
 
+## Faculty Practice
+
+707 Parnassus Avenue
+San Francisco, CA 94143
+
+### Dr Ram Vaderhobli, DDS, MS, Professor, Preventive & Restorative Dental Science
+
+* https://profiles.ucsf.edu/ram.vaderhobli
+* Office 415 476-3028
+* Direct: 415-476-4469
+* Email: Ram.Vaderhobli@ucsf.edu
+
+### Dr Yogalakshmi Rajendran (Periontology)
+
+* Office: 415-476-1731
+* Direct: 415 514 3791
+707 Parnassus, Third Floor Reception
+
+### Mark Ryder DMD (dr of medical dentistry?)
 
 ## Teeth2
 
-* Dr Yoga appt ~ 415-476-1731 ~ 415 514 3791 ~ April 14 1:30
 * Costs
-* Plan of care
-* Dentist ~ Dr Grawney email
 * STL of teeth
 * Plan of care
-* Cavity
-
-## Appointments
-
-### 2020? July 8 ~ 11:30
-
-Dr Vaderhobli
-
-* Amalgam between teeth
-* Make list
-
-### Aug 18, 2022 2:10 PM - 5:10 PM
-
-Provider: Rajendran (Perio), Yogalakshmi
-Appointment Status:Scheduled
-Clinic:PERIO - Faculty Clinic
-Entry Date:May 26, 2022
-Reason:Ext #8 bone graft/membrane
-
-
-
-## Remember:
 * Scrape the tongue
-
-## Toothbrush update
-
-* tooth brushes 
-* arm & hammer 
+* tooth brushes
+* arm & hammer
 * spinbrush [https://www.amazon.com/gp/product/B0027A8OG8](https://www.amazon.com/gp/product/B0027A8OG8)
 
 
+## Endontics
 
-## Faculty Practice
-707 Parnassus Avenue, D4000
-Dental Clinics Building, Fourth Floor
-San Francisco, CA 94143
-415-476-3028 press 1 for reservation
-
-Dr Vaderhodli
-
-https://profiles.ucsf.edu/ram.vaderhobli
-
-Ram Vaderhobli, DDS, MS
-Title(s)	Professor, Preventive & Restor Dent Sci
-School	School of Dentistry
-Address	707 Parnassus Ave
-San Francisco CA 94143
-Phone	415-476-4469
-Email	Ram.Vaderhobli@ucsf.edu
-
-## periontology
-Dr Yoga
-Mark Ryder DMD (dr of medical dentistry?)
-707 Parnassus
-Third Floor Reception
-415 476 1731<< press 1
-
-## endontics
 Dr Jennifer Gibbs
 514 3546
 
 ## hygienists
 Stephanie
 Steve
-
-
-## Take NN Judah
-free parking behind building
-Kirkham & Fifth
-ucsffgp@itsa.ucsf.edu
 
 
 ## Marina Dentists
@@ -97,6 +57,21 @@ ucsffgp@itsa.ucsf.edu
 
 ## Past Events
 
+# Appointments
+
+### 2022? July 8 ~ 11:30
+
+Dr Vaderhobli
+
+* Amalgam between teeth
+* Make list
+
+### Aug 18, 2022 2:10 PM - 5:10 PM
+
+Appointment Status:Scheduled
+Clinic:PERIO - Faculty Clinic
+Entry Date:May 26, 2022
+Reason:Ext #8 bone graft/membrane
 2019-04-18 Stephanie 4pm
  Mozambique Maputo
 2019-02-22 ~ 4pm ~ Dr Hsin

@@ -1,4 +1,4 @@
-# Health Reference
+# Health Providers
 
 tags #health #provider
 
@@ -28,10 +28,6 @@ What's here?
 * Web site updates ~ Android app
 
 ## UCSF Dental
-
-### Dr Rajendran (Perio), Yogalakshmi
-
-### Dr V
 
 
 ## UCSF Primary Care
@@ -79,7 +75,7 @@ More
 * 1701 Divisadero St #120, San Francisco, CA 94115
 
 
-## UCSF Ophthalmologygy
+## UCSF Ophthalmology
 
 ### Dr Erika Mae Reyes
 
@@ -94,6 +90,8 @@ See eyes.md
 
 
 ## UCSF Surgery
+
+* Hip surgeon?
 
 ### Lin, Matthew Yi-Chih, MD ~ UCSF
 
