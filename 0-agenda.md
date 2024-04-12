@@ -36,6 +36,7 @@
 * Jason Carman
 * Floris
 * Eloise: Silver: send it
+* PayPal: Update checking
 
 ## Taskettes
 
