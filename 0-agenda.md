@@ -18,7 +18,7 @@
 * Vaccine app
 * Linda Hanley: visit
 * Medical appointments
-*   
+* Kathu & Richard
 
 **Soon**
 
