@@ -28,7 +28,7 @@
 * Myint: thanks + photos + JW BL
 * Ashley E: invite
 * Tu Phone ~ copilot
-* Jonathan L: Orthopedic reports, WSJ
+*   
 * Jason Carman
 * Floris
 * Medical appointments
