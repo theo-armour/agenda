@@ -138,7 +138,7 @@
 
 * ?
 * Cortez: email
-* Heritage map
+* HH campus map: png clean up
 * Chritina: RC exec committee to be informed of RCFE statutes and obligations
 * Xfinity: Demian: upload speeds
 * Martha N: small charges
