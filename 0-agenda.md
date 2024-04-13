@@ -17,14 +17,15 @@
 * Bernie: visit
 * Vaccine app
 * Linda Hanley: visit
-* Medical appointments: Dr Yoga: update appt
+* M
 * Kathy & Richard
 
 **Soon**
 
 * ?
 * Dr Kattah: appointment
-* RocketBook: Clean up 
+* edical appointments: Dr Yoga: update appt  
+* RocketBook: Package for Goodwill
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
 * Mia: wedding talks ~ 511
