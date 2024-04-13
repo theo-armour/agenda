@@ -8,6 +8,9 @@
 
 \* 
 
+* Google Fi: why?
+*   
+
 ## 2024-04-04
 
 ### [https://invigorated-curiosity-028524.framer.app/](https://invigorated-curiosity-028524.framer.app/)

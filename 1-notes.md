@@ -2,9 +2,13 @@
 
 ???
 
-Outlive 
+People versus gopal
 
   
+
+  
+
+Outlive 
 
 Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
 
