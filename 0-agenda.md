@@ -39,9 +39,12 @@
 ## Taskettes
 
 * HH campus plan: pngs cleaned
-* AI: Which Wiki category?
 * Thoughts: domiciles worked on + places lived
 * Tiller
+
+### Digital
+
+* AI: Which Wiki category?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
 
@@ -56,7 +59,6 @@
 * SW:
 * A: 
 * CVS: Shampoo
-*   
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
