@@ -41,14 +41,15 @@ tags #habits
 * Trigger: Turn on computers and waiting for apps to load:
 * Then: hand weights + Squegg
 * Tripper: Moving coffee mug triggers taking vitamins
-* Brewing coffee triggers squats & arm extensions
+
+## First task
+
+\*  "Crowd pleaser" task to start the day ~ note sometheing I adore doing to start the day ~ trick the brain into not spending the morning doomscrolling
 
 ## Checking messages
 
 * Open journal: Update ToMatto + write something
 * Checking emai:: check categories: delete messseage when category over 100
-
-  
 
 ## Morning coffee break @ 10
 
