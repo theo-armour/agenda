@@ -1,11 +1,24 @@
-# colonoscopy
+# Colon
 
-Next colonoscopy in 2023
+Next colonoscopy in 2024
 
 https://endo.ucsf.edu/sites/g/files/tkssra4036/f/GoLYTELY%20Colonoscopy%20Instructions%202020.pdf
 
+## UCSF Gastroenterology
+
+https://www.ucsfhealth.org/list-of-clinics/gastroenterology
+
+### Kattah, Michael George, MD, PhD ~ Gastroenterology UCSF
+
+* Next colonoscopy: 2024
+* Office: 415-502-4444
+* 1701 Divisadero St #120, San Francisco, CA 94115
+* https://www.ucsfhealth.org/providers/dr-michael-kattah
+
+
 ## Dates
 
+* 2024?
 * 2023-10-26
 * 2020
 * ?

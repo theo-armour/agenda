@@ -1,4 +1,4 @@
-# Welcome and who's here
+# CDSP ~ Diaconal Hermeneutics ~ Welcome and who's here
 
 Rod
 
@@ -12,7 +12,7 @@ I am using a Moodle forum for this so I invite everyone to tell us all the follo
 Who you are>
 Where you reside and which diocese is that in.
 Where you are on a spectrum of possible places in the world of diaconal formation--
-Curions
+Curions ~ Curious
 In the process of discernment for Holy Orders
 A nominee
 A postulant
@@ -27,6 +27,11 @@ Apart from taking role, my experience is that students in this course have found
 ## A basic question
 
 How clear are you on the difference between exegesis and hermeneutic?  Have they showed up in other courses or learning events you have engaged?
+
+https://moodle.cdsp.edu/mod/forum/view.php?id=21833
+
+* Ecclesiastical exegesis & hermeneutics versus legal exegesis & hermeneutics
+* Replies from chaGPT, Claude and Copilot
 
 
 ## Why do you think ~ Should read, Another Question

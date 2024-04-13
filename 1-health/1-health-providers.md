@@ -67,13 +67,7 @@ More
 
 ## UCSF Gastro
 
-
-### Kattah, Michael George, MD, PhD ~ Gastroenterology UCSF
-
-* Next colonoscopy: 2023
-* 415-502-4444
-* 1701 Divisadero St #120, San Francisco, CA 94115
-
+See colonoscopy.md
 
 ## UCSF Ophthalmology
 

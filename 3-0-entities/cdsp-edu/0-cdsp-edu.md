@@ -3,7 +3,11 @@
 * https://moodle.cdsp.edu/course/view.php?id=399
 * https://moodle.cdsp.edu/login/?lang=en_us
 
+## 2024-04-12
 
+* Lorem ipsom on https://cdsp.edu/staff/
+* Instagram no updates since 2021
+* Facebook lives: https://www.facebook.com/cdspfans/
 
 ## 2024-04-05
 
