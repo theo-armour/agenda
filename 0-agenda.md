@@ -23,7 +23,6 @@
 **Soon**
 
 * ?
-* Dr Kattah: appointment
 * edical appointments: Dr Yoga: update appt  
 * RocketBook: Package for Goodwill
 * iqLand: building codes ~ pdf AI
@@ -72,6 +71,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 health</a>
 
 * ?
+* Dr Kattah: appointment
+* Dr Fassett: appointment
+* Dr Reyes: appointm0nt
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 simplicity</a>
 
