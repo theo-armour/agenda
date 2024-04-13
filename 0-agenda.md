@@ -17,13 +17,11 @@
 * Bernie: visit
 * Vaccine app
 * Linda Hanley: visit
-* M
 * Kathy & Richard
 
 **Soon**
 
 * ?
-* edical appointments: Dr Yoga: update appt  
 * RocketBook: Package for Goodwill
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
@@ -71,6 +69,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 health</a>
 
 * ?
+* Dr Yoga: update appt
 * Dr Kattah: appointment
 * Dr Fassett: appointment
 * Dr Reyes: appointm0nt
