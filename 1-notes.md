@@ -2,11 +2,13 @@
 
 ???
 
+  
+
+Liz Nolan: summer with Quaker choir in Mexico 
+
+  
+
 People versus gopal
-
-  
-
-  
 
 Outlive 
 
