@@ -14,8 +14,7 @@
 
 **Today**
 
-* Bernie: visit
-* Vaccine app
+*   
 * Linda Hanley: visit
 * Kathy & Richard
 
@@ -221,7 +220,7 @@ May
 
 ## Reminders
 
-* \* vscode: simple browser
+* vscode: simple browser
 * Delete old passwords
 * Harvests those bookmarks
 * try oneNote
