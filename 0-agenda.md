@@ -38,7 +38,7 @@
 
 ## Taskettes
 
-* HH campus plan: pngs cleaned
+* HH campus plan: pngs + text to svg
 * Thoughts: domiciles worked on + places lived
 * Tiller
 
