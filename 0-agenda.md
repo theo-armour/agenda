@@ -16,7 +16,10 @@
 
 *   
 * Linda Hanley: visit
-* Kathy & Richard
+* Kathy & Richard thanks
+* HH: messages
+* Goodwill prep + drop-off
+* Tidy file cart
 
 **Soon**
 
