@@ -7,6 +7,12 @@
 * https://western.edu/school/school-environment-sustainability/
 * https://en.wikipedia.org/wiki/Western_Colorado_University
 
+## Jonathan Coop
+
+* https://western.edu/people/jonathan-coop-phd/
+* https://www.westernforestecology.com/
+* https://scholar.google.com/citations?user=kCystywAAAAJ
+* https://www.fs.usda.gov/research/rmrs/news/releases/workshop-synthesis-paper-describes-value-prescribed-fire-wilderness-areas
 
 ## Gunnison
 
