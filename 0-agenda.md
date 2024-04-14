@@ -20,6 +20,7 @@
 * HH: messages
 * Goodwill prep + drop-off
 * Tidy file cart
+* Carmen: extension?
 
 **Soon**
 
