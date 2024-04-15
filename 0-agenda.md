@@ -19,8 +19,7 @@
 * Tania: phone
 * Kathy & Richard thanks
 * HH: messages
-* Carmen: extension?
-* Block: download data
+*   
 * DWA: request $$$
 
 **Soon**
