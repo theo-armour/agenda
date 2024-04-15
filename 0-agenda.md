@@ -14,11 +14,15 @@
 
 **Today**
 
-**\*** Linda Hanley: visit
-
+* Val: Bee
+* Nancy Hovey: solace
+* Linda Hanley: phone
+* Tania: phone
 * Kathy & Richard thanks
 * HH: messages
 * Carmen: extension?
+* Block: download data
+* DWA: request $$$
 
 **Soon**
 
@@ -27,19 +31,14 @@
 * Excel: embed thumbnails that enlarge
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
-* Quentin
-* Myint: thanks + photos + JW BL
-* Ashley E: invite
-* Tu Phone ~ copilot
-* Jason Carman
-* Floris
 * Eloise: Silver: send it
 * PayPal: Update checking
 
 ## Taskettes
 
+* HH campus plan: linking images  
 * HH campus plan: pngs + text to svg
-* Tiller
+* Tiller: PayPal deposits
 
 ### Digital
 
@@ -142,6 +141,11 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage</a>
 
 * ?
+* Quentin
+* Myint: thanks + photos + JW BL
+* Tu Phone ~ copilot
+* Jason Carman
+* Floris
 * Vada: email
 * Cortez: lunch
 * HH campus map: png clean up
