@@ -3,6 +3,17 @@
 * https://moodle.cdsp.edu/course/view.php?id=399
 * https://moodle.cdsp.edu/login/?lang=en_us
 
+## 2024-04-14
+
+* https://en.wikipedia.org/wiki/Ecclesiology
+
+>In Christian theology, ecclesiology is the study of the Church, the origins of Christianity, its relationship to Jesus, its role in salvation, its polity, its discipline, its eschatology, and its leadership.
+
+* https://en.wikipedia.org/wiki/Ethos
+* https://en.wikipedia.org/wiki/Modes_of_persuasion
+> These include ethos, pathos, and logos
+* https://en.wikipedia.org/wiki/New_rhetorics
+
 ## 2024-04-12
 
 * Lorem ipsom on https://cdsp.edu/staff/
