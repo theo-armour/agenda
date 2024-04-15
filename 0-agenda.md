@@ -14,18 +14,15 @@
 
 **Today**
 
-*   
-* Linda Hanley: visit
+**\*** Linda Hanley: visit
+
 * Kathy & Richard thanks
 * HH: messages
-* Goodwill prep + drop-off
-* Tidy file cart
 * Carmen: extension?
 
 **Soon**
 
 * ?
-* RocketBook: Package for Goodwill
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
 * Mia: wedding talks ~ 511
@@ -42,7 +39,7 @@
 ## Taskettes
 
 * HH campus plan: pngs + text to svg
-* Thoughts: domiciles worked on + places lived
+*   
 * Tiller
 
 ### Digital
