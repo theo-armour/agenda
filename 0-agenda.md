@@ -14,8 +14,7 @@
 
 **Today**
 
-* Val: Bee
-* Nancy Hovey: solace
+*   
 * Linda Hanley: phone
 * Tania: phone
 * Kathy & Richard thanks
