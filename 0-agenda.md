@@ -14,12 +14,10 @@
 
 **Today**
 
-*   
-* Linda Hanley: visit
+* * Linda Hanley: visit
 * Kathy & Richard thanks
 * HH: messages
-* Goodwill prep + drop-off
-* Tidy file cart
+*   
 * Carmen: extension?
 
 **Soon**
