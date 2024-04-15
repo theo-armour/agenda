@@ -39,7 +39,6 @@
 ## Taskettes
 
 * HH campus plan: pngs + text to svg
-*   
 * Tiller
 
 ### Digital
