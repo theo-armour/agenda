@@ -19,7 +19,6 @@
 * Tania: phone
 * Kathy & Richard thanks
 * HH: messages
-*   
 * DWA: request $$$
 
 **Soon**
