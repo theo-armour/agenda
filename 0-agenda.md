@@ -15,12 +15,14 @@
 
 **Today**
 
+* DWA: next year?
 * Linda Hanley: phone
 * Tania: phone
 * Bernie: visit
 * Kathy & Richard thanks
 * HH: messages: Mexico + CFO
-*   
+* Men's Group: cheat sheet
+* Claudia
 
 **Soon**
 
