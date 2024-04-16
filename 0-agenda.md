@@ -14,7 +14,7 @@
 
 **Today**
 
-*   
+* Philip: mother passing
 * Linda Hanley: phone
 * Tania: phone
 * Kathy & Richard thanks
