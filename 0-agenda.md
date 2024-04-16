@@ -9,14 +9,15 @@
 * 2024-04-07 ~ [https://fs.blog/worst-day/](https://fs.blog/worst-day/) \_ you're only as good as your worst day
 * 2024-04-08 ~ Information is the inverse of entropy.
 * 2024-04-12 ~ Regrets: not drawing enough ~ not taking enough photos ~ even not writing enough when I was young
+* 2024-04-16 ~ A negative thought coing in cannot be "unseen", but you can choose not to dwell upon it
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 **Today**
 
-* * Linda Hanley: phone
+* Linda Hanley: phone
 * Tania: phone
-* Bernie
+* Bernie: visit
 * Kathy & Richard thanks
 * HH: messages: Mexico + CFO
 *   
