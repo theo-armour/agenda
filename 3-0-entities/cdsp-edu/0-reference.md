@@ -62,3 +62,13 @@ Hermeneutics = "Understanding the architect's vision"
 
 >Originalism is a method of constitutional and statutory interpretation. Originalists assert that legal text should be interpreted based on the original understanding at the time of adoption. Originalists object to the idea of the significant legal evolution being driven by judges in a common law framework and instead favor modifications of laws through the Legislature or through Constitutional amendment.
 
+## Homiletics
+
+* https://en.wikipedia.org/wiki/Homiletics
+>In religious studies, homiletics (Ancient Greek: ὁμιλητικός[1] homilētikós, from homilos, "assembled crowd, throng"[2]) is the application of the general principles of rhetoric to the specific art of public preaching.[1] One who practices or studies homiletics may be called a homilist, or more simply, a preacher.
+
+## Homily
+
+* https://en.wikipedia.org/wiki/Homily
+>A homily (from Greek ὁμιλία, homilía) is a commentary that follows a reading of scripture,[1] giving the "public explanation of a sacred doctrine" or text. The works of Origen[2] and John Chrysostom [known as Paschal Homily](3) are considered exemplary forms of Christian homily.[4]
+
