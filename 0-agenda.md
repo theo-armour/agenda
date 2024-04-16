@@ -14,13 +14,12 @@
 
 **Today**
 
-*   
-* Linda Hanley: phone
+* * Linda Hanley: phone
 * Tania: phone
 * Bernie
 * Kathy & Richard thanks
 * HH: messages: Mexico + CFO
-* DWA: request $$$
+*   
 
 **Soon**
 
@@ -34,7 +33,7 @@
 
 ## Taskettes
 
-* HH campus plan: linking images  
+* HH campus plan: linking images
 * HH campus plan: pngs + text to svg
 * Tiller: PayPal deposits
 
