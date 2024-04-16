@@ -18,7 +18,7 @@
 * Linda Hanley: phone
 * Tania: phone
 * Kathy & Richard thanks
-* HH: messages
+* HH: messages: Mexico + CFO
 * DWA: request $$$
 
 **Soon**
