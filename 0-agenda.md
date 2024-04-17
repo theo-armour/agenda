@@ -21,12 +21,11 @@
 * Tania: phone
 * Bernie: visit
 * Kathy & Richard thanks
-* Claudia
 
 **Soon**
 
 * ?
-* Vaul U: instagram
+* Val U: instagram
 * Val T: Ronan
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
