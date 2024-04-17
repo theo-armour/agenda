@@ -17,16 +17,17 @@
 
 *   
 * HH: messages: Mexico + CFO
-* Linda Hanley: phone
-* Tania: phone
-* Bernie: visit
-* Kathy & Richard thanks
+* O&A: Ghiradelli
+* Val U: instagram
+* Val T: Ronan
 
 **Soon**
 
 * ?
-* Val U: instagram
-* Val T: Ronan
+* Linda Hanley: phone
+* Tania: phone
+* Bernie: visit
+* Kathy & Richard thanks
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
 * Mia: wedding talks ~ 511
