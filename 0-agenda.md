@@ -15,7 +15,7 @@
 
 **Today**
 
-* DWA: next year?
+*   
 * HH: messages: Mexico + CFO
 * Linda Hanley: phone
 * Tania: phone
