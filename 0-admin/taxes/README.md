@@ -1,24 +1,32 @@
 # Taxes Read Me
 
-* H&R Block > Carmen: Pershing  Statement
-* H&R Block > Carmen: DAF
+
+## Forms needed
+
+* @Pershing ~ NA ~ IRA
+* Eastern Bank ~ Hovey ~ Patch
+* @Aidvantage ~ \[x\] WSD \[x\] SSA
+* @Baker Tilley
+* Chase deposit box
+* Medical expenses
+
+## Charity
+
+* SPS
+* BBN
+* Syracuse
+* Heritage
+* Wikipedia
+* Others
 
 
-## Done
 
-* IRS 709 ~ Patrick
-* PatrickMurphy ~ taxes
-* VivianR ~ tax person
-* H&R: Gift tax form
-* H&R: make contact & appointment
+## Social Security Administration
+
+* https://www.ssa.gov/
 
 
 
-## 2023-10-18
+***
 
-IRS
-
-* September 15, 3,311
-* January 16, 3,310
-
-California
+<center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>

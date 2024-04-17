@@ -4,16 +4,16 @@
 * minimise.today
 * [https://www.minimise.today/](https://www.minimise.today/)
 
-  
-
-\* 
+## 2024-04-16
 
 * Google Fi: why?
-*   
+* Chair: sizes?
+* Details to Claudia / Packing / Manifest?
+
 
 ## 2024-04-04
 
-### [https://invigorated-curiosity-028524.framer.app/](https://invigorated-curiosity-028524.framer.app/)
+### [Recraft](https://invigorated-curiosity-028524.framer.app/)
 
 * Schedule a call button: half covered
 * About in footer: link
@@ -23,7 +23,7 @@
 * Evidence based design
 * Authoritative design
 * Design for the ages
-\*
+*
 
 ## Images / Videos
 
