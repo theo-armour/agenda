@@ -1,6 +1,6 @@
 # Heritage Happenings Meeting
 
-
+room for patiental / or display rumor
 
 ## April Issue
 
@@ -20,8 +20,10 @@ Distribution
 
 ### Country Mexico
 
-* Cameo: Sorro? Frida?
-* Asking for quotes
+* Cameo: Sorro? Frida? toreeodor
+
+* Asking for quotes, photos, memories
+
 
 ### Events
 
@@ -34,7 +36,7 @@ Distribution
 ### Articles
 
 * Margaret Johnson ~ Rooms #8
-* Margaret Missiaen: Garden article?
+* Margaret Missiaen: Garden article? rose fox knoll
 * Trish: Fort Mason
 * Doris: civil war visits?
 * Jane:  ??
