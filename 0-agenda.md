@@ -15,14 +15,16 @@
 
 **Today**
 
-  
-
 * Val U: instagram
 * Val T: Ronan
 
 **Soon**
 
 * ?
+* Dr Yoga
+* Diapers
+* Dr Kattah
+* Patti G: 4th floor screen isa JM?
 * Linda Hanley: phone
 * Tania: phone
 * Bernie: visit
