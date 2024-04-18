@@ -1,5 +1,6 @@
 # Heritage Happenings Meeting
 
+room for patiental / or display rumor
 
 ## April Issue
 
@@ -9,28 +10,33 @@
 
 Distribution
 
-* 50 residents
-* 20 Family members
-* 10 Staff
-* 10 Board members
-* 30 others
+* 73 residents
+* 45 Family members
+* 20 Team members
+* 14 Board members
+* 46 others
 
 ## May
 
 ### Country Mexico
 
-* Cameo: Sorro? Frida?
-* Asking for quotes
+* Cameo: Sorro? Frida? toreeodor
+
+* Asking for quotes, photos, memories
+
 
 ### Events
 
 * Cinco de Mayo
+* Asian Pacific American Heritage Month
+* Memorial Day
 * Mother's Day
+
 
 ### Articles
 
 * Margaret Johnson ~ Rooms #8
-* Margaret Missiaen: Garden article?
+* Margaret Missiaen: Garden article? rose fox knoll
 * Trish: Fort Mason
 * Doris: civil war visits?
 * Jane:  ??
