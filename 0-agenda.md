@@ -21,8 +21,7 @@
 **Soon**
 
 * ?
-* Dr Yoga
-* Diapers
+*   
 * Dr Kattah: appointment
 * Rick Morton
 * Patti G: 4th floor screen isa JM?
@@ -72,7 +71,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 health</a>
 
 * ?
-* Dr Yoga: update appt
 * Dr Fassett: appointment
 * Dr Reyes: appointm0nt
 
