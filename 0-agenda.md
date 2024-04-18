@@ -15,16 +15,16 @@
 
 **Today**
 
-* Val T: Ronan  
+* Rick Morton
+* Claudia
 
 **Soon**
 
 * ?
-* Rick Morton
-* Patti G: 4th floor screen isa JM?
-* Linda Hanley: phone
 * Tania: phone
 * Bernie: visit
+* Patti G: 4th floor screen isa JM?
+* Linda Hanley: phone
 * Kathy & Richard thanks
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
