@@ -15,7 +15,7 @@
 
 **Today**
 
-* Val U: instagram
+*   
 * Val T: Ronan
 
 **Soon**
