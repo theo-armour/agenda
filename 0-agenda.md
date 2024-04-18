@@ -17,15 +17,19 @@
 
 * Rick Morton
 * Claudia
+* HH: mexico
+* HH: CTO
+* RC: minutes
+*   
 
 **Soon**
 
 * ?
+* Kathy & Richard thanks
 * Tania: phone
 * Bernie: visit
 * Patti G: 4th floor screen isa JM?
 * Linda Hanley: phone
-* Kathy & Richard thanks
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
 * Mia: wedding talks ~ 511
@@ -156,9 +160,11 @@
 
 May
 
-* Millionaire donor?
+* HH: Millionaire donor?
+* HH: mexico
+* HH: CTO
+* RC: minutes
 * Reminders
-* minutes
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
 
