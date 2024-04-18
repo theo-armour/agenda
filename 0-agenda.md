@@ -15,8 +15,7 @@
 
 **Today**
 
-*   
-* Val T: Ronan
+* Val T: Ronan  
 
 **Soon**
 
