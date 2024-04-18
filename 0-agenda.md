@@ -21,8 +21,6 @@
 **Soon**
 
 * ?
-*   
-* Dr Kattah: appointment
 * Rick Morton
 * Patti G: 4th floor screen isa JM?
 * Linda Hanley: phone
