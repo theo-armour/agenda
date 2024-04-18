@@ -73,7 +73,6 @@
 
 * ?
 * Dr Yoga: update appt
-* Dr Kattah: appointment
 * Dr Fassett: appointment
 * Dr Reyes: appointm0nt
 
