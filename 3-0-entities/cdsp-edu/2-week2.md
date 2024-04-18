@@ -119,3 +119,29 @@ The Baptismal Covenant
 * https://en.wikipedia.org/wiki/Israel_Galindo
 * https://lifeandleadership.com/book-summaries/galindo-the-hidden-lives-of-congregations/
 
+## Your questions and thoughts-especially on the essay material this week.
+
+I cover 2000 years in short order. Maybe too short in some instances. Let's see what people need.
+
+Being of the persuasion of "other" in responding to last week's introductions - and therefore diakonally clueless, I would appreciate some hints, thoughts or links as to what deacons tend to do and what their mission is supposed to be in the modern era.
+
+Knowing what deacons wear is not sufficient: https://en.wikipedia.org/wiki/Deacon#Anglicanism ;-)
+
+The The Hanover Report while lengthy is somewhat vague or kitchen-sinkish in its approach. And it was written thirty years ago.
+
+So what's the state of the diaconate today? What are the challenges and opportunities? What are the trends? What are the controversies? What are the successes? I hope to find out more about these questions in the coming weeks.
+
+
+When and how were you "taught" or did you learn some form of ecclesiology (theology) of the church, specifically of TEC?
+
+Has your work in discernment, whether you are just starting or are well on the diaconal way, changed, enhanced, or in anyway affected your theology of church?
+
+
+I spent six years at Saint Paul's School in Concord, New Hampshire. We went to chapel every day and twice on Sundays I was taught the theology of The Episcopal Church in the chapel and in the classroom.
+
+I am in no way devout nonetheless The Episcopal Church informs my life. My former wife is French Catholic. Our wedding was half in French and half in English and half Catholic and half Episcopalian.
+
+Currently I am a "youngster" in an old people's home full of very old people. I know them all, dine with them every day, publish the newsletter and more. There is a feeling of altruism and community that probably has some diaconal aspects.
+
+
+
