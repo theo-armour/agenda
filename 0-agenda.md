@@ -15,8 +15,10 @@
 
 **Today**
 
-*   
-* HH: messages: Mexico + CFO
+  
+
+**\*** HH: messages: Mexico + CFO
+
 * O&A: Ghiradelli
 * Val U: instagram
 * Val T: Ronan
