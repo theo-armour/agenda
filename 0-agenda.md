@@ -17,8 +17,6 @@
 
   
 
-**\*** 
-
 * Val U: instagram
 * Val T: Ronan
 
