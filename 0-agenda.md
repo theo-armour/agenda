@@ -17,9 +17,8 @@
 
   
 
-**\*** HH: messages: Mexico + CFO
+**\*** 
 
-* O&A: Ghiradelli
 * Val U: instagram
 * Val T: Ronan
 
