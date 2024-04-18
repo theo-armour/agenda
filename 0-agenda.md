@@ -36,7 +36,7 @@
 
 ## Taskettes
 
-* HH campus plan: linking images
+* HH campus plan: export quality images
 * HH campus plan: pngs + text to svg
 * Tiller: PayPal deposits
 
