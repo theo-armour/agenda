@@ -15,18 +15,18 @@
 
 **Today**
 
-  
-
-* Val U: instagram
-* Val T: Ronan
+* HH: mexico
+* HH: CTO
+* RC: minutes
+*   
 
 **Soon**
 
 * ?
-* Linda Hanley: phone
+* Kathy & Richard thanks
 * Tania: phone
 * Bernie: visit
-* Kathy & Richard thanks
+* Linda Hanley: phone
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
 * Mia: wedding talks ~ 511
@@ -38,6 +38,7 @@
 
 * HH campus plan: export quality images
 * HH campus plan: pngs + text to svg
+* TIDradio: 
 * Tiller: PayPal deposits
 
 ### Digital
@@ -56,7 +57,6 @@
 
 * SW:
 * A: 
-* CVS: Shampoo
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
@@ -69,8 +69,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 health</a>
 
 * ?
-* Dr Yoga: update appt
-* Dr Kattah: appointment
 * Dr Fassett: appointment
 * Dr Reyes: appointm0nt
 
@@ -119,6 +117,11 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
 
 * ??
+* Quentin
+* Myint: thanks + photos + JW BL
+* Tu Phone ~ copilot
+* Jason Carman
+* Floris
 * Ashley Emory
 * Jerome: dorkbot ~ art scene ~ mushroom drink
 * Sherry ~ email ~ mexsp
@@ -141,13 +144,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage</a>
 
 * ?
-* Quentin
-* Myint: thanks + photos + JW BL
-* Tu Phone ~ copilot
-* Jason Carman
-* Floris
 * Vada: email
 * Cortez: lunch
+* HH Patti G: 4th floor screen isa JM?
 * HH campus map: png clean up
 * Chritina: RC exec committee to be informed of RCFE statutes and obligations
 * Xfinity: Demian: upload speeds
@@ -160,9 +159,11 @@
 
 May
 
-* Millionaire donor?
+* HH: Millionaire donor?
+* HH: mexico
+* HH: CTO
+* RC: minutes
 * Reminders
-* minutes
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
 
