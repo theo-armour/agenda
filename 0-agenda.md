@@ -15,8 +15,7 @@
 
 **Today**
 
-* Rick Morton
-* Claudia
+*   
 * HH: mexico
 * HH: CTO
 * RC: minutes
@@ -28,7 +27,7 @@
 * Kathy & Richard thanks
 * Tania: phone
 * Bernie: visit
-* Patti G: 4th floor screen isa JM?
+*   
 * Linda Hanley: phone
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
@@ -119,6 +118,11 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
 
 * ??
+* Quentin
+* Myint: thanks + photos + JW BL
+* Tu Phone ~ copilot
+* Jason Carman
+* Floris
 * Ashley Emory
 * Jerome: dorkbot ~ art scene ~ mushroom drink
 * Sherry ~ email ~ mexsp
@@ -141,13 +145,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage</a>
 
 * ?
-* Quentin
-* Myint: thanks + photos + JW BL
-* Tu Phone ~ copilot
-* Jason Carman
-* Floris
 * Vada: email
 * Cortez: lunch
+* HH Patti G: 4th floor screen isa JM?
 * HH campus map: png clean up
 * Chritina: RC exec committee to be informed of RCFE statutes and obligations
 * Xfinity: Demian: upload speeds
