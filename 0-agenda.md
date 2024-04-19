@@ -15,7 +15,6 @@
 
 **Today**
 
-*   
 * HH: mexico
 * HH: CTO
 * RC: minutes
@@ -27,7 +26,6 @@
 * Kathy & Richard thanks
 * Tania: phone
 * Bernie: visit
-*   
 * Linda Hanley: phone
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
@@ -40,6 +38,7 @@
 
 * HH campus plan: export quality images
 * HH campus plan: pngs + text to svg
+* TIDradio: 
 * Tiller: PayPal deposits
 
 ### Digital
