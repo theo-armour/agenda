@@ -18,7 +18,9 @@
 * HH: mexico
 * HH: CTO
 * RC: minutes
-*   
+* Josh: estimated payments
+* Claudia
+* Yvonne & Gene: ??
 
 **Soon**
 
