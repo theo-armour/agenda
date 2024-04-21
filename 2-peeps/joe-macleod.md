@@ -15,6 +15,14 @@ RCA
 * https://www.monumentvalleygame.com/mvpc
 * https://learn.endineering.co/courses/endineering-course
 
+
+## Books
+
+* https://www.smashwords.com/library
+* https://www.smashwords.com/books/view/744267
+* https://www.smashwords.com/books/view/1116883
+
+
 ## 2024-02-09
 
 
