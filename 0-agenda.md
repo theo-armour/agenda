@@ -18,7 +18,7 @@
 
 * Patrick: lunch agenda
 * Jason C & Quentin
-* Ronan
+*   
 * HH: mexico
 * HH: IL & AL fees
 * RC: minutes
