@@ -16,7 +16,7 @@
 
 **Today**
 
-* Patrick: li=unch
+* Patrick: lunch agenda
 * Jason C & Quentin
 * Ronan
 * HH: mexico
