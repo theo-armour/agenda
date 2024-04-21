@@ -16,15 +16,14 @@
 
 **Today**
 
-*   
+* Patrick: li=unch
 * Jason C & Quentin
 * Ronan
 * HH: mexico
-* HH: CTO
+* HH: IL & AL fees
 * RC: minutes
 * Josh: estimated payments
 * Claudia
-* Yvonne & Gene ?
 
 **Soon**
 
