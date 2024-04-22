@@ -16,8 +16,8 @@
 
 **Today**
 
-* Patrick: lunch agenda
-* Jason C & Quentin
+* Dinner Thursday res
+* Valerie: fees
 * HH: mexico
 * HH: IL & AL fees
 * RC: minutes
@@ -27,10 +27,8 @@
 **Soon**
 
 * ?
-* Kathy & Richard thanks
-* Tania: phone
+* Jason C & Quentin
 * Bernie: visit
-* Linda Hanley: phone
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
 * Mia: wedding talks ~ 511
