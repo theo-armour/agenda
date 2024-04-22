@@ -27,9 +27,7 @@
 **Soon**
 
 * ?
-*   
 * Bernie: visit
-* Linda Hanley: phone
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
 * Mia: wedding talks ~ 511
