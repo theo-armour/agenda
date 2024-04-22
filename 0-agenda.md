@@ -19,7 +19,7 @@
 * Claudia
 * walking: Locate the noisy manhole cover
 *   
-* Valerie: fees
+*   
 * Cynthia: houseboat
 * cdsp: comments
 * HH: mexico
