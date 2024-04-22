@@ -17,7 +17,7 @@
 **Today**
 
 * Claudia
-* walking: Locate the noisy manhole cover
+*   
 *   
 *   
 * Cynthia: houseboat
