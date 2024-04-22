@@ -10,7 +10,7 @@
 * 2024-04-08 ~ Information is the inverse of entropy.
 * 2024-04-12 ~ Regrets: not drawing enough ~ not taking enough photos ~ even not writing enough when I was young
 * 2024-04-16 ~ A negative thought coming in cannot be "unseen", but you can choose not to dwell upon the thought.
-* 2024-04-20 ~ Usa AI to interview old people in porder to generate more content
+* 2024-04-20 ~ Usa AI to interview old people in order to generate more content
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -18,11 +18,13 @@
 
 * Dinner Thursday res
 * Valerie: fees
+* Cynthia: houseboat
+* Claudia
+* cdsp: comments
 * HH: mexico
 * HH: IL & AL fees
 * RC: minutes
 * Josh: estimated payments
-* Claudia
 
 **Soon**
 
