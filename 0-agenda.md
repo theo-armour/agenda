@@ -16,8 +16,8 @@
 
 **Today**
 
-*   
-* Jason C & Quentin
+* Dinner Thursday res
+* Valerie: fees
 * HH: mexico
 * HH: IL & AL fees
 * RC: minutes
@@ -27,6 +27,7 @@
 **Soon**
 
 * ?
+* Jason C & Quentin
 * Bernie: visit
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
