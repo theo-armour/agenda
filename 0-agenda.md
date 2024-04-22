@@ -16,7 +16,7 @@
 
 **Today**
 
-* Patrick: lunch agenda
+*   
 * Jason C & Quentin
 * HH: mexico
 * HH: IL & AL fees
