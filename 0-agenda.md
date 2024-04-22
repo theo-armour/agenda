@@ -27,7 +27,6 @@
 **Soon**
 
 * ?
-* Kathy & Richard thanks
 * Tania: phone
 * Bernie: visit
 * Linda Hanley: phone
