@@ -17,9 +17,8 @@
 **Today**
 
 * Claudia
-* Alix: comments on keynote
 * walking: Locate the noisy manhole cover
-* Dinner Thursday res
+*   
 * Valerie: fees
 * Cynthia: houseboat
 * cdsp: comments
