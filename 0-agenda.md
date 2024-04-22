@@ -27,7 +27,7 @@
 **Soon**
 
 * ?
-* Tania: phone
+*   
 * Bernie: visit
 * Linda Hanley: phone
 * iqLand: building codes ~ pdf AI
