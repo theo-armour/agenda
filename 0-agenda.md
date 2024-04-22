@@ -16,20 +16,24 @@
 
 **Today**
 
+* Claudia
+* Alix
+* walking: Locate the noisy manhole cover
 * Dinner Thursday res
 * Valerie: fees
 * Cynthia: houseboat
-* Claudia
 * cdsp: comments
 * HH: mexico
 * HH: IL & AL fees
 * RC: minutes
 * Josh: estimated payments
+* Jason C & Quentin
 
 **Soon**
 
 * ?
-* Jason C & Quentin
+* HH: map
+* HH: Res Dir
 * Bernie: visit
 * iqLand: building codes ~ pdf AI
 * Excel: embed thumbnails that enlarge
@@ -148,6 +152,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage</a>
 
 * ?
+* Ayon: residents folder
 * Vada: email
 * Cortez: lunch
 * HH Patti G: 4th floor screen isa JM?
@@ -226,6 +231,7 @@ May
 
 * ?
 * AudioPen: Pens to Journal
+* Excel: embed thumbnails that enlarge
 
 ## Reminders
 
