@@ -17,7 +17,7 @@
 **Today**
 
 * Claudia
-* Alix
+* Alix: comments on keynote
 * walking: Locate the noisy manhole cover
 * Dinner Thursday res
 * Valerie: fees
@@ -232,6 +232,8 @@ May
 * ?
 * AudioPen: Pens to Journal
 * Excel: embed thumbnails that enlarge
+* Timeline: follow wikipedia: year, date, event ~ https://en.wikipedia.org/wiki/Timelines\_of\_modern\_history
+*   
 
 ## Reminders
 
