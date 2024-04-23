@@ -3,10 +3,14 @@
 * Rio Vista city
 
 
+## 2024-04-22
 
-## Agenda
+* Peter taylor & Eliza
+* Morels
+* Buy a forest or a cabin
+* Buy a houseboat?
 
-
+## 2024-04-19
 
 * Jewels to Healdsburg
 * Furniture moves

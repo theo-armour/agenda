@@ -3,6 +3,10 @@
 * https://www.astranis.com/
 * https://twitter.com/astranis
 
+Jason
+
+* https://www.youtube.com/@jasoncarman
+* https://saturdaystartups.beehiiv.com/
 * https://twitter.com/jasonjoyride
 * https://www.linkedin.com/in/jason-carman-63b384199/
 * https://www.jasoncarman.com/
