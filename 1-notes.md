@@ -2,11 +2,17 @@
 
 ???
 
+  
+
+Here I am speaking to Aaron and about using GitHub to keep my notes and things and I'm doing that blah blah blah tweet tweet tweet 
+
+  
+
+  
+
+  
+
 Remembery: a startup dedicated to using AI systems to talk to old people to record their memories for posterity. This will help AI gather more data and help hope people feel more engaged and useful. 
-
-  
-
-  
 
 Liz Nolan: summer with Quaker choir in Mexico 
 
