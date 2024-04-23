@@ -16,8 +16,8 @@
 
 **Today**
 
-* Claudia
-* Cynthia: houseboat
+*   
+* Cynthia: forest
 * cdsp: comments
 * HH: mexico
 * HH: IL & AL fees
@@ -28,7 +28,7 @@
 **Soon**
 
 * ?
-* Lunch: egg salad, tuna salad, pickle, water, baby bel
+* Lunch: egg salad, tuna salad, pickle, water, baby bel ~ celery & lettuce
 * HH: map
 * HH: Res Dir
 * Bernie: visit
