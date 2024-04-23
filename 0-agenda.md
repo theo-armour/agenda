@@ -17,9 +17,6 @@
 **Today**
 
 * Claudia
-*   
-*   
-*   
 * Cynthia: houseboat
 * cdsp: comments
 * HH: mexico
@@ -31,6 +28,7 @@
 **Soon**
 
 * ?
+* Lunch: egg salad, tuna salad, pickle, water, baby bel
 * HH: map
 * HH: Res Dir
 * Bernie: visit
