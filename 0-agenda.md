@@ -18,17 +18,17 @@
 
 *   
 * Cynthia: forest
-*   
 * HH: mexico
 * HH: IL & AL fees
 * RC: minutes
 * Josh: estimated payments
 * Jason C & Quentin
+* Tax payments
 
 **Soon**
 
 * ?
-* Lunch: egg salad, tuna salad, pickle, water, baby bel ~ celery & lettuce
+* Lunch: egg salad, tuna salad w/mayo, pickle, water, baby bel ~ celery & lettuce
 * HH: map
 * HH: Res Dir
 * Bernie: visit
