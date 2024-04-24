@@ -9,15 +9,13 @@
 **Today**
 
 * Claudia
-*   
-*   
 * HH: mexico
 * HH: IL & AL fees
 * RC: minutes
 * Josh: estimated payments
 * Jason C & Quentin
 * Tax payments
-* Olga: look into ballet
+* Olga: look into ballet.
 
 **Soon**
 
