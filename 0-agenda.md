@@ -16,7 +16,6 @@
 
 **Today**
 
-*   
 * Cynthia: forest
 * HH: mexico
 * HH: IL & AL fees
@@ -28,16 +27,14 @@
 **Soon**
 
 * ?
-* Lunch: egg salad, tuna salad w/mayo, pickle, water, baby bel ~ celery & lettuce
-* HH: map
+* HH: map  
 * HH: Res Dir
 * Bernie: visit
 * iqLand: building codes ~ pdf AI
-* Excel: embed thumbnails that enlarge
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Eloise: Silver: send it
-* PayPal: Update checking
+*   
 
 ## Taskettes
 
@@ -229,8 +226,7 @@ May
 * ?
 * AudioPen: Pens to Journal
 * Excel: embed thumbnails that enlarge
-* Timeline: follow wikipedia: year, date, event ~ https://en.wikipedia.org/wiki/Timelines\_of\_modern\_history
-*   
+* Timeline: follow wikipedia: year, date, event ~ [https://en.wikipedia.org/wiki/Timelines\_of\_modern\_history](https://en.wikipedia.org/wiki/Timelines_of_modern_history)
 
 ## Reminders
 
