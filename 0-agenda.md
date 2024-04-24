@@ -42,6 +42,8 @@
 * Tiller: PayPal deposits
 * SW: esomeprazole ~ beer
 
+***
+
 ### Digital
 
 * AI: Which Wiki category?
@@ -143,6 +145,8 @@
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * John Walker: Roxie
 
+***
+
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage</a>
 
 * ?
@@ -227,6 +231,8 @@ May
 * AudioPen: Pens to Journal
 * Excel: embed thumbnails that enlarge
 * Timeline: follow wikipedia: year, date, event ~ [https://en.wikipedia.org/wiki/Timelines\_of\_modern\_history](https://en.wikipedia.org/wiki/Timelines_of_modern_history)
+
+***
 
 ## Reminders
 
