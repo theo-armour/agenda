@@ -27,7 +27,7 @@
 **Soon**
 
 * ?
-* HH: map  
+* HH: map
 * HH: Res Dir
 * Bernie: visit
 * Mia: wedding talks ~ 511
@@ -40,6 +40,7 @@
 * HH campus plan: edit bitmaps
 * TIDradio: 
 * Tiller: PayPal deposits
+* SW: esomeprazole ~ beer
 
 ### Digital
 
