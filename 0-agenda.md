@@ -17,6 +17,7 @@
 * Josh: estimated payments
 * Jason C & Quentin
 * Tax payments
+* Olga: look into ballet
 
 **Soon**
 
