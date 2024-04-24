@@ -11,6 +11,7 @@
 * 2024-04-12 ~ Regrets: not drawing enough ~ not taking enough photos ~ even not writing enough when I was young
 * 2024-04-16 ~ A negative thought coming in cannot be "unseen", but you can choose not to dwell upon the thought.
 * 2024-04-20 ~ Usa AI to interview old people in order to generate more content
+* 2024-04-24 ~ On the whole, I believe patriarchal society
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -29,7 +30,7 @@
 **Soon**
 
 * ?
-* HH: map out
+* HH floor plans: to Front Office
 * HH: Res Dir
 * Bernie: visit
 * Mia: wedding talks ~ 511
@@ -39,8 +40,8 @@
 
 ## Taskettes
 
-* HH campus plan: edit bitmaps
-* TIDradio: 
+*   
+* TIDradio: view video
 * Tiller: PayPal deposits
 * SW: esomeprazole ~ beer
 
