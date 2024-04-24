@@ -44,11 +44,7 @@
 
 ***
 
-### Digital
-
-* AI: Which Wiki category?
-
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
+### <a href="" style="font-size: 15.6px; font-weight: normal;">0.1 taxes</a>  
 
 * ?
 
@@ -214,6 +210,7 @@ May
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations repos</a>
 
 * ?
+* AI: Which Wiki category?
 * List of all my GitHub orgs and repos
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
