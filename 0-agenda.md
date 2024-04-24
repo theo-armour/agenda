@@ -13,10 +13,8 @@
 * HH: mexico
 * HH: IL & AL fees
 * RC: minutes
-* Josh: estimated payments
 * Jason C & Quentin
-*   
-* Olga: look into ballet.
+* Olga: look into Mere Mortals Encore
 
 **Soon**
 
@@ -31,7 +29,8 @@
 
 ## Taskettes
 
-* * TIDradio: view video
+* IDradio: view video
+* Josh: estimated payments
 * Tiller: PayPal deposits
 * SW: esomeprazole ~ beer
 
