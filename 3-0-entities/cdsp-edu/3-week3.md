@@ -16,6 +16,7 @@ This book is a highly readable, comprehensive study that has established itself 
 ## Lima Report; Baptism, Eucharist, and Ministry
 
 * https://www.anglicancommunion.org/media/102580/lima_document.pdf
+
 ## Understanding the Diaconate: Historical, Theological, and Sociological Foundations
 by W. Shawn McKnight
 
@@ -100,9 +101,26 @@ I imagine that these qualities will appear again in our diaconal studies.
 
 
 
+## 2024-04-23
+
+## to The Hanover Report
+
+* https://www.anglicancommunion.org/media/102181/the_hanover_report.pdf
 
 
 
 
 
+## Lima Report; Baptism, Eucharist, and Ministry
 
+* https://www.anglicancommunion.org/media/102580/lima_document.pdf
+
+
+## The Iona Report ~ the diaconate in the anglican church of canad
+
+https://www.anglican.ca/wp-content/uploads/iona-report.pdf
+
+
+## Book of Common Prayer
+
+https://www.churchpublishing.org/siteassets/pdf/book-of-common-prayer/book-of-common-prayer-2006.pdf
