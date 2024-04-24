@@ -16,41 +16,37 @@
 
 **Today**
 
-*   
+* Claudia
+* Midge
 * Cynthia: forest
-*   
 * HH: mexico
 * HH: IL & AL fees
 * RC: minutes
 * Josh: estimated payments
 * Jason C & Quentin
+* Tax payments
 
 **Soon**
 
 * ?
-* Lunch: egg salad, tuna salad, pickle, water, baby bel ~ celery & lettuce
 * HH: map
 * HH: Res Dir
 * Bernie: visit
-* iqLand: building codes ~ pdf AI
-* Excel: embed thumbnails that enlarge
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Eloise: Silver: send it
-* PayPal: Update checking
+* 2am club
 
 ## Taskettes
 
-* HH campus plan: export quality images
-* HH campus plan: pngs + text to svg
+* HH campus plan: edit bitmaps
 * TIDradio: 
 * Tiller: PayPal deposits
+* SW: esomeprazole ~ beer
 
-### Digital
+***
 
-* AI: Which Wiki category?
-
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-taxes-agenda.md&quot;">0.1 taxes</a>
+### <a href="" style="font-size: 15.6px; font-weight: normal;">0.1 taxes</a>  
 
 * ?
 
@@ -122,6 +118,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
 
 * ??
+* iqLand: building codes ~ pdf AI
 * Quentin
 * Myint: thanks + photos + JW BL
 * Tu Phone ~ copilot
@@ -145,6 +142,8 @@
 * ?
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * John Walker: Roxie
+
+***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage</a>
 
@@ -213,6 +212,7 @@ May
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations repos</a>
 
 * ?
+* AI: Which Wiki category?
 * List of all my GitHub orgs and repos
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
@@ -229,8 +229,9 @@ May
 * ?
 * AudioPen: Pens to Journal
 * Excel: embed thumbnails that enlarge
-* Timeline: follow wikipedia: year, date, event ~ https://en.wikipedia.org/wiki/Timelines\_of\_modern\_history
-*   
+* Timeline: follow wikipedia: year, date, event ~ [https://en.wikipedia.org/wiki/Timelines\_of\_modern\_history](https://en.wikipedia.org/wiki/Timelines_of_modern_history)
+
+***
 
 ## Reminders
 
