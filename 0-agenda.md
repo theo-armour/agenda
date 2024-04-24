@@ -38,8 +38,7 @@
 
 ## Taskettes
 
-* HH campus plan: export quality images
-* HH campus plan: pngs + text to svg
+*   
 * TIDradio: 
 * Tiller: PayPal deposits
 
