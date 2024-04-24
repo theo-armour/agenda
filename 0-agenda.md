@@ -9,7 +9,6 @@
 **Today**
 
 * Claudia
-* MyChart
 * HH: mexico
 * HH: IL & AL fees
 * RC: minutes
@@ -58,7 +57,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 health</a>
 
 * ?
-* Dr Fassett: appointment
+* Dr Fassett: appointment 415-353-7800
 * Dr Reyes: appointm0nt
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 simplicity</a>
