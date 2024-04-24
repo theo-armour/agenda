@@ -10,7 +10,7 @@
 
 * Claudia
 *   
-* Cynthia: forest
+*   
 * HH: mexico
 * HH: IL & AL fees
 * RC: minutes
