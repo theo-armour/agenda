@@ -9,7 +9,7 @@
 **Today**
 
 * Claudia
-* Dr Yoga
+*   
 * Cynthia: forest
 * HH: mexico
 * HH: IL & AL fees
