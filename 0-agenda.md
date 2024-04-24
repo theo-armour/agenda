@@ -29,7 +29,7 @@
 **Soon**
 
 * ?
-* HH: map
+* HH: map out
 * HH: Res Dir
 * Bernie: visit
 * Mia: wedding talks ~ 511
