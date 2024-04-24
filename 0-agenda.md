@@ -16,6 +16,8 @@
 
 **Today**
 
+* Claudia
+* Midge
 * Cynthia: forest
 * HH: mexico
 * HH: IL & AL fees
