@@ -8,8 +8,7 @@
 
 **Today**
 
-* Claudia
-* HH: mexico
+* HH: Mxico  
 * HH: IL & AL fees
 * RC: minutes
 * Jason C & Quentin
