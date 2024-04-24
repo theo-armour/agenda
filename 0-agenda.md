@@ -18,6 +18,7 @@
 
 * Claudia
 * Midge
+* Dr Yoga
 * Cynthia: forest
 * HH: mexico
 * HH: IL & AL fees
@@ -46,7 +47,7 @@
 
 ***
 
-### <a href="" style="font-size: 15.6px; font-weight: normal;">0.1 taxes</a>  
+### <a href="" style="font-size: 15.6px; font-weight: normal;">0.1 taxes</a>
 
 * ?
 
