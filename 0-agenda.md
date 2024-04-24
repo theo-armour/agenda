@@ -2,9 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-*   
-*   
-* 2024-04-24 ~ On the whole, I believe patriarchal society is trying its best to improve
+* 2024-04-24 ~ On the whole, I believe patriarchal society is trying its best to improve  
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -174,6 +172,10 @@ May
 * ? 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-services/0-services.md&quot;">3.1.2 services</a>
+
+\* Carpet cleaning machine needs looking at
+
+\* Chip: needs testing on navigation and phone ~ good phonw ~ map and emergency number on phone home page ~ charger and holder in van
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-wellness/0-wellness.md&quot;">3.1.2 wellness</a>
 
