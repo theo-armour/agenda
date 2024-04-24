@@ -17,7 +17,6 @@
 **Today**
 
 * Claudia
-* Midge
 * Dr Yoga
 * Cynthia: forest
 * HH: mexico
