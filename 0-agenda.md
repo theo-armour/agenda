@@ -19,8 +19,7 @@
 **Soon**
 
 * ?
-* HH floor plans: to Front Office
-* HH: Res Dir
+*   
 * Bernie: visit
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
