@@ -30,15 +30,14 @@
 * HH: map  
 * HH: Res Dir
 * Bernie: visit
-* iqLand: building codes ~ pdf AI
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Eloise: Silver: send it
-*   
+* 2am club
 
 ## Taskettes
 
-*   
+* HH campus plan: edit bitmaps
 * TIDradio: 
 * Tiller: PayPal deposits
 
@@ -118,6 +117,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
 
 * ??
+* iqLand: building codes ~ pdf AI
 * Quentin
 * Myint: thanks + photos + JW BL
 * Tu Phone ~ copilot
