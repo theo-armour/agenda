@@ -12,7 +12,7 @@
 * HH: IL & AL fees
 * RC: minutes
 * Jason C & Quentin
-* Olga: look into Mere Mortals Encore
+*   
 
 **Soon**
 
