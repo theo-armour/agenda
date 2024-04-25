@@ -8,9 +8,8 @@
 
 **Today**
 
-* HH: Calendar
-* Angela Lee
-* HH: Mexico  
+*   
+* HH: Mexico
 * HH: IL & AL fees
 * RC: minutes
 * Jason C & Quentin
@@ -29,7 +28,6 @@
 * IDradio: view video
 * Josh: estimated payments
 * Tiller: PayPal deposits
-*   
 
 ***
 
