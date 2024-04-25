@@ -1,7 +1,8 @@
 # IRS
 
 * https://www.irs.gov/
-* https://sa.www4.irs.gov/icce-core/loac/ippin/pages/ippin.xhtml
+* https://www.irs.gov/your-account
+* https://sa.www4.irs.gov/secureaccess/ui/
 * Identity Protection PIN (IP PIN): 757868
 
 

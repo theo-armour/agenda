@@ -2,6 +2,10 @@
 
 * https://theo-armour.github.io/agenda/readme.html#4-3-hardware/framework-laptop.md
 
+## Investment
+
+* https://frameworkcomputer.typeform.com/community-round
+
 ## Links
 
 * https://frame.work/

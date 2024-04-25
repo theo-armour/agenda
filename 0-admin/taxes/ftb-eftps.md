@@ -1,4 +1,4 @@
-# EFTPS FTB
+# FTB-EFTPS
 
 ## EFTPS
 
