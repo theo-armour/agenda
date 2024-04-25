@@ -2,35 +2,21 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-03-27 ~ [https://en.wikipedia.org/wiki/Never\_complain,\_never\_explain](https://en.wikipedia.org/wiki/Never_complain,_never_explain)
-* \* 2024-04-02 ~ NYT: "middle finger politics"
-* 2024-04-05 ~ Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
-* 2024-04-05 ~ [https://en.wikipedia.org/wiki/Hitchens%27s\_razor](https://en.wikipedia.org/wiki/Hitchens%27s_razor) ~ "what can be asserted without evidence can also be dismissed without evidence."
-* 2024-04-07 ~ [https://fs.blog/worst-day/](https://fs.blog/worst-day/) \_ you're only as good as your worst day
-* 2024-04-08 ~ Information is the inverse of entropy.
-* 2024-04-12 ~ Regrets: not drawing enough ~ not taking enough photos ~ even not writing enough when I was young
-* 2024-04-16 ~ A negative thought coming in cannot be "unseen", but you can choose not to dwell upon the thought.
-* 2024-04-20 ~ Usa AI to interview old people in order to generate more content
+* 2024-04-24 ~ On the whole, I believe patriarchal society is trying its best to improve
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 **Today**
 
-* Claudia
-* Midge
-* Cynthia: forest
-* HH: mexico
+* HH: Mxico  
 * HH: IL & AL fees
 * RC: minutes
-* Josh: estimated payments
 * Jason C & Quentin
-* Tax payments
+* Olga: look into Mere Mortals Encore
 
 **Soon**
 
 * ?
-* HH: map
-* HH: Res Dir
 * Bernie: visit
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
@@ -39,14 +25,14 @@
 
 ## Taskettes
 
-* HH campus plan: edit bitmaps
-* TIDradio: 
+* IDradio: view video
+* Josh: estimated payments
 * Tiller: PayPal deposits
 * SW: esomeprazole ~ beer
 
 ***
 
-### <a href="" style="font-size: 15.6px; font-weight: normal;">0.1 taxes</a>  
+### <a href="" style="font-size: 15.6px; font-weight: normal;">0.1 taxes</a>
 
 * ?
 
@@ -70,7 +56,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 health</a>
 
 * ?
-* Dr Fassett: appointment
+* Dr Fassett: appointment 415-353-7800
 * Dr Reyes: appointm0nt
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 simplicity</a>
@@ -118,6 +104,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
 
 * ??
+* Ronan: DWA policies 
 * iqLand: building codes ~ pdf AI
 * Quentin
 * Myint: thanks + photos + JW BL
@@ -180,6 +167,9 @@ May
 * ? 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-services/0-services.md&quot;">3.1.2 services</a>
+
+* Carpet cleaning machine needs looking at
+* Chip: needs testing on navigation and phone ~ good phonw ~ map and emergency number on phone home page ~ charger and holder in van
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-wellness/0-wellness.md&quot;">3.1.2 wellness</a>
 
