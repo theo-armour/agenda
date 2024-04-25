@@ -8,11 +8,12 @@
 
 **Today**
 
+* HH: Calendar
+* Angela Lee
 * HH: Mexico  
 * HH: IL & AL fees
 * RC: minutes
 * Jason C & Quentin
-*   
 
 **Soon**
 
