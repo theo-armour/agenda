@@ -9,7 +9,7 @@
 
 **Today**
 
-*   
+* HH newsletter: start
 * HH: Mexico
 * HH: IL & AL fees
 * RC: minutes
@@ -26,7 +26,7 @@
 
 ## Taskettes
 
-* IDradio: view video
+* IDradio: download weather
 * Josh: estimated payments
 * Tiller: PayPal deposits
 
