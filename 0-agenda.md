@@ -3,6 +3,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * 2024-04-24 ~ On the whole, I believe patriarchal society is trying its best to improve
+* 2024-04-25 ~ I create a lot of conjectures: an opinion or supposition about (something) on the basis of incomplete information
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -21,7 +22,7 @@
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Eloise: Silver: send it
-* 2am club
+*   
 
 ## Taskettes
 
