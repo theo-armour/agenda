@@ -11,6 +11,67 @@
 * Details to Claudia / Packing / Manifest?
 
 
+## 2024-04-25 ~ superconnectors.io
+
+### Links
+
+* https://www.amazon.com/Superconnector-Networking-Building-Business-Relationships/dp/0738219967
+* https://www.businessofbusiness.com/articles/who-the-real-superconnectors-are-and-why-you-should-become-one/
+* https://www.networkwise.com/superpowers-of-a-super-connector/
+* https://www.entrepreneur.com/starting-a-business/4-habits-of-a-super-connector/247896
+* https://getdex.com/blog/super-connector/
+* https://www.entrepreneur.com/starting-a-business/superconnectors-3-steps-to-becoming-a-networking-genius/308618
+
+### Opener
+
+I'm no expert. I'm a beginner.
+
+Here are some of my my theories
+
+I'm making up as I go along
+
+Here are some of my ideas
+
+## Get a platform / Generate content
+
+### Public speaking
+
+* Because I'm up here and speaking to you - in a few minutes - you all know me
+* When we chat afterwards, ity wil be like chatting to somebody you know
+* Maybe you are not a speaker, but perhaps you write a blog, or you are a podcaster, or you are a YouTuber. Generating content is a way to connect with people.
+* A checkbook is a good as content
+* A chateau in the country is as good as content
+* Knowing a good place to find mushrooms
+
+## Your address book is your net worth
+
+* The people you know are the people who can help you
+* Your subscriber list
+* get that phone number
+* Business cards are still a thing
+
+
+## Social networks help but
+
+* Your meetups
+
+## Connecting: Invite, invite, invite
+
+* It's for fun
+* A lunch together, a game of volleyball, a walk in the park
+* Create outside shared experiences
+
+## I'm not selling you anything - except for superconnection of course
+
+* We are not selling to each other
+* We are a fan club
+* We are a support group
+* We are a network of people who can help each other
+
+## https://www.ted.com/
+
+
+
 ## 2024-04-04
 
 ### [Recraft](https://invigorated-curiosity-028524.framer.app/)
