@@ -9,7 +9,7 @@
 
 **Today**
 
-* HH newsletter: start
+* HH newsletter: develop
 * HH: Mexico
 * HH: IL & AL fees
 * RC: minutes
@@ -22,7 +22,6 @@
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Eloise: Silver: send it
-*   
 
 ## Taskettes
 
