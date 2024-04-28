@@ -11,15 +11,19 @@
 
 **Today**
 
-* HH newsletter: develop
-* HH: Mexico
-* HH: IL & AL fees
-* RC: minutes
-* Jason C & Quentin
+* HH: Editorial
+* HH: Miscellany
+* HH: Mexico ~ Sheila
+* Sunil
+* Claufia
 
 **Soon**
 
 * ?
+* HH: IL & AL fees
+* RC: minutes
+* Jason C & Quentin
+* Alix: Google Fi
 * Sunil
 * Bernie: visit
 * Mia: wedding talks ~ 511
