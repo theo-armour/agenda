@@ -4,6 +4,7 @@
 
 * 2024-04-24 ~ On the whole, I believe patriarchal society is trying its best to improve
 * 2024-04-25 ~ I create a lot of conjectures: an opinion or supposition about (something) on the basis of incomplete information
+* 2024-04-27 For the Pythagoreans and later greeks, the sphere held a special significance as “the most complete theophany”. 
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
