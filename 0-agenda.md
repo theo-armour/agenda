@@ -30,6 +30,7 @@
 * IDradio: download weather
 * Josh: estimated payments
 * Tiller: PayPal deposits
+* Safeway: wipes ~ olives
 
 ***
 
