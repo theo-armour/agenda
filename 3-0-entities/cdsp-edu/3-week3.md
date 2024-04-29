@@ -1,7 +1,6 @@
 # Week 3 Diaconal Hermeneutics
 
 
-
 ## to The Hanover Report
 
 * https://www.anglicancommunion.org/media/102181/the_hanover_report.pdf
@@ -21,7 +20,6 @@ This book is a highly readable, comprehensive study that has established itself 
 by W. Shawn McKnight
 
 ## Charism
-
 
 In the Catholic tradition, charism is a spiritual gift or grace given to Christians by the Holy Spirit to help them represent Christ and be a channel of God's goodness for others. Charisms are also known as "favor" or "gratuitous gift" in the New Testament, and come from the Greek word charis.
 
@@ -106,9 +104,6 @@ I imagine that these qualities will appear again in our diaconal studies.
 ## to The Hanover Report
 
 * https://www.anglicancommunion.org/media/102181/the_hanover_report.pdf
-
-
-
 
 
 ## Lima Report; Baptism, Eucharist, and Ministry

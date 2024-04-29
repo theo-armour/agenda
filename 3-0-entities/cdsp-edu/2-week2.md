@@ -57,9 +57,11 @@ Alright! Imagine church is like a big family where everyone comes together to le
 * https://en.wikipedia.org/wiki/Papal_supremacy
 * https://en.wikipedia.org/wiki/Christianity_in_the_20th_century#Second_Vatican_Council
 
+
 ## to The Hanover Report
 
 * https://www.anglicancommunion.org/media/102181/the_hanover_report.pdf
+
 
 ### ChatGPT
 

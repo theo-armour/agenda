@@ -65,7 +65,6 @@ Win 10 Home
 
 BIOS Update and Recovery Instructions for Intel® NUCs with the Aptio® V UEFI Firmware Core
 * https://www.intel.com/content/www/us/en/support/articles/000033291/intel-nuc.html
-
 * https://www.intel.com/content/www/us/en/support/articles/000005508/intel-nuc.html
 * https://www.intel.com/content/www/us/en/support/articles/000058155/intel-nuc.html
 

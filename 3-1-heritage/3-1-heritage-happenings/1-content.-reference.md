@@ -89,10 +89,10 @@
 
 ### May
 
+* Cinco de Mayo
 * Asian Pacific American Heritage Month
 * Memorial Day
 * Mother's Day
-* Cinco de Mayo
 
 
 ### June
