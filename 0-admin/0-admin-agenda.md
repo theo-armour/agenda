@@ -2,11 +2,7 @@
 
 ## Actions
 
-* ?
-* aidVantage: restart payments
-* Paypal: update primary bank account? try again
-
-## Chase
+* ?Chase
 
 * Chase?
 
@@ -21,7 +17,7 @@
 
 ## Tiller
 
-~ https://www.tillerhq.com/
+~ [https://www.tillerhq.com/](https://www.tillerhq.com/)
 
 * Tiller: import 2nd CSV
 * Tiller: categories 
@@ -29,7 +25,7 @@
 
 ## Loans AidVantage
 
-* Pay loans ~ Total Current Balance: $56,781.84
+* Pay loans starting in June
 
 ## Expense Tracking
 
@@ -38,11 +34,16 @@
 
 ## Waiting ~ Confirm?
 
-* Eastern Bank: Confirm funds sent to Chase (March '24)
-* Stop AI monthlies < confirm
+* Stop AI monthlies < confirm  
 * Stop Samsung insurance
 
 ## Change Log
+
+### 2024-04-29
+
+* aidVantage: restart payments
+* Paypal: update primary bank account? try again
+* Eastern Bank: Confirm funds sent to Chase (March '24)
 
 ### 2024-03-01
 
