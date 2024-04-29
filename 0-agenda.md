@@ -22,21 +22,19 @@
 * ?
 * HH: IL & AL fees
 * RC: minutes
-* Tik: CSV 
+* Til: CSV 
 * Jason C & Quentin
 * Alix: Google Fi
-* Sunil
-* Bernie: visit
+* Bernie: lunch
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Eloise: Silver: send it
 
 ## Taskettes
 
-* IDradio: download weather
-* Josh: estimated payments
+* Josh: estimated payments  
 * Tiller: PayPal deposits
-* Safeway: wipes ~ olives
+* Safeway: wipes ~ olives ~ ipa
 
 ***
 
