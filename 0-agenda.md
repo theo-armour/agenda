@@ -12,10 +12,10 @@
 **Today**
 
 * HH: Editorial
-* HH: Miscellany
-* HH: Mexico ~ Sheila
+* HH: send draft
 * Sunil
-* Claufia
+* Claudia
+* Bernie: lunch
 
 **Soon**
 
@@ -25,7 +25,6 @@
 * Til: CSV 
 * Jason C & Quentin
 * Alix: Google Fi
-* Bernie: lunch
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Eloise: Silver: send it
