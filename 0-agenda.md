@@ -11,11 +11,10 @@
 
 **Today**
 
-* HH: Editorial
+* HH: Editorial w/eleanor
 * HH: send draft
 * Sunil
 * Claudia
-*   
 
 **Soon**
 
