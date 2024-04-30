@@ -51,7 +51,7 @@ Nothing in the events of the time would suggest that a literal approach to scrip
 But if - in this current era - if you are trying to entice a "a relatively young, bright congregation" to listen to your sermon, you might choose a allegorical/mystical approach over a literal one. Because it's currently all about influencers, marketing and fashion.
 
 
-## Teext ~ Hermeneutics
+## Text ~ Hermeneutics
 The Archbishop of Canterbury has been calling for the development of a consensus understanding of what constitutes an Anglican hermeneutic. If I recall correctly, I think the last Lambeth Conference did as well. I'm not at all convinced that there _is_ an Anglican hermeneutic - at least not at this particular moment in history, but I think the fact that we're calling for one is a tacit admission that we feel the lack of reasonably broad consensus about how to approach biblical texts in the 21st century.
 I stumbled across a note on an online forum a few months ago that was essentially a request for more information about the Alexandrian model of hermeneutics vs. an Antiochian one. The idea was that the Antiochian method was more literal, the Alexandrian more allegorical. I've been thinking about that since I read it. I don't think there's a neat division into two schools - that's a little simplistic to say the least - but the idea that maybe its time to rethink our feelings about allegorical understandings of scripture has stuck with me.
 Diana Butler Bass came out to visit us in Phoenix this past Spring and she commended our Cathedral on the good work we were doing re-traditioning our message and preaching of the Gospel. I think she's absolutely right that we need to focus on doing this - it's a piece with finding a new approach to the Atonement isn't it?

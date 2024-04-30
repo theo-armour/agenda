@@ -73,6 +73,7 @@ You are likely to have some questions beyond the ones set for this weeks work. U
 
 https://www.churchpublishing.org/siteassets/pdf/book-of-common-prayer/book-of-common-prayer-2006.pdf
 
+
 ## Teasing out Emphasis and Qualities
 
 As a direct response to Rod's question Melissa's response says it all.
