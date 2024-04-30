@@ -1,5 +1,13 @@
 # 2024-05-heritage-happenings-text.md
 
+Roxana Lara <rlara@heritagesf.org>,
+Stephen Camarota <scamarota@heritagesf.org>,
+Jeanne DeMeio <jdemeio@heritagesf.org>,
+Patti Gallagher <pgallagher@heritagesf.org>,
+Front Office <FrontOffice@heritagesf.org>,
+happenings@heritage.groups.io
+Patrick Alexander <baimp@earthlink.net>,
+Eleanor Bissell <eabissellsf@gmail.com>
 ## Doris
 
 Margaret's Shorts - What you've been missimg! What do
@@ -7,15 +15,8 @@ you know about The Republic of Vermont? Clara Bow? The
 origin of the word dunce? Every Saturday at 3:00 pm, in the
 McGinley Room. Be smart! Be there!
 
-
-Help Wanted! The last Art Committee has shrunk. We have one
-person left - one Curator (Doris Howard) - who needs help. The
-exhibit in the Tony Lawrence Gallery has been due to come own
-for a long time. Volunteers are needed to take down one exhibit
-and put up another. Doris can plan it but needs volunteeers to
-pull out push pins and then push them back in for a new show.
-Please help. Small demands on your time and no experience
-needed. See Doris.
+Hello can you hear me now testing testing 123 is the new microphone working yes it is
+Can you hear me now
 ## Stephen
 
 May 3 ~ The Mask of Zorro ~ 1995 ~ 2hrs 17m
