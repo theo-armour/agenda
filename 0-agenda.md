@@ -20,13 +20,12 @@
 
 * ?
 * HH: BoD
-*   
 * Til: Chirp csv
 * Jason C & Quentin
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Eloise: Silver: send it
-* Gimal: fix
+* Gimnal: fix
 
 ## Taskettes
 
