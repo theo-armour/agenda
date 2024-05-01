@@ -15,6 +15,14 @@
 * Alix: Google Fi
 * Claudia
 
+<details>
+<summary>Summary</summary>
+
+* Conceptualizing random endpoints 
+* Document-centric projections.
+
+</details>
+
 **Soon**
 
 * ?
