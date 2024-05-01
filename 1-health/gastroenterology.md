@@ -1,4 +1,4 @@
-# Colon
+# Gastroenterology
 
 Next colonoscopy in 2024
 
