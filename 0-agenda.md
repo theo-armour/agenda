@@ -11,27 +11,31 @@
 
 **Today**
 
-*   
-* Sunil
+**\* S**unil
+
+* Alix: Google Fi
 * Claudia
 
 **Soon**
 
 * ?
-* HH: IL & AL fees
-* RC: minutes
-* Til: CSV 
+* HH: BoD
+* Patrick: Lurie invite
+* Til: Chirp csv
 * Jason C & Quentin
-* Alix: Google Fi
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Eloise: Silver: send it
+* Gimal: fix
 
 ## Taskettes
 
+* Sort Heritage files
 * Josh: estimated payments
 * Tiller: PayPal deposits
-*   
+* Archive to OneDrive
+* Open Mail
+* Thinking for yourself: cheat sheet
 
 ***
 
@@ -130,6 +134,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
 
 * ?
+* Adesk: Val, jessica, brad, Jerry
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * John Walker: Roxie
 
@@ -139,14 +144,12 @@
 
 * ?
 * Ayon: residents folder
-* Vada: email
+* NancyO: services directory
 * Cortez: lunch
 * HH Patti G: 4th floor screen isa JM?
-* HH campus map: png clean up
-* Chritina: RC exec committee to be informed of RCFE statutes and obligations
+* * Chritina: RC exec committee to be informed of RCFE statutes and obligations
 * Xfinity: Demian: upload speeds
 * Martha N: small charges
-* Christina: compare w/ towers
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 
@@ -155,8 +158,7 @@
 May
 
 * HH: Millionaire donor?
-* HH: mexico
-* HH: CTO
+* * HH: CTO
 * RC: minutes
 * Reminders
 
@@ -205,7 +207,7 @@ May
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations repos</a>
 
 * ?
-* AI: Which Wiki category?
+* AI: App for which Wiki category? tags?
 * List of all my GitHub orgs and repos
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
