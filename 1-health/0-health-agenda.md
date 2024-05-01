@@ -39,48 +39,4 @@ Martha Nkhoma
 
 ## Lists
 
-<details>
-<summary>Health List</summary>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-dental-teeth.md&quot;">1.1 Health Dental Teeth</a>
-<br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-history.md&quot;">1.1 Health History</a>
-<br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-insurance.md&quot;">1.1 Health Insurance</a>
-<br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-journal.md&quot;">1.1 Health Journal</a>
-<br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-providers.md&quot;">1.1 Health Providers</a>
-<br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a>
-<br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-suppliers.md&quot;">1.1 Health Suppliers</a>
-<br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pt-exercise-routines-daily.md&quot;">1.2 PT Exercises Daily</a>
-<br>
-<details>
-
-## Not to forget
-
-* Brian Trieu-Mallari ~ Sutter PT dude ~ gadget-aware
-* C-Dental: stl & dicom
-* C Dental ~ 415-421-1389 ~ 450 Sutter St ~ #1542
-* Dr Warney: send simple STL ~ cancel contract
-* Refactor history and reference
-* Squegg paper finished
-* Dr Vallone?
-* ValueMed Sign-up??
-* POLST ~ Physician Orders for Life-Sustaining Treatment ~ see Manatt
-* Look at insurance / Lynn
-
-## Reminders
-
-* Ear wax clinic ~ In progress!!
-* Massage groin
-* Continue Kegel exercises
-* Use the tweezers!
-* Trim Ear & Nose hair
-* Toe exercises
-
-***
-
-<center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);">❦</a></center>
+<details open=""><summary>Health List</summary> <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-dental-teeth.md&quot;">1.1 Health Dental Teeth</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-history.md&quot;">1.1 Health History</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-insurance.md&quot;">1.1 Health Insurance</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-journal.md&quot;">1.1 Health Journal</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-providers.md&quot;">1.1 Health Providers</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-suppliers.md&quot;">1.1 Health Suppliers</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pt-exercise-routines-daily.md&quot;">1.2 PT Exercises Daily</a><br><details><p></p><h2 id="nottoforget">Not to forget</h2><ul><li>Brian Trieu-Mallari ~ Sutter PT dude ~ gadget-aware</li><li>C-Dental: stl &amp; dicom</li><li>C Dental ~ 415-421-1389 ~ 450 Sutter St ~ #1542</li><li>Dr Warney: send simple STL ~ cancel contract</li><li>Refactor history and reference</li><li>Squegg paper finished</li><li>Dr Vallone?</li><li>ValueMed Sign-up??</li><li>POLST ~ Physician Orders for Life-Sustaining Treatment ~ see Manatt</li><li>Look at insurance / Lynn</li></ul><h2 id="reminders">Reminders</h2><ul><li>Ear wax clinic ~ In progress!!</li><li>Massage groin</li><li>Continue Kegel exercises</li><li>Use the tweezers!</li><li>Trim Ear &amp; Nose hair</li><li>Toe exercises</li></ul><hr><p></p><center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);">❦</a></center><p></p></details></details>
