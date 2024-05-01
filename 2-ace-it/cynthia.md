@@ -2,6 +2,15 @@
 
 * Rio Vista city
 
+Cynthia:
+
+.* is an AI luddite: admirable
+
+Also
+
+* I am 1%er, therefore you are 3%er ~ accept the wealth
+* Less fun to compete with those less fortunate than you ~ the odds are always in your favor
+* Seek adventures instead ~ use the freedom to explore
 
 ## 2024-04-22
 

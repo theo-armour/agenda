@@ -6,8 +6,13 @@ Jeanne DeMeio <jdemeio@heritagesf.org>,
 Patti Gallagher <pgallagher@heritagesf.org>,
 Front Office <FrontOffice@heritagesf.org>,
 happenings@heritage.groups.io
+Angie Lam <>
 Patrick Alexander <baimp@earthlink.net>,
+Trish Otstott <potstott@aol.com>,
+
+More
 Eleanor Bissell <eabissellsf@gmail.com>
+
 ## Doris
 
 Margaret's Shorts - What you've been missimg! What do
