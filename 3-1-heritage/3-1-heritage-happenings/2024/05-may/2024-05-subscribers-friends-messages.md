@@ -81,29 +81,31 @@ May 2024: Heritage Happenings
 
 ***BCC***
 
-Hello family and friends
+Hello Heritage on the Marina family and friends
 
-Your digital copies of the May Heritage Happenings are now available.
+As part of the monthly **Around the World** program, _Heritage Happenings_ visits **Mexico**. Look for the Mexican matador cameo and red and green theme.
 
-Click the following link to view or download the newsletter:
-Heritage Happenings Newsletter
-https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf)
+Click the links below to open your digital copies of the May publications.
 
-Click the following link to view or download the calendar:
-Heritage Happenings Calendar
-https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf
+[_Heritage Happenings_ **Newsletter**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf )
 
-As part of the monthly Around the World feature, we visit Mexico.
+[_Heritage Happenings_ **Calendar**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf)
+
+This month we have added a new publication: [_Heritage Happenings_ **Floor Plans**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-floor-plans.pdf)
+
+
+Cheers,
 
 Theo
 
-Editor and Designer, Heritage Happenings
+Editor and Designer, _Heritage Happenings_
 
-***
+\***
 
-Theo Armour
-415 828 0000
-t.armour@gmail.com
+Theo Armour<br>
+415 828 0000<br>
+t.armour@gmail.com<br>
+<br>
 
 
 ## Team Members
@@ -117,32 +119,30 @@ May 2024: Heritage Happenings
 
 Hello Heritage on the Marina Team Members
 
-Your digital copies of the May Heritage Happenings are now available.
+As part of the monthly **Around the World** program, _Heritage Happenings_ visits **Mexico**. Look for the Mexican matador cameo and red and green theme.
 
-Click the following link to view or download the newsletter:
+Click the links below to open your digital copies of the May publications.
 
-Heritage Happenings Newsletter
-https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf)
+[_Heritage Happenings_ **Newsletter**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf )
 
-Click the following link to view or download the calendar:
-Heritage Happenings Calendar
-https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf
+[_Heritage Happenings_ **Calendar**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf)
 
-A copy of the the Heritage Happenings Residents Directory is attached.
+This month we have added a new publication: [_Heritage Happenings_ **Floor Plans**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-floor-plans.pdf)
 
-This issue contains my third editorial on Aging in Place. I am trying to keep the topic in front of us. This month, the concept of levels of care was introduced - in relation to residents on the Type C Contract. We look into what this means in more detail in the coming months.
+Please feel free to use the Floor Plans publication to help residents, visitors and new team members find their way around the building.
 
-The Around the World Country for May is Mexico.
+Cheers,
 
 Theo
 
-Editor and Designer, Heritage Happenings
+Editor and Designer, _Heritage Happenings_
 
-***
+\***
 
-Theo Armour
-415 828 0000
-t.armour@gmail.com
+Theo Armour<br>
+415 828 0000<br>
+t.armour@gmail.com<br>
+<br>
 
 
 ## Board of Directors
@@ -156,25 +156,27 @@ May 2024: Heritage Happenings
 
 Hello San Francisco Ladies Protection and Relief Society Board of Directors
 
-Your digital copies of the May Heritage Happenings are now available.
+Click the links below to open your digital copies of the May publications.
 
-The May issues features Mexico
+[_Heritage Happenings_ **Newsletter**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf )
 
-Click the following link to view or download the newsletter: Heritage Happenings Newsletter https://heritage-happenings.github.io/happenings-issues/2024/2024-05-heritage-happenings-newsletter.pdf
+[_Heritage Happenings_ **Calendar**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf)
 
-Click the following link to view or download the calendar: Heritage Happenings Calendar https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf
+This month we have added a new publication: [_Heritage Happenings_ **Floor Plans**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-floor-plans.pdf)
 
-Happy Saint Patrick's Day!
+
+
 
 Theo
 
-Editor and Designer, Heritage Happenings
+Editor and Designer, _Heritage Happenings_
 
-***
+\***
 
-Theo Armour
-415 828 0000
-t.armour@gmail.com
+Theo Armour<br>
+415 828 0000<br>
+t.armour@gmail.com<br>
+<br>
 
 
 
