@@ -2,8 +2,7 @@
 
 ## Actions
 
-* ?Chase
-
+* ?
 * Chase?
 
 ## DWA + Pershing
@@ -34,7 +33,7 @@
 
 ## Waiting ~ Confirm?
 
-* Stop AI monthlies < confirm  
+* Stop AI monthlies < confirm
 * Stop Samsung insurance
 
 ## Change Log
