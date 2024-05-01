@@ -20,7 +20,7 @@
 
 * ?
 * HH: BoD
-* Patrick: Lurie invite
+*   
 * Til: Chirp csv
 * Jason C & Quentin
 * Mia: wedding talks ~ 511
