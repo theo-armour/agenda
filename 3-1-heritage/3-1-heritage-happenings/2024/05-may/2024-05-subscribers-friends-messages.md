@@ -10,28 +10,30 @@ May 2024: Heritage Happenings
 
 Hello Heritage Residents
 
-Here are your digital copies of the May _Heritage_ Happenings.
+As part of the monthly **Around the World** program, _Heritage Happenings_ visits **Mexico**. Look for the Mexican matador cameo and red and green theme.
 
-Click the following shareable link to view or download the newsletter: [_Heritage Happenings_ Newsletter]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf )
+Click the links below to open your digital copies of the May publications.
 
-Click the following shareable link to view or download the calendar: [_Heritage Happenings_ Calendar]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf)
+[_Heritage Happenings_ **Newsletter**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf )
 
-Click the following shareable link to view or download the calendar: [_Heritage Happenings_ Floor Plans]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-floor-plans.pdf)
+[_Heritage Happenings_ **Calendar**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf)
 
-As part of the monthly **Around the World** program, we visit **Mexico**.
+This month we have added a new publication: [_Heritage Happenings_ **Floor Plans**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-floor-plans.pdf)
 
-The _Heritage Happenings_ Residents Directory was also updated this month. Your copy is attached to this email_.
+The _Heritage Happenings_ Residents Directory was also updated this month. Your copy is attached to this email.
+
+Cheers,
 
 Theo
 
 Editor and Designer, _Heritage Happenings_
 
-***
+\***
 
 Theo Armour<br>
 415 828 0000<br>
 t.armour@gmail.com<br>
-
+<br>
 
 ## Family Members
 
@@ -43,15 +45,15 @@ May 2024: Heritage Happenings
 
 Hello Heritage on the Marina family and friends
 
-Your digital copies of the May _Heritage Happenings_ are now available.
+As part of the monthly **Around the World** program, _Heritage Happenings_ visits **Mexico**. Look for the Mexican matador cameo and red and green theme.
 
-As part of the monthly **Around the World** program, we visit **Mexico**. Look for the matador and red and green theme throughout the publication.
+Click the links below to open your digital copies of the May publications.
 
-Click the following shareable link to view or download the newsletter: [_Heritage Happenings_ Newsletter]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf )
+[_Heritage Happenings_ **Newsletter**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf )
 
-Click the following shareable link to view or download the calendar: [_Heritage Happenings_ Calendar]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf)
+[_Heritage Happenings_ **Calendar**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf)
 
-This month we have added a new publication. Click the following shareable link to view or download the calendar: [_Heritage Happenings_ Floor Plans]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-floor-plans.pdf)
+This month we have added a new publication: [_Heritage Happenings_ **Floor Plans**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-floor-plans.pdf)
 
 Please let me know if you have siblings, children, or friends who would like to receive the newsletter. I will be happy to add them to the list.
 
@@ -61,11 +63,12 @@ Theo
 
 Editor and Designer, _Heritage Happenings_
 
-***
+\***
 
 Theo Armour<br>
 415 828 0000<br>
 t.armour@gmail.com<br>
+<br>
 
 
 ## My Family and Friends
