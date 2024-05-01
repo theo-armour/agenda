@@ -2,18 +2,15 @@
 
 ## Actions
 
-* ?Chase
+* Chase
 
-* Chase?
 
 ## DWA + Pershing
 
 * DWA/Josh: note re Estimated payments not sent??
 * DWA: Send Will & Trust docs / Olivia to look
 
-## Eastern Bank
 
-* Eastern Bank?
 
 ## Tiller
 
@@ -34,25 +31,9 @@
 
 ## Waiting ~ Confirm?
 
-* Stop AI monthlies < confirm  
+* Stop AI monthlies < confirm
 * Stop Samsung insurance
 
-## Change Log
-
-### 2024-04-29
-
-* aidVantage: restart payments
-* Paypal: update primary bank account? try again
-* Eastern Bank: Confirm funds sent to Chase (March '24)
-
-### 2024-03-01
-
-* Social Security: payments update
-
-### 2024-02-16
-
-* Tiller: try it 
-* Mint: export 2nd csv
 
 ***
 
