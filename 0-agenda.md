@@ -144,7 +144,7 @@
 
 * ?
 * Ayon: residents folder
-* Vada: email
+*   
 * Cortez: lunch
 * HH Patti G: 4th floor screen isa JM?
 * HH campus map: png clean up
