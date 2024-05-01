@@ -18,8 +18,8 @@
 **Soon**
 
 * ?
-* HH: IL & AL fees
-* RC: minutes
+* HH: BoD
+* HH: Roses?
 * Til: CSV 
 * Jason C & Quentin
 * Alix: Google Fi
