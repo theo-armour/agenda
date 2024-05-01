@@ -11,8 +11,7 @@
 
 **Today**
 
-* HH: Editorial w/eleanor
-* HH: send draft
+*   
 * Sunil
 * Claudia
 
@@ -32,7 +31,7 @@
 
 * Josh: estimated payments
 * Tiller: PayPal deposits
-* Safeway: wipes ~ olives ~ ipa
+*   
 
 ***
 
