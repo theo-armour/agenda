@@ -32,7 +32,7 @@
 
 * Josh: estimated payments
 * Tiller: PayPal deposits
-* Safeway: wipes ~ olives ~ ipa
+*   
 
 ***
 
