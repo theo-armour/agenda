@@ -43,11 +43,15 @@ May 2024: Heritage Happenings
 
 Hello Heritage on the Marina family and friends
 
-Your digital copies of the May Heritage Happenings are now available.
+Your digital copies of the May _Heritage Happenings_ are now available.
 
-Click the following shareable link to view or download the newsletter: [Heritage Happenings Newsletter https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf
+As part of the monthly **Around the World** program, we visit **Mexico**. Look for the matador and red and green theme throughout the publication.
 
-Click the following shareable link to view or download the calendar: [Heritage Happenings Calendar https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf
+Click the following shareable link to view or download the newsletter: [_Heritage Happenings_ Newsletter]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf )
+
+Click the following shareable link to view or download the calendar: [_Heritage Happenings_ Calendar]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf)
+
+This month we have added a new publication. Click the following shareable link to view or download the calendar: [_Heritage Happenings_ Floor Plans]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-floor-plans.pdf)
 
 Please let me know if you have siblings, children, or friends who would like to receive the newsletter. I will be happy to add them to the list.
 
@@ -55,13 +59,13 @@ Cheers,
 
 Theo
 
-Editor and Designer, Heritage Happenings
+Editor and Designer, _Heritage Happenings_
 
 ***
 
-Theo Armour
-415 828 0000
-t.armour@gmail.com
+Theo Armour<br>
+415 828 0000<br>
+t.armour@gmail.com<br>
 
 
 ## My Family and Friends
