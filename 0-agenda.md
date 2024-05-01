@@ -15,13 +15,7 @@
 * Alix: Google Fi
 * Claudia
 
-<details>
-<summary>Summary</summary>
-
-* Conceptualizing random endpoints 
-* Document-centric projections.
-
-</details>
+<details open=""><summary>Summary</summary><p></p><ul><li>Conceptualizing random endpoints</li><li>Document-centric projections.</li><li>oooo</li></ul><div><br></div><div>### try</div><div><br></div><p></p></details>
 
 **Soon**
 
@@ -155,7 +149,7 @@
 * NancyO: services directory
 * Cortez: lunch
 * HH Patti G: 4th floor screen isa JM?
-* * Chritina: RC exec committee to be informed of RCFE statutes and obligations
+* \* Chritina: RC exec committee to be informed of RCFE statutes and obligations
 * Xfinity: Demian: upload speeds
 * Martha N: small charges
 
@@ -166,7 +160,7 @@
 May
 
 * HH: Millionaire donor?
-* * HH: CTO
+* \* HH: CTO
 * RC: minutes
 * Reminders
 
