@@ -11,8 +11,7 @@
 
 **Today**
 
-* HH: Editorial w/eleanor
-* HH: send draft
+*   
 * Sunil
 * Claudia
 
