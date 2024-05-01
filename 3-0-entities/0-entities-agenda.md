@@ -8,7 +8,7 @@
 
 * cubism 3.0 post
 
-## Endiatx ~ https://endiatx.com
+## Endiatx ~ [https://endiatx.com](https://endiatx.com)
 
 * Message reply
 
@@ -31,10 +31,10 @@
 
 ## Syracuse
 
-* Sracuse: Login
+* Syracuse: Login
 * Syracuse: Check donations
 
-## WSD ~ https://websightdesign.com
+## WSD ~ [https://websightdesign.com](https://websightdesign.com)
 
 * WSD: Gustav??
 
