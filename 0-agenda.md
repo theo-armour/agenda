@@ -11,8 +11,7 @@
 
 **Today**
 
-**\* S**unil
-
+* Sunil
 * Alix: Google Fi
 * Claudia
 
@@ -36,10 +35,11 @@
 * Archive to OneDrive
 * Open Mail
 * Thinking for yourself: cheat sheet
+* Hyperkinesis
 
 ***
 
-### <a href="" style="font-size: 15.6px; font-weight: normal;">0.1 taxes</a>
+### 0.1 taxes<
 
 * ?
 
