@@ -11,27 +11,32 @@
 
 **Today**
 
-*   
-* Sunil
-* Claudia
+  
+
+**\* S**unil
+
+\* Alix: Google Fi
+
+\* Claudia
 
 **Soon**
 
 * ?
 * HH: BoD
-* HH: Roses?
-* Til: CSV 
+* Patrick: Lurie invite
+* Til: Chirp csv
 * Jason C & Quentin
-* Alix: Google Fi
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Eloise: Silver: send it
 
 ## Taskettes
 
+* Sort Heritage files
 * Josh: estimated payments
 * Tiller: PayPal deposits
-*   
+* Open Mail
+* Thinking for yourself: cheat sheet
 
 ***
 
