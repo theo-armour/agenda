@@ -147,11 +147,10 @@
 *   
 * Cortez: lunch
 * HH Patti G: 4th floor screen isa JM?
-* HH campus map: png clean up
+*   
 * Chritina: RC exec committee to be informed of RCFE statutes and obligations
 * Xfinity: Demian: upload speeds
 * Martha N: small charges
-* Christina: compare w/ towers
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 
@@ -160,7 +159,7 @@
 May
 
 * HH: Millionaire donor?
-* HH: mexico
+*   
 * HH: CTO
 * RC: minutes
 * Reminders
