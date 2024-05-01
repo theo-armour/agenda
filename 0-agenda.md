@@ -9,14 +9,14 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
-**Today**
+### Today
 
 * Sunil
 * Stela Hello
 * Alix: Google Fi
 * Claudia
 
-**Soon**
+### Soon
 
 * ?
 * HH: BoD
@@ -27,7 +27,7 @@
 * Eloise: Silver: send it
 * Gimnal: fix
 
-## Taskettes
+### Taskettes
 
 * Sort Heritage files
 * Josh: estimated payments
@@ -39,18 +39,27 @@
 
 ***
 
-### 0.1 taxes
+### Admin
 
 * ?
-
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will trust</a>
-
-* ?
-
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 admin personal</a>
-
 * SW:
 * A: 
+
+<details>
+<summary>Summary</summary>
+
+* Conceptualizing random endpoints
+* Document-centric projections.
+
+</details>
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will trust</a><br>
+
+* ?
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 admin personal</a><br>
+
+
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly</a>
 
