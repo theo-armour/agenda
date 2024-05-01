@@ -35,6 +35,7 @@
 * Sort Heritage files
 * Josh: estimated payments
 * Tiller: PayPal deposits
+* Archive to OneDrive
 * Open Mail
 * Thinking for yourself: cheat sheet
 
@@ -135,6 +136,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
 
 * ?
+* Adesk: Val, jessica, brad, Jerry
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * John Walker: Roxie
 
@@ -144,7 +146,7 @@
 
 * ?
 * Ayon: residents folder
-*   
+* NancyO: services directory
 * Cortez: lunch
 * HH Patti G: 4th floor screen isa JM?
 *   
@@ -209,7 +211,7 @@ May
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations repos</a>
 
 * ?
-* AI: Which Wiki category?
+* AI: App for which Wiki category? tags?
 * List of all my GitHub orgs and repos
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
