@@ -10,30 +10,27 @@ May 2024: Heritage Happenings
 
 Hello Heritage Residents
 
-Your digital copies of the May Heritage Happenings are now available.
+Here are your digital copies of the May _Heritage_ Happenings.
 
-Click the following shareable link to view or download the newsletter:
+Click the following shareable link to view or download the newsletter: [_Heritage Happenings_ Newsletter]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf )
 
-Heritage Happenings Newsletter
-https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf
+Click the following shareable link to view or download the calendar: [_Heritage Happenings_ Calendar]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf)
 
-Click the following shareable link to view or download the calendar:
-Heritage Happenings Calendar
-https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf
+Click the following shareable link to view or download the calendar: [_Heritage Happenings_ Floor Plans]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-floor-plans.pdf)
 
-As part of the monthly Around the World feature, we visit Mexico.
+As part of the monthly **Around the World** program, we visit **Mexico**.
 
-The Heritage Happenings Residents Directory was updated this month. Your copy is attached to this email.
+The _Heritage Happenings_ Residents Directory was also updated this month. Your copy is attached to this email_.
 
 Theo
 
-Editor and Designer, Heritage Happenings
+Editor and Designer, _Heritage Happenings_
 
 ***
 
-Theo Armour
-415 828 0000
-t.armour@gmail.com
+Theo Armour<br>
+415 828 0000<br>
+t.armour@gmail.com<br>
 
 
 ## Family Members
