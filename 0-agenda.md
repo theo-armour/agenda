@@ -11,9 +11,8 @@
 
 **Today**
 
-  
+**\* S**unil
 
-* Sunil
 * Alix: Google Fi
 * Claudia
 
@@ -27,6 +26,7 @@
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
 * Eloise: Silver: send it
+* Gimal: fix
 
 ## Taskettes
 
@@ -147,8 +147,7 @@
 * NancyO: services directory
 * Cortez: lunch
 * HH Patti G: 4th floor screen isa JM?
-*   
-* Chritina: RC exec committee to be informed of RCFE statutes and obligations
+* * Chritina: RC exec committee to be informed of RCFE statutes and obligations
 * Xfinity: Demian: upload speeds
 * Martha N: small charges
 
@@ -159,8 +158,7 @@
 May
 
 * HH: Millionaire donor?
-*   
-* HH: CTO
+* * HH: CTO
 * RC: minutes
 * Reminders
 
