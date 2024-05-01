@@ -13,11 +13,9 @@
 
   
 
-**\* S**unil
-
-\* Alix: Google Fi
-
-\* Claudia
+* Sunil
+* Alix: Google Fi
+* Claudia
 
 **Soon**
 
