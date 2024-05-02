@@ -4,13 +4,11 @@
 
 * Chase
 
-
 ## DWA + Pershing
 
+* Josh: estimated payments
 * DWA/Josh: note re Estimated payments not sent??
 * DWA: Send Will & Trust docs / Olivia to look
-
-
 
 ## Tiller
 
@@ -33,7 +31,6 @@
 
 * Stop AI monthlies < confirm
 * Stop Samsung insurance
-
 
 ***
 
