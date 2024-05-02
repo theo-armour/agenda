@@ -7,16 +7,15 @@
 * 2024-04-27 ~ [https://substack.com/inbox/post/142103098](https://substack.com/inbox/post/142103098) For the Pythagoreans and later Greeks, the sphere held a special significance as “the most complete theophany”. Theophany: encounter with a deity
 * 2024-04-27 ~ Our history is not our destiny. Alan Cohan.
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
-### Today
+## Today
 
 * Sunil
 * Stela Hello
 * Alix: Google Fi
 * Claudia
 
-### Soon
+## Soon
 
 * ?
 * HH: BoD
@@ -27,19 +26,11 @@
 * Eloise: Silver: send it
 * Gimbal: fix
 
-### Taskettes
-
-* Sort Heritage files
-* Josh: estimated payments
-* Tiller: PayPal deposits
-* Archive to OneDrive
-* Open Mail
-* Thinking for yourself: cheat sheet
-* Hyperkinesis
 
 ***
 
-## Admin Agendas
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
+
 
 * ?
 * SW:
@@ -51,6 +42,16 @@
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2034 taxes</a><br>
 </details>
+
+## Personal
+
+* Sort Heritage files
+* Josh: estimated payments
+* Tiller: PayPal deposits
+* Archive to OneDrive
+* Open Mail
+* Thinking for yourself: cheat sheet
+* Hyperkinesis
 
 <details><summary>Personal Agendas</summary>
 
