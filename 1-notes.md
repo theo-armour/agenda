@@ -4,9 +4,9 @@
 
 History is not destiny.
 
-Remembery: a startup dedicated to using AI systems to talk to old people to record their memories for posterity. This will help AI gather more data and help hope people feel more engaged and useful.   
+Remembery: a startup dedicated to using AI systems to talk to old people to record their memories for posterity. This will help AI gather more data and help hope people feel more engaged and useful. 
 
-Liz Nolan: summer with Quaker choir in Mexico 
+Liz Nolan: summer with Quaker choir in Mexico Texting 123 Can you hear me now comma? Question mark I wonder which thing are you using? 
 
 People versus gopal
 
@@ -18,7 +18,7 @@ Nora? 45th artist I need to do it collective co-op okay
 
 Use those arms and hands at night to testiculate for fun and get some exercise and move those bones
 
-  
+
 
 Million dollar donation
 
