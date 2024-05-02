@@ -36,7 +36,6 @@
 
 * SW:
 * A: 
-* Sort Heritage files
 * Archive to OneDrive
 * Open Mail
 
@@ -51,7 +50,7 @@
 * Dr Reyes: appointment: tests?
 * move
 
-<details open=""><summary>Health Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/gastroenterology.md&quot;">gastroenterology</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/ophthalmology.md&quot;">ophthalmology</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">pph</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-history.md&quot;">1.1 Health History</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-insurance.md&quot;">1.1 Health Insurance</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-journal.md&quot;">1.1 Health Journal</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-providers.md&quot;">1.1 Health Providers</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-suppliers.md&quot;">1.1 Health Suppliers</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pt-exercise-routines-daily.md&quot;">1.2 PT Exercises Daily</a><br></p></details>
+<details><summary>Health Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/gastroenterology.md&quot;">gastroenterology</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/ophthalmology.md&quot;">ophthalmology</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">pph</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-history.md&quot;">1.1 Health History</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-insurance.md&quot;">1.1 Health Insurance</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-journal.md&quot;">1.1 Health Journal</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-providers.md&quot;">1.1 Health Providers</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-suppliers.md&quot;">1.1 Health Suppliers</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pt-exercise-routines-daily.md&quot;">1.2 PT Exercises Daily</a><br></p></details>
 
 ***
 
@@ -132,7 +131,8 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage</a>
 
 * ?
-* Ayon: residents folder
+* Sort Heritage files
+* Ayon: residents folder OneDrive
 * NancyO: services directory
 * Cortez: lunch
 * HH Patti G: 4th floor screen isa JM?
