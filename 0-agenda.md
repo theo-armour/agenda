@@ -7,7 +7,6 @@
 * 2024-04-27 ~ [https://substack.com/inbox/post/142103098](https://substack.com/inbox/post/142103098) For the Pythagoreans and later Greeks, the sphere held a special significance as “the most complete theophany”. Theophany: encounter with a deity
 * 2024-04-27 ~ Our history is not our destiny. Alan Cohan.
 
-
 ## Today
 
 * Sunil
@@ -23,14 +22,11 @@
 * Jason C & Quentin
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
-* Eloise: Silver: send it
-*
-
+* Eloise: Silver: send it \*
 
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
-
 
 * ?
 * SW:
