@@ -14,6 +14,7 @@
 
 ~ [https://www.tillerhq.com/](https://www.tillerhq.com/)
 
+* Tiller: PayPal deposits
 * Tiller: import 2nd CSV
 * Tiller: categories 
 * Tiller: Years + donations
