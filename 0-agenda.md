@@ -20,7 +20,7 @@
 * Jason C & Quentin
 * Mia: wedding talks ~ 511
 * Mia: price for editing?
-* Eloise: Silver: send it \*
+*   
 
 ***
 
