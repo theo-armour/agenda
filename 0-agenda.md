@@ -52,7 +52,8 @@
 
 * ?
 
-<details open=""><summary>Simplicity agenda</summary><p></p><ul><li>Start a personal timeline</li><li>Dropbox to oneDrive</li></ul><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a><br></p><ul><li>?</li></ul><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 claudia</a><br></p><ul><li>?</li></ul><p></p></details>
+<details open=""><summary>Simplicity agenda</summary><p></p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a><br>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-claudia-agenda.md&quot;">1.2 claudia</a><br></details>
 
 ***
 

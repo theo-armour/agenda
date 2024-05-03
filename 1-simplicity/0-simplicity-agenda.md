@@ -8,6 +8,7 @@ Armour Collection Item Selector
 
 ## Theo
 
+* Start a personal timeline
 * Spec to Sandberg
 
 ## Claudia
