@@ -3,6 +3,11 @@
 ## Agenda
 
 * ?
+* Adesk: Val, jessica, brad, Jerry
+* Adesk: Eisenberg, Quanci, Michler, Euge Loch
+* John Walker: Roxie
+
+  
 
 ## Ikons
 
