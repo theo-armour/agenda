@@ -16,10 +16,10 @@ Agenda
 
 * [https://www.ucsfhealth.org/providers/dr-marlys-fassett](https://www.ucsfhealth.org/providers/dr-marlys-fassett)
 * [https://profiles.ucsf.edu/marlys.fassett](https://profiles.ucsf.edu/marlys.fassett)
-
-China Basin 4.4 miles Mt Zion 1.8 miles Hours 9 to 5
-
-(415) 353-7800 ~ 2 ~ 1 ~ 1 ~ 2
+* 185 Berry St., Lobby 1, Suite 1000, San Francisco, CA 94107
+* China Basin 4.4 miles Mt Zion 1.8 miles 
+* Hours 9 to 5
+* (415) 353-7800 ~ 2 ~ 1 ~ 1 ~ 2
 
 ## Questions
 
@@ -61,4 +61,4 @@ Places where things grow on head
 
   
 
-\* 2022? ~ Dr Fassett June 1 ~ 2:50
+\* 2023? ~ Dr Fassett June 1 ~ 2:50
