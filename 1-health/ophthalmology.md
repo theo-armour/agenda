@@ -1,10 +1,18 @@
-# eyes
+# ophthalmology eyes
+
+  
+
+## Appointments
+
+  
+
+\* Kresta Tabaranza: 29 June @ 3:30
 
   
 
 ## Agenda
 
-  
+\* What about eye tests?
 
 eyebuydirect
 
