@@ -22,7 +22,13 @@ Emily Eng, OD, FAAO CA Lic: 34749 TLG
 
 UCSF Department of Ophthalmology 490 Illinois Street, Floor 4 San Francisco, CA 94107 Ph: (415) 353-2800 Fax: (415) 514-6925
 
-VISION OPTICAL 500 Parnassus Ave, Level 1 San Francisco, CA 94143 Ph: (415) 476-3100 Fax: (415) 476-3102
+  
+
+## Optometrists
+
+  
+
+\* VISION OPTICAL 500 Parnassus Ave, Level 1 San Francisco, CA 94143 Ph: (415) 476-3100 Fax: (415) 476-3102
 
 ## Marina eyeglasses
 
