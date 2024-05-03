@@ -7,6 +7,11 @@ tags #skin #health #dermatology
 Agenda  
 
 * Dr Fassett: 18 June 3:40 PM
+
+  
+
+## Remember
+
 * Next: add list of interesting things to look at as the first item. Otherwise it is too easy to overlook
 * 4 warts
 * 1 Dermatofibroma
@@ -27,13 +32,13 @@ Agenda
 * What made red skin go away?
 * Rash cream
 * Aquaphor or Eucerin?
+* Identify laces where things grow on head  
 
 ## chatGPT
 
 * what is a good skin cream for the dry skin on the legs of elderly people?
 * what is a better skin cream for the dry skin on the legs of elderly people, Aquaphor or Eucerin?
-
-> It may be helpful to try both Aquaphor and Eucerin to see which one works better
+* ChatGPT: It may be helpful to try both Aquaphor and Eucerin to see which one works better
 
 ## websites
 
@@ -44,16 +49,14 @@ Agenda
 
 ## Generally
 
-* slather with Triamcinolone Acetonide
+* Slather itches with Triamcinolone Acetonide
 * Trying to be skin microbiome aware and friendly
-* Shower every day
+* Shower twice a week
 * No soap no shampoo
 * No abrasives, scratchers or brushing
 * Mostly air dry, a bit of pat drying on unused area of a large towel
 * If it itches, cream it: Aquaphor or Vick's Vapo Rub
 * Mediterranean, MIND diet
-
-Places where things grow on head
 
   
 
