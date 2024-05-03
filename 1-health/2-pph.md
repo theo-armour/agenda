@@ -10,6 +10,7 @@
 Personal Issues
 
 * PPH: Daughters / contacts
+* PPH: Thyroid issues?
 * PPH: Address cholesterol issues
 
 Community Issues
@@ -21,11 +22,10 @@ Community Issues
 * PPH: Elation sucks ~ see paper-in-progress
 * PPH: who to contact re Website issues
 
-
-## Pine Park Health ~ https://pineparkhealth.com
+## Pine Park Health ~ [https://pineparkhealth.com](https://pineparkhealth.com)
 
 * 1144 65th St Ste F, Oakland CA 94608-1053
-* info@pineparkhealth.com
+* [info@pineparkhealth.com](mailto:info@pineparkhealth.com)
 * 510-929-1400 - main number
 * NPI Number: 1346879848
 * Medicare PECOS PAC: ID 0345670527
@@ -33,10 +33,9 @@ Community Issues
 
 ## Gary Richmond NP-C (nurse practitioner - certified)
 
-* https://www.pineparkhealth.com/provider-bios/gary-richmond-np
-* https://twitter.com/garyfnp
-* https://allnurses.com/glossary-nursing-medical-degrees-certifications-allied-t83384/#:~:text=np-C%3A%20a%20Credential%20for%20Nurse%20Practitioners%20in%20All,%28Oncc%29.%20od%3A%20Doctor%20of%20Optometry%20%28See%20Also%20Do%29
-
+* [https://www.pineparkhealth.com/provider-bios/gary-richmond-np](https://www.pineparkhealth.com/provider-bios/gary-richmond-np)
+* [https://twitter.com/garyfnp](https://twitter.com/garyfnp)
+* [https://allnurses.com/glossary-nursing-medical-degrees-certifications-allied-t83384/#:~:text=np-C%3A%20a%20Credential%20for%20Nurse%20Practitioners%20in%20All,%28Oncc%29.%20od%3A%20Doctor%20of%20Optometry%20%28See%20Also%20Do%29](https://allnurses.com/glossary-nursing-medical-degrees-certifications-allied-t83384/#:~:text=np-C%3A%20a%20Credential%20for%20Nurse%20Practitioners%20in%20All,%28Oncc%29.%20od%3A%20Doctor%20of%20Optometry%20%28See%20Also%20Do%29)
 
 ### Kari Cedillo
 
@@ -48,7 +47,6 @@ Community Issues
 * PECOS PAC ID: 6406888999
 * Enrollment ID: I20050906000724
 
-
 ## Humana
 
 * Who?
@@ -56,10 +54,9 @@ Community Issues
 
 ## Communications
 
-* https://www.pineparkhealth.com/articles
-* https://uploads-ssl.webflow.com/634d54b35cb8acda220ba9fc/645407e75cbe597ad32d5bf0_General%20Resident%20Newsletter%20-%20April%202023.pdf
+* [https://www.pineparkhealth.com/articles](https://www.pineparkhealth.com/articles)
+* [https://uploads-ssl.webflow.com/634d54b35cb8acda220ba9fc/645407e75cbe597ad32d5bf0\_General%20Resident%20Newsletter%20-%20April%202023.pdf](https://uploads-ssl.webflow.com/634d54b35cb8acda220ba9fc/645407e75cbe597ad32d5bf0_General%20Resident%20Newsletter%20-%20April%202023.pdf)
 * May June
-
 
 ## Elation Passport
 
@@ -68,4 +65,3 @@ Community Issues
 * No choice of addresses
 * No CC
 * No text formatting
-
