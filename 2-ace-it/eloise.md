@@ -2,8 +2,6 @@
 
 * [https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md](https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md)
 
-  
-
 * Eloise: Silver: send it?
 
 ## 2024-04-06
