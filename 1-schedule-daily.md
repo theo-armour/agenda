@@ -44,7 +44,7 @@ tags #habits
 
 ## First task
 
-\*  "Crowd pleaser" task to start the day ~ note sometheing I adore doing to start the day ~ trick the brain into not spending the morning doomscrolling
+\*  "Crowd pleaser" task to start the day ~ note something I adore doing to start the day ~ trick the brain into not spending the morning doomscrolling
 
 ## Checking messages
 
