@@ -2,17 +2,13 @@
 
 tags #skin #health #dermatology
 
-  
-
-Agenda  
+Agenda
 
 * Dr Fassett: 18 June 3:40 PM
 
-  
-
 ## Remember
 
-* Next: add list of interesting things to look at as the first item. Otherwise it is too easy to overlook
+* Next: add list of interesting things to look at as the first item. Otherwise, it is too easy to overlook
 * 4 warts
 * 1 Dermatofibroma
 * why did red areas on ankles disappear
@@ -32,7 +28,7 @@ Agenda
 * What made red skin go away?
 * Rash cream
 * Aquaphor or Eucerin?
-* Identify laces where things grow on head  
+* Identify laces where things grow on head
 
 ## chatGPT
 
@@ -58,10 +54,6 @@ Agenda
 * If it itches, cream it: Aquaphor or Vick's Vapo Rub
 * Mediterranean, MIND diet
 
-  
-
 ## Change log
 
-  
-
-\* 2023? ~ Dr Fassett June 1 ~ 2:50
+* 2023? ~ Dr Fassett June 1 ~ 2:50
