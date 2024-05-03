@@ -3,7 +3,7 @@
 ## Agenda
 
 * ?
-* Thinking for yourself: cheat sheet
+* \_The Art o Thinking for yourself\_: cheat sheet
 * Update ICE
 * SSA: add Cynthia
 * Medicare: add Cynthia
