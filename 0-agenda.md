@@ -28,7 +28,7 @@
 
 * ?
 
-<details><summary>Admin Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a><br></p></details>
+<details open=""><summary>Admin Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a><br></p></details>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
@@ -70,7 +70,8 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* ?
+* Bee Memorial
+* Cynthia Chase visits
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">alix</a>
 
@@ -86,8 +87,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 family</a>
 
-* ?
-* Silver: send it
+* \>
 
 ***
 
