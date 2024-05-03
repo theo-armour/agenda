@@ -15,7 +15,7 @@
 ## Soon
 
 * ?
-* Kayakomat: share purchase
+*   
 * HH: BoD
 * Til: Chirp csv
 * Jason C & Quentin
