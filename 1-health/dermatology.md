@@ -8,7 +8,7 @@ Agenda
 
 ## Remember
 
-* Next: add list of interesting things to look at as the first item. Otherwise, it is too easy to overlook
+* Next: add a list of interesting things to look at as the first item. Otherwise, it is too easy to overlook
 * 4 warts
 * 1 Dermatofibroma
 * why did red areas on ankles disappear
@@ -17,7 +17,11 @@ Agenda
 
 * [https://www.ucsfhealth.org/providers/dr-marlys-fassett](https://www.ucsfhealth.org/providers/dr-marlys-fassett)
 * [https://profiles.ucsf.edu/marlys.fassett](https://profiles.ucsf.edu/marlys.fassett)
+* Dermatology Clinic at China Basin  
 * 185 Berry St., Lobby 1, Suite 1000, San Francisco, CA 94107
+
+* Dermatology Clinic at Mount Zion
+* 1701 Divisadero St., Third and Fourth Floors, San Francisco, CA 94115
 * China Basin 4.4 miles Mt Zion 1.8 miles 
 * Hours 9 to 5
 * (415) 353-7800 ~ 2 ~ 1 ~ 1 ~ 2
