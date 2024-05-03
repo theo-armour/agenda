@@ -44,7 +44,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 health</a>
 
 * ?
-* Dr Fassett: appointment 415-353-7800
 * Dr Reyes: appointment: tests?
 * move
 
