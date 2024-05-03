@@ -4,6 +4,14 @@
 * minimise.today
 * [https://www.minimise.today/](https://www.minimise.today/)
 
+
+## 2024-05-02
+
+* Shipping: you And Claudia work out the details. I'll pay
+* Super connectors. I I Ready when you are I Hello can you hear me I I  Speech
+* Recraft
+* Cynthia property
+
 ## 2024-04-16
 
 * Google Fi: why?
@@ -32,12 +40,14 @@ I'm making up as I go along
 
 Here are some of my ideas
 
+* https://news.ycombinator.com/item?Shoot Yeah, I mean, this stuff I was thinking about it. If nothing else, it's not about being famous. I think it's always about being a beginner And you're talking to other people that are just also beginners OK, well, II never want to put myself up as an expert. Put it that way. Or I'm, I feel like I'm the least expert of all of them, right? Thank you. And that's older than me and everything. Yeah, and and. But I think if you even talk to them, they would also say they're not experts. Yeah. Yeah And so anybody who says that they're an expert is is baloney Do you feel like I'm staying on the next bird? No, I'm just giving you a point of view I mean, what's important to. because who are you trying to? Who's the keynote for other experts or new people? Well, this is the first time all super connectors unite. OK, right. Or now, are they people that want to be super connectors No, they're the ones who are already have a big network They're already super connectors, and they've been selected, right? OK, and what? And what do you think they're trying to do? Make more money, or or or make a new industry or new life They're the super connectors are there to meet other super connectors and to put their connections at service of startups, right? And in return, they just might meet cool, interesting people. for their own they all have their own critical asks. So they can also, you know, if they're looking for investors or whatever needs to know that everyone there is super well connected, right Yeah, right. And so you're right It's all the Kings and Queens getting together. And I just want to think if that's good or bad, and what happens. and then you can let me know. OK, OK, right. Fair enough. OK, OK, we have so much power in this room. Let's use it for the good and to shape our society, you know, think ofid=40059887
+
 ## Get a platform / Generate content
 
 ### Public speaking
 
 * Because I'm up here and speaking to you - in a few minutes - you all know me
-* When we chat afterwards, ity wil be like chatting to somebody you know
+* When we chat afterwards, it wilHello You're in Chinatown, San Francisco. Yeah, that's right. Yep. And let's see I've turned on captions to see how it records our voice. can you turn on? So let's see. It's C. C. Down at the bottom No, it did not. That's pretty OK. it's I can't. I was, we've had two days of amazing weather. Ohh, good. Ohh, I went out and looked at 5:00 PM to join you for, like, for the boat. So I didn't get much warmth, and now it is a thunderstorm and rain. Ohh, OK, but at least it's night time. It's 8:00 PM. So I definitely enjoyed the weather today. Right? Good. Any sports Lots of sports. I mean, Monday, I did indoor volleyball. We had a match. Tuesday, I played beach bullet beach volleyball. Yesterday, I played tennis. And this morning I went to yoga. OK, ohh, very nice. OK, and I cycled. OK, right. Yeah. And then tomorrow, nothing, and then Sunday tennis. Saturday party. And, yeah, and at the same time, minimize in super connector and everything else. Yeah, you're right. OK, So, but it's pretty tired, but good going with the flow, right? Do we? OK, you know, the happenings is out. So then I'm sort of catching up on things and doing silly, you know, doing stuff that I want to do and or even still have stuff I don't want to do but yes, it's good. Nice nice. II you know, said so many little things, you know, no great out sports. I have not been walking that much. Well, I did not. I did almost 10,000 steps on Wednesday on Monday or whatever. So I am getting some steps and and oh, I'm going upstairs more so. there's 10 flights of stairs yesterday. Wow, that's a lot. Yeah So studies for older pCodes. Yep Or in the app on your phone, there's a Google voice app on your phone. No, no, it says it's not accepted in your country yet So that's why hasn't beyond the browser right or in the app on your phone? No, it's II have it, and it says it's not available on your country Hmm interesting well OK so it has to be on your computer Yeah. So, I mean, I, I feel like I have done this test a while ago. And so I think I can maybe receive, but I'm not sure if I can actually Call and text from your phone to overseas right right. So, but it'll probably once your number has been ported over to Google five, things will change. Yeah, maybe we'll see. Yeah, we'll see, right? OK, but it's good enough to keep all the bank accounts and things going well. Yeah, that's, that's the whole point, right? OK, so how's your super connector speech going Yeah, good. I mean, I made some, some updates today. I worked on the actual speak. I practiced it twice. So getting the flow of things. And, yeah, feeling good. So I was gonna do that for later tonight. OK, and work on that. And then just practice and then find images. So I want to do this the next two weeks Okay So it's all on the still in the same Google Doc. OK, so I should have a look at that
 * Maybe you are not a speaker, but perhaps you write a blog, or you are a podcaster, or you are a YouTuber. Generating content is a way to connect with people.
 * A checkbook is a good as content
 * A chateau in the country is as good as content
