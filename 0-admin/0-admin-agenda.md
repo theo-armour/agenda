@@ -2,7 +2,7 @@
 
 ## Actions
 
-* Chase
+* Kayakomat: share purchase  
 
 ## DWA + Pershing
 
