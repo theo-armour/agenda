@@ -1,9 +1,6 @@
 # PPH
 
-* Non-medical contact?
-* New patients?
-* Contact with Martha
-* Understand Aging in Place model?
+* ?
 
 ## Agenda
 
@@ -13,8 +10,14 @@ Personal Issues
 * PPH: Thyroid issues?
 * PPH: Address cholesterol issues
 
+  
+
 Community Issues
 
+* PPH: Non-medical contact?
+* PPH: New patients?
+* PPH: Contact with Martha
+* PPH: Understand Aging in Place model?
 * PPH: Proceed with dermatology visits
 * PPH: Proceed with ear wax clinic
 * PPH: Three books
@@ -65,3 +68,7 @@ Community Issues
 * No choice of addresses
 * No CC
 * No text formatting
+
+  
+
+## Change Log
