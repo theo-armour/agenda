@@ -76,30 +76,13 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 family</a>
 
-* \>
+* ?
 
 ***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0</a> PEEPS
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 PEEPS</a>
 
-* ??
-* Ronan: DWA policies
-* iqLand: building codes ~ pdf AI
-* Quentin
-* Myint: thanks + photos + JW BL
-* Tu Phone ~ copilot
-* Jason Carman
-* Floris
-* Ashley Emory
-* Jerome: dorkbot ~ art scene ~ mushroom drink
-* Sherry ~ email ~ mexsp
-* Rob&Bennet: Remembery ~ Gusty: puzzle train
-* Marissa ~ meal invite
-* Paul Mason: Aaron
-* Drake Tam: The Key
-* Joe Macleod
-* Nienke
-* Nicolas: First mac??
+* ?
 
 ***
 

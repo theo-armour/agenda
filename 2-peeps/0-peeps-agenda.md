@@ -2,10 +2,29 @@
 
 ## Agenda
 
-**\* Jorge <> Michael Merrill**
+Jorge <> Michael Merrill
 
-\*\*## Peeps  
-\*\*
+## Peeps
+
+* Ronan: DWA policies
+* iqLand: building codes ~ pdf AI
+* Quentin
+* Myint: thanks + photos + JW BL
+* Tu Phone ~ copilot
+* Jason Carman
+* Floris
+* Ashley Emory
+* Jerome: dorkbot ~ art scene ~ mushroom drink
+* Sherry ~ email ~ mexsp
+* Rob&Bennet: Remembery ~ Gusty: puzzle train
+* Marissa ~ meal invite
+* Paul Mason: Aaron
+* Drake Tam: The Key
+* Joe Macleod
+* Nienke
+* Nicolas: First mac??
+
+## Peeps 2024-05-03
 
 * Anders Grigel:
 * Anders ~ Jurgen Habermas & the bourgeois public ~ Jena Germany sphere
