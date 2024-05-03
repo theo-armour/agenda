@@ -11,11 +11,12 @@
 
 * Sunil
 * Tania
+* HH: BoD
+* HH: Christina: email addresses
 
 ## Soon
 
 * ?
-* HH: BoD
 * Til: Chirp csv
 * Jason C & Quentin
 * Mia: wedding talks ~ 511
