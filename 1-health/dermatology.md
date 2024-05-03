@@ -2,10 +2,11 @@
 
 tags #skin #health #dermatology
 
-Appointment Dr Fassett June 1 ~ 2:50
+  
 
-## Agenda
+Agenda  
 
+* Dr Fassett: 18 June 3:40 PM
 * Next: add list of interesting things to look at as the first item. Otherwise it is too easy to overlook
 * 4 warts
 * 1 Dermatofibroma
@@ -13,12 +14,10 @@ Appointment Dr Fassett June 1 ~ 2:50
 
 ## Fassett, Marlys Stempihar, MD ~ Dermatology UCSF
 
-* https://www.ucsfhealth.org/providers/dr-marlys-fassett
-* https://profiles.ucsf.edu/marlys.fassett
+* [https://www.ucsfhealth.org/providers/dr-marlys-fassett](https://www.ucsfhealth.org/providers/dr-marlys-fassett)
+* [https://profiles.ucsf.edu/marlys.fassett](https://profiles.ucsf.edu/marlys.fassett)
 
-China Basin 4.4 miles
-Mt Zion 1.8 miles
-Hours 9 to 5
+China Basin 4.4 miles Mt Zion 1.8 miles Hours 9 to 5
 
 (415) 353-7800 ~ 2 ~ 1 ~ 1 ~ 2
 
@@ -33,18 +32,17 @@ Hours 9 to 5
 
 * what is a good skin cream for the dry skin on the legs of elderly people?
 * what is a better skin cream for the dry skin on the legs of elderly people, Aquaphor or Eucerin?
->It may be helpful to try both Aquaphor and Eucerin to see which one works better
 
+> It may be helpful to try both Aquaphor and Eucerin to see which one works better
 
 ## websites
 
-* https://theo-armour.github.io/pages/#04-health-and-fitness/medicine/skin.md
-* https://en.wikipedia.org/wiki/Dermatology
+* [https://theo-armour.github.io/pages/#04-health-and-fitness/medicine/skin.md](https://theo-armour.github.io/pages/#04-health-and-fitness/medicine/skin.md)
+* [https://en.wikipedia.org/wiki/Dermatology](https://en.wikipedia.org/wiki/Dermatology)
 * American academy of dermatology
 * DermNZ
 
 ## Generally
-
 
 * slather with Triamcinolone Acetonide
 * Trying to be skin microbiome aware and friendly
@@ -56,3 +54,11 @@ Hours 9 to 5
 * Mediterranean, MIND diet
 
 Places where things grow on head
+
+  
+
+## Change log
+
+  
+
+\* 2022? ~ Dr Fassett June 1 ~ 2:50
