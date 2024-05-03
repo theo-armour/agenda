@@ -1,25 +1,27 @@
 # Gastroenterology
 
-Next colonoscopy in 2024
+## Appointments
 
-https://endo.ucsf.edu/sites/g/files/tkssra4036/f/GoLYTELY%20Colonoscopy%20Instructions%202020.pdf
+* Dr Kattah: 27 June @ ?
 
+## Links
+
+[https://endo.ucsf.edu/sites/g/files/tkssra4036/f/GoLYTELY%20Colonoscopy%20Instructions%202020.pdf](https://endo.ucsf.edu/sites/g/files/tkssra4036/f/GoLYTELY%20Colonoscopy%20Instructions%202020.pdf)
 
 ## UCSF Gastroenterology
 
-https://www.ucsfhealth.org/list-of-clinics/gastroenterology
+[https://www.ucsfhealth.org/list-of-clinics/gastroenterology](https://www.ucsfhealth.org/list-of-clinics/gastroenterology)
 
 ### Kattah, Michael George, MD, PhD ~ Gastroenterology UCSF
 
 * Next colonoscopy: 2024
 * Office: 415-502-4444
-* 1701 Divisadero St #120, San Francisco, CA 94115
-* https://www.ucsfhealth.org/providers/dr-michael-kattah
-
+* 1701 Divisadero St #120, San Francisco, CA 94115
+* [https://www.ucsfhealth.org/providers/dr-michael-kattah](https://www.ucsfhealth.org/providers/dr-michael-kattah)
 
 ## Dates
 
-* 2024?
+* 2024-06-27
 * 2023-10-26
 * 2020
 * ?
@@ -28,29 +30,26 @@ https://www.ucsfhealth.org/list-of-clinics/gastroenterology
 
 ### Single-Use Scope for Colonoscopies
 
-* https://www.aclsonline.us/blog/fda-clears-worlds-first-single-use-scope-for-colonoscopies/
+* [https://www.aclsonline.us/blog/fda-clears-worlds-first-single-use-scope-for-colonoscopies/](https://www.aclsonline.us/blog/fda-clears-worlds-first-single-use-scope-for-colonoscopies/)
 * The FDA granted approval this month for Invendo Medical to sell the world’s first single-use colonoscope. The new $200 sterile scope is expected to solve the problems associated with reprocessing scopes for colonoscopies.
-
 
 ### Pentax J10
 
-8 https://sites.pentaxmedical.com/eb-j10-series/p/1
+8 [https://sites.pentaxmedical.com/eb-j10-series/p/1](https://sites.pentaxmedical.com/eb-j10-series/p/1)
 
-both available on Ebay for under $7K. More reasonable than I expected.
-Got the Pentax J10 yet?
+both available on Ebay for under $7K. More reasonable than I expected. Got the Pentax J10 yet?
 
 * Add ultrasound
 
 Videos of the procedure on the way??
 
 * Not now because of size
-  * Bogus issue: Average HD movie is 4GB. 16TB drives are $350 hold data for 4,000 procedures
+    * Bogus issue: Average HD movie is 4GB. 16TB drives are $350 hold data for 4,000 procedures
 * Will start to create a corpus of data which in turn will open way for AI
-
 
 ## Boston Bowel Prep Scale
 
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763922/
+* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763922/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763922/)
 
 > Each region of the colon receives a “segment score” from 0 to 3 and these segment scores are summed for a total BBPS score ranging from 0 to 9. Therefore, the maximum BBPS score for a perfectly clean colon without any residual liquid is 9 and the minimum BBPS score for an unprepared colon is 0
 
@@ -84,8 +83,6 @@ After that was in bathroom
 * 08:24 ~ ||
 * 09:30 ~ prep finished
 
-
-
 ## 2023 ~ Lessons Learned
 
 No poo on the walls, or carpet this time. Much more under control.
@@ -100,7 +97,6 @@ Possible reasons
 * Swimming diapers prevent poo from getting out of control ~ fewer spills
 * Equal prep and water + ginger ales
 
-
 ## 2020 ~ Lessons Learned
 
 * "Explosive diarrhea - can hit a wall ten feet away ~ curiously no significant farting"
@@ -110,28 +106,25 @@ Possible reasons
 * Ditto ginger ale
 * No need to take shower before prep ~ you will be taking many showers later
 * Drink equal amounts of Prep|Gavilyte|GoLightly and water
-  * One glass of prep + one glass of water
+    * One glass of prep + one glass of water
 * Prepare the bathroom
-  * Ensure no/zero/none trips out of the bathroom are needed
-  * Stool place for phone and computer ( not used in 2020 )
-  * Cleaning poo off carpet is not fun. Ditto off walls
-  * Move wastebaskets and any other possible targets around toilet out of the way
-  * Bring a full bag of diapers
+    * Ensure no/zero/none trips out of the bathroom are needed
+    * Stool place for phone and computer ( not used in 2020 )
+    * Cleaning poo off carpet is not fun. Ditto off walls
+    * Move wastebaskets and any other possible targets around toilet out of the way
+    * Bring a full bag of diapers
 * When poo is squirting
-  * Sit on toilet before taking off diaper
-  * In shower cover butt with hand
+    * Sit on toilet before taking off diaper
+    * In shower cover butt with hand
 * Looking for:
-  * Clear yellow liquid yellow, light, liquid, and clear, like urine
-  * No lumps but may be millimeter size particles and the add corn kernel
+    * Clear yellow liquid yellow, light, liquid, and clear, like urine
+    * No lumps but may be millimeter size particles and the add corn kernel
 * The yellow liquid coats floor, hand, whatever with the most slippery substance known to mankind
-  * Big increase to fall risk
-  * Consider a non slip mat
-  * Keep wiping rag in shower
+    * Big increase to fall risk
+    * Consider a non slip mat
+    * Keep wiping rag in shower
 * It gets cold being naked in there! So take hot showers every ten minutes. Wear tee shirt??
 * Allow for urinating and final diaper change before leaving
-
-
-
 
 ## 2020-10-24
 
@@ -157,14 +150,11 @@ Possible reasons
 * At beginning poo has small lumps, liquid is opaque brown
 * Poos get smaller for the last hour
 
-
 ### Post Colonoscopy
 
 * Be very careful
 * Poo happens
 * Sit on toilet and test every every hour until nothing appears
-
-
 
 ## 2020-10-21
 
@@ -178,7 +168,6 @@ It gets cold being naked in there! So take hot showers every ten minutes
 
 Bring lots of diapers to bathroom
 
-
 ## 2020-10-20
 
 colonos-crappy
@@ -186,16 +175,18 @@ colonos-crappy
 Started 8:38
 
 Did you hear about the proctologist and the psychiatrist who opened a practice together?
+
 * They called it “Odds and Ends”.
 
 My colonoscopy wasn’t the best experience of my life.
+
 * But it was right up there.
 
 What’s the difference between a colonoscopy and an endoscopy?
+
 * The taste.
 
 Got the Pentax J10 yet?
-
 
 ## 2020-07-30
 
@@ -217,7 +208,6 @@ what's the difference between Tweet and a colonoscopy
 
 with a colonoscopy there's only a chance you find cancer
 
-
 ## Colonoscopy fail
 
 * Stop most high fiber items five days before
@@ -229,4 +219,3 @@ My worry
 * "Explosive diarrhea - can hit a wall ten feet away ~ curiously no significant farting"
 
 How to carry out next prep
-

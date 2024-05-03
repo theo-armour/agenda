@@ -2,17 +2,13 @@
 
 tags #skin #health #dermatology
 
-  
-
-Agenda  
+Agenda
 
 * Dr Fassett: 18 June 3:40 PM
 
-  
-
 ## Remember
 
-* Next: add list of interesting things to look at as the first item. Otherwise it is too easy to overlook
+* Next: add a list of interesting things to look at as the first item. Otherwise, it is too easy to overlook
 * 4 warts
 * 1 Dermatofibroma
 * why did red areas on ankles disappear
@@ -21,7 +17,11 @@ Agenda
 
 * [https://www.ucsfhealth.org/providers/dr-marlys-fassett](https://www.ucsfhealth.org/providers/dr-marlys-fassett)
 * [https://profiles.ucsf.edu/marlys.fassett](https://profiles.ucsf.edu/marlys.fassett)
+* Dermatology Clinic at China Basin  
 * 185 Berry St., Lobby 1, Suite 1000, San Francisco, CA 94107
+
+* Dermatology Clinic at Mount Zion
+* 1701 Divisadero St., Third and Fourth Floors, San Francisco, CA 94115
 * China Basin 4.4 miles Mt Zion 1.8 miles 
 * Hours 9 to 5
 * (415) 353-7800 ~ 2 ~ 1 ~ 1 ~ 2
@@ -32,7 +32,7 @@ Agenda
 * What made red skin go away?
 * Rash cream
 * Aquaphor or Eucerin?
-* Identify laces where things grow on head  
+* Identify laces where things grow on head
 
 ## chatGPT
 
@@ -58,10 +58,6 @@ Agenda
 * If it itches, cream it: Aquaphor or Vick's Vapo Rub
 * Mediterranean, MIND diet
 
-  
-
 ## Change log
 
-  
-
-\* 2023? ~ Dr Fassett June 1 ~ 2:50
+* 2023? ~ Dr Fassett June 1 ~ 2:50
