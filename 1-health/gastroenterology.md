@@ -1,14 +1,8 @@
 # Gastroenterology
 
-  
-
 ## Appointments
 
-  
-
-\* Dr Kattah: 27 June @ ?
-
-  
+* Dr Kattah: 27 June @ ?
 
 ## Links
 
@@ -21,12 +15,13 @@
 ### Kattah, Michael George, MD, PhD ~ Gastroenterology UCSF
 
 * Next colonoscopy: 2024
-* Office: 415-502-4444 \* 1701 Divisadero St #120, San Francisco, CA 94115
+* Office: 415-502-4444
+* 1701 Divisadero St #120, San Francisco, CA 94115
 * [https://www.ucsfhealth.org/providers/dr-michael-kattah](https://www.ucsfhealth.org/providers/dr-michael-kattah)
 
 ## Dates
 
-* 2024?
+* 2024-06-27
 * 2023-10-26
 * 2020
 * ?
