@@ -2,8 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* \*
-* 2024-04-27 ~ [https://substack.com/inbox/post/142103098](https://substack.com/inbox/post/142103098) For the Pythagoreans and later Greeks, the sphere held a special significance as “the most complete theophany”. Theophany: encounter with a deity
+* 2024-04-27 ~ [https://substack.com/inbox/post/142103098](https://substack.com/inbox/post/142103098) For the Pythagoreans and later Greeks, the sphere held a special significance as “the most complete theophany”. Theophany: encounter with a deity  
 * 2024-04-27 ~ Our history is not our destiny. Alan Cohan.
 
 ## Today
@@ -93,7 +92,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware<br></a>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
-
 
 ***
 
