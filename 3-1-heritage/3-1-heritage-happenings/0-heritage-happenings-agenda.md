@@ -1,8 +1,8 @@
 # 3.1 Heritage Happenings
 
-Agenda
+## Agenda
 
-May
+### June
 
 * HH: Millionaire donor?
 * HH: CTO
@@ -34,7 +34,7 @@ Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc](https://1drv
 
 ## Subscriptions
 
-* Issues to BoD & staff
+* ?
 
 ## Things to check
 
