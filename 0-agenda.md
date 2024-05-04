@@ -8,12 +8,16 @@
 ## Today
 
 * AlexP
-*   
 
 ## Soon
 
 * ?
+* Standing desk
+* .
 * FeiYu VB4: updater driver
+* Cynthia: do survey
+* Manfred
+* Matthew Fuchs
 * Til: Chirp csv
 * Jason C & Quentin
 * Mia: wedding talks ~ 511 ~ price for editing?
