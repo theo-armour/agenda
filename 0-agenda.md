@@ -6,7 +6,7 @@
 
 ## Today
 
-* Sunil
+*   
 * HH: BoD
 * HH: Christina: email addresses
 
