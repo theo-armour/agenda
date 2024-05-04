@@ -7,7 +7,7 @@
 
 ## Today
 
-* AlexP
+*   
 
 ## Soon
 
@@ -15,7 +15,6 @@
 * Standing desk
 * Diaconal hermeneutic
 * FeiYu VB4: updater driver
-*   
 * Matthew Fuchs
 * Til: Chirp csv
 * Jason C & Quentin
