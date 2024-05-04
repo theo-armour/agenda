@@ -13,7 +13,7 @@
 
 * ?
 * Standing desk
-* .
+* Diaconal hermeneutic
 * FeiYu VB4: updater driver
 * Cynthia: do survey
 * Manfred
