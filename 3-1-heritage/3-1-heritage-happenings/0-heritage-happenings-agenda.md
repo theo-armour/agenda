@@ -1,10 +1,13 @@
 # 3.1 Heritage Happenings
 
-  
-
 Agenda
 
-  
+May
+
+* HH: Millionaire donor?
+* HH: CTO
+* RC: minutes
+* Reminders
 
 ## Heritage Happenings Submissions Guidelines
 
