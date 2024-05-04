@@ -73,6 +73,11 @@ overseership, office, charge, the office of an elder
 
 the overseer or presiding officers of a Christian church
 
+## Episcopal Deacons
+
+* https://www.episcopaldeacons.org/
+* https://www.diocal.org/resource/deacons/
+* https://www.diocal.org/wp-content/uploads/2023/05/DioCalDeaconsHandbook_10_2022_FINAL.pdf
 
 ## Exigesis
 
