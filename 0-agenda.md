@@ -2,7 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-04-27 ~ Our history is not our destiny. Alan Cohan.  
+* 2024-04-27 ~ Our history is not our destiny. Alan Cohan.
 
 ## Today
 
@@ -15,8 +15,7 @@
 * ?
 * Til: Chirp csv
 * Jason C & Quentin
-* Mia: wedding talks ~ 511
-* Mia: price for editing?
+* Mia: wedding talks ~ 511 ~ price for editing?
 
 ***
 
