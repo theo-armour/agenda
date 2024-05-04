@@ -2,14 +2,12 @@
 
 ## Appointments
 
-* Dr V: date ??
-* [Medicare Supplement dental plans | Blue Shield Medicare (blueshieldca.com)](https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental)
+* Dr V: 
+* Dr Y: 13 Jine
 
 ## Agenda
 
-* Create sub-folders
-* UCSF: Eyes checkup
-* UCSF Colonoscopy
+* [Medicare Supplement dental plans | Blue Shield Medicare (blueshieldca.com)](https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental)
 * EmpowerMe: PT referral
 * [https://www.alignmenthealthplan.com/](https://www.alignmenthealthplan.com/) ~ free lunch?
 
@@ -38,8 +36,6 @@ Martha Nkhoma
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">1.2 PPH</a>
 
 ## Lists
-
-
 
 ## Not to forget
 
