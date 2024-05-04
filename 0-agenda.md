@@ -125,12 +125,9 @@
 
 * ?
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
 
 * ?
-* AudioPen: Pens to Journal
-* Excel: embed thumbnails that enlarge
-* Timeline: follow wikipedia: year, date, event ~ [https://en.wikipedia.org/wiki/Timelines\_of\_modern\_history](https://en.wikipedia.org/wiki/Timelines_of_modern_history)
 
 ***
 
