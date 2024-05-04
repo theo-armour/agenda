@@ -94,25 +94,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
 
-* ?
 
 ***
 
-## Reminders
-
-* vscode: simple browser
-* Delete old passwords
-* Harvests those bookmarks
-* try oneNote
-* PlainJS
-* Effective Altruism
-* Dawn of Everything ~ Graeber
-* Iliad
-* Weathering
-* Snippets
-* The successful how-to
-* Make a playlist for my funeral
-
-***
-
-<center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);">❦</a></center>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-reminders.md&quot;">Reminders</a>
