@@ -3,6 +3,17 @@
 * https://moodle.cdsp.edu/course/view.php?id=399
 * https://moodle.cdsp.edu/login/?lang=en_us
 
+## Students
+
+* Theo Armour ~ San Francisco
+* Melissa Carter ~ Virginia ~ postulant ~ tech ~ musician ~ equestrian
+* Mel Carpenter ~ Michigan Detroit ~ postulant ~ chaplain
+* Maureen Carey ~ Virginia ~ postulant
+* Cathy Johnston ~ East Tennessee ~ ordained deacon ~ focus on unhoused
+* Danielle Shaffer ~ Ohio ~  pre-discernment ~ former evengelical/Baptist ~ IRS engineer
+* Karen Galdo ~ Washington ~ curious ~ mostly blind ~ utility player
+
+
 ## 2024-04-14
 
 * https://en.wikipedia.org/wiki/Ecclesiology

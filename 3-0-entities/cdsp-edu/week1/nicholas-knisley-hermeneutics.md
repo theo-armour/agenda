@@ -40,6 +40,7 @@ parable vs allegory definition
 
 https://thecontentauthority.com/blog/allegory-vs-parable#:~:text=Allegory
 
+
 ## post
 
 Melissa. I agree that it's not easy - looking at Kinsley's one pager - to deduce why a literal or typological approach to homiletics was _de rigeur_ - required by etiquette or current fashion in the early nineties..
@@ -60,8 +61,6 @@ When I was in seminary the idea of preaching an allegorical interpretation of a 
 So that's what I'm going to do - I want to spend some time reading up on the historical development of hermeneutics. I've got one book identified and I'll be looking around for some others. Suggestions would be welcome!
 The Very Rev. Nicholas Knisely, Dean
 Trinity Cathedral, Phoenix, AZ
-
-
 
 
 * Fashion

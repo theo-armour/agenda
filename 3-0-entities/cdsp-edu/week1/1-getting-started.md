@@ -62,6 +62,7 @@ Curious
 See Constitutional Hermeneutics
 
 ## Being intentional about our hermeneutic stances is an essential part of becoming mature Christian persons in our increasingly secularized environment.
+
 Also
 
 The telling of the who and why of our selves, or of others studied in our several environments will point to basic underlying meaning.

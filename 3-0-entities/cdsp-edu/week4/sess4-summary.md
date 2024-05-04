@@ -1,7 +1,5 @@
 # Document Summary: "Diaconal Hermeneutic - Session Four"
 
-https://www.biblestudytools.com/topical-verses/bible-verses-about-deacons/
-
 ## **Preface**
 This section introduces the concept of a hermeneutic—a framework or lens through which interpretations are made. The distinct nature of each Order in the church (bishop, priest, deacon) offers a unique perspective, especially for deacons who are tasked with interpreting the global and local needs, concerns, and hopes to the church.
 

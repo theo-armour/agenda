@@ -159,3 +159,15 @@ Hermeneutics = "Understanding the architect's vision"
 * Maureen Carey: scripture, reason and tradition
 * https://en.wikipedia.org/wiki/Creator_deity: Creator, Redeemer and Sanctifier
 *
+
+
+## Walter Brueggemann, The Prophetic Imagination
+
+https://en.wikipedia.org/wiki/Walter_Brueggemann
+
+https://www.walterbrueggemann.com/
+
+https://www.amazon.com/Prophetic-Imagination-40th-Anniversary-ebook/dp/B07CC4G5KN/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=
+
+file:///C:/Users/tarmo/AppData/Local/Temp/MicrosoftEdgeDownloads/81b463bb-fbd5-4abf-8ad6-45881affc2b9/Walter_Brueggemann_The_Practice_of_Proph.pdf
+

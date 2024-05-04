@@ -1,0 +1,846 @@
+Anglican-Lutheran International Commission 
+The Hanover Report 
+THE DIACONATE AS ECUMENICAL OPPORTUNITY 
+Published for the Anglican Consultative Council and the Lutheran World Federation 
+Published by Anglican Communion Publications, London, England 
+Cover by Andrew Day Designs, Canterbury, England 
+Printed by Rapier Press 
+© 1996 The Secretary General of the Anglican Consultative Council 
+The General Secretary of the Lutheran World Federation 
+Tom Dorris, Deacon 
+in memoriam 
+Contents 
+FOREWORD .......................................................................................................................3 
+I INTRODUCTION ........................................................................................................5 
+II THEOLOGICAL FOUNDATIONS FOR THE DIACONATE AND DIACONAL 
+MINISTRY ...................................................................................................................6 
+A. CHRIST, KINGDOM, AND SPIRIT ..................................................................6 
+B. THE CHURCH....................................................................................................8 
+C. DIACONAL MINISTRY ....................................................................................9 
+III DIVERSITY AND COMMONALITY OF PRESENT FORMS OF DIACONAL 
+MINISTRY .................................................................................................................11 
+A. DIVERSITY AND UNITY ...............................................................................11 
+B. VARIOUS FORMS OF DIACONAL MINISTRY...........................................12 
+C. COMMON PRINCIPLES .................................................................................14 
+IV AN ORDAINED DIACONATE.................................................................................16 
+2 
+A. THE QUESTION OF AN ORDAINED DIACONATE ...................................16 
+B. THE MEANING OF ORDINATION IN RELATION TO THE 
+DIACONATE....................................................................................................17 
+C. THE RENEWAL OF THE DIACONATE AS AN OPPORTUNITY FOR 
+UNITY AND JOINT MISSION........................................................................19 
+V CONCLUSION...........................................................................................................21 
+Appendix 1 Anglican-Lutheran Consultation on the Diaconate...........................................22 
+Appendix 2 The Anglican-Lutheran International Commission .......................................23 
+3 
+FOREWORD 
+by the Co-Chairs 
+Lutherans and Anglicans, like Christians of many other traditions, have been engaged 
+during recent decades in much debate about the nature of ministry - both the ministry of 
+the whole people of God and that of specific ordained ministers. This debate was 
+intensified by the publication in 1982 of the Lima document Baptism, Eucharist and 
+Ministry (BEM), which intentionally raised many fundamental issues of ecclesiology, 
+ministry and ordination. 
+A new approach was pioneered by the Anglican-Lutheran International Commission 
+(ALIC) in the Niagara Report (l987), which tackled the question of episcope, or pastoral 
+oversight, from the perspective of the church's mission. This produced a breakthrough in 
+Anglican-Lutheran understanding which has already borne fruit in the proposed 
+Concordat of Agreement (1991) in the USA and the Porvoo Common Statement (1992) 
+between the British and Irish Anglican Churches and the Nordic and Baltic Lutheran 
+Churches. 
+ALIC believed that the next logical step would be to undertake a fresh joint study of the 
+diaconate, especially since the threefold ordering of the ordained ministry had long been a 
+central issue in Anglican-Lutheran dialogue. The atmosphere of openness and growing 
+trust between us has given us the confidence to work together on this question, where 
+perplexities and real differences are evident, yet without their being church-dividing. Our 
+desire has been to learn from each whatever could be useful for the common mission we 
+share, and to avoid unnecessary duplication of effort. 
+From the outset of this project we were aware that our theological reflection needed to be 
+rooted in the experience and concerns of those who actually exercise various diaconal 
+ministries. We record our gratitude to the consultants' names in Appendix 1, to whose 
+evidence and convictions we paid serious attention. 
+We were equally aware that some churches do not have an ordained ministry distinct from 
+that of the presbyter/pastor. The subject-matter of this report is, nevertheless, directly 
+relevant where, in response to specific needs, forms of ministry have sprung up which 
+could be better recognised and utilised if seen in the context of diaconal ministry. Not 
+only those people engaged in such work, but those whom they serve and with whom they 
+co-operate, can be helped to value this diaconal ministry more highly. 
+Our aim is to offer a theological rationale which follows a clear line of argument: from 
+Christ and the Spirit, through the ministry of the whole people of God (including ordained 
+ministry) to an understanding of the diaconate. The latter part of this study focuses on the 
+role of the ordained deacon in particular, as distinct from the broader understanding of 
+diakonia. 
+4 
+We desire to know far more than we have yet discovered about the impressive range of 
+diaconal ministries, and are sorry that our limited resources did not permit us to make a 
+wider factual survey. We have been glad to discover that a number of working parties and 
+research projects on this theme are already under way in various churches throughout the 
+world. This reinforces our conviction that a particular ecumenical opportunity lies in 
+developing the diaconate, and we indicate in Appendix 3 the main factual points on which 
+we would welcome information from church leaders and the chairpersons of diaconal 
+associations and communities. 
+We recommend this Hanover Report to our parent bodies, the Anglican Consultative 
+Council and the Lutheran World Federation, and through them to their member churches 
+throughout the world. We hope that it will serve as a catalyst for both joint study and joint 
+action. We also dare to believe that it may have significance beyond these two world 
+communions, and ask our ecumenical partners to study it in the context of the search for 
+closer visible unity and of common service to God's world. 
+By common consent the members of ALIC dedicate this report to the memory of the late 
+Deacon Tom Dorris of the Evangelical Lutheran Church in America. For many years Tom 
+exercised a skilled ministry in the Communications Unit of the World Council of 
+Churches in Geneva, reporting and interpreting church affairs to the media. He was a keen 
+advocate of a restored diaconate, and carefully collated the responses of all churches to 
+the paragraphs in the Lima document on this subject. Not long after moving to new work 
+with the Life and Peace Institute in Sweden he was tragically killed in a car accident in 
+1994. We hope that this report will further the concerns to which he dedicated his life. 
+We wish to express our particular thanks to those who played a key role in drafting and 
+editing this report: Professor Michael Root (Strasbourg, France), the Very Revd William 
+Petersen (Rochester, NY, USA) and the Revd Dr Walter Bouman (Columbus, Ohio, 
+USA). We also pay a special tribute to our co-secretaries, the Revd Dr Eugene Brand and 
+the Revd Dr Donald Anderson; for each of them the publication of this book coincides 
+with their retirement from a long and distinguished period of ecumenical service at the 
+international level. 
++ DAVID GRIMSBY PROFESSOR AMBROSE MOYO 
+The Rt Revd David Tustin The Revd Prof Ambrose Moyo 
+Bishop of Grimsby University of Harare 
+England Zimbabwe 
+5 
+I INTRODUCTION 
+1. The diaconate, an institution of great importance in the early church, is again coming 
+to life in the church as a ministry and office closely related to central aspects of the 
+church's identity: service, outreach, humility, concern for human needs. This 
+reinvigoration of the diaconate has various roots: liturgical revival, a livelier sense of 
+the church's mission in the world, and a renewed perception of rightful diversity in 
+the church's ministries. These sources have together shaped the many forms of 
+diaconate and diaconal ministry current today or under consideration in our churches. 
+2. No ecumenical consensus has yet emerged on the nature and forms of the diaconate 
+and diaconal ministry. Not only have different churches made different decisions 
+about the diaconate, but debates continue within the churches about such fundamental 
+questions as whether the diaconate is appropriately an ordained or lay ministry and 
+whether those who intend to be ordained priest or pastor should first be ordained to 
+the diaconate (the so-called "transitional diaconate"). The diaconate and diaconal 
+ministries are still in flux in many churches. New forms of diaconate have been 
+recently introduced in some churches, with varying degrees of acceptance, and are 
+under study in other churches. While the nature of the diaconate is not an issue which 
+lies at the centre of the faith, the restoration and reinvigoration of the diaconate 
+affects the structure of the whole church's ministry. It not only reshapes mission, but 
+directly touches the vocational lives of persons engaged in ministry. The debate over 
+the diaconate thus has highly practical implications. 
+3. Transition and flux in the diaconate have been heightened by recent exegetical work 
+on the meaning of the word diakonia in the New Testament and early church. Earlier 
+work had argued that waiting at table and service of a humble sort was the term's 
+paradigmatic sense. Diakonia as a term for Christian ministry was thus taken to refer 
+especially to a character of humble service that should be typical of all ministry in the 
+name of Christ. 
+4. More recent exegetical work, especially by John Collins in his Diakonia: 
+Reinterpreting the Ancient Sources, (Oxford: 1990) has called this earlier consensus 
+into doubt. In the world in which the early church lived, diakonia seems to have 
+referred to the service of a "go-between" or agent who carries out activities for 
+another. In the letters of Paul, it also appears that diakonia is used to describe Paul 
+and some of his associates as the "go-between" who carries the gospel from God or 
+Christ to those who are to hear the message of salvation. Diakonia seems more 
+concerned with apostleship than with our present understanding of the diaconate. 
+Though scholars continue to debate, their findings cannot be ignored and have played 
+an important part in this study. 
+5. Institutional and conceptual change in relation to the diaconate and diaconal ministry 
+should be grasped as an opportunity to explore new forms of mission. This study has 
+been especially concerned to consider the diaconate and diaconal ministry as an 
+ecumenical opportunity, an opportunity for common mission among the churches. 
+6 
+Ecumenical progress must not remain a matter of theological discussions or formal 
+agreements, but needs to reach into and be nourished by common life and mission. In 
+moving from its earlier study of episcope (The Niagara Report - Report of the 
+Anglican-Lutheran Consultation on Episcope 1987) to its present study of the 
+diaconate, the Anglican-Lutheran International Commission (ALIC) has not moved 
+from issues of primary ecumenical importance to secondary issues, but rather has 
+moved deeper into the heart of the one church's mission. In addition, while this study 
+was carried out by a bilateral commission, observers from other ecclesial traditions 
+were involved in the commission’s preliminary work and ALIC hopes that the study's 
+results will be relevant well beyond the two traditions. 
+6. Within both the Anglican and Lutheran communions, the nature of the diaconate and 
+the possibilities of its renewal have been much discussed in recent years. A study at 
+the international level was requested by the 1988 Lambeth Conference and by a 
+Lutheran World Federation (LWF) consultation on ministry held in 1992 in Cartigny, 
+Switzerland. In response to these requests, the following study was proposed by 
+ALIC at its meeting in Johannesburg in February 1993 and approved by the Standing 
+Committee of the Anglican Consultative Council and Primates' Meeting in March 
+1994 and by the Council of the LWF in June 1994. Background papers were 
+commissioned for a preparatory consultation in April 1995 in West Wickham, Kent, 
+England. This consultation produced the outline of a statement on the diaconate. On 
+the basis of the papers and outline from the earlier consultation and with the 
+participation of four expert consultants, ALIC developed the following text at their 
+meeting at Kloster Wennigsen, near Hanover, Germany, in October 1995. The West 
+Wickham papers are available from the Anglican Communion Office in London. 
+7. As The Niagara Report did with episcope, this study seeks to place the diaconate in 
+the context of a more comprehensive vision of the mission of God in the world. It 
+thus begins with a consideration of Christ and the Holy Spirit as the agents who 
+always drive the church's ministry. The church is then discussed as the sign and 
+instrument of the work of Christ and the Spirit. The church's mission and ministry 
+then form the context for the discussion of the diaconate and diaconal ministry in the 
+remainder of the text. 
+II THEOLOGICAL FOUNDATIONS FOR THE DIACONATE AND 
+DIACONAL MINISTRY 
+A. CHRIST, KINGDOM, AND SPIRIT 
+8. Faithful diaconal ministry has been done and is being carried out under a great variety 
+of circumstances and forms by the church and its members. In this document the 
+Anglican- Lutheran International Commission uses a theological model which it 
+7 
+believes is especially suitable for locating diaconal ministry within the mission and 
+ministry of the church as a whole. The church has both its historical and its 
+theological basis in the resurrection of Jesus Christ. The resurrection of Jesus is the 
+eschatological event (1 Cor 10:11) which discloses the crucified one as “both Lord 
+and Messiah" (Acts 2:36); which identifies him as the one who determines the 
+ultimate destiny of the universe (1 Cor 15:24-28); and which discloses that he is “the 
+head over all things for the church" (Eph 1:22). He is eschatological Lord because 
+"death no longer has dominion over him" (Rom 6:9). All powers of the "old age" are 
+dominated by death and are characterised by an unrelenting drive for self-preservation, 
+at whatever cost to others. But if Jesus Christ has the last word, then he 
+confers the freedom for self-offering on behalf of the world in the conviction that 
+there is more to do with life than to preserve it (Mt 16:24-26 and parallels; cf. The 
+Niagara Report, 22-23). 
+9. The resurrection of Jesus Christ is the lens through which the church perceives Jesus 
+own mission and ministry, and retells the story. The historical mission of Jesus was to 
+announce the good news of the reign of God in proclamation and parables, to embody 
+the reign of God in signs and actions, and to be the historical fulfilment of the 
+promised final victory of the reign of God through his death and resurrection. (Mk 
+1:14-15; Lk 17:21-22; Mt 11:2-6; Lk 11:20). In a slave's death (Phil 2:6-8) on the 
+cross he endured the consequence of his own diaconal ministry. For Jesus was 
+crucified because his messianic mission was to be God's saving embrace of all Israel 
+and of all the world. On the cross Jesus was obedient to the sending and mission of 
+the Father (Mk 14:32-37) in the power of the Holy Spirit (Mk 1:9-11). Jesus was sent 
+by the Father to reconcile the whole creation to God (2 Cor 5:17-19). 
+10. In Christ the victory of the reign of God over the powers of death and sin has begun. 
+The leadership ministry of Christ is therefore not like leadership in the world of death 
+and sin (Mk 10:41-45). It has a character and quality determined by Christ's way of 
+being in and for the world, in the service of his Father. Christ Is determinative for the 
+ministry and ministries of the church. He is the basis for the leitotourgia, the worship, 
+of the church, for he offers and gives himself in free obedience (Heb 9:14; Gal 2:20; 
+1 Cor 11:23-26; Jn 12:20-33, etc.). He is the basis for the martyria, the witness, of the 
+church, for he is the foundational witness to the everlasting love of the triune God (Jn 
+3:16: Rom 5:8). As the incarnate Word sent by the Father, Jesus is the basis for the 
+church's diakonia, the freedom to announce and act out God's eschatological salvation 
+(Rom 15:8). Christ is diakonos, servant, as the agent and image of the one who sent 
+him, acting and forgiving with his Father's own power, mediating the Father's will to 
+the world. Being diakonos does not mean that the roles of leader and servant are 
+reversed or abolished, but rather that those who lead and rule do so as servants, that 
+is, as agents of Christ's salvation (Lk 22:27). 
+11. The outpouring of the Holy Spirit is the sign promised by Christ that the 
+eschatological reign of God has come. At every point the presence and power of the 
+Holy Spirit testifies that the final act of history has occurred in Jesus. The Holy Spirit 
+came upon Mary in the conception of Jesus (Mt 2:1 8-20: Lk 1:35). The Holy Spirit 
+descended upon Jesus at his baptismal commissioning (Mk 1:10 and parallels). The 
+8 
+Holy Spirit was promised as Christ's eschatological gift to his disciples (Acts 1:8: Jn 
+14:15-17, etc.). 
+12. Thus the outcome of the mission and ministry of Christ is nothing less than a new 
+creation. The entire universe is encompassed by the love and care, the redeeming 
+commitment and creative salvation of the Holy Trinity. 
+B. THE CHURCH 
+13. The church is both designated and called to be the effective sign and instrument of 
+the reign of God. The eschatological reign of God, inaugurated by and inseparable 
+from Jesus Christ, is the goal and promise of God in history. The reign of God is 
+being served wherever institutions, communities, movements, and individuals 
+contribute to peace with justice, to compassion for the suffering, to preservation and 
+care of the creation, and to admonition and conversion of sinners. 
+14. The church is called and admonished to reflect in its being and worship, its life and 
+ministry, what God has done and is doing (Eph 4:1-6; Rom 12; Col 3:1-4,1: The 
+Niagara Report, 24). The pattern of apostolic writing in Ephesians, for example, is 
+that the church is exhorted and admonished on the basis of what God has done. In 
+Christ the reign of God has already come. That means, among other things, that God 
+has already broken down the wall of hostility between Jew and Gentile, male and 
+female, slave and free (Gal 3:28; Eph 2:11-22). 
+15. The church is called to witness to the reign of God. In this witness, the church 
+confesses that Jesus is the Christ, even beyond the church where he is not recognized 
+as such. One aspect of the church's witness to the reign of God is a critical 
+recognition of where the reign of God is being served. The church is called to co-operate 
+in humility with institutions, communities, movements, and individuals 
+contributing to the vision of the reign of God. The church is called to identify, warn 
+against, and oppose the powers of death and sin, without counting the cost. 
+16. The church is created by the Holy Spirit. On the basis of the promise of Christ (Jn 
+14:15-17, etc.) the community of disciples experienced the Holy Spirit (Acts 2:1-4; Jn 
+20~2- 23). Acts 2:17 uses an eschatological formula, "in the last days", to introduce 
+the vision of the prophet Joel. The Holy Spirit is now the dynamic of the entire 
+community, young and old, women and men, and not just the dynamic of charismatic 
+individuals. The Holy Spirit is the arrabon, the "down payment” on God's final future 
+(Eph 1:14; 2 Cor 1:22 and 5:5). As "down payment" the Holy Spirit empowers and 
+calls the church to live in anticipation of the consummation of the reign of God. The 
+evidence of the Holy Spirit's presence is behaviour determined by being "in Christ" 
+(Gal 5:22-26). Jesus' disciples are promised the Holy Spirit as the answer to their 
+prayer (Lk 11:13). The church is therefore called to receive the prayer which Jesus 
+taught it to pray (Lk 11:1-4) as the way Jesus shares with the church his own mission 
+and ministry. The church prays for the Holy Spirit when it asks that God's name be 
+9 
+holy, that God's reign come, that it eat the messianic bread of the future, and that it 
+anticipate God's final forgiveness by forgiving all who sin against it. 
+17. The church is called to trust God's promise that the Holy Spirit will be given. The 
+church is called to be open to the Holy Spirit, to receive the gift and the gifts of the 
+Spirit, to recognise and seize the opportunities to serve the reign of God, and to 
+accept with thanksgiving the ministries which serve the reign of God. 
+18. The church becomes visible in its gathering as a eucharistic assembly. When the 
+church gathers for "the Lord's Supper" (1 Cor 11:19), it becomes especially visible 
+"as a church" (1 Cor 11:18). In Corinth it was evident that some of the members were 
+not caring for other members in that meal which anticipates the consummation of the 
+reign of God when God will be "all in all" (1 Cor 15:28). Just so, the church was not 
+diaconal, was not proclaiming the Lord's self-offering for the world "until he comes" 
+(I Cor 11:26). It is precisely in the eucharistic celebration that the eschatological 
+consummation of the reign of God is anticipated (BEM, Eucharist, 21). 
+19. The eucharistic celebration involves five actions: (1) The gathering of the baptised in 
+one place as the koinonia of Christ with his people and as the koinonia of the people 
+in Christ (Acts 2:42, 46; 1 Cor 10:1 6- 7); (2) attention to the Word of God; (3) the 
+offering, in which the baptised offer themselves through prayer and gifts for service 
+to the reign of God; (4) the meal of the presence of tile eschatological Christ which 
+anticipates the messianic banquet; (5) The sending of the baptised into their daily 
+mission and ministry. 
+20. The eucharistic assembly as koinonia participates in and manifests the leitourgia, 
+martyria, and diakonia of the Christ who is present to it and through it. It is in the 
+eucharistic assembly that the church receives its identity (body of Christ) and its 
+mission (to be offered for one another and for the world; 1 Cor 10:16-17; 1 Cor 
+11:17-26). In gathering, Word, prayer, meal, and sending the church is called and 
+embraced by Christ for his mission and ministry in the world. 
+C. DIACONAL MINISTRY 
+21. The liturgy provides the context for understanding the church's diaconal ministry. The 
+celebration of the eucharist (see above, 18) has, in significant ways, shaped the 
+governing structures of the church. In the Lutheran tradition, bishops (Augsburg 
+Confession XXVIII) and ordained ministers in general (Augsburg Confession V) are 
+defined by their connection with Word and sacrament. In the Anglican tradition, 
+bishops, priests, and deacons are ordained into ministries that have to do with Word 
+and sacrament. Both of these traditions reflect the vision and practice which comes to 
+expression in ancient Christian documents (e.g., the Apology of Justin Martyr, the 
+Didache, the Apostolic Constitution of Hippolytus). 
+10 
+22. The celebration of the eucharist is a paradigm for the interrelationship of various 
+ministries in the church. It is, among other things, a kind of "dress rehearsal" for life. 
+23. The liturgy is the work of the whole people of God. Ministry is, first, ministry of the 
+church as a whole. The whole community is a priestly people (I Pet 2:9). Hebrews, in 
+one passage, brings together the ministry of Christ and the interrelated ministries of 
+leitourgia, martyria, and diakonia on the part of the people: "Therefore Jesus also 
+suffered outside the city gate in order to sanctify the people by his own blood. Let us 
+then go to him outside the camp and bear the abuse he endured. For here we have no 
+lasting city, but we are looking for the city that is to come. Through him, then, let us 
+continually offer a sacrifice of praise to God, that is, the fruit of lips that confess his 
+name. Do not neglect to do good and to share what you have, for such sacrifices are 
+pleasing to God" (Heb 13:12-16). 
+24. The ministry of the whole people of God requires the ministries of individuals. 
+Through baptism persons are initiated into the ministry of the whole church. 
+Incumbent upon all the baptised is the exercise of leitourgia, martyria, and diakonia. 
+However, baptism itself does not confer office in the church. "What is the common 
+property of all, no individual may arrogate to himself, unless he is called" (Luther's 
+Works, WA 6:566; American Edition 36:116). Office must be given by the church. 
+Within the liturgy there is a variety of specific tasks to be performed; these tasks have 
+traditionally been correlated with distinct roles in the liturgical celebration, e.g., that 
+of presider and deacon, which have a symbolic function. 
+25. There are some offices in the church which enact and bring into focus central aspects 
+of the mission of the entire church and also form the identity of the person involved. 
+This description applies particularly to ordained ministries. Such ministries involve 
+an appointment or call from the church and a rite which includes prayer and the 
+laying on of hands. In the church's rite, God is active, giving the gifts needed for 
+ministry. Through leitourgia, martyria, and diakonia persons designated as God's gifts 
+to the church become symbols of Christ and his church (BEM, Ministry, 12,15). 
+26. A close relationship exists between liturgical celebration and diaconal ministry. The 
+baptised have been given their calling and ministry by virtue of their baptism. That 
+calling is renewed and reshaped by the liturgical celebration of the eucharist. The 
+diaconal ministry of the laity receives encouragement and, where appropriate, 
+leadership from the deacons of the church. 
+27. The ministry of deacons was traditionally, and in some places is at present, expressed 
+within the liturgical celebration of the gathered eucharistic assembly by assigning 
+elements of the rite to the deacon: reading the gospel, leading the intercessions of the 
+people, receiving the gifts of the people and "setting the table" for the meal, serving 
+the eucharistic meal, sending the people from the eucharistic assembly into the world, 
+administering the ceremonial. In the early church the social service carried on by 
+deacons seems to have been rooted in the liturgical celebration (see the Apology of 
+Justin Martyr). 
+11 
+28. The social services so central to the diaconal communities and ministries founded in 
+the 19th century continue to be a vital aspect at the church's witness and ministry. 
+These services were rooted in a rich worship and community life. The integration of 
+worship and service remains a concern for the various diaconal ministries of the 
+church. 
+III DIVERSITY AND COMMONALITY OF PRESENT FORMS OF 
+DIACONAL MINISTRY 
+A. DIVERSITY AND UNITY 
+29. In some traditions and congregations, recent liturgical renewal has included a revival 
+of the specific liturgical role of the deacon (cf. 27). In other traditions, various 
+members at the laity have assumed one or more of these ritual elements. 
+Representatives of the laity served to encourage all the laity in their daily ministries. 
+The revival of the deacon's specific liturgical role need not exclude liturgical 
+expressions of lay ministry. It should give appropriate leadership to the diaconal 
+dimension and character of the daily ministry of all the baptised. 
+30. The diaconate and other diaconal ministries have taken highly diverse forms in the 
+Lutheran and Anglican communions. Not only have the differences existed between 
+the two traditions, but diaconal ministries within each tradition have been so 
+multiform that they are difficult to categorise. Some generalisations can, however, be 
+made about diaconal ministry in each tradition. 
+31. The Anglican tradition has preserved an ordained diaconate, whether transitional or 
+permanent, and "deacon" in an Anglican context usually refers to someone in this 
+office. But Anglican churches also have deaconesses and other especially designated 
+persons who carry out diaconal ministry (e.g., licensed lay workers, communities of 
+religious). 
+32. At the time of the Reformation, Lutheran churches did not preserve an ordained 
+diaconate within a threefold ordering of ministry. "Deacon" in most Lutheran 
+traditions refers to a person consecrated or commissioned to a ministry focused on 
+parish work or social service, but not ordained, i.e., their ministry has not generally 
+been seen as a form of the single ordained ministry, usually understood by Lutherans 
+to be the office of Word and sacrament. Some deacons or diaconal ministers have 
+liturgical roles. Deaconesses are known in many countries, many churches have a 
+variety of diaconal ministries, and the ordained diaconate has been revived in some 
+Lutheran churches. 
+12 
+33. The diversity of diaconal ministries in the Anglican and Lutheran churches is not a 
+difference that breaks or blocks communion between our churches. The possibility of 
+diversity in the diaconate and diaconal ministries has been affirmed in Anglican-
+Lutheran dialogues since their beginnings in 1909 (Anglican Communion - Church of 
+Sweden). 
+34. To be ecumenically fruitful, diversity must be open to cooperation and mutual 
+enrichment. Our traditions have influenced each other in diaconal ministry in the past. 
+The Anglican tradition has held up the model of an ordained diaconate for all 
+churches shaped by the Reformation of the sixteenth century. The deaconess 
+movement that arose in nineteenth century German Lutheranism found an echo in the 
+founding of similar communities in some Anglican churches. 
+35. Diversity is always to be seen against the background of the one church of Jesus 
+Christ, to which both Anglicans and Lutherans belong. On the one hand, diversity 
+should thus be recognisably rooted in a shared set of beliefs and commitments about 
+the mission and ministry of the church (see above, section II). Unity must not exclude 
+diversity, but diversity should be transparent to unity. 
+36. On the other hand, cooperation and enrichment are significantly furthered when our 
+various diaconal ministries are informed about and can recognise each other. Some 
+Lutheran-Anglican agreements have provided for a mutual canonical recognition of 
+ordained deacons (e.g., the Northern European Porvoo Common Statement). Mutual 
+acquaintance and recognition in diaconal ministries, however, should reach further 
+than just canonical measures. Possibilities of common learning and work need to be 
+explored. Deacons and diaconal ministers from our traditions already meet in national 
+and international organisations devoted to diaconal ministry. A deeper knowledge of 
+one another would further mutual support and encouragement, which might be 
+especially important in places where only a few deacons from each tradition are 
+present. If communion is truly a growing together into a common life, then a lively 
+sense of a common diaconal mission, carried out in many ways, is an important 
+aspect of communion. 
+B. VARIOUS FORMS OF DIACONAL MINISTRY 
+37. Many of the diaconal ministries within our churches arose in response to specific 
+needs in our societies. The dominant factors in the diversity of diaconal ministries 
+have been the various needs which they have sought to meet and the historical 
+contexts in which they arose and which shaped their character. Diaconal ministries 
+are thus often expressions of particular historical and cultural realities. 
+38. While a clearer sense of the nature of the diaconate and diaconal ministry is needed, 
+the flexibility and spontaneity that have characterised the development of many 
+13 
+diaconal ministries over the last two hundred years should not be lost. While 
+respecting cultural and historical diversity, our churches must also be ready to reflect 
+critically on these forms. Some may have outlived their usefulness. Some may need 
+to be reformed. The churches need to be open to the development of new forms of 
+diaconal ministry, as needs and the moment require. 
+39. Certain forms of diversity need here to be especially noted in order to avoid 
+misunderstanding, to further mutual recognition, and to avoid distortions. 
+40. The most obvious diversity within and between our churches is between the diaconate 
+as an ordained ministry and forms of diaconal ministry commissioned, set apart, or 
+consecrated in other ways. The issues related to ordination are discussed below in 
+section IV. 
+41. An important variable in diaconal ministry is the form of commitment called for by 
+different ministries. A significant number of such ministries call for extended or life-long 
+commitment. Some call for commitment to life in community, in various forms 
+and for various lengths of time. The form of commitment tends to reflect the 
+interrelation of ministry and personal identity. When diaconal ministry involves 
+personal identity and is not just a task (cf. paragraph 25), long-term or open-ended 
+commitment is particularly appropriate. 
+42. Different forms of diaconal ministry relate in different ways to the leadership and 
+decision-making structures of the churches. Some were initially mandated by the 
+central structures of church authority and are immediately responsible to those 
+structures. Others arose as grassroots initiatives responsible to the church in more 
+indirect ways. 
+43. A relative freedom from the central decision making structures of the churches has 
+permitted some diaconal ministries to be spaces where excluded groups (e.g., women) 
+have been able to shape and exercise their own ministries. These ministries have 
+addressed concerns sometimes ignored by the church leadership. 
+44. The danger should be recognised that such ministries can become places where the 
+ministries of women and other marginalised groups can be isolated and limited. 
+Diaconal ministries with a specific focus should not be shaped in ways that reinforce 
+oppressive stereotypes. Just as the entire life of the church, including its leadership 
+structures, is being opened to all within it, so diaconal ministries which may 
+previously have been identified with certain groups should be opened to all. For 
+example, forms of diaconal ministry that have traditionally been seen as appropriate 
+only for women can be seen as possible for men also. 
+45. Some forms of diaconal ministry have been defined by specific tasks, e.g., work with 
+youth or the sick. Others have been defined by a community, fellowship, or 
+association which has then taken up a variety of tasks, e.g., some orders of 
+deaconesses. There is no need to choose between these two forms of diaconal self-definition. 
+The church at various times needs both forms of ministry, which to a 
+14 
+degree relate to different forms or ways of life to which individuals feel themselves 
+called. 
+46. Different forms of diaconal ministry call for different sorts of preparation and 
+engagement. Some depend extensively on previous experience in church and world, 
+and do not require a special preparation of the sort now associated with seminaries 
+and university theological faculties. Others employ a more "professional" model of 
+education and certification. Again, no universal judgement should be made that any 
+particular model is the only one appropriate. Rather, careful consideration needs to be 
+given to what forms of preparation and examination a particular task and role calls for. 
+C. COMMON PRINCIPLES 
+47. Within the diversity of present forms of diaconal ministries, some common principles 
+can be recognised, applicable to both lay and ordained diaconal ministries. These 
+common principles form a background against which we can recognise the various 
+diaconal ministries in our midst. By identifying theological concerns related to 
+various forms of diaconal ministry, they also can provide guidance in thinking about 
+and shaping such ministries. Taken together, these principles do not provide an 
+exhaustive description or definition of the diaconate or diaconal ministry. The variety 
+that has typified and should typify diaconal ministries rules out such an exhaustive 
+definition. That the relation of some ministries to what is here and elsewhere 
+described as diaconal ministry is sometimes unclear is in itself not a problem. 
+48. A general description of diaconal ministers can be given: Diaconal ministers are 
+called to be agents of the church in interpreting and meeting needs, hopes, and 
+concerns within church and society. 
+49. As agents of the church, deacons and diaconal ministers do not pursue a simply self-initiated 
+and self-accountable ministry. While traditionally deacons were understood 
+to be agents of the bishop, diaconal ministers today are often agents of congregations 
+or other church bodies. In all cases, however, diaconal ministry is carried out in the 
+name of the church. 
+50. Such a relation of agency implies a relation of accountability. Accountability is a 
+many-sided relation. Diaconal ministers must account to the church for their 
+ministries. The church, however, is also accountable for providing adequate support 
+and preparation for diaconal ministries carried out in its name. Accountability should 
+not become a relation of subservience which would hinder the spontaneity and 
+flexibility which diaconal ministry often needs, and which would rule out the 
+possibility of diaconal ministry expressing a prophetic critique of the church. 
+Diaconal ministers can also at times model special forms of Christian life. Such 
+critique and modelling must be for the sake of the wider church, however, if diaconal 
+ministry is to be understood as ministry that represents the church. 
+15 
+51. Diaconal ministry typically not only seeks to mediate the service of the church to 
+specific needs, but also to interpret those needs to the church. The "go-between" role 
+of diaconal ministry thus operates in both directions: from church to the needs, hopes, 
+and concerns of persons in and beyond the church; and from those needs, hopes, and 
+concerns to the church. 
+52. Precisely as ministry that represents and is an agency of the church, diaconal 
+ministries are not only ministries of service (diakonia), but also of witness (martyria) 
+and worship (leitourgia). If diaconal ministry is carried out in the name of the church, 
+then it is only rightly carried out in the name of Christ and to the praise and glory of 
+God. The revival of a specific liturgical role for deacons in some churches points to 
+the witness and worship which occur throughout their ministry. 
+53. The interrelation of service, witness, and praise may vary widely in different forms of 
+diaconal ministry. Though the present understanding of the meaning of diakonia in 
+the New Testament is undergoing change, service typically forms the central 
+emphasis of diaconal ministry. This service is liturgically focused and brought to the 
+recognition of the church in the various roles of the deacon in the eucharist. 
+54. The church's service, however, must not cease to be a witness to the Christ who is 
+among us as one who serves. Diaconal ministry is a form of discipleship and should 
+be recognisable as such. The witnessing aspect of diaconal ministry was, and in some 
+of our churches still is, symbolised by the deacon reading the gospel within the 
+church's liturgy. This role symbolises the witness of diaconal ministry, which 
+nevertheless finds its centre in the witnessing character of its service. 
+55. Like all aspects of the Christian life, diaconal ministry is to the praise and glory of 
+God. This aspect of diaconal ministry should be particularly evident in the joy and 
+hope which should shine through diaconal ministry, even in situations which would 
+seem to induce despair. Again, this doxological aspect of diaconal ministry is 
+symbolised by specific roles deacons and diaconal ministers can and have played in 
+the liturgy of the church, e.g., proclaiming the resurrection in the Easter Vigil through 
+the Exultet. The leitourgia of diaconal ministry also includes lament and intercession. 
+The deacon thus traditionally, and today again in some churches, gathers and leads 
+the congregation's intercessory prayers. Again, however, these liturgical roles 
+symbolise the true centre of the leitourgia of the diaconal ministers, which is to be 
+found in their daily ministry. 
+56. As a specific and focal form of a task to which all Christians are called, the service of 
+one's neighbour, diaconal ministry should foster and bring to wider recognition the 
+ministry of others, rather than making their ministries redundant or superfluous. The 
+diaconal minister should lead and inspire the wider church in its service. Here the 
+interpretive role of diaconal ministry plays a special role. Diaconal ministries will 
+have their own specific tasks which are their own responsibility. As a ministry of the 
+whole church, however, this ministry should have a multiplying effect, leading others 
+to their own specific tasks of service. 
+16 
+57. As a ministry of the church, diaconal ministry is not the ministry of isolated 
+individuals, but should reflect the personal, collegial, and communal aspects of the 
+church's ministries (cf. BEM, Ministry, 26). One possible form of such collegiality is 
+the mutual support and communal life of the various communities, associations, and 
+mother houses that have proved important to the vitality of many diaconal ministries. 
+These forms of life have provided important opportunities for mutual support in often 
+invisible and thankless work, have called forth special gifts, and have provided 
+examples of committed community for other ministries and the church. 
+IV AN ORDAINED DIACONATE 
+A. THE QUESTION OF AN ORDAINED DIACONATE 
+58. Previous sections have laid the foundation for a more focused consideration at this 
+point of a renewed or re-established diaconate within the ordained ministry. Unless 
+otherwise specified, in this section the terms "deacon" and "diaconate" refer to an 
+ordained ministry. 
+59. It is important to reiterate here that questions surrounding the renewal or the re-establishment 
+of the diaconate as an ordained ministry in the contemporary church do 
+not constitute a church-dividing problem for Lutherans and Anglicans. The way in 
+which Lutherans and Anglicans today hear the questions surrounding the diaconate is 
+coloured by their differing histories. These questions are, nevertheless, addressed in 
+the context of remarkable ecumenical agreements already existing between the two 
+traditions as they move toward the explicit goal of full communion. Such agreements, 
+on the one hand, fully document mutual concern for the historical ordering of 
+ministry as a sign of apostolicity, and, on the other hand, find in such a common 
+grounding the basis for a certain freedom to address critically the issues around the 
+effective ordering of ministries in the contemporary church as it seeks to serve and 
+proclaim the gospel. 
+60. Contemporary discussion about a renewed or re-established diaconate is, of course, 
+by no means limited to our two traditions. Wider catholic tradition, contemporary 
+scholarship, and ecumenical conversation place before Lutherans and Anglicans 
+questions concerning a renewed diaconate. Three sources in particular inform present 
+reflections: (1) the insights of BEM on the diaconate (Ministry, 31); (2) the historical-philological 
+corrective to earlier understandings of the diakon-words provided by 
+John Collins' Diakonia (see above, 3f); and (3) the long tradition that finds the 
+paradigm for the entire ministry of the deacon in the deacon's liturgical role in and 
+about the paschal proclamation (Exultet) at the Great Vigil of the Resurrection. 
+17 
+61. From these sources there emerges a renewed definition of diaconate for our time that 
+understands deacons to be not merely an inferior order of ministers exercising lowly 
+service, but agents ordained to assist the community's presider (bishop/presbyter), 
+both in the proclamation and celebration of Word and sacrament, as well as in the co-ordinating 
+of the community's diakonia in Christ. As in the paschal liturgy, the 
+deacon not only proclaims "the light of Christ", inviting the people to join in praise 
+and thanksgiving, but also leads the community into ministry with "the light of 
+Christ". While remaining faithful, then, to ancient theological understandings and 
+structures of ministry, such a definition, in fact, provides challenges as well as 
+opportunities for both the Lutheran and Anglican traditions as they have historically 
+addressed and carried out the diaconate and diaconal ministries. 
+62. In both traditions the distinctive role of the diaconate within the ordained ministry has 
+been absorbed into the presbyterate on the basis of developments that obtained in the 
+western church from the middle ages to the eve of the 16th-century reformations. The 
+Anglican tradition, for instance, preserved the form of the diaconate, while the 
+Lutheran tradition for the most part did not. Furthermore, where Anglicans retained 
+some semblance of a liturgical role for the diaconate in Word and sacrament, 
+pastorally they treated the order essentially as an apprenticeship for presbyterate. 
+Among Lutherans the diaconate as an order within the one ministry of Word and 
+sacrament did not survive. Rather, a revival of lay diaconal ministries, carrying out 
+socio-caritative-educational work without a liturgical base in the church, has 
+characterised most Lutheran practice since the nineteenth century. 
+B. THE MEANING OF ORDINATION IN RELATION TO THE DIACONATE 
+63. In the contemporary situation the meaning of ordination in relation to the diaconate is 
+an issue of central importance. 
+64. For many (but not all) Lutheran churches, the ordination of deacons would be a new 
+development requiring a convincing rationale. Specifically, such a proposal would 
+require a broader understanding of the traditional Lutheran doctrine of ordained 
+ministry. For many (but not all) Anglican churches, whether they are for or against 
+the renewal of the diaconate, retention of it in "form only" has grown increasingly 
+problematic in the contemporary situation. Thus it becomes necessary to reconsider 
+the language used in relation to ordination itself. In the case of a renewed or re-established 
+diaconate, ordination (1) is into both an activity and an identity; (2) calls 
+for some kind of open-ended or life-long commitment; (3) includes recognition as 
+being within the one ordained ministry of Word and sacrament; and (4) entails a 
+symbolic as well as a practical relationship to the whole community that provides for 
+the public exercise of this ministry as well as for its accountability. Such a way of 
+talking about the diaconate has the advantage of going through and beyond the old 
+dichotomies of "functional" versus "ontological" by giving the diaconate a 
+specifically ecclesiastical location and expression (see above, 25). 
+18 
+65. In this regard, appropriate reference can be made to those significant statements in 
+BEM (Ministry, 29-31) that deal with the unity as well as particular characteristics of 
+ordained ministry, whether of the bishop, presbyter, or deacon. Here within the one 
+ordained ministry may be found a threefold expression on the basis of the principle 
+"distinction without separation". Yet with respect to a renewed or re-established 
+diaconate, it is precisely here that challenging issues arise for Lutherans and 
+Anglicans. In addition, both traditions also face questions about the relation of this 
+order to (1) the presbyterate, (2) those already exercising non-ordained diaconal 
+ministries, and (3) all the baptised (laos). In each, there exist both problems and 
+opportunities. 
+66. Thus, for instance, Lutheran churches without an ordained diaconate are challenged 
+to consider whether such a diaconate as has been described above (including a 
+liturgical grounding in the ministry of Word and sacrament) would be of value in 
+their service of the gospel and, if so, whether a diaconal ministry more reflective of 
+the practice of the wider church and Christian tradition could appear as a legitimate 
+development for Lutherans. 
+67. Anglican churches are challenged to restore to the diaconate (as defined above) its 
+character as a lifelong and distinct form of ordained ministry, including with its 
+liturgical function a pastoral focus on caritas and justitia in church and society. Such 
+a restoration would imply both a reconsideration of the transitional diaconate and the 
+possibility of direct ordination to the priesthood of persons discerned to have 
+presbyteral vocations without their "passing through" the diaconate. The possibility of 
+such direct ordination is not excluded on historical or theological grounds. 
+68. In both traditions, the presbyters may perceive a renewed diaconate as a threat to their 
+own identity and role. This will be especially so where the presbyteral office is seen 
+as the embodiment of all ordained ministry. If, however, presbyters can welcome 
+deacons as partners-in-ministry, both liturgically and within the church's mission, 
+then they may themselves be freed to exercise a more focused ministry, bearing 
+responsibility for the life of the community in Word and sacrament. In this way, too, 
+the diaconate can stand as a witness against the perennial threat of clericalism, an 
+ecclesiastical distortion rooted in exclusivist attitudes and practices. Deacons are 
+called by the very nature of their order to stand as a witness to presbyters and bishops 
+that the authority of all ordained ministry is for service alone. 
+69. The re-establishment of a diaconate within the ordained ministry need not appear as a 
+denigration of the work of diaconal orders, agencies, or persons who exercise 
+ministries to, for, and with the oppressed, the marginalised, or the poor. It would be 
+surprising, rather, if deacons did not urgently strive to link these diaconal groups with 
+the life of the congregations they serve in order more effectively to carry out together 
+the church's mission. It might also occur through such contact that diaconal orders, 
+agencies, or persons would, over time, come to a new appreciation of the connection 
+between the worship that is at the heart of Christian communities and their own life 
+of service. In turn, they might seek creative ways to connect this service with the 
+liturgical life of congregations. 
+19 
+70. In our own day, one of the chief arguments against a renewed diaconate is often a 
+concern that various ministries in worship now exercised by lay persons as the result 
+of movements of liturgical renewal might be re-absorbed into a clerical order. It is 
+asked whether a re-established diaconate will more generally usurp lay ministries. 
+These concerns have arisen to the extent that laity have ceased in our age to be the 
+passive recipients or consumers of ministry at the hands of the ordained and become 
+active participants in the church's mission. If, however, deacons are understood as the 
+very persons who (1) "represent to the church (laos) its calling as servant," and (2) 
+"exemplify the interdependence of worship and service" (B EM, Ministry, 31), then 
+we can address the concern that what deacons do is the same as what Christians in 
+general could or should do. In fact, deacons have no special powers or activities 
+exclusively reserved to them. What is, however, distinctive is their call to be publicly 
+accountable servants of the church who have a charge to model, encourage, and co-ordinate 
+diakonia. This is the particular call or vocation of the deacon that is not 
+shared by all Christians. 
+71. There are also professional implications in regard to a renewed or re-established 
+diaconate in the contemporary church. Questions and concerns here, in fact, are often 
+voiced prior to any sustained theological or ecclesiological reflection on the 
+diaconate. At this point it must simply be indicated that a great diversity of approach 
+is possible in dealing with a renewed diaconate according to ecclesiastical 
+circumstances and missionary need. Thus a renewed diaconate could be exercised as 
+full-time or part-time, stipendiary or non-stipendiary. When paid, remuneration could 
+be from either church or non-church sources. Whatever the case, these questions are 
+secondary to theological, liturgical, and ecclesiastical considerations. 
+72. Finally, both traditions would be challenged to ensure that appropriate forms of 
+education and formation for this ministry are developed within their various agencies 
+of theological education. In such planning and development it will be important to 
+consider what aspects of diaconal formation and education will best be done in 
+conjunction and community with those preparing for presbyteral or lay ministries and 
+which parts solely with candidates for the diaconate. Given the nature of ordained 
+diaconal ministry, the bulk of the preparation probably will need to occur in the 
+former manner. In any case it will be important that formation in diakonia, as well as 
+in the ability to form others in diakonia occurs. 
+C. THE RENEWAL OF THE DIACONATE AS AN OPPORTUNITY FOR 
+UNITY AND JOINT MISSION 
+73. The renewal of the church's diaconate at this time presents a unique opportunity for 
+deepened unity and joint endeavour in the life and mission of the Anglican and 
+Lutheran, as well as other churches. 
+20 
+74. The process of ecumenical dialogue and theological reflection is one which itself 
+helps to build and deepen koinonia among Christians of different communions. 
+Discussions about the place and practice of diakonia in baptised and ordered 
+Christian life can positively influence the future of the church and how the church is 
+seen and manifested in the world. Not only do such discussions help to further the 
+work on ministry begun in BEM, they also contribute to an overarching 
+ecclesiological vision which can strengthen the bonds among Christians of the 
+Lutheran, Anglican, and other traditions. 
+75. The diaconate offers a theme for ecumenical exploration which can result in a more 
+effective co-ordination of efforts to renew mission and liturgy both within and among 
+these differing traditions. It is an exploration which pushes churches to rethink 
+existing assumptions, and to reach greater clarity in their theological and functional 
+understanding of the offices of presbyter and bishop. Such clarity can only help to 
+enhance liturgical practices and the way in which they shape the intentional daily 
+ministry of all baptised Christians. 
+76. The contribution of the diaconal movement initiated in the 19th century by the 
+churches in Germany and spread throughout the Lutheran communion has set an 
+inspiring example of diaconal works already being performed by many Christians, 
+both individually and corporately, both unofficially and in the name of the church. 
+Raising the possibility of an ordained diaconate, visibly incorporated into ordered 
+ministry and eucharistic liturgy, challenges the church in every location both to take 
+greater ownership of diakonia as a sign of apostolicity and to encourage the whole 
+people of God to understand their daily life as an arena for Christian service. 
+Likewise, the emergence of a distinctive, lifelong ordained diaconate in the Anglican 
+Church invites all Christians better to integrate worship and service in their daily 
+lives. A revitalised diaconate can be a means for equipping the laity to become 
+serving leaders in their various callings and for mobilising them to become effective 
+agents for the transformation of worldly structures and institutions. 
+77. The church's diakonia is characterised by practical expressions of God's redeeming 
+love in concrete acts of justice, reconciliation, and healing. A renewed diaconate can 
+effectively strengthen these acts with the church's authority and blessing by linking 
+them with the eucharistic meal. Such a renewal opens the door for shared endeavours 
+which can be undertaken locally and by the wider church. Indeed, such associations 
+of diaconal communities as the Kaiserswerthe Diakonieverband, Diakonia, the World 
+Federation of Diaconal Associations and Diaconal Communities and its regional 
+bodies, represent ecumenical and collaborative possibilities which should be further 
+explored. 
+78. Regardless of differing practices and assumptions, deacons and diaconal ministers of 
+all traditions are closely bound together by their common awareness of exercising 
+servanthood within and beyond the church, wherever hope and suffering present 
+opportunities for justice and healing. There is a powerful potential for further 
+initiatives along these lines: 
+21 
+• Anglican and Lutheran parishes and congregations sharing the ministry of deacons 
+and diaconal ministers of either tradition, borrowing or seconding deacons and 
+diaconal ministers in areas where one or the other tradition is sparsely represented; 
+• joint presentations at synodical or convention gatherings on the "needs, hopes and 
+concerns of the world" as perceived and experienced by deacons and diaconal 
+ministers; 
+• invitations to deacons or diaconal ministers of one tradition to participate in the 
+liturgies of the other, particularly on major occasions; 
+• opening up diaconal associations of a "third order" type to women and men of both 
+traditions exercising diaconal ministry; 
+• initiating joint pilot or demonstration projects using pooled resources from Anglican 
+and Lutheran jurisdictions to encourage experimentation and learning with regard to: 
+• new patterns of stipendiary and non-stipendiary ministry; 
+• ways of discerning diaconal as distinct from presbyteral vocations and encouraging 
+churches, where ready, to ordain accordingly; 
+• theological and ministerial training and formation; 
+• encouraging and supporting churches which may not at this time have a diaconate to 
+initiate a diaconate as appropriate to their ministry needs. 
+V CONCLUSION 
+79. This study has been conducted under the theme of the diaconate and diaconal 
+ministries as an ecumenical opportunity for the contemporary life and mission of the 
+churches. If diaconal ministry is to be pursued in the name of the wider church, it 
+must be ecumenically open. In a situation of division, most diaconal ministries will 
+be rooted in and accountable to a particular church body. Nevertheless, the mandate 
+of diaconal ministry is laid upon the entire church of Jesus Christ. The call to witness 
+to the unity we have been given and to contribute to the unity we' seek is also 
+addressed to deacons and diaconal ministers. Precisely because diaconal ministry is 
+not burdened with the problems of validity and canonical recognition which hinder 
+our visible unity in the exercise of presbyteral and episcopal ministry, we are called 
+all the more to take up the possibilities before us for common diaconal ministry. The 
+question and opportunity thus become clear: could forms of joint, common, or united 
+diaconal ministry precede and clear the way for a joint, common, or united 
+presbyterate or episcopacy? Joint oversight of diaconal ministries could provide a 
+focus for movement into a joint exercise of episkopé. Our churches and our diaconal 
+ministers need to be imaginative in shaping diaconal ministries ecumenically. 
+22 
+Appendix 1 Anglican-Lutheran Consultation on the Diaconate 
+Emmaus Centre, West Wickham, Kent, England 
+24-30 April 1995 
+Anglicans 
+* The Rt Revd David Tustin - Co Chair 
+The Revd Canon Dr Sebastian Bakare 
+* The Very Revd William Petersen 
+Deacon Ormonde Plater 
+* The Rt Revd Barry Rogerson 
+The Revd Sr Teresa (J White), CSA 
+* Deacon Maylanne Whittall 
+* The Revd Dr Donald Anderson - Co Secretary 
+Lutherans 
+* Prof Dr Ambrose Moyo - Co Chair 
+The Revd Dr Risto Ahonen 
+* The Revd Dr Walter Bouman 
+* Prof Dr Sven-Erik Brodd 
+* The Rev Dr Norma Cook Everist 
+Prof Dr Carter Lindberg 
+Schwester Anna-Maria aus der Wiesche 
+* The Revd Dr Eugene Brand - Co Secretary 
+Consultants 
+Prof Dr Michael Root 
+The Revd Dr Dieterich Pfisterer [unable to attend] 
+Orthodox Participant 
+Ms Kyriaki FitzGerald 
+Roman Catholic Participant 
+The Revd Mgr William Steele 
+Administrative Secretary 
+Ms Christine Codner 
+* Also attended the Anglican-Lutheran International Commission Meeting held in 
+Hanover, Germany October 1995 
+23 
+Appendix 2 The Anglican-Lutheran International Commission 
+Hanover, Germany 
+5-11 October 1995 
+Anglicans 
+The Rt Revd David Tustin - Co Chair 
+The Revd Dr John Flynn [unable to attend] 
+The Rt Revd Charles Mwaigoga 
+The Rt Revd Sumio Takatsu 
+The Very Revd William Petersen 
+The Rt Revd Stephen Sykes [unable to attend] 
+The Revd Dr Donald Anderson - Co Secretary 
+Lutherans 
+The Revd Dr Ambrose Moyo - Co Chair 
+The Revd Dr Walter Bouman 
+The Rt Revd Dr Tore Furberg 
+The Revd Dr Christa Grengel 
+The Revd Dr B C Paul 
+The Revd Dr Karlheinz Schmale 
+The Revd Dr Eugene Brand - Co Secretary 
+Consultants 
+Prof Dr Sven-Erik Brodd 
+The Revd Dr Norma Cook Everist 
+The Rt Revd Barry Rogerson 
+Deacon Maylanne Whittall 
+Administrative Secretaries 
+Ms Christine Codner 
+Ms Irmhild Reichen-Young 
