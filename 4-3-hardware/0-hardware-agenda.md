@@ -2,32 +2,35 @@
 
 ## Agenda
 
+* Soundcore: return?
 * Better Brother scanner?
 * pcStick: fix
 * pcMele: ??
 * Dronatella ~ front Elevation ~ roses
-* Loona
 * Squegg Video
 * Play with camera
 * Play with Loona
-* Prep Oura
-* Prep Monocle
 * Build hand
 * All-in-one ~ Kickstarter pledged ~ link
-* Self flying drone
-* HW: all-in-one ~ pledged
 * SuperHexa: check for update
-* Laser Printer: 
-* ?
 
 ## Acquisitions
 
 * New keyboard?
 * Suitcase: Solgaard backpack with folding closet
-* Bidet: Wirecutter recommendations
 * Short throw projector: ??
 * Trike: ??
 * Trackpad??
+
+  
+
+## Change Log
+
+* Laser Printer: 
+* Prep Oura
+* Prep Monocle
+* Bidet: Wirecutter recommendations
+* Self flying drone
 
 ## RocketBook
 
