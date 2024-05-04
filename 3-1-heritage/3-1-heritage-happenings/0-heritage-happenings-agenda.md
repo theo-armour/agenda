@@ -1,5 +1,14 @@
 # 3.1 Heritage Happenings
 
+Agenda
+
+May
+
+* HH: Millionaire donor?
+* HH: CTO
+* RC: minutes
+* Reminders
+
 ## Heritage Happenings Submissions Guidelines
 
 Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q](https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q)
@@ -10,15 +19,9 @@ Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc](https://1drv
 
 ### Ideas Actions
 
+[Baytrish@aol.com](mailto:Baytrish@aol.com) [Jmansfield3105@gmail.com](mailto:Jmansfield3105@gmail.com) [Patski5700@sbcglobal.net](mailto:Patski5700@sbcglobal.net) [Operella@sbcglobal.net](mailto:Operella@sbcglobal.net)
 
-
-Baytrish@aol.com
-Jmansfield3105@gmail.com
-Patski5700@sbcglobal.net
-Operella@sbcglobal.net
-
-
-* HH: Ella Wong <operella@sbcglobal.net>
+* HH: Ella Wong [operella@sbcglobal.net](mailto:operella@sbcglobal.net)
 * Photo quiz: with MargaretM
 * Submission Guide
 * Style Guide
