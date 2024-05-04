@@ -2,6 +2,21 @@
 
 ## Agenda
 
+**### Subscribers**
+
+**\* Sunil**
+
+**\* Bennet**
+
+**\* Rob?**
+
+**\* Michael Mamo**
+
+**\* Paul & ??**
+
+**\* MJ's peeps  
+**
+
 ### June
 
 * HH: Millionaire donor?
