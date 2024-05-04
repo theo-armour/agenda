@@ -14,7 +14,3 @@
 * Rejig Demos
 * Theo Armour: update about
 * Every repo has a line
-
-***
-
-<center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.main.scrollTo(0,0);">❦</a></center>
