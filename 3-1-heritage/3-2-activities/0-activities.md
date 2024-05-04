@@ -1,5 +1,6 @@
 # Activities
 
+* Activity descriptions
 * Amazon for the aged ~ designated shopper Karina Margaret
 
 ## Agenda
