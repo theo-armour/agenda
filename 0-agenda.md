@@ -15,8 +15,7 @@
 * Standing desk
 * Diaconal hermeneutic
 * FeiYu VB4: updater driver
-* Cynthia: do survey
-* Manfred
+*   
 * Matthew Fuchs
 * Til: Chirp csv
 * Jason C & Quentin
