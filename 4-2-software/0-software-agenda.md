@@ -6,6 +6,8 @@
 
 ## Agenda
 
+* Fastmail?
+* https://sunshine.com/contacts/  
 * Look into AI coach
 * Heritage: calendar
 * Birthdays: in both my calendars
@@ -34,6 +36,6 @@
 
 * Keep at it
 
-* * *
+***
 
 <center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.main.scrollTo(0,0);">❦</a></center>
