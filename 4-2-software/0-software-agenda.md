@@ -7,6 +7,7 @@
 ## Agenda
 
 * Fastmail?
+* https://sunshine.com/contacts/  
 * Look into AI coach
 * Heritage: calendar
 * Birthdays: in both my calendars
