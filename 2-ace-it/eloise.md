@@ -4,6 +4,17 @@
 
 * Eloise: Silver: send it?
 
+## 2024-05-04
+
+* Training
+* Tent / Camper?
+* Studies + fire
+* Silver
+* Furniture + art
+* Truck?
+* Second burn map?
+
+
 ## 2024-04-06
 
 * Runs
