@@ -7,12 +7,12 @@
 ## Today
 
 *   
-* HH: BoD
-* HH: Christina: email addresses
+*   
 
 ## Soon
 
 * ?
+* FeiYu VB4" updater driver
 * Til: Chirp csv
 * Jason C & Quentin
 * Mia: wedding talks ~ 511 ~ price for editing?
