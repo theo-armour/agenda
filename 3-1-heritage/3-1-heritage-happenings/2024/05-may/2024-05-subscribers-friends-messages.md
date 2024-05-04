@@ -162,10 +162,17 @@ Click the links below to open your digital copies of the May publications.
 
 [_Heritage Happenings_ **Calendar**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf)
 
+The _Heritage Happenings_ Residents Directory was also updated this month. It is not available on the web. So you can have a look at it, a copy is attached to this email.
+
 This month we have added a new publication: [_Heritage Happenings_ **Floor Plans**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-floor-plans.pdf)
 
+The publications are:
 
+* Entirely composed of original content created by residents
+* Designed to be easy to read and navigate by the visually and cognitively impaired
+* Produced - apart from printing - at no cost to the Society
 
+Feedback and suggestions are always welcome!
 
 Theo
 
