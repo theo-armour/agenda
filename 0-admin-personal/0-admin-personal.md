@@ -3,6 +3,8 @@
 ## Agenda
 
 * ?
+* A: Barefoot shoes
+* Open Mail
 * Street noise
 * \_The Art o Thinking for yourself\_: cheat sheet
 * Update ICE
