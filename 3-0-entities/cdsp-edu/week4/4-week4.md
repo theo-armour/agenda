@@ -1,34 +1,13 @@
 # Week 4
 
-## https://en.wikipedia.org/wiki/Prophet
 
-In religion, a prophet or prophetess is an individual who is regarded as being in contact with a divine being and is said to speak on behalf of that being, serving as an intermediary with humanity by delivering messages or teachings from the supernatural source to other people.[1][2] The message that the prophet conveys is called a prophecy.
+I can relate to most of Rod's points Except for the first that the diagnostic is gospel-based.
 
-Prophethood has existed in many cultures and religions throughout history, including Mesopotamian religion, Zoroastrianism, Judaism, Christianity, Manichaeism, Islam, the Baháʼí Faith, and Thelema.
+I have just looked at the gospel mark and I see that there are about 80 significant elements to the gospel I have not looked at the other gospels, but I assume in total of the four canonical gospels is probably not more than about 200 elements. By elements I made parables and other. Little stories that can be identified as an entity. I gathered these from the Gospel of Mark in Wikipedia.
 
+There is not a lot of source material. Are there 1000 ideas, 2000 at the most?
 
-## https://en.wikipedia.org/wiki/Prophecy
-
-In religion, a prophecy is a message that has been communicated to a person (typically called a prophet) by a supernatural entity. Prophecies are a feature of many cultures and belief systems and usually contain divine will or law, or preternatural knowledge, for example of future events. They can be revealed to the prophet in various ways depending on the religion and the story, such as visions, divination, or direct interaction with divine beings in physical form. Stories of prophetic deeds sometimes receive considerable attention and some have been known to survive for centuries through oral tradition or as religious texts.
-
-Prophecy is a prediction or the disclosure of information that is not known to the prophet by any ordinary means.
-
-## https://en.wiktionary.org/wiki/prophecy
-
-prophecy (countable and uncountable, plural prophecies)
-
-Two meanings:
-
-1. A prediction, especially one made by a prophet or under divine inspiration
-
-> French writer Nostradamus made a prophecy in his book.
-
-2. The public interpretation of Scripture.
-
-## The End
-
-* https://en.wikipedia.org/wiki/Apocalypse
-* https://en.wikipedia.org/wiki/Second_Coming
+It seems to me that it would be difficult to come up with anything new or anything that hadn't been heard before when trying to prophecies the gospels And they only apply to a limited number of situations. So the applicability to whatever you're looking at today may be quite. may be quite remote If any relation exists at all. 
 
 
 ## Humpty Dumpty
@@ -36,6 +15,9 @@ Two meanings:
 When I use a word,” Humpty Dumpty said in rather a scornful tone, “it means just what I choose it to mean — neither more nor less.”
 “The question is,” said Alice, “whether you can make words mean so many different things.”
 “The question is,” said Humpty Dumpty, “which is to be master – – that’s all.”
+
+
+## diaconal hermeneutic Session 4
 
 The Diaconal Hermeneutic is—
  • Gospel based ~ of proclaiming—not just reading—the Gospel
@@ -47,9 +29,7 @@ The Diaconal Hermeneutic is—
  • real not theoretical
 
 
-## Creator, Redeemer and Sanctifier
-
-* https://en.wikipedia.org/wiki/Creator_deity
+## ChatGPT
 
 Here's a summary of the document:
 Main ideas:

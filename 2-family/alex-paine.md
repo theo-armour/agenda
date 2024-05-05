@@ -2,10 +2,36 @@
 
 * Message to Alex: being sacked by Autodesk
 
+## 2024-05-05
+
+Being debilitated
+
+* Pain is debilitating
+* Work stress is debilitating
+* Marital stress is debilitating
+* Depression is debilitating
+
+Having all of these is just about insurmountable.
+
+Most people are clueless about what the implications of depression. They think you could bootstrap happiness, if you wanted to.
+
+Depression is like an always-there pain. It confuses, it fogs the brain, it takes you out of being in the moment.
+
+How much of the issue was started in school. At SPS?
+
+
+Remediation
+
+* Reading about finding happiness is maybe more satisfactory than reading about coping with depression
+* Exercise is wonderful
+* Don't break the chain ~ Atomic habits
+* Writing, making lists?
+* Wondering: knitting or needlepoint?
+
+
 ## 2023-10-25
 
 Hi Alex
-Alex
 
 I do not remember whether the toe fusion procedure is this week or some other time.
 

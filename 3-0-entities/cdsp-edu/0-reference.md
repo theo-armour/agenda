@@ -1,10 +1,18 @@
 # Reference
 
-## Students
+## Acronymns
 
-* Melissa Carter
-* Maureen Carey
+* TEC ~ The Episcopal Church.
+* BCP ~ Book of Common Prayer
 
+
+
+## Apocalypse
+
+The End
+
+* https://en.wikipedia.org/wiki/Apocalypse
+* https://en.wikipedia.org/wiki/Second_Coming
 
 ## Baptismal Covenant
 
@@ -86,6 +94,13 @@ the overseer or presiding officers of a Christian church
 >Exegesis is a critical explanation or interpretation of a text, particularly a religious text. Traditionally the term was used primarily for work with the Bible; however, in modern usage biblical exegesis is used for greater specificity to distinguish it from any other broader critical text explanation.
 
 
+## Gospel ~ "Good News"
+
+* https://en.wikipedia.org/wiki/Gospel
+* https://en.wikipedia.org/wiki/Gospel_of_Mark
+
+
+
 ## Hermeneutics
 
 * https://en.wikipedia.org/wiki/Hermeneutics
@@ -140,11 +155,27 @@ Hermeneutics = "Understanding the architect's vision"
 
 >Originalism is a method of constitutional and statutory interpretation. Originalists assert that legal text should be interpreted based on the original understanding at the time of adoption. Originalists object to the idea of the significant legal evolution being driven by judges in a common law framework and instead favor modifications of laws through the Legislature or through Constitutional amendment.
 
+## Orders
+
+* https://en.wikipedia.org/wiki/Monasticism
+* https://en.wikipedia.org/wiki/Friar
+
+
 ## Ordination
 
 * https://en.wikipedia.org/wiki/Ordination
 
 >There are three ordinations in Holy Orders: deacon, presbyter, and bishop. Both bishops and presbyters are priests and have authority to celebrate the Eucharist. In common use, however, the term priest, when unqualified, refers to the order of presbyter, whereas presbyter is mainly used in rites of ordination and other places where a technical and precise term is required.
+
+
+
+
+## https://en.wikipedia.org/wiki/Prophet
+
+In religion, a prophet or prophetess is an individual who is regarded as being in contact with a divine being and is said to speak on behalf of that being, serving as an intermediary with humanity by delivering messages or teachings from the supernatural source to other people.[1][2] The message that the prophet conveys is called a prophecy.
+
+Prophethood has existed in many cultures and religions throughout history, including Mesopotamian religion, Zoroastrianism, Judaism, Christianity, Manichaeism, Islam, the Baháʼí Faith, and Thelema.
+
 
 
 ## Pentecost
@@ -158,6 +189,26 @@ Hermeneutics = "Understanding the architect's vision"
 * https://en.wikipedia.org/wiki/Christian_theological_praxis
 
 >Christian theological praxis is a term used by most liberation theologians to express how the Gospel of Jesus Christ is to be lived in the world.
+
+
+## https://en.wikipedia.org/wiki/Prophecy
+
+In religion, a prophecy is a message that has been communicated to a person (typically called a prophet) by a supernatural entity. Prophecies are a feature of many cultures and belief systems and usually contain divine will or law, or preternatural knowledge, for example of future events. They can be revealed to the prophet in various ways depending on the religion and the story, such as visions, divination, or direct interaction with divine beings in physical form. Stories of prophetic deeds sometimes receive considerable attention and some have been known to survive for centuries through oral tradition or as religious texts.
+
+Prophecy is a prediction or the disclosure of information that is not known to the prophet by any ordinary means.
+
+## https://en.wiktionary.org/wiki/prophecy
+
+prophecy (countable and uncountable, plural prophecies)
+
+Two meanings:
+
+1. A prediction, especially one made by a prophet or under divine inspiration
+
+> French writer Nostradamus made a prophecy in his book.
+
+2. The public interpretation of Scripture.
+
 
 ## Triads
 
