@@ -1,6 +1,5 @@
 # Week 4
 
-
 ## https://en.wikipedia.org/wiki/Prophet
 
 In religion, a prophet or prophetess is an individual who is regarded as being in contact with a divine being and is said to speak on behalf of that being, serving as an intermediary with humanity by delivering messages or teachings from the supernatural source to other people.[1][2] The message that the prophet conveys is called a prophecy.

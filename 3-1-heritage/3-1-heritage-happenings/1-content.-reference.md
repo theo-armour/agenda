@@ -89,7 +89,14 @@
 
 ### May
 
-* Cinco de Mayo
+* Cinco de Mayo Mariach Band
+* Song Request: El Mariachi loco is the one who dances ~ musicians have to dance
+* Big guitar Guiteron ~ https://en.wikipedia.org/wiki/Guitarr%C3%B3n_mexicano
+* Small guitar Vihuela ~ https://en.wikipedia.org/wiki/Mexcican_vihuela
+* https://en.wikipedia.org/wiki/Mariachi
+* La Bamba
+* Guantanamara
+* La Cucaracha
 * Asian Pacific American Heritage Month
 * Memorial Day
 * Mother's Day

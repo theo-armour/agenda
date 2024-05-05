@@ -1,5 +1,84 @@
 # Matthew Fuchs
 
+
+## A data structure for things
+
+Data Types
+
+* Point clouds
+* Gradient vector fields
+* Meshes
+* Textures
+* Volumes
+* Curves
+* Surfaces
+* Graphs
+* Trees
+* Matrices
+* Tensors
+* Strings
+* Numbers
+* Booleans
+* Dates
+* Times
+* Time intervals
+* Time series
+* Geometries
+* Colors
+* Images
+* Videos
+* Sounds
+* Documents
+* Spreadsheets
+* Presentations
+* Databases
+* Programs
+* Scripts
+* Functions
+* Libraries
+* Applications
+* Operating systems
+* Networks
+* Servers
+* Clients
+* Browsers
+
+Coordinate Systems
+
+* Cartesian
+* Polar
+* GPS
+* Geographic
+* Universal Transverse Mercator
+* 3d
+
+Belong in a Set
+
+* Any place can belong to any number of sets
+* The set be be defined in terms of volume, area, or points,
+* The set can be defined in terms of time, or time intervals
+* The set can be defined in terms of a hierarchy
+* The set can be defined in terms of a network
+* The set can be defined in terms of a graph
+* The set can be defined in terms of ownership
+* The set can be defined in terms of access
+* The set can be defined in terms of control
+* The set can be defined in terms of use
+
+Operations
+
+* are federated
+* are distributed
+* are asynchronous
+* are atomic
+* are transactional
+* are immutable
+
+## USD
+* https://openusd.org/docs/Introduction-to-USD.html
+* https://en.wikipedia.org/wiki/Universal_Scene_Description
+
+
 ## Taking AR Seriously
 
 The Wall Between the Virtual and the Real has Collapsed
