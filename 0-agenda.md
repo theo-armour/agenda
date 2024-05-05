@@ -14,8 +14,7 @@
 * ?
 * Standing desk
 * Diaconal hermeneutic
-* FeiYu VB4: updater driver
-* Matthew Fuchs
+*   
 * Til: Chirp csv
 * Jason C & Quentin
 * Mia: wedding talks ~ 511 ~ price for editing?
