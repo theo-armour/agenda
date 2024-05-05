@@ -26,7 +26,7 @@ Remediation
 * Exercise is wonderful. everyday several workout sections at fixed periods during the day.
 * Don't break the chain ~ Atomic habits
 * Writing, making lists?
-* Wondering: knitting or needlepoint?
+* Wondering: knitting or needlepoint? something to do while watching TV? or listening to others on a zoom call
 
 
 ## 2023-10-25
