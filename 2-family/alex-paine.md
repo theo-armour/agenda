@@ -23,7 +23,7 @@ How much of the issue was started in school. At SPS?
 Remediation
 
 * Reading about finding happiness is maybe more satisfactory than reading about coping with depression
-* Exercise is wonderful
+* Exercise is wonderful. everyday several workout sections at fixed periods during the day.
 * Don't break the chain ~ Atomic habits
 * Writing, making lists?
 * Wondering: knitting or needlepoint?
