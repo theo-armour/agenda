@@ -2,9 +2,10 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-04-27 ~ Our history is not our destiny. Alan Cohan.
+*   
 * 2024-05-04 ~ Chocolate soup
 * 2024-05-05 ~ vows are nice ~ must try one sometime
+* 2024-05-05 ~ Reading about finding happiness is maybe more satisfactory than reading about coping with depression.
 
 ## Today
 
