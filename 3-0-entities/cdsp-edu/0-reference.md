@@ -44,6 +44,10 @@ The Baptismal Covenant
 
 
 
+## Christ
+
+* https://en.wikipedia.org/wiki/Christ_(title)
+
 ## Communio
 
 * https://en.wikipedia.org/wiki/Papal_supremacy
