@@ -2,6 +2,9 @@
 
 ## Agenda
 
+* Start personal timeline
+* Progress sensa.ai
+* Progress rememory
 * WordPress: 100-year Site
 * Swedish Death Cleaning
 * Check links to docs
