@@ -9,13 +9,12 @@
 
 * HH: mailings
 
-
 ## Soon
 
 * ?
 * Standing desk
 * Diaconal hermeneutic
-* Til: Chirp csv
+*   
 * Jason C & Quentin
 * Mia: wedding talks ~ 511 ~ price for editing?
 
