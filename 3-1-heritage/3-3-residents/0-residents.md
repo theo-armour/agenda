@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* Til: Chirp csv
 * Margaret jacobs: fun & games
 * MarJon: photos + scissors
 * Maretha Nell: Julia Morgan H plans
