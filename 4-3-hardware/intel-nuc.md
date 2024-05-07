@@ -74,6 +74,10 @@ User Guide
 
 BIOS
 
+Bit locker #
+* 254760-026499-448305-614185-632830-310827-421927-123739
+
+Boot
 *   F2 on boot
 *   F10 for boot options
 *   https://www.intel.com/content/www/us/en/support/articles/000005636/intel-nuc.html ~ older BIOS??

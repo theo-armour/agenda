@@ -7,7 +7,7 @@ I have just looked at the gospel mark and I see that there are about 80 signific
 
 There is not a lot of source material. Are there 1000 ideas, 2000 at the most?
 
-It seems to me that it would be difficult to come up with anything new or anything that hadn't been heard before when trying to prophecies the gospels And they only apply to a limited number of situations. So the applicability to whatever you're looking at today may be quite. may be quite remote If any relation exists at all. 
+It seems to me that it would be difficult to come up with anything new or anything that hadn't been heard before when trying to prophecies the gospels And they only apply to a limited number of situations. So the applicability to whatever you're looking at today may be quite. may be quite remote If any relation exists at all.
 
 
 ## Humpty Dumpty
@@ -16,6 +16,15 @@ When I use a word,” Humpty Dumpty said in rather a scornful tone, “it means 
 “The question is,” said Alice, “whether you can make words mean so many different things.”
 “The question is,” said Humpty Dumpty, “which is to be master – – that’s all.”
 
+## The Quest of the Historical Jesus
+
+* https://en.wikipedia.org/wiki/The_Quest_of_the_Historical_Jesus
+
+Schweitzer concluded that any future research on the historical Jesus was pointless.
+
+John Robinson
+
+* https://www.goodreads.com/book/show/2020048.The_Body
 
 ## diaconal hermeneutic Session 4
 
