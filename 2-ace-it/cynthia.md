@@ -12,6 +12,11 @@ Also
 * Less fun to compete with those less fortunate than you ~ the odds are always in your favor
 * Seek adventures instead ~ use the freedom to explore
 
+
+## 2024-05-06
+
+* Nice chat with Eloise
+
 ## 2024-04-22
 
 * Peter taylor & Eliza
