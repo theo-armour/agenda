@@ -1,6 +1,23 @@
 # Week 4
 
+## 2024-05-07
 
+What are the lenses to use when looking at the diaconate - and in particular - Rod's paper. One can look at the paper from many perspectives: human resources, education, biblical studies, anthropology,social organization, prophesy and more. What hermeneutic ideas might be good places to start in analyzing this paper from a students point of view?
+
+From my perspective any of these would be interesting to "double-click" on. I think I would like to start with the prophetic lens
+
+* A human resources lens ~ staff, organization
+* A biblical lens ~ in the gospels
+* A theological lens ~ spreading the gospel
+* A sociological lens ~ helping
+* A historical lens
+* A prophetic lens
+* A liturgical lens
+* A pastoral lens ~
+* A diaconal lens
+* A business lens ~ Chief Marketing Officer
+
+## 2024-05-0?
 I can relate to most of Rod's points Except for the first that the diagnostic is gospel-based.
 
 I have just looked at the gospel mark and I see that there are about 80 significant elements to the gospel I have not looked at the other gospels, but I assume in total of the four canonical gospels is probably not more than about 200 elements. By elements I made parables and other. Little stories that can be identified as an entity. I gathered these from the Gospel of Mark in Wikipedia.
@@ -22,9 +39,11 @@ When I use a word,” Humpty Dumpty said in rather a scornful tone, “it means 
 
 Schweitzer concluded that any future research on the historical Jesus was pointless.
 
-John Robinson
+## John Robinson
 
 * https://www.goodreads.com/book/show/2020048.The_Body
+
+
 
 ## diaconal hermeneutic Session 4
 
@@ -37,6 +56,9 @@ The Diaconal Hermeneutic is—
  • heart broken and compassionate
  • real not theoretical
 
+User
+
+please explain the "real not theoretical" section in more detail
 
 ## ChatGPT
 

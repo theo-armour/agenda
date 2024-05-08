@@ -1,13 +1,16 @@
 # Will & Trust Read Me
 
-## Agenda Trust Funding ~ high priority
+## Thoughts
 
-* Kayakomat: draft message
-* Manatt/Vivian: close out
+* As and when I am _non compos mentis_, my daughters could rotate taking responsibility for my affairs. This way the burden would be shared more equally than it might otherwise be. This in part is a reaction the comment I've heard more than once "Well, I liiked after them more than you , therefore ..."
+
 
 ## Agenda Memorandum of Personal Property
 
 * ?
+* Get a draft started
+* Use ChatGPT for help
+
 
 ## Agenda Donor Advised Fund
 
@@ -20,10 +23,16 @@
 
 ## Change Log
 
+### 2024-05-07
+
+* Done: Agenda Trust Funding
+* Kayakomat: draft message
+* Manatt/Vivian: close out
+
 ### 2024-02-16
 
 * Manatt/Vivan: message to return retainer
-* Manatt/Vivan: Vivian phone to confirm details  
+* Manatt/Vivan: Vivian phone to confirm details
 
 ### 2024-02-11
 
