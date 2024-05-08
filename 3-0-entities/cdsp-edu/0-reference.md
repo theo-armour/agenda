@@ -54,12 +54,25 @@ The Baptismal Covenant
 * https://en.wikipedia.org/wiki/Christianity_in_the_20th_century#Second_Vatican_Council
 
 
+## Covenant (biblical)
+
+* https://en.wikipedia.org/wiki/Covenant_(biblical)
+* https://en.wikipedia.org/wiki/New_Covenant
+
 
 ## Diakonia
 
 * https://en.wikipedia.org/wiki/Diaconia
 
 >An alternative spelling, diakonia, is a Christian theological term from Greek that encompasses the call to serve the poor and oppressed. The terms deaconess and diaconate also come from the same root, which refers to the emphasis on service within those vocations. In scripture deacons were those whom the Church appointed to dispense alms, and take care of the poor.
+
+
+## Doxology
+
+* https://en.wikipedia.org/wiki/Doxology
+
+>A doxology [Ancient Greek: δοξολογία doxologia, from δόξα, doxa 'glory' and -λογία, -logia 'saying' is a short hymn of praises to God in various forms of Christian worship, often added to the end of canticles, psalms, and hymns. The tradition derives from a similar practice in the Jewish synagogue, where some version of the Kaddish serves to terminate each section of the service.
+
 
 
 ## Ecclesiology
