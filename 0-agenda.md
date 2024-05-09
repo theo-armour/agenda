@@ -12,11 +12,8 @@
 ## Soon
 
 * ?
-* Shammah: Cash Web paper
-* Alix: speech
 * Standing desk
 * Diaconal hermeneutic
-* Jason C & Quentin
 * Mia: wedding talks ~ 511 ~ price for editing?
 
 ***
