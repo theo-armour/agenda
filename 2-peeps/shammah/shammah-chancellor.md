@@ -6,6 +6,44 @@ Unmarried male physicists raised as Jehovah's Witnesses with a presence on GitHu
 https://github.com/schancel
 https://github.com/paulmasson
 
+## 2024-05-08
+
+Hi Shammah
+
+Your paper reflects deep thought and extensive knowledge of social networks and digital currencies.
+
+I know and understand and agree with the issues you bring up with social networks as they stand currently. I generally follow your lines of thought on the technical implementation thought, of course from a layman's perspective.
+
+There are many possible questions that could be asked, but what I want to try and do is to identify three important ones, ask them, and discuss solving them. Then revise and repeat.
+
+First, it would be useful to identify target audience for this paper.
+
+Second, it would be useful to some text that provides examples of use cases, goals or objectives that "change the way humans communicate and think by enabling us to focus our attention on information which is objectively valuable" that can be understood by a CEO, VC or a layman. No matter how technical a paper is, ultimately the techie reader will have to explain it to the bean counter. A techie armed with the benefits of the technology in words that laypeople understand is your friend.
+
+thirdly, it would useful to outline the current stage of development of the technology and the next steps you envisage. This will help to identify the most pressing issues and the most important questions to ask relating to the next update of the paper.
+
+I hope this helps by giving you a few, fingers crossed, short, useful and actionable suggestions.
+
+Cheers,
+
+Theo
+
+## More
+
+* Features in search of benefits
+* page 5: (which are eluded to below) -> alluded
+* Who owns cash web.
+* Who owns lotus?
+* Why not IMAP?
+* Covers the problems of the current internet and the technicalsolutions that are being proposed. Now imagine I'm the CEO. What are benefits that I can understand and appreciate?
+* Where does the money go? What does the flow look like?
+* Have you run the paper through a LLM?
+* Competition: mastodon, discord, discourse, bluesky, threads, Substack, GitHub
+* Testing:
+* License
+* Implementation
+
+
 ## Cash wallet
 
 Seed phrase:
