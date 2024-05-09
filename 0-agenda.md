@@ -12,10 +12,8 @@
 ## Soon
 
 * ?
-*   
 * Standing desk
 * Diaconal hermeneutic
-*   
 * Mia: wedding talks ~ 511 ~ price for editing?
 
 ***
