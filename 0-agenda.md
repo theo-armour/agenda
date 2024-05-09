@@ -12,7 +12,7 @@
 ## Soon
 
 * ?
-* Shammah: Cash Web paper
+*   
 * Alix: speech
 * Standing desk
 * Diaconal hermeneutic
