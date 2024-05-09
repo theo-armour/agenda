@@ -100,7 +100,7 @@ Theo
 
 Editor and Designer, _Heritage Happenings_
 
-\***
+***
 
 Theo Armour<br>
 415 828 0000<br>
@@ -137,7 +137,7 @@ Theo
 
 Editor and Designer, _Heritage Happenings_
 
-\***
+***
 
 Theo Armour<br>
 415 828 0000<br>
