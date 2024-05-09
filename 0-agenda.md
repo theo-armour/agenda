@@ -15,7 +15,7 @@
 *   
 * Standing desk
 * Diaconal hermeneutic
-* Jason C & Quent
+*   
 * Mia: wedding talks ~ 511 ~ price for editing?
 
 ***
