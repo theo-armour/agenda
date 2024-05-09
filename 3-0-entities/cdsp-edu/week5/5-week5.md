@@ -4,7 +4,7 @@
 ## 2024-05-08
 
 * What are the plumb lines
-* What is Breuggemann's Grief al about
+* What is Breuggemann's Grief all about
 * Why can't I just be happy
 * What is the difference between numbness and grief
 * What is this Deacon thing all about
