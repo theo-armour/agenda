@@ -12,6 +12,7 @@
 ## Soon
 
 * ?
+* Josh: kayakomat
 * Standing desk
 * Diaconal hermeneutic
 * Mia: wedding talks ~ 511 ~ price for editing?
