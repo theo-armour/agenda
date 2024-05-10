@@ -12,7 +12,6 @@
 ## Soon
 
 * ?
-*   
 * Josh: kayakomat
 * Standing desk
 * Diaconal hermeneutic
