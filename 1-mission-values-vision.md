@@ -9,6 +9,8 @@
 
 Desire separate pages pages for many of the following
 
+Mission: By each virtues
+
 Security?
 
 * Cleanliness

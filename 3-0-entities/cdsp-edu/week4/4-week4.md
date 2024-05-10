@@ -42,7 +42,7 @@ Schweitzer concluded that any future research on the historical Jesus was pointl
 ## John Robinson
 
 * https://www.goodreads.com/book/show/2020048.The_Body
-
+* the death of God ~ https://en.wikipedia.org/wiki/John_A._T._Robinson
 
 
 ## diaconal hermeneutic Session 4

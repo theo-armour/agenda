@@ -2,9 +2,10 @@
 
 ## Appointments
 
-* Dr Kresta Tabaranza: appointment: tests?
-* Dr V: 
-* Dr Y: 13 Jine
+* Dr Kresta Tabaranza: 29 June ~ appointment: tests?
+* Dr V: May 17
+* Dr Y: 13 June
+* Dr Kattah: 27 June
 
 ## Agenda
 

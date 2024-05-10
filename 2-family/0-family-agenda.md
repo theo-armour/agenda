@@ -3,9 +3,12 @@
 ## Agenda
 
 * ?
+*What connections do I have with my family
+* What connections do I want to have with my family
 
 ## Things to consider
 
+* Family land?
 * Iliad
 * Costa Rica 2024
 * Asilomar
@@ -14,12 +17,12 @@
 
 ## Tania
 
-## \* ?  
+* ?
 
 ## Allison
 
 * Santa Barbara housing project
-* Swan Lake Ballet February 24 ~ driver ~ resto
+
 
 ## Philip
 

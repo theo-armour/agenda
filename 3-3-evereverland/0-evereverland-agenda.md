@@ -8,7 +8,7 @@
 * WordPress: 100-year Site
 * Swedish Death Cleaning
 * Check links to docs
-* Make sense of things \*
+* Make sense of things
 
 ## To Do
 

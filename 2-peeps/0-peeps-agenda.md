@@ -2,12 +2,11 @@
 
 ## Agenda
 
-Jorge <> Michael Merrill
 
 ## Peeps
 
 * Ronan: DWA policies
-* iqLand: building codes ~ pdf AI
+* Vish: iqLand: building codes ~ pdf AI
 * Quentin
 * Myint: thanks + photos + JW BL
 * Tu Phone ~ copilot

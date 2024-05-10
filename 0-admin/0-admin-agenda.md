@@ -2,7 +2,8 @@
 
 ## Actions
 
-* Kayakomat: share purchase  
+* Kayakomat: share purchase
+
 
 ## DWA + Pershing
 
@@ -21,7 +22,7 @@
 
 ## Loans AidVantage
 
-* Pay loans starting in June
+* Pay loans starting in June 2025
 
 ## Expense Tracking
 

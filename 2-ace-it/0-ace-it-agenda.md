@@ -14,13 +14,8 @@
 
 ## Agenda
 
-* Cynthia: Tania's recollections to PDF ~ transcripts
-* 77 ~ too busy ~ now Heritage Happenings ~ Final Design
-* Funding trust
-* Isabelle: operation? Waiver
-* ace: share ms365
-* Notion ~ permissions
-* Lolo: HH & chat
+* Alix's speech
+* Bee?
 
 ## Topics of conversation
 
@@ -30,6 +25,15 @@
 
 ## Change Log
 
+## 2024-05-09
+* Cynthia: Tania's recollections to PDF ~ transcripts
+* 77 ~ too busy ~ now Heritage Happenings ~ Final Design
+* Funding trust
+* Isabelle: operation? Waiver
+* ace: share ms365
+* Notion ~ permissions
+* Lolo: HH & chat
+
 ### 2024-02-24
 
 * Alix & Cynthia in SF
@@ -37,7 +41,6 @@
 * Graphics
 * Shipping
 * List of must sell items
-
 
 
 ### 2024-01-18

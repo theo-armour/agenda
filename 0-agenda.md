@@ -8,11 +8,11 @@
 ## Today
 
 * HH: mailings
+* Floris: thank you
 
 ## Soon
 
 * ?
-*   
 * Josh: kayakomat
 * Standing desk
 * Diaconal hermeneutic

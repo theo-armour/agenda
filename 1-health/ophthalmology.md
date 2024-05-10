@@ -2,7 +2,7 @@
 
 ## Appointments
 
-\* Kresta Tabaranza: 29 June @ 3:30
+* Kresta Tabaranza: 29 June @ 3:30
 
 ## Agenda
 
@@ -34,11 +34,11 @@
 ## Optometrists
 
 * VISION OPTICAL 500 Parnassus Ave, Level 1 San Francisco, CA 94143 Ph: (415) 476-3100 Fax: (415) 476-3102
-*   
+*
 
 ## Marina eyeglasses
 
-  
+
 
 \* 146 reviews ~ [https://www.yelp.com/biz/san-francisco-optics-by-alexander-daas-san-francisco-2](https://www.yelp.com/biz/san-francisco-optics-by-alexander-daas-san-francisco-2)
 

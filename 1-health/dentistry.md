@@ -1,14 +1,14 @@
 # Dentistry Teeth
 
-  
+
 
 ## Agenda
 
-\* Dr Vaderhobli: May 17 @ 10:30
+* Dr Vaderhobli: May 17 @ 10:30
 
-\* Dr Yogalakshmi: June 13 @10:30
+* Dr Yogalakshmi: June 13 @10:30
 
-  
+
 
 ## Remember
 

@@ -7,7 +7,6 @@
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * John Walker: Roxie
 
-  
 
 ## Ikons
 
