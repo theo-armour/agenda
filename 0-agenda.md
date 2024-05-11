@@ -13,6 +13,7 @@
 ## Soon
 
 * ?
+* Shoelaces
 * Ashley, Aaron, Shammah
 * Standing desk
 * Mia: wedding talks ~ 511 ~ price for editing?
