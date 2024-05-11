@@ -191,9 +191,23 @@ t.armour@gmail.com<br>
 
 Hello family and friends of Heritage on the Marina
 
-Attached please find the November issue of Heritage Happenings—our monthly news letter. It will help you track our activities and events.
+This message is to introduce you to the May issue of the Heritage Happenings publications—our monthly news letter and calendar. It is your guide as to ctivities and events we have lined up for this month.
 
-I have added your address to the subscriber list. If you would like to continue receiving the newsletter, you don't need to do anything. If you would like to unsubscribe at any time, please drop me a line.
+Click the links below to open your digital copies of the May publications.
+
+[_Heritage Happenings_ **Newsletter**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-newsletter.pdf )
+
+[_Heritage Happenings_ **Calendar**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-calendar.pdf)
+
+This month we have added a new publication: [_Heritage Happenings_ **Floor Plans**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-05-happenings-floor-plans.pdf)
+
+All the publications are:
+
+* Entirely composed of original content created by residents
+* Designed to be easy to read and navigate by the visually and cognitively impaired
+* Produced - apart from printing - at no cost to the Society
+
+I have added your email address to the subscriber list. If you would like to continue receiving the newsletter, you don't need to do anything. If you would like to unsubscribe at any time, please drop me a line.
 
 And, your thoughts and suggestions on how to craft a better publication are always welcome.
 
