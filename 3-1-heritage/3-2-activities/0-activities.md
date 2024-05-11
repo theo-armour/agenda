@@ -13,8 +13,8 @@
 
 ## Events
 
+* June 7: Longest Day ~ 80th anniversary
 * MalibuBuckeroo.com ~?
-* Angela
 * Helm music ~ [https://www.helmmusic.com/index.html](https://www.helmmusic.com/index.html)
 * Heritage Happenings
 
