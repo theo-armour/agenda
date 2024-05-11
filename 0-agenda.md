@@ -7,8 +7,7 @@
 
 ## Today
 
-* HH: mailings
-* Floris: thank you
+*   
 
 ## Soon
 
