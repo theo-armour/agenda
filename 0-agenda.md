@@ -7,15 +7,13 @@
 
 ## Today
 
-* HH: mailings
-* Floris: thank you
+* Diaconal hermeneutic: 
+* A: wall socket extender
 
 ## Soon
 
 * ?
-* Josh: kayakomat
 * Standing desk
-* Diaconal hermeneutic
 * Mia: wedding talks ~ 511 ~ price for editing?
 
 ***
@@ -28,7 +26,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
-* SW: Citrical
+* ?
 
 <details open=""><summary>Personal Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly-day</a>s<br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a><br></p><p></p></details>
 
