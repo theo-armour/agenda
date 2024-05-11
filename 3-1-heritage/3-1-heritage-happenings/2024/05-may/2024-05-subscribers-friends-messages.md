@@ -191,7 +191,7 @@ t.armour@gmail.com<br>
 
 Hello family and friends of Heritage on the Marina
 
-This message is to introduce you to the May issue of the Heritage Happenings publications—our monthly news letter and calendar. It is your guide as to ctivities and events we have lined up for this month.
+This message is to introduce you to the May issue of the Heritage Happenings publications—our monthly news letter and calendar. It is your guide as to activities and events we have lined up for this month.
 
 Click the links below to open your digital copies of the May publications.
 
@@ -207,16 +207,19 @@ All the publications are:
 * Designed to be easy to read and navigate by the visually and cognitively impaired
 * Produced - apart from printing - at no cost to the Society
 
-I have added your email address to the subscriber list. If you would like to continue receiving the newsletter, you don't need to do anything. If you would like to unsubscribe at any time, please drop me a line.
+I have added your email address to the subscriber list. If you would like to continue receiving the newsletter, you don't need to do anything. If you would like to unsubscribe at any time, please drop me a line or reply "unsubscribe" to this email.
 
 And, your thoughts and suggestions on how to craft a better publication are always welcome.
 
-Theo
+Theo<br>
+Editor and Designer, _Heritage Happenings_
 
-Theo Armour
-Editor and Designer, Heritage Happenings
-415 828 0000
-t.armour@gmail.com
+\***
+
+Theo Armour<br>
+415 828 0000<br>
+t.armour@gmail.com<br>
+<br>
 
 
 ## Calendars Wanted by subscribers
