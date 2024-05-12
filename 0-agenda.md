@@ -8,7 +8,6 @@
 ## Today
 
 * Diaconal hermeneutic: 
-* A: wall socket extender
 
 ## Soon
 
