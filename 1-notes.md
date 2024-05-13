@@ -2,6 +2,10 @@
 
 ???
 
+A network of dining room servers. People who have served me in restaurants that I like, well this should be a network of them I should be able to contact them or interact with them. They're the stars of the meal that I experienced why don't they have their own fandoms? If they move from one joint to another guess what I will go to the new joint 
+
+  
+
 El Mariachi loco is the one who dances
 
 Remembery: a startup dedicated to using AI systems to talk to old people to record their memories for posterity. This will help AI gather more data and help hope people feel more engaged and useful. 
