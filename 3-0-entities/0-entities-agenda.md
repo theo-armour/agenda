@@ -7,6 +7,9 @@
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * John Walker: Roxie
 
+## Point 65
+
+\* 2024-05-14 ~ 200K SEK sent
 
 ## Ikons
 
