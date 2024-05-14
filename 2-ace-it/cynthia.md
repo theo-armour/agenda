@@ -4,7 +4,7 @@
 
 Cynthia:
 
-.* is an AI luddite: admirable
+* C is an AI luddite: admirable
 
 Also
 
@@ -12,6 +12,9 @@ Also
 * Less fun to compete with those less fortunate than you ~ the odds are always in your favor
 * Seek adventures instead ~ use the freedom to explore
 
+## 2024-05-13
+
+* Alix speech good
 
 ## 2024-05-06
 

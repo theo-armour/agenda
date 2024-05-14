@@ -5,6 +5,15 @@
 * TEC ~ The Episcopal Church.
 * BCP ~ Book of Common Prayer
 
+## Catechism
+
+* https://globalmethodist.org/wp-content/uploads/2022/08/Catechism.pdf
+* https://www.vatican.va/archive/ENG0015/_INDEX.HTM
+* https://bcponline.org/
+* https://www.presbyterianmission.org/wp-content/uploads/catechismfull1.pdf
+* https://els.org/beliefs/luthers-small-catechism/
+* https://founders.org/about
+* https://en.wikipedia.org/wiki/Catechism#Orthodox_catechisms
 
 
 ## Apocalypse
@@ -13,6 +22,7 @@ The End
 
 * https://en.wikipedia.org/wiki/Apocalypse
 * https://en.wikipedia.org/wiki/Second_Coming
+
 
 ## Baptismal Covenant
 
@@ -47,6 +57,7 @@ The Baptismal Covenant
 ## Christ
 
 * https://en.wikipedia.org/wiki/Christ_(title)
+
 
 ## Communio
 
@@ -104,6 +115,7 @@ the overseer or presiding officers of a Christian church
 * https://www.diocal.org/resource/deacons/
 * https://www.diocal.org/wp-content/uploads/2023/05/DioCalDeaconsHandbook_10_2022_FINAL.pdf
 
+
 ## Exigesis
 
 * https://en.wikipedia.org/wiki/Exegesis
@@ -117,12 +129,12 @@ the overseer or presiding officers of a Christian church
 * https://en.wikipedia.org/wiki/Gospel_of_Mark
 
 
-
 ## Hermeneutics
 
 * https://en.wikipedia.org/wiki/Hermeneutics
 
 >Hermeneutics is the theory and methodology of interpretation, especially the interpretation of biblical texts, wisdom literature, and philosophical texts. Modern hermeneutics includes both verbal and non-verbal communication as well as semiotics, presuppositions, and pre-understandings. Hermeneutics has been broadly applied in the humanities, especially in law, history, theology, and philosophy.
+
 
 ### Techie interpretation
 
@@ -185,8 +197,6 @@ Hermeneutics = "Understanding the architect's vision"
 >There are three ordinations in Holy Orders: deacon, presbyter, and bishop. Both bishops and presbyters are priests and have authority to celebrate the Eucharist. In common use, however, the term priest, when unqualified, refers to the order of presbyter, whereas presbyter is mainly used in rites of ordination and other places where a technical and precise term is required.
 
 
-
-
 ## https://en.wikipedia.org/wiki/Prophet
 
 In religion, a prophet or prophetess is an individual who is regarded as being in contact with a divine being and is said to speak on behalf of that being, serving as an intermediary with humanity by delivering messages or teachings from the supernatural source to other people.[1][2] The message that the prophet conveys is called a prophecy.
@@ -194,12 +204,12 @@ In religion, a prophet or prophetess is an individual who is regarded as being i
 Prophethood has existed in many cultures and religions throughout history, including Mesopotamian religion, Zoroastrianism, Judaism, Christianity, Manichaeism, Islam, the Baháʼí Faith, and Thelema.
 
 
-
 ## Pentecost
 
 * https://en.wikipedia.org/wiki/Pentecost
 
 > Pentecost (also called Whit Sunday, Whitsunday or Whitsun) is a Christian holiday which takes place on the 49th day (50th day when inclusive counting is used) after Easter Sunday.[1] It commemorates the descent of the Holy Spirit upon Mary, mother of Jesus and the Apostles of Jesus while they were in Jerusalem celebrating the Feast of Weeks, as described in the Acts of the Apostles (Acts 2:1–31).[2] While the Catholic Church believes the Holy Spirit descended upon Mary, this is not recorded in the New Testament.
+
 
 ## Praxis of Good News
 
@@ -213,6 +223,7 @@ Prophethood has existed in many cultures and religions throughout history, inclu
 In religion, a prophecy is a message that has been communicated to a person (typically called a prophet) by a supernatural entity. Prophecies are a feature of many cultures and belief systems and usually contain divine will or law, or preternatural knowledge, for example of future events. They can be revealed to the prophet in various ways depending on the religion and the story, such as visions, divination, or direct interaction with divine beings in physical form. Stories of prophetic deeds sometimes receive considerable attention and some have been known to survive for centuries through oral tradition or as religious texts.
 
 Prophecy is a prediction or the disclosure of information that is not known to the prophet by any ordinary means.
+
 
 ## https://en.wiktionary.org/wiki/prophecy
 
