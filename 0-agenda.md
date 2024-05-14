@@ -12,6 +12,7 @@
 ## Soon
 
 * ?
+* endiatx followup
 * Ashley, Aaron, Shammah
 * Standing desk
 * Mia: wedding talks ~ 511 ~ price for editing?
