@@ -5,7 +5,7 @@
 * Bledsoe: winery
 * Italian Museo
 * Boys: Cliff house?
-* Disney Museam
+* Disney Museam ~ closed MTW
 * Blue diamond with Kay Tim
 * Theater reading
 * Lists of places
