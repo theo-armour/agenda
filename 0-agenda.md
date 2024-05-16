@@ -7,7 +7,8 @@
 
 ## Today
 
-* Diaconal hermeneutic: 
+* JoAnn: scan
+* Tidy
 
 ## Soon
 
