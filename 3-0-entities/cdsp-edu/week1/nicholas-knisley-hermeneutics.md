@@ -13,6 +13,7 @@ Terms
 * https://en.wikipedia.org/wiki/Atonement
 * https://en.wikipedia.org/wiki/Salvation_in_Christianity#Atonement
 
+
 ## Allegory
 
 * https://en.wikipedia.org/wiki/Allegorical_interpretation_of_the_Bible

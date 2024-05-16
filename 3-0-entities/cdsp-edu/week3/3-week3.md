@@ -62,7 +62,7 @@ overseership, office, charge, the office of an elder
 the overseer or presiding officers of a Christian church
 
 
-## The "Mionistry" section of the Lima Document.
+## The "Ministry" section of the Lima Document.
 
 There is a lot packed into this relatively brief statement. After years of assessing, weighting, and being in dialog about "Orders" this is what those working for Christian Unity at the planetary level discerned to be in common among most of world Christianity, and what were the points of difference about which there has been a commitment to continue in dialog. The Roman Catholic Church does not belong to the WCC but is a consitent, and welcomed, observer. The largest "missing piece" is the proliferation of protestant expression that are often very local, very particular in their origins (a dispute over almost anything that divides first a congregation and then some others drawn to the issue at hand. The Pentecostal world stands apart as well.
 Thus the document represents a high degree of consensus (in both what is agreed and what is agreed needs more work) for Christianitiy in the 20th century.
