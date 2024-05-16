@@ -1,10 +1,15 @@
 # Links
 
-## Bible
 
 * https://bible.oremus.org/
-* https://bcponline.org/
 * https://www.episcopalchurch.org/
+* http://justus.anglican.org/
+* http://justus.anglican.org/resources/bcp/bcp.htm
+* https://bcponline.org/
+* https://www.wabashcenter.wabash.edu/
+* https://www.ccel.org/
+* https://maps.lib.utexas.edu/maps/
+* https://sourcebooks.fordham.edu/
 
 ## Hanover Report
 
@@ -30,3 +35,11 @@
 * https://www.episcopaldeacons.org/
 * https://www.diocal.org/resource/deacons/
 * https://www.diocal.org/wp-content/uploads/2023/05/DioCalDeaconsHandbook_10_2022_FINAL.pdf
+
+## Sacred Ground
+
+https://www.episcopalchurch.org/sacred-ground/
+
+Sacred Ground is a film- and readings-based dialogue series on race, grounded in faith.  Small groups are invited to walk through chapters of America’s history of race and racism, while weaving in threads of family story, economic class, and political and regional identity.
+The 11-part series is built around a powerful online curriculum of documentary films and readings that focus on Indigenous, Black, Latino, and Asian/Pacific American histories as they intersect with European American histories.
+Sacred Ground is part of Becoming Beloved Community, The Episcopal Church’s long-term commitment to racial healing, reconciliation, and justice in our personal lives, our ministries, and our society.  This series is open to all, and especially designed to help white people talk with other white people.  Participants are invited to peel away the layers that have contributed to the challenges and divides of the present day – all while grounded in our call to faith, hope and love.

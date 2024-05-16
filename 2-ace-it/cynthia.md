@@ -12,7 +12,10 @@ Also
 * Less fun to compete with those less fortunate than you ~ the odds are always in your favor
 * Seek adventures instead ~ use the freedom to explore
 
-## 2024-05-13
+## 2024-05-15
+
+* Timing
+* Daniel Lure: 5:30 to 7
 
 * Alix speech good
 

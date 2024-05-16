@@ -11,6 +11,14 @@
 * https://en.wikipedia.org/wiki/Glossary_of_Christianity
 * https://en.wikipedia.org/wiki/Glossary_of_the_Catholic_Church
 
+
+
+## Agape
+
+* https://en.wikipedia.org/wiki/Agape
+
+Agape from Ancient Greek ἀγάπη (agápē)) is "the highest form of love, charity" and "the love of God for [human beings] and of [human beings] for God". This is in contrast to philia, brotherly love, or philautia, self-love, as it embraces a profound sacrificial love that transcends and persists regardless of circumstance.
+
 ## Allegory
 
 * https://en.wikipedia.org/wiki/Allegorical_interpretation_of_the_Bible
@@ -211,6 +219,11 @@ Historiography was more recently defined as "the study of the way history has be
 
 >A homily (from Greek ὁμιλία, homilía) is a commentary that follows a reading of scripture,[1] giving the "public explanation of a sacred doctrine" or text. The works of Origen[2] and John Chrysostom [known as Paschal Homily](3) are considered exemplary forms of Christian homily.[4]
 
+## Kingdom of God
+
+https://en.wikipedia.org/wiki/Kingdom_of_God_(Christianity)
+
+The Kingdom of God (and its related form the Kingdom of Heaven in the Gospel of Matthew) is one of the key elements of the teachings of Jesus in the New Testament. Drawing on Old Testament teachings, the Christian characterization of the relationship between God and humanity inherently involves the notion of the Kingship of God. The Old Testament refers to "God the Judge of all" and the notion that all humans will eventually "be judged" is an essential element of Christian teachings. Building on a number of New Testament passages, the Nicene Creed indicates that the task of judgment is assigned to Jesus.
 
 ## Lament
 
