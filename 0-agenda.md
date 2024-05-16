@@ -8,7 +8,7 @@
 ## Today
 
 * JoAnn: scan
-* Van: dentist
+*   
 * Tidy
 
 ## Soon
