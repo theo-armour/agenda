@@ -8,11 +8,13 @@
 ## Today
 
 * JoAnn: scan
+* Van: dentist
 * Tidy
 
 ## Soon
 
 * ?
+*   
 * endiatx followup
 * Ashley, Aaron, Shammah
 * Vish: PDF
