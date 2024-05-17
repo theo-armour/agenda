@@ -1,6 +1,6 @@
 # Heritage Happenings Meeting
 
-room for patiental / or display rumor
+room for patient al / or display rumor
 
 ## April Issue
 
