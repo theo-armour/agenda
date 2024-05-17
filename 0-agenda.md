@@ -7,11 +7,14 @@
 
 ## Today
 
-* Diaconal hermeneutic: 
+* JoAnn: scan
+*   
+* Tidy
 
 ## Soon
 
 * ?
+*   
 * endiatx followup
 * Ashley, Aaron, Shammah
 * Vish: PDF
