@@ -7,15 +7,13 @@
 
 ## Today
 
-* JoAnn: scan
 *   
-* Tidy
+* * Tidy
 
 ## Soon
 
 * ?
-*   
-* endiatx followup
+* * endiatx followup
 * Ashley, Aaron, Shammah
 * Vish: PDF
 * Standing desk
