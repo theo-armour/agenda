@@ -10,7 +10,7 @@
 * ?
 * Alix: images
 * O&A: research
-* Monday: lunch where?
+*   
 * Hover X1: report
 * Endiatx followup
 * Ashley, Aaron, Shammah
