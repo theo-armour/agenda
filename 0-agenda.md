@@ -8,11 +8,8 @@
 
 ## Today
 
-## \* Tidy  
-
-## Soon
-
 * ?
+* Alix: images
 * O&A: research
 * Monday: lunch where
 * \* endiatx followup
