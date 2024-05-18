@@ -2,8 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-05-05 ~ vows are nice ~ must try one sometime
-* 2024-05-05 ~ Reading about finding happiness is maybe more satisfactory than reading about coping with depression.
+*   
 * 2024-05-17 ~ Mel Carpenter:  "Meet the person where they are and enter from their door to a fruitful exchange of dialog and the leave through the door that fits best be it a new "our" door
 
 ## Today
@@ -11,8 +10,9 @@
 * ?
 * Alix: images
 * O&A: research
-* Monday: lunch where
-* \* endiatx followup
+* Monday: lunch where?
+* Hover X1: report
+* Endiatx followup
 * Ashley, Aaron, Shammah
 * Vish: PDF
 * Standing desk
