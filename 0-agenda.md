@@ -10,7 +10,7 @@
 * ?
 * Alix: images
 * O&A: research
-* Ashley, Aaron, Shammah
+* Aaron, Shammah
 * Vish: PDF
 * Standing desk
 * Mia: wedding talks ~ 511 ~ price for editing?
