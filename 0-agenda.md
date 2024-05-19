@@ -10,7 +10,6 @@
 * ?
 * Alix: images
 * O&A: research
-*   
 * Endiatx followup
 * Ashley, Aaron, Shammah
 * Vish: PDF
