@@ -9,7 +9,6 @@
 
 * ?
 * Alix: images
-* Larry Albukerk: follow up
 * O&A: research
 * Endiatx follow-up
 * Ashley, Aaron, Shammah
