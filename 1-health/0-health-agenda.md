@@ -3,7 +3,6 @@
 ## Appointments
 
 * Dr Kresta Tabaranza: 29 June ~ appointment: tests?
-* Dr V: May 17
 * Dr Y: 13 June
 * Dr Kattah: 27 June
 
