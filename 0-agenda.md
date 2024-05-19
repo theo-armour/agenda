@@ -3,14 +3,13 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * 2024-05-17 ~ Mel Carpenter:  "Meet the person where they are and enter from their door to a fruitful exchange of dialog and the leave through the door that fits best be it a new "our" door
-* 2024-05-18 ~ Traid of the day: novelty, credibility, and utility ~ trifecta for new materials
+* 2024-05-18 ~ Triad of the day: novelty, credibility, and utility ~ trifecta for new materials
 
 ## Today
 
 * ?
 * Alix: images
 * O&A: research
-*   
 * Ashley, Aaron, Shammah
 * Vish: PDF
 * Standing desk
@@ -28,7 +27,7 @@
 
 * ?
 
-<details><summary>Personal Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly-day</a>s<br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a><br></p><p></p></details>
+<details open=""><summary>Personal Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly-day</a>s<br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a><br></p><p></p></details>
 
 ***
 
