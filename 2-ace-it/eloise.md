@@ -1,8 +1,7 @@
 # Eloise
 
 * [https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md](https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md)
-
-* Eloise: Silver: send it?
+* Eloise: Silver: send it? Address?
 
 ## 2024-05-04
 
@@ -13,7 +12,6 @@
 * Furniture + art
 * Truck?
 * Second burn map?
-
 
 ## 2024-04-06
 

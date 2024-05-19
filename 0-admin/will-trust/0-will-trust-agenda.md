@@ -2,15 +2,13 @@
 
 ## Thoughts
 
-* As and when I am _non compos mentis_, my daughters could rotate taking responsibility for my affairs. This way the burden would be shared more equally than it might otherwise be. This in part is a reaction the comment I've heard more than once "Well, I liiked after them more than you , therefore ..."
-
+* As and when I am _non compos mentis_, my daughters could rotate taking responsibility for my affairs. This way the burden would be shared more equally than it might otherwise be. This in part is a reaction the comment I've heard more than once "Well, I looked after them more than you, therefore I deserve more…"
 
 ## Agenda Memorandum of Personal Property
 
 * ?
 * Get a draft started
 * Use ChatGPT for help
-
 
 ## Agenda Donor Advised Fund
 

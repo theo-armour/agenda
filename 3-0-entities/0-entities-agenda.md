@@ -7,9 +7,15 @@
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * John Walker: Roxie
 
+## Diaconal hermeneutics
+
+  
+
+\* DH: course notes to TA
+
 ## Point 65
 
-\* 2024-05-14 ~ 200K SEK sent
+* 2024-05-14 ~ 200K SEK sent
 
 ## Ikons
 

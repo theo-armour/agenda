@@ -7,14 +7,14 @@
 ## Agenda
 
 * Fastmail?
-* https://sunshine.com/contacts/  
+* [https://sunshine.com/contacts/](https://sunshine.com/contacts/)
 * Look into AI coach
 * Heritage: calendar
 * Birthdays: in both my calendars
 * Contacts: backup
 * Contacts: cull
 * Contacts: to Outlook
-* 2023-11-16~ Move as much as possible to Pages
+* 2023-11-16 ~ Move as much as possible to Pages
 
 ## AutoHotKey
 
@@ -32,7 +32,7 @@
 
 * MS365: Account from gmail to outlook
 
-## Samsung 23 Skills
+## Samsung Galaxy Skills
 
 * Keep at it
 

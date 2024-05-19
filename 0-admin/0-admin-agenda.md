@@ -2,8 +2,7 @@
 
 ## Actions
 
-* Kayakomat: share purchase
-
+* Kayakomat: shares
 
 ## DWA + Pershing
 
@@ -33,6 +32,10 @@
 
 * Stop AI monthlies < confirm
 * Stop Samsung insurance
+
+## Done
+
+* Kayakomat: share purchase
 
 ***
 
