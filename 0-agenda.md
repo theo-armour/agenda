@@ -11,7 +11,7 @@
 * Alix: images
 * Larry Albukerk: follow up
 * O&A: research
-* Endiatx followup
+* Endiatx follow-up
 * Ashley, Aaron, Shammah
 * Vish: PDF
 * Standing desk
