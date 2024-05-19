@@ -14,7 +14,7 @@
 * Endiatx followup
 * Ashley, Aaron, Shammah
 * Vish: PDF
-* Dan Lurie: donation
+*   
 * Standing desk
 * Mia: wedding talks ~ 511 ~ price for editing?
 
