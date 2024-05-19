@@ -10,7 +10,7 @@
 * ?
 * Alix: images
 * O&A: research
-* Endiatx follow-up
+*   
 * Ashley, Aaron, Shammah
 * Vish: PDF
 * Standing desk
