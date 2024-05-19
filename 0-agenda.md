@@ -10,7 +10,6 @@
 * ?
 * Alix: images
 * O&A: research
-*   
 * Hover X1: report
 * Endiatx followup
 * Ashley, Aaron, Shammah
