@@ -18,6 +18,7 @@
 
 * Hyperkyphosis
 * Sarcopenia
+* High cholesterol
 * Reminder: playing with my fingers helps alleviate the stress of dental procedures
 * Skin clinic ~ Dermatology visits
 * Sara's Medical Advocacy & Planning ~ [https://www.sarasmap.com/](https://www.sarasmap.com/)
