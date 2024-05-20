@@ -6,7 +6,7 @@
 *   
 * Open Mail
 * Street noise
-* \_The Art o Thinking for yourself\_: cheat sheet
+* \_The Art of Thinking for yourself\_: cheat sheet
 * Update ICE
 * SSA: add Cynthia
 * Medicare: add Cynthia
