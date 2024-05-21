@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* Inspirations: move to pages sections??
 * AudioPen: Pens to Journal
 * Excel: embed thumbnails that enlarge
 * Timeline: follow wikipedia: year, date, event ~ [https://en.wikipedia.org/wiki/Timelines\_of\_modern\_history](https://en.wikipedia.org/wiki/Timelines_of_modern_history)

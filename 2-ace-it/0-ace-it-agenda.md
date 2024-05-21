@@ -1,21 +1,26 @@
 # 2.0 ace-it Agenda
 
-
 ## Links
 
-* https://www.instagram.com/alixinou/
-* https://www.instagram.com/alixarmour/
-* https://www.instagram.com/cbarmour/
-* https://www.instagram.com/eloeezy/
-* https://www.instagram.com/armourisabelle/
-* https://www.instagram.com/armour.theo/
-
-
+* [https://www.instagram.com/alixinou/](https://www.instagram.com/alixinou/)
+* [https://www.instagram.com/alixarmour/](https://www.instagram.com/alixarmour/)
+* [https://www.instagram.com/cbarmour/](https://www.instagram.com/cbarmour/)
+* [https://www.instagram.com/eloeezy/](https://www.instagram.com/eloeezy/)
+* [https://www.instagram.com/armourisabelle/](https://www.instagram.com/armourisabelle/)
+* [https://www.instagram.com/armour.theo/](https://www.instagram.com/armour.theo/)
 
 ## Agenda
 
 * Alix's speech
 * Bee?
+* Family ChaGPT
+* Éloïse: silver mailing
+* Cynthia: Wallet drawing
+* Cynthia: Teva Planter
+* Cynthia: Finish hand
+* Alix: Green Screen
+* Alix: Framework upgrades
+* Alix: Superhexa goggles
 
 ## Topics of conversation
 
@@ -26,6 +31,7 @@
 ## Change Log
 
 ## 2024-05-09
+
 * Cynthia: Tania's recollections to PDF ~ transcripts
 * 77 ~ too busy ~ now Heritage Happenings ~ Final Design
 * Funding trust
@@ -41,7 +47,6 @@
 * Graphics
 * Shipping
 * List of must sell items
-
 
 ### 2024-01-18
 

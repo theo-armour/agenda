@@ -3,10 +3,9 @@
 ## Agenda
 
 * ?
-* A: Barefoot shoes
-* Open Mail
+* * Open Mail
 * Street noise
-* \_The Art o Thinking for yourself\_: cheat sheet
+* \_The Art of Thinking for yourself\_: cheat sheet
 * Update ICE
 * SSA: add Cynthia
 * Medicare: add Cynthia
@@ -17,8 +16,4 @@
 
 ## ACE
 
-* Cynthia: Teva Planter
-* Cynthia: Finish hand
-* Alix: Green Screen
-* Alix: Framework upgrades
-* Alix: Superhexa goggles
+* See page

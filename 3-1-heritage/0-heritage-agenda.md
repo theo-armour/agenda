@@ -6,6 +6,9 @@
 
 ## Agenda
 
+* Patrick: Ange Appreciation documents
+* Doris: Art statement
+* AnneM: Evanston house in Birth of a Nation
 * Sort Heritage files
 * Ayon: residents folder OneDrive
 * Cortez: lunch

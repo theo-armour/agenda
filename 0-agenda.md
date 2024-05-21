@@ -4,6 +4,7 @@
 
 * 2024-05-17 ~ Mel Carpenter:  "Meet the person where they are and enter from their door to a fruitful exchange of dialog and the leave through the door that fits best be it a new "our" door
 * 2024-05-18 ~ Triad of the day: novelty, credibility, and utility ~ trifecta for new materials
+* 2024-05-20 ~ young: read in BW ~ older: read in color ~ Pocahontis movie: see the colors of the wind song
 
 ## Today
 
@@ -47,7 +48,7 @@
 
 * Bee Memorial
 * Cynthia Chase visits
-* Cynthia: Wallet drawinggoo
+* Cynthia: Wallet drawing
 
 <details open=""><summary>ace-it agenda</summary><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2><p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2><p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceiteloisemdquoteloisea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a></h2><p></p></details>
 

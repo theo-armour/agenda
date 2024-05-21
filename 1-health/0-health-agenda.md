@@ -3,11 +3,13 @@
 ## Appointments
 
 * Dr Kresta Tabaranza: 29 June ~ appointment: tests?
+* Gary: 11 June
 * Dr Y: 13 June
 * Dr Kattah: 27 June
 
 ## Agenda
 
+* Statins
 * [Medicare Supplement dental plans | Blue Shield Medicare (blueshieldca.com)](https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental)
 * EmpowerMe: PT referral
 * [https://www.alignmenthealthplan.com/](https://www.alignmenthealthplan.com/) ~ free lunch?
@@ -16,6 +18,7 @@
 
 * Hyperkyphosis
 * Sarcopenia
+* High cholesterol
 * Reminder: playing with my fingers helps alleviate the stress of dental procedures
 * Skin clinic ~ Dermatology visits
 * Sara's Medical Advocacy & Planning ~ [https://www.sarasmap.com/](https://www.sarasmap.com/)
