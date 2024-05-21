@@ -11,7 +11,6 @@
 
 * ?
 * Alix: images
-* O&A: research
 * Aaron, Shammah
 * Vish: PDF
 * Standing desk
