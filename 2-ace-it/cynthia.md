@@ -1,6 +1,7 @@
 # Cynthia
 
 * Rio Vista city
+* Wallet Drawing
 
 Cynthia:
 
@@ -15,8 +16,7 @@ Also
 ## 2024-05-15
 
 * Timing
-* Daniel Lure: 5:30 to 7
-
+* Daniel Lurie: 5:30 to 7
 * Alix speech good
 
 ## 2024-05-06
