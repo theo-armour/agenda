@@ -16,7 +16,6 @@
 * Family ChaGPT
 * Éloïse: silver mailing
 * Cynthia: Wallet drawing
-* Cynthia: Teva Planter
 * Cynthia: Finish hand
 * Alix: Green Screen
 * Alix: Framework upgrades
