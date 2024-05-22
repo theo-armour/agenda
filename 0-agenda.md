@@ -10,7 +10,7 @@
 
 * ?
 * Alix: imagee
-* Hover X1
+*   
 * DH: obstacles
 * DH: psalms prompt
 
