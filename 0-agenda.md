@@ -13,12 +13,9 @@
 * Artists statement
 * Hover X1
 
-  
-
 ## SOON
 
-*   
-* Aaron, Shammah
+* * Aaron, Shammah
 * Vish: PDF
 * Standing desk
 * Mia: wedding talks ~ 511 ~ price for editing?
@@ -71,7 +68,7 @@
 
 ***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Hage</a>
 
 * ?
 
