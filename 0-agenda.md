@@ -10,7 +10,6 @@
 
 * ?
 * Alix: imagee
-*   
 * DH: obstacles
 * DH: psalms prompt
 
