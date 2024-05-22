@@ -16,6 +16,8 @@
 
 ## Work-in-progress
 
+* Statins
+* Shoulder ortho
 * Hyperkyphosis
 * Sarcopenia
 * High cholesterol
@@ -31,7 +33,7 @@ See 1-heritage/health/0-health-agenda
 
 Martha Nkhoma
 
-* Follow-up on email of
+* MapFollow-up on email of
 * Staffing hours & levels
 * Anticipated costs
 
