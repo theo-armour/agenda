@@ -17,6 +17,7 @@
 ## SOON
 
 * Vish: PDF
+* Bernie: friends
 * Aaron, Shammah
 * Standing desk
 * Mia: wedding talks ~ 511 ~ price for editing?
