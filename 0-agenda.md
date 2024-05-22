@@ -5,12 +5,19 @@
 * 2024-05-17 ~ Mel Carpenter:  "Meet the person where they are and enter from their door to a fruitful exchange of dialog and the leave through the door that fits best be it a new "our" door
 * 2024-05-18 ~ Triad of the day: novelty, credibility, and utility ~ trifecta for new materials
 * 2024-05-20 ~ young: read in BW ~ older: read in color ~ Pocahontas movie: see the colors of the wind song
-*   
 
 ## Today
 
 * ?
 * Alix: images
+* Artists statement
+* Hover X1
+
+  
+
+## SOON
+
+*   
 * Aaron, Shammah
 * Vish: PDF
 * Standing desk
