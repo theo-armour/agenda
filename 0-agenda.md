@@ -9,13 +9,14 @@
 ## Today
 
 * ?
-* Alix: imagee
+* Alix: image
 * DH: obstacles
 * DH: psalms prompt
 
 ## SOON
 
 * Vish: PDF
+* TGD: sounf video
 * Bernie: friends
 * Aaron, Shammah
 * Standing desk
