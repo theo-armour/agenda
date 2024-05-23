@@ -9,14 +9,16 @@
 ## Today
 
 * ?
-* Alix: images
-* Artists statement
-* Hover X1
+* Alix: image
+* DH: obstacles
+* DH: psalms prompt
 
 ## SOON
 
-* * Aaron, Shammah
 * Vish: PDF
+* TGD: sounf video
+* Bernie: friends
+* Aaron, Shammah
 * Standing desk
 * Mia: wedding talks ~ 511 ~ price for editing?
 
@@ -68,7 +70,7 @@
 
 ***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Hage</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
 
