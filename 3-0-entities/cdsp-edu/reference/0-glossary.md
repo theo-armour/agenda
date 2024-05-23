@@ -152,6 +152,12 @@ the overseer or presiding officers of a Christian church
 
 >Exegesis is a critical explanation or interpretation of a text, particularly a religious text. Traditionally the term was used primarily for work with the Bible; however, in modern usage biblical exegesis is used for greater specificity to distinguish it from any other broader critical text explanation.
 
+## Godly Play
+
+* https://en.wikipedia.org/wiki/Godly_Play
+
+>Godly Play is a Montessori method for Christian education. The method has been utilized in churches around the world.
+
 
 ## Gospel ~ "Good News"
 
@@ -287,6 +293,7 @@ Two meanings:
 
 2. The public interpretation of Scripture.
 
+
 ## Totalism
 
 * https://en.wikipedia.org/wiki/Thought_Reform_and_the_Psychology_of_Totalism
@@ -300,5 +307,7 @@ Two meanings:
 * https://www.walterbrueggemann.com/about/: Testimony, dispute, and advocacy
 * ethos, pathos, and logos
 * Baptism, Eucharist, and Ministry
+* Rod: Three complementary qualities of community each have their clear leadership - prophet, priest, and king."
+* Jeremiah: Hope, repentance and prophecy
 
 

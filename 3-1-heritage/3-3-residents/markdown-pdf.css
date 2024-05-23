@@ -1,0 +1,61 @@
+:root {
+	font: 100% verdana, arial, sans-serif;
+	line-height: 2;
+}
+
+h1 {
+	font-size: 2.2em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.8em;
+}
+
+h1,
+h2,
+h3 {
+	color: #880000;
+	font-weight: bold;
+	margin: 0;
+	margin-top: 0.7em;
+	padding: 0;
+}
+
+p {
+	color: #000;
+	font-size: 22pt;
+	line-height: 1.15;
+	margin-bottom: 5pt;
+	padding: 0;
+}
+
+
+li {
+	font-size: 1.2em;
+	margin-top: 0em;
+	padding-top: 0em;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+
+p ul {
+	margin-top: -1em;
+	padding-top: -1em;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+em {
+	font-style: italic;
+}
