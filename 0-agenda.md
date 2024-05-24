@@ -9,6 +9,11 @@
 ## Today
 
 * ?
+* Sarah Standing
+* Tom
+* John Granucci
+* Hector
+* Sylvie
 * Alix: image
 * DH: obstacles
 * DH: psalms prompt
