@@ -23,7 +23,6 @@ Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc](https://1drv
 [Baytrish@aol.com](mailto:Baytrish@aol.com) [Jmansfield3105@gmail.com](mailto:Jmansfield3105@gmail.com) [Patski5700@sbcglobal.net](mailto:Patski5700@sbcglobal.net) [Operella@sbcglobal.net](mailto:Operella@sbcglobal.net)
 
 * HH: Ella Wong [operella@sbcglobal.net](mailto:operella@sbcglobal.net)
-* Photo quiz: with MargaretM
 * Submission Guide
 * Style Guide
 * Activities msg
