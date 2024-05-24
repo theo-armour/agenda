@@ -21,7 +21,8 @@
 ## SOON
 
 * Vish: PDF
-* TGD: sounf video
+* Patrick: Ange Appreciation documents
+* TGD: sound video
 * Bernie: friends
 * Aaron, Shammah
 * Standing desk
