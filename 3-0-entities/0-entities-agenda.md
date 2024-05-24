@@ -3,15 +3,14 @@
 ## Agenda
 
 * ?
+* diaconal hermeneutic: deacon forum
 * Adesk: Val, jessica, brad, Jerry
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * John Walker: Roxie
 
 ## Diaconal hermeneutics
 
-  
-
-\* DH: course notes to TA
+* DH: course notes to TA
 
 ## Point 65
 
