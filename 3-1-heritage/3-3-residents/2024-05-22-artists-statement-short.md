@@ -1,6 +1,4 @@
-# Theo Armour ~ Artist's Statement
-
-
+# Theo Armour: A Retrospective ~ Artist's Statement
 
 ## Personal Background
 
