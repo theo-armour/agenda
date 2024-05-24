@@ -10,7 +10,7 @@
 
 * ?
 * Sacramento Seminar
-*   
+* Doris: 3x5 title cards
 * Alix: image
 * DH: obstacles
 * DH: psalms prompt
@@ -23,6 +23,7 @@
 * Bernie: friends
 * Aaron, Shammah
 * Standing desk
+* Ray & Zarina
 * Mia: wedding talks ~ 511 ~ price for editing?
 
 ***
