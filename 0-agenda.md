@@ -10,6 +10,7 @@
 
 * ?
 * Ray & Zarina
+* Sterphen C: msg
 * Alix: image
 * Bernie: photo
 * DH: obstacles
