@@ -9,9 +9,9 @@
 ## Today
 
 * ?
-* Sacramento Seminar
-* Doris: 3x5 title cards
+* Ray & Zarina
 * Alix: image
+* Bernie: photo
 * DH: obstacles
 * DH: psalms prompt
 
@@ -20,10 +20,8 @@
 * Vish: PDF
 * Patrick: Ange Appreciation documents
 * TGD: sound video
-*   
 * Aaron, Shammah
 * Standing desk
-* Ray & Zarina
 * Mia: wedding talks ~ 511 ~ price for editing?
 
 ***
