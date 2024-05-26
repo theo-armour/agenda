@@ -5,11 +5,11 @@
 The Diaconal Hermeneutic is—
  • Gospel based ~ of proclaiming—not just reading—the Gospel
  • Prophet informed ~ the public interpretation of Scripture (not predicting the future)
- • Baptismally realized ~ communal and inclusive nature of the Gospel’s call.
- • systemic and critical ~ profound, critical analysis of social issues.
- • relational ~ community and collective responsibility
- • heart broken and compassionate ~ compassionate approach
- • real not theoretical ~  practical, real-world application
+ • Baptismally realized ~ communal and inclusive nature of the Gospel’s call
+ • Systemic and critical ~ profound, critical analysis of social issues.
+ • Relational ~ community and collective responsibility
+ • Heart broken and compassionate ~ compassionate approach
+ • Real not theoretical ~  practical, real-world application
 
 ## **Preface**
 This section introduces the concept of a hermeneutic—a framework or lens through which interpretations are made. The distinct nature of each Order in the church (bishop, priest, deacon) offers a unique perspective, especially for deacons who are tasked with interpreting the global and local needs, concerns, and hopes to the church.

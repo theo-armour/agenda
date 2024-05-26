@@ -1,5 +1,6 @@
+# Week 7
 
-Deacon:
+## Deacon:
 
 * Pitchman
 * Maestro
