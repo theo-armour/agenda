@@ -2,7 +2,7 @@
 
 ## Agenda
 
-* Checj three.js examples page: Is it syill vanilla JavaScript?
+* Check three.js examples page: Is it sill vanilla JavaScript? Ditto mrdoob.com
 * Inspirations: move to pages sections??
 * AudioPen: Pens to Journal
 * Excel: embed thumbnails that enlarge
