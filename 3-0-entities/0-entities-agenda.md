@@ -14,7 +14,7 @@
 
 \* Email list?
 
-\* Paper on social layersw
+\* Paper on social layers
 
 ## Diaconal hermeneutics
 
