@@ -9,12 +9,10 @@
 ## Today
 
 * ?
-*   
-* Sterphen C: msg
+* Stephen C: msg
 * Alix: image
 * Bernie: photo
-* DH: obstacles
-* DH: psalms prompt
+*   
 
 ## SOON
 
