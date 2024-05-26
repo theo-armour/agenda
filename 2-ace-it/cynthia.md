@@ -1,5 +1,7 @@
 # Cynthia
 
+## 
+
 * Rio Vista city
 * Wallet Drawing
 
@@ -35,8 +37,6 @@ Also
 * Jewels to Healdsburg
 * Furniture moves
 * Dinner with friends
-
-
 
 ## 2024-04-01
 
@@ -568,7 +568,7 @@ Sherry R. Arnstein
 
 * [http://www.eltis.org/sites/eltis/files/trainingmaterials/challenge\_participation\_final.pdf](http://www.eltis.org/sites/eltis/files/trainingmaterials/challenge_participation_final.pdf)
     * Lengthy and many clickable links
-* [https://en.wikipedia.org/wiki/Participation\_(decision\_making](https://en.wikipedia.org/wiki/Participation_(decision_making))
+* [https://en.wikipedia.org/wiki/Participation\_(decision\_making](https://en.wikipedia.org/wiki/Participation_\(decision_making\))
 * [http://www.citizenshandbook.org/arnsteinsladder.html](http://www.citizenshandbook.org/arnsteinsladder.html)
 * [http://www.bangthetable.com/ladder-of-citizen-participation/](http://www.bangthetable.com/ladder-of-citizen-participation/)
 * [https://acawiki.org/A\_Ladder\_of\_Citizen\_Participation](https://acawiki.org/A_Ladder_of_Citizen_Participation)
