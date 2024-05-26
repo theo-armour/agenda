@@ -6,6 +6,7 @@
 
 ## Agenda
 
+* What demos could I give?
 * Patrick: Ange Appreciation documents
 * AnneM: Evanston house in Birth of a Nation
 * Sort Heritage files
