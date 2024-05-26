@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* Checj three.js examples page: Is it syill vanilla JavaScript?
 * Inspirations: move to pages sections??
 * AudioPen: Pens to Journal
 * Excel: embed thumbnails that enlarge
