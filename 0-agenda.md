@@ -11,8 +11,6 @@
 ## Today
 
 * ?
-* Shammah: msg
-* Hover X1: msg
 * Ange: msg
 * Psalms > songs
 
