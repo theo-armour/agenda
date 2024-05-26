@@ -6,10 +6,14 @@
 * 2024-05-18 ~ Triad of the day: novelty, credibility, and utility ~ trifecta for new materials
 * 2024-05-20 ~ young: read in BW ~ older: read in color ~ 16 million colors ~ Pocahontas movie: see the colors of the wind song
 * 2024-05-26 ~ Even if it's not real, deal with it ~ Everything you perceive, how real is it? Who knows? So, assume it's real
+* 2024-05-26 ~ Apple devices: you don't need to ever open the hood ~ Other devives: you are to open the hood 
 
 ## Today
 
 * ?
+* Shammah: msg
+* Hover X1: msg
+* Ange: msg
 * Psalms > songs
 
 ## SOON
