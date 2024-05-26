@@ -8,6 +8,14 @@
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
 * John Walker: Roxie
 
+## SacSem
+
+\* Sacsem.net ~ pw: California
+
+\* Email list?
+
+\* Paper on social layersw
+
 ## Diaconal hermeneutics
 
 * DH: course notes to TA
