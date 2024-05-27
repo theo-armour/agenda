@@ -11,14 +11,18 @@
 ## Today
 
 * ?
+* Tania
+* DH: Psalms to Video
 * MichaelH: link to Google Photos
-*   
 
 ## SOON
 
 * ace-it+: exhibit report
-* House committee: three sad things
-* Vish: PDF
+* Film the corridor
+* House committee
+* Go to storage
+* Rod D: meetup?
+* 2am
 * Alix: image
 * Stephen C: msg
 * Bernie: photo
@@ -61,7 +65,6 @@
 
 * Bee Memorial
 * Cynthia Chase visits
-* Cynthia: Wallet drawing
 
 <details open=""><summary>ace-it agenda</summary><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2><p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2><p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceiteloisemdquoteloisea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a></h2><p></p></details>
 
