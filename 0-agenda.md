@@ -18,6 +18,7 @@
 ## SOON
 
 * ace-it+: exhibit report
+* Film the corridor
 * House commi
 * Rod D: meetup?
 * 2am
