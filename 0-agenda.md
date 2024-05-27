@@ -24,7 +24,7 @@
 * Bernie: photo
 * Patrick: Ange Appreciation documents
 * TGD: sound video
-* Aaron, Shammah
+* Aaron, 
 * Standing desk
 * Mia: wedding talks ~ 511 ~ price for editing?
 
