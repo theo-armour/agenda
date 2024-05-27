@@ -1,22 +1,16 @@
 # Cynthia
 
-## 
+## Topics
 
 * Rio Vista city
 * Wallet Drawing
+* Finish hand
 
-Cynthia:
-
-* C is an AI luddite: admirable
-
-Also
-
-* I am 1%er, therefore you are 3%er ~ accept the wealth
-* Less fun to compete with those less fortunate than you ~ the odds are always in your favor
-* Seek adventures instead ~ use the freedom to explore
+## 2024-05-27
 
 ## 2024-05-15
 
+* C is an AI luddite: admirable
 * Timing
 * Daniel Lurie: 5:30 to 7
 * Alix speech good
@@ -31,6 +25,9 @@ Also
 * Morels
 * Buy a forest or a cabin
 * Buy a houseboat?
+* I am 1%er, therefore you are 3%er ~ accept the wealth
+* Less fun to compete with those less fortunate than you ~ the odds are always in your favor
+* Seek adventures instead ~ use the freedom to explore
 
 ## 2024-04-19
 
