@@ -2,8 +2,7 @@
 
 ## Agenda
 
-* ?
-*What connections do I have with my family
+* ? \*What connections do I have with my family
 * What connections do I want to have with my family
 
 ## Things to consider
@@ -15,6 +14,22 @@
 * Dawn of Everything
 * Genealogy
 
+  
+
+## Mia
+
+\* Good time to call
+
+\* CynthiaM: invite
+
+\* Mirror
+
+\* Editor
+
+&
+
+\* Wedding talks
+
 ## Tania
 
 * ?
@@ -22,7 +37,6 @@
 ## Allison
 
 * Santa Barbara housing project
-
 
 ## Philip
 
