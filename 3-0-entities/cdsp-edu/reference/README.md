@@ -36,6 +36,7 @@
 * https://www.diocal.org/resource/deacons/
 * https://www.diocal.org/wp-content/uploads/2023/05/DioCalDeaconsHandbook_10_2022_FINAL.pdf
 
+
 ## Sacred Ground
 
 https://www.episcopalchurch.org/sacred-ground/

@@ -67,7 +67,7 @@ Tenderloin + extra sauc
 Polenta Cake
 Creamed Spinach
 
-Flourless Hazelknut Cake!!!
+Flourless Hazelnut Cake!!!
 
 ### Dinner
 Soup
