@@ -11,14 +11,16 @@
 ## Today
 
 * ?
+* Tania
+* DH: Psalms to Video
 * MichaelH: link to Google Photos
-*   
 
 ## SOON
 
 * ace-it+: exhibit report
-* House committee: three sad things
-* Vish: PDF
+* House commi
+* Rod D: meetup?
+* 2am
 * Alix: image
 * Stephen C: msg
 * Bernie: photo
