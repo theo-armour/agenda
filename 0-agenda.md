@@ -12,7 +12,7 @@
 
 * ?
 * MichaelH: link to Google Photos
-* Psalms > songs
+*   
 
 ## SOON
 
