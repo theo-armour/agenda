@@ -19,7 +19,7 @@
 
 * ace-it+: exhibit report
 * Film the corridor
-* House commitee
+* House committee
 * Go to storage
 * Rod D: meetup?
 * 2am
