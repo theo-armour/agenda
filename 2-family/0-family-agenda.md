@@ -14,21 +14,14 @@
 * Dawn of Everything
 * Genealogy
 
-  
-
 ## Mia
 
-\* Good time to call
+* Good time to call
+* CynthiaM: invite
+* Mirror
+* Editor
 
-\* CynthiaM: invite
-
-\* Mirror
-
-\* Editor
-
-&
-
-\* Wedding talks
+* Wedding talks
 
 ## Tania
 
