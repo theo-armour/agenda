@@ -1,12 +1,19 @@
 # Cynthia
 
-## Topics
+## Topics 2
 
 * Rio Vista city
 * Wallet Drawing
 * Finish hand
 
+
+
 ## 2024-05-27
+
+* Bernie
+* Art exhibit: TA retro
+* SacSem: feel they own the city ~ want to keep sf a village
+* CARB ~ which newsletters ~ so many ~ how many people? ~ CommunityHub 2.0
 
 ## 2024-05-15
 

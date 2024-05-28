@@ -156,3 +156,90 @@ Director: Brandon Camp ~ Stars: Jennifer Aniston, Aaron Eckhart, Dan Fogler
 30 June ~ Marley and Me ~ 2008 ~ 1h 55m ~ Family, Drama
 A family learns important life lessons from its adorable by naughty and neurotic dog.
 Director: David Frankel ~ Stars: Owen Wilson, Jennifer Aniston, Eric Dane, Kathleen Turner
+
+
+## Martha Nell
+
+Library Corner New Acquisitions May 2024
+
+Martha Nell Beatty
+
+The Girl Who Lived: A Thrilling Suspense Novel M 2017
+Christopher Grayson
+See Trish Otstott’s review in this issue
+
+Trust F 2022
+Herman Diaz
+A Pulitzer Prize winner, this book includes four linked narratives in different styles. Ultimately, it’s about money, power and greed in New York in the 1920s.
+
+The Seven Sisters Series
+
+ Lucinda Riley wrote eight novels between 2014 and 2023 for this series.. The last book of the series was published just three weeks before Riley’s death. The books tell the story of adopted sisters, who after the death of their billionaire father, set out to find their heritage. Sixth sisters are each given a clue. But there is also the question of the seventh sister. Who is she and where is she.
+
+ Added to our library are:
+
+The Shadow Sister F 2018
+
+The Sun Sister F 2021
+
+The Missing Sister F 2021
+
+Atlas: The Story of Pa Salt F 2023
+
+The Seven Sisters Series Collection: The Missing Sister and Atlas (2023)
+
+And poetry:
+
+Such Color: New and Selected Poems P 2022
+Tracy K.. Smith
+The former Poet Laureate, Smith confronts America’s racism and injustices
+
+The Hurting Kind P 2022
+Ada Limon
+Limon confronts isolation, grief and the uncertainties of life.
+
+
+## Homa
+
+Homa Goodzari
+Massage and Healing
+
+
+Twice a month, Homa Goodarzi comes to The Heritage to give massages in a designated room in the former Health Center. Her massages are a bit more---she provides healing at the same time. Once when I went to see Homa, I was seething from a conversation with someone who had been insolent (no one here). She calmed me down as she worked on the tight muscles in my shoulders. Homa calls what she does the therapeutic massage technique.
+
+You know someone is good when you are delighted when you see the person’s name on your calendar.
+
+Homa has sign up sheets outside the dining room.
+
+
+Note: Most Tuesdays you can have a complementary hand massage in Friendship Hall at 1:30pm with Roxana.
+
+
+## Cuba 2016 Martha Nell Beatty
+Cuba ~ A brief interlude for tourists
+
+Martha Nell Beatty
+
+“Every magazine and newspaper travel section has had an article about Cuba this year Writers threw around adjectives like seductive, aging beauty, romantic, creative. They worry (rightly) about how the present infrastructure can handle the rapidly increasing interest in visiting the so-close island nation.“ This is what I wrote in 2016.
+
+All the enthusiasm was because Cuba after 54 years of hostility between the US and Cuba, normalization of relations occurred under Obama. Tour companies scrambled to organize tours, cruise lines quickly added stops, and airlines Increased direct flights from. the US mostly from Florida. A friend and I signed up for one of those tours at the end March. We arrived in the third largest city in Cuba just as the Obama family arrived in Cuba. The last US President to visit Cuba had been Calvin Coolidge, 86 years before
+
+Was Cuba ready for an influx of American tourists? For us, I can say mostly yes—except for one deplorable hotel and the nightmare at Havana’s airport.
+
+ Hotels generally set the tone of a tour. We stayed in three hotels that were vastly different. The first was a “boutique” hotel in Camaguey on a busy square. The lobby and rooms were pleasant. The best part was the rooftop dining room. Here food was limited and service earnest and on the way to improvement. The hotel was certainly acceptable.
+
+ Our second hotel was a seaside resort outside of Cienfuegos. I could only imagine what this hotel must have once been and what it could be. But it was barely acceptable. My room had a sea view with a private terrace, which was unkempt and had no furniture. I could only enjoy the view through dirty windows. The front desk was rude and its most used word was “no.” Thankfully, the only meal we had at the hotel was breakfast. Arriving in the dining room we found that someone had negated to turn on the machine that produced hot water for tea and coffee and so no hot drinks.
+
+Our hotel in Havana was the Melia Cohiba, part of a Spanish chain and basically was first class. Again, our only meals here were breakfast and they were outstanding. The buffet breakfast was incredibly impressive. Eight kinds of fresh juices from cucumber to papaya, four kinds of yogurt drinks. Omelet station. Tons of fruit, pastries, meats, beans and rice. A mimosa was available for an extra price.
+
+Dining outside the hotels was often a fun and unique experience. The meals we particularly enjoyed were in paladars—family run restaurants in their homes. We were served lots of fish and even lobster. The best was in Cientuegos, where the special treat at the end was three-year old rum accompanied with a cigar.
+
+We had some first-rate experiences that gave us an insight into what Cuba offered: A walking tour of the old city, a UNESCO Heritage Site, with an architect. A vist to the company class of the Camaguey Ballet School. A special concert with Cuban musicians and a Russian conductor. A visit to the studio of the “Picasso of the Caribbean” Jose Fuster. Drives in the impeccable 1950’s convertibles.
+
+The challenges were the fact that US credit cards were not accepted and our cash had to be changed into Cuban pesos. To make it more interesting in there are two currencies—one for nationals and one for tourists. Of course, the Cubans got better rates. As our guide said many times, “It’s complicado.”
+
+Often it’s the departure from a place that we remember, if it is especially negative. We spent over seven hours at Havana’s Airport waiting for our charter flight on a Cuban airline, Xtra Airline. The information board was useless, the staff uninformed. There were a couple of places where you could buy, coffee, beer soft drink and sandwiches but no restaurants or bars. My friend needed a wheelchair to get to the plane. Since there were none, they took us in an ambulance. We were among the few who made our connections in Miami.
+
+But then in 2019, Trump’s administration pulled the curtain down on tourist travel for Americans as well as curtailing American business dealings with the island. Suddenly, tour companies had to cancel their tours, cruise lines stopped their calls, airlines cut back on flights. Once again, Cuba, only 95 miles from Florida seemed like a distant land. Once again it has become elusive, enigmatic.
+
+
