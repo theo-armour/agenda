@@ -23,6 +23,27 @@ Message sent
 * Patti & Jon: HH: Millionaire donor?
 * Jon: cpus?
 
+### Articles
+
+* Bob Granucci: duck hunting
+* Margaret Johnson ~ Rooms #9
+* Margaret Missiaen: Garden article?
+* Trish: Fort Mason
+* Doris: Havana
+* Jane: Grandmother
+* Martha Nell: ??
+* Martha Nell: Library acquisitions
+* Sheila: Cuba
+* Patrick: Residents Council or Board?
+* Theo/editorial: levels of service
+* Miscellany: Father's Day, Caribbean, Art Exhibition opening, tea party, Jonathan
+* Photos
+
+Others
+
+* Patrick
+* Hector?
+
 ## Cameo
 
 * Harry Belafonte
@@ -44,6 +65,7 @@ Yvonne Benedict	24 June
 Anne Morris	27 June
 Karl Leichum	29 June
 
+### films
 14 June ~ The Mambo Kings ~ 1992. 1h 46m
 The story of Cuban brothers Cesar &amp; Nestor Castillo, who bring their unique sounds to
 New York in search of fame &amp; fortune. While Cesar revels in the fame &amp; the adoration of
@@ -57,26 +79,7 @@ by Hitchcock.
 This documentary highlights the historical contexts that gays, lesbians, bisexuals and
 transgenders have occupied in cinema history, and shows the evolution of the
 entertainment industry&#39;s role in shaping perceptions of LGBT figures.
-### Articles
 
-* Bob Granucci: duck hunting
-* Margaret Johnson ~ Rooms #9
-* Margaret Missiaen: Garden article?
-* Trish: Fort Mason
-* Doris:
-* Jane:
-* Martha Nell: ??
-* Martha Nell: Library acquisitions
-* Sheila: Cuba
-* Patrick: Residents Council or Board?
-* Theo/editorial: levels of service
-* Miscellany: Flora?
-* Photos
-
-Others
-
-* Patrick
-* Hector?
 
 ## June Programs- Roxana Lara / Assistant Director of
 Life Enrichment
@@ -243,3 +246,65 @@ Often it’s the departure from a place that we remember, if it is especially ne
 But then in 2019, Trump’s administration pulled the curtain down on tourist travel for Americans as well as curtailing American business dealings with the island. Suddenly, tour companies had to cancel their tours, cruise lines stopped their calls, airlines cut back on flights. Once again, Cuba, only 95 miles from Florida seemed like a distant land. Once again it has become elusive, enigmatic.
 
 
+## trish
+
+The Girl Who Lived by Christopher Greyson
+Book review by Trish Otstott
+
+It’s a thriller! It’s a chiller! Do not start reading this novel unless you have time to read it all! This book is difficult to put down.
+
+Faith watches a killer murder her beloved sister. She then discovers the killers has also murdered other members of her family. Faith hits a wall. She sinks into bad behavior and alcoholism as a result of her survivor’s guilt. Then she gets mad and sets out on her own to find this killer.
+
+Ready for a super suspenseful novel? The large print version of The Girl Who Lived is in the Stucky library, just waiting to thrill you!
+
+## Jane
+
+I only had one grandparent, my paternal Grandmother. All the others died before I came on the scene. She was a very Edwardian lady born in 1860. She wore long figured navy silk dresses with fairly low necks which were covered by a lace modesty bodice. She had white hair tied in a bun and startlingly blue eyes. She had small diamond dangle earrings and I always wondered how they stayed on as they were not fashionable at that time. She adored Queen Victoria and told me that she cried when the Queen died.
+
+She would come and stay with us for two weeks in the summer around the time of her birthday. She loved canned peaches and we always had them to celebrate. Canned peaches! A Californian would not consider that much of a treat! No ice cream but probable cream. She thought ice cream would freeze your tummy and advised me against it. I think it was difficult for my mother.
+
+During World War Two she came to stay with us as usual but we were living in furnished rooms in someone’s house as the company my father worked for had moved out of the London area to escape the bombing. It was a total disaster and my grandmother soon moved back to London and the bombing much to everyone’s relief.
+
+I do not know a lot about her earlier life. Her husband was a Customs and Excise officer I think in Llantwit Major in South Wales as that was where my father was born. My grandfather died of blood poisoning well before Penicillin leaving my grandmother with four boys and a girl to bring up. I do not know how old they were.
+
+When I knew her she lived with her daughter my Aunt Gladys and her daughter’s husband Ted and son. whose name I cannot remember. My grandmother’s eldest son, my uncle Frank was a seafarer and also stayed with his sister when he was not traveling. He brought exotic things back for my mother who he was very fond of. During the war he joined the Royal Navy Something he swore he would never do.
+
+After the war in 1946 he emigrated to New Zealand to join and subsequently marry a girlfriend.
+
+My grandmother hated to see him go as she knew she would never see him again. Was he her favorite? I do not know but within a couple of months of his leaving she had had enough and died. I was sixteen. at the time.
+
+She was born in 1860 and my own daughter her great granddaughter was born in 1960 but of course they never knew each other
+
+One of her quotes that I member and call upon often is “:Everybody’s way is different and everybody’s way does”
+
+
+## trish
+
+West Coast Craft
+Jun 8th Through Jun 9th
+The celebrated West Coast Craft (WCC) fair returns to Fort Mason Center for Arts & Culture for summer shopping fun. A juried exhibition of more than 275 artisans, WCC features designers and craftspeople inspired by the mood and aesthetics of the West Coast lifestyle, as well as by local materials and innovations.
+Enjoy browsing for fine craft items including ceramics, sculpture, fiber arts, textiles, home furnishings, paper goods, wood crafts, bath and body products, and more. (Visit the WCC Catalog for examples of the types of artists who exhibit at WCC.)
+WCC Summer 2024 takes place in the Festival Pavilion on Saturday and Sunday, June 8 and 9, 2024, 10:00 a.m. to 6:00 p.m.
+Free Admission
+
+Sf Camerawork
+Through June 22
+SF Camerawork presents EBTI: Ma-kan, a solo exhibition by a multidisciplinary artist, self-taught photographer, and translator living between Cairo and San Francisco at Fort Mason Center For Arts & Culture (FMCAC).
+The exhibition is on view from Tuesday, March 12, 2024 through Saturday, June 22, 2024, Tuesday through Saturday, 12:00 p.m. (Noon) to 6:00 p.m.
+Ebti and SF Camerawork host a series of open studio visits at the gallery commencing Friday, March 1, 2024, where visitors and SF Camerawork community members have the opportunity to learn about the artist’s work in progress and witness Ebti’s creative practice unfold in real-time. Additional programs and specific open studio dates are to be announced at SFCamerawork.org, and via SF Camerawork’s email list.
+Ma-kan means place in Arabic. Taken apart, the word ma-kan can also mean it was and is not. For her exhibition, Ma-kan مكان, Ebti presents a suite of site-responsive, photo-based installation works crafted from prints on fabric, projections, transparencies, and traditional paper prints. Using images, stories, and objects collected from her travels, home life, and the space itself; a narrative of perpetual departure, arrival, home, and homesickness unfolds.
+
+## Sheila
+
+Cuba April 7 - 17 2015
+We had dinner in Camaguey and examined some more antique cars. After dinner, we We were driven home in these vintage cars
+
+We visited Ernest Hemingway's house in the suburbs. It was a large wooden structure with an adjacent carriage house for his cars. Visitors are not allowed into the house, because of theft, but I took photos through the windows. Hemingway at first lived in Havana, but lack of privacy drove him to the countryside. He purchased this house for eighteen thousand pesos in 1940, but he traveled a lot, especially safaris in Africa. And there are lots of animal heads on the walls. He liked to hunt elephants too. In the 1950s Hemingway developed diabetes and he also started losing his sight. In 1950 he left Cuba and went to Spain. He then settled in Minnesota in the US. His letters were published in 1961. He shot himself, committed suicide. In this house, Hemingway wrote two of his most celebrated novels: For Whom the Bell Tolls and The Old Man in the Sea. The House had a large swimming pool, and this large fishing trawler. He loved to go out fishing. I have also seen his help home in Miami.
+
+Hi Archie, OK where's your necktie? all my balls like. to set the order. This one's like when you put it to the Tylenol. It doesn't fit unless you put a real tie. OK, right. Yeah, right. This ain't need real time. Not the little clip. Get right. OK. Can we put? So at least you can be casual somedays. Yeah. So when I wear the other shirts, it's smaller. But I thought I need more shirts with the white one. It doesn't last long. Oh, OK. You need like, that was the making a white dirty like maybe in one week. So keep watching it. Yeah, right. Yeah, that's no fun anyway. Nice to see you. Yeah. S At night, we had dinner at a paladar, privately owned restaurant.
+
+Havana is full of these old American vintage automobiles. We were driven to our restaurant in these old, but prized and well kept vintage autos. Apparently, when the 1950s American engines were wore out, many these old cars were fitted with Russian engines.
+
+## Mary liz
+
+The Food Committee met in the McGinley room May 14th. Morrison staff members present were Angie Lamb and Sylvie Holdman. At every meeting, Angie distributes handouts with all the comments residents write and place in the comment box in the dining room corridor. During the meeting of each comment is read and disgusted. Then additional comments are encouraged from all those present. The new monthly single country ethnic foods is very favorably received, especially as the country is further enjoyed by documentaries, movies, parties, music, and art by the activities committee. The next Food Committee meeting will be Tuesday, july 14th, 2024
