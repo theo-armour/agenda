@@ -12,11 +12,10 @@
 
 * ?
 * Tania
-* DH: Psalms to Video
-* MichaelH: link to Google Photos
 
 ## SOON
 
+* HoverX1: box + print mailer + mail
 * ace-it+: exhibit report
 * Film the corridor
 * House committee
@@ -31,6 +30,8 @@
 * Aaron, 
 * Standing desk
 * Mia: send retainer
+* DH: Psalms to Video
+* MichaelH: link to Google Photos
 
 ***
 
