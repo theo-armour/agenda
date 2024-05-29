@@ -2,7 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-05-17 ~ Mel Carpenter:  "Meet the person where they are and enter from their door to a fruitful exchange of dialog and the leave through the door that fits best be it a new "our" door
+*   
 * 2024-05-18 ~ Triad of the day: novelty, credibility, and utility ~ trifecta for new materials
 * 2024-05-20 ~ young: read in BW ~ older: read in color ~ 16 million colors ~ Pocahontas movie: see the colors of the wind song
 * 2024-05-26 ~ Even if it's not real, deal with it ~ Everything you perceive, how real is it? Who knows? So, assume it's real
@@ -11,6 +11,7 @@
 ## Today
 
 * ?
+* Photo of Daddy
 * Tania
 
 ## SOON
