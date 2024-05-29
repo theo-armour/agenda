@@ -30,7 +30,7 @@
 * TGD: sound video
 * Aaron, 
 * Standing desk
-*   
+* Mia: send retainer
 
 ***
 
