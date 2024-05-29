@@ -2,10 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-*   
-*   
-*   
-* 2024-05-26 ~ Even if it's not real, deal with it ~ Everything you perceive, how real is it? Who knows? So, assume it's real
+* 2024-05-26 ~ Even if it's not real, deal with it ~ Everything you perceive, how real is it? Who knows? So, assume it's real  
 * 2024-05-26 ~ Apple devices: you don't need to ever open the hood ~ Other devices: you are to open the hood 
 
 ## Today
