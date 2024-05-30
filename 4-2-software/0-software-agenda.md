@@ -33,6 +33,10 @@
 
 \* Set up locally
 
+\* photos
+
+  
+
 ## GitHub
 
 * 000
