@@ -308,3 +308,10 @@ Havana is full of these old American vintage automobiles. We were driven to our 
 ## Mary liz
 
 The Food Committee met in the McGinley room May 14th. Morrison staff members present were Angie Lamb and Sylvie Holdman. At every meeting, Angie distributes handouts with all the comments residents write and place in the comment box in the dining room corridor. During the meeting of each comment is read and disgusted. Then additional comments are encouraged from all those present. The new monthly single country ethnic foods is very favorably received, especially as the country is further enjoyed by documentaries, movies, parties, music, and art by the activities committee. The next Food Committee meeting will be Tuesday, july 14th, 2024
+
+## Claudia
+
+
+In my classes I offer yoga in its original form, as a mind-body modality.
+In the physical aspect I focus on proper body posture, balance, flexibility and strength. Gentle movement and stretches help to relieve physical tension and can reduce pain. The goal is to create more ease, comfort and confidence with daily life activities. We practice either seated on a chair or standing with the support of the chair. I offer modifications so that the practice is accessible to everyone.
+To address the mental aspect of being I offer breathing exercises and mindfulness practices to reduce stress and anxiety while increasing calm and focus.

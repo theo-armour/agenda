@@ -82,7 +82,7 @@ First Psalm: For a prosperous, conservative, elderly congregation in a rural loc
 
 Purpose: This psalm is intended to speak to the leaders of a prosperous, conservative, elderly congregation. It is written in the tone, format, and style of the book of Jeremiah in the King James Bible. It aims to remind them of their duty to lead with kindness and to be thoughtful of those less fortunate.
 
-Title of the Psalm: A Call to Righteous Leadership
+Title of the Psalm:A Call to Righteous Leadership
 
 Psalm:
 Thus saith the Lord unto the leaders of the land,
@@ -189,3 +189,30 @@ Be courageous and steadfast,
 And His peace will be with you always.
 
 Comments: The themes of material wealth and traditional hierarchical structures have been intentionally left out. The psalm emphasizes resilience, solidarity, and the practical application of faith in daily struggles, resonating with the youthful, working-class, urban congregation.
+
+##
+
+Rats. It looks like Moodle gets muddled. The links in my previous reply generated videos that worked here in Moodle when I edited them but have since stopped displaying.
+
+For the rural, conservative congregation: A Call to Righteous Leadership
+You will see a lot of bears in this video. The word "bear" is in the psalm. ;-)
+
+Another version:  A Call to Righteous Leadership
+
+For the suburban progressive congregation: A Vision of Compassionate Community
+
+For the urban radical congregation:  A Cry for Justice and Compassion
+
+All these need a way of displaying the text of the psalm as it is being sung. My guess is that I can get this to happen when I upload the videos to YouTube.
+
+What have I learned?
+I can use AI to create a psalm that reads and sounds OK. I think I can write better psalms. I would not have known this without seeing AI's examples.
+
+AI is good at giving feedback. So, when I write a psalm, AI can be my editor.
+
+I am not a musician or animator. I therefore would rely on AI for music and video. There might be somebody in the diocese who could help.
+
+What is a vision?
+I can see establishing a process whereby psalms are written on a regular basis for the website or newsletter of a congregation that are
+
+
