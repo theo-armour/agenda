@@ -9,6 +9,7 @@
 
 * ?
 * Photo of BobC
+* Claudia B: program details
 * Photo of Daddy
 * Tania
 
