@@ -8,6 +8,7 @@
 ## Today
 
 * ?
+* Praveen: ditch HH Calendar
 * Happiness editorial
 * Photo of Daddy
 * Tania
