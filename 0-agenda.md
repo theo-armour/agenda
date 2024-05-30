@@ -8,6 +8,7 @@
 ## Today
 
 * ?
+* Photo of BobC
 * Photo of Daddy
 * Tania
 
