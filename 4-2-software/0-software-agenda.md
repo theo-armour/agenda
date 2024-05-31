@@ -17,9 +17,25 @@
 * Contacts: to Outlook
 * 2023-11-16 ~ Move as much as possible to Pages
 
+## AudioPen
+
+\* files to oneDrive
+
+## AquaVoice
+
+\* learn
+
 ## AutoHotKey
 
 * 000
+
+## DropBox
+
+\* Set up locally
+
+\* photos
+
+  
 
 ## GitHub
 
