@@ -1,7 +1,7 @@
 
 Jon Rubin Chair
 
-Jean MacCurdy Vice Chair ~ smart
+Jean MacCurdy Vice Chair ~ smart ~ Warner Bros Animation
 
 Linda Muir Vice Chair
 
