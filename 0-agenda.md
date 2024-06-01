@@ -8,8 +8,9 @@
 ## Today
 
 * ?
+* Mail stuff
 * Praveen: ditch HH Calendar
-*   
+* Rod: my intent with the psalms was all about getting the good news out onto the street
 * Tania
 
 ## SOON
@@ -30,7 +31,7 @@
 * Aaron, 
 * Standing desk
 * Mia: send retainer
-* DH: Psalms to Video
+*   
 * MichaelH: link to Google Photos
 
 ***
