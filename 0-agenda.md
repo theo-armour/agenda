@@ -24,14 +24,12 @@
 * Rod D: meetup?
 * 2am
 * Alix: image
-* Stephen C: msg
 * Bernie: photo
 * Patrick: Ange Appreciation documents
 * TGD: sound video
 * Aaron, 
 * Standing desk
 * Mia: send retainer
-*   
 * MichaelH: link to Google Photos
 
 ***
