@@ -10,7 +10,7 @@ June 2024: Heritage Happenings
 
 Hello Heritage Residents
 
-As part of the monthly **Around the World** program, _Heritage Happenings_ visits **The Caribbean**. Look for the trumpet player cameo and the green, black and c=gold colors of the Jamaican flag theme.
+As part of the monthly **Around the World** program, _Heritage Happenings_ visits **The Caribbean**. Look for the trumpet player cameo and the green, black and gold colors of the Jamaican flag theme.
 
 The issue also celebrates **Father's Day** with photos of many fathers of team members and residents.
 
@@ -19,8 +19,6 @@ Click the links below to open your digital copies of the June publications.
 [_Heritage Happenings_ **Newsletter**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-06-happenings-newsletter.pdf )
 
 [_Heritage Happenings_ **Calendar**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-06-happenings-calendar.pdf)
-
-This month we have added a new publication: [_Heritage Happenings_ **Floor Plans**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-06-happenings-floor-plans.pdf)
 
 The _Heritage Happenings_ Residents Directory and Floor Plans were not updated this month but will be in July.
 
