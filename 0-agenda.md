@@ -8,6 +8,10 @@
 ## Today
 
 * ?
+* HH: mail residents
+* HH: Fam & Friend
+*   
+* Tidy closet
 * Mail stuff
 * Praveen: ditch HH Calendar
 * Rod: my intent with the psalms was all about getting the good news out onto the street
