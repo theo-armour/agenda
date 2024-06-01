@@ -8,9 +8,12 @@
 ## Today
 
 * ?
+* Angie: email
+* Brian Chase
 * HH: mail residents
 * HH: Fam & Friend
-*   
+* HH: BoD
+* HH: Staff
 * Tidy closet
 * Mail stuff
 * Praveen: ditch HH Calendar
