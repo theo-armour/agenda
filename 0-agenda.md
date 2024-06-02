@@ -8,8 +8,8 @@
 ## Today
 
 * ?
-* HH: mail residents
-* HH: Fam & Friend
+* Angie: email
+* Brian Chase
 *   
 * Tidy closet
 * Mail stuff
