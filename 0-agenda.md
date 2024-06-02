@@ -14,12 +14,14 @@
 * Katie: thanks
 * Angie: email
 * Brian Chase
-* Mail stuff
-* Praveen: ditch HH Calendar
+*   
 *   
 
 ## SOON
 
+* Goodwill
+* Mail stuff
+* Praveen: ditch HH Calendar
 * HoverX1: box + print mailer + mail
 * ace-it+: exhibit report
 * Film the corridor
@@ -29,7 +31,7 @@
 * Rod D: meetup?
 * 2am
 * Alix: image
-* Bernie: photo
+* Bernie: photo ~ feb hh
 * Patrick: Ange Appreciation documents
 * TGD: sound video
 * Aaron, 
