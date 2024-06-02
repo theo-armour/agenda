@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-* DH: feedback
+* DH: course evaluation
 * PPH > Gary: June Health report
 * Katie: thanks
 * Angie: email
