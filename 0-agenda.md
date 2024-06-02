@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-* Tidy closet
+*   
 * PPH > Gary: June Health report
 * Katie: thanks
 * Angie: email
@@ -18,6 +18,7 @@
 
 ## SOON
 
+* Ham radio license
 * Goodwill
 * Mail stuff
 * Praveen: ditch HH Calendar
