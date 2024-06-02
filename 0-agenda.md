@@ -15,7 +15,6 @@
 * Angie: email
 * Brian Chase
 *   
-*   
 
 ## SOON
 
