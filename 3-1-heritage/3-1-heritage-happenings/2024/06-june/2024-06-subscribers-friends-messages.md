@@ -45,15 +45,15 @@ June 2024: Heritage Happenings
 
 Hello Heritage on the Marina family and friends
 
-As part of the monthly **Around the World** program, _Heritage Happenings_ visits **Mexico**. Look for the Mexican matador cameo and red and green theme.
+As part of the monthly **Around the World** program, _Heritage Happenings_ visits **The Caribbean**. Look for the trumpet player cameo and the green, black and gold colors of the Jamaican flag theme.
+
+The issue also celebrates **Father's Day** with photos of many fathers of team members and residents.
 
 Click the links below to open your digital copies of the June publications.
 
 [_Heritage Happenings_ **Newsletter**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-06-happenings-newsletter.pdf )
 
 [_Heritage Happenings_ **Calendar**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-06-happenings-calendar.pdf)
-
-This month we have added a new publication: [_Heritage Happenings_ **Floor Plans**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-06-happenings-floor-plans.pdf)
 
 Please let me know if you have siblings, children, or friends who would like to receive the newsletter. I will be happy to add them to the list.
 
@@ -71,7 +71,7 @@ t.armour@gmail.com<br>
 <br>
 
 
-## My Family and Friends
+## xxxx My Family and Friends
 
 
 
