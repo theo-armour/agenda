@@ -9,16 +9,14 @@
 ## Today
 
 * ?
-* DH: course evaluation
+* Tidy closet
 * PPH > Gary: June Health report
 * Katie: thanks
 * Angie: email
 * Brian Chase
-* \* Tidy closet
 * Mail stuff
 * Praveen: ditch HH Calendar
-* Rod: my intent with the psalms was all about getting the good news out onto the street
-* Tania
+*   
 
 ## SOON
 
