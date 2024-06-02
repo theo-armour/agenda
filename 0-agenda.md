@@ -9,8 +9,7 @@
 ## Today
 
 * ?
-*   
-* PPH > Gary: June Health report
+* PPH > Gary: June Health report  
 * Katie: thanks
 * Angie: email
 * Brian Chase
