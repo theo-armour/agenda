@@ -9,15 +9,16 @@
 ## Today
 
 * ?
-* PPH > Gary: June Health report  
-* Katie: thanks
-* Angie: email
-* Brian Chase
-* new
+* PPH > Gary: June Health report
+* Fred Burke: email
+* newtabb update
+* \* Try audio survey
+*   
 
 ## SOON
 
 * Ham radio license
+* Fee schedule questions
 * Goodwill
 * Mail stuff
 * Praveen: ditch HH Calendar
