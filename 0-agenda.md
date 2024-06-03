@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-*   
+* Patrick: agenda
 * Fred Burke: email
 * Try audio survey  
 *   
