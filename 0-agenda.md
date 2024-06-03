@@ -9,13 +9,14 @@
 ## Today
 
 * ?
-* PPH > Gary: June Health report
+* Patrick: agenda
 * Fred Burke: email
 * Try audio survey  
 *   
 
 ## SOON
 
+* Tom Johnson: latest version MJ articlw
 * House Committe: first requests
 * Ham radio license
 * Fee schedule questions
