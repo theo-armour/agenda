@@ -16,7 +16,7 @@
 
 ## SOON
 
-* Hose Committe: first requests
+* House Committe: first requests
 * Ham radio license
 * Fee schedule questions
 * ResDir: split names
