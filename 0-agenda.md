@@ -16,6 +16,7 @@
 
 ## SOON
 
+* Tom Johnson: latest version MJ articlw
 * House Committe: first requests
 * Ham radio license
 * Fee schedule questions
