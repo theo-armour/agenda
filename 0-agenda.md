@@ -11,14 +11,15 @@
 * ?
 * PPH > Gary: June Health report
 * Fred Burke: email
-*   
-* \* Try audio survey
+* Try audio survey  
 *   
 
 ## SOON
 
+* Hose Committe: first requests
 * Ham radio license
 * Fee schedule questions
+* ResDir: split names
 * Goodwill
 * Mail stuff
 * Praveen: ditch HH Calendar
