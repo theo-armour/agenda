@@ -2,10 +2,11 @@
 
 ## Appointments
 
-* Dr Kresta Tabaranza: 29 June ~ appointment: tests?
 * Gary: 3 June > prep report
-* Dr Y: 13 June
-* Dr Kattah: 27 June
+* Consultation and periodontal cleaning ~ Dr Yoga: June 13
+* Dermatology exam ~ Dr Fassett: June 18
+* Colonoscopy ~ Dr Kattah: 27 June
+* Glaucoma exam ~ Dr Kresta Tabaranza: 29 June ~ tests?
 
 ## Agenda
 

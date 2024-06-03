@@ -19,11 +19,11 @@
 
 ## AudioPen
 
-\* files to oneDrive
+* files to oneDrive
 
 ## AquaVoice
 
-\* learn
+* learn
 
 ## AutoHotKey
 
@@ -31,11 +31,9 @@
 
 ## DropBox
 
-\* Set up locally
+* Set up locally
+* photos
 
-\* photos
-
-  
 
 ## GitHub
 
