@@ -11,18 +11,20 @@
 * ?
 * mike@pineparkhealth.com
 * Claudia
-* Patrick: agenda
-* Fred Burke: email
-* Try audio survey ~ enter sensay questions
+* Patrick: agenda  
 
 ## SOON
+
+* ?
+* Ray Gordon: Photos
+* Try audio survey ~ enter sensay questions
 
 * Tom Johnson: latest version MJ articlw
 * House Committe: first requests
 * Ham radio license
 * Fee schedule questions
 * ResDir: split names
-*   
+* Fred Burke: email
 * Mail silverware + purse + dwg
 * Praveen: ditch HH Calendar
 * ace-it+: exhibit report
