@@ -16,6 +16,7 @@
 ## SOON
 
 * ?
+* PatrickA: videos ~ https://www.perplexity.ai/search/cellular-basis-of-6S.exxeRTbGkQC8Z9RSZ0w#0
 * Ray Gordon: Photos
 * Try audio survey ~ enter sensay questions
 
