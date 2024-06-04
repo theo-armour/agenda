@@ -13,7 +13,7 @@
 * Claudia
 * Patrick: agenda
 * Fred Burke: email
-* Try audio survey
+* Try audio survey ~ enter sensay questions
 
 ## SOON
 
