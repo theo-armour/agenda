@@ -22,10 +22,9 @@
 * Ham radio license
 * Fee schedule questions
 * ResDir: split names
-* Goodwill
-* Mail stuff
-* Praveen: ditch HH Calendar
 *   
+* Mail silverware + purse + dwg
+* Praveen: ditch HH Calendar
 * ace-it+: exhibit report
 * Film the corridor
 * HH: talk to praveen
