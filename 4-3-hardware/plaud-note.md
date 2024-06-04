@@ -13,4 +13,3 @@
 * Purple light charging
 * Red light: low battery
 
-Test test 123. 

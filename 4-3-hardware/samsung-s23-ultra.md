@@ -1,4 +1,4 @@
-# Sansung Galaxy S24 Ultra
+# Samsung Galaxy S24 Ultra
 
 
 
