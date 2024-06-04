@@ -9,22 +9,25 @@
 ## Today
 
 * ?
+* mike@pineparkhealth.com
 * Claudia
-* Patrick: agenda
-* Fred Burke: email
-* Try audio survey
+* Patrick: agenda  
 
 ## SOON
+
+* ?
+* PatrickA: videos ~ https://www.perplexity.ai/search/cellular-basis-of-6S.exxeRTbGkQC8Z9RSZ0w#0
+* Ray Gordon: Photos
+* Try audio survey ~ enter sensay questions
 
 * Tom Johnson: latest version MJ articlw
 * House Committe: first requests
 * Ham radio license
 * Fee schedule questions
 * ResDir: split names
-* Goodwill
-* Mail stuff
+* Fred Burke: email
+* Mail silverware + purse + dwg
 * Praveen: ditch HH Calendar
-* HoverX1: box + print mailer + mail
 * ace-it+: exhibit report
 * Film the corridor
 * HH: talk to praveen
