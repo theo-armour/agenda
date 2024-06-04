@@ -11,6 +11,7 @@
 ## Agenda
 
 * Statins
+* Dr Immerman: shoulder ortho referral
 * [Medicare Supplement dental plans | Blue Shield Medicare (blueshieldca.com)](https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental)
 * EmpowerMe: PT referral
 * [https://www.alignmenthealthplan.com/](https://www.alignmenthealthplan.com/) ~ free lunch?
