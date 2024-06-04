@@ -1,4 +1,8 @@
-# Samsung Galaxy S23 Ultra
+# Sansung Galaxy S24 Ultra
+
+
+
+## Samsung Galaxy S23 Ultra
 
 Galaxy S23 Ultra, 512GB (GoogleFI)
 SM-S918ULIFGFI
@@ -28,6 +32,7 @@ From Settings, tap  Advanced features > Motions and gestures > Palm swipe to cap
 ### Lock screen Clock
 
 Font: settings > lock screen
+
 
 ## Tips
 
