@@ -25,7 +25,7 @@
 * Goodwill
 * Mail stuff
 * Praveen: ditch HH Calendar
-* HoverX1: box + print mailer + mail
+*   
 * ace-it+: exhibit report
 * Film the corridor
 * HH: talk to praveen
