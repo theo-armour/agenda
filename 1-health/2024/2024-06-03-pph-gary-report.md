@@ -11,6 +11,7 @@
 * Walking: no improvement
 * Continue to experience pain in my right shoulder and wrist due to excessive use
 * Right hand "falls asleep"/paresthesia almost every night
+* left foot: pain and red in the morning
 * Continue to be a fall risk
 
 
