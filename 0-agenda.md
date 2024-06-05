@@ -9,9 +9,8 @@
 ## Today
 
 * ?
-* [mike@pineparkhealth.com](mailto:mike@pineparkhealth.com)
+* [mike@pineparkhealth.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mike@pineparkhealth.com)
 * Claudia
-*   
 
 ## SOON
 
