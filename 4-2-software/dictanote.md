@@ -1,0 +1,4 @@
+# dictanote
+
+* https://dictanote.com
+* 

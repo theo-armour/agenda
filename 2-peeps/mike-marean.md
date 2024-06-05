@@ -1,4 +1,3 @@
-
 # Mike Marean
 
 Wife: Eileen ~ student counselor
@@ -11,9 +10,18 @@ Interactive Object Network Indices For Law, Fact Patterns And Their Interaction
 
 * https://onedrive.live.com/?cid=4348E1419F457EB2&id=4348E1419F457EB2%21837369&parId=4348E1419F457EB2%21837368&o=OneUp
 
+
+## 2024-06-04
+
+* demo of latest rev
+* looks powerful and useful
+* Send him a copy of don't make me think.
+* Does the project have a catchy name?
+* Can you describe the benefits of the project in a single. sentence?
+
 ## 2024-04-07
 
-mil eo'brien one handed
+mil o'brien one handed
 
 the art of thinking for yourself
 
