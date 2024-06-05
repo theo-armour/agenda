@@ -15,6 +15,7 @@
 ## SOON
 
 * ?
+* Michler: openai stock
 * How to send multiple links to multiple messages by program  
 * Open mail
 * Ray Gordon: Photos
