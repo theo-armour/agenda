@@ -10,8 +10,9 @@
 * Patrick: Ange Appreciation documents
 * AnneM: Evanston house in Birth of a Nation
 * Sort Heritage files
+* Joe Morris: Grass-fed beef for Heritage
 * Ayon: residents folder OneDrive
-* Cortez: lunch
+* Cortez: lunch + interview
 * HH Patti G: 4th floor screen isa JM?
 * Christina: RC exec committee to be informed of RCFE statutes and obligations
 * Xfinity: Demian: upload speeds
