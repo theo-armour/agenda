@@ -9,18 +9,19 @@
 ## Today
 
 * ?
-  
 * Claudia
+* Rick Morton
+* Go to storage
+* Michler: openai stock
 
 ## SOON
 
 * ?
-* Michler: openai stock
-* How to send multiple links to multiple messages by program  
-* Open mail
 * Ray Gordon: Photos
 * Try audio survey ~ enter sensay questions
-* Tom Johnson: latest version MJ articlw
+* How to send multiple links to multiple messages by program
+* Open mail
+* Tom Johnson: latest version MJ article
 * House Committee: what next
 * Ham radio license
 * Fee schedule questions
@@ -32,14 +33,13 @@
 * Film the corridor
 * HH: talk to praveen
 * House committee
-* Go to storage
 * Rod D: meetup?
 * 2am
 * Alix: image
 * Bernie: photo ~ feb hh
-* Patrick: Ange Appreciation documents
+* Patrick: Angie Appreciation documents
 * TGD: sound video
-* Aaron, 
+* Aaron
 * Standing desk
 * Mia: send retainer
 
