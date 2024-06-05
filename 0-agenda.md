@@ -4,23 +4,24 @@
 
 * 2024-05-26 ~ Even if it's not real, deal with it ~ Everything you perceive, how real is it? Who knows? So, assume it's real
 * 2024-05-26 ~ Apple devices: you don't need to ever open the hood ~ Other devices: you are to open the hood 
-* 2024-06-02 ~ My brain may be shallow, but my pockets are deep.
+* 2024-06-02 ~ My brain may be shallow, but my pockets are deep. Testing testing
 
 ## Today
 
 * ?
-* [mike@pineparkhealth.com](mailto:mike@pineparkhealth.com)
+  
 * Claudia
-*   
 
 ## SOON
 
 * ?
-* PatrickA: videos ~ [https://www.perplexity.ai/search/cellular-basis-of-6S.exxeRTbGkQC8Z9RSZ0w#0](https://www.perplexity.ai/search/cellular-basis-of-6S.exxeRTbGkQC8Z9RSZ0w#0)
+* Michler: openai stock
+* How to send multiple links to multiple messages by program  
+* Open mail
 * Ray Gordon: Photos
 * Try audio survey ~ enter sensay questions
 * Tom Johnson: latest version MJ articlw
-* House Committe: first requests
+* House Committee: what next
 * Ham radio license
 * Fee schedule questions
 * ResDir: split names
@@ -41,7 +42,6 @@
 * Aaron, 
 * Standing desk
 * Mia: send retainer
-* MichaelH: link to Google Photos
 
 ***
 
