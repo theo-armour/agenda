@@ -40,7 +40,6 @@
 * Aaron, 
 * Standing desk
 * Mia: send retainer
-* MichaelH: link to Google Photos
 
 ***
 
