@@ -4,7 +4,7 @@
 
 * 2024-05-26 ~ Even if it's not real, deal with it ~ Everything you perceive, how real is it? Who knows? So, assume it's real
 * 2024-05-26 ~ Apple devices: you don't need to ever open the hood ~ Other devices: you are to open the hood 
-* 2024-06-02 ~ My brain may be shallow, but my pockets are deep.
+* 2024-06-02 ~ My brain may be shallow, but my pockets are deep. Testing testing
 
 ## Today
 
