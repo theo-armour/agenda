@@ -15,7 +15,6 @@
 ## SOON
 
 * ?
-  
 * Ray Gordon: Photos
 * Try audio survey ~ enter sensay questions
 * Tom Johnson: latest version MJ articlw
