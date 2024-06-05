@@ -19,7 +19,7 @@
 * Ray Gordon: Photos
 * Try audio survey ~ enter sensay questions
 * Tom Johnson: latest version MJ articlw
-* House Committe: first requests
+* House Committee: first requests
 * Ham radio license
 * Fee schedule questions
 * ResDir: split names
