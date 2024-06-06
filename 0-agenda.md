@@ -17,8 +17,7 @@
 
 * ?
 * Ham radio license: start
-*   
-* How to send multiple links to multiple messages by program
+* How to send multiple links to multiple messages by program  
 * Open mail
 * House Committee: what next
 * Ham radio license
