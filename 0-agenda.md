@@ -20,7 +20,7 @@
 * Ray Gordon: send Photos
 * How to send multiple links to multiple messages by program
 * Open mail
-* House Committee: what next
+* House Committee: Bledsoe
 * Ham radio license
 * Fee schedule questions
 * ResDir: split names
