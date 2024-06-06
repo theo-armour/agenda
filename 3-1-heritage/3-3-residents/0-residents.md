@@ -2,6 +2,10 @@
 
 ## Agenda
 
+* Rod D: meetup?
+* \* RodD: Lowrie books
+
+* Bernie: photo ~ feb hh
 * Patrick: Angie Appreciation documents
 * Margaret jacobs: fun & games
 * MargaretM: TechPubs son
