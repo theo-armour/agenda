@@ -17,7 +17,7 @@
 
 * ?
 * Ham radio license: start
-* Ray Gordon: Photos
+*   
 * How to send multiple links to multiple messages by program
 * Open mail
 * House Committee: what next
