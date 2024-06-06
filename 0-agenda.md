@@ -16,8 +16,7 @@
 ## SOON
 
 * ?
-* Ray Gordon: Photos
-* Try audio survey ~ enter sensay questions
+* Ray Gordon: send Photos
 * How to send multiple links to multiple messages by program
 * Open mail
 * House Committee: what next
