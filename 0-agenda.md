@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-* Claudia
+*   
 * Michler: openai stock
 * Patrick: Art books: any interest
 
