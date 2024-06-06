@@ -11,15 +11,15 @@
 * ?
 * Claudia
 * Michler: openai stock
+* Try audio survey ~ enter sensay questions
 
 ## SOON
 
 * ?
+* Ham radio license: start
 * Ray Gordon: Photos
-* Try audio survey ~ enter sensay questions
 * How to send multiple links to multiple messages by program
 * Open mail
-*   
 * House Committee: what next
 * Ham radio license
 * Fee schedule questions
