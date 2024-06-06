@@ -2,6 +2,8 @@
 
 ## Agenda
 
+* ResDir: split names
+
 ### June
 
 * HH: Millionaire donor?
