@@ -2,8 +2,9 @@
 
 ## Agenda
 
+* Tom Jones: architecture books
 * Rod D: meetup?
-* \* RodD: Lowrie books
+* RodD: Lowrie books
 
 * Bernie: photo ~ feb hh
 * Patrick: Angie Appreciation documents
