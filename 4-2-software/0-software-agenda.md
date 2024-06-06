@@ -6,6 +6,7 @@
 
 ## Agenda
 
+* Want: instant dictation
 * Where to archive photos ~ AI ~ Floris
 * Fastmail?
 * [https://sunshine.com/contacts/](https://sunshine.com/contacts/)
@@ -33,7 +34,6 @@
 
 * Set up locally
 * photos
-
 
 ## GitHub
 
