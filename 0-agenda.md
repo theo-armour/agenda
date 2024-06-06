@@ -31,11 +31,9 @@
 * Film the corridor
 * HH: talk to praveen
 * House committee
-* Rod D: meetup?
+*   
 * 2am
 * Alix: image
-* Bernie: photo ~ feb hh
-*   
 * TGD: sound video
 * Aaron
 * Standing desk
