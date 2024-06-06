@@ -7,6 +7,7 @@
 ## Agenda
 
 * Want: instant dictation
+* Want
 * Where to archive photos ~ AI ~ Floris
 * Fastmail?
 * [https://sunshine.com/contacts/](https://sunshine.com/contacts/)
@@ -18,7 +19,13 @@
 * Contacts: to Outlook
 * 2023-11-16 ~ Move as much as possible to Pages
 
-## AudioPen
+## 
+
+## Dictation Agenda
+
+\* Single click on phone to start
+
+AudioPen
 
 * files to oneDrive
 
