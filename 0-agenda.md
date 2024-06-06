@@ -23,7 +23,7 @@
 * House Committee: Bledsoe
 * Ham radio license
 * Fee schedule questions
-* ResDir: split names
+*   
 *   
 * Mail silverware + purse + dwg
 *   
