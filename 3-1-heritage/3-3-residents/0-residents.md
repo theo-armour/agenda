@@ -2,6 +2,8 @@
 
 ## Agenda
 
+* Fred Burke: email
+*   
 * Tom Jones: architecture books
 * Rod D: meetup?
 * RodD: Lowrie books
