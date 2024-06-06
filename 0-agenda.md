@@ -10,8 +10,7 @@
 
 * ?
 * Claudia
-* Rick Morton
-* Go to storage
+*   
 * Michler: openai stock
 * deposit check
 
