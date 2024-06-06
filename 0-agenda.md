@@ -50,6 +50,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
 
 * Mia: send retainer
+* Mia: wedding talks  
 
 <details open=""><summary>Simplicity agenda</summary><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a></p><p></p></details>
 
@@ -69,16 +70,12 @@
 
 * ?
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/mia-cotton-harlock/mia-agenda.md&quot;">Mia Agenda</a>
-
-* Mia: wedding talks ~ 511 ~ price for editing?
-
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * 2am
-* Ray Gordon: send Photos
+* Ray Gordon: send Photos ~ write obit
 * TGD: sound video
 * Aaron
 
