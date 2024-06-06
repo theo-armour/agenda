@@ -10,9 +10,7 @@
 
 * ?
 * Claudia
-*   
 * Michler: openai stock
-* deposit check
 
 ## SOON
 
@@ -21,7 +19,7 @@
 * Try audio survey ~ enter sensay questions
 * How to send multiple links to multiple messages by program
 * Open mail
-* Tom Johnson: latest version MJ article
+*   
 * House Committee: what next
 * Ham radio license
 * Fee schedule questions
