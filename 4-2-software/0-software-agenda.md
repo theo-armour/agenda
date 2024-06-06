@@ -19,13 +19,18 @@
 * Contacts: to Outlook
 * 2023-11-16 ~ Move as much as possible to Pages
 
-## 
-
 ## Dictation Agenda
 
-\* Single click on phone to start
+* Single click on phone to start
+* See the text appear
+* Talk and keyboard at the same time
+* Realtime editing and cleanup
 
-AudioPen
+## Interviewing Agenda
+
+* Identify speakers
+
+## AudioPen
 
 * files to oneDrive
 
