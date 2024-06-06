@@ -31,7 +31,6 @@
 * Film the corridor
 * HH: talk to praveen
 * House committee
-*   
 * 2am
 * Alix: image
 * TGD: sound video
