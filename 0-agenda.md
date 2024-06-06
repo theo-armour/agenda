@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-* * Michler: openai stock
+* Michler: openai stock
 * Patrick: Art books: any interest
 
 ## SOON
