@@ -4,13 +4,8 @@
 
 *   
 * Margaret jacobs: fun & games
-* MarJon: photos + scissors
-* Maretha Nell: Julia Morgan H plans
-* Granucci: email?
-* MargaretM: SDGs
-* MJohn: sharpen scissors
-* MJohn: Ann Johnson
-* Mercedes/Leichems: Crenn or Balboa
+* MargaretM: TechPubs son
+*   
 
 ## Margaret Jacobs
 
