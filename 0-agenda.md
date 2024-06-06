@@ -35,7 +35,7 @@
 * 2am
 * Alix: image
 * Bernie: photo ~ feb hh
-* Patrick: Angie Appreciation documents
+*   
 * TGD: sound video
 * Aaron
 * Standing desk
