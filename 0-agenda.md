@@ -9,13 +9,14 @@
 ## Today
 
 * ?
-*   
-* Michler: openai stock
+* * Michler: openai stock
 * Patrick: Art books: any interest
 
 ## SOON
 
 * ?
+* Floris: crucial memory return
+* Floris: archiving photos Etc
 * Ray Gordon: send Photos
 * How to send multiple links to multiple messages by program
 * Open mail
