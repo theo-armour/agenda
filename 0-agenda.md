@@ -9,18 +9,16 @@
 ## Today
 
 * ?
-  
-* Claudia
+*   
+* Michler: openai stock
+* Patrick: Art books: any interest
 
 ## SOON
 
 * ?
-* Michler: openai stock
-* How to send multiple links to multiple messages by program  
+* Ray Gordon: send Photos
+* How to send multiple links to multiple messages by program
 * Open mail
-* Ray Gordon: Photos
-* Try audio survey ~ enter sensay questions
-* Tom Johnson: latest version MJ articlw
 * House Committee: what next
 * Ham radio license
 * Fee schedule questions
@@ -32,14 +30,13 @@
 * Film the corridor
 * HH: talk to praveen
 * House committee
-* Go to storage
 * Rod D: meetup?
 * 2am
 * Alix: image
 * Bernie: photo ~ feb hh
-* Patrick: Ange Appreciation documents
+* Patrick: Angie Appreciation documents
 * TGD: sound video
-* Aaron, 
+* Aaron
 * Standing desk
 * Mia: send retainer
 
@@ -54,7 +51,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* A: back brace ~ canon cartridge?
+* A: back brace ~ canon cartridge ~ microsd cards
 
 <details open=""><summary>Personal Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly-day</a>s<br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a><br></p><p></p></details>
 
@@ -97,7 +94,7 @@
 
 ***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage&nbsp;hello&nbsp;oh 220 are you on that trip okay&nbsp;I'll be down in a minute</a>
 
 * ?
 
