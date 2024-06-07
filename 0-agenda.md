@@ -95,6 +95,7 @@
 * ?
 * HH: talk to praveen
 * House committee
+* Pam and Bob: send house committee  
 * Praveen: ditch HH Calendar
 * Fee schedule questions
 * House Committee: Bledsoe
