@@ -14,7 +14,8 @@
 ## SOON
 
 * ?
-* IRS to Michael you know openai the people that the company the that's really doing the popular artificial intelligence you understand artificial intelligence
+* IRS: estimated taxes
+* IRS: recalculate estimated payment
 * Marshall McLuhan: read book ~ oral + wring now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
 * O&A: Grubb&grub
