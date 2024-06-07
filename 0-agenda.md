@@ -9,6 +9,7 @@
 ## Today
 
 * ?
+* https://www.allgoodpizza.com/  
 * Michler: openai stock
 * Larry Albukirk: SHRTF
 * ECAT + Jos: OpenAI
