@@ -10,11 +10,11 @@
 
 * ?
 * Michler: openai stock
-*   
 
 ## SOON
 
 * ?
+* IRS to Michael you know openai the people that the company the that's really doing the popular artificial intelligence you understand artificial intelligence
 * Marshall McLuhan: read book ~ oral + wring now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
 * O&A: Grubb&grub
@@ -52,7 +52,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
 
 * Mia: send retainer
-* Mia: wedding talks  
+* Mia: wedding talks
 
 <details open=""><summary>Simplicity agenda</summary><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a></p><p>* June: $250?</p><p></p></details>
 
