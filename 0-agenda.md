@@ -14,8 +14,8 @@
 ## SOON
 
 * ?
-* Sand-Hill-Road-Technologies-Fund = SHRTF  
-* SHRTF: invest or not  
+* Sand-Hill-Road-Technologies-Fund = SHRTF
+* SHRTF: invest or not
 * IRS: estimated taxes
 * IRS: recalculate estimated payment
 * Marshall McLuhan: read book ~ oral + wring now uniting ~ I am a solutionist
@@ -40,7 +40,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* A: back brace ~ canon cartridge ~ microsd cards
+* A: back brace ~ 
 
 <details open=""><summary>Personal Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly-day</a>s<br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a><br></p><p></p></details>
 
