@@ -14,6 +14,8 @@
 ## SOON
 
 * ?
+* Sand-Hill-Road-Technologies-Fund = SHRTF  
+* SHRTF: invest or not  
 * IRS: estimated taxes
 * IRS: recalculate estimated payment
 * Marshall McLuhan: read book ~ oral + wring now uniting ~ I am a solutionist
