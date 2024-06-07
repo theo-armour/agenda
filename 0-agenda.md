@@ -9,49 +9,42 @@
 ## Today
 
 * ?
-*   
+* https://www.allgoodpizza.com/  
 * Michler: openai stock
-* Patrick: Art books: any interest
+* Larry Albukirk: SHRTF
+* ECAT + Jos: OpenAI
+*   
 
 ## SOON
 
 * ?
-* Ray Gordon: send Photos
+* Sand-Hill-Road-Technologies-Fund = SHRTF
+* SHRTF: invest or not
+* IRS: estimated taxes
+* IRS: recalculate estimated payment
+* Marshall McLuhan: read book ~ oral + wring now uniting ~ I am a solutionist
+* SF is the global TechCity: peer + Cynthia reviewed paper
+* O&A: Grubb&grub
+* Robert Hodgins: respond
+* Floris: crucial memory return
+* Floris: archiving photos Etc
 * How to send multiple links to multiple messages by program
 * Open mail
-* House Committee: what next
 * Ham radio license
-* Fee schedule questions
-* ResDir: split names
-* Fred Burke: email
-* Mail silverware + purse + dwg
-* Praveen: ditch HH Calendar
-* ace-it+: exhibit report
-* Film the corridor
-* HH: talk to praveen
-* House committee
-* Rod D: meetup?
-* 2am
-* Alix: image
-* Bernie: photo ~ feb hh
-* Patrick: Angie Appreciation documents
-* TGD: sound video
-* Aaron
-* Standing desk
-* Mia: send retainer
 
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
+* Standing desk: repair
 
 <details open=""><summary>Admin Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a><br></p></details>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* A: back brace ~ canon cartridge ~ microsd cards
+* A: back brace ~ 
 
 <details open=""><summary>Personal Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly-day</a>s<br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a><br></p><p></p></details>
 
@@ -65,7 +58,10 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
 
-<details><summary>Simplicity agenda</summary><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a></p><p></p></details>
+* Mia: send retainer
+* Mia: wedding talks
+
+<details open=""><summary>Simplicity agenda</summary><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a></p><p>* June: $250?</p><p></p></details>
 
 ***
 
@@ -73,6 +69,9 @@
 
 * Bee Memorial
 * Cynthia Chase visits
+* Mail silverware + purse + dwg
+* ace-it+: exhibit report
+* Film the corridor
 
 <details open=""><summary>ace-it agenda</summary><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2><p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2><p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceiteloisemdquoteloisea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a></h2><p></p></details>
 
@@ -80,13 +79,14 @@
 
 * ?
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/mia-cotton-harlock/mia-agenda.md&quot;">Mia Agenda</a>
-
-* Mia: wedding talks ~ 511 ~ price for editing?
-
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
+
+* 2am
+* Ray Gordon: send Photos ~ write obit
+* TGD: sound video
+* Aaron
 
 ***
 
@@ -94,9 +94,15 @@
 
 ***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage&nbsp;hello&nbsp;oh 220 are you on that trip okay&nbsp;I'll be down in a minute</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
+* HH: talk to praveen
+* House committee
+* Pam and Bob: send house committee  
+* Praveen: ditch HH Calendar
+* Fee schedule questions
+* House Committee: Bledsoe
 
 <details open=""><summary>Heritage agenda</summary> <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.1.2 out and about</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-services/0-services.md&quot;">3.1.2 services</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-wellness/0-wellness.md&quot;">3.1.2 wellness</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-3-residents/0-residents.md&quot;">3.3 residents</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-staff/1-staff.md&quot;">3.1.5 staff</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a></details>
 

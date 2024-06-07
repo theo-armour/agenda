@@ -6,6 +6,8 @@
 
 ## Agenda
 
+* Want: instant dictation
+* Want
 * Where to archive photos ~ AI ~ Floris
 * Fastmail?
 * [https://sunshine.com/contacts/](https://sunshine.com/contacts/)
@@ -16,6 +18,17 @@
 * Contacts: cull
 * Contacts: to Outlook
 * 2023-11-16 ~ Move as much as possible to Pages
+
+## Dictation Agenda
+
+* Single click on phone to start
+* See the text appear. Provides real-time transcription with high accuracy.
+* Talk and keyboard at the same time
+* Realtime editing and cleanup
+
+## Interviewing Agenda
+
+* Identify speakers
 
 ## AudioPen
 
@@ -33,7 +46,6 @@
 
 * Set up locally
 * photos
-
 
 ## GitHub
 
