@@ -22,7 +22,7 @@
 ## Dictation Agenda
 
 * Single click on phone to start
-* See the text appear
+* See the text appear. Provides real-time transcription with high accuracy.
 * Talk and keyboard at the same time
 * Realtime editing and cleanup
 
