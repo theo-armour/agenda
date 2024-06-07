@@ -1,5 +1,14 @@
 # Sensay
 
+## Agenda
+
+* Site Review
+* GEDCOM Review compatibility
+* HIPPA Compliance?
+* Google Fit compatible
+* Email, calendar, contacts, and photos compatible
+* ReCall
+
 ## Personal Background and Family
 
 * Where are you from originally?
