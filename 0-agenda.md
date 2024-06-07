@@ -10,6 +10,9 @@
 
 * ?
 * Michler: openai stock
+* Larry Albukirk: SHRTF
+* ECAT + Jos: OpenAI
+*   
 
 ## SOON
 
