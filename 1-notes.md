@@ -1,10 +1,8 @@
 # Notes
 
-???
+??? Testing. Testing 1-2 Three.
 
 White carpet porter
-
-  
 
 so just write a Samsung note and then
 
