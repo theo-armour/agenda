@@ -10,7 +10,7 @@
 
 * ?
 * [https://www.allgoodpizza.com/](https://www.allgoodpizza.com/)
-* Michler: openai stock
+*   
 * Larry Albukerk: SHRTF
 * ECAT + Josh: OpenAI
 
