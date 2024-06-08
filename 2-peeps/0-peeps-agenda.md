@@ -4,7 +4,7 @@
 
 ## Peeps
 
-*   
+* Fred & Laon Burke: lunch invite
 * Ronan: DWA policies
 * Vish: iqLand: building codes ~ pdf AI
 * Quentin
