@@ -2,7 +2,7 @@
 
 ## Appointments
 
-* Gary: 3 June > prep report
+*   
 * Consultation and periodontal cleaning ~ Dr Yoga: June 13
 * Dermatology exam ~ Dr Fassett: June 18
 * Colonoscopy ~ Dr Kattah: 27 June
