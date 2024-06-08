@@ -9,8 +9,8 @@
 ## Today
 
 * ?
-* * Larry Albukerk: SHRTF
-* ECAT + Josh: OpenAI
+* Larry Albukerk: SHRTF
+*   
 
 ## SOON
 
