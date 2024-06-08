@@ -11,11 +11,12 @@
 * ?
 * Larry Albukerk: SHRTF
 * Chronicle: subscribe
+*   
 
 ## SOON
 
-* ? Cool fingers crossed I can do this
-* Marshall McLuhan: read book ~ oral + wring now uniting ~ I am a solutionist
+* ?
+* Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
 * Robert Hodgins: respond
 * Floris: crucial memory return
