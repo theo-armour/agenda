@@ -16,6 +16,7 @@
 ## SOON
 
 * ?
+* Chronicle: subscribe
 * Sand-Hill-Road-Technologies-Fund = SHRTF
 * SHRTF: invest or not
 * IRS: estimated taxes
