@@ -21,6 +21,12 @@
 * DWA/Josh: note re Estimated payments not sent??
 * DWA: Send Will & Trust docs / Olivia to look
 
+## IRS
+
+* IRS: estimated taxes
+* IRS: recalculate estimated payment
+*   
+
 ## Tiller
 
 ~ [https://www.tillerhq.com/](https://www.tillerhq.com/)
