@@ -6,7 +6,7 @@
 * Dermatology exam ~ Dr Fassett: June 18
 * Colonoscopy ~ Dr Kattah: 25 July 9:30
 * Glaucoma exam ~ Dr Kresta Tabaranza: 29 June ~ tests?
-* PPH > Gary: August ??
+* PPH > Gary: 08/26/2024 10:30 am
 * Safeway: goLightely
 * Pneumonia
 * PPH > mike: Elation wishlist
