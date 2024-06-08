@@ -10,11 +10,11 @@
 
 ## SacSem
 
-\* Sacsem.net ~ pw: California
-
-\* Email list?
-
-\* Paper on social layers
+* SacSem > dennis@triticum.com: RSVP
+* SacSem > Spotswood: Brooks & Brooks articles
+* Sacsem.net ~ pw: California
+* Email list?
+* Paper on social layers ~ San Francisco is not your typical Village
 
 ## Diaconal hermeneutics
 
