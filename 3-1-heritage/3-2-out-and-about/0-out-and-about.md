@@ -1,6 +1,6 @@
 # 3-2 Out & About Read Me
 
-* Flora Grubb & grub
+* O&A: Flora Grubb & grub
 * [http://www.lasisletasrestaurantsanfrancisco.com/](http://www.lasisletasrestaurantsanfrancisco.com/)
 * [https://www.allgoodpizza.com/](https://www.allgoodpizza.com/)
 * Zoo
