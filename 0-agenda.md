@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-* [https://www.allgoodpizza.com/](https://www.allgoodpizza.com/)
+  
 *   
 * Larry Albukerk: SHRTF
 * ECAT + Josh: OpenAI
