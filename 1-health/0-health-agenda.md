@@ -5,12 +5,12 @@
 *   
 * Consultation and periodontal cleaning ~ Dr Yoga: June 13
 * Dermatology exam ~ Dr Fassett: June 18
-* Colonoscopy ~ Dr Kattah: 27 June
+* Colonoscopy ~ Dr Kattah: 25 July 9:30
 * Glaucoma exam ~ Dr Kresta Tabaranza: 29 June ~ tests?
 
 ## Agenda
 
-* Statins
+* Statins?
 * Dr Immerman: shoulder ortho referral
 * [Medicare Supplement dental plans | Blue Shield Medicare (blueshieldca.com)](https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental)
 * EmpowerMe: PT referral
