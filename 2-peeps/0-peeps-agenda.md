@@ -2,9 +2,9 @@
 
 ## Agenda
 
-
 ## Peeps
 
+*   
 * Ronan: DWA policies
 * Vish: iqLand: building codes ~ pdf AI
 * Quentin
