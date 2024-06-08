@@ -15,10 +15,10 @@
 ## SOON
 
 * ?
+* SPS65 > Bob Hall: reply
 * Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
-* Floris: crucial memory return
-* Floris: archiving photos Etc
+*   
 * How to send multiple links to multiple messages by program
 * Open mail
 * Ham radio license
@@ -63,6 +63,8 @@
 * Mail silverware + purse + dwg
 * ace-it+: exhibit report
 * Film the corridor
+* Floris: crucial memory return
+* Floris: archiving photos Etc
 
 <details open=""><summary>ace-it agenda</summary><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2><p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2><p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceiteloisemdquoteloisea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a></h2><p></p></details>
 
@@ -75,7 +77,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * 2am
-*   
+* Ashley
+* Shammah: birthday
+* Ronan
 * Aaron
 
 ***
