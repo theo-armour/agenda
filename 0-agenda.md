@@ -10,14 +10,11 @@
 
 * ?
 * Larry Albukerk: SHRTF
-*   
+* Chronicle: subscribe
 
 ## SOON
 
-* ?
-* Chronicle: subscribe
-*   
-*   
+* ? Cool fingers crossed I can do this
 * Marshall McLuhan: read book ~ oral + wring now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
 * Robert Hodgins: respond
@@ -79,7 +76,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * 2am
-* Ray Gordon: send Photos ~ write obit
+*   
 * TGD: sound video
 * Aaron
 
