@@ -1,5 +1,19 @@
 # Health Journal
 
+  
+
+## 2024-06-06
+
+  
+
+\* ENT clinic: small blob left otherwise all good
+
+## 2024-06-03
+
+\* PPH: Gary visit: Pneumonia?? Dr Immerman
+
+  
+
 ## 2023-12-04
 
 * Urine: clear very light lemonade but tiny white strings - white blood cells
@@ -7,7 +21,6 @@
 * Sleep: awful until I took a Tylenol
 * Fitness: 1/3rd ?
 * Weight: 175!
-
 
 ## 2023-11-27
 
@@ -52,7 +65,6 @@
 ## Jan 25 ~ Dr Eng
 
 * Van reservation
-
 
 ## 2022-10-21
 
@@ -109,15 +121,13 @@ message Alinker ~ nothing local ~ used: $2,100
 
 ## 2022-08-04 Dr Yun
 
-* Tarry stool
-  * Increase esomeprazole
+* Tarry stool   \* Increase esomeprazole
 * hemorrhoids
 * Prostate
-* Alcohol
-  * 3 weeks ~ 2 days no alcohol
-  * All other weeks: one a day
+* Alcohol   \* 3 weeks ~ 2 days no alcohol   \* All other weeks: one a day
 
 Phil Tom
+
 * Pelosi's trip?
 
 ## 2022-07-22 Phil Tom pt
@@ -143,4 +153,3 @@ Vitamins D & 12: see attached image
 Looking forward to see what Accent Care may offer with wellness ideas
 
 Theo
-
