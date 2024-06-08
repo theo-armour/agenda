@@ -17,8 +17,7 @@
 * ?
 * Chronicle: subscribe
 *   
-* IRS: estimated taxes
-* IRS: recalculate estimated payment
+*   
 * Marshall McLuhan: read book ~ oral + wring now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
 * Robert Hodgins: respond
