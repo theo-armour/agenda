@@ -11,7 +11,7 @@
 ## SacSem
 
 * SacSem > dennis@triticum.com: RSVP
-* SacSem > Brian Chase: transcripts~ videos
+* SacSem > Brian Chase: transcripts ~ videos
 * SacSem > Spotswood: Brooks & Brooks articles
 * Sacsem.net ~ pw: California
 * Email list?
