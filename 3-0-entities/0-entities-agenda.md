@@ -38,6 +38,7 @@
 
 ## TGD
 
+* TGD: sound video
 * TGD: Mark on Latex to Python
 * TGD: Hover 1 ~ flying camera
 * Evan & Medium ~ Morning Consult ~ SDGs ~ Air Quality
