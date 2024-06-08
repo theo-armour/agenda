@@ -9,7 +9,6 @@
 ## Today
 
 * ?
-  
 *   
 * Larry Albukerk: SHRTF
 * ECAT + Josh: OpenAI
@@ -23,7 +22,6 @@
 * IRS: recalculate estimated payment
 * Marshall McLuhan: read book ~ oral + wring now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
-* O&A: Grubb&grub
 * Robert Hodgins: respond
 * Floris: crucial memory return
 * Floris: archiving photos Etc
