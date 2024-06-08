@@ -18,7 +18,7 @@
 * ?
 * Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
-* Robert Hodgins: respond
+*   
 * Floris: crucial memory return
 * Floris: archiving photos Etc
 * How to send multiple links to multiple messages by program
