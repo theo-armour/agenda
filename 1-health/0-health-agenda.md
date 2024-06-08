@@ -10,7 +10,7 @@
 * Safeway: goLightely
 * Pneumonia
 * PPH > mike: Elation wishlist
-* Appointments? Test results? copying others? Formatting
+* No Android app ~ broken App store iconTest results? copying others? Formatting
 
 ## Agenda
 
