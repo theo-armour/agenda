@@ -11,7 +11,6 @@
 * ?
 * Larry Albukerk: SHRTF
 * Chronicle: subscribe
-*   
 
 ## SOON
 
@@ -53,7 +52,7 @@
 * Mia: send retainer
 * Mia: wedding talks
 
-<details open=""><summary>Simplicity agenda</summary><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a></p><p>* June: $250?</p><p></p></details>
+<details open=""><summary>Simplicity agenda</summary><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a></p><p>* ?</p><p></p></details>
 
 ***
 
@@ -76,8 +75,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * 2am
-*   
-* TGD: sound video
+* * TGD: sound video
 * Aaron
 
 ***
