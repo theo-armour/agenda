@@ -9,16 +9,14 @@
 ## Today
 
 * ?
-*   
-* Larry Albukerk: SHRTF
+* * Larry Albukerk: SHRTF
 * ECAT + Josh: OpenAI
 
 ## SOON
 
 * ?
 * Chronicle: subscribe
-* Sand-Hill-Road-Technologies-Fund = SHRTF
-* SHRTF: invest or not
+*   
 * IRS: estimated taxes
 * IRS: recalculate estimated payment
 * Marshall McLuhan: read book ~ oral + wring now uniting ~ I am a solutionist
@@ -89,8 +87,6 @@
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
-
-*   
 
 ***
 
