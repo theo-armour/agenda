@@ -1,6 +1,15 @@
 # Ray Gordon
 
-## chatGPT
+Friends
+
+* Christine Casey <christinecasey76@gmail.com>
+* Pamela Choy <pamelajchoy@gmail.com>, Jonathan
+* Tom Magowan <virtualtcm@aol.com>,
+* CampoDeiFiori <campodeifiori@earthlink.net>,
+* Patrick Murphy
+* Jo
+
+## 2024-06-07 chatGPT
 
 Sure, here's the cleaned-up text:
 
