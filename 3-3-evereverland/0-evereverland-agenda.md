@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* SacSem > Brian Chase: transcripts ~ videos
 * Start personal timeline
 * Progress sensa.ai
 * Progress rememory

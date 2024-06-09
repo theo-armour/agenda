@@ -2,14 +2,30 @@
 
 ## Actions
 
-* Kayakomat: shares
-* Robert Sand Hill 424 281 8713
+*   
+*   
+
+  
+
+## SHRTF
+
+* Robert Sand Hill ~ 424 281 8713
+
+* Sand-Hill-Road-Technologies-Fund = SHRTF
+* SHRTF: invest or not
+* SHRTF: ECAT + Josh: OpenAI
 
 ## DWA + Pershing
 
 * Josh: estimated payments
 * DWA/Josh: note re Estimated payments not sent??
 * DWA: Send Will & Trust docs / Olivia to look
+
+## IRS
+
+* IRS: estimated taxes
+* IRS: recalculate estimated payment
+*   
 
 ## Tiller
 

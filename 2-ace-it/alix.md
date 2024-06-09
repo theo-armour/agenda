@@ -3,12 +3,12 @@
 * [https://sensay.io](https://sensay.io)
 * minimise.today
 * [https://www.minimise.today/](https://www.minimise.today/)
-
+* Add data to my sensay
 
 ## 2024-05-02
 
 * Shipping: you And Claudia work out the details. I'll pay
-* Super connectors. I I Ready when you are I Hello can you hear me I I  Speech
+* Super connectors. I I Ready when you are I Hello can you hear me I I Speech
 * Recraft
 * Cynthia property
 
@@ -18,17 +18,16 @@
 * Chair: sizes?
 * Details to Claudia / Packing / Manifest?
 
-
 ## 2024-04-25 ~ superconnectors.io
 
 ### Links
 
-* https://www.amazon.com/Superconnector-Networking-Building-Business-Relationships/dp/0738219967
-* https://www.businessofbusiness.com/articles/who-the-real-superconnectors-are-and-why-you-should-become-one/
-* https://www.networkwise.com/superpowers-of-a-super-connector/
-* https://www.entrepreneur.com/starting-a-business/4-habits-of-a-super-connector/247896
-* https://getdex.com/blog/super-connector/
-* https://www.entrepreneur.com/starting-a-business/superconnectors-3-steps-to-becoming-a-networking-genius/308618
+* [https://www.amazon.com/Superconnector-Networking-Building-Business-Relationships/dp/0738219967](https://www.amazon.com/Superconnector-Networking-Building-Business-Relationships/dp/0738219967)
+* [https://www.businessofbusiness.com/articles/who-the-real-superconnectors-are-and-why-you-should-become-one/](https://www.businessofbusiness.com/articles/who-the-real-superconnectors-are-and-why-you-should-become-one/)
+* [https://www.networkwise.com/superpowers-of-a-super-connector/](https://www.networkwise.com/superpowers-of-a-super-connector/)
+* [https://www.entrepreneur.com/starting-a-business/4-habits-of-a-super-connector/247896](https://www.entrepreneur.com/starting-a-business/4-habits-of-a-super-connector/247896)
+* [https://getdex.com/blog/super-connector/](https://getdex.com/blog/super-connector/)
+* [https://www.entrepreneur.com/starting-a-business/superconnectors-3-steps-to-becoming-a-networking-genius/308618](https://www.entrepreneur.com/starting-a-business/superconnectors-3-steps-to-becoming-a-networking-genius/308618)
 
 ### Opener
 
@@ -40,7 +39,7 @@ I'm making up as I go along
 
 Here are some of my ideas
 
-* https://news.ycombinator.com/item?Shoot Yeah, I mean, this stuff I was thinking about it. If nothing else, it's not about being famous. I think it's always about being a beginner And you're talking to other people that are just also beginners OK, well, II never want to put myself up as an expert. Put it that way. Or I'm, I feel like I'm the least expert of all of them, right? Thank you. And that's older than me and everything. Yeah, and and. But I think if you even talk to them, they would also say they're not experts. Yeah. Yeah And so anybody who says that they're an expert is is baloney Do you feel like I'm staying on the next bird? No, I'm just giving you a point of view I mean, what's important to. because who are you trying to? Who's the keynote for other experts or new people? Well, this is the first time all super connectors unite. OK, right. Or now, are they people that want to be super connectors No, they're the ones who are already have a big network They're already super connectors, and they've been selected, right? OK, and what? And what do you think they're trying to do? Make more money, or or or make a new industry or new life They're the super connectors are there to meet other super connectors and to put their connections at service of startups, right? And in return, they just might meet cool, interesting people. for their own they all have their own critical asks. So they can also, you know, if they're looking for investors or whatever needs to know that everyone there is super well connected, right Yeah, right. And so you're right It's all the Kings and Queens getting together. And I just want to think if that's good or bad, and what happens. and then you can let me know. OK, OK, right. Fair enough. OK, OK, we have so much power in this room. Let's use it for the good and to shape our society, you know, think ofid=40059887
+* [https://news.ycombinator.com/item?Shoot](https://news.ycombinator.com/item?Shoot) Yeah, I mean, this stuff I was thinking about it. If nothing else, it's not about being famous. I think it's always about being a beginner And you're talking to other people that are just also beginners OK, well, II never want to put myself up as an expert. Put it that way. Or I'm, I feel like I'm the least expert of all of them, right? Thank you. And that's older than me and everything. Yeah, and and. But I think if you even talk to them, they would also say they're not experts. Yeah. Yeah And so anybody who says that they're an expert is is baloney Do you feel like I'm staying on the next bird? No, I'm just giving you a point of view I mean, what's important to. because who are you trying to? Who's the keynote for other experts or new people? Well, this is the first time all super connectors unite. OK, right. Or now, are they people that want to be super connectors No, they're the ones who are already have a big network They're already super connectors, and they've been selected, right? OK, and what? And what do you think they're trying to do? Make more money, or or or make a new industry or new life They're the super connectors are there to meet other super connectors and to put their connections at service of startups, right? And in return, they just might meet cool, interesting people. for their own they all have their own critical asks. So they can also, you know, if they're looking for investors or whatever needs to know that everyone there is super well connected, right Yeah, right. And so you're right It's all the Kings and Queens getting together. And I just want to think if that's good or bad, and what happens. and then you can let me know. OK, OK, right. Fair enough. OK, OK, we have so much power in this room. Let's use it for the good and to shape our society, you know, think ofid=40059887
 
 ## Get a platform / Generate content
 
@@ -60,7 +59,6 @@ Here are some of my ideas
 * get that phone number
 * Business cards are still a thing
 
-
 ## Social networks help but
 
 * Your meetups
@@ -78,9 +76,7 @@ Here are some of my ideas
 * We are a support group
 * We are a network of people who can help each other
 
-## https://www.ted.com/
-
-
+## [https://www.ted.com/](https://www.ted.com/)
 
 ## 2024-04-04
 
@@ -93,8 +89,7 @@ Here are some of my ideas
 * Data driven design
 * Evidence based design
 * Authoritative design
-* Design for the ages
-*
+* Design for the ages \*
 
 ## Images / Videos
 

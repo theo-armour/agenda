@@ -9,26 +9,17 @@
 ## Today
 
 * ?
-* [https://www.allgoodpizza.com/](https://www.allgoodpizza.com/)
-* Michler: openai stock
 * Larry Albukerk: SHRTF
-* ECAT + Jos: OpenAI
-*   
+* Chronicle: subscribe
+* Sensay: prepare for meeting
 
 ## SOON
 
 * ?
-* Sand-Hill-Road-Technologies-Fund = SHRTF
-* SHRTF: invest or not
-* IRS: estimated taxes
-* IRS: recalculate estimated payment
-* Marshall McLuhan: read book ~ oral + wring now uniting ~ I am a solutionist
+* SPS65 > Bob Hall: reply ~ email addresses
+* SacSem > Brian Chase: transcripts ~ videos
+* Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
-* O&A: Grubb&grub
-* Robert Hodgins: respond
-* Floris: crucial memory return
-* Floris: archiving photos Etc
-* How to send multiple links to multiple messages by program
 * Open mail
 * Ham radio license
 
@@ -61,7 +52,7 @@
 * Mia: send retainer
 * Mia: wedding talks
 
-<details open=""><summary>Simplicity agenda</summary><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a></p><p>* June: $250?</p><p></p></details>
+<details open=""><summary>Simplicity agenda</summary><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a></p><p>* ?</p><p></p></details>
 
 ***
 
@@ -72,6 +63,8 @@
 * Mail silverware + purse + dwg
 * ace-it+: exhibit report
 * Film the corridor
+* Floris: crucial memory return
+* Floris: archiving photos Etc
 
 <details open=""><summary>ace-it agenda</summary><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2><p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2><p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceiteloisemdquoteloisea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a></h2><p></p></details>
 
@@ -84,16 +77,14 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * 2am
-* Ray Gordon: send Photos ~ write obit
-* TGD: sound video
+* Ashley
+* Shammah: birthday
+* Ronan
 * Aaron
 
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
-
-* SacSem > dennis@triticum.com: RSVP
-* Spotswood: Brooks & Brooks articles
 
 ***
 

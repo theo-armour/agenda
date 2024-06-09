@@ -1,9 +1,9 @@
 # 3-2 Out & About Read Me
 
-* Flora Grubb & grub
-* http://www.lasisletasrestaurantsanfrancisco.com/  
+* O&A: Flora Grubb & grub
+* [http://www.lasisletasrestaurantsanfrancisco.com/](http://www.lasisletasrestaurantsanfrancisco.com/)
+* [https://www.allgoodpizza.com/](https://www.allgoodpizza.com/)
 * Zoo
-* https://www.allgoodpizza.com/  
 * Bledsoe: winery
 * Italian Museo
 * Boys: Cliff house?

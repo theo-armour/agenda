@@ -10,11 +10,12 @@
 
 ## SacSem
 
-\* Sacsem.net ~ pw: California
-
-\* Email list?
-
-\* Paper on social layers
+* SacSem > dennis@triticum.com: RSVP
+* SacSem > Brian Chase: transcripts ~ videos
+* SacSem > Spotswood: Brooks & Brooks articles
+* Sacsem.net ~ pw: California
+* Email list?
+* Paper on social layers ~ San Francisco is not your typical Village
 
 ## Diaconal hermeneutics
 
@@ -38,6 +39,7 @@
 
 ## TGD
 
+* TGD: sound video
 * TGD: Mark on Latex to Python
 * TGD: Hover 1 ~ flying camera
 * Evan & Medium ~ Morning Consult ~ SDGs ~ Air Quality
