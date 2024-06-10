@@ -9,7 +9,6 @@
 ## Today
 
 * ?
-*   
 * Chronicle: subscribe
 * SPS65 > Bob Hall: reply ~ email addresses
 * SacSem > Brian Chase: transcripts ~ videos
