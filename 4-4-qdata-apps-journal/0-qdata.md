@@ -2,6 +2,10 @@
 
 ## Agenda
 
+* Chronicle: subscribe
+* SPS65 > Bob Hall: reply ~ email addresses
+* SacSem > Brian Chase: transcripts ~ videos
+* set up 
 * Check three.js examples page: Is it sill vanilla JavaScript? Ditto mrdoob.com
 * Inspirations: move to pages sections??
 * AudioPen: Pens to Journal
