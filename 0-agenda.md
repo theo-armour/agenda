@@ -11,13 +11,12 @@
 * ?
 *   
 * Chronicle: subscribe
-* Sensay: prepare for meeting
+* SPS65 > Bob Hall: reply ~ email addresses
+* SacSem > Brian Chase: transcripts ~ videos
 
 ## SOON
 
 * ?
-* SPS65 > Bob Hall: reply ~ email addresses
-* SacSem > Brian Chase: transcripts ~ videos
 * Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
 * Open mail
