@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-* Larry Albukerk: SHRTF
+*   
 * Chronicle: subscribe
 * Sensay: prepare for meeting
 
