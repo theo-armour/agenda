@@ -10,8 +10,11 @@
 * What should I expect to see in my Entrust Group account?
 * Am I able to see the shares in my account?
 * How do I know the shares are real?
+* Are the shares employee shares or investor/VC shares?
 
+## 2024-06-10
 
+Robert, after careful consideration, I have decided that I cannot move forward with the agreement. I apologize for any inconvenience this may cause. Theo
 
 ## ECAT
 
