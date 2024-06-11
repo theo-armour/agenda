@@ -8,7 +8,6 @@
 
 ansi standard on way
 
-
 new schema
 
 https://en.sankom.net/programs/audytor-bim-tools
