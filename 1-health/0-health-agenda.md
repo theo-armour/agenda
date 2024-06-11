@@ -2,15 +2,14 @@
 
 ## Appointments
 
-\* Consultation and periodontal cleaning ~ Dr Yoga: June 13
-
+* Consultation and periodontal cleaning ~ Dr Yoga: June 13
 * Dermatology exam ~ Dr Fassett: June 18
 * Colonoscopy ~ Dr Kattah: 25 July 9:30
 * Glaucoma exam ~ Dr Kresta Tabaranza: 29 June ~ tests?
 * PPH > Gary: 08/26/2024 10:30 am
 * Safeway: goLightely
 * Pneumonia vaccine ~ last in 2015
-* PPH > mike: Elation wishlist:
+*   
 * No Android app ~ broken App store icon ~ apple blurb ~ Test results? copying others? Formatting
 
 ## Agenda
