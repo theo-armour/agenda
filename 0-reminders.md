@@ -1,5 +1,7 @@
 # Reminders
 
+* Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
+* SF is the global TechCity: peer + Cynthia reviewed paper
 * Libby does audiobooks
 * vscode: simple browser
 * Delete old passwords
