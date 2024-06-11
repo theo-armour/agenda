@@ -2,15 +2,11 @@
 
 ## Actions
 
-*   
-*   
-
-  
+**\*** 
 
 ## SHRTF
 
 * Robert Sand Hill ~ 424 281 8713
-
 * Sand-Hill-Road-Technologies-Fund = SHRTF
 * SHRTF: invest or not
 * SHRTF: ECAT + Josh: OpenAI
@@ -25,7 +21,6 @@
 
 * IRS: estimated taxes
 * IRS: recalculate estimated payment
-*   
 
 ## Tiller
 
