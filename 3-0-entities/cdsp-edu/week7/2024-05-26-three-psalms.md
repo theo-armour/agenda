@@ -1,3 +1,6 @@
+# 2024-05-26 Three Psalms
+
+## ChatGPT Generated Prompt
 
 * https://chatgpt.com/c/841d7cec-ccc9-43c6-b05c-86673dc9de5f
 
@@ -77,12 +80,14 @@ Your task is to generate three psalms, each tailored to a specific congregation 
 ---
 
 Use the provided structure and information to create the psalms. You will be penalized for deviating from the given style, tone, or themes.
-ChatGPT
-First Psalm: For a prosperous, conservative, elderly congregation in a rural locale
+
+## ChatGPT Result
+
+### First Psalm: For a prosperous, conservative, elderly congregation in a rural locale
 
 Purpose: This psalm is intended to speak to the leaders of a prosperous, conservative, elderly congregation. It is written in the tone, format, and style of the book of Jeremiah in the King James Bible. It aims to remind them of their duty to lead with kindness and to be thoughtful of those less fortunate.
 
-Title of the Psalm:A Call to Righteous Leadership
+Title of the Psalm: A Call to Righteous Leadership
 
 Psalm:
 Thus saith the Lord unto the leaders of the land,
@@ -112,7 +117,7 @@ And your days shall be lengthened in peace.
 
 Comments: The themes of political activism and social justice have been intentionally left out to maintain focus on personal piety and communal leadership. The psalm emphasizes stewardship, humility, and the moral duty of leaders, reflecting the congregation's conservative values.
 
-Second Psalm: For a middle-class, progressive, middle-aged congregation in a suburban area
+### Second Psalm: For a middle-class, progressive, middle-aged congregation in a suburban area
 
 Purpose: This psalm is intended to speak to the families of a middle-class, progressive, middle-aged congregation. It is written in the tone, format, and style of the book of Jeremiah in the Revised Standard Version Bible. It aims to encourage them to foster unselfish friendships and to support those in need within their community.
 
@@ -151,7 +156,7 @@ And you shall dwell in His peace forever.
 
 Comments: The themes of traditional authority and strict religious adherence have been intentionally left out. The psalm focuses on progressive values such as inclusivity, hospitality, and social responsibility, aligning with the congregation's middle-class, progressive ethos.
 
-Third Psalm: For a working-class, populist, young congregation in an urban area
+### Third Psalm: For a working-class, populist, young congregation in an urban area
 
 Purpose: This psalm is intended to speak to the young members of a working-class, populist congregation. It is written in the tone, format, and style of the book of Jeremiah in the Modern English Version Bible. It aims to inspire them to bear the burdens of others and to be thoughtful of those less happy.
 
@@ -190,7 +195,7 @@ And His peace will be with you always.
 
 Comments: The themes of material wealth and traditional hierarchical structures have been intentionally left out. The psalm emphasizes resilience, solidarity, and the practical application of faith in daily struggles, resonating with the youthful, working-class, urban congregation.
 
-##
+## Second Post
 
 Rats. It looks like Moodle gets muddled. The links in my previous reply generated videos that worked here in Moodle when I edited them but have since stopped displaying.
 
@@ -214,5 +219,4 @@ I am not a musician or animator. I therefore would rely on AI for music and vide
 
 What is a vision?
 I can see establishing a process whereby psalms are written on a regular basis for the website or newsletter of a congregation that are
-
 

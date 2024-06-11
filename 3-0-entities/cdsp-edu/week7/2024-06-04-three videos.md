@@ -27,7 +27,10 @@ More soon. Fingers crossed you will hear the nice English choir chanting, soon,
 
 Wednesday, May 29, 2024, 11:05 PM
 Rats. It looks like Moodle gets muddled. The links in my previous reply generated videos that worked here in Moodle when I edited them but have since stopped displaying.
-Psalm Video links
+
+
+### Psalm Video links
+
 
 For the rural, conservative congregation: A Call to Righteous Leadership
 You will see a lot of bears in this video. The word "bear" is in the psalm. ;-)
@@ -56,9 +59,9 @@ AI is good at giving feedback. So, when I do write a psalm, AI can be my editor.
 I am not a musician or animator. I therefore would rely on AI for music and videos. There might be somebody in the diocese who could help.
 
 What is a vision, a prophetic imagination?
-I can see establishing a process whereby psalms are written by an AI human pertnership on a regular basis for the website or newsletter of a congregation. The psalms reveal the gospels in ways that are topical, relavant and meaningful to a particilar congregation.
+I can see establishing a process whereby psalms are written by an AI human partnership on a regular basis for the website or newsletter of a congregation. The psalms reveal the gospels in ways that are topical, relevant and meaningful to a particular congregation.
 
-The practice might extend out to prayers and hymns. With all these media, AI can serve as remedies for the blank piece of paper dilemnma and coaches and critics as time goes on.
+The practice might extend out to prayers and hymns. With all these media, AI can serve as remedies for the blank piece of paper dilemma and coaches and critics as time goes on.
 
 Let the Good News enthrall people in nice new ways!
 
