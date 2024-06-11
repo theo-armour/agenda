@@ -9,9 +9,8 @@
 ## Today
 
 * ?
-*   
+* Heritage van Thursday 
 * SPS65 > Bob Hall: reply ~ email addresses
-* SacSem > Brian Chase: transcripts ~ videos
 
 ## SOON
 
