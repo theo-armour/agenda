@@ -4,7 +4,7 @@
 
 * SacSem > Brian Chase: transcripts ~ videos
 * Start personal timeline
-* Progress sensa.ai
+* Progress https://sensay.ai
 * Progress rememory
 * WordPress: 100-year Site
 * Swedish Death Cleaning

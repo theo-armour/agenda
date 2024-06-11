@@ -10,6 +10,8 @@
 
 ## SacSem
 
+* Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
+* SF is the global TechCity: peer + Cynthia reviewed paper
 * SacSem > dennis@triticum.com: RSVP
 * SacSem > Brian Chase: transcripts ~ videos
 * SacSem > Spotswood: Brooks & Brooks articles
