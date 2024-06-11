@@ -2,10 +2,16 @@
 
 * https://sensay.io/me/create
 
-
 ## Agenda
-* Buy shares OpenAI?
 
+* install WSL
+* Update Python
+* Think monetization
+
+
+## 2024-06-09 Agenda
+
+* Buy shares OpenAI?
 * Sell the data
 * Must have voice driven capability
 * Prettify the text
@@ -13,6 +19,7 @@
 * Access you social networks and email and SMS
 * Location, fitness, music, and photos
 
+More
 
 * Site Review
 * GEDCOM Review compatibility
@@ -21,7 +28,7 @@
 * Email, calendar, contacts, and photos compatible
 * ReCall
 
-## Personal Background and Family
+## Replica ~ Personal Background and Family
 
 * Where are you from originally?
 * Do you have any siblings?
