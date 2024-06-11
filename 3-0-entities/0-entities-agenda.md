@@ -3,6 +3,8 @@
 ## Agenda
 
 * ?
+*   
+* set up 
 * diaconal hermeneutic: deacon forum
 * Adesk: Val, jessica, brad, Jerry
 * Adesk: Eisenberg, Quanci, Michler, Euge Loch
@@ -50,6 +52,7 @@
 ## SPS / Paulies ~ [https://sps.edu](https://sps.edu)
 
 * Randy
+* SPS65 > Bob Hall: reply ~ email addresses
 * Rory ~ Should actors have to be clever?
 * Jose ~ Agenda ~ Rory ~ monthly notice ~ private vs public ~ content
 
