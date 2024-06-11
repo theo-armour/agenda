@@ -15,10 +15,10 @@
 ## SOON
 
 * ?
-* Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
-* SF is the global TechCity: peer + Cynthia reviewed paper
 * Open mail
 * Ham radio license
+* taxes
+*   
 
 ***
 
