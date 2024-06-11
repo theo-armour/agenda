@@ -15,10 +15,13 @@
 ## SOON
 
 * ?
+* Mail to Eloise
+* Goodwill
 * Open mail
 * Ham radio license
 * taxes
-* PPH > mike: Elation wishlist
+* PPH > mike: Elation wishlist: 
+* No Android app ~ broken App store icon ~ apple blurb ~ Test results? copying others? Formatting
 
 ***
 
