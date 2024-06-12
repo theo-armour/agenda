@@ -10,14 +10,13 @@
 
 * ?
 * Open mail
-* SPS65 > Bob Hall: reply ~ email addresses  
+* SPS65 > Bob Hall: reply ~ email addresses
 
 ## SOON
 
 * ?
 * Mail to Eloise
 * Goodwill
-*   
 * Ham radio license
 * taxes
 * PPH > mike: Elation wishlist: 
