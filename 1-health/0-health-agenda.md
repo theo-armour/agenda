@@ -9,7 +9,7 @@
 * PPH > Gary: 08/26/2024 10:30 am
 * Safeway: goLightely
 * Pneumonia vaccine ~ last in 2015
-*   
+*
 
 ## Agenda
 
@@ -19,8 +19,10 @@
 * EmpowerMe: PT referral
 * [https://www.alignmenthealthplan.com/](https://www.alignmenthealthplan.com/) ~ free lunch?
 
+
 ## Work-in-progress
 
+* https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc
 * Statins
 * Shoulder ortho
 * Hyperkyphosis

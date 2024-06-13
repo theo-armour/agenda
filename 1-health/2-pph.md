@@ -10,7 +10,7 @@ Personal Issues
 * PPH: Thyroid issues?
 * PPH: Address cholesterol issues
 
-  
+
 
 Community Issues
 
@@ -28,6 +28,7 @@ Community Issues
 ## Pine Park Health ~ [https://pineparkhealth.com](https://pineparkhealth.com)
 
 * 1144 65th St Ste F, Oakland CA 94608-1053
+* clinical@pineparkhealth.com.
 * [info@pineparkhealth.com](mailto:info@pineparkhealth.com)
 * 510-929-1400 - main number
 * NPI Number: 1346879848
@@ -69,6 +70,6 @@ Community Issues
 * No CC
 * No text formatting
 
-  
+
 
 ## Change Log
