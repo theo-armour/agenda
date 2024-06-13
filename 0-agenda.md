@@ -11,8 +11,8 @@
 * ?
 * Dr Fassett ~ 415-353-7800‬
 * SPS65 > Bob Hall: reply ~ email addresses
-* PPH > mike: Elation wishlist: 
-* No Android app ~ broken App store icon ~ apple blurb ~ Test results? copying others? Formatting
+* PPH > mike: Elation wishlist: complete
+*   
 
 ## SOON
 
