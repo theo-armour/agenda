@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-* SPS65 > Bob Hall: reply ~ email addresses
+*   
 * PPH > mike: Elation wishlist: complete
 
 ## SOON
