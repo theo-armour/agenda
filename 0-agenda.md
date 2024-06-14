@@ -8,7 +8,7 @@
 
 ## Today
 
-* ?
+* ?sh.>H
 * Dr Fassett ~ 415-353-7800‬
 * SPS65 > Bob Hall: reply ~ email addresses
 * PPH > mike: Elation wishlist: complete
