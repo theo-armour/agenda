@@ -2,14 +2,14 @@
 
 ## Appointments
 
-* Consultation and periodontal cleaning ~ Dr Yoga: June 13
-* Dermatology exam ~ Dr Fassett: June 18 3:40 ~ 185 Berry Ste 1000
+* ?
 * Glaucoma exam ~ Dr Kresta Tabaranza: 29 June ~ tests? 490 Illinois Flr 4
 * Colonoscopy ~ Dr Kattah: 25 July 9:30 1600 Divisadero B123
+* Dermatology exam ~ Dr Fassett: August 20 3:40 ~ 185 Berry Ste 1000
 * PPH > Gary: 08/26/2024 10:30 am
+* Dr Vaderhibli: 11:30 August 26
 * Safeway: goLightely
-* Pneumonia vaccine ~ last in 2015
-*
+* Pneumonia vaccine ~ last in 2015 \*
 
 ## Agenda
 
@@ -19,10 +19,9 @@
 * EmpowerMe: PT referral
 * [https://www.alignmenthealthplan.com/](https://www.alignmenthealthplan.com/) ~ free lunch?
 
-
 ## Work-in-progress
 
-* https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc
+* [https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc](https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc)
 * Statins
 * Shoulder ortho
 * Hyperkyphosis

@@ -17,10 +17,7 @@ What's here?
 * Content production: ??
 * Admin: HotM
 
-
 ## Pine Park Health ~ see 2-pph.md
-
-
 
 ### Not to forget
 
@@ -29,8 +26,11 @@ What's here?
 
 ## UCSF Dental
 
+## UCSF 
 
-## UCSF Primary Care
+## \* see dentistry
+
+## Primary Care
 
 ### Mary Martin, MD, PCP
 
@@ -40,6 +40,7 @@ What's here?
 * Lindsay Grace Mann NP
 
 More
+
 * best mneumonic
 * names of conditions
 * Aspirin ibu or aleive?
@@ -48,7 +49,6 @@ More
 * Ongoing hip issues
 * Quarterly report
 * Bladder MRI
-
 
 ### Dr Collen-Price
 
@@ -64,7 +64,6 @@ More
 * Dermatology UCSF
 * (415) 353-7800
 
-
 ## UCSF Gastro
 
 See colonoscopy.md
@@ -76,12 +75,11 @@ See colonoscopy.md
 ### Dr Emily Eng / Dr Han
 
 See eyes.md
+
 * Appointment January 25 2023 @ 3
 * Last appointment 2021-09-27
 
 ### Han, Ying, MD ~ Ophthalmology ~ (415) 353-2800 ~ 533 Parnassus avenue / 5th floor ~ UCSF
-
-
 
 ## UCSF Surgery
 
@@ -90,8 +88,8 @@ See eyes.md
 ### Lin, Matthew Yi-Chih, MD ~ UCSF
 
 * 2022: groin issues ??
-* https://www.ucsfhealth.org/providers/dr-matthew-yc-lin
-* https://surgery.ucsf.edu/faculty/general-surgery/matthew-yc-lin,-md.aspx
+* [https://www.ucsfhealth.org/providers/dr-matthew-yc-lin](https://www.ucsfhealth.org/providers/dr-matthew-yc-lin)
+* [https://surgery.ucsf.edu/faculty/general-surgery/matthew-yc-lin,-md.aspx](https://surgery.ucsf.edu/faculty/general-surgery/matthew-yc-lin,-md.aspx)
 * General Surgery ~ hernia
 * 400 Parnassus Ave Second Floor
 * (415) 353-2161
@@ -99,11 +97,9 @@ See eyes.md
 ### Hematology UCSF
 
 ### Salmasi, Ghazal, MD
- 
+
 * (415) 353-2421
 * 400 Parnassus Ave Fourth Floor, San Francisco, CA 94143
-
-
 
 ## Podiatry
 
@@ -112,20 +108,21 @@ See eyes.md
 * 1480 Sutter Street, San Francisco CA 94109 ~ 415 567 3136
 
 ### Dr Maureen Lea / Dr Marino
+
 * UCSF General Surgery ~ 415 353 2161 ~ Diana
 * Angela Laffen, van Loon, Erin van Blarigan
-
 
 ## Alternatives
 
 ### Carolyn Welty
-  * https://www.ucsfhealth.org/providers/dr-carolyn-welty
-* https://www.ucsfhealth.org/clinics/center-for-geriatric-care
+
+  \* [https://www.ucsfhealth.org/providers/dr-carolyn-welty](https://www.ucsfhealth.org/providers/dr-carolyn-welty)
+
+* [https://www.ucsfhealth.org/clinics/center-for-geriatric-care](https://www.ucsfhealth.org/clinics/center-for-geriatric-care)
 * Apply for wait list when I am 75
 * Dr Martin
 * [https://osher.ucsf.edu/?](https://osher.ucsf.edu/?)? ~ not a PCP
 * [https://onemedical.com](https://onemedical.com) ??
-
 
 ## Heritage
 
@@ -133,12 +130,11 @@ Fax number: 415-580-7151
 
 Cindy Chen
 
-
 ## Pharmacies
 
 ### CVS
 
-https://www.caremark.com/
+[https://www.caremark.com/](https://www.caremark.com/)
 
 * RxBIN 004336
 * RxPCN MEDDADV
@@ -147,32 +143,19 @@ https://www.caremark.com/
 * ID G6C825534
 * Name NORMAN ARMOUR
 
-CVS Caremark MAILSERVICE Pharmacy - Scottsdale, AZ - 9501 E Shea Blvd AT Portal to Registered Caremark Sites
-9501 E Shea Blvd
-Scottsdale AZ 85260
-877-864-7744
-
+CVS Caremark MAILSERVICE Pharmacy - Scottsdale, AZ - 9501 E Shea Blvd AT Portal to Registered Caremark Sites 9501 E Shea Blvd Scottsdale AZ 85260 877-864-7744
 
 ### Walgreens ~ 415 362 5227
 
-Walgreens - CHANDLER, AZ - 2225 S PRICE RD
-2225 S PRICE RD
-CHANDLER AZ 85286-7201
-888-447-9313
+Walgreens - CHANDLER, AZ - 2225 S PRICE RD 2225 S PRICE RD CHANDLER AZ 85286-7201 888-447-9313
 
 ### Safeway Pharmacy (415) 563-8681
-
 
 ## AllianceRx
 
 800-345-1985 Call after 5pm!
 
-2021-02-08
-Order Number WF9F96A
-TRIAMCINOLONE 0.1% CREAM 454GM
-877 250-5823
-
-
+2021-02-08 Order Number WF9F96A TRIAMCINOLONE 0.1% CREAM 454GM 877 250-5823
 
 ## UCSF Willed Body ~ (415) 476-1981
 
