@@ -4,7 +4,7 @@ tags #skin #health #dermatology
 
 Agenda
 
-* Dr Fassett: 18 June 3:40 PM
+* Dr Fassett: 20 August 3:40 PM
 
 ## Remember
 
@@ -15,16 +15,15 @@ Agenda
 
 ## Fassett, Marlys Stempihar, MD ~ Dermatology UCSF
 
-* [https://www.ucsfhealth.org/providers/dr-marlys-fassett](https://www.ucsfhealth.org/providers/dr-marlys-fassett)
-* [https://profiles.ucsf.edu/marlys.fassett](https://profiles.ucsf.edu/marlys.fassett)
-* Dermatology Clinic at China Basin  
-* 185 Berry St., Lobby 1, Suite 1000, San Francisco, CA 94107
-
-* Dermatology Clinic at Mount Zion
-* 1701 Divisadero St., Third and Fourth Floors, San Francisco, CA 94115
-* China Basin 4.4 miles Mt Zion 1.8 miles 
 * Hours 9 to 5
 * (415) 353-7800 ~ 2 ~ 1 ~ 1 ~ 2
+* [https://www.ucsfhealth.org/providers/dr-marlys-fassett](https://www.ucsfhealth.org/providers/dr-marlys-fassett)
+* [https://profiles.ucsf.edu/marlys.fassett](https://profiles.ucsf.edu/marlys.fassett)
+* Dermatology Clinic at China Basin
+* 185 Berry St., Lobby 1, Suite 1000, San Francisco, CA 94107
+* Dermatology Clinic at Mount Zion
+* 1701 Divisadero St., Third and Fourth Floors, San Francisco, CA 94115
+* China Basin 4.4 miles **Mt Zion 1.8 miles** 
 
 ## Questions
 
