@@ -22,6 +22,7 @@
 * Mail to Eloise
 * Goodwill
 * Ham radio license
+* Til: new radio > pick up & update
 * Taxes
 * Ortho: upper arm
 
