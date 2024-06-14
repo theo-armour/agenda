@@ -15,6 +15,7 @@
 ## SOON
 
 * ?
+* HH: committee meeting
 * FreeFuse
 * Sensay
 * Mail to Eloise
