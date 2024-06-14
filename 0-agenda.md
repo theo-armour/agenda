@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-* Leslie
+*   
 * Dr Vaderhobli
 * Dr Fassett ~ 415-353-7800‬
 * SPS65 > Bob Hall: reply ~ email addresses
