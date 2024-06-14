@@ -3,7 +3,7 @@
 ## Agenda
 
 * ?
-* Open Mail
+*   
 * Street noise
 * \_The Art of Thinking for yourself\_: cheat sheet
 * Update ICE
