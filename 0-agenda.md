@@ -9,7 +9,6 @@
 ## Today
 
 * ?
-*   
 * Dr Vaderhobli
 * Dr Fassett ~ 415-353-7800‬
 * SPS65 > Bob Hall: reply ~ email addresses
@@ -24,7 +23,7 @@
 * Goodwill
 * Ham radio license
 * Taxes
-* Ortho3333333
+* Ortho: upper arm
 
 ***
 
