@@ -9,13 +9,16 @@
 * https://groups.google.com/g/sps65editors
 * https://groups.io/g/paulies/
 
+SPS
 
+* https://groups.io/g/paulies/
 
 ## 2023-10-18
 
 Web
-* Website
+
 * Mailing list
+* Website
 * Instagram??
 
 2025 60th reunion
