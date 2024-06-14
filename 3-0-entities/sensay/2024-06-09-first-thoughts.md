@@ -6,6 +6,22 @@
 * https://en.wikipedia.org/wiki/Avatar
 * My replica might be able appear as my avatar when I am talking to him and look like an actual me when you are talking to him.
 
+## Vertical Markets
+
+* Call Centers ~ Emergency Respinders
+* Influencers
+* Authors
+* Celebrities
+* Politicians
+* Teachers
+* Coaches
+* Therapists
+* Doctors
+* Preachers
+
+## 2024-06-13
+
+A long ways to go
 
 
 ## First Thoughts
