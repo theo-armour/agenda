@@ -9,7 +9,6 @@
 ## Today
 
 * ?
-* Leslie
 * Dr Vaderhobli
 * Dr Fassett ~ 415-353-7800‬
 * SPS65 > Bob Hall: reply ~ email addresses
@@ -23,8 +22,9 @@
 * Mail to Eloise
 * Goodwill
 * Ham radio license
+* Til: new radio > pick up & update
 * Taxes
-* Ortho3333333
+* Ortho: upper arm
 
 ***
 
@@ -33,7 +33,7 @@
 * ?
 * Standing desk: repair
 
-<details><summary>Admin Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a><br></p></details>
+<details open=""><summary>Admin Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a><br></p></details>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
