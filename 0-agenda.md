@@ -59,7 +59,7 @@
 
 * Bee Memorial
 * Cynthia Chase visits
-* Mail silverware + purse + dwg
+*   
 * ace-it+: exhibit report
 * Film the corridor
 * Floris: crucial memory return
@@ -90,9 +90,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
+* Roxana: meeting > calendar ~ mia
+* Martha: Dermatology ~ H Pharmacy ~ PPH ~ plan
 * HH: talk to praveen
-* House committee
-* Pam and Bob: send house committee
 * Praveen: ditch HH Calendar
 * Fee schedule questions
 * House Committee: Bledsoe
