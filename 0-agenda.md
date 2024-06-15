@@ -2,13 +2,12 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-*   
-* 2024-06-02 ~ My brain may be shallow, but my pockets are deep.
+* 2024-06-02 ~ My brain may be shallow, but my pockets are deep.  
 
 ## Today
 
 * ?
-* Rod Duglidd
+* Rod Dugliss: zoom ~ future efforts
 * Community Garden
 * HH: committee meeting
 
@@ -17,7 +16,6 @@
 * ?
 * FreeFuse
 * Sensay
-*   
 * Goodwill
 * Ham radio license
 * Til: new radio > pick up & update
