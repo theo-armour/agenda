@@ -2,19 +2,20 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-06-02 ~ My brain may be shallow, but my pockets are deep.  
+* 2024-06-02 ~ My brain may be shallow, but my pockets are deep.
+* 2024-06-14 ~ I'm not a leader ~ I am a great individual contributor ~ my dream: great team player
 
 ## Today
 
 * ?
-*   
-* Rod Dugliss: zoom ~ future efforts
+* Rod Dugliss: zoom ~ course wrap-up ~ future efforts
 * Community Garden
-* HH: committee meeting
+* HH: committee meeting: theme
 
 ## SOON
 
 * ?
+* Claudia K: phone
 * FreeFuse
 * Sensay
 * Goodwill
