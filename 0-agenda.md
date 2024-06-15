@@ -14,7 +14,8 @@
 
 ## SOON
 
-* ?
+* ?Rod Duglidd
+* Community Garden
 * HH: committee meeting
 * FreeFuse
 * Sensay
