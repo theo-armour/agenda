@@ -7,6 +7,7 @@
 ## Today
 
 * ?
+*   
 * Rod Dugliss: zoom ~ future efforts
 * Community Garden
 * HH: committee meeting
