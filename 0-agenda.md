@@ -9,9 +9,8 @@
 ## Today
 
 * ?
-*   
-* PPH > mike: Elation wishlist: complete
-
+* *   
+    
 ## SOON
 
 * ?Rod Duglidd
