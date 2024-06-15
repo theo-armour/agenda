@@ -3,16 +3,19 @@
 ## Agenda
 
 * ?
-*   
 * set up 
 * diaconal hermeneutic: deacon forum
 * Adesk: Val, jessica, brad, Jerry
-* Adesk: Eisenberg, Quanci, Michler, Euge Loch
+* Adesk: Eisenberg, Quanci, Michler, Eugene Loch
 * John Walker: Roxie
 
 ## SacSem
 
-* Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
+*   
+* briones society
+* spur
+* trips to CA
+* Web siteMarshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
 * SacSem > dennis@triticum.com: RSVP
 * SacSem > Brian Chase: transcripts ~ videos
