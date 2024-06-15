@@ -15,7 +15,8 @@
 * briones society
 * spur
 * trips to CA
-* Web siteMarshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
+* Web site
+* Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
 * SF is the global TechCity: peer + Cynthia reviewed paper
 * SacSem > dennis@triticum.com: RSVP
 * SacSem > Brian Chase: transcripts ~ videos
