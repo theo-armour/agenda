@@ -7,8 +7,7 @@
 
 ## Today
 
-* ?
-*   
+* ? You are going to
 * HH: committee meeting: theme
 
 ## SOON
