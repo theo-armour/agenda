@@ -8,8 +8,7 @@
 ## Today
 
 * ?
-* Rod Dugliss: zoom ~ course wrap-up ~ future efforts
-* Community Garden
+*   
 * HH: committee meeting: theme
 
 ## SOON
