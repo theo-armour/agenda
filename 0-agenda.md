@@ -21,6 +21,8 @@
 * Goodwill
 * Ham radio license
 * Ortho: upper arm
+* Audiopen
+* Try Gimbal
 
 ***
 
@@ -90,7 +92,7 @@
 
 * ?
 * Roxana: meeting > calendar ~ mia
-* Martha: Dermatology ~ H Pharmacy ~ PPH ~ plan
+* Martha: Dermatology clinic ~ H Pharmacy ~ PPH ~ HH bio ~ HH Advisory
 * HH: talk to praveen
 * Praveen: ditch HH Calendar
 * Fee schedule questions
