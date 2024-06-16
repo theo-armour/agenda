@@ -8,7 +8,6 @@
 ## Today
 
 * ?
-* Taxes
 * Claudia K: phone
 * FreeFuse
 * Sensay
