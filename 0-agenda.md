@@ -17,11 +17,8 @@
 * Bernie talk
 * SacSem: new members
 * Til: new radio > pick up & update
-*   
 * Ham radio license
 * Ortho: upper arm
-* Audiopen
-* Try Gimbal
 
 ***
 
