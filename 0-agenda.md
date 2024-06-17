@@ -8,19 +8,16 @@
 ## Today
 
 * ?
-*   
-* HH: committee meeting: theme
+* Claudia K: phone
 
 ## SOON
 
 * ?
-* Claudia K: phone
-* FreeFuse
-* Sensay
-* Goodwill
-* Ham radio license
+* Barrie Simpson
+* Bernie talk
+* SacSem: new members
 * Til: new radio > pick up & update
-* Taxes
+* Ham radio license
 * Ortho: upper arm
 
 ***
@@ -36,7 +33,7 @@
 
 * ?
 * S: pneumonia vaccine ~ Esomeprazole
-* A: back brace ~ Diapers ~ Fiber munchies ~ Eucerin: tube or jar?
+* A: back brace ~ 
 
 <details><summary>Personal Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly-day</a>s<br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a><br></p><p></p></details>
 
@@ -91,7 +88,7 @@
 
 * ?
 * Roxana: meeting > calendar ~ mia
-* Martha: Dermatology ~ H Pharmacy ~ PPH ~ plan
+* Martha: Dermatology clinic ~ H Pharmacy ~ PPH ~ HH bio ~ HH Advisory
 * HH: talk to praveen
 * Praveen: ditch HH Calendar
 * Fee schedule questions
