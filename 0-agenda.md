@@ -15,6 +15,7 @@
 ## SOON
 
 * ?
+* SacSem: new members
 * Til: new radio > pick up & update
 * Goodwill
 * Ham radio license
