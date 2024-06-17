@@ -9,17 +9,15 @@
 
 * ?
 * Claudia K: phone
-*   
-*   
 
 ## SOON
 
 * ?
-* Varrie Simpson
+* Barrie Simpson
 * Bernie talk
 * SacSem: new members
 * Til: new radio > pick up & update
-* Goodwill
+*   
 * Ham radio license
 * Ortho: upper arm
 * Audiopen
