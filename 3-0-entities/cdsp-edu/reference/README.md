@@ -20,6 +20,7 @@
 ## Episcopal Church Resources
 
 * https://www.churchnext.tv/p/churchnext/
+  https://churchnextblog.wordpress.com/about/ ~ guiding principles ***
 * https://www.forma.church/
 
 ## Sources
