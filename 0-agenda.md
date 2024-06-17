@@ -10,7 +10,7 @@
 * ?
 * Claudia K: phone
 * FreeFuse
-* HH: committee meeting: theme
+*   
 
 ## SOON
 
