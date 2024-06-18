@@ -11,7 +11,8 @@
 
 ## SacSem
 
-*   
+  
+
 * briones society
 * spur
 * trips to CA
