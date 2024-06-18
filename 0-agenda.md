@@ -8,15 +8,12 @@
 ## Today
 
 * ?
-* Claudia K: phone
+*   
 
 ## SOON
 
 * ?
-* Barrie Simpson
-* Bernie talk
 * SacSem: new members
-*   
 * Ham radio license
 * Ortho: upper arm
 
