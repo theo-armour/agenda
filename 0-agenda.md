@@ -13,7 +13,7 @@
 ## SOON
 
 * ?
-* SacSem: new members
+* SacSem: new members << up to date
 * Ham radio license
 * Ortho: upper arm
 
