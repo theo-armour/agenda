@@ -8,13 +8,16 @@
 ## Today
 
 * ?
-*   
 
 ## SOON
 
 * ?
+* Fragrance
+* Granucci: memory stick
 * SacSem: dennis + patrick
-* 4 pm exercise
+* Roxanna
+* O&A: Jacuzzi printout
+* 6 pm exercise
 * Ham radio license
 * Ortho: upper arm
 
