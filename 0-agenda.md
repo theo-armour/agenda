@@ -13,7 +13,8 @@
 ## SOON
 
 * ?
-*   
+* SacSem: dennis + patrick
+* 4 pm exercise
 * Ham radio license
 * Ortho: upper arm
 
