@@ -31,7 +31,7 @@ William Hogan Spiritual Advisor
 * Holly Bratt
 * Stephen Burke
 * *Corey Busch*
-* Alex Clemens
+* Alex Clemens ~ organizer?
 * Peter Collins
 * Ronaldo Costa Filho
 * Betsey Cutler
