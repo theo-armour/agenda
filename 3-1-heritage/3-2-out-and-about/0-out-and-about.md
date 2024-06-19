@@ -1,10 +1,9 @@
 # 3-2 Out & About Read Me
 
 * O&A: Flora Grubb & grub
-* [http://www.lasisletasrestaurantsanfrancisco.com/](http://www.lasisletasrestaurantsanfrancisco.com/)
-* [https://www.allgoodpizza.com/](https://www.allgoodpizza.com/)
+*   
+* Marin Civic Center + CafaeBasque
 * Zoo
-* Bledsoe: winery
 * Italian Museo
 * Boys: Cliff house?
 * Disney Museum ~ closed MTW
@@ -15,3 +14,5 @@
 ## Done
 
 * Ghirardelli Square
+* Bledsoe: winery
+* Flora Grubb + Old Clam house
