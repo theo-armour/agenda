@@ -12,7 +12,7 @@
 ## SOON
 
 * ?
-*   
+* QR code: HH + .VCS
 * Granucci: memory stick
 * SacSem: dennis + patrick
 * Roxanna: meet + Fragrance
