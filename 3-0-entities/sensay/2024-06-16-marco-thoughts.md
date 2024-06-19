@@ -57,7 +57,14 @@ I've been reviewing the Sensay website and am impressed by its broad, inclusive,
 I noticed that the blog hasn't been updated since February. I would be happy to draft two or three blog posts on any topics you suggest, to ensure my writing aligns with your vision.
 
 I surf the web a lot. I can identify numerous organizations that could use replicas. If there are any playbooks or standard documents available, I could reach out to these organizations to gauge their interest in a pilot program.
-
+.
 Initially, I believe the most effective way for me to help is by listening to your daily discussions and identifying any issues where I can be of assistance.
 
 I look forward to collaborating with you.
+
+## Dan Thomson
+
+To discuss onboarding
+
+Hi Dan
+Marco has asked if I would consider being a Sensay advisor. I will be delighted, but the first thing is me sharing my background with you and seeing how that can help progress your vision for Sensay.
