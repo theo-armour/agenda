@@ -17,7 +17,7 @@
 * SacSem: dennis + patrick
 * Roxanna: meet + Fragrance
 * 6 pm exercise
-* Storage: Friday
+*   
 * Ham radio license
 * Pamela Choy
 * Marie-Laure Desjardins
