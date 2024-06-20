@@ -6,6 +6,7 @@
 
 ### July
 
+* Granucci: memory stick copy
 * QR code: HH
 * HH: Millionaire donor?
 * HH: CTO
