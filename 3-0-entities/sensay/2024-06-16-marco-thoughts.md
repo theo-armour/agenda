@@ -68,3 +68,11 @@ To discuss onboarding
 
 Hi Dan
 Marco has asked if I would consider being a Sensay advisor. I will be delighted, but the first thing is me sharing my background with you and seeing how that can help progress your vision for Sensay.
+
+
+## 2024-06-19
+
+Marco: In N Macedonia Period.
+
+In the next fifty years, the Balkan countries like the Baltic countries, given the right opportunities, could become the next beautiful little countries like Denmark, Switzerland and the Netherlands, etc.
+

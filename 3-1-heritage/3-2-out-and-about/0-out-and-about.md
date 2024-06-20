@@ -1,7 +1,5 @@
 # 3-2 Out & About Read Me
 
-* O&A: Flora Grubb & grub
-*   
 * Marin Civic Center + CafaeBasque
 * Zoo
 * Italian Museo
