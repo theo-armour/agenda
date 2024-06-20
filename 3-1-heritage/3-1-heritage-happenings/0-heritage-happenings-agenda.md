@@ -4,8 +4,9 @@
 
 * ResDir: split names
 
-### June
+### July
 
+* QR code: HH
 * HH: Millionaire donor?
 * HH: CTO
 * RC: minutes
