@@ -17,9 +17,10 @@
 * SacSem: dennis + patrick
 * Roxanna: meet + Fragrance
 * 6 pm exercise
-* Storage
-*   
+* Storage: Friday
 * Ham radio license
+* Pamela Choy
+* Marie-Laure Sejardins
 * Ortho: upper arm
 
 ***
