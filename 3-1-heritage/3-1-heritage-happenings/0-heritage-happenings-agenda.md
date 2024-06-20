@@ -4,8 +4,10 @@
 
 * ResDir: split names
 
-### June
+### July
 
+* Granucci: memory stick copy
+* QR code: HH
 * HH: Millionaire donor?
 * HH: CTO
 * RC: minutes
