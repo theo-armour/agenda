@@ -12,12 +12,11 @@
 ## SOON
 
 * ?
-* HH: agenda
-* Granucci: memory stick copy
 * SacSem: dennis + patrick + Dick
+* HH: agenda
+*   
+* Lawrence: quote
 * Roxanna: meet + Fragrance
-* 6 pm exercise
-* Ham radio license
 * Pamela Choy
 * Marie-Laure Desjardins
 * Ortho: upper arm
@@ -28,6 +27,8 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
+* 6 pm exercise
+* Ham radio license
 * Standing desk: repair
 * DWA: no tax money
 
