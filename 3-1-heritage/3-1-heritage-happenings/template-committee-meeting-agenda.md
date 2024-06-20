@@ -1,12 +1,12 @@
-# Template for the committee meeting agenda
+# Template for the _Heritage Happenings_ Committee Meeting Agenda
 
-##  xxx ~ Heritage Happenings Agenda
+##  xx ~ Heritage Happenings Agenda
 
 ## Previous Issue Review
 
 * Newsletter: the style is settling down and OK but a bit bland
 
-## Content for March Issue
+## Content for XXX Issue
 
 * Around the World: country
 * Margaret Johnson:
