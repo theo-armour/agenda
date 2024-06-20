@@ -12,13 +12,13 @@
 ## SOON
 
 * ?
-* QR code: HH + .VCS
+* QR code: HH
 * Granucci: memory stick
 * SacSem: dennis + patrick
 * Roxanna: meet + Fragrance
 * 6 pm exercise
 * Storage
-* Sensay: 
+*   
 * Ham radio license
 * Ortho: upper arm
 
