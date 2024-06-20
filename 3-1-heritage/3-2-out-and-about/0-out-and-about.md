@@ -1,10 +1,9 @@
 # 3-2 Out & About Read Me
 
-* O&A: Flora Grubb & grub
-*  golf courses bon Connolly 
+* Infinity Sculpture + Mersea
+* golf courses bon Connolly
 * cartoon museum
-* 
-* Marin Civic Center + CafaeBasque
+* * Marin Civic Center + CafaeBasque
 * Zoo
 * Italian Museo
 * Boys: Cliff house?
