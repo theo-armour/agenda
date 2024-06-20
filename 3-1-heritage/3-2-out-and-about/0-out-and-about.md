@@ -1,6 +1,9 @@
 # 3-2 Out & About Read Me
 
-* Marin Civic Center + CafaeBasque
+* Infinity Sculpture + Mersea
+* golf courses bon Connolly
+* cartoon museum
+* * Marin Civic Center + CafaeBasque
 * Zoo
 * Italian Museo
 * Boys: Cliff house?

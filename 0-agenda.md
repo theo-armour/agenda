@@ -12,14 +12,15 @@
 ## SOON
 
 * ?
-* QR code: HH + .VCS
+* QR code: HH
 * Granucci: memory stick
 * SacSem: dennis + patrick
 * Roxanna: meet + Fragrance
 * 6 pm exercise
-* Storage
-* Sensay: 
+* Storage: Friday
 * Ham radio license
+* Pamela Choy
+* Marie-Laure Desjardins
 * Ortho: upper arm
 
 ***
