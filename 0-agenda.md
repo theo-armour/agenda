@@ -20,7 +20,7 @@
 * Storage: Friday
 * Ham radio license
 * Pamela Choy
-* Marie-Laure Sejardins
+* Marie-Laure Desjardins
 * Ortho: upper arm
 
 ***
