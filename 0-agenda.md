@@ -8,17 +8,16 @@
 ## Today
 
 * ?
+* Share Sonoma photos
+* Pamela Choy
+* Marie-Laure Desjardins
+* Ortho: upper arm
 
 ## SOON
 
 * ?
-* Share Sonoma photos
-*   
 * Lawrence: quote
 * Roxanna: meet + Fragrance
-* Pamela Choy
-* Marie-Laure Desjardins
-* Ortho: upper arm
 * Patrick: McGinley: TV Debate 27th
 
 ***
