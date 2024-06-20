@@ -13,8 +13,7 @@
 
 * ?
 * Share Sonoma photos
-* SacSem: dennis + Patrick + Dick
-* HH: agenda
+*   
 * Lawrence: quote
 * Roxanna: meet + Fragrance
 * Pamela Choy
