@@ -1,27 +1,27 @@
 # 2024-06-20 Claudia ~ Protect for Dementia
 
 * Everything researched
-*A prev & research fondation
+* A preventive & research foundation
 * Print too small
 * https://alzheimersprevention.org
 * preventable disease
 * https://www.alz.org/
-* dementia: umbrella
-* levels: subjective ~ mild ~ alzheimer's - specific ~ alz late onset & early onset
+* Dementia: umbrella
+* Levels: subjective ~ mild ~ alzheimer's - specific ~ alz late onset & early onset
 * Epigenetics: lifestyle & environment
 * Age: most over 65 ~ 1 in 6 women ~ men 1 in 11
 
 Risks
 
 * heart ~ yet reversible
-* Diabete
+* Diabetes
 * Smoking drinking
 * Inflammation
 * Sleep deprivation
 * Stress
 * Depression
-* vitamin deficiency
-* head injury
+* Vitamin deficiency
+* Head injury
 
 
 ## Four pillars
@@ -79,8 +79,13 @@ Include
 * Kindness
 * Gratitude
 
-## Benefits Kirtan Kriya
+## Benefits: Kirtan Kriya
 
 * 12 minutes
 
+## Links
+
+* https://www.alz.org/
+* https://alzheimersprevention.org
+* https://alzheimersprevention.org/research/kirtan-kriya-yoga-exercise/
 
