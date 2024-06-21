@@ -10,6 +10,12 @@ Kristov
 
   
 
+Centrist voters can reasonably ask: Why put liberals in charge nationally when the places where they have greatest control are plagued by homelessness, crime and dysfunction?  
+
+  
+
+  
+
 Fragrance lady for Roxana
 
 Dennis names
