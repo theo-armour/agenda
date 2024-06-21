@@ -7,6 +7,7 @@
 ## Agenda
 
 * Want: instant dictation
+* TL;DV?
 * Want
 * Where to archive photos ~ AI ~ Floris
 * Fastmail?
