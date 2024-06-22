@@ -8,7 +8,7 @@
 ## Today
 
 * ?
-* Share Sonoma photos
+*   
 * Pamela Choy
 * Marie-Laure Desjardins
 * Ortho: upper arm
