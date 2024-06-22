@@ -8,7 +8,6 @@
 ## Today
 
 * ?
-*   
 * Marie-Laure Desjardins
 * Rod D: zoom
 * Leslie B: Poem + Bernie event
