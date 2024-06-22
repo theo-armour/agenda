@@ -2,21 +2,19 @@
 
 ??
 
+  
+
+Charlie 
+
+  
+
 What Have We Liberals Done to the West Coast? Jun 15
 
 Kristov
 
-  
-
 Centrist voters can reasonably ask: Why put liberals in charge nationally when the places where they have greatest control are plagued by homelessness, crime and dysfunction?
 
-  
-
 Politics always is part theater, but out West too often we settle for being performative rather than substantive.
-
-  
-
-  
 
 Fragrance lady for Roxana
 
