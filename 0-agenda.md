@@ -8,7 +8,7 @@
 ## Today
 
 * ?
-* Pamela Choy: invite
+*   
 * Marie-Laure Desjardins
 * Rod D: zoom
 * Leslie B: Poem + Bernie event
@@ -82,6 +82,7 @@
 * Shammah: birthday
 * Ronan
 * Aaron
+* Tom Magowan well hello there okay I wonder where who knows
 
 ***
 
