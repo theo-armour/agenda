@@ -8,7 +8,7 @@
 ## Today
 
 * ?
-* Rod D: zoom
+*   
 * Leslie B: Poem + Bernie event
 * Claudia B: seminar transcript
 
