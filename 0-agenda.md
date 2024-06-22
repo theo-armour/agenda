@@ -80,7 +80,7 @@
 * Shammah: birthday
 * Ronan
 * Aaron
-* Tom Magowan well hello there okay I wonder where who knows
+* Tom Magowan
 
 ***
 
@@ -91,7 +91,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
-* Angie
+* Charlie-boy: holiday sign
 * Mary: Type A ~ Appendix H provisions ~ copy me om message to Christine
 * Mary: Type C: particulars
 * Roxana: meeting > calendar ~ mia
@@ -101,7 +101,7 @@
 * Fee schedule questions
 * House Committee: Bledsoe
 
-<details><summary>Heritage agenda</summary> <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.1.2 out and about</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-services/0-services.md&quot;">3.1.2 services</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-wellness/0-wellness.md&quot;">3.1.2 wellness</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-3-residents/0-residents.md&quot;">3.3 residents</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-staff/1-staff.md&quot;">3.1.5 staff</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a></details>
+<details open=""><summary>Heritage agenda</summary> <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.1.2 out and about</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-services/0-services.md&quot;">3.1.2 services</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-wellness/0-wellness.md&quot;">3.1.2 wellness</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-3-residents/0-residents.md&quot;">3.3 residents</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-staff/1-staff.md&quot;">3.1.5 staff</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a></details>
 
 ***
 
