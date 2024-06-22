@@ -8,14 +8,16 @@
 ## Today
 
 * ?
-*   
-* Pamela Choy
+* Pamela Choy: invite
 * Marie-Laure Desjardins
-* Ortho: upper arm
+* Rod D: zoom
+* Leslie B: Poem + Bernie event
+* Claudia B: seminar transcript
 
 ## SOON
 
 * ?
+* Ortho: upper arm
 * Lawrence: quote
 * Roxanna: meet + Fragrance
 * Patrick: McGinley: TV Debate 27th
@@ -59,7 +61,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* Bee Memorial ~ Cynthia Chase visits
+* Eloise: Bee Memorial ~ Cynthia Chase visits
 * ace-it+: exhibit report
 * Film the corridor
 * Floris: crucial memory return
