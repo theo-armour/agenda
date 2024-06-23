@@ -1,4 +1,4 @@
-# 2024-06-20 Claudia ~ Protect for Dementia
+# 2024-06-20 ~ Claudia Bartsch ~ Alzheimer's Prevention Through Lifestyle Changes
 
 * Everything researched
 * A preventive & research foundation
@@ -11,7 +11,7 @@
 * Epigenetics: lifestyle & environment
 * Age: most over 65 ~ 1 in 6 women ~ men 1 in 11
 
-Risks
+## Risks
 
 * heart ~ yet reversible
 * Diabetes
@@ -54,7 +54,7 @@ Risks
 ### Mental Exercise
 
 * 3x per week
-* Boost oxygen to brin
+* Boost oxygen to brain
 * 70% less likely to develop Alzheimers
 
 ### Brain Aerobics
