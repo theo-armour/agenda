@@ -13,7 +13,8 @@
 
 * Update LinkedIn
 * Update bio
-*   
+* [Code-switching - Wikipedia](https://en.wikipedia.org/wiki/Code-switching)  
+* https://substack.com/home/post/p-145897612  
 
 ## SacSem
 
