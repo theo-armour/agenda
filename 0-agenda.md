@@ -9,7 +9,7 @@
 
 * ?
 * Leslie B: Poem + Bernie event
-* Claudia B: seminar transcript
+*   
 
 ## SOON
 
