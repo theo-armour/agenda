@@ -65,7 +65,7 @@ afternoon
 
 ## Friday
 
-* 7:15 alarm  
+* 7:15 alarm
 * Shower
 * Review Tech agenda
 
@@ -98,9 +98,7 @@ Afternoon or Evening
 
 After breakfast
 
-* Trim nose hair
-* Change water in sprouts vase
-* Wash eyeglasses
+* ?
 * Tidy bathroom cupboard
 
 Afternoon
