@@ -115,6 +115,16 @@
 * Bastille Day
 
 
+### August
+
+* National Night Out
+* Senior Citizen's Day
+
+### September
+
+* Labor Day
+
+
 ### October
 
 * 10/1 Elderly day
@@ -122,6 +132,7 @@
 * Columbus Day
 * Indigenous People's Day
 * Halloween
+
 
 ### November
 
@@ -139,3 +150,30 @@
 * New Year's Eve
 
 
+## Regular Events
+Strength Training	Monday & Wednesday at 9:00 		Fitness Center
+Yoga				Thursday at 9:00 				Fitness Center
+Out & About 	Tuesday at 9:30		Van ride
+Morning Stretch	Tuesday at 9:00		Fitness Center
+Art with Elders	Thursday at 9:30		Arts & Crafts Room
+Episcopal Service	1st Sunday at 10		McGinley Room
+
+Stretch & Flex	Monday at 11		Friendship Hall
+Reminiscing with Jeanne	Sunday at 11		Friendship Hall
+Balance Class	Mon, Wed, Thr & Fri at 11:45		Porter Corridor
+Meditation	Monday at 1:30		Cedar Room
+Hand Massage/Manicure	Tuesday at 1:30		Friendship Hall
+Movie	Saturday at 1:30		Friendship Hall
+Yoga	Friday at 2		Fitness Center
+Movie	Friday at 2		McGinley Room
+Movie	Sunday at 2		McGinley Room
+Saturday Shorts	Saturday at 3		McGinley Room
+Bingo	Sunday and Tuesday at 3		Friendship Hall
+Walking Group	Mon, Wed, & Fri at 3:30		Porter Library
+
+Catholic Mass	1st Friday & 3rd Sunday at 10		Chapel
+Food Committee	2nd Tuesday at 10:30		McGinley Room
+Town Hall meeting	2nd Wednesday at 10:30		Friendship Hall
+Men's Group	1st & 3rd Tuesday at 3:30		Cottage
+Coffee Hour	Monday & Wednesday at 4		Dining Room
+Podiatry
