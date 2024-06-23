@@ -6,6 +6,8 @@
 
 ## Agenda
 
+* ?
+* https://meco.app/?utm\_campaign=39ye
 * Want: instant dictation
 * TL;DV?
 * Want
