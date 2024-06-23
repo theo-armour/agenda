@@ -9,9 +9,13 @@
 * Adesk: Eisenberg, Quanci, Michler, Eugene Loch
 * John Walker: Roxie
 
-## SacSem
+## SenSay
 
-  
+\* Update LinkedIn
+
+\* Update bio
+
+## SacSem
 
 * briones society
 * spur

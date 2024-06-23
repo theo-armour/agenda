@@ -9,13 +9,15 @@
 
 * ?
 *   
-* Pamela Choy
-* Marie-Laure Desjardins
-* Ortho: upper arm
+*   
 
 ## SOON
 
 * ?
+* Mia: send retainer
+* Mia: wedding talks
+* Granucci: drive
+* Ortho: upper arm
 * Lawrence: quote
 * Roxanna: meet + Fragrance
 * Patrick: McGinley: TV Debate 27th
@@ -38,7 +40,7 @@
 * S: 
 * A: back brace ~ 
 
-<details><summary>Personal Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly-day</a>s<br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a><br></p><p></p></details>
+<details open=""><summary>Personal Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-weekly-day</a>s<br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a><br></p><p></p></details>
 
 ***
 
@@ -50,8 +52,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
 
-* Mia: send retainer
-* Mia: wedding talks
+*   
 
 <details><summary>Simplicity agenda</summary><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a></p><p>* ?</p><p></p></details>
 
@@ -59,7 +60,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* Bee Memorial ~ Cynthia Chase visits
+* Eloise: Bee Memorial ~ Cynthia Chase visits
 * ace-it+: exhibit report
 * Film the corridor
 * Floris: crucial memory return
@@ -80,6 +81,7 @@
 * Shammah: birthday
 * Ronan
 * Aaron
+* Tom Magowan
 
 ***
 
@@ -90,6 +92,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
+* Charlie-boy: holiday sign
 * Mary: Type A ~ Appendix H provisions ~ copy me om message to Christine
 * Mary: Type C: particulars
 * Roxana: meeting > calendar ~ mia

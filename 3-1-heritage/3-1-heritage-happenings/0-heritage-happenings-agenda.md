@@ -6,6 +6,8 @@
 
 ### July
 
+* Angie: menu
+* Marcia: thanks
 * Granucci: memory stick copy
 * QR code: HH
 * HH: Millionaire donor?
