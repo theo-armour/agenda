@@ -8,7 +8,7 @@
 ## Today
 
 * ?
-* Leslie B: Poem + Bernie event
+*   
 *   
 
 ## SOON
