@@ -11,9 +11,9 @@
 
 ## SenSay
 
-\* Update LinkedIn
-
-\* Update bio
+* Update LinkedIn
+* Update bio
+*   
 
 ## SacSem
 
