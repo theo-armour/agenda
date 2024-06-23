@@ -26,9 +26,9 @@ Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc](https://1drv
 
 ### Ideas Actions
 
-[Baytrish@aol.com](mailto:Baytrish@aol.com) [Jmansfield3105@gmail.com](mailto:Jmansfield3105@gmail.com) [Patski5700@sbcglobal.net](mailto:Patski5700@sbcglobal.net) [Operella@sbcglobal.net](mailto:Operella@sbcglobal.net)
+[Baytrish@aol.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Baytrish@aol.com) [Jmansfield3105@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Jmansfield3105@gmail.com) [Patski5700@sbcglobal.net](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Patski5700@sbcglobal.net) [Operella@sbcglobal.net](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=Operella@sbcglobal.net)
 
-* HH: Ella Wong [operella@sbcglobal.net](mailto:operella@sbcglobal.net)
+* HH: Ella Wong [operella@sbcglobal.net](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=operella@sbcglobal.net)
 * Submission Guide
 * Style Guide
 * Activities msg
