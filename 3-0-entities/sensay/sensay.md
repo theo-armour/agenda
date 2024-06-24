@@ -1,6 +1,7 @@
 # Sensay
 
 * https://sensay.io/me/create
+* https://docsend.com/view/hpgxrsxyx7mzt9fd
 
 ## Agenda
 
