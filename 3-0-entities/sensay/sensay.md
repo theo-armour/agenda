@@ -8,6 +8,9 @@
 * Update Python
 * Think monetization
 
+## 2024-06-23
+
+* https://tldv.io/app/meetings/66740bbfca32990013ae2185
 
 ## 2024-06-09 Agenda
 
