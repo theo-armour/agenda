@@ -12,8 +12,6 @@
 ## SOON
 
 * ?
-* Mia: send retainer
-* Mia: wedding talks
 * Granucci: drive
 * Ortho: upper arm
 * Lawrence: quote
