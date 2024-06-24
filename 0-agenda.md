@@ -12,8 +12,7 @@
 ## SOON
 
 * ?
-* Mia: send retainer
-* Mia: wedding talks
+* LinkedIn: bio
 * Granucci: drive
 * Ortho: upper arm
 * Lawrence: quote
