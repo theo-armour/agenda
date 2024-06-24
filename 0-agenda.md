@@ -12,6 +12,7 @@
 ## SOON
 
 * ?
+* LinkedIn: bio
 * Granucci: drive
 * Ortho: upper arm
 * Lawrence: quote
