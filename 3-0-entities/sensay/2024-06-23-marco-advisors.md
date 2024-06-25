@@ -1,5 +1,17 @@
-# Marcco
+# Marco
 
+## 2024-06-24
+
+Two things:
+
+1. It will be good for me just to read through the bunches of Telegram messages. I will do that tomorrow. messages. Also all the issues on Linear. This will get me up to speed on the current state of the project.
+
+2. The last week of the month is when I prepare the newsletter for my retirement community. https://heritageonthemarina.org/. So a lot of my time will be spent on that.
+
+We can chat more in your morning.
+
+
+## 2024-06-23
 Hi Marco
 
 I hope North Macedonia is treating you well.

@@ -9,6 +9,13 @@
 * [https://www.instagram.com/armourisabelle/](https://www.instagram.com/armourisabelle/)
 * [https://www.instagram.com/armour.theo/](https://www.instagram.com/armour.theo/)
 
+## Tassajara
+
+* Probably too much
+* https://en.wikipedia.org/wiki/Tassajara_Zen_Mountain_Center
+* https://en.wikipedia.org/wiki/Tassajara_Zen_Mountain_Center
+* Something or somewhere else?
+
 ## Agenda
 
 * Alix's speech

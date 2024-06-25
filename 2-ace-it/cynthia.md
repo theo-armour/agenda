@@ -6,7 +6,13 @@
 * Wallet Drawing
 * Finish hand
 
+## 2024-06-24
 
+* Depressing stuff ~ Storage-- & Sensay++
+* Marie-S & Engue
+* Kyle?
+* Bee memorial
+* Tassajara: Probably too much
 
 ## 2024-05-27
 
@@ -28,7 +34,7 @@
 
 ## 2024-04-22
 
-* Peter taylor & Eliza
+* Peter Taylor & Eliza
 * Morels
 * Buy a forest or a cabin
 * Buy a houseboat?
