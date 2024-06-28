@@ -4,6 +4,7 @@
 
 * 2024-06-02 ~ My brain may be shallow, but my pockets are deep.
 * 2024-06-14 ~ I'm not a leader ~ I am a great individual contributor ~ my dream: great team player
+* 2024-06-27 ~"Why should we subsidize intellectual curiosity?" -Ronald Reagan
 
 ## Today
 
