@@ -9,7 +9,7 @@
 * PPH > Gary: 08/26/2024 10:30 am
 * Dr Vaderhibli: 11:30 August 26
 * Safeway: goLightely
-* Pneumonia vaccine ~ last in 2015 \*
+* Pneumonia vaccine ~ last in 2015
 
 ## Agenda
 
