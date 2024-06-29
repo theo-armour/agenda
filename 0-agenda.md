@@ -18,6 +18,7 @@
 * Granucci: drive
 * Ham radio license
 * Goodwill: books
+* USB Linux ~ ven?
 
 ***
 
