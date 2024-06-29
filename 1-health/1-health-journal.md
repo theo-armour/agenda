@@ -1,18 +1,16 @@
 # Health Journal
 
-  
+## 2024-06-29
+
+\* 2024-06-?-Pneumonia vaccine
 
 ## 2024-06-06
 
-  
-
-\* ENT clinic: small blob left otherwise all good
+* ENT clinic: small blob left otherwise all good
 
 ## 2024-06-03
 
-\* PPH: Gary visit: Pneumonia?? Dr Immerman
-
-  
+* PPH: Gary visit: Pneumonia?? Dr Immerman
 
 ## 2023-12-04
 
