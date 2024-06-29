@@ -29,6 +29,8 @@
 
   
 
+  
+
 ## Possession De-acquisitions
 
 * Goodwill: shoes
