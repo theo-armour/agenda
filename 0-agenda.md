@@ -16,6 +16,7 @@
 * LinkedIn: bio
 * Granucci: drive
 * Ham radio license
+* Goodwill: books
 
 ***
 
