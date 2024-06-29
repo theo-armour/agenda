@@ -1,6 +1,7 @@
 # PPH
 
 * ?
+* Pneumonia vaccine ~ June 2024
 
 ## Agenda
 
@@ -9,8 +10,6 @@ Personal Issues
 * PPH: Daughters / contacts
 * PPH: Thyroid issues?
 * PPH: Address cholesterol issues
-
-
 
 Community Issues
 
@@ -69,7 +68,5 @@ Community Issues
 * No choice of addresses
 * No CC
 * No text formatting
-
-
 
 ## Change Log
