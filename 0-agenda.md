@@ -13,6 +13,7 @@
 ## SOON
 
 * ?
+*   
 * LinkedIn: bio
 * Granucci: drive
 * Ham radio license
