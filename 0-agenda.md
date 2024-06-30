@@ -13,12 +13,12 @@
 ## SOON
 
 * ?
-* Google Home: device
+*   
 * LinkedIn: bio
 * Granucci: drive
 * Ham radio license
 * Goodwill: books
-* USB Linux ~ ven?
+*   
 
 ***
 
