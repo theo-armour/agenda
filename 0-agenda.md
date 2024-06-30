@@ -13,7 +13,7 @@
 ## SOON
 
 * ?
-*   
+* Calendar: July events
 * LinkedIn: bio
 * Granucci: drive
 * Ham radio license
@@ -90,6 +90,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
+* Happenings: Audio versin
 * Charlie-boy: holiday sign
 * Mary: Type A ~ Appendix H provisions ~ copy me om message to Christine
 * Mary: Type C: particulars
