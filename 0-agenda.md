@@ -14,6 +14,8 @@
 
 * ?
 * Calendar: July events
+* Lotusia.org
+* WSL: ubuntu
 * LinkedIn: bio
 * Granucci: drive
 * Ham radio license
