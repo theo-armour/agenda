@@ -3,7 +3,7 @@
 ## Appointments
 
 * ?
-* Glaucoma exam ~ Dr Kresta Tabaranza: 29 June ~ tests? 490 Illinois Flr 4
+* Glaucoma exam ~ Appointment ~ 490 Illinois Flr 4
 * Colonoscopy ~ Dr Kattah: 25 July 9:30 1600 Divisadero B123
 * Dermatology exam ~ Dr Fassett: August 20 3:40 ~ 185 Berry Ste 1000
 * PPH > Gary: 08/26/2024 10:30 am
