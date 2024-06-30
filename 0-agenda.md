@@ -29,7 +29,7 @@
 * ?
 * 6 pm exercise
 * Ortho: upper arm
-* Lawrence: quote
+* Lawrence: quote ~ Cadogan web site
 * Roxanna: meet
 * DWA: no tax money
 
