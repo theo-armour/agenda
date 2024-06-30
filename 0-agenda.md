@@ -13,6 +13,7 @@
 ## SOON
 
 * ?
+* Allison
 * Calendar: July events
 * Lotusia.org
 * WSL: ubuntu
