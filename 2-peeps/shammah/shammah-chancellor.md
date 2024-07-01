@@ -1,4 +1,3 @@
-
 # Shea
 
 Unmarried male physicists raised as Jehovah's Witnesses with a presence on GitHub living in the west half of the Gateway
