@@ -13,6 +13,7 @@
 ## SOON
 
 * ?
+* Sensay
 * Allison
 * Calendar: July events
 * Lotusia.org
@@ -20,7 +21,6 @@
 * LinkedIn: bio
 * Granucci: drive
 * Ham radio license
-*   
 * HH: mailmerge
 
 ***
