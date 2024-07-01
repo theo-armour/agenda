@@ -21,7 +21,6 @@
 * Granucci: drive
 * Ham radio license
 *   
-* Res Dir: first name, last name
 * HH: mailmerge
 
 ***
