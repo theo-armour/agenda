@@ -20,7 +20,7 @@
 * LinkedIn: bio
 * Granucci: drive
 * Ham radio license
-* Goodwill: books
+*   
 * Res Dir: first name, last name
 * HH: mailmerge
 
