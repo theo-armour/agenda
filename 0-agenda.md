@@ -19,7 +19,6 @@
 * Allison + tania
 * WSL: ubuntu
 * LinkedIn: bio
-*   
 * SacSem: email to post
 
 ***
