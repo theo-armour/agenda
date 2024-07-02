@@ -19,8 +19,7 @@
 * Allison + tania
 * WSL: ubuntu
 * LinkedIn: bio
-* Ham radio license
-* HH: mailmerge
+*   
 * SacSem: email to post
 
 ***
