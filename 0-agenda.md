@@ -14,7 +14,6 @@
 
 * ?
 * Mia
-* Claudia
 * Sensay
 * Allison + tania
 * WSL: ubuntu
