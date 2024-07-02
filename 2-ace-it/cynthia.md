@@ -6,6 +6,14 @@
 * Wallet Drawing
 * Finish hand
 
+## 2024-07-01
+
+* Kathy
+* Bannon
+* wedding invite reply
+* Elections ~ bardella
+
+
 ## 2024-06-24
 
 * Depressing stuff ~ Storage-- & Sensay++
