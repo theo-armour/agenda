@@ -25,12 +25,14 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
+* Standing Desk: contact 
 * Granucci: drive
 * 6 pm exercise
 * Ortho: upper arm
 * Lawrence: quote ~ Cadogan web site
 * Roxanna: meet
 * Praveen: meet
+* Martha Meet
 * DWA: no tax money
 * Lotusia.org
 
