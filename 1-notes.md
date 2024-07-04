@@ -2,11 +2,11 @@
 
 ??
 
-  
+Helsinki declaration 1964 research ethics 
+
+Got it
 
 Charlie 
-
-  
 
 What Have We Liberals Done to the West Coast? Jun 15
 
