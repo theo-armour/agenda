@@ -2,7 +2,9 @@
 
 ??
 
-Helsinki declaration 1964 research ethics 
+Helsinki declaration 1964 research ethics
+
+Right to be forgotten GDPR 
 
 Got it
 
