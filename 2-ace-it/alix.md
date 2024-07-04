@@ -5,6 +5,13 @@
 * [https://www.minimise.today/](https://www.minimise.today/)
 * Add data to my sensay
 
+
+## 2024-07-04
+
+* trip
+* credit card
+
+
 ## 2024-05-02
 
 * Shipping: you And Claudia work out the details. I'll pay
