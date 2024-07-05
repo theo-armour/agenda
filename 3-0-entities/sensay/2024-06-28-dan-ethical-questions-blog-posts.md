@@ -12,7 +12,6 @@
 
 ## Subheadings
 
-
 * The Digital Right to be Forgotten: When Immortality Becomes a Burden
 * Who Owns Your Digital Soul? The Battle for Posthumous Consent
 * The Grief Trap: When Digital Comfort Becomes a Psychological Prison
