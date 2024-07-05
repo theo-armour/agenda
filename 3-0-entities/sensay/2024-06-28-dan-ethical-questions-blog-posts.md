@@ -12,7 +12,6 @@
 
 ## Subheadings
 
-
 * The Digital Right to be Forgotten: When Immortality Becomes a Burden
 * Who Owns Your Digital Soul? The Battle for Posthumous Consent
 * The Grief Trap: When Digital Comfort Becomes a Psychological Prison
@@ -29,30 +28,38 @@ Picture this: Your great-grandmother's wisdom, once lost to time, now accessible
 
 But as we stand on the precipice of this brave new world, a storm of ethical problems gathers on the horizon. In our quest to cheat death, are we opening Pandora's box of moral dilemmas? As Sensay's digital replicas blur the lines between memory and reality, between the living and the dead, we must ask ourselves: At what cost does immortality come?
 
-We'll explore five seismic challenges that Sensay must navigate – challenges that will shape not just the future of technology, but the very fabric of human existence. The question isn't just whether we can create digital immortality, but whether we should. And if we do, can we ensure it doesn't become a Faustian bargain, where the price of eternal life is our humanity itself?
+We'll explore five seismic challenges that Sensay must navigate – challenges that will shape not just the future of technology, but the very fabric of human existence.
+
+"seismic", "challenges", "navigate", "shape", fabric"
+
+The question isn't just whether we can create digital immortality, but whether we should. And if we do, can we ensure it doesn't become a Faustian bargain, where the price of eternal life is our humanity itself?
 
 
 [b] Most people who believe in an “afterlife” (still the majority of the human population) would most likely argue it is not the final curtain call now either. Not sure that matters to your intended audience but thought I would call that out.
 
+[] Also my first thought, but discussing it opens up such a can of worms. It might be best to leave the text as is. And I also see a discussions of afterlife, nirvana, and reincarnation etc being the topic of a number of future post. Can your replica reincarnate into you future self? What color are your wings?
 
+[] See also: https://en.wikipedia.org/wiki/Hierarchy_of_angels ;-)
+
+[] The final sentence is the killer, the most intractable. If I could add something it would be the intention to be virtuous, wear white hats.
 
 ## 1. The Right to Be Forgotten vs. Digital Immortality
 
 One of the most pressing ethical dilemmas Sensay faces is the tension between an individual's right to be forgotten and the concept of digital immortality. In an age where personal data protection is increasingly important, how does Sensay reconcile the desire to preserve a person's legacy with their potential wish to have certain aspects of their life erased from digital memory?
 
-[] See GDPR https://www.perplexity.ai/search/what-is-the-right-to-be-forgot-VUb6ze_wRYedRl1Vxf1Tcg#0
+[] "Right to be forgotten" has multiple meanings. See GDPR https://www.perplexity.ai/search/what-is-the-right-to-be-forgot-VUb6ze_wRYedRl1Vxf1Tcg#0
 
 [] or at least kept private for some period of time?
 
 This challenge becomes even more complex when we consider the dynamic nature of human beings. People change, grow, and sometimes regret past actions or statements. A digital replica created at one point in time may not accurately represent the person's evolved beliefs or personality later in life. Sensay must grapple with how to update or modify these digital replicas to reflect such changes, or whether it's even ethically sound to do so.
 
-[] Do I have a right to design my own digital afterlife? Can I change my mind? Can I delete things? Can I add things? Can I have a say in how I am represented?
+[] Do I have a right to design my own digital afterlife? Can I change my mind? Can I delete things? Can I add things? Can I have a say in how I am represented? What are my "right to be remembered rights"?
 
 Moreover, there's the question of who has the right to decide what information is preserved after a person's death. Should family members or legal representatives have the power to edit or delete aspects of a digital replica? These are thorny issues that Sensay will need to address to ensure ethical use of its technology.
 
 [] What about the replica's tone? Does my replica talk to one and all in the same tone of voice? Or to friends and family differently than to strangers? What about the language I use? Should George Washington speak Burmese?
 
-[] Does the data end up in the public domain
+[] https://en.wikipedia.org/wiki/Declaration_of_Helsinki
 
 ## 2. Consent and Ownership in the Digital Afterlife
 
@@ -64,7 +71,7 @@ Sensay will need to develop clear policies and legal frameworks to address these
 
 [c] What about current precedent or lawsuits? Would you work within legal frameworks rather than creating your own? Are there examples you can draw from in other instances (e.g. how people’s pages were managed by FB or LI when someone died)?
 
-[] https://en.wikipedia.org/wiki/Declaration_of_Helsinki
+[] Is the data under copyright and eventually end up in the public domain?
 
 [] Ownership not just of the data but also the processes. First past the post has some awesome powers. It can set precedents that are hard to change. Essential: Sensay establishes a standard aor schema that can be used by others. Sensay is as definitive as Dante's Inferno.
 
@@ -83,7 +90,7 @@ Sensay must carefully consider these psychological implications and work closely
 
 [] Can the replica talk to health professionals? What happens if a replica needs to see a therapist? Is a replica that is 2,000 years old different than a 20 year old replica?
 
-Can I talk to my replica that is me at six years old or how I might be ten years from now? Can I talk to my replica before and after I transition, have a stroke, or get dementia?? Can My replica talk to my therapist? Be a robot I can make love to?
+[] Can I talk to my replica that is me at six years old or how I might be ten years from now? Can I talk to my replica before and after I transition, have a stroke, or get dementia?? Can my replica talk to my therapist? Be a robot I can make love to? Can my replica talk to my sisters? My parents' replicas?
 
 []
 * https://www.orderofthegooddeath.com/resources/death-bill-of-rights/
@@ -102,10 +109,11 @@ To address these concerns, Sensay will need to implement robust security measure
 
 [] * https://www.nautadutilh.com/en/insights/the-end-user-and-its-avatar-data-integrity-risks-and-ethical-challenges-in-the-metaverse-part-one/
 
-[] Sorceror's Apprentice> How do we prevent the replicas from taking over?
+[] sorcerer's Apprentice> How do we prevent the replicas from taking over?
 
 [] universal moral laws, such as “Don’t lie.  Don’t steal.  Don’t cheat.”. Replicas can be used to break these laws. How do we prevent that?
 
+[] preservation of data and processes over generations
 
 ## 5. Exacerbating Social Inequalities
 
@@ -133,6 +141,9 @@ Beyond the tangible challenges of consent and authenticity lies a more profound 
 
 [] Will we all want to live in the matrix? Will we stop making babies?
 
+[] Coaches, mentors, guardian angels
+
+
 ## Conclusion [i]
 
 As Sensay continues to develop its technology, it faces a complex web of ethical challenges. Navigating these issues will require not only technological innovation but also careful consideration of the social, psychological, and philosophical implications of digital immortality.
@@ -141,9 +152,12 @@ As Sensay continues to develop its technology, it faces a complex web of ethical
 
 By proactively addressing these ethical challenges, Sensay has the opportunity to set industry standards and shape the responsible development of AI replicas. This will involve ongoing dialogue with ethicists, policymakers, mental health professionals, and the public to ensure that the preservation of human knowledge and identity through digital replicas is done in a way that respects individual rights, promotes social good, and mitigates potential harm.
 
-As we stand at this technological crossroads, it's crucial that companies like Sensay lead the way in ethical innovation, ensuring that the future of digital immortality is one that enhances human experience rather than diminishing it. There is a fine line between creating replicas that can extend a person beyond their mind and body, and one which can replace them altogether. Replicas should be a tool for the betterment of humanity, not an alternative to humanity itself, no matter how tempting that idea may become.
+As we stand at this technological crossroads, it's crucial that companies like Sensay lead the way in ethical innovation, ensuring that the future of digital immortality is one that enhances human experience rather than diminishing it. There is a fine line between creating replicas that can extend a person beyond their mind and body, and one which can replace them altogether. Replicas should be a tool for the betterment of humanity, not an alternative to humanity itself, no matter how tempting that idea may become. [] ends with the negative, why not with the positive?
 
 [i]I really like this section. I think it is a good summary and takes more of a “we” approach.
 
-[] industry standards:
+[] industry standards: perhaps the biggest intention in the documents. I can talk at length about this topic. industry standards are the replicas of the world, its DNA, its reincarnation. A industry standard is its own afterlife.
+
+[] Something like this vision could be on the website/phone app
+
 
