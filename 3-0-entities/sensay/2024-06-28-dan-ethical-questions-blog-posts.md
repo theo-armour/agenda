@@ -1,5 +1,7 @@
 ﻿# The Ethical Crossroads of Digital Immortality: 5 Key Challenges [a] Facing Sensay
 
+* https://docs.google.com/document/d/1Y971Mkz8u-Sfnz_bwsr_LHK-vePiwIhyWQTA1T1rE5s/edit?usp=sharing
+
 [a] This post mostly focuses on the non-business use cases (which is not a bad thing) but you may want to preface that because some of the subcategories are not super revenant to business use cases.
 
 ## Alternatives
@@ -18,7 +20,8 @@
 * Digital Deception: Navigating the Murky Waters of AI Authenticity
 * The New Digital Divide: Will Immortality Be Only for the Elite?"
 
-[] Add introduction, bonus, and conclusion
+[] Add introduction, Conus, and Conclusion
+
 
 ## Introduction
 
@@ -30,18 +33,20 @@ But as we stand on the precipice of this brave new world, a storm of ethical pro
 
 We'll explore five seismic challenges that Sensay must navigate – challenges that will shape not just the future of technology, but the very fabric of human existence.
 
-"seismic", "challenges", "navigate", "shape", fabric"
+A sentence that reads well and feels poetic but it does mix metaphorts: "seismic", "challenges", "navigate", "shape", fabric" ;-)
 
 The question isn't just whether we can create digital immortality, but whether we should. And if we do, can we ensure it doesn't become a Faustian bargain, where the price of eternal life is our humanity itself?
 
 
 [b] Most people who believe in an “afterlife” (still the majority of the human population) would most likely argue it is not the final curtain call now either. Not sure that matters to your intended audience but thought I would call that out.
 
-[] Also my first thought, but discussing it opens up such a can of worms. It might be best to leave the text as is. And I also see a discussions of afterlife, nirvana, and reincarnation etc being the topic of a number of future post. Can your replica reincarnate into you future self? What color are your wings?
+[] Considering the beliefs of the devout was also one of my first thoughts, but discussing it opens up such a can of worms. It might be best to leave the text as is. And I also see a discussions of afterlife, nirvana, and reincarnation etc being the topic of a number of future posts. Fun thoughts: Can your replica reincarnate into you future self? What color are your wings? etc.
+
 
 [] See also: https://en.wikipedia.org/wiki/Hierarchy_of_angels ;-)
 
-[] The final sentence is the killer, the most intractable. If I could add something it would be the intention to be virtuous, wear white hats.
+[] The final sentence is the killer, the most intractable. If I could add something it might be an intention to be virtuous, wear white hats, seek summum bonum.
+
 
 ## 1. The Right to Be Forgotten vs. Digital Immortality
 

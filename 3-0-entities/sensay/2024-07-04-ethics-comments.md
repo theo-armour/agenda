@@ -1,11 +1,39 @@
 # 2024-07-04-
 
-I have spent a number of hours reviewing Dan's post. More time than i would usually.
+I have spent a number of hours reviewing Dan's post. More time than I do usually.
 
+## Why? Because It's Good
 
-1. It was as concise as possible ~ https://quoteinvestigator.com/2011/05/13/einstein-simple/
-2. It is not condescending ~ it speaks to a well-informed audience
-3. It is not threatening ~ Not at all a "if it bleeds it leads" post ~ https://newsliteracymatters.com/2019/11/11/q-what-does-if-it-bleeds-it-leads-mean/
+Here are some of the personal observations why I like the post:
+
+* Concise ~ https://quoteinvestigator.com/2011/05/13/einstein-simple/ ~ "Everything should be made as simple as possible, but not simpler." ~ Albert Einstein ~ I can't remove anything without losing meaning.
+* Organized ~ introduction, section headings, conclusion, table of headings
+* Taegeted ~ It is not condescending ~ it speaks to a well-informed audience ~ early adopters are people who can read the Economist.
+* Optimistic ~ while also being risk-aware
+* Unthreatening ~ Not at all aa AI-doomer post ~ "if it bleeds it leads" post ~ https://newsliteracymatters.com/2019/11/11/q-what-does-if-it-bleeds-it-leads-mean/
+* Instructive ~ not merely making observations and conjectures, it is instructive and provides guide lines for future actions and what to do or consider doing
+* Timeless ~ Not a tweet ~ not SEO-driven ~
+* Stepping stone ~ Offers the beginning of a schema
+
+## Next steps
+
+* A web pagewithout links is like a room without windows. I will add links to the sources and citations.
+Lacks credible sources and evidence. standing on the shoulders of giants. I will add some sources and citations.
+
+## Questions
+
+* May I share drafts?
+* My I pass the text through AI analysis
+
+## My observations
+
+In two parts
+
+* Double-click #1: Big Picture is below my signature
+* Double-click #2: See my comments section by section in Dan's document.
+
+## Double-click #1: Big Picture
+
 My first task is to look at the big picture
 
 So I asked the question "What are the biggest ethical questions?" to Claude, Perplexity and ChatGPT 4o
@@ -14,15 +42,11 @@ The replies are below.
 
 Dan's five topics cover all the significant and applicable bases admirably.
 
-## Questions
-
-* May I share drafts?
-* My I paas the text through PA analysis
 
 
-## What are the biggest ethical questions?
+## Claude 3.5
 
-## Claude
+ hat are the biggest ethical questions?
 
 Some of the biggest ethical questions include:
 
@@ -37,7 +61,9 @@ Some of the biggest ethical questions include:
 9. Is it ever ethically justified to take a life?
 10. How do we balance freedom of speech with protection from harm?
 
-## Perplexity
+## Perplexity.AI
+
+What are the biggest ethical questions?
 
 ## Factors Exacerbating Social Inequality
 
@@ -119,6 +145,8 @@ Citations:
 
 ## Chat GPT
 
+ What are the biggest ethical questions?
+ 
 The biggest ethical questions often revolve around issues that impact human rights, societal norms, technological advancements, and environmental sustainability. Here are some of the most pressing ethical questions across various fields:
 
 ### Technology and AI
