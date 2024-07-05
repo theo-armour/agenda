@@ -1,8 +1,14 @@
 # 2024-07-04-
 
+I have spent a number of hours reviewing Dan's post. More time than i would usually.
+
+
+1. It was as concise as possible ~ https://quoteinvestigator.com/2011/05/13/einstein-simple/
+2. It is not condescending ~ it speaks to a well-informed audience
+3. It is not threatening ~ Not at all a "if it bleeds it leads" post ~ https://newsliteracymatters.com/2019/11/11/q-what-does-if-it-bleeds-it-leads-mean/
 My first task is to look at the big picture
 
-So I asked the question "hat are the biggest ethical questions?" to Claude, Perplexity and ChatGPT 4o
+So I asked the question "What are the biggest ethical questions?" to Claude, Perplexity and ChatGPT 4o
 
 The replies are below.
 
