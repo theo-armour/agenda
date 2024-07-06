@@ -5,6 +5,7 @@
 * 2024-06-02 ~ My brain may be shallow, but my pockets are deep.
 * 2024-06-14 ~ I'm not a leader ~ I am a great individual contributor ~ my dream: great team player
 * 2024-06-27 ~"Why should we subsidize intellectual curiosity?" -Ronald Reagan
+* 2024-07-05 ~ Instead of insulting someone who disagrees with you, ask them why they have that perspective.
 
 ## Today
 
@@ -36,7 +37,6 @@
 * DWA: no tax money
 * Lotusia.org
 * bean citibank: sign in
-*   
 
 <details open=""><summary>Admin Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a><br></p></details>
 
