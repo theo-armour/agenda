@@ -10,13 +10,16 @@
 ## Today
 
 * ?
+* SPS
+* Sensay
+* Ham Radio
 
 ## SOON
 
 * ?
-* Mia
-* Sensay
 * Allison + tania
+* Mia
+* Sensay: 3D
 * WSL: ubuntu
 * LinkedIn: bio
 * SacSem: email to post
