@@ -11,7 +11,9 @@
 
 * ?
 *   
-* Sensay
+* Sensay: telegram tips
+* Sensay: 
+* Sensay: 3D
 * Ham Radio
 
 ## SOON
