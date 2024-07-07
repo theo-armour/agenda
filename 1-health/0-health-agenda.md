@@ -8,8 +8,6 @@
 * Dermatology exam ~ Dr Fassett: August 20 3:40 ~ 185 Berry Ste 1000
 * PPH > Gary: 08/26/2024 10:30 am
 * Dr Vaderhibli: 11:30 August 26
-* Safeway: goLightely
-* Pneumonia vaccine ~ last in 2015
 
 ## Agenda
 
