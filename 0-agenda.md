@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-* * Sensay: telegram tips
+* Sensay: telegram tips
 * Sensay: telegram whois
 * Sensay: 3D
 * Ham Radio: take notes
