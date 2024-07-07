@@ -2,7 +2,9 @@
 
 ??
 
-California historical society
+Patrick: notes, 100 year, house
+
+California historical society visit
 
 Thank sant
 
