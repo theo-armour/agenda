@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-* SPS
+*   
 * Sensay
 * Ham Radio
 
