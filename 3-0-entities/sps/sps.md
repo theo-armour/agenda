@@ -13,6 +13,16 @@ SPS
 
 * https://groups.io/g/paulies/
 
+
+## 2024-07-06
+
+* SPS65 files are in obscure gmail account: must copy out!!
+* 1964 yearbook: ?? where
+* Started updating sps 65 website
+* Need to move files to a better place. Maybe a github repo
+
+
+
 ## 2023-10-18
 
 Web
