@@ -10,18 +10,16 @@
 ## Today
 
 * ?
-*   
-* Sensay: telegram tips
-* Sensay: 
+* * Sensay: telegram tips
+* Sensay: telegram whois
 * Sensay: 3D
-* Ham Radio
+* Ham Radio: take notes
 
 ## SOON
 
 * ?
 * Allison + tania
 * Mia
-* Sensay: 3D
 * WSL: ubuntu
 * LinkedIn: bio
 * SacSem: email to post
