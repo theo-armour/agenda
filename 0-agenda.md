@@ -18,6 +18,8 @@
 ## SOON
 
 * ?
+* Martha Meet
+* Praveen: meet
 * tania
 * Mia: Tuesday 
 * WSL: ubuntu
@@ -30,10 +32,8 @@
 
 * ?
 * Lawrence: call ~ condition
-* Roxanna: meet
-* Praveen: meet
+* Roxanna: meet Wednesday 
 * RandyG: agenda: building ~ non disclosure
-* Martha Meet
 * Granucci: drive
 * 6 pm exercise
 * DWA: no tax money
