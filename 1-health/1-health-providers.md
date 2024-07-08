@@ -26,31 +26,13 @@ What's here?
 
 ## UCSF Dental
 
-## UCSF 
-
-## \* see dentistry
+* see dentistry
 
 ## Primary Care
 
-### Mary Martin, MD, PCP
+See PPH
 
-* 3490 California Street, Suite 200, San Francisco, CA 94118
-* Fax: (415) 514-6410
-* 415 514 6200
-* Lindsay Grace Mann NP
-
-More
-
-* best mneumonic
-* names of conditions
-* Aspirin ibu or aleive?
-* Rotate meds
-* Exercises
-* Ongoing hip issues
-* Quarterly report
-* Bladder MRI
-
-### Dr Collen-Price
+### Neorology ~ Dr Collen-Price
 
 * Sciatica ~ See 2020 Notes
 

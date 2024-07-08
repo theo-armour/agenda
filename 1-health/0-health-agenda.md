@@ -8,12 +8,12 @@
 * Dermatology exam ~ Dr Fassett: August 20 3:40 ~ 185 Berry Ste 1000
 * PPH > Gary: 08/26/2024 10:30 am
 * Dr Vaderhibli: 11:30 August 26
+* Dr Yoga: 09/12 3:00
 
 ## Agenda
 
 * Statins?
 * Dr Immerman: shoulder ortho referral
-* [Medicare Supplement dental plans | Blue Shield Medicare (blueshieldca.com)](https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental)
 * EmpowerMe: PT referral
 * [https://www.alignmenthealthplan.com/](https://www.alignmenthealthplan.com/) ~ free lunch?
 

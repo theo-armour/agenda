@@ -13,12 +13,13 @@ Agenda
 * 1 Dermatofibroma
 * why did red areas on ankles disappear
 
+
 ## Fassett, Marlys Stempihar, MD ~ Dermatology UCSF
 
 * Hours 9 to 5
 * (415) 353-7800 ~ 2 ~ 1 ~ 1 ~ 2
-* [https://www.ucsfhealth.org/providers/dr-marlys-fassett](https://www.ucsfhealth.org/providers/dr-marlys-fassett)
-* [https://profiles.ucsf.edu/marlys.fassett](https://profiles.ucsf.edu/marlys.fassett)
+* https://www.ucsfhealth.org/providers/dr-marlys-fassett
+* https://profiles.ucsf.edu/marlys.fassett
 * Dermatology Clinic at China Basin
 * 185 Berry St., Lobby 1, Suite 1000, San Francisco, CA 94107
 * Dermatology Clinic at Mount Zion

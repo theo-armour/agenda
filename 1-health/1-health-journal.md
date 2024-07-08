@@ -2,7 +2,7 @@
 
 ## 2024-06-29
 
-\* 2024-06-?-Pneumonia vaccine
+* 2024-06-?-Pneumonia vaccine
 
 ## 2024-06-06
 
@@ -11,6 +11,20 @@
 ## 2024-06-03
 
 * PPH: Gary visit: Pneumonia?? Dr Immerman
+
+## Medicare
+
+* https://www.medicare.go
+
+
+### 2023
+
+* $527.50
+* $70
+
+Total
+
+* $593.70 * 12 = $7,124.40
 
 ## 2023-12-04
 
@@ -151,3 +165,21 @@ Vitamins D & 12: see attached image
 Looking forward to see what Accent Care may offer with wellness ideas
 
 Theo
+
+### Mary Martin, MD, PCP
+
+* 3490 California Street, Suite 200, San Francisco, CA 94118
+* Fax: (415) 514-6410
+* 415 514 6200
+* Lindsay Grace Mann NP
+
+More
+
+* best mneumonic
+* names of conditions
+* Aspirin ibu or aleive?
+* Rotate meds
+* Exercises
+* Ongoing hip issues
+* Quarterly report
+* Bladder MRI

@@ -1,5 +1,7 @@
 # Health Reference
 
+_Combine with 1-health-journal_
+
 ## History
 
 * 1954 ~ Fractured tibia

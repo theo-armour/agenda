@@ -1,21 +1,19 @@
 # Insurance
 
+## Agenda
+
+
+### Dental ??
+
+* https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental
+
+
 ## Medicare
 
-https://www.medicare.go
-
+* https://www.medicare.go
 * Premium $382.70
 * 6JH8-QR9-YX43
 * Part A & B
-
-### 2023
-
-* $527.50
-* $70
-
-Total
-
-  * $593.70 * 12 = $7,124.40
 
 
 ## Blue Shield
@@ -38,6 +36,7 @@ Total
 Member #G6C825534 ~ 1-866-552-6106
 
 https://www.caremark.com/ ~ payments 1 866 237 7373
+
 
 ### Member ID card
 
