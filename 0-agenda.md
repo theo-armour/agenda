@@ -29,7 +29,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
-* Lawrence: quote ~ Cadogan web site
+*   
 * Standing Desk: contact 
 * Roxanna: meet
 * Praveen: meet
