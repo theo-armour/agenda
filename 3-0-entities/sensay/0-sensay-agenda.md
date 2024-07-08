@@ -1,36 +1,18 @@
 # Sensay
 
+* https://github.com/sensay-io
 * https://sensay.io/me/create
+* https://discord.com/channels/1195279749870792765/1240652769489321994
 * https://docsend.com/view/hpgxrsxyx7mzt9fd
+* https://www.instagram.com/asksensay
 
 ## Agenda
 
-* install WSL
+* Work on the About page
+* Build the Sensay.GitHub.io website
+* Install WSL
 * Update Python
 * Think monetization
-
-## 2024-06-23
-
-* https://tldv.io/app/meetings/66740bbfca32990013ae2185
-
-## 2024-06-09 Agenda
-
-* Buy shares OpenAI?
-* Sell the data
-* Must have voice driven capability
-* Prettify the text
-* Must have a mobile app
-* Access you social networks and email and SMS
-* Location, fitness, music, and photos
-
-More
-
-* Site Review
-* GEDCOM Review compatibility
-* HIPPA Compliance?
-* Google Fit compatible
-* Email, calendar, contacts, and photos compatible
-* ReCall
 
 ## Replica ~ Personal Background and Family
 
