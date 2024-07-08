@@ -19,7 +19,7 @@
 
 * ?
 * Martha Meet
-* Praveen: meet
+*   
 * tania
 * Residents Council: minutes
 * Kayakomat: sign docs
