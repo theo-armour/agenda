@@ -30,9 +30,10 @@
 
 * ?
 * Lawrence: call ~ condition
-* Standing Desk: contact 
+*   
 * Roxanna: meet
 * Praveen: meet
+* RandyG: agenda: building ~ non disclosure
 * Martha Meet
 * Granucci: drive
 * 6 pm exercise
