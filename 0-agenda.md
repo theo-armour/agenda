@@ -19,7 +19,7 @@
 
 * ?
 * Allison + tania
-* Mia
+* Mia: Tuesday 
 * WSL: ubuntu
 * LinkedIn: bio
 * SacSem: email to post
