@@ -27,7 +27,6 @@
 * Stout Books: 415 391 6757 804 Montgomery
 * Martha Meet
 * Tom Jones: books \_ tour
-*   
 * Residents Council: minutes
 * Mia: Tuesday 
 * WSL: ubuntu
