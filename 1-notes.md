@@ -2,6 +2,10 @@
 
 ??
 
+Santa Claus national Park Spicer Meadows reservoir 
+
+  
+
 Patrick: notes, 100 year, house
 
 California historical society visit
