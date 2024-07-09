@@ -14,14 +14,12 @@
 * Sensay: telegram whois
 * Sensay: 3D
 * ## 2024-07-08
-*   
-* \* Granucci stories
+* * \* Granucci stories
 * \* Heritage Happenings Calendar
 * \* Three Roses
 * \* Wikipedia articles ~ JM ~ San Francisco Ladies Protection and Relief Society
 * \* GitHub
-*   
-* Ham Radio: take notes
+* * Ham Radio: take notes
 
 ## SOON
 
@@ -29,7 +27,7 @@
 * Stout Books: 415 391 6757 804 Montgomery
 * Martha Meet
 * Tom Jones: books \_ tour
-* tania
+*   
 * Residents Council: minutes
 * Mia: Tuesday 
 * WSL: ubuntu
