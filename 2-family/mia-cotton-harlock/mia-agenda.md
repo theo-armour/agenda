@@ -1,5 +1,6 @@
 # Maia Harlock Agenda
 
+* miaharlock@gmail.com
 
 ## 2024-06-23
 
