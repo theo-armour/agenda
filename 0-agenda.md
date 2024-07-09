@@ -22,7 +22,7 @@
 *   
 * tania
 * Residents Council: minutes
-* Kayakomat: sign docs
+*   
 * Mia: Tuesday 
 * WSL: ubuntu
 * LinkedIn: bio
