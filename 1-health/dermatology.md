@@ -9,12 +9,20 @@ Agenda
 ## Remember
 
 * Next: add a list of interesting things to look at as the first item. Otherwise, it is too easy to overlook
+## Questions
+
+* See: 2023-06-01-fassett-report.md
+* What made red skin go away?
+* Rash cream
+* Aquaphor or Eucerin?
+* Identify laces where things grow on head
 * 4 warts
 * 1 Dermatofibroma
-* why did red areas on ankles disappear
+* why did red areas on right ankles disappear
+* What about dark patch on inside of left ankle
 
 
-## Fassett, Marlys Stempihar, MD ~ Dermatology UCSF
+## Dermatology UCSF ~ Fassett, Marlys Stempihar, MD
 
 * Hours 9 to 5
 * (415) 353-7800 ~ 2 ~ 1 ~ 1 ~ 2
@@ -26,13 +34,7 @@ Agenda
 * 1701 Divisadero St., Third and Fourth Floors, San Francisco, CA 94115
 * China Basin 4.4 miles **Mt Zion 1.8 miles** 
 
-## Questions
 
-* See: 2023-06-01-fassett-report.md
-* What made red skin go away?
-* Rash cream
-* Aquaphor or Eucerin?
-* Identify laces where things grow on head
 
 ## chatGPT
 
@@ -42,8 +44,8 @@ Agenda
 
 ## websites
 
-* [https://theo-armour.github.io/pages/#04-health-and-fitness/medicine/skin.md](https://theo-armour.github.io/pages/#04-health-and-fitness/medicine/skin.md)
-* [https://en.wikipedia.org/wiki/Dermatology](https://en.wikipedia.org/wiki/Dermatology)
+* https://theo-armour.github.io/pages/#04-health-and-fitness/medicine/skin.md
+* https://en.wikipedia.org/wiki/Dermatology
 * American academy of dermatology
 * DermNZ
 

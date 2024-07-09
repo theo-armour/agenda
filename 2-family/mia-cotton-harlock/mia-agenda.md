@@ -18,9 +18,16 @@ I'm looking forward to collaborating with you. Can I pay you via PayPal or Zelle
 
 I also look forward to lunch on Friday. Is noon OK? Wil it be just you and Cynthia?
 
-Super Excuse me, it's, it's 4 awake. She said in the chair. She's in bed. OK, but she's awake. OK, OK, OK 1 
 
 
+## 2024-07-08
+
+* Granucci stories
+* Heritage Happenings Calendar
+* Sensay
+* Three Roses
+* Wikipedia articles ~ JM ~ San Francisco Ladies Protection and Relief Society
+* GitHub
 
 
 

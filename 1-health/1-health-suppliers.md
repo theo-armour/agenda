@@ -2,7 +2,7 @@
 
 ## Agenda
 
-* Move to Heritage sup[lier?]
+* Move to Heritage supplier?
 
 ## CVS
 

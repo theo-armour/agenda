@@ -1,5 +1,6 @@
 # 2023-06-01 Dr Fassett Report
 
+_too long and to detailed_
 ## Concept
 
 * A report to Dr Fassett on my skin and health

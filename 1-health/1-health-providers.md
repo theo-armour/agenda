@@ -6,6 +6,7 @@ What's here?
 
 * Contacts and phone numbers?
 
+
 ## Want Coaches for
 
 * Health: Dr Martin
@@ -17,7 +18,10 @@ What's here?
 * Content production: ??
 * Admin: HotM
 
-## Pine Park Health ~ see 2-pph.md
+
+## Primary Care
+
+See PPH
 
 ### Not to forget
 
@@ -28,40 +32,23 @@ What's here?
 
 * see dentistry
 
-## Primary Care
-
-See PPH
-
-### Neorology ~ Dr Collen-Price
+### Neurology ~ Dr Collen-Price
 
 * Sciatica ~ See 2020 Notes
 
 ## UCSF Dermatology
 
-### Fassett, Marlys Stempihar, MD
+See dentistry.md
 
-* June 6
-* best cream
-* list points of interest
-* Dermatology UCSF
-* (415) 353-7800
+## UCSF Gastroenterology
 
-## UCSF Gastro
-
-See colonoscopy.md
+See gastroenterology.md
 
 ## UCSF Ophthalmology
 
-### Dr Erika Mae Reyes
+See opthalmology.md
 
-### Dr Emily Eng / Dr Han
 
-See eyes.md
-
-* Appointment January 25 2023 @ 3
-* Last appointment 2021-09-27
-
-### Han, Ying, MD ~ Ophthalmology ~ (415) 353-2800 ~ 533 Parnassus avenue / 5th floor ~ UCSF
 
 ## UCSF Surgery
 
@@ -89,12 +76,13 @@ See eyes.md
 
 * 1480 Sutter Street, San Francisco CA 94109 ~ 415 567 3136
 
-### Dr Maureen Lea / Dr Marino
+
+## Colon Surgery
 
 * UCSF General Surgery ~ 415 353 2161 ~ Diana
 * Angela Laffen, van Loon, Erin van Blarigan
 
-## Alternatives
+## Alternatives Geriatrics
 
 ### Carolyn Welty
 
@@ -108,36 +96,7 @@ See eyes.md
 
 ## Heritage
 
-Fax number: 415-580-7151
 
-Cindy Chen
-
-## Pharmacies
-
-### CVS
-
-[https://www.caremark.com/](https://www.caremark.com/)
-
-* RxBIN 004336
-* RxPCN MEDDADV
-* RxGRP RXCVSD
-* Issuer 9151014609
-* ID G6C825534
-* Name NORMAN ARMOUR
-
-CVS Caremark MAILSERVICE Pharmacy - Scottsdale, AZ - 9501 E Shea Blvd AT Portal to Registered Caremark Sites 9501 E Shea Blvd Scottsdale AZ 85260 877-864-7744
-
-### Walgreens ~ 415 362 5227
-
-Walgreens - CHANDLER, AZ - 2225 S PRICE RD 2225 S PRICE RD CHANDLER AZ 85286-7201 888-447-9313
-
-### Safeway Pharmacy (415) 563-8681
-
-## AllianceRx
-
-800-345-1985 Call after 5pm!
-
-2021-02-08 Order Number WF9F96A TRIAMCINOLONE 0.1% CREAM 454GM 877 250-5823
 
 ## UCSF Willed Body ~ (415) 476-1981
 

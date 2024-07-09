@@ -3,23 +3,23 @@
 ## Appointments
 
 * ?
-* Glaucoma exam ~ Appointment ~ 490 Illinois Flr 4
 * Colonoscopy ~ Dr Kattah: 25 July 9:30 1600 Divisadero B123
 * Dermatology exam ~ Dr Fassett: August 20 3:40 ~ 185 Berry Ste 1000
 * PPH > Gary: 08/26/2024 10:30 am
 * Dr Vaderhibli: 11:30 August 26
 * Dr Yoga: 09/12 3:00
+* September: Glaucoma exam
 
 ## Agenda
 
 * Statins?
-* Dr Immerman: shoulder ortho referral
 * EmpowerMe: PT referral
-* [https://www.alignmenthealthplan.com/](https://www.alignmenthealthplan.com/) ~ free lunch?
+* Margaret Jacobs: https://www.alignmenthealthplan.com/ ~ free lunch?
+
 
 ## Work-in-progress
 
-* [https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc](https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc)
+* https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc
 * Statins
 * Shoulder ortho
 * Hyperkyphosis
@@ -37,7 +37,7 @@ See 1-heritage/health/0-health-agenda
 
 Martha Nkhoma
 
-* MapFollow-up on email of
+* Follow-up on email of
 * Staffing hours & levels
 * Anticipated costs
 
