@@ -2,9 +2,55 @@
 
 ??
 
-Santa Claus national Park Spicer Meadows reservoir 
+30 residents present
+
+Survey care pleased
+
+Non-ambulatory soon license
+
+Functionally non-
+
+3 years work
+
+2035 1st quarter permit , affiliate must preserve culture 
+
+Rox 18 jul
+
+Brittany: yasin
+
+Casey: account March financial 25 July
+
+Yardi migration October 2024
+
+23 audit
+
+14 Aug 
+
+Praveen lvn CNA Kayla ware
+
+No map!!
+
+Wander guards
+
+Tracker GPS
+
+Replica talks to EMT 
+
+Care plan
+
+Physician report update 
+
+Hospice Friday 11am
+
+Pharma america
+
+Hector:
 
   
+
+  
+
+Santa Claus national Park Spicer Meadows reservoir 
 
 Patrick: notes, 100 year, house
 
