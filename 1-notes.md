@@ -30,6 +30,16 @@ Praveen lvn CNA Kayla ware
 
 No map!!
 
+Wander guards
+
+Tracker GPS
+
+Replica talks to EMT 
+
+Care plan
+
+  
+
   
 
 Santa Claus national Park Spicer Meadows reservoir 
