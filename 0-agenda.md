@@ -11,19 +11,13 @@
 
 * ?
 *   
-* Sensay: telegram whois
-* Sensay: 3D
-* ## 2024-07-08
-* \* Granucci stories
-* \* Heritage Happenings Calendar
-* \* Three Roses
-* \* Wikipedia articles ~ JM ~ San Francisco Ladies Protection and Relief Society
-* \* GitHub
 * \* Ham Radio: take notes
 
 ## SOON
 
 * ?
+* Sensay: 3D
+* Sensay: telegram whois
 * Samsung : insurance (800) 726-7864
 * Stout Books: 415 391 6757 804 Montgomery
 * Martha Meet
