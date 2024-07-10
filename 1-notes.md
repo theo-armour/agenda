@@ -44,7 +44,7 @@ Hospice Friday 11am
 
 Pharma america
 
-  
+Hector:
 
   
 
@@ -63,8 +63,6 @@ Helsinki declaration 1964 research ethics
 Right to be forgotten GDPR 
 
 Got it
-
-  
 
 Charlie 
 
