@@ -24,7 +24,9 @@ Yardi migration October 2024
 
 23 audit
 
-  
+14 Aug 
+
+Praveen lvn CNA Kayla ware
 
   
 
