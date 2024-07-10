@@ -2,9 +2,33 @@
 
 ??
 
-Santa Claus national Park Spicer Meadows reservoir 
+30 residents present
+
+Survey care pleased
+
+Non-ambulatory soon license
+
+Functionally non-
+
+3 years work
+
+2035 1st quarter permit , affiliate must preserve culture 
+
+Rox 18 jul
+
+Brittany: yasin
+
+Casey: account March financial 25 July
+
+Yardi migration October 2024
+
+23 audit
 
   
+
+  
+
+Santa Claus national Park Spicer Meadows reservoir 
 
 Patrick: notes, 100 year, house
 
@@ -17,6 +41,8 @@ Helsinki declaration 1964 research ethics
 Right to be forgotten GDPR 
 
 Got it
+
+  
 
 Charlie 
 
