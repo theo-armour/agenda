@@ -38,6 +38,14 @@ Replica talks to EMT 
 
 Care plan
 
+Physician report update 
+
+Hospice Friday 11am
+
+Pharma america
+
+  
+
   
 
   
