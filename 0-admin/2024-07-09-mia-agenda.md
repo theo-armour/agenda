@@ -4,6 +4,7 @@
 
 * Mia gains entry into GitHub repositories & gains familiarity
 * Theo explains structure of the data
+* Establish a priority or two
 
 
 ## Heritage Happenings

@@ -1,5 +1,6 @@
 # 0-2024-taxes-agenda
 
+* 11,600 per moth
 ## IRS
 
 * https://www.irs.gov/your-account
