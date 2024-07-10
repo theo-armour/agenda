@@ -24,6 +24,8 @@
 ## SOON
 
 * ?
+
+* Samsung : insurance (800) 726-7864
 * Stout Books: 415 391 6757 804 Montgomery
 * Martha Meet
 * Tom Jones: books \_ tour
@@ -41,7 +43,7 @@
 * ?
 * Lawrence: call ~ condition
 * Roxanna: meet Wednesday 
-* RandyG: agenda: building ~ non disclosure
+* RandyG: agenda: building ~ minutes non disclosure ~ 100th anniversary
 * Granucci: drive
 * 6 pm exercise
 * DWA: no tax money
