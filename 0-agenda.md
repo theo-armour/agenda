@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-* Sensay: telegram tips
+*   
 * Sensay: telegram whois
 * Sensay: 3D
 * ## 2024-07-08
@@ -24,7 +24,6 @@
 ## SOON
 
 * ?
-
 * Samsung : insurance (800) 726-7864
 * Stout Books: 415 391 6757 804 Montgomery
 * Martha Meet
