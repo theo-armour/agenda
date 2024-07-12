@@ -15,9 +15,7 @@
 ## SOON
 
 * ?
-* Randy Gridley
-*   
-* Martha Meet
+* Martha Meet  
 * Shammah: 
 * Tom Jones: books \_ tour
 * Sensay: 3D
