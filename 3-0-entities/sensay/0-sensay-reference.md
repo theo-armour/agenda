@@ -2,6 +2,10 @@
 
 Stack
 * https://github.com/sensay-io/www
+* https://linear.app/sensay/issue/MKT-83/find-existing-communities-around-digital-immortality-and-get-involved
+* https://docs.google.com/document/d/1x8E_F3qVJ8eh_2A4kB1osZCDVDB8tJtnT2e6K6vCMjE/edit#heading=h.f2w32c6551tq
+* https://docs.google.com/document/d/1x8E_F3qVJ8eh_2A4kB1osZCDVDB8tJtnT2e6K6vCMjE/edit
+
 
 Our stack is:
 
@@ -22,3 +26,7 @@ Our stack is:
 Effortlessly produce studio-quality videos with AI-generated avatars and voices.
 
 * https://www.heygen.com/
+
+## Marco
+
+* https://calendly.com/bettiolo
