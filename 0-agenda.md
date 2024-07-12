@@ -15,29 +15,28 @@
 ## SOON
 
 * ?
+* Rod + Hailey
+* Gene++: photo
 * Martha Meet
 * Shammah: 
-* Tom Jones: books \_ tour
+* Tom Jones: books ~ tour
+* SacSem: email to post
 * Sensay: 3D
 * Sensay: telegram whois
 * Stout Books: 415 391 6757 ~ 804 Montgomery
 * WSL: ubuntu
 * LinkedIn: bio
-* SacSem: email to post
+* Roxanna: meet Wednesday 
+* RandyG: agenda: building ~ minutes non disclosure ~ 100th anniversary
+* Granucci: drive
+* Lotusia.org
 
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
-* Lawrence: call ~ condition
-* Roxanna: meet Wednesday 
-* RandyG: agenda: building ~ minutes non disclosure ~ 100th anniversary
-* Granucci: drive
-* Lotusia.org
-* 6 pm exercise
 * DWA: no tax money
-*   
 * bean citibank: sign in
 
 <details open=""><summary>Admin Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a><br></p></details>
