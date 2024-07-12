@@ -16,7 +16,7 @@
 
 * ?
 * Rod + Hailey
-* Gene++: photo
+*   
 * Martha Meet
 * Shammah: 
 * Tom Jones: books ~ tour
