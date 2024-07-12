@@ -16,8 +16,7 @@
 
 * ?
 * Randy Gridley
-*   
-* Mia: Tuesday 
+* Mia: Tuesday   
 * Martha Meet
 * Shammah: 
 * Tom Jones: books \_ tour
@@ -25,8 +24,6 @@
 * Sensay: telegram whois
 * Samsung : insurance (800) 726-7864
 * Stout Books: 415 391 6757 804 Montgomery
-*   
-*   
 * WSL: ubuntu
 * LinkedIn: bio
 * Drop subscriptions ~ Samsung
