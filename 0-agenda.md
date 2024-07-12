@@ -16,7 +16,7 @@
 
 * ?
 * Randy Gridley
-* Mia: Tuesday   
+*   
 * Martha Meet
 * Shammah: 
 * Tom Jones: books \_ tour
