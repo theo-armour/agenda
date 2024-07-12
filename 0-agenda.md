@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-* \* \* Ham Radio: take notes
+* Ham Radio: take notes
 
 ## SOON
 
