@@ -16,7 +16,8 @@
 
 * ?
 * Randy Gridley
-*   
+* Alix
+* Laura
 * Mia: Tuesday 
 * Martha Meet
 * Shammah: 
