@@ -16,8 +16,6 @@
 
 * ?
 * Randy Gridley
-*   
-* Praveen
 * Bennet: Rob email
 * Sensay: 3D
 * Sensay: telegram whois
