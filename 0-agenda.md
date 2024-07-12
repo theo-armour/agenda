@@ -10,11 +10,14 @@
 ## Today
 
 * ?
-* * \* Ham Radio: take notes
+* \* \* Ham Radio: take notes
 
 ## SOON
 
 * ?
+* Randy Gridley
+* Kathy
+* Praveen
 * Bennet: Rob email
 * Sensay: 3D
 * Sensay: telegram whois
