@@ -15,11 +15,10 @@
 ## SOON
 
 * ?
-* Rod + Hailey
 *   
 * Martha Meet
 * Shammah: 
-* Tom Jones: books ~ tour
+* Tom Jones: books ~ SF tours
 * SacSem: email to post
 * Sensay: 3D
 * Sensay: telegram whois
