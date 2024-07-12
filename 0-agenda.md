@@ -16,7 +16,7 @@
 
 * ?
 * Randy Gridley
-* Kathy
+*   
 * Praveen
 * Bennet: Rob email
 * Sensay: 3D
