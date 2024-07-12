@@ -16,10 +16,9 @@
 
 * ?
 * Randy Gridley
-* Ange: Morris beef
+*   
 * Mia: Tuesday 
 * Martha Meet
-*   
 * Shammah: 
 * Tom Jones: books \_ tour
 * Sensay: 3D
