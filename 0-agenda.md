@@ -19,7 +19,7 @@
 * Ange: Morris beef
 * Mia: Tuesday 
 * Martha Meet
-* Residents Council: minutes
+*   
 * Shammah: 
 * Tom Jones: books \_ tour
 * Sensay: 3D
