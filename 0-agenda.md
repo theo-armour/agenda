@@ -17,7 +17,7 @@
 * ?
 *   
 * Martha Meet
-* Shammah: 
+*   
 * Tom Jones: books ~ SF tours
 * SacSem: email to post
 * Sensay: 3D
