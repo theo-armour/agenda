@@ -15,7 +15,8 @@
 ## SOON
 
 * ?
-*   
+* Randy Morgan:
+* Sensey 
 * Martha Meet
 * Tom Jones: books ~ SF tours
 * SacSem: email to post
@@ -25,7 +26,7 @@
 * WSL: ubuntu
 * LinkedIn: bio
 * Roxanna: meet Wednesday 
-* RandyG: agenda: building ~ minutes non disclosure ~ 100th anniversary
+* RandyGridley: agenda: building ~ minutes non disclosure ~ 100th anniversary
 * Granucci: drive
 * Lotusia.org
 
