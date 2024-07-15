@@ -15,6 +15,7 @@
 ## SOON
 
 * ?
+* Randy Morgan:
 * Sensey 
 * Martha Meet
 * Tom Jones: books ~ SF tours
