@@ -2,21 +2,42 @@
 
 ## What Color is Your ~~Parachute~~ Immortality?
 
+## 2024-07-15 Preface
+
+I'm just jumping here. I have not yet acquired an overall map or picture of of the landscape of the world of Sensay. Please let me know if any of the following "belongs" somewhere.
+
+Also, the following thoughts are not yet fully baked. If you find any to be of interest, please let me know and I will try to develop them further.
+
+Also, if any do become "badges of honor" in a gmification process, as I hope some will, I will be pleased to collaborate with community managers in monitoring and responding to user communications.
+
 ## Introduction
 
-I am no psychologist, but I guess would understand the idea that people have multiple facets or sides to their personalities, endeavors and dreams. Many of these aspects have elements that might be logged and are replicable. These might include Big 5 personality traits, political compass,social network activity and other psychological and anthropological aspects of a person.
+I am no psychologist, but I guess would a psychologist would concur with the idea that people have multiple facets or sides to their personalities, endeavors and dreams. Many of these aspects have elements that might be logged and are replicable.
 
-Another way lens (hermeneutic) for building a replica might be aspects of something like film or book genres, are there aspects of a film noir, or sitcom or a romance that could be used to build a replica of a person.
+Currently, I am thinking of three lenses or hermeneutics that might be used to build up the psychology of a replica.
 
-A third lens might be more like a tone or a color, are there aspects of a person that are more like a color or a tone that could be used to build a replica of a person. These easpects might be derived from aspects such as faovrite songs, book they like, or the way they dress.
+https://en.wikipedia.org/wiki/Hermeneutics
 
-In the long term all of these aspects become useful and prodyctive in building an authentic and useful replica of a person.
+The fist might include Big 5 personality traits, political compass, social network activity and other psychological and anthropological aspects of a person.
+
+Another way lens for building up the psychology of a replica might be aspects of attire, milieu and ephemera.
+
+something like film or book genres, are there aspects of a film noir, or sitcom or a romance that could be used to build a replica of a person.
+
+A third lens might be more like a tone or a color, are there aspects of a person that are more like a color or a tone that could be used to build a replica of a person. These aspects might be derived from aspects such as favrite songs, book they like, or the way they dress.
+
+In the long term all of these aspects become useful and productive in building an authentic and useful replica of a person.
 
 But what about in the short term right here in the middle of 2024?
 
 My guess is that some of the following topics could be used to create the basis of a fun way of entering data in the system that also helps you gain a badge or earn game points.
 
 I could see some of the items being to create multiple choice quizzes
+
+
+## Rewarding Results
+
+When you take a well structured quiz you receive insight and feedback about yourself. We should look for quizzes where we can obtain the results and insights and use them as a basis for creating a replica of a person.
 
 
 ## Assumptions
@@ -32,13 +53,18 @@ See also: https://asksensay.medium.com/the-ethical-crossroads-of-digital-immorta
 
 This document is a first attempt to identify some of the many possible replicas of a person.
 
-There are two sections to this document. The first section is a list of possible replicas templates". The second section is a list of possible "tones" for replicas.
+There are three sections to this document.
+
+* The first section is a list of possible replicas templates".
+
+* The second section is a list of possible "tones" for replicas.
+
 The items ae in alphabetical order and are not intended to be exhaustive or definitive.
 
-Perhaps one could say the first section is the JavaScript and the second section is the CSS.
+Perhaps one could say the first section is the HTML, the second is the JavaScript and the third section is the CSS.
 
 
-## Replica Templates
+## 1. Replica Personas
 
 Replicas will have a certain form, template, boilerplate. or tradition. This section begins to delineate some of the possible templates for replicas.
 
@@ -114,7 +140,7 @@ You are your health records
 * XRAYs, MRI scans, Inoculation records
 
 
-## Docufiction
+## Docu-fiction
 
 People may choose to an imaginary aspects to their replica
 
@@ -142,7 +168,7 @@ Let's say you are living under a false identity. You may need to create a backgr
 
 ## Legacy Replicas
 
-* from will amd trusts and other legal documents
+* From will amd trusts and other legal documents
 
 
 ## LinkedIn Replicas
@@ -199,7 +225,8 @@ There are moments in your life that are extremely vivid. You can describe them i
 * Company bio
 * Your obituary and memorials
 
-***
+
+## 2. Persona Appearance
 
 Secondary aspects of you: accouterments, tones, interpretations
 
@@ -242,6 +269,8 @@ Your replica may appear in different ways depending on the context
 * You are a skill
 
 
+## Replica Tones or Moods
+
 ## Psychology
 
 * Where are you on the Big 5
@@ -250,7 +279,7 @@ Your replica may appear in different ways depending on the context
 
 ## Anthropology
 
-* What rules do I Follow
+* What rules do I follow?
 * Shiite Law
 * Youmanai law
 
@@ -258,9 +287,9 @@ Your replica may appear in different ways depending on the context
 
 ## Closing
 
-* now that I know you how can I help?
+* Now that I know you how can I help?
 * What vision do I have for your replica?
-* Am I anything more tha n your drinking buddy?
+* Am I anything more than your drinking buddy?
 
 
 ## Call to action
