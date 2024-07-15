@@ -1,5 +1,22 @@
 # 2024-07-07 Sensay Journal
 
+
+## 2024-07-15
+
+text dropped from 1-digital-immortality
+
+
+There is you and then there is a replica of you.
+
+* In the 1980s I help China learn how to used computers to design products and factories
+* In the 1990s I help architects and engineers transition from paper to CAD
+* In the 2010s I help the Web get going on interactive 3D in the browser
+
+in the 2020, my mission is to help you live or your replica forever.
+
+;-)
+
+
 ## 2024-07-07
 
 * Exploring Telegram
