@@ -15,7 +15,6 @@
 ## SOON
 
 * ?
-*   
 * Martha Meet
 * Tom Jones: books ~ SF tours
 * SacSem: email to post
