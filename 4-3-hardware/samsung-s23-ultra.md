@@ -1,6 +1,16 @@
 # Samsung Galaxy S24 Ultra
 
 
+## Samsung Fold3 Insurance
+
+* samsungmxcare@servify.tech
+* https://samsung-us.servify.tech/devices
+
+* 833-690-0918
+* 866 371 9501
+* Ticket#: 1147326044
+* Claim https://1drv.ms/b/s!ArJ-RZ9B4UhDxb4MdatXZSxtwn0p0Q?e=lnevV1
+* https://v3.account.samsung.com/dashboard/profile
 
 ## Samsung Galaxy S23 Ultra
 

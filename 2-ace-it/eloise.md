@@ -3,6 +3,15 @@
 * [https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md](https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md)
 * Eloise: Silver: send it? Address?
 
+
+## 2024-07-12
+
+* Alix ~ Floris
+* Fires?
+* Graduation
+* Studies
+* David
+
 ## 2024-05-04
 
 * Training
