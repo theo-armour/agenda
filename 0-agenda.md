@@ -25,7 +25,7 @@
 * WSL: ubuntu
 * LinkedIn: bio
 * Roxanna: meet Wednesday 
-* RandyG: agenda: building ~ minutes non disclosure ~ 100th anniversary
+* RandyGridley: agenda: building ~ minutes non disclosure ~ 100th anniversary
 * Granucci: drive
 * Lotusia.org
 
