@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>1-digital-immorality.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+<link rel="stylesheet" href="file:///c%3A/Users/tarmo/OneDrive/Documents/GitHub/markdown-pdf.css" type="text/css"><link rel="stylesheet" href="file:///c%3A/Users/tarmo/OneDrive/Documents/GitHub/theo-armour-agenda/3-0-entities/sensay/markdown-pdf.css" type="text/css">
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1>1-digital-immortality</h1>
+<h2>What Color is Your <s>Parachute</s> Immortality?</h2>
+<h2>2024-07-15 Preface</h2>
+<p>I'm just jumping here. I have not yet acquired an overall map or picture of of the landscape of the world of Sensay. Please let me know if any of the following &quot;belongs&quot; somewhere. Once I understand the landscape of how the mind of the replica is going to be build, stored and updated I will adapt these thoughts to suit the terrain.</p>
+<p>The following thoughts are not yet fully baked. If you find any to be of interest, please let me know and I will try to develop them further.</p>
+<p>Also, if any do become &quot;badges of honor&quot; in a gamification process, as I hope some will, I will be pleased to collaborate with community managers in monitoring and responding to user communications.</p>
+<h2>Introduction</h2>
+<p>I am no psychologist, but I guess would a psychologist would concur with the idea that people have multiple facets or sides to their personalities, endeavors and dreams. Many of these aspects have elements that might be logged and are replicable.</p>
+<p>Currently, I am thinking of three lenses or hermeneutics that might be used to build up the psychology of a replica.</p>
+<p>https://en.wikipedia.org/wiki/Hermeneutics</p>
+<p>The fist might include Big 5 personality traits, political compass, social network activity and other psychological and anthropological aspects of a person.</p>
+<p>Another way lens for building up the psychology of a replica might be aspects of attire, milieu and ephemera.</p>
+<p>something like film or book genres, are there aspects of a film noir, or sitcom or a romance that could be used to build a replica of a person.</p>
+<p>A third lens might be more like a tone or a color, are there aspects of a person that are more like a color or a tone that could be used to build a replica of a person. These aspects might be derived from aspects such as favrite songs, book they like, or the way they dress.</p>
+<p>In the long term all of these aspects become useful and productive in building an authentic and useful replica of a person.</p>
+<p>But what about in the short term right here in the middle of 2024?</p>
+<h2>Rewarding Results</h2>
+<p>My guess is that some of the following topics could be used to create the basis of a fun way of entering data in the system that also helps you gain a badge or earn game points.</p>
+<p>I could see some of the items being to create multiple choice quizzes</p>
+<p>When you take a well structured quiz you receive insight and feedback about yourself. We should look for quizzes where we can obtain the results and insights and use them as a basis for creating a replica of a person.</p>
+<h2>Chatbot by Chatbot</h2>
+<p>The thrust of this paper is that the replica of a person is not built by a single chatbot but a collection of chatbots. Each chatbot handles an aspect a replica of a person in a particular context.</p>
+<p>The chatbots are not just a collection of chatbots but a collection of chatbots that are aware of each other and can interact with each other.</p>
+<h2>Assumptions</h2>
+<p>At no time does Sensay ask for data that Sensay cannot keep and protect up to the level of the source of the data.. In other words any medical data should be protect up to HIPPAA, GDPR, PIPL standards. Any Banking data should be up to PCI DSS, ISO/IEC 27001, SWIFT CSP standards. So it take a while before Sensay can accept data from such sources. We must be careful about asking for such data until we can protect it from access by naughty people</p>
+<p>You should be able to download your data and be able to delete your data at any time.</p>
+<p>See also: https://asksensay.medium.com/the-ethical-crossroads-of-digital-immortality-5-key-challenges-the-technology-faces-e85da2728e48</p>
+<h2>Document Structure</h2>
+<p>This document is a first attempt to identify some of the many possible replicas of a person.</p>
+<p>There are three sections to this document.</p>
+<ul>
+<li>The first section is a list of possible replicas templates for persona.</li>
+<li>The second section is a list of possible appearances, attire or accouterments for replicas.</li>
+<li>The third section is a list of possible &quot;tones&quot; for replicas.</li>
+</ul>
+<p>The items ae in alphabetical order and are not intended to be exhaustive or definitive.</p>
+<p>Where possible items include some of the data sources that might be used to create them. These in turn could lead to partnerships with companies that have access to such data.</p>
+<p>Perhaps one could say the first section is the HTML, the second is the JavaScript and the third section is the CSS.</p>
+<h2>1. Replica Personas</h2>
+<p>Replicas will have a certain form, template, boilerplate. or tradition. This section begins to delineate some of the possible templates for replicas -</p>
+<p>Links</p>
+<ul>
+<li>https://en.wikipedia.org/wiki/Persona</li>
+</ul>
+<h3>Ancestral replicas</h3>
+<p>Somebody in your family, perhaps even you have assembled a family genealogy.
+Occasionally these contain large amounts of personal information that might ne used to acquire much useful data for a replica including dates, addresses, and relatives</p>
+<p>Replicas created from the knowledge of one's ancestors.</p>
+<p>Links</p>
+<ul>
+<li>https://en.wikipedia.org/wiki/Genealogy</li>
+<li>https://geni.com
+&amp; https://www.ancestry.com/</li>
+<li>https://www.myheritage.com/</li>
+<li>https://www.23andme.com/</li>
+</ul>
+<h3>Avatar Replicas</h3>
+<p>Maybe you are a gamer, can your replicas be enhanced by the data of your online activities?</p>
+<p>Links</p>
+<ul>
+<li>https://en.wikipedia.org/wiki/Avatar_(computing)</li>
+<li>https://secondlife.com/</li>
+<li>https://worldofwarcraft.blizzard.com/en-us/</li>
+</ul>
+<h3>Bucket list</h3>
+<p>You have a bucket list somewhere.</p>
+<p>Does your replica have a bucket list?</p>
+<p>Links</p>
+<ul>
+<li>https://en.wiktionary.org/wiki/bucket_list</li>
+<li>https://bucketlisthq.com/bucketlists/</li>
+</ul>
+<h3>Club Member Replicas</h3>
+<p>You belong to the softball team, the book club, the chess club, the bridge club, the knitting club, the hiking club, the bird watching club, the stamp collecting club, the model train club, the model airplane club, the model car club, the model boat</p>
+<p>Can you share your GoodReads list? Your Ravelry list? Your Strava list? Your Meetup list?</p>
+<p>Links</p>
+<ul>
+<li>https://www.ravelry.com/ ~ Ravelry is a free website for knitters, crocheters, and fiber artists</li>
+</ul>
+<h3>Devout Replicas</h3>
+<p>Let us say that you are devout and have have clear and firm beliefs about the afterlife. Your replica may be created from the data that matches your beliefs.</p>
+<p>Thus your replica may embody aspects of</p>
+<ul>
+<li>Angels</li>
+<li>Reincarnation</li>
+<li>Nirvana</li>
+<li>Heaven</li>
+<li>Hell</li>
+<li>Purgatory</li>
+</ul>
+<p>Links</p>
+<ul>
+<li>https://en.wikipedia.org/wiki/Inferno_(Dante)</li>
+<li>https://en.wikipedia.org/wiki/Nirvana</li>
+</ul>
+<h3>Digital Twins</h3>
+<p>Replicas are created with the help of data from your bank accounts, dental records, Facebook posts, Tweets, report cards and other digital records.</p>
+<p>Digital twins are used in industry to create a digital replica of a physical object. So this item is more processes than content.</p>
+<p>Links</p>
+<ul>
+<li>https://en.wikipedia.org/wiki/Digital_twin</li>
+<li>https://en.wikipedia.org/wiki/Holon_(philosophy)#In_multiagent_systems</li>
+</ul>
+<h3>Doctors Replicas</h3>
+<p>You are your health records. You are your prescriptions. You are your allergies. You are your surgeries. You are your blood type. You are your DNA.</p>
+<ul>
+<li>XRAYs, MRI scans, Inoculation records</li>
+</ul>
+<p>Links</p>
+<ul>
+<li>https://www.23andme.com/</li>
+<li>https://www.mychart.org/</li>
+</ul>
+<h3>Docu-fiction</h3>
+<p>People may choose to add imaginary aspects to their replica</p>
+<ul>
+<li>The things you wish you had done</li>
+<li>Alternatives to the things you did do</li>
+</ul>
+<p>Links</p>
+<ul>
+<li>https://en.wikipedia.org/wiki/Docufiction</li>
+</ul>
+<h3>Ephemera</h3>
+<ul>
+<li>You are your ticket stubs</li>
+<li>You are the addresses you have live at</li>
+<li>You are the greeting cards you received</li>
+</ul>
+<p>If we know the when and where of you then we can identify:</p>
+<ul>
+<li>the music you heard</li>
+<li>The movies you went to</li>
+<li>The books you replaced</li>
+<li>The clothes you wore</li>
+<li>The accent you spoke with</li>
+</ul>
+<h3>Forgeries</h3>
+<p>Let's say you are living under a false identity. You may need to create a background never existed.</p>
+<p>Links</p>
+<ul>
+<li>https://en.wikipedia.org/wiki/Forgery</li>
+</ul>
+<h3>Homunculus / Mini-Me Replicas</h3>
+<p>Not everybody may wants an exact replica of themselves. Some people may want an <em>alter ego</em></p>
+<p>Maybe they want to explore:</p>
+<ul>
+<li>&quot;Ignore the little man behind the curtain&quot;</li>
+<li>You are your brain</li>
+<li>You are your neurosis</li>
+</ul>
+<p>Links</p>
+<ul>
+<li>https://en.wikipedia.org/wiki/Alter_ego</li>
+<li>https://en.wikipedia.org/wiki/Homunculus</li>
+<li>https://en.wikipedia.org/wiki/Mini-Me</li>
+<li>https://www.perplexity.ai/search/what-are-some-of-the-literary-BA16cku7Re.s9EN3iQ15_w</li>
+</ul>
+<h3>Legacy Replicas</h3>
+<p>Date could be extracted from wills, trusts and other legal documents</p>
+<h3>LinkedIn Replicas</h3>
+<ul>
+<li>You are your job</li>
+<li>You are your hobby</li>
+<li>You are what you like to do</li>
+<li>You are all your posts and comments</li>
+<li>Replicas based on the work product of your professional (or gifted amateur) life</li>
+</ul>
+<p>Links</p>
+<ul>
+<li>https://www.linkedin.com/</li>
+<li>https://slack.com</li>
+<li>https://www.trello.com</li>
+</ul>
+<h3>Photo Album Replicas</h3>
+<ul>
+<li>Many families have photo albums</li>
+<li>Establsh partnerships with photo album scanning services</li>
+</ul>
+<p>Links</p>
+<ul>
+<li>https://www.imemories.com</li>
+<li>http://digitalmemoriesonline.net/index.htm</li>
+</ul>
+<h3>Pokemon Go replicas.</h3>
+<ul>
+<li>
+<p>Replicas of you pinned to particular locations such as the playground of your middle school The ballroom of your high school prom And your wedding reception</p>
+</li>
+<li>
+<p>https://en.wikipedia.org/wiki/Niantic,_Inc.</p>
+</li>
+<li>
+<p>https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go</p>
+</li>
+<li>
+<p>https://en.wikipedia.org/wiki/Pok%C3%A9mon</p>
+</li>
+<li>
+<p>https://pokemongolive.com/</p>
+</li>
+<li>
+<p>https://nianticlabs.com/</p>
+</li>
+</ul>
+<p><strong>Niantic</strong></p>
+<p>Our mission</p>
+<ul>
+<li>Using technology to serve humanity is at the core of what we do. Through AR, we seek to:</li>
+</ul>
+<p>Draw people outdoors</p>
+<ul>
+<li>We believe humans are the happiest when their virtual world leads to a physical one.</li>
+</ul>
+<p>Inspire exploration</p>
+<ul>
+<li>We nudge people to discover new neighborhoods, parks, and friends.</li>
+</ul>
+<p>Encourage exercise</p>
+<ul>
+<li>We design our technology to help people get moving and stay active.</li>
+</ul>
+<p>Create connection</p>
+<ul>
+<li>We want our products to bring people into contact with their neighbors and communities.</li>
+</ul>
+<h3>Psychology</h3>
+<p>Where are you on the</p>
+<ul>
+<li>Big 5</li>
+<li>Political Compass</li>
+</ul>
+<p>Links</p>
+<ul>
+<li>https://en.wikipedia.org/wiki/Big_Five_personality_traits</li>
+<li>https://www.politicalcompass.org/test</li>
+</ul>
+<h3>Theatrical Replicas</h3>
+<p>There are moments in your life that are extremely vivid. You can describe them in detail,: who was there, the layout of the room, the weather, the smells, the sounds, the colors, the emotions. These moments are the basis of a theatrical replica of you that is a video of a few minutes of your replica in a particular moment in time.</p>
+<p>Links</p>
+<ul>
+<li>??</li>
+</ul>
+<h3>Yearbook Replicas</h3>
+<ul>
+<li>Your photo and all the activities you participated in</li>
+<li>The sports events you attended</li>
+<li>Company bio</li>
+<li>Your obituary and memorials</li>
+</ul>
+<p>Links</p>
+<ul>
+<li>https://www.classmates.com/</li>
+<li>https://www.yearbook.org/</li>
+</ul>
+<h2>2. Replica Appearance</h2>
+<p>Secondary aspects of you: attire, appearance and accouterments,</p>
+<h3>Attire</h3>
+<p>You are at a funeral you are wearing black. You are at a wedding you are wearing white. You are at a party you are wearing a party hat. You are at a protest you are wearing a mask.</p>
+<p>What is your replica wearing?</p>
+<h3>Graphic Replicas</h3>
+<ul>
+<li>Since the beginning of art, the primary topic has been creating replicas of people</li>
+<li>Currently, most every digital talking head is a photorealistic replica of a person</li>
+<li>You are your portrait</li>
+<li>Your digital portrait, your replica, could appear as if it is painted by Picasso, or Van Gogh, or Warhol, or Dali, or Rembrandt, or Da Vinci</li>
+</ul>
+<h3>Media</h3>
+<p>Your replica may appear in different ways depending on the context</p>
+<p>Replica, sometimes your are a:</p>
+<ul>
+<li>You are a voice</li>
+<li>You are a visual</li>
+<li>You are a 3D interactive character</li>
+<li>You are a skill</li>
+</ul>
+<h3>Russian Doll Replicas</h3>
+<ul>
+<li>See https://en.wikipedia.org/wiki/Matryoshka_doll</li>
+<li>Replicas of a person at all different ages and sizes.</li>
+</ul>
+<h3>Setting</h3>
+<p>Where is your replica situated? Outdoors, indoors, in a particular room, in a particular city, in a particular country, in a particular time period, in a particular universe.</p>
+<h2>3. Replica Tones, Moods and Rules</h2>
+<p>This section could use a lot more thought and development.</p>
+<h3>Tones</h3>
+<p>What is the tone of your replica when talking to you? Your CEO? Your customer? Your child? Your spouse? Your friend? Your enemy?</p>
+<h3>Moods</h3>
+<p>How does your replica act and look when happy, sad, angry, excited, bored, tired, hungry, thirsty, sick, in love, in pain, in danger, in trouble</p>
+<h3>Laws, Culture and Anthropology</h3>
+<p>What rules and laws does your replica follow?</p>
+<p>Links</p>
+<ul>
+<li>https://en.wikipedia.org/wiki/Sharia</li>
+<li>https://en.wikipedia.org/wiki/Yanomami</li>
+</ul>
+<h3>Adaptation and Repurposing</h3>
+<p>Is it possible to request that your replica be adapted to a particular context or repurposed for a particular task?</p>
+<p>How is the replicas of a person different after the person dies?</p>
+<h2>Closing</h2>
+<p>A vision: one day your replica says:</p>
+<ul>
+<li>&quot;Now that I know you, how can I help?&quot;</li>
+<li>&quot;Am I anything more than your drinking buddy?&quot; <img class="emoji" alt="wink" src="data:image/png;base64,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" /></li>
+</ul>
+<p>And you can say things like:</p>
+<ul>
+<li>&quot;What vision do I have for my replica?&quot;</li>
+</ul>
+<h3>Call to Action</h3>
+<p>Do any of these thoughts have any near term usability or value in the Sensay ecosystem?</p>
+<p>If so, please let me know and I will try to develop them further.</p>
+<p>Do any any of these ideas have an existing home in the Sensay ecosystem?</p>
+
+</body>
+</html>

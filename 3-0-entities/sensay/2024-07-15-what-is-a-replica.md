@@ -50,6 +50,18 @@ The last universal common ancestor (LUCA) is the hypothesized common ancestral c
 * Replicas created from frozen fertilized eggs.
 * Dolly the sheep
 
+### Mirror Replicas
+
+How many billions of years ago did a creature look into a puddle of water and see a reflection of itself. At that moment the first replica was born.
+
+* You are your reflection
+* You are your shadow
+* You are your echo
+* You are your mirror image
+* https://en.wikipedia.org/wiki/Reflection_(physics)
+* https://en.wikipedia.org/wiki/Mirror
+* https://en.wikipedia.org/wiki/Narcissus_(mythology)
+
 
 ### perplexity page
 
