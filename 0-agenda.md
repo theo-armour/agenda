@@ -17,6 +17,7 @@
 * Roxana
 * Mary L: not talking on 7/25
 * Randy Morgan:
+* Diana Chace: 
 * Sensay: voice-to-text
 * Ham Radio: take notes
 
