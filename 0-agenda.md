@@ -10,23 +10,29 @@
 ## Today
 
 * ?
+* HH: Agenda
+* Dr Immerman
+* Lawrence Art
+* AquaVoice
+* Roxana
+* Mary L: not talking on 7/25
+* Randy Morgan:
+* Sensay: voice-to-text
 * Ham Radio: take notes
 
 ## SOON
 
 * ?
-* Randy Morgan:
-* Sensey 
+* Van: Friday?
 * Martha Meet
 * Tom Jones: books ~ SF tours
-* SacSem: email to post
+* SacSem: email to post ~ mobile
 * Sensay: 3D
-* Sensay: telegram whois
 * Stout Books: 415 391 6757 ~ 804 Montgomery
 * WSL: ubuntu
 * LinkedIn: bio
 * Roxanna: meet Wednesday 
-* RandyGridley: agenda: building ~ minutes non disclosure ~ 100th anniversary
+* RandyGridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Granucci: drive
 * Lotusia.org
 
