@@ -24,6 +24,7 @@
 ## SOON
 
 * ?
+* Rob A:  HotM
 * Van: Friday?
 * Martha Meet
 * Tom Jones: books ~ SF tours
