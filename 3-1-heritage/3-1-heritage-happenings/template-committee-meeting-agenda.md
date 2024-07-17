@@ -1,6 +1,6 @@
 # Template for the _Heritage Happenings_ Committee Meeting Agenda
 
-##  XXX ~ Heritage Happenings Agenda
+## XXX ~ Heritage Happenings Agenda
 
 ## Previous Issue Review
 
@@ -25,10 +25,10 @@
 * Patrick: Residents Council or Board?
 * Theo/editorial: levels of service
 
+
 ## Miscellany
 
 * Whose portrait photo?
-
 
 
 ## Calendar
@@ -45,6 +45,7 @@
 ## Cameo logo
 
 * See also themes below
+
 
 ## Themes
 
