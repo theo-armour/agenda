@@ -1,5 +1,15 @@
 # Olga Aranov
 
+## 2024-07-16
+
+Residencia
+
+* Not much storage space
+* Place for washer and dryer?
+* Dishwasher?
+* Fridge in kitchenette
+* Passage to garden area on right side of house
+
 ## 2024-01-19
 
 If needed: https://www.youtube.com/watch?v=hE1PYCQ159k
