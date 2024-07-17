@@ -10,14 +10,10 @@
 ## Today
 
 * ?
-* HH: Agenda
 * Dr Immerman
 * Lawrence Art
 * AquaVoice
-* Roxana
-* Mary L: not talking on 7/25
-* Randy Morgan:
-* Diana Chace: 
+* Diana Chace:   
 * Sensay: voice-to-text
 * Ham Radio: take notes
 
