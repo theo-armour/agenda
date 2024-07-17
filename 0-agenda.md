@@ -10,17 +10,17 @@
 ## Today
 
 * ?
-* Dr Immerman
 * Lawrence Art
+* Claudia: July
 * AquaVoice
 * Diana Chace:   
 * Sensay: voice-to-text
-* Ham Radio: take notes
 
 ## SOON
 
 * ?
-* Rob A:  HotM
+* Ham Radio: take notes
+* Rob A: HotM
 * Van: Friday?
 * Martha Meet
 * Tom Jones: books ~ SF tours
