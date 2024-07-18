@@ -10,14 +10,11 @@
 ## Today
 
 * ?
-* Van: Friday?
-* Rug: clean spot
-* Lawrence Art
+* Lawrence Art  
 * Claudia: July
 * Mia: emails
 * AquaVoice
-*   
-* Sensay: voice-to-text hi Jeannie
+* Sensay: voice-to-text
 
 ## SOON
 
