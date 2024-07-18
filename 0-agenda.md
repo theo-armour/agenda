@@ -10,11 +10,12 @@
 ## Today
 
 * ?
+* Rug: clean spot
 * Lawrence Art
 * Claudia: July
 * AquaVoice
-* Diana Chace:   
-* Sensay: voice-to-text
+* Diana Chace: 
+* Sensay: voice-to-text hi Jeannie
 
 ## SOON
 
