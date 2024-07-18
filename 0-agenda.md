@@ -10,6 +10,7 @@
 ## Today
 
 * ?
+* Van: Friday?
 * Rug: clean spot
 * Lawrence Art
 * Claudia: July
@@ -21,8 +22,7 @@
 
 * ?
 * Ham Radio: take notes
-* Rob A: HotM
-* Van: Friday?
+* Rob Astrudillo: HotM
 * Martha Meet
 * Tom Jones: books ~ SF tours
 * SacSem: email to post ~ mobile
