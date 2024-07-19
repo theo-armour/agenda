@@ -10,7 +10,6 @@
 ## Today
 
 * ?
-* Lawrence Art  
 * Claudia: July
 * Mia: emails
 * AquaVoice
