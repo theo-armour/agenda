@@ -10,7 +10,6 @@
 ## Today
 
 * ?
-*   
 * Mia: emails
 * AquaVoice
 * Sensay: voice-to-text
