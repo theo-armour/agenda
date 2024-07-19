@@ -11,7 +11,7 @@
 
 * ?
 * Mia: emails
-* AquaVoice
+*   
 * Sensay: voice-to-text
 
 ## SOON
