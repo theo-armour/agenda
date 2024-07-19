@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-* Claudia: July
+*   
 * Mia: emails
 * AquaVoice
 * Sensay: voice-to-text
