@@ -11,7 +11,6 @@
 
 * ?
 * Mia: emails
-*   
 * Sensay: voice-to-text
 
 ## SOON
