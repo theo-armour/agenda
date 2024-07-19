@@ -10,6 +10,7 @@
 ## Today
 
 * ?
+* PoA: for Alix
 * Mia: emails
 * Sensay: voice-to-text
 
