@@ -10,7 +10,8 @@
 ## Today
 
 * ?
-*   
+* Praveen: calendar
+* Rick Morton: images
 * Mia: emails
 * Sensay: voice-to-text
 
