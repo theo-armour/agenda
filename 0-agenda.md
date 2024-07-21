@@ -10,6 +10,11 @@
 ## Today
 
 * ?
+* Marin Civic
+* HH: Ferdinand
+* GTD: bnw
+* GTD: beauty
+* SenSay: FAQ: vision
 * 2am
 * Stout Books: 415 391 6757 ~ 804 Montgomery
 * Tom Jones: books ~ SF tours
