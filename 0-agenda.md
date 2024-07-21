@@ -10,10 +10,12 @@
 ## Today
 
 * ?
-*   
+* 2am
+* Stout Books: 415 391 6757 ~ 804 Montgomery
+* Tom Jones: books ~ SF tours
 * Rick Morton: images
 * Mia: emails
-* Sensay: voice-to-text
+* Sensay: voice-to-text for replica
 
 ## SOON
 
@@ -21,13 +23,10 @@
 * Ham Radio: take notes
 * Rob Astrudillo: HotM
 * Martha Meet
-* Tom Jones: books ~ SF tours
 * SacSem: email to post ~ mobile
 * Sensay: 3D
-* Stout Books: 415 391 6757 ~ 804 Montgomery
 * WSL: ubuntu
 * LinkedIn: bio
-* Roxanna: meet Wednesday 
 * RandyGridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Granucci: drive
 * Lotusia.org
