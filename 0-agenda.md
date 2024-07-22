@@ -12,13 +12,12 @@
 * ?
 * Marin Civic
 * HH: Ferdinand
-*   
 * SenSay: FAQ: vision
 * 2am
 * Stout Books: 415 391 6757 ~ 804 Montgomery
 * Tom Jones: books ~ SF tours
 * Rick Morton: images
-* Mia: emails
+*   
 * Sensay: voice-to-text for replica
 
 ## SOON
