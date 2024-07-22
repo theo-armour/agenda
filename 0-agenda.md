@@ -10,14 +10,13 @@
 ## Today
 
 * ?
-* Marin Civic
-*   
+* Rick Morton: images
+* SenSay: Youngsters
+* SenSay: Links
 * SenSay: FAQ: vision
-* 2am
 * Stout Books: 415 391 6757 ~ 804 Montgomery
 * Tom Jones: books ~ SF tours
-* Rick Morton: images
-*   
+* Marin Civic
 * Sensay: voice-to-text for replica
 
 ## SOON
