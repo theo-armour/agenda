@@ -11,7 +11,7 @@
 
 * ?
 * Marin Civic
-* HH: Ferdinand
+*   
 * SenSay: FAQ: vision
 * 2am
 * Stout Books: 415 391 6757 ~ 804 Montgomery
