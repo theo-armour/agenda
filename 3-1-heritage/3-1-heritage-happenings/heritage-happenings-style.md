@@ -1,6 +1,6 @@
 # *Heritage Happenings* Article Submission Guidelines
 
-Theo Armour ~ 2023-10-28
+Theo Armour ~ 2024-07-21
 
 ## Introduction
 
@@ -20,7 +20,7 @@ The *Heritage Happenings* is a monthly newsletter published by residents of Heri
 
 ## Colors
 
-red: #880000 or rgb(136, 0, 0)
+brick red: #880000 or rgb(136, 0, 0)
 
 ## Text Formatting
 
@@ -109,6 +109,18 @@ General rule: If there is more than one correct way of writing something, choose
 Argument Resolution Reference
 
 * https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf
+
+
+## Tips
+
+You can open Microsoft Words files on the web and also by using the Word desktop app. Unfortunately, Files can display and print differently depending on the version. Currently, _Heritage Happenings_ files are edited using thr desktop version. Use it or lose it.
+
+When you see text written in Latin starting with the words "Lorem ipsum", the text is a placeholder for text that will be replaced with the final text in the publication.
+
+When you are working in a table, tabs have a special behavior. If you want to move to the next cell, use the Tab key. If you want to insert a tab character in the current cell, use Control or Command Tab.
+
+Tabs in Calendar cells are used throughout the publication. Please do not use spaces in order to line up with tabbed items unless you have to,
+
 
 
 ***

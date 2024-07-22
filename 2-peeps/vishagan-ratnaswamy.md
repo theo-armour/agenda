@@ -3,6 +3,8 @@
 
 ## 2024-04-09
 
+French nemesis: Adel
+
 Philip Boykin
 * Wow! nice
 * Help small town mayors approve projects faster

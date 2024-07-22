@@ -1,4 +1,4 @@
-# Mia Harlock
+# Mia Cotton Harlock Schultzberg
 
 * https://www.linkedin.com/in/miaharlock/
 * https://www.miacottonharlock.com/
