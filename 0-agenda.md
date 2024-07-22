@@ -2,9 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-06-02 ~ My brain may be shallow, but my pockets are deep.
-* 2024-06-14 ~ I'm not a leader ~ I am a great individual contributor ~ my dream: great team player
-* 2024-06-27 ~"Why should we subsidize intellectual curiosity?" -Ronald Reagan
+*   
 * 2024-07-05 ~ Instead of insulting someone who disagrees with you, ask them why they have that perspective.
 * 2024-07-21 ~ "Don't tell me I'm burning the candle at both ends -- tell me where to get more wax!!" ~ Slashdot
 
