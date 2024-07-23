@@ -13,8 +13,6 @@
 * SenSay: Youngsters
 * SenSay: Links
 * SenSay: FAQ: vision
-*   
-* Tom Jones: books ~ SF tours
 * Sensay: voice-to-text for replica
 
 ## SOON
