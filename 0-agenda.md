@@ -8,7 +8,7 @@
 ## Today
 
 * ?
-* Rick Morton: images
+*   
 * SenSay: my bio
 * SenSay: Youngsters
 * SenSay: Links
