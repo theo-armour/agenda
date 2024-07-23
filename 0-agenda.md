@@ -8,7 +8,6 @@
 ## Today
 
 * ?
-*   
 * Rick Morton: images
 * SenSay: my bio
 * SenSay: Youngsters
@@ -20,7 +19,8 @@
 
 ## SOON
 
-* ?Marie-so: wedding
+* ?
+* Marie-so: wedding
 * Ham Radio: take notes
 * Rob Astrudillo: HotM
 * Martha Meet
