@@ -8,7 +8,7 @@
 ## Today
 
 * ?
-* FTB
+*   
 * Rick Morton: images
 * SenSay: my bio
 * SenSay: Youngsters
@@ -31,9 +31,7 @@
 * RandyGridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Granucci: drive
 * Lotusia.org
-* Christine: https://www.freefuse.com/
-
-  
+* Christine: [https://www.freefuse.com/](https://www.freefuse.com/)
 
 ***
 
