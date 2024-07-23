@@ -14,7 +14,7 @@
 * SenSay: Youngsters
 * SenSay: Links
 * SenSay: FAQ: vision
-* Stout Books:  info@stoutbooks.com ~ 415 391 6757 ~ 804 Montgomery
+*   
 * Tom Jones: books ~ SF tours
 * Sensay: voice-to-text for replica
 
