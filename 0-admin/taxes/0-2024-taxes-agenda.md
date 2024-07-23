@@ -1,6 +1,7 @@
 # 0-2024-taxes-agenda
 
-* 11,600 per moth
+* 11,600 per month
+
 ## IRS
 
 * https://www.irs.gov/your-account
@@ -15,7 +16,10 @@
 ## FTB
 
 * https://www.ftb.ca.gov/
+* https://webapp.ftb.ca.gov/WebPay/Payment/Confirmation/3
 * Overview: https://webapp.ftb.ca.gov/etfprd1/pit/pit_overview.xhtml
+
+Payments
 
 * FTB ~ 2024 estimated Taxes #1 ~ 2024-04-15: $4,149 ~ 4,000 paid 2024-04-24
 * FTB ~ 2024 estimated Taxes #2 ~ 2024-06-17: $5,532 ~ $5,532 paid 2024-06-17 ~ # 8610335462

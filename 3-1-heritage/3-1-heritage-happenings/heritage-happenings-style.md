@@ -121,7 +121,7 @@ When you are working in a table, tabs have a special behavior. If you want to mo
 
 Tabs in Calendar cells are used throughout the publication. Please do not use spaces in order to line up with tabbed items unless you have to,
 
-
+Be very careful about copying text submitted by others. Most people are quite cavalier about the fonts they use and create documents with multiple random fonts. Use the Word feature to "Keep text only" or select the text and click "click all formatting".
 
 ***
 

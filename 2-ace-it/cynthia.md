@@ -3,8 +3,16 @@
 ## Topics 2
 
 * Rio Vista city
+* California Forever: Solano County ~ Rio Vista ! 2 year EIR
 * Wallet Drawing
 * Finish hand
+
+## 2024-07-22
+
+* Floris ~ Alix briefing: parents ~ therapist
+* Kathy
+* Mia ~ working ~ Bdy invite
+*
 
 ## 2024-07-01
 

@@ -9,7 +9,7 @@ What are some of the many possible replicas?
 
 You are what you were.
 
-You are a replica. You a compilation of Cellular organisms There have been replicating themselves for over 4 billion years.
+You are a replica. You a compilation of cellular organisms There have been replicating themselves for over 4 billion years.
 
 * Your DNA is a close replica of the DNA that came into being over four billion years ago
 * The same is true for the processes that cause DNA to build viruses, bacteria and multi-celled creatures.
