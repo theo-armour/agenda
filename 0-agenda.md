@@ -2,25 +2,23 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-07-05 ~ Instead of insulting someone who disagrees with you, ask them why they have that perspective.  
+* 2024-07-05 ~ Instead of insulting someone who disagrees with you, ask them why they have that perspective.
 * 2024-07-21 ~ "Don't tell me I'm burning the candle at both ends -- tell me where to get more wax!!" ~ Slashdot
 
 ## Today
 
 * ?
-* Rick Morton: images
+*   
 * SenSay: my bio
 * SenSay: Youngsters
-* SenSay: Links
+*   
 * SenSay: FAQ: vision
-* Stout Books:  info@stoutbooks.com ~ 415 391 6757 ~ 804 Montgomery
-* Tom Jones: books ~ SF tours
-* Marin Civic
 * Sensay: voice-to-text for replica
 
 ## SOON
 
 * ?
+* Marie-so: wedding
 * Ham Radio: take notes
 * Rob Astrudillo: HotM
 * Martha Meet
@@ -31,6 +29,7 @@
 * RandyGridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Granucci: drive
 * Lotusia.org
+* Christine: [https://www.freefuse.com/](https://www.freefuse.com/)
 
 ***
 
