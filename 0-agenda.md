@@ -20,7 +20,7 @@
 
 ## SOON
 
-* ?
+* ?Marie-so: wedding
 * Ham Radio: take notes
 * Rob Astrudillo: HotM
 * Martha Meet
@@ -31,6 +31,9 @@
 * RandyGridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Granucci: drive
 * Lotusia.org
+* Christine: https://www.freefuse.com/
+
+  
 
 ***
 
