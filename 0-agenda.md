@@ -11,7 +11,7 @@
 *   
 * SenSay: my bio
 * SenSay: Youngsters
-* SenSay: Links
+*   
 * SenSay: FAQ: vision
 * Sensay: voice-to-text for replica
 
