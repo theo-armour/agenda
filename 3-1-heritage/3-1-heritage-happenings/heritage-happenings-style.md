@@ -1,6 +1,6 @@
-# *Heritage Happenings* Article Submission Guidelines
+# *Heritage Happenings* Style Guidelines
 
-Theo Armour ~ 2024-07-21
+Theo Armour ~ 2024-07-23
 
 ## Introduction
 
@@ -18,9 +18,30 @@ The *Heritage Happenings* is a monthly newsletter published by residents of Heri
 * The content is entirely created by residents of Heritage on the Marina. No clip art, no stock photos, no copy and paste from the Internet
 * The content is intended to be of interest to residents of Heritage on the Marina
 
+
 ## Colors
 
-brick red: #880000 or rgb(136, 0, 0)
+<section style="background-color: #ff0;">
+
+The house color for headers and other text accents
+
+</section>
+
+Brick red: #880000 or rgb(136, 0, 0)
+
+
+## Dates
+
+<section style="background-color: #ff0;">
+
+We have opinions about dates:
+
+* We like the European format for dates: 21 July 2024
+* We do not like adding "st", "nd", "rd" or "th" to the date
+* We do not like repeating the name of the month a lot: May 1, May 2, May 3, etc
+* Perhaps we prefer 5/1,5/2, 5/3, etc
+
+</section>
 
 ## Text Formatting
 
@@ -44,7 +65,7 @@ But no matter what you send, we can probably get it to work.
 
 ## Special Events Format
 
-The special Events entries all follow the same format::
+The Special Events entries all follow the same format::
 
 1. Name of Participant: topic title or name ~ event title
 2. Weekday, date (no "th") month at time ( x:yy format ) in location
@@ -58,20 +79,22 @@ To the left of the entry is a small image. Please do supply a sample image. The 
 
 Example:
 
-**Mary Linde, CEO: Town Hall Meeting**
-_Wednesday, 8 November at 10:30 in Friendship Hall_
+**Mary Linde, CEO: Town Hall Meeting**<br>
+_Wednesday, 8 November at 10:30 in Friendship Hall_<br>
 Meeting to address the issues raised at the Residents’ Council. Includes reports from executive and department directors.
 
 
 ## Movies Format
 
-* **Date  *Title* ~ Year ~ Running time (1h47m)**
+* **Date  *Title* ~ Year ~ Running time**
 * Body text of a few lines
+* Director: name ~ Stars: names
 
 Example:
 
-**November 3 ~ *Coco* ~  2017 ~ 1h 47m**
-Follows a 12-year old boy who is accidentally transported to the land of the Dead, where he seeks the help of his deceased musician great-great-grandfather to return him to his family among the living & to reverse his family’s ban on music.
+**November 3 ~ *Coco* ~  2017 ~ 1h 47m**<br>
+Follows a 12-year old boy who is accidentally transported to the land of the Dead, where he seeks the help of his deceased musician great-great-grandfather to return him to his family among the living & to reverse his family’s ban on music.<br>
+Director: Pete Smith ~ Stars: Anthony Gonzalez, Gael García Bernal, Benjamin Bratt
 
 
 ## Library Corner New Acquisitions Format
@@ -82,8 +105,8 @@ Follows a 12-year old boy who is accidentally transported to the land of the Dea
 
 Example:
 
-**_Portrait in Sepia: A Novel_ ~ 2000 ~ F**
-Isabel Allende
+**_Portrait in Sepia: A Novel_ ~ 2000 ~ F**<br>
+Isabel Allende<br>
 The family saga covers two wars and the role of women in Chile, where Allende was raised.
 
 
@@ -113,7 +136,7 @@ Argument Resolution Reference
 
 ## Tips
 
-You can open Microsoft Words files on the web and also by using the Word desktop app. Unfortunately, Files can display and print differently depending on the version. Currently, _Heritage Happenings_ files are edited using thr desktop version. Use it or lose it.
+You can open Microsoft Word files on the web and also by using the Word desktop app. Unfortunately, files can display and print differently depending on the version. Currently, _Heritage Happenings_ files are edited using the desktop version. Use the desktop version otherwise you may screw up the format.
 
 When you see text written in Latin starting with the words "Lorem ipsum", the text is a placeholder for text that will be replaced with the final text in the publication.
 
@@ -122,6 +145,12 @@ When you are working in a table, tabs have a special behavior. If you want to mo
 Tabs in Calendar cells are used throughout the publication. Please do not use spaces in order to line up with tabbed items unless you have to,
 
 Be very careful about copying text submitted by others. Most people are quite cavalier about the fonts they use and create documents with multiple random fonts. Use the Word feature to "Keep text only" or select the text and click "click all formatting".
+
+<section style="background-color: #ff0;">
+
+Remember to search for and replace double spaces with single spaces.
+
+</section>
 
 ***
 
