@@ -8,6 +8,7 @@
 ## Today
 
 * ?
+* HH: Calendar
 * SenSay: Youngsters
 * SenSay: FAQ: vision
 * Sensay: voice-to-text for replica
@@ -15,6 +16,7 @@
 ## SOON
 
 * ?
+*   
 * Marie-so: wedding
 * Ham Radio: take notes
 * Rob Astrudillo: HotM
@@ -33,8 +35,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
-*   
-* bean citibank: sign in
+* * bean citibank: sign in
 
 <details open=""><summary>Admin Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a><br></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a><br></p></details>
 
