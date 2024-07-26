@@ -9,6 +9,7 @@
 
 * ?
 * HH: Calendar
+* HH: newsletter + email
 * SenSay: Youngsters
 * SenSay: FAQ: vision
 * Sensay: voice-to-text for replica
@@ -27,7 +28,7 @@
 * LinkedIn: bio
 * RandyGridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Granucci: drive
-* Lotusia.org
+*   
 * Christine: [https://www.freefuse.com/](https://www.freefuse.com/)
 
 ***
