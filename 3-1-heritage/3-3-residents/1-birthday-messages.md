@@ -1,6 +1,8 @@
 # Birthday Messages
 
-*  "Age is merely the number of years the world has been enjoying you."
+* "Age is merely the number of years the world has been enjoying you."
+
+* https://imperfecttaylor.com/short-funny-quotes-about-aging/
 
 ## 2024-07-15 Perplexity
 
