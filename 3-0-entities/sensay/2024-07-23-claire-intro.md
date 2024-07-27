@@ -24,6 +24,26 @@ https://x.com/eyishazyer/status/1814919129830137993
 
 We are going to ask our community to comment on this tweet tagging Sensay. I would love your help in finding other good examples if you are up for it 🙂
 
+## reply 2
+
+I’m looking for recent tweets from influencers / larger twitter accounts that don’t mention sensay but relate. They can relate through AI, crypto, Web3, etc. Does that make sense?
+
+## reply 3
+
+Thank you so much! Here are a few more examples for reference 🙂
+
+Top AI token performers
+https://x.com/BitMartResearch/status/1815949853169705201
+
+Political - trump to harris/ crypto to AI
+https://x.com/mattturck/status/1815859505705418828
+
+75+ altcoins with potential (with an AI section)
+https://x.com/ourcryptotalk/status/1815363779800306100
+
+Competitor launching text bots in TG
+https://x.com/meai_app/status/1815718530819690668
+
 ## My reply
 
 Hi Claire
@@ -54,3 +74,12 @@ A search for awesome list is like this
 This brings of repositories with few stars, but they are actually just lists of links to other repositories.
 
 All this was typed in just now. I can go into much more detail and explain more clearly as and when you want.
+
+
+## Prompt
+
+Create a list of the 50 top current influencers on X.com for time saving AI.
+
+The output must in CSV format with the following items:
+
+"Influencer name", "@ handle","following","followers","website","bio"

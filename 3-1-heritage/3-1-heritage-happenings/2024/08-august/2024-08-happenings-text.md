@@ -19,3 +19,22 @@ Will, who attends single parent meetings to woo women, meets Marcus, a troubled 
 Director: Chris Weitz, Paul Weitz ~ Stars: Hugh Grant, Nicholas Hoult, Toni Collette
 
 
+## Friday Movies
+
+2 August ~ Women on the Verge of a Nervous Breakdown ~ 1988 ~ 1h 40m ~ Comedy, Drama (in Spanish w/ English subtitles)
+When Pepa Marcos' lover Ivan suddenly leaves her without any explanation, she embarks on a strange journey to discover why. On the way she meets a variety of eccentric characters. It's a film noir take on the romantic comedy.
+Director: Pedro Almodovar ~ Stars: Carmen Maura, Antonio Banderas
+
+9 August ~ Man of La Mancha ~ 1972. 2h 12m ~ Musical Drama
+In the days of the Spanish Inquisition, writer Miguel de Cervantes & his manservant makes livings as tax collectors but soon find themselves imprisoned after being accused of crimes against the church. Cervantes must persuade the unruly bunch of inmates not to burn his prized manuscript—by performing it for them.
+Director: Arthur Hiller ~ Stars: Peter O’Toole, Sophia Loren
+
+23 August ~ Vivir Dos Veces ~ 2019. 1h 41m ~ Comedy Drama ~ Spanish w/ English subtitles)
+Emilio, his daughter Julia, and his granddaughter Blanca embark on a crazy journey to find the love of his youth before he succumbs to Alzheimer's disease.
+Director: Maria Ripoll ~ Stars: Mafalda Carbonell, Oscar Martinez
+
+30 August ~ Vicky Cristina Barcelona ~ 2008. 1hr 36m ~ Comedy, Drama
+Americans Vicky & Cristina arrive in Spain for a summer vacation at a friend's Barcelona home. Visiting an art gallery, they meet seductive Juan Antonio, who invites them for a weekend of food, art and sex. Sparks really ignite when his fiery former lover arrives on the scene, making for a very crowded house.
+Director: Woody Allen ~ Stars: Javier Bardem, Penelope Cruz, Scarlett Johansson
+
+## Out & About
