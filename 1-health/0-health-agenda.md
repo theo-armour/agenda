@@ -4,15 +4,16 @@
 
 * ?
 * Dr Han: Glaucoma exam
-* Colonoscopy ~ Dr Kattah: 25 July 9:30 1600 Divisadero B123
+* Colonoscopy report??
 * Dr Immerman: 08/05 3:30
-* Dermatology exam ~ Dr Fassett: August 20 3:40 ~ 185 Berry Ste 1000
+* Dr Fassett: Dermatology exam ~ August 20 3:40 ~ 185 Berry Ste 1000
 * PPH > Gary: 08/26/2024 10:30 am
 * Dr Vaderhibli: 11:30 August 26
 * Dr Yoga: 09/12 3:00
 
 ## Agenda
 
+* Brittany: pins & needles: paresthesia
 * Statins?
 * EmpowerMe: PT referral
 * Margaret Jacobs: [https://www.alignmenthealthplan.com/](https://www.alignmenthealthplan.com/) ~ free lunch?
