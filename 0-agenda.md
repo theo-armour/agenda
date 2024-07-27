@@ -4,6 +4,7 @@
 
 * 2024-07-05 ~ Instead of insulting someone who disagrees with you, ask them why they have that perspective.
 * 2024-07-21 ~ "Don't tell me I'm burning the candle at both ends -- tell me where to get more wax!!" ~ Slashdot
+* 2024-07-26 ~ better  too early than too late: the story of my life
 
 ## Today
 
@@ -28,7 +29,7 @@
 * LinkedIn: bio
 * RandyGridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Granucci: drive
-* * Christine: [https://www.freefuse.com/](https://www.freefuse.com/)
+* \* Christine: [https://www.freefuse.com/](https://www.freefuse.com/)
 
 ***
 
