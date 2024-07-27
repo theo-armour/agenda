@@ -20,6 +20,7 @@
 ## SOON
 
 * ?
+* Bathroom: clean floor
 * Marie-so: wedding
 * Ham Radio: take notes
 * Rob Astrudillo: HotM
