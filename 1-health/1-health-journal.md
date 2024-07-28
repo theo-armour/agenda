@@ -1,5 +1,9 @@
 # Health Journal
 
+## 2024-07-25
+
+* Colonoscopy: Dr Kattah ~ 4 polyps ~ 7mm biggest
+
 ## 2024-06-29
 
 * 2024-06-?-Pneumonia vaccine
