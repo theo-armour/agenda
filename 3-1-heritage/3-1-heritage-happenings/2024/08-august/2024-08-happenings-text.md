@@ -21,9 +21,56 @@
 * Til: model
 * Sheila
 
+## Fundraiser Ideas
+
+"Granny's Attic"
+
+* Antique Roadshow: Invite an appraiser for a day of valuing residents' treasures, with a small fee per item.
+
+Geriatric fashion week
+
+* Host a runway show with outrageously themed outfits designed and modeled by residents.
+
+"Wrinkles for Cash"
+
+* Temporary tattoo parlor: Offer novelty temporary tattoos in unexpected places.
+
+Walk around the block
+
+* Can you do it?
+
+Walker decoration contest
+
+* Residents decorate their walkers with a theme of their choice
+* Runway in Friendship Hall
+
+Indoor "garden" show:
+
+* Residents showcase potted plants or flower arrangements
+* Visitors vote for their favorites with small donations
+
+Giant group coloring project:
+
+* Create a large, simple outline drawing on a bulletin board
+* Residents color small sections at their leisure
+* Completed artworks exhibited in the Tony Lawrence Gallery
+
 
 ### Editorial
 
+
+## Mia
+
+* Cameo
+* O&A: check >>
+* Announcements
+* Ctrl + tab
+* Resident's Discussion
+* Spain Roberto Aguilar
+
+### Calendar
+
+* Allen Ysidro: is he special or regular
 
 
 ## Sunday Movies
