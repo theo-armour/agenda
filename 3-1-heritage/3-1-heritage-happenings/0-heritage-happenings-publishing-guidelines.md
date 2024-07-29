@@ -1,5 +1,6 @@
 # _Heritage Happenings_ Publishing Guidelines
 
+Theo Armour ~ 2024-07-29
 
 ## Colors
 
