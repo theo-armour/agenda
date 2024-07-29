@@ -10,6 +10,7 @@
 ## Today
 
 * ?
+* H prices to CynthiaM
 * HH: Events definition
 * HH: Calendar
 * HH: newsletter + email
