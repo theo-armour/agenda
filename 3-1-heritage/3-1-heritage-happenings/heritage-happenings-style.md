@@ -1,6 +1,6 @@
 # *Heritage Happenings* Style Guidelines
 
-Theo Armour ~ 2024-07-23
+Theo Armour ~ 2024-07-28
 
 ## Introduction
 
@@ -17,17 +17,6 @@ The *Heritage Happenings* is a monthly newsletter published by residents of Heri
 * The format is intended to be as easy to read as possible for people with visual, cognitive and physical challenges
 * The content is entirely created by residents of Heritage on the Marina. No clip art, no stock photos, no copy and paste from the Internet
 * The content is intended to be of interest to residents of Heritage on the Marina
-
-
-## Colors
-
-<section style="background-color: #ff0;">
-
-The house color for headers and other text accents
-
-</section>
-
-Brick red: #880000 or rgb(136, 0, 0)
 
 
 ## Dates
@@ -63,13 +52,30 @@ If the full full name is visible to you, the file name ends with .DOC, .DOCX or 
 
 But no matter what you send, we can probably get it to work.
 
+
+## Images Submission Guidelines
+
+Please send the largest highest quality images you have. The images will be resized and cropped to fit the format. The larger the image, the better the quality of the image in the final publication.
+
+* Please send images as attachments to an email
+* Please do not embed images in a document
+* Please do not embed images in a PDF
+
 ## Special Events Format
 
 The Special Events entries all follow the same format::
 
-1. Name of Participant: topic title or name ~ event title
-2. Weekday, date (no "th") month at time ( x:yy format ) in location
-3. Body text of a few lines
+* Name of Participant: topic title or name ~ event title
+* Weekday, date (no "th") month at time ( x:yy format ) in location
+* Body text of a few lines
+* Name: no initials or institution names needed
+* Topic: few word topic summary
+
+Special events note
+
+* All special events must have a name associated with them
+* De Young Docent etc: counts as a name if actual docents name is not available
+* If no name, then the topic is not a special event and is not highlighted
 
 To the left of the entry is a small image. Please do supply a sample image. The priority of the images is as follows:
 
@@ -80,7 +86,7 @@ To the left of the entry is a small image. Please do supply a sample image. The 
 Example:
 
 **Mary Linde, CEO: Town Hall Meeting**<br>
-_Wednesday, 8 November at 10:30 in Friendship Hall_<br>
+*Wednesday, 8 November at 10:30 in Friendship Hall*<br>
 Meeting to address the issues raised at the Residents’ Council. Includes reports from executive and department directors.
 
 
@@ -105,33 +111,105 @@ Director: Pete Smith ~ Stars: Anthony Gonzalez, Gael García Bernal, Benjamin Br
 
 Example:
 
-**_Portrait in Sepia: A Novel_ ~ 2000 ~ F**<br>
+***Portrait in Sepia: A Novel* ~ 2000 ~ F**<br>
 Isabel Allende<br>
 The family saga covers two wars and the role of women in Chile, where Allende was raised.
 
 
-## Images
-
-Please send the largest highest quality images you have. The images will be resized and cropped to fit the format. The larger the image, the better the quality of the image in the final publication.
-
-* Please send images as attachments to an email
-* Please do not embed images in a document
-* Please do not embed images in a PDF
-
-
 ## Style
 
-The Heritage Happenings follows the *University of Oxford Style Guide*
+The Heritage Happenings follows the *University of Oxford Style Guide*.
 
-Short & Quick Reference:
+A short & quick Reference is available online at:
 
 * https://www.ox.ac.uk/sites/files/oxford/Style%20Guide%20quick%20reference%20A-Z.pdf
 
 General rule: If there is more than one correct way of writing something, choose whichever uses least space and least ink.
 
+See also _The Economist Style Guide_
+
+* https://cdn.static-economist.com/sites/default/files/store/Style_Guide_2015.pdf
+* https://www.amazon.com/Writing-Style-Economist-Guide-Books/dp/1639364374
+
 Argument Resolution Reference
 
 * https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf
+
+
+***
+
+## Publication Guidelines
+
+
+## Colors
+
+<section style="background-color: #ff0;">
+
+The house color for headers and other text accents
+
+</section>
+
+Brick red: #880000 or rgb(136, 0, 0)
+
+## Special events images
+
+* 1.3 inches wide
+* Aligned to magic green lines indicating left margin and often the top of adjacent text
+* Set to move with text
+* Set Layout Options to "With Text Wrapping" > Square and "Move with text"
+* An image 1.3 inches wide is tiny. Crop incoming image heavily so that only the head of the presenter is visible then resize to 1.3 inches wide.
+
+Special events text position
+
+* Paragraph > Indentation: Left 1.5 inches
+
+## Types of Events
+
+* Special Events
+* Regular Events
+* Country of the Month Events
+* Birthday Events
+* Dining Service Events
+* Movies:
+* Videos: only included in the calendar if they relate to the Country of the Month
+
+### Special events
+
+A resident, senior team member or outside contractor or invited guest is the presenter or performer. The event is open to all residents and staff. The event is held in a common area of the facility.
+
+* Examples: Town Hall Meeting
+* De Young Docent, Committee Meeting
+* Saturday Shorts
+* Birthday Sing-along & Dinner
+* Food Committee, Out & About Committee, Activities Committee
+* Garden Committee, Library Committee, Resident Council
+
+Notes
+
+* A video presentation is not a special event
+* Activities untended for Assisted Living and Memory care residents are generally not considered to be special events
+
+### Regular events
+
+Are included in the calendar but are not highlighted as special events in the newsletter.
+
+* An outside contractor or invited guest is the leader of a regular event.
+* Examples: Yoga, Morning Stretch, Massage, Mass, Art Class, Tess: Tech Help
+* First Friday Mass ??
+
+### Activities for ILC Residents
+
+* Meditation, Spanish, Bingo,
+* Walking Group, Balance class
+* Men's Group
+
+To be confirmed
+
+* Reminiscing, Stretch & Flex
+* Sit and Be fit,
+* What's Up
+
+###
 
 
 ## Tips
