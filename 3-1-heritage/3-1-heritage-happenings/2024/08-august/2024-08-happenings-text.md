@@ -1,5 +1,31 @@
 # 2024-08 Happenings Text
 
+## Agenda
+
+### Resdir
+
+* To Ana
+
+### Mary Liz
+
+* Report
+* Spanish Theme Meal
+* Kale: superfood
+
+### Patrick
+
+* Spain
+* BoD
+* Fundraisers
+* Stela: Name tags
+* Til: model
+* Sheila
+
+
+### Editorial
+
+
+
 ## Sunday Movies
 
 4 August ~ The Rose Maker ~ 2020 ~ 1h 35m ~ Comedy, Drama (in French with English Subtitles)
