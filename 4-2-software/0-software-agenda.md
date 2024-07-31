@@ -7,7 +7,8 @@
 ## Agenda
 
 * ?
-* https://meco.app/?utm\_campaign=39ye
+* https://markdown-it.github.io/ could be better than showdown ~ let's explore it  
+* [https://meco.app/?utm\_campaign=39ye](https://meco.app/?utm_campaign=39ye)
 * Want: instant dictation
 * TL;DV?
 * Want
