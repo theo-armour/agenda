@@ -22,6 +22,37 @@
 * Sheila
 
 
+Committed to Committees
+When you think of all the tumultuous events happening worldwide, it is often difficult to consider things such as progress, cooperation, and being considerate of others.
+When I moved into Heritage on the Marina in 2020, we were all in lockdown, and contact with others was anathema. But gradually, being in touch with others is building up again. What made me think of this is the activities of our committees here at Heritage on the Marina.
+The Food Committee, under Mary Liz's guidance, was perhaps the first to start meeting in person. Then, the Residents Council officers began meeting in person.
+Perhaps the most organized has been the Library Committee. And the most discrete: the Birthday Table Committee.
+Personally, I am pleased that the Heritage Happenings Editorial Committee members have been so productive. They churn out twenty or more pages of content monthly, and their average age is well over ninety.
+To this entourage, we welcome the newly formed Garden Committee. It will be interesting to see how it follows up on Marcia's devotion to the gardens for so many years.
+There are “unofficial” groups that play bridge, mahjong and Scrabble. My favorite is a group of residents who simply help other residents with tasks such as shopping, laundry and medical visits.
+The key to successful healthy aging is to be sociable. QED
+
+## Editorial
+
+In a world often overshadowed by global turmoil, it's heartening to focus on the progress and cooperation within our Heritage on the Marina community.
+When I arrived in 2020 during lockdown, social contact was limited. Now, our committees have become the cornerstone of our renewed social engagement. The Food Committee, led by Mary Liz, pioneered in-person meetings, followed by the Residents Council. The Library Committee showcases exceptional organization, while the Birthday Table Committee works discreetly to celebrate our milestones.
+I'm particularly proud of our Heritage Happenings Editorial Committee. With an average age over ninety, they produce an impressive monthly newsletter. We also welcome the new Garden Committee, set to build on Marcia's years of dedication to our grounds.
+Informal groups for bridge, mahjong, and Scrabble complement our official committees. Most touching is the group of residents who assist neighbors with daily tasks, embodying our community spirit.
+These committees and groups prove that age doesn't hinder active participation. They offer opportunities for interaction and purpose, demonstrating that the key to healthy aging is social engagement.
+In these uncertain times, let's appreciate the vibrant community we've built. Through our collective efforts, we're not just aging – we're thriving together at Heritage on the Marina.
+## 2024-07-30
+
+food committee
+
+Show a dime already wow. This is teo I was wondering if you'd been able to find a picture of your grandmother I asked. this because formatting the text that we have the prayer made it too long and now. But so. But there is now 23 lines of the space. This available space for a photograph. So that would be great if you could get it to to me to take a picture of or something like that. So please buy this evening. Thanks. Bye. Call Glen Harry Copeland. He doesn't want to pay for it. Who goes Hi mate, I was hoping to get something else afternoon. Yeah, no, I'm up. I'm gonna be printing in a couple of minutes. OK Thanks. I would have brought that back sooner, but I was waiting for everything at once. Right? Right. Yeah, right Yeah, this got it. Yeah, yeah, right And one I can't change cause there's not enough room. Yeah, that's what I figured. Yeah. Yeah Thanks a few minutes. OK, OK, I'll knock on your door. Well, I'm going down. Are you going down? So by the time when you come back, it'll be there. OK, yes, yes. I'm sorry. I forgot the time. Would you come back? OK, inside. OK Play I was I am writing the editorial for our monthly July's food committee meeting was help at 10:30 july 9 in the McGinley room. Angie Lam distributed copies  of all the comments from the dining room comment box and we had a discussion about the items. Angie emphasized including the date of the meal or food iten on your written comment. Participants at the meeting then made additional comments
+
+The June Carribean dinner was excellent. Mary lLz found four items from her mama's Puerto Rican cooking and felt "she had died and gone to heaven" as how great it was to eat them again!
+In time for the Summer Olympics in July in Paris was our. gastronomical and cultural study of France. A French dinner and party was held. French and even the music of Spain are August country was provided by an excellent violinist!
+
+September 10 will be our next committee meeting all residents are welcome.
+
+Mary Liz Harris, food committee chair, Report
+
 ## Fundraiser Ideas
 
 "Granny's Attic"
@@ -58,6 +89,8 @@ Giant group coloring project:
 
 
 ### Editorial
+
+
 
 
 ## Mia
