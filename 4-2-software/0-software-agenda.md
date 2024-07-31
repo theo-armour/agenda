@@ -7,6 +7,7 @@
 ## Agenda
 
 * ?
+* Upgrade to bc5  
 * https://markdown-it.github.io/ could be better than showdown ~ let's explore it  
 * [https://meco.app/?utm\_campaign=39ye](https://meco.app/?utm_campaign=39ye)
 * Want: instant dictation
