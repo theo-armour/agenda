@@ -1,5 +1,13 @@
 # 2024-07-07 Sensay Journal
 
+## 2024-07-31
+
+* pricing per replica
+* archiving sensay
+* vision for the future + values
+* Blog posts
+
+
 
 ## 2024-07-15
 
@@ -15,6 +23,9 @@ There is you and then there is a replica of you.
 in the 2020, my mission is to help you live or your replica forever.
 
 ;-)
+metamask com
+
+
 
 
 ## 2024-07-07
