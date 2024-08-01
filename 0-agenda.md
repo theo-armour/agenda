@@ -12,9 +12,8 @@
 * ?
 * Van request
 * HH: calendar entries
-* HH: Calendar
-* HH: newsletter + email
-* Bathroom: clean floor
+*   
+*   
 
 ## SOON
 
