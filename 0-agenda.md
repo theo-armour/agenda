@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-* Van request
+*   
 * HH: calendar entries
 
 ## SOON
