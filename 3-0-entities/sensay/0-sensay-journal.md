@@ -2,6 +2,7 @@
 
 ## 2024-07-31
 
+* install: metamask.io
 * pricing per replica
 * archiving sensay
 * vision for the future + values
@@ -23,7 +24,7 @@ There is you and then there is a replica of you.
 in the 2020, my mission is to help you live or your replica forever.
 
 ;-)
-metamask com
+
 
 
 
