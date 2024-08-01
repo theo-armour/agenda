@@ -8,11 +8,10 @@
 
 * ?
 
-
-
 ## DWA + Pershing
 
 * Josh: estimated payments
+* Josh: class action suits: ignore them OK?
 * DWA/Josh: note re Estimated payments not sent??
 * DWA: Send Will & Trust docs / Olivia to look
 
