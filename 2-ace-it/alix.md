@@ -5,6 +5,10 @@
 * [https://www.minimise.today/](https://www.minimise.today/)
 * Add data to my sensay
 
+## 2024-08-01
+
+* therapist
+
 
 ## 2024-07-04
 
