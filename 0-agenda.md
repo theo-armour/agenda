@@ -10,22 +10,25 @@
 ## Today
 
 * ?
-* Van request
-* HH: calendar entries
-*   
-*   
+* Sarah Weld: Carlos
 
 ## SOON
 
 * ?
+* add gbxml files
+* Rejig monitor stand
+* Return cane to PT
+* Tidy desk
+* Martha Meet
+* Update Markdown note apps
+* Read Dan's book 
+* H prices to CynthiaM
 * SenSay: Youngsters
 * SenSay: FAQ: vision
 * Sensay: voice-to-text for replica
-* H prices to CynthiaM
 * Marie-so: wedding
 * Ham Radio: take notes
 * Rob Astrudillo: HotM
-* Martha Meet
 * SacSem: email to post ~ mobile
 * Sensay: 3D
 * WSL: ubuntu
@@ -46,8 +49,8 @@
 
 * ?
 * Supernote screen & case I sent 5k
-* S: Esomeprazole ~ wipes ~ chia seeds 
-* A: diapers ~ closys ~ back brace ~ 
+* S:>>> Eso>meprazole ~ wipes ~ gum detoxify hia seeds 
+* A: diapers ~ closys ~ rj45 ~ back brace ~ 
 
 <details><summary>Personal Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-day</a>s-of-week<br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a><br></p><p></p></details>
 
