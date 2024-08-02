@@ -10,20 +10,23 @@
 ## Today
 
 * ?
-*   
+* Sarah Weld: Carlos
 *   
 
 ## SOON
 
 * ?
+* Tidy desk
+* Martha Meet
+* Update Markdown note apps
+* Read Dan's book 
+* H prices to CynthiaM
 * SenSay: Youngsters
 * SenSay: FAQ: vision
 * Sensay: voice-to-text for replica
-* H prices to CynthiaM
 * Marie-so: wedding
 * Ham Radio: take notes
 * Rob Astrudillo: HotM
-* Martha Meet
 * SacSem: email to post ~ mobile
 * Sensay: 3D
 * WSL: ubuntu
