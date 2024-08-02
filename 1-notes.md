@@ -2,6 +2,10 @@
 
 ??
 
+  
+
+  
+
 30 residents present
 
 Survey care pleased
@@ -45,10 +49,6 @@ Hospice Friday 11am
 Pharma america
 
 Hector:
-
-  
-
-  
 
 Santa Claus national Park Spicer Meadows reservoir 
 
