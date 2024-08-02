@@ -16,7 +16,7 @@ Click on the website links below to open your digital copies of the August publi
 
 [_Heritage Happenings_ **Calendar**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-08-happenings-calendar.pdf)
 
-The _Heritage Happenings_ **Residents Directory** has also been updated this month. Your copy is attached to the botton of this email.
+The _Heritage Happenings_ **Residents Directory** has also been updated this month. Your copy is attached to the bottom of this email.
 
 As part of the monthly **Around the World** program, _Heritage Happenings_ visits **Spain**. Look for the red and yellow colors of the Spanish flag theme. Look for Ferdinand the Bull blowing a trumpet as herald of the month for the masthead cameo.
 
@@ -75,7 +75,7 @@ t.armour@gmail.com<br>
 <br>
 
 
-## xxxx My Friends
+## My Friends
 
 August 2024: Heritage Happenings
 
@@ -128,9 +128,12 @@ Click the links below to open your digital copies of the August publications.
 
 [_Heritage Happenings_ **Calendar**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-08-happenings-calendar.pdf)
 
-This month we have added a new publication: [_Heritage Happenings_ **Floor Plans**]( https://heritage-happenings.github.io/happenings-issues/2024/2024-08-happenings-floor-plans.pdf)
+The _Heritage Happenings_ **Residents Directory** has also been updated this month. Your copy is attached to the bottom of this email. Please check that your contact information is correct.
 
-Please feel free to use the Floor Plans publication to help residents, visitors and new team members find their way around the building.
+As part of the monthly **Around the World** program, _Heritage Happenings_ visits **Spain**. Look for the red and yellow colors of the Spanish flag theme. Look for Ferdinand the Bull blowing a trumpet as herald of the month for the masthead cameo.
+
+I am now employing my niece Mia Cotton Harlock as Associate Editor to help with publishing the Calendar and adding new features to the Newsletter. Mia is a talented and experienced writer and editor. I am delighted to have Mia on board.
+
 
 Cheers,
 
