@@ -11,7 +11,7 @@
 
 * ?
 *   
-* HH: calendar entries
+*   
 
 ## SOON
 
