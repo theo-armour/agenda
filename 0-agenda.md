@@ -11,11 +11,12 @@
 
 * ?
 * Sarah Weld: Carlos
-*   
 
 ## SOON
 
 * ?
+* Rejig monitor stand
+* Return cane to PT
 * Tidy desk
 * Martha Meet
 * Update Markdown note apps
