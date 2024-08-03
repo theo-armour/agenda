@@ -5,6 +5,63 @@
 * [https://www.minimise.today/](https://www.minimise.today/)
 * Add data to my sensay
 
+## 2024-08-03
+
+Are there other sayings or aphorisms that are about apples?
+
+Some examples:
+
+* Pick out the bad apples
+* The Apple doesn’t fall far from the tree
+* Some apples fall on their own, some need a little jerk/help/ provocation
+* Is it a sin to take an Apple from the garden of Eden?
+
+Results:
+
+### Gemeni: https://g.co/gemini/share/c5552a6f6498
+
+Selected
+
+* Rotten to the core
+* Upset the apple cart
+* Compare apples and oranges:
+
+### Microsoft Copilot: https://copilot.microsoft.com/sl/c4nONHlEqn6
+
+Selected
+
+* If you never tasted a bad apple, you would not appreciate a good apple.
+* An apple a day keeps anyone away, if you throw it hard enough.
+* “Alley Apple” - A piece of manure or a brick or stone found in the street
+* “Green Apple Quickstep” - Diarrhea
+* “Road Apple” - Horse manure
+
+### ChatGPT: https://chatgpt.com/share/37c0bc7f-3559-481a-818f-b3b2b967a51d
+
+Selected
+
+* One bad apple spoils the bunch – This means that one bad influence can affect an entire group.
+* Sour apples – This can refer to something or someone that is unpleasant or unkind.
+* How do you like them apples? – This phrase is used to boast about a success or taunt someone after a victory.
+* Apple-polisher – This refers to someone who flatters another person for personal gain.
+
+
+### Claude: https://claude.ai/chat/3fae907f-7d39-4706-9ea3-87197716d537
+
+* "The sweetest apple has the sourest rind" - This proverb suggests that good things often have difficult exteriors or require effort to obtain.
+
+
+## For Alix
+
+I asked Gemini, Microsoft Copilot, ChatGPT, and Claude for sayings or aphorisms about apples. Here are some of the results:
+
+* If you never tasted a bad apple, you would not appreciate a good apple.
+* An apple a day keeps anyone away, if you throw it hard enough.
+* “Green Apple Quickstep” - Diarrhea
+* “Road Apple” - Horse manure
+* "The sweetest apple has the sourest rind" - This proverb suggests that good things often have difficult exteriors or require effort to obtain.
+
+
 ## 2024-08-01
 
 * therapist
