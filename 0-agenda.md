@@ -15,7 +15,9 @@
 ## SOON
 
 * ?
+* Michael Howard: reply
 * add gbxml files
+* Angie: menus
 * Rejig monitor stand
 * Return cane to PT
 * Tidy desk
@@ -108,7 +110,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
-* markdown-it: make it happen  
+* markdown-it: make it happen
 * Happenings: Audio version
 * Residents directory: hairdressers + others
 * Charlie-boy: holiday sign
