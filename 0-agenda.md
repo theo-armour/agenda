@@ -13,6 +13,7 @@
 ## SOON
 
 * ?
+* RC officers: waymo EAF offer ~ fundraisers
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 * Clay Jackson: email
 * Michael Howard: reply
