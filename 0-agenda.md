@@ -6,6 +6,7 @@
 * 2024-07-21 ~ "Don't tell me I'm burning the candle at both ends -- tell me where to get more wax!!" ~ Slashdot
 * 2024-07-26 ~ better  too early than too late: the story of my life
 * 2024-07-27 ~ Laura Burges' David > "architechie"
+* 2024-08-04 ~ "leave your crown in the garage" ~ https://fs.blog/brain-food/august-4-2024/
 
 ## Today
 
