@@ -13,7 +13,7 @@
 ## SOON
 
 * ?
-* Shirley: lunch ~ nondisclosure ~ affiliation 
+* Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 * Clay Jackson: email
 * Michael Howard: reply
 * add gbxml files
