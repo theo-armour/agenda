@@ -3,6 +3,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * 2024-08-04 ~ "leave your crown in the garage" ~ https://fs.blog/brain-food/august-4-2024/  
+* 2024-08-04 ~ write down 10 ideas a day
 
 ## Today
 
@@ -12,6 +13,7 @@
 ## SOON
 
 * ?
+* Clay Jackson: email
 * Michael Howard: reply
 * add gbxml files
 * Angie: menus
