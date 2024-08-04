@@ -90,7 +90,7 @@
 
 * 2am
 * Christine: [https://www.freefuse.com/](https://www.freefuse.com/)
-* Christine Casy: painting thanks
+* ing thanks
 * Pam Choy ~ Niantic maps ~ sketchfab
 * Ashley
 * Shammah: birthday
