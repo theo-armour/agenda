@@ -13,6 +13,7 @@
 ## SOON
 
 * ?
+* Shirley: lunch ~ nondisclosure ~ affiliation 
 * Clay Jackson: email
 * Michael Howard: reply
 * add gbxml files
