@@ -2,9 +2,10 @@
 
 ??
 
-Pharma america Martha 
+* Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
+*   
 
-  
+Pharma america Martha 
 
 30 residents present
 
@@ -45,8 +46,6 @@ Care plan
 Physician report update 
 
 Hospice Friday 11am
-
-  
 
 Hector
 
