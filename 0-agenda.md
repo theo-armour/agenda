@@ -14,14 +14,13 @@
 ## SOON
 
 * ?
+* Mia: Ducks ~ calendar ~ 
 * Martha: pharma America ~ MyChart app?
 * RC: reports
-* Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
-* add gbxml files
+* add gbxml files  
 * Angie: menus
 * Rejig monitor stand
 * Return cane to PT
-* Tidy desk
 * Update Markdown note apps
 * Read Dan's book 
 * H prices to CynthiaM
@@ -32,6 +31,7 @@
 * Ham Radio: take notes
 * Rob Astrudillo: HotM
 * SacSem: email to post ~ mobile
+* SaceSem: constant contact
 * Sensay: 3D
 * WSL: ubuntu
 * LinkedIn: bio
