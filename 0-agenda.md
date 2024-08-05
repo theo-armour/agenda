@@ -15,7 +15,6 @@
 * ?
 * Kattah: no messaging
 * Dr Immerman: onset: early morning wakeup ~ symptoms: tingling inside of thumb & fingers ~ relief: extend left arm straight out to right side ~ few symptoms during the day, primarily when extended walk with upright walker or cane ~ long term effects ~ fall risk precaution: prosthesis ~ scoliosis
-* RC officers: waymo EAF offer ~ fundraisers
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 * Clay Jackson: email
 * Michael Howard: reply
