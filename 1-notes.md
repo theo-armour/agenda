@@ -2,7 +2,7 @@
 
 ??
 
-  
+Pharma america Martha 
 
   
 
@@ -46,9 +46,9 @@ Physician report update 
 
 Hospice Friday 11am
 
-Pharma america
+  
 
-Hector:
+Hector
 
 Santa Claus national Park Spicer Meadows reservoir 
 
