@@ -2,7 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-08-04 ~ "leave your crown in the garage" ~ https://fs.blog/brain-food/august-4-2024/  
+* 2024-08-04 ~ "leave your crown in the garage" ~ [https://fs.blog/brain-food/august-4-2024/](https://fs.blog/brain-food/august-4-2024/)
 * 2024-08-04 ~ write down 10 ideas a day
 
 ## Today
@@ -13,6 +13,7 @@
 ## SOON
 
 * ?
+* Kattah: no messaging
 * Dr Immerman: onset: early morning wakeup ~ symptoms: tingling inside of thumb & fingers ~ relief: extend left arm straight out to right side ~ few symptoms during the day, primarily when extended walk with upright walker or cane ~ long term effects ~ fall risk precaution: prosthesis ~ scoliosis
 * RC officers: waymo EAF offer ~ fundraisers
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
