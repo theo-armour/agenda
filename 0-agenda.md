@@ -15,8 +15,6 @@
 * ?
 *   
 * RC: reports
-*   
-
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 * Clay Jackson: email
 * add gbxml files
