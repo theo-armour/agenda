@@ -22,7 +22,7 @@
 * Rejig monitor stand
 * Return cane to PT
 * Tidy desk
-* Martha Meet
+*   
 * Update Markdown note apps
 * Read Dan's book 
 * H prices to CynthiaM
