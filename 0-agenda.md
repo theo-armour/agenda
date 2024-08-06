@@ -9,8 +9,7 @@
 
 * ?
 * Sarah Weld: Carlos
-* Clay Jackson: email
-* MMia: Ducks ~ calendar 
+*   
 
 ## SOON
 
@@ -18,7 +17,7 @@
 * Angie: menus
 * EMG test: 415 353-2808
 * RC: reports
-* add gbxml files  
+* Add gbxml files  
 * Rejig monitor stand
 * Return cane to PT
 * Update Markdown note apps
