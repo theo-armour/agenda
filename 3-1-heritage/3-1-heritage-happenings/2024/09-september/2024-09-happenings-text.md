@@ -1,12 +1,30 @@
 # 2024-09 September
 
+
+## Theo: Fundraisers
+
+* Waymo EAF
+
+## India
+
+* Elephant Festival
+* Diwali
+
+## Tucker
+
+* India article
+
 ## ICS Calendar File
 
 * Include Residents Council & Leadership Team meetings
 * Include all events from the Calendar
 * Birthday Dinner other special meals
 
-## Calendar
+## Calendar: Group discussion
+
+Second & Fourth Wednesday of the month
+
+## Calendar: Episcopal service
 
 * Rod's email about episcopal service
 
