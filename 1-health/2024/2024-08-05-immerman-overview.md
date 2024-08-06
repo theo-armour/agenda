@@ -1,5 +1,12 @@
 # 2024-08-05 Dr Immerman
 
+## Good visit
+
+* Referral to Spine Specialist
+* Referral to Prosthetist ~ Daniel Ballarin CPO ~ 415 476-1788
+* Referral to EMG test: 415 353-2808
+* Use the splint at night
+
 ## General Health Quite Good
 
 * Ten sit to stand in 10-12 seconds

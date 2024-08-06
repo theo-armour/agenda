@@ -2,6 +2,8 @@
 
 ## To Do
 
+* App that announces exercise activities every few minutes
+
 ## Teodoros
 
 * Admin
@@ -21,7 +23,7 @@
 * Take Vitamins
 * Turn on computers
 * diary today & yesterday
-*
+
 
 ## daily
 
