@@ -10,21 +10,19 @@
 * ?
 * Sarah Weld: Carlos
 * Clay Jackson: email
+* MMia: Ducks ~ calendar 
 
 ## SOON
 
 * ?
-* EMG test: 415 353-2808  
-* Mia: Ducks ~ calendar ~ 
-* Martha: pharma America ~ MyChart app?
+* Angie: menus
+* EMG test: 415 353-2808
 * RC: reports
 * add gbxml files  
-* Angie: menus
 * Rejig monitor stand
 * Return cane to PT
 * Update Markdown note apps
 * Read Dan's book 
-* H prices to CynthiaM
 * SenSay: Youngsters
 * SenSay: FAQ: vision
 * Sensay: voice-to-text for replica
