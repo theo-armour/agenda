@@ -9,15 +9,14 @@
 
 * ?
 * Sarah Weld: Carlos
-*   
 
 ## SOON
 
 * ?
+* Nancy T: mailing list
 * Angie: menus
 * EMG test: 415 353-2808
-* RC: reports
-* Add gbxml files  
+* Add gbxml files
 * Rejig monitor stand
 * Return cane to PT
 * Update Markdown note apps
