@@ -2,9 +2,10 @@
 
 ??
 
-  
+* Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
+*   
 
-  
+Pharma america Martha 
 
 30 residents present
 
@@ -46,9 +47,7 @@ Physician report update 
 
 Hospice Friday 11am
 
-Pharma america
-
-Hector:
+Hector
 
 Santa Claus national Park Spicer Meadows reservoir 
 
