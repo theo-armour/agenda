@@ -9,17 +9,14 @@
 
 * Elephant Festival
 * Diwali
-
-## Tucker
-
-* India article
+* Tucker: India article
+* Shiela? ??
 
 ## ICS Calendar File
 
 * Include Residents Council & Leadership Team meetings
 * Include all events from the Calendar
 * Birthday Dinner other special meals
-
 ## Calendar: Group discussion
 
 Second & Fourth Wednesday of the month
@@ -35,4 +32,8 @@ Second & Fourth Wednesday of the month
 ## Grass-fed beef article
 
 * from Morris website
+
+## ResDir
+
+* Shirley / Lucia mixup
 
