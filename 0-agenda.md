@@ -14,6 +14,7 @@
 ## SOON
 
 * ?
+* EMG test: 415 353-2808  
 * Mia: Ducks ~ calendar ~ 
 * Martha: pharma America ~ MyChart app?
 * RC: reports
