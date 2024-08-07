@@ -17,7 +17,7 @@
 * PPH Gary: Gastroenterology referral  
 *   
 * Angie: menus
-* EMG test: 415 353-2808
+*   
 * Add gbxml files
 * Rejig monitor stand
 * Return cane to PT
