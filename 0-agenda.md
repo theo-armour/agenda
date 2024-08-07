@@ -8,7 +8,8 @@
 ## Today
 
 * ?
-*   
+* Til: Part
+* AA: Party
 
 ## SOON
 
