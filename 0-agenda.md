@@ -11,10 +11,16 @@
 * Til: Part
 * AA: Party
 * Window washing
+* test-li  
+
+  
+
+  
 
 ## SOON
 
 * ?
+* UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
 * SenSay: rejig
 * Carlos: 
 * SacSem: Constant Contact
