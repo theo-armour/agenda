@@ -8,7 +8,7 @@
 ## Today
 
 * ?
-* Sarah Weld: Carlos
+*   
 
 ## SOON
 
