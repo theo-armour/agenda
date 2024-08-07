@@ -36,6 +36,7 @@
 * LinkedIn: bio
 * RandyGridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Granucci: drive
+* Morgan Sentenery: Patti ~ MargaretJa
 
 ***
 
