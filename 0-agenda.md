@@ -13,9 +13,9 @@
 ## SOON
 
 * ?
+* SenSay: rejig
 * Carlos: 
-* PPH Gary: Gastroenterology referral  
-*   
+* PPH Gary: Gastroenterology referral
 * Angie: menus
 * Add gbxml files
 * Rejig monitor stand
