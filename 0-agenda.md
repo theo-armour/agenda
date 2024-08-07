@@ -13,8 +13,9 @@
 ## SOON
 
 * ?
+* Carlos: 
 * PPH Gary: Gastroenterology referral  
-* Nancy T: mailing list
+*   
 * Angie: menus
 * EMG test: 415 353-2808
 * Add gbxml files
