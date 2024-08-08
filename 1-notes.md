@@ -3,7 +3,12 @@
 ??
 
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
-*   
+
+Ethan makes 3d
+
+  
+
+  
 
 Pharma america Martha 
 
