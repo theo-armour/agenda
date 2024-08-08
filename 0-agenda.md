@@ -21,7 +21,6 @@
 * Carlos: 
 *   
 * PPH Gary: Gastroenterology referral
-* Angie: menus
 * Add gbxml files
 * Rejig monitor stand
 * Return cane to PT
