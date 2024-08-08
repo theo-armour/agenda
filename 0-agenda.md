@@ -8,32 +8,26 @@
 ## Today
 
 * ?
-* Til: Part
-* AA: Party
+* Mis
+* Claudia
+* Dan
 * Window washing
 
 ## SOON
 
 * ?
-* SenSay: rejig
+* UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
 * Carlos: 
-* SacSem: Constant Contact
 * PPH Gary: Gastroenterology referral
-* Angie: menus
 * Add gbxml files
 * Rejig monitor stand
 * Return cane to PT
 * Update Markdown note apps
 * Read Dan's book 
-* SenSay: Youngsters
-* SenSay: FAQ: vision
-* Sensay: voice-to-text for replica
 * Marie-so: wedding
 * Ham Radio: take notes
 * Rob Astrudillo: HotM
 * SacSem: email to post ~ mobile
-* SaceSem: constant contact
-* Sensay: 3D
 * WSL: ubuntu
 * LinkedIn: bio
 * RandyGridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
