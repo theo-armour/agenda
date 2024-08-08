@@ -8,7 +8,6 @@
 ## Today
 
 * ?
-* AA: Party
 * Mis
 * Claudia
 * Dan
