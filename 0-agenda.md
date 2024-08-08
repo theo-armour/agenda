@@ -11,8 +11,8 @@
 * AA: Party
 * Mis
 * Claudia
+* Dan
 * Window washing
-* test-li
 
 ## SOON
 
