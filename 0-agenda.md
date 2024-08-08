@@ -8,8 +8,9 @@
 ## Today
 
 * ?
-* Til: Part
 * AA: Party
+* Mis
+* Claudia
 * Window washing
 * test-li
 
