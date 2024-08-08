@@ -19,21 +19,17 @@
 * UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
 * SenSay: rejig
 * Carlos: 
-*   
 * PPH Gary: Gastroenterology referral
 * Add gbxml files
 * Rejig monitor stand
 * Return cane to PT
 * Update Markdown note apps
 * Read Dan's book 
-* SenSay: Youngsters
-* SenSay: FAQ: vision
-* Sensay: voice-to-text for replica
 * Marie-so: wedding
 * Ham Radio: take notes
 * Rob Astrudillo: HotM
 * SacSem: email to post ~ mobile
-* SaceSem: constant contact
+*   
 * Sensay: 3D
 * WSL: ubuntu
 * LinkedIn: bio
