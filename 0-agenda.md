@@ -12,7 +12,6 @@
 * Claudia
 * Dan
 * Window washing
-* Alex P
 *   
 
 ## SOON
