@@ -10,15 +10,17 @@
 * ?
 * Mis
 * Claudia
-* Dan
-* Window washing
-*   
+* Dan Thompsomn
+* Marco
+* M Johnson: dinner
 
 ## SOON
 
 * ?
+* Dr Han
+* Window washing
 * UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
-* Carlos: 
+* Carlos: Sarah Weld: phone #?
 * PPH Gary: Gastroenterology referral
 * Add gbxml files
 * Rejig monitor stand
@@ -27,13 +29,13 @@
 * Read Dan's book 
 * Marie-so: wedding
 * Ham Radio: take notes
-* Rob Astrudillo: HotM
+*   
 * SacSem: email to post ~ mobile
 * WSL: ubuntu
 * LinkedIn: bio
 * RandyGridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Granucci: drive
-* Morgan Sentenery: Patti ~ MargaretJa
+* Morgan Sentenery: Patti ~ Margaret Ja
 
 ***
 
