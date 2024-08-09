@@ -17,6 +17,8 @@
 ## SOON
 
 * ?
+* Dr Fassett: clinic
+* Franklin Dentist + UCSF: dental clini
 * Dr Han
 * Window washing
 * UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
@@ -32,10 +34,10 @@
 *   
 * SacSem: email to post ~ mobile
 * WSL: ubuntu
-* LinkedIn: bio
-* RandyGridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
+* LinkedIn: my bio
+* Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Granucci: drive
-* Morgan Sentenery: Patti ~ Margaret Ja
+* Morgan Centenary: Patti ~ Margaret Ja
 
 ***
 
