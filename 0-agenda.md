@@ -12,6 +12,8 @@
 * Claudia
 * Dan
 * Window washing
+* Alex P
+*   
 
 ## SOON
 
@@ -49,7 +51,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* S: non-alcoholic rum ~ sutter white zin  ~ beer ~ Chia seeds 
+* S: Chia seeds 
 * A: rj45 ~ back brace ~ lamisil
 
 <details><summary>Personal Agendas</summary><p></p><p><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-day</a>s-of-week<br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a><br><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a><br></p><p></p></details>
@@ -87,6 +89,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * 2am
+* Ray E
 * Christine: [https://www.freefuse.com/](https://www.freefuse.com/)
 * ing thanks
 * Pam Choy ~ Niantic maps ~ sketchfab
@@ -108,6 +111,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
+* Surströmming party 
 * markdown-it: make it happen
 * Happenings: Audio version
 * Residents directory: hairdressers + others
