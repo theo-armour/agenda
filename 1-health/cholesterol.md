@@ -21,7 +21,7 @@
 * Olive oil salad dressing
 * Green tea
 * Oatmeal, yoghurt, prunes & fruit
-* Granola, almnd milk, peunes
+* Granola, almond milk, prunes
 
 ### 2023-12-15
 
@@ -30,7 +30,3 @@ Triglycerides 191
 HDL 49
 VLDL 34
 LDL 127
-
-
-
-

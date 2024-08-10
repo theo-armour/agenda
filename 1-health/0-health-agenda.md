@@ -8,8 +8,9 @@
 * Dr Immerman: 08/05 3:30
 * Dr Fassett: Dermatology exam ~ August 20 3:40 ~ 185 Berry Ste 1000
 * PPH > Gary: 08/26/2024 10:30 am
-* Dr Vaderhibli: 11:30 August 26
+* Dr Vaderhobli: 11:30 August 26
 * Dr Yoga: 09/12 3:00
+* Dr Masato Nagao: 10/21 @ 1 pm ~ 415 353 2080 ~ 1500 Oswns
 
 ## Agenda
 

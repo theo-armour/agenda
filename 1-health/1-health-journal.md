@@ -1,5 +1,14 @@
 # Health Journal
 
+## 2024-08-09
+
+* Daniel Ballarin, CPO ~ Prosthetist
+
+
+## 2024-08-05
+
+* Dr Immerman ~ referrals
+
 ## 2024-07-25
 
 * Colonoscopy: Dr Kattah ~ 4 polyps ~ 7mm biggest
