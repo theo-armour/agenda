@@ -13,13 +13,12 @@
 * Dan Thompson
 * Marco
 
-
 ## SOON
 
 * ?
 * Spotswood: house visit?
 * Dr Fassett: clinic
-* Franklin Dentist + UCSF: dental clini
+* Franklin Dentist + UCSF: dental clinic
 * Dr Han
 * Window washing
 * UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
