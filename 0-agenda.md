@@ -8,15 +8,16 @@
 ## Today
 
 * ?
-* Mis
+* Mia
 * Claudia
-* Dan Thompsomn
+* Dan Thompson
 * Marco
-* M Johnson: dinner
+
 
 ## SOON
 
 * ?
+* Spotswood: house visit?
 * Dr Fassett: clinic
 * Franklin Dentist + UCSF: dental clini
 * Dr Han
@@ -31,7 +32,6 @@
 * Read Dan's book 
 * Marie-so: wedding
 * Ham Radio: take notes
-*   
 * SacSem: email to post ~ mobile
 * WSL: ubuntu
 * LinkedIn: my bio
@@ -114,6 +114,8 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
+* Strategic Plan: Community organization alternative
+* Morgan Building: 100th anniversary
 * Surströmming party 
 * markdown-it: make it happen
 * Happenings: Audio version
