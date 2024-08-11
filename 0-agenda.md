@@ -16,6 +16,7 @@
 ## SOON
 
 * ?
+* Christine Casey: Awesome Foundation
 * Spotswood: house visit?
 * Dr Fassett: clinic
 * Franklin Dentist + UCSF: dental clinic
