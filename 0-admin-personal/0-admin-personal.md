@@ -5,7 +5,7 @@
 * ?
 * \_The Art of Thinking for yourself\_: cheat sheet
 * Move closet shelves
-* Add ACE phone numbers to MS & Google accounts can we please meet on Tuesday at 4:00 p.m. Instead of noon
+* Add ACE phone numbers to MS & Google accounts
 * Update ICE
 * SSA: add Cynthia
 * Medicare: add Cynthia
