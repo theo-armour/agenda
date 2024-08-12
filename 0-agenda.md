@@ -11,18 +11,18 @@
 * Claudia
 * Dan Thompson
 * Marco
+* HH: agenda
+* Residents: Grace + Kathy
+* UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
 
 ## SOON
 
 * ?
 * Christine Casey: Awesome Foundation
-* Spotswood: house visit?
 * Dr Fassett: clinic
 * Franklin Dentist + UCSF: dental clinic
 * Dr Han
 * Window washing
-* UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
-* Carlos: Sarah Weld: phone #?
 * PPH Gary: Gastroenterology referral
 * Add gbxml files
 * Rejig monitor stand
@@ -37,6 +37,14 @@
 * Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Granucci: drive
 * Morgan Centenary: Patti ~ Margaret Ja
+
+  
+
+### Waiting
+
+  
+
+* Carlos: Sarah Weld: phone #?
 
 ***
 
