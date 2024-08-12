@@ -2,7 +2,7 @@
 
 ## Agenda
 
-* Soundcore: return?
+* Soundcore: Answer phone
 * Better Brother scanner?
 * pcStick: fix
 * pcMele: ??
@@ -11,20 +11,24 @@
 * Play with camera
 * Play with Loona
 * Build hand
-* All-in-one ~ Kickstarter pledged ~ link
+*   
 * SuperHexa: check for update
 
 ## Acquisitions
 
+## 
+
+##   
+
+Done
+
+* All-in-one ~ Kickstarter pledged ~ link
 * New keyboard?
-* Suitcase: Solgaard backpack with folding closet
 * Short throw projector: ??
 * Trike: ??
 * Trackpad??
-
-## Change Log
-
 * Laser Printer: 
+* Suitcase: Solgaard backpack with folding closet
 * Prep Oura
 * Prep Monocle
 * Bidet: Wirecutter recommendations
@@ -33,7 +37,3 @@
 ## RocketBook
 
 * clean pages
-
-  
-
-##
