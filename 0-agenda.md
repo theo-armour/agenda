@@ -161,11 +161,12 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Heritage</summary>
 
 <ul>
-<li>Dr Fassett: clinic</li>
+<li></li>
+<li>Morgan Centenary: Patti ~ Margaret Ja</li>Dr Fassett: clinic
 <li>Franklin Dentist + UCSF: dental clinic</li>
 <li>Window washing
 <br>
