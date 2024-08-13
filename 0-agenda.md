@@ -99,7 +99,6 @@
 <br>
 </details>
 
-***
 
 <details>
 <summary>Simplicity agenda</summary>
@@ -129,7 +128,14 @@
 <br>
 </details>
 
+<details>
+
+<summary>Family</summary>
+
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
+<br>
+</details>
+
 
 <details>
 <summary>Peeps</summary>
@@ -154,13 +160,13 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
 
-***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
+
 
 <details>
-<summary>Heritage agenda</summary>
+<summary>Heritage</summary>
 
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 <ul>
 <li>?</li>
 <li>Strategic Plan: Community organization alternative</li>
@@ -193,7 +199,9 @@
 <li>Xfinity: Demian: upload speeds</li>
 <li>Martha N: small charges</li>
 <li>Organist: evensong</li>
-<li>Emergency: 628 222-3097</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
+<li>Emergency: 628 222-3097</li></ul>
+<br>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
 <br>
@@ -216,13 +224,13 @@
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
-
+<br>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations repos</a>
-
+<br>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
-
+<br>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
-
+<br>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
 
 ***
