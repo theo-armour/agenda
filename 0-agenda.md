@@ -17,9 +17,12 @@
 ## SOON
 
 * ?
+* Return cane to PT
+* Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
+* Granucci: drive
+* Morgan Centenary: Patti ~ Margaret Ja
 * Add gbxml files
 * Rejig monitor stand
-* Return cane to PT
 * Update Markdown note apps
 * Read Dan's book 
 * Marie-so: wedding
@@ -27,9 +30,7 @@
 * SacSem: email to post ~ mobile
 * WSL: ubuntu
 * LinkedIn: my bio
-* Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
-* Granucci: drive
-* Morgan Centenary: Patti ~ Margaret Ja
+
 
 ### Waiting
 
