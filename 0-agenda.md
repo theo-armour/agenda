@@ -17,9 +17,6 @@
 ## SOON
 
 * ?
-* Dr Fassett: clinic
-* Franklin Dentist + UCSF: dental clinic
-* Window washing
 * Add gbxml files
 * Rejig monitor stand
 * Return cane to PT
@@ -168,9 +165,15 @@
 <details>
 <summary>Heritage</summary>
 
+* Dr Fassett: clinic
+* Franklin Dentist + UCSF: dental clinic
+* Window washing
+<br>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
+
 <ul>
 <li>?</li>
+
 <li>Strategic Plan: Community organization alternative</li>
 <li>Morgan Building: 100th anniversary</li>
 <li>Surströmming party</li>
