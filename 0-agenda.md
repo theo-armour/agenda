@@ -8,8 +8,7 @@
 ## Today
 
 * ?bbbb
-*   
-* Claudia
+* * Claudia
 * Dan Thompson
 * Marco
 * HH: agenda
@@ -179,7 +178,7 @@
 * Fee schedule questions
 * House Committee: Bledsoe
 
-<details>
+<details open="">
 <summary>Heritage agenda</summary>
  <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 <br>
