@@ -18,7 +18,7 @@
 ## SOON
 
 * ?
-* Dr Fassett: clinic
+*   
 * Franklin Dentist + UCSF: dental clinic
 * Dr Han: appointment
 * Window washing
@@ -63,7 +63,7 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Health agenda</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <br>
@@ -112,8 +112,6 @@
 </details>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
-
-* ?
 
 <details>
 <summary>Peeps</summary>
