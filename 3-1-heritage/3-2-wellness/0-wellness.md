@@ -5,7 +5,7 @@
 ## 2024-08-06
 
 * Service Plan fixes ~ me must check
-* Pharma America ~ get application
+* Pharma America ~ get application ~ https://app.mypharmerica.com/activate ~ https://hipaa.jotform.com/221995135618059
 * Dermatology Clinic - me look up ~ 2024-08-06: done
 * dental hygeine
 * MyChart-like App ~ October maybe ~ yardi?

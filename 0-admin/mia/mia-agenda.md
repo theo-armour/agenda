@@ -17,6 +17,18 @@
 
 ### Newsletter
 
+## 2024-08-12
+
+* file names
+* always online
+
+### Regular events
+
+* Use the full width available
+* Add location
+* Be descriptive
+* Start with name of host
+* Sort by time
 
 ## 2024-08-06
 

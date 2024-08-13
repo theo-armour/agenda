@@ -44,13 +44,16 @@ Second & Fourth Wednesday of the month
 ## ResDir
 
 * Shirley / Lucia mixup
+* Vada: Office: 415-202-0140 ~ Work phone:  415-812-8029
 
 ## Mia
 
 * Duck story
+* Online
 
 ## Martha
 
-* Health & Wellness
+* Health & Wellness article
+
 
 
