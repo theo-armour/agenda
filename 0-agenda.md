@@ -24,8 +24,7 @@
 * Marie-so: wedding
 * Ham Radio: take notes
 * SacSem: email to post ~ mobile
-* WSL: ubuntu
-* LinkedIn: my bio
+*   
 
 ### Waiting
 
