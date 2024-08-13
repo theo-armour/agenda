@@ -50,7 +50,7 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Agenda Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2><ul><li>?</li><li>S: Chia seeds</li><li>A:</li><li>rj45 ~ back brace ~ lamisil</li></ul>
 <br>
