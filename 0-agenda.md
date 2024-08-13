@@ -7,10 +7,9 @@
 
 ## Today
 
-*   
+* HH: agenda
 * Dan Thompson
 * Marco
-* HH: agenda
 * Residents: Grace + Kathy
 * UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
 
@@ -28,7 +27,7 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Admin</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 <ul>
