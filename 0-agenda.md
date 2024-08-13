@@ -17,12 +17,8 @@
 ## SOON
 
 * ?
-* Add gbxml files
-* Rejig monitor stand
-* Update Markdown note apps
-* Read Dan's book 
+* Read Dan's book   
 * Marie-so: wedding
-* Ham Radio: take notes
 * SacSem: email to post ~ mobile
 *   
 
