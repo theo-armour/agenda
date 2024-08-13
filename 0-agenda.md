@@ -162,15 +162,12 @@
 <details open="">
 <summary>Heritage</summary>
 
+<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
+
 <ul>
 <li>Dr Fassett: clinic</li>
 <li>Franklin Dentist + UCSF: dental clinic</li>
-<li>Window washing
-<br>
-</li>
-<li>More</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
-<ul>
-<li>?</li>
+<li>Window washing</li>
 <li>Strategic Plan: Community organization alternative</li>
 <li>Morgan Building: 100th anniversary</li>
 <li>Surströmming party</li>
