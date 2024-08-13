@@ -17,12 +17,9 @@
 ## SOON
 
 * ?
-* Return cane to PT
-* Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
-* Granucci: drive
-* Morgan Centenary: Patti ~ Margaret Ja
 * Add gbxml files
 * Rejig monitor stand
+* Return cane to PT
 * Update Markdown note apps
 * Read Dan's book 
 * Marie-so: wedding
@@ -30,7 +27,9 @@
 * SacSem: email to post ~ mobile
 * WSL: ubuntu
 * LinkedIn: my bio
-
+* Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
+* Granucci: drive
+* Morgan Centenary: Patti ~ Margaret Ja
 
 ### Waiting
 
@@ -38,7 +37,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Admin</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 <ul>
@@ -163,12 +162,15 @@
 <details>
 <summary>Heritage</summary>
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
-
 <ul>
 <li>Dr Fassett: clinic</li>
 <li>Franklin Dentist + UCSF: dental clinic</li>
-<li>Window washing</li>
+<li>Window washing
+<br>
+</li>
+<li>More</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
+<ul>
+<li>?</li>
 <li>Strategic Plan: Community organization alternative</li>
 <li>Morgan Building: 100th anniversary</li>
 <li>Surströmming party</li>
