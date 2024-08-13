@@ -7,7 +7,7 @@
 
 ## Today
 
-* Claudia
+*   
 * Dan Thompson
 * Marco
 * HH: agenda
