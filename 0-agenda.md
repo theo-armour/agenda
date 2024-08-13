@@ -89,7 +89,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Simplicity agenda</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 <br>
@@ -101,18 +101,9 @@
 
 ***
 
-<details open="">
+<details>
 <summary>ACE IT agenda</summary>
-
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
-
-* Eloise: Bee Memorial ~ Cynthia Chase visits
-* ace-it+: exhibit report
-* Film the corridor
-* Floris: crucial memory return
-* Floris: archiving photos Etc
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa">
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>
+<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2><ul><li>Eloise: Bee Memorial ~ Cynthia Chase visits</li><li>ace-it+: exhibit report</li><li>Film the corridor</li><li>Floris: crucial&nbsp;memory return</li><li>Floris:&nbsp;archiving photos Etc</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>
 <br>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2>
 <br>
@@ -125,28 +116,8 @@
 * ?
 
 <details>
-
 <summary>Peeps</summary>
-
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
-
-* 2am
-* Ray E
-* Christine: [https://www.freefuse.com/](https://www.freefuse.com/)
-* ing thanks
-* Pam Choy ~ Niantic maps ~ sketchfab
-* Ashley
-* Shammah: birthday
-* Ronan
-* Aaron
-* Tom Magowan
-* Santani
-* Blick
-* Manfred
-* mmm
-
-</details>
-
+<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2><ul><li>2am</li><li>Ray E</li><li>Christine:&nbsp;<a href="https://www.freefuse.com/">https://www.freefuse.com/</a></li><li>ing thanks</li><li>Pam Choy ~ Niantic maps ~ sketchfab</li><li>Ashley</li><li>Shammah: birthday</li><li>Ronan</li><li>Aaron</li><li>Tom Magowan</li><li>Santani</li><li>Blick</li><li>Manfred</li><li>mmm</li></ul></details>
 
 ***
 
