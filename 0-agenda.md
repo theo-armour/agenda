@@ -42,7 +42,11 @@
 
 <details open="">
 <summary>Agenda Admin</summary>
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2><ul><li>?</li><li>bean citibank: sign in</li><li>
+<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
+<ul>
+<li>?</li>
+<li>bean citibank: sign in</li>
+<li>
 <br>
 </li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 <br>
@@ -50,9 +54,14 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Agenda Personal</summary>
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2><ul><li>?</li><li>S: Chia seeds</li><li>A:</li><li>rj45 ~ back brace ~ lamisil</li></ul>
+<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
+<ul>
+<li>?</li>
+<li>S: Chia seeds</li>
+<li>A:</li>
+<li>rj45 ~ back brace ~ lamisil</li></ul>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 <br>
@@ -106,7 +115,13 @@
 
 <details>
 <summary>ACE IT agenda</summary>
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2><ul><li>Eloise: Bee Memorial ~ Cynthia Chase visits</li><li>ace-it+: exhibit report</li><li>Film the corridor</li><li>Floris: crucial&nbsp;memory return</li><li>Floris:&nbsp;archiving photos Etc</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>
+<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2>
+<ul>
+<li>Eloise: Bee Memorial ~ Cynthia Chase visits</li>
+<li>ace-it+: exhibit report</li>
+<li>Film the corridor</li>
+<li>Floris: crucial&nbsp;memory return</li>
+<li>Floris:&nbsp;archiving photos Etc</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>
 <br>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2>
 <br>
@@ -118,7 +133,22 @@
 
 <details>
 <summary>Peeps</summary>
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2><ul><li>2am</li><li>Ray E</li><li>Christine:&nbsp;<a href="https://www.freefuse.com/">https://www.freefuse.com/</a></li><li>ing thanks</li><li>Pam Choy ~ Niantic maps ~ sketchfab</li><li>Ashley</li><li>Shammah: birthday</li><li>Ronan</li><li>Aaron</li><li>Tom Magowan</li><li>Santani</li><li>Blick</li><li>Manfred</li><li>mmm</li></ul></details>
+<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2>
+<ul>
+<li>2am</li>
+<li>Ray E</li>
+<li>Christine:&nbsp;<a href="https://www.freefuse.com/">https://www.freefuse.com/</a></li>
+<li>ing thanks</li>
+<li>Pam Choy ~ Niantic maps ~ sketchfab</li>
+<li>Ashley</li>
+<li>Shammah: birthday</li>
+<li>Ronan</li>
+<li>Aaron</li>
+<li>Tom Magowan</li>
+<li>Santani</li>
+<li>Blick</li>
+<li>Manfred</li>
+<li>mmm</li></ul></details>
 
 ***
 
@@ -130,7 +160,40 @@
 
 <details>
 <summary>Heritage agenda</summary>
-<ul><li>?</li><li>Strategic Plan: Community organization alternative</li><li>Morgan Building: 100th anniversary</li><li>Surströmming party</li><li>markdown-it: make it happen</li><li>Happenings: Audio version</li><li>Residents directory: hairdressers + others</li><li>Charlie-boy: holiday sign</li><li>Mary: Type A ~ Appendix H provisions ~ copy me om message to Christine</li><li>Mary: Type C: particulars</li><li>Roxana: meeting &gt; calendar ~ mia</li><li>Martha: Dermatology clinic ~ H Pharmacy ~ PPH ~ HH bio ~ HH Advisory</li><li>HH: talk to Praveen</li><li>Praveen: ditch HH Calendar</li><li>Fee schedule questions</li><li>House Committee: Bledsoe</li></ul><h2 id="invoices">Invoices</h2><ul><li>February: $94.00</li></ul><h2 id="agenda">Agenda</h2><ul><li>What demos could I give? What do I want to show? What might people want to see?</li><li>Patrick: Ange Appreciation documents</li><li>AnneM: Evanston house in Birth of a Nation</li><li>Sort Heritage files</li><li>Joe Morris: Grass-fed beef for Heritage</li><li>Ayon: residents folder OneDrive</li><li>Cortez: lunch + interview</li><li>HH Patti G: 4th floor screen isa JM?</li><li>Christina: RC exec committee to be informed of RCFE statutes and obligations</li><li>Xfinity: Demian: upload speeds</li><li>Martha N: small charges</li><li>Organist: evensong</li><li>Emergency: 628 222-3097</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
+
+<ul>
+<li>?</li>
+<li>Strategic Plan: Community organization alternative</li>
+<li>Morgan Building: 100th anniversary</li>
+<li>Surströmming party</li>
+<li>markdown-it: make it happen</li>
+<li>Happenings: Audio version</li>
+<li>Residents directory: hairdressers + others</li>
+<li>Charlie-boy: holiday sign</li>
+<li>Mary: Type A ~ Appendix H provisions ~ copy me om message to Christine</li>
+<li>Mary: Type C: particulars</li>
+<li>Roxana: meeting &gt; calendar ~ mia</li>
+<li>Martha: Dermatology clinic ~ H Pharmacy ~ PPH ~ HH bio ~ HH Advisory</li>
+<li>HH: talk to Praveen</li>
+<li>Praveen: ditch HH Calendar</li>
+<li>Fee schedule questions</li>
+<li>House Committee: Bledsoe</li></ul><h2 id="invoices">Invoices</h2>
+<ul>
+<li>February: $94.00</li></ul><h2 id="agenda">Agenda</h2>
+<ul>
+<li>What demos could I give? What do I want to show? What might people want to see?</li>
+<li>Patrick: Ange Appreciation documents</li>
+<li>AnneM: Evanston house in Birth of a Nation</li>
+<li>Sort Heritage files</li>
+<li>Joe Morris: Grass-fed beef for Heritage</li>
+<li>Ayon: residents folder OneDrive</li>
+<li>Cortez: lunch + interview</li>
+<li>HH Patti G: 4th floor screen isa JM?</li>
+<li>Christina: RC exec committee to be informed of RCFE statutes and obligations</li>
+<li>Xfinity: Demian: upload speeds</li>
+<li>Martha N: small charges</li>
+<li>Organist: evensong</li>
+<li>Emergency: 628 222-3097</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
 <br>
