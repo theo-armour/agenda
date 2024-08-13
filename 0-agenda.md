@@ -7,8 +7,7 @@
 
 ## Today
 
-* ?bbbb
-* \* Claudia
+* Claudia
 * Dan Thompson
 * Marco
 * HH: agenda
@@ -18,11 +17,9 @@
 ## SOON
 
 * ?
-*   
+* Dr Fassett: clinic
 * Franklin Dentist + UCSF: dental clinic
-* Dr Han: appointment
 * Window washing
-* PPH Gary: Gastroenterology referral
 * Add gbxml files
 * Rejig monitor stand
 * Return cane to PT
@@ -45,7 +42,9 @@
 
 <details>
 <summary>Agenda Admin</summary>
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2><ul><li>?</li><li>bean citibank: sign in</li><li>#8351432062 ~&nbsp;</li><li>DHL Express</li><li>Phone: 1-800-225-5345</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
+<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
+
+<ul><li>?</li><li>bean citibank: sign in</li><li>#8351432062 ~&nbsp;</li><li>DHL Express</li><li>Phone: 1-800-225-5345</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 <br>
@@ -53,7 +52,10 @@
 
 <details>
 <summary>Agenda Personal</summary>
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2><ul><li>?</li><li>S: Chia seeds</li><li>A:</li><li>rj45 ~ back brace ~ lamisil</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
+<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
+<ul><li>?</li><li>S: Chia seeds</li><li>A:</li><li>rj45 ~ back brace ~ lamisil</li></ul>
+<br>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a>
 <br>
@@ -85,7 +87,9 @@
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-providers.md&quot;">1.1 Health Providers</a>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a>¨C31C¨C32C¨C33C¨C34C¨C35C</details>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a>
+<br>
+</details>
 
 ***
 
