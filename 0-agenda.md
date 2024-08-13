@@ -11,6 +11,7 @@
 * Dan Thompson
 * Marco
 * Residents: Grace + Kathy
+* SacSem: Spotswood
 * UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
 
 ## SOON
@@ -27,7 +28,7 @@
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 <ul>
 <li>?</li>
-<li>Talk top Sarah Weld about Carlos</li>
+<li>Talk to Sarah Weld about Carlos</li>
 <li>bean citibank: sign in</li>
 <li>Carlos: Sarah Weld: phone #?</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 <br>
