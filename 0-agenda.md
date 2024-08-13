@@ -72,7 +72,7 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <br>
@@ -174,6 +174,10 @@
 <li>More</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 <ul>
 <li>?</li>
+<li>Return cane to PT</li>
+<li>Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary</li>
+<li>Granucci: drive</li>
+<li>Morgan Centenary: Patti ~ Margaret Ja</li>
 <li>Strategic Plan: Community organization alternative</li>
 <li>Morgan Building: 100th anniversary</li>
 <li>Surströmming party</li>
