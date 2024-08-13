@@ -21,10 +21,6 @@
 * SacSem: email to post ~ mobile
 *   
 
-### Waiting
-
-* Carlos: Sarah Weld: phone #?
-
 ***
 
 <details open="">
@@ -33,9 +29,7 @@
 <ul>
 <li>?</li>
 <li>bean citibank: sign in</li>
-<li>
-<br>
-</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
+<li>Carlos: Sarah Weld: phone #?</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 <br>
