@@ -6,7 +6,8 @@
 * Rejig monitor stand
 * Update Markdown note apps
 * Ham Radio: take notes
-*   
+* WSL: ubuntu
+* LinkedIn: my bio
 
 ## Return to an oral culture
 
