@@ -16,10 +16,9 @@
 ## SOON
 
 * ?
-* Read Dan's book   
+* Read Dan's book 
 * Marie-so: wedding
 * SacSem: email to post ~ mobile
-*   
 
 ***
 
@@ -41,9 +40,8 @@
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
 <li>?</li>
-<li>S: Chia seeds</li>
-<li>A:</li>
-<li>rj45 ~ back brace ~ lamisil</li></ul>
+<li>S: wine ~ Chia seeds</li>
+<li>A: Diapers ~ bluetooth speaker ~ rj45 ~ back brace ~ lamisil</li></ul>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 <br>
