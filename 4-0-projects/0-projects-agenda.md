@@ -5,6 +5,7 @@
 * Add gbxml files
 * Rejig monitor stand
 * Update Markdown note apps
+* Ham Radio: take notes
 *   
 
 ## Return to an oral culture
