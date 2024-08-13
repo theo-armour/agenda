@@ -10,7 +10,6 @@
 * HH: agenda
 * Dan Thompson
 * Marco
-* Residents: Grace + Kathy
 * SacSem: Spotswood
 * UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
 
@@ -135,7 +134,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Entities</summary>
 * Sensay: Marco
 <br>
