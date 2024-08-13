@@ -1,5 +1,12 @@
 # Projects Agenda
 
+  
+
+* Add gbxml files
+* Rejig monitor stand
+* Update Markdown note apps
+*   
+
 ## Return to an oral culture
 
 * Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
