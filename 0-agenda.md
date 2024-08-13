@@ -18,7 +18,7 @@
 ## SOON
 
 * ?
-* Christine Casey: Awesome Foundation
+*
 * Dr Fassett: clinic
 * Franklin Dentist + UCSF: dental clinic
 * Dr Han
@@ -205,7 +205,7 @@
 * Fee schedule questions
 * House Committee: Bledsoe
 
-<details><summary>Heritage agenda</summary> <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
+<details><summary>Heritage agenda</summary> <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a><p></p><p>
 
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
