@@ -51,7 +51,7 @@
 * DHL Express
 * Phone: 1-800-225-5345
 
-<details>
+<details open="">
 <summary>Admin Agendas</summary>
  <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 <br>
@@ -106,7 +106,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
 
-<details open="">
+<details>
 <summary>Simplicity agenda</summary>
  <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
 <br>
