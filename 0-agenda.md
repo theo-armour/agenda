@@ -53,7 +53,7 @@
 
 <details>
 <summary>Admin Agendas</summary>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
+ <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 <br>
@@ -80,43 +80,31 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
-<details open="">
+<details>
 <summary>Health agenda</summary>
- <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
-
+ <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a><p></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/gastroenterology.md&quot;">gastroenterology</a>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/gastroenterology.md&quot;">gastroenterology</a></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/ophthalmology.md&quot;">ophthalmology</a> ~ call first week September
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/ophthalmology.md&quot;">ophthalmology</a> ~ call first week September</p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">pph</a>&nbsp;~ august appointment change
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">pph</a>&nbsp;~ august appointment change</p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-history.md&quot;">1.1 Health History</a>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-history.md&quot;">1.1 Health History</a></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-insurance.md&quot;">1.1 Health Insurance</a>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-insurance.md&quot;">1.1 Health Insurance</a></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-journal.md&quot;">1.1 Health Journal</a>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-journal.md&quot;">1.1 Health Journal</a></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-providers.md&quot;">1.1 Health Providers</a>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-providers.md&quot;">1.1 Health Providers</a></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-suppliers.md&quot;">1.1 Health Suppliers</a>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-suppliers.md&quot;">1.1 Health Suppliers</a></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pt-exercise-routines-daily.md&quot;">1.2 PT Exercises Daily</a><p></p><p>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pt-exercise-routines-daily.md&quot;">1.2 PT Exercises Daily</a></p><p></p><p></p><p>
 <br>
 </p></details>
 
@@ -126,11 +114,9 @@
 
 <details>
 <summary>Simplicity agenda</summary>
- <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a><p></p><p>
-
+ <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a><p></p><p></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a></p><p>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a></p><p></p><p>
 <br>
 </p></details>
 
@@ -144,12 +130,11 @@
 * Floris: crucial memory return
 * Floris: archiving photos Etc
 
-<details>
+<details open="">
 <summary>ace-it agenda</summary>
-<p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceiteloisemdquoteloisea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a></h2><p>
-
+<p></p><p></p><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceiteloisemdquoteloisea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a></h2><p>
 <br>
-</p></details>
+</p><p></p></details>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
 
@@ -201,32 +186,23 @@
 
 <details>
 <summary>Heritage agenda</summary>
- <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a><p></p><p></p><p>
-
+ <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a><p></p><p></p><p></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a></p><p>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a></p><p></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.1.2 out and about</a></p><p>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.1.2 out and about</a></p><p></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-services/0-services.md&quot;">3.1.2 services</a></p><p>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-services/0-services.md&quot;">3.1.2 services</a></p><p></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-wellness/0-wellness.md&quot;">3.1.2 wellness</a></p><p>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-wellness/0-wellness.md&quot;">3.1.2 wellness</a></p><p></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-3-residents/0-residents.md&quot;">3.3 residents</a></p><p>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-3-residents/0-residents.md&quot;">3.3 residents</a></p><p></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a></p><p>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a></p><p></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-staff/1-staff.md&quot;">3.1.5 staff</a></p><p>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-staff/1-staff.md&quot;">3.1.5 staff</a></p><p></p><p>
 <br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a></p><p>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a></p><p></p><p>
 <br>
 </p></details>
 
