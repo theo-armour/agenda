@@ -7,8 +7,7 @@
 
 ## Today
 
-*   
-* Dan Thompson
+* * Dan Thompson
 * Marco
 * SacSem: Spotswood
 * UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
@@ -16,7 +15,7 @@
 ## SOON
 
 * ?
-* Marie-so: wedding
+*   
 * SacSem: email to post ~ mobile
 
 ***
@@ -90,7 +89,7 @@
 
 ***
 
-<details>
+<details open="">
 <summary>ACE IT</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2>
 <ul>
