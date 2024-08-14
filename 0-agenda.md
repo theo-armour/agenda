@@ -7,35 +7,28 @@
 
 ## Today
 
-* HH: agenda
+*   
 * Dan Thompson
 * Marco
-* Residents: Grace + Kathy
+* SacSem: Spotswood
 * UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
 
 ## SOON
 
 * ?
-* Read Dan's book   
 * Marie-so: wedding
 * SacSem: email to post ~ mobile
-*   
-
-### Waiting
-
-* Carlos: Sarah Weld: phone #?
 
 ***
 
-<details open="">
+<details>
 <summary>Admin</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 <ul>
 <li>?</li>
+<li>Talk to Sarah Weld about Carlos</li>
 <li>bean citibank: sign in</li>
-<li>
-<br>
-</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
+<li>Carlos: Sarah Weld: phone #?</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 <br>
@@ -46,9 +39,8 @@
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
 <li>?</li>
-<li>S: Chia seeds</li>
-<li>A:</li>
-<li>rj45 ~ back brace ~ lamisil</li></ul>
+<li>S: wine ~ Chia seeds</li>
+<li>A: Diapers ~ bluetooth speaker ~ rj45 ~ back brace ~ lamisil</li></ul>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 <br>
@@ -60,7 +52,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <br>
@@ -141,11 +133,14 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Entities</summary>
 
+<ul>
+<li>Sensay: Marco
 <br>
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
+</li>
+<li>SenSay: Read Dan's book&nbsp;</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
 <br>
 </details>
 
