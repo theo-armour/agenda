@@ -7,7 +7,7 @@
 
 ## Today
 
-* HH: agenda
+*   
 * Dan Thompson
 * Marco
 * SacSem: Spotswood
@@ -136,9 +136,11 @@
 
 <details>
 <summary>Entities</summary>
-* Sensay: Marco
+
+<ul>
+<li>Sensay: Marco
 <br>
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
+</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
 <br>
 </details>
 
