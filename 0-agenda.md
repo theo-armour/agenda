@@ -15,8 +15,6 @@
 ## SOON
 
 * ?
-*   
-* SacSem: email to post ~ mobile
 
 ***
 
@@ -93,6 +91,7 @@
 <summary>ACE IT</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2>
 <ul>
+<li>Marie-so: wedding</li>
 <li>Eloise: Bee Memorial ~ Cynthia Chase visits</li>
 <li>ace-it+: exhibit report</li>
 <li>Film the corridor</li>
@@ -139,7 +138,8 @@
 <li>Sensay: Marco
 <br>
 </li>
-<li>SenSay: Read Dan's book&nbsp;</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
+<li>SenSay: Read Dan's book&nbsp;</li>
+<li>SacSem: email to post ~ mobile</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
 <br>
 </details>
 
