@@ -37,7 +37,7 @@
 <ul>
 <li>?</li>
 <li>S: wine ~ Chia seeds</li>
-<li>A: Diapers ~ bluetooth speaker ~ rj45 ~ back brace ~ lamisil</li></ul>
+<li>A: back brace</li></ul>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 <br>
