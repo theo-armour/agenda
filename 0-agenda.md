@@ -16,7 +16,6 @@
 ## SOON
 
 * ?
-* Read Dan's book 
 * Marie-so: wedding
 * SacSem: email to post ~ mobile
 
@@ -134,13 +133,14 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Entities</summary>
 
 <ul>
 <li>Sensay: Marco
 <br>
-</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
+</li>
+<li>SenSay: Read Dan's book&nbsp;</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
 <br>
 </details>
 
