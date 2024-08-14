@@ -16,7 +16,7 @@ Brick red: #880000 or rgb(136, 0, 0)
 * Country of the Month Events
 * Birthday Events
 * Dining Service Events
-* Movies:
+* Movies
 * Videos: only included in the calendar if they relate to the Country of the Month
 
 ### Special events
@@ -28,12 +28,12 @@ A resident, senior team member or outside contractor or invited guest is the pre
 * Saturday Shorts
 * Birthday Sing-along & Dinner
 * Food Committee, Out & About Committee, Activities Committee
-* Garden Committee, Library Committee, Resident Council
+* Garden Committee, Library Committee, Resident Council, Leadership Meeting
 
 Notes
 
 * A video presentation is not a special event
-* Activities untended for Assisted Living and Memory care residents are generally not considered to be special events
+* Activities primarily intended for Assisted Living and Memory care residents are generally not considered to be special events
 
 ### Regular events
 
@@ -67,6 +67,12 @@ To be confirmed
 Special events text position
 
 * Paragraph > Indentation: Left 1.5 inches
+
+
+## File Naming
+
+File names should be descriptive and include the date of the publication. For example, `2024-07-29-Heritage-Happenings.docx`.
+* Generally, I prefer naming files so that they are ready for the web, hyphens as word separators, and for to sort by date in a folder. For example, `2024-07-29-heritage-happenings.md`.
 
 
 ## Tips

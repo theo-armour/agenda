@@ -59,6 +59,8 @@
 
 ## Months 2024
 
+* https://en.wikipedia.org/wiki/Category:Months
+
 ### January
 
 * Country: Italy
@@ -123,10 +125,11 @@
 ### September
 
 * Labor Day
-
+* ??
 
 ### October
 
+* International Shakeout day: third Thursday
 * 10/1 Elderly day
 * Octoberfest
 * Columbus Day
@@ -136,6 +139,7 @@
 
 ### November
 
+* Diwali 2024: November 1
 * Day of the Dead
 * Thanksgiving
 * Veterans Day
