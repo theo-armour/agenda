@@ -7,7 +7,7 @@
 
 ## Today
 
-* * Dan Thompson
+* \* Dan Thompson
 * Marco
 * SacSem: Spotswood
 * UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
@@ -31,7 +31,7 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
