@@ -18,7 +18,7 @@
 * Heritage: Vivien: EAF all year
 * Sensay: replica
 * Sensay: Marco + Dan
-* Dick Spotswood: left message
+* SacSem> Dick Spotswood: CC 
 * Simplicity: shipping update: shipsmart + enclosures
 * Claudia: https://www.shipsmart.com/shipping-art > looks good
 
