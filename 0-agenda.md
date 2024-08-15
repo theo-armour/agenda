@@ -8,7 +8,6 @@
 ## Today
 
 *   
-* Margaret Jacobs: A
 * Hailey
 
 ## SOON
