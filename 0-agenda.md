@@ -16,6 +16,10 @@
 
 * ?
 * Heritage: Vivien: EAF all year
+* Aselia: toys
+* Dick Spotswood
+* Claudia: Nicole
+* Margaret Jacobs: AI
 
 ***
 
