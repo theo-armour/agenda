@@ -7,20 +7,19 @@
 
 ## Today
 
-* \* Dan Thompson
-* Marco
-* SacSem: Spotswood
+* Aselia: toys
+* Margaret Jacobs: AI
+* Hailey
 * UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
 
 ## SOON
 
 * ?
-* Simplicity: shipping update: shipsmart + enclosures
 * Heritage: Vivien: EAF all year
-* Aselia: toys
+* Sensay: replica
+* Sensay: Marco + Dan
 * Dick Spotswood: left message
-* Margaret Jacobs: AI
-* Hailey
+* Simplicity: shipping update: shipsmart + enclosures
 * Claudia: https://www.shipsmart.com/shipping-art > looks good
 
 ***
