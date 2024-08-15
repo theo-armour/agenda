@@ -1,14 +1,19 @@
 # Cynthia
 
-hook workshop photos
-cdb gummies for writing
+
 
 ## Topics 2
 
-* Rio Vista city
-* California Forever: Solano County ~ Rio Vista ! 2 year EIR
+* AI energy usage
+* Scott Alexander
+* Rio Vista city: California Forever: Solano County ~ Rio Vista ! 2 year EIR
 * Wallet Drawing
 * Finish hand
+
+## 2024-08-14
+
+hook workshop photos
+cdb gummies for writing
 
 ## 2024-07-22
 
