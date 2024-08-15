@@ -7,14 +7,15 @@
 
 ## Today
 
-* Aselia: toys
-* Margaret Jacobs: AI
+*   
+* Margaret Jacobs: A
 * Hailey
-* UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
 
 ## SOON
 
 * ?
+* UCSF GI referral: phone
+* UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
 * Heritage: Vivien: EAF all year
 * Sensay: replica
 * Sensay: Marco + Dan
