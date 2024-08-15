@@ -5,7 +5,7 @@
 
 * Patrick: membership details
 * Dennis: Membership list up to date
-* trips to CA?
+* Member Trips to CA cities ~ easier for the aged
 
 ## Organizations
 

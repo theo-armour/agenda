@@ -84,12 +84,6 @@ Access Hours
 * Mon-Fri 6:00am to 6:00pm
 * Sat-Sun 6:00am to 5:00pm
 
-## Shipping
-
-* Recommended by Alix and Jennifer
-* 415-206-7906
-* operations@enclosures-dls.com
-* https://www.enclosures-dls.com/fine-art-packing-shipping.php
 
 
 ## libraries that house books and other items related to the history of technology.
@@ -105,6 +99,7 @@ Access Hours
 * zosteria@yahoo.com
 * 208-901-6669
 * https://www.linkedin.com/in/justinian-morton-12865319
+
 
 ## Stafford
 

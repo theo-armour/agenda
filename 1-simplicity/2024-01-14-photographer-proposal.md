@@ -44,7 +44,7 @@ Photo location: Cow Hollow Woodworks
 
 Timing: as and when items come ot of storage an are cleaned and repaired
 
-Possibility: ahundred or so minor items in storage such a Dunhill lightes, old watches, Japanese netsukes, etc
+Possibility: a hundred or so minor items in storage such a Dunhill lighters, old watches, Japanese netsukes, etc
 
 ## China, Glass & Silver
 

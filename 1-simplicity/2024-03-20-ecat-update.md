@@ -58,6 +58,7 @@ Decide:
 ## Observations
 
 Givens
+
 * We agree there are three items to be disposed of
 * All three items are quite damaged
 
