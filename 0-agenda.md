@@ -15,9 +15,10 @@
 ## SOON
 
 * ?
+* Simplicity: shipping update: shipsmart + enclosures
 * Heritage: Vivien: EAF all year
 * Aselia: toys
-* Dick Spotswood
+* Dick Spotswood: left message
 * Margaret Jacobs: AI
 * Hailey
 * Claudia: https://www.shipsmart.com/shipping-art > looks good
