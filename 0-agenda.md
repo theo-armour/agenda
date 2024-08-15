@@ -8,20 +8,24 @@
 ## Today
 
 *   
-* Dan Thompson
-* Marco
-* SacSem: Spotswood
-* UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
+* Margaret Jacobs: A
+* Hailey
 
 ## SOON
 
 * ?
-* Marie-so: wedding
-* SacSem: email to post ~ mobile
+* UCSF GI referral: phone
+* UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
+* Heritage: Vivien: EAF all year
+* Sensay: replica
+* Sensay: Marco + Dan
+* SacSem> Dick Spotswood: CC 
+* Simplicity: shipping update: shipsmart + enclosures
+* Claudia: https://www.shipsmart.com/shipping-art > looks good
 
 ***
 
-<details>
+<details open="">
 <summary>Admin</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 <ul>
@@ -34,13 +38,13 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
 <li>?</li>
 <li>S: wine ~ Chia seeds</li>
-<li>A: Diapers ~ bluetooth speaker ~ rj45 ~ back brace ~ lamisil</li></ul>
+<li>A: back brace</li></ul>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 <br>
@@ -52,7 +56,7 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <br>
@@ -90,10 +94,11 @@
 
 ***
 
-<details>
+<details open="">
 <summary>ACE IT</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2>
 <ul>
+<li>Marie-so: wedding</li>
 <li>Eloise: Bee Memorial ~ Cynthia Chase visits</li>
 <li>ace-it+: exhibit report</li>
 <li>Film the corridor</li>
@@ -140,7 +145,8 @@
 <li>Sensay: Marco
 <br>
 </li>
-<li>SenSay: Read Dan's book&nbsp;</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
+<li>SenSay: Read Dan's book&nbsp;</li>
+<li>SacSem: email to post ~ mobile</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
 <br>
 </details>
 
