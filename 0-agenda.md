@@ -7,7 +7,7 @@
 
 ## Today
 
-*   
+Nicole: 
 
 ## SOON
 
@@ -20,7 +20,7 @@
 * SacSem> Dick Spotswood: CC 
 * Hailey: reply
 * Simplicity: shipping update: shipsmart + enclosures
-* Claudia: https://www.shipsmart.com/shipping-art > looks good
+* Claudia: [https://www.shipsmart.com/shipping-art](https://www.shipsmart.com/shipping-art) > looks good
 
 ***
 
