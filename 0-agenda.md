@@ -8,7 +8,6 @@
 ## Today
 
 *   
-* Hailey
 
 ## SOON
 
@@ -19,6 +18,7 @@
 * Sensay: replica
 * Sensay: Marco + Dan
 * SacSem> Dick Spotswood: CC 
+* Hailey: reply
 * Simplicity: shipping update: shipsmart + enclosures
 * Claudia: https://www.shipsmart.com/shipping-art > looks good
 
