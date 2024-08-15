@@ -18,8 +18,9 @@
 * Heritage: Vivien: EAF all year
 * Aselia: toys
 * Dick Spotswood
-* Claudia: Nicole
 * Margaret Jacobs: AI
+* Hailey
+* Claudia: https://www.shipsmart.com/shipping-art > looks good
 
 ***
 
