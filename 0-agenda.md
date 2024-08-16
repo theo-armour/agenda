@@ -7,7 +7,7 @@
 
 ## Today
 
-Nicole: 
+\*
 
 ## SOON
 
@@ -137,7 +137,7 @@ Nicole: 
 
 ***
 
-<details>
+<details open="">
 <summary>Entities</summary>
 
 <ul>
