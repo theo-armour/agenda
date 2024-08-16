@@ -55,7 +55,7 @@ Nicole: 
 
 ***
 
-<details open="">
+<details>
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <br>
@@ -93,7 +93,7 @@ Nicole: 
 
 ***
 
-<details open="">
+<details>
 <summary>ACE IT</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2>
 <ul>
@@ -137,7 +137,7 @@ Nicole: 
 
 ***
 
-<details open="">
+<details>
 <summary>Entities</summary>
 
 <ul>
