@@ -4,8 +4,7 @@
 
 * 2024-08-04 ~ "leave your crown in the garage" ~ [https://fs.blog/brain-food/august-4-2024/](https://fs.blog/brain-food/august-4-2024/)
 * 2024-08-04 ~ write down 10 ideas a day
-* Look at bad things that happen as a gift  
-*   
+* Look at bad things that happen as a gift
 
 ## Today
 
@@ -14,7 +13,6 @@
 ## SOON
 
 * ?
-*   
 * UCSF GI referral: phone
 * Heritage: Vivien: EAF all year
 * Sensay: replica
@@ -25,7 +23,7 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Admin</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 <ul>
