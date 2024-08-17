@@ -4,6 +4,8 @@
 
 * 2024-08-04 ~ "leave your crown in the garage" ~ [https://fs.blog/brain-food/august-4-2024/](https://fs.blog/brain-food/august-4-2024/)
 * 2024-08-04 ~ write down 10 ideas a day
+* Look at bad things that happen as a gift  
+*   
 
 ## Today
 
