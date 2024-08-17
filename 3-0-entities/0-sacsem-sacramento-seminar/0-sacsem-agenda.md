@@ -1,7 +1,7 @@
 # SacSem Agenda
 
 
-## Agenda`
+## Agenda
 
 * Patrick: membership details
 * Dennis: Membership list up to date
