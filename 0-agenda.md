@@ -12,12 +12,12 @@
 ## SOON
 
 * ?
+*   
 * UCSF GI referral: phone
-* UCSF: UCSF Orthopedic Spine Center: 415-353-2739 options: 1, 1, and 1. 
+*   
 * Heritage: Vivien: EAF all year
 * Sensay: replica
 * Sensay: Marco + Dan
-* SacSem> Dick Spotswood: CC 
 * Hailey: reply
 * Simplicity: shipping update: shipsmart + enclosures
 * Claudia: [https://www.shipsmart.com/shipping-art](https://www.shipsmart.com/shipping-art) > looks good
@@ -81,7 +81,7 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Simplicity</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 <br>
@@ -145,7 +145,10 @@
 <br>
 </li>
 <li>SenSay: Read Dan's book&nbsp;</li>
-<li>SacSem: email to post ~ mobile</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
+<li>SacSem: CC to three</li>
+<li>SacSem: Update Spotswood Template</li>
+<li>SacSem: email to post ~ mobile</li>
+<li>SacSem</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
 <br>
 </details>
 
