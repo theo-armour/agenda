@@ -8,19 +8,21 @@
 
 ## Today
 
-* try
+* SacSem: ConstantContact hi Mary Grace
 
 ## SOON
 
 * ?
 * Saturday: trash
 * hw: reset higo
+* hw: restart pcMele
+* Hailey: reply
+* Sarah Weld about Carlos
 * UCSF GI referral: phone
 * Heritage: Vivien: EAF all year
 * Sensay: replica
-* Hailey: reply
-* Simplicity: shipping update: shipsmart + enclosures
-*   
+* Simplicity: shipping update: shipsmart + Enclosures
+* qData: notesy upgrade
 
 ***
 
@@ -29,7 +31,6 @@
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 <ul>
 <li>?</li>
-<li>Talk to Sarah Weld about Carlos</li>
 <li>bean citibank: sign in</li>
 <li>Carlos: Sarah Weld: phone #?</li>
 <li>Schedule tax payments</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
