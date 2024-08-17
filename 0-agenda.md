@@ -16,10 +16,9 @@
 * UCSF GI referral: phone
 * Heritage: Vivien: EAF all year
 * Sensay: replica
-* Sensay: Marco + Dan
 * Hailey: reply
 * Simplicity: shipping update: shipsmart + enclosures
-* Claudia: [https://www.shipsmart.com/shipping-art](https://www.shipsmart.com/shipping-art) > looks good
+*   
 
 ***
 
@@ -30,7 +29,8 @@
 <li>?</li>
 <li>Talk to Sarah Weld about Carlos</li>
 <li>bean citibank: sign in</li>
-<li>Carlos: Sarah Weld: phone #?</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
+<li>Carlos: Sarah Weld: phone #?</li>
+<li>Schedule tax payments</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 <br>
@@ -80,7 +80,7 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Simplicity</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 <br>
