@@ -13,7 +13,9 @@
 ## SOON
 
 * ?
-* Saturday: trash
+* Health: meds list
+* Sarah Weld: Carlos
+*   
 * hw: pack higo \_ give to Patrick
 * hw: restart pcMele
 * Hailey: reply
