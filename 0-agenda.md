@@ -13,6 +13,7 @@
 ## SOON
 
 * ?
+* Cris: lunch
 * Health: meds list
 * Sarah Weld: Carlos
 * Katy Smith
@@ -141,7 +142,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Entities</summary>
 
 <ul>
