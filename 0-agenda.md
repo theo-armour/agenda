@@ -12,9 +12,8 @@
 * Cris: lunch
 * Health: meds list
 * Sarah Weld: Carlos
-* Katy Smith
+* Kathy Smith
 * hw: pack higo + give to Patrick
-*   
 * Hailey: reply
 * Sarah Weld about Carlos
 * UCSF GI referral: phone
