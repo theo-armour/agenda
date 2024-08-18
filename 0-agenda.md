@@ -2,13 +2,11 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-*   
-
-* 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
+* 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman  
 
 ## Today
 
-* SacSem: ConstantContact
+*   
 
 ## SOON
 
@@ -26,6 +24,7 @@
 * Sensay: replica
 * Simplicity: shipping update: shipsmart + Enclosures
 * qData: notesy upgrade
+* Constant Contact: contact support 
 
 ***
 
