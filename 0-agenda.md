@@ -14,7 +14,7 @@
 
 * ?
 * Saturday: trash
-*   
+* hw: pack higo \_ give to Patrick
 * hw: restart pcMele
 * Hailey: reply
 * Sarah Weld about Carlos
