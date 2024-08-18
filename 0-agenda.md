@@ -2,13 +2,13 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-08-04 ~ "leave your crown in the garage" ~ [https://fs.blog/brain-food/august-4-2024/](https://fs.blog/brain-food/august-4-2024/)
-* 2024-08-04 ~ write down 10 ideas a day
-* Looking at bad things that happen as a gift
+*   
+
+* 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
 
 ## Today
 
-* SacSem: ConstantContact hi Mary Grace
+* SacSem: ConstantContact
 
 ## SOON
 
