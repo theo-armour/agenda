@@ -16,7 +16,7 @@
 * Health: meds list
 * Sarah Weld: Carlos
 *   
-* hw: pack higo \_ give to Patrick
+* hw: pack higo + give to Patrick
 * hw: restart pcMele
 * Hailey: reply
 * Sarah Weld about Carlos
@@ -28,13 +28,12 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Admin</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 <ul>
 <li>?</li>
 <li>bean citibank: sign in</li>
-<li>Carlos: Sarah Weld: phone #?</li>
 <li>Schedule tax payments</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
@@ -47,7 +46,7 @@
 <ul>
 <li>?</li>
 <li>S: wine ~ Chia seeds</li>
-<li>A: back brace</li></ul>
+<li>A: back brace</li></ul><div>Waiting</div><div>* Viture pro xr</div>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 <br>
