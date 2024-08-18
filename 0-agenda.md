@@ -2,13 +2,11 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman  
+* 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
 
 ## Today
 
-*   
-
-## SOON
+## SOON\`
 
 * ?
 * Cris: lunch
@@ -16,7 +14,7 @@
 * Sarah Weld: Carlos
 * Katy Smith
 * hw: pack higo + give to Patrick
-* hw: restart pcMele
+*   
 * Hailey: reply
 * Sarah Weld about Carlos
 * UCSF GI referral: phone
@@ -25,6 +23,7 @@
 * Simplicity: shipping update: shipsmart + Enclosures
 * qData: notesy upgrade
 * Constant Contact: contact support 
+* HH: Calendar to Roxana
 
 ***
 
@@ -158,11 +157,13 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Heritage</summary>
 
 <ul>
-<li></li>
+<li>
+<br>
+</li>
 <li>Morgan Centenary: Patti ~ Margaret Ja</li>Dr Fassett: clinic
 <li>Franklin Dentist + UCSF: dental clinic</li>
 <li>Window washing
