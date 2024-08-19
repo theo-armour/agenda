@@ -6,10 +6,12 @@
 
 ## Today
 
-## SOON\`
+## SOON
 
 * ?
-* Supernot: screen
+* Heritage: fill in medical form
+* Heritage: Van
+* Supernote: screen
 * Health: meds list
 * Sarah Weld: Carlos
 * Kathy Smith
@@ -38,7 +40,7 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
