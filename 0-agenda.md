@@ -9,7 +9,7 @@
  
 
 *   
-* Heritage: Vivien: EAF all year
+*   
 * UCSF GI referral: phone
 * Notesy
 * HH: Calendar
@@ -34,6 +34,7 @@
 * Superhexa: reset + back in box
 * Men's group: Lord's prayer
 * Rod D: Hygienist for AL
+* H > Praveen
 
 ***
 
