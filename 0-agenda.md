@@ -8,12 +8,16 @@
 
  
 
+* Wine spot
+* O&A: Sign
 * Constant Contact: contact support   
 * Sarah Weld: Carlos
 * Heritage: Vivien: EAF all year
 * UCSF GI referral: phone
+* Notesy
+* ECAT + Claudia: Nicole
 * Supernote: screen
-* O&A: Sign
+* Yashica: pack
 * CalWine: bucher
 
 ## SOON
@@ -162,7 +166,7 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Heritage</summary>
 
 <ul>
