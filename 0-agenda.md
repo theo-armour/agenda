@@ -9,14 +9,12 @@
  
 
 * Wine spot
-* O&A: Sign
-*   
 * Sarah Weld: Carlos
 * Heritage: Vivien: EAF all year
 * UCSF GI referral: phone
 * Notesy
 * HH: Calendar
-* ECAT + Claudia: Nicole
+* ECAT + Claudia: Nicole thanks
 * Supernote: screen
 * Yashica: pack
 * CalWine: bucher
@@ -25,7 +23,7 @@
 ## SOON
 
 * ?
-* B arrie Simpson
+* Barrie Simpson
 * Hailey: reply
 * Sensay: replica
 * Simplicity: shipping update: shipsmart + Enclosures
@@ -71,7 +69,7 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <ul>
