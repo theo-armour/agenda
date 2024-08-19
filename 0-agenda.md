@@ -2,20 +2,20 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-08-04 ~ "leave your crown in the garage" ~ [https://fs.blog/brain-food/august-4-2024/](https://fs.blog/brain-food/august-4-2024/)
-* 2024-08-04 ~ write down 10 ideas a day
-* Looking at bad things that happen as a gift
+* 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
 
 ## Today
-
-* SacSem: ConstantContact hi Mary Grace
 
 ## SOON
 
 * ?
-* Saturday: trash
-* hw: pack higo \_ give to Patrick
-* hw: restart pcMele
+* Heritage: fill in medical form
+* Heritage: Van
+* Supernote: screen
+* Health: meds list
+* Sarah Weld: Carlos
+* Kathy Smith
+* hw: pack higo + give to Patrick
 * Hailey: reply
 * Sarah Weld about Carlos
 * UCSF GI referral: phone
@@ -23,29 +23,31 @@
 * Sensay: replica
 * Simplicity: shipping update: shipsmart + Enclosures
 * qData: notesy upgrade
+* Constant Contact: contact support 
+* HH: Calendar to Roxana
 
 ***
 
-<details open="">
+<details>
 <summary>Admin</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 <ul>
 <li>?</li>
 <li>bean citibank: sign in</li>
-<li>Carlos: Sarah Weld: phone #?</li>
 <li>Schedule tax payments</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
 <li>?</li>
+<li>W: new toothbrush</li>
 <li>S: wine ~ Chia seeds</li>
-<li>A: back brace</li></ul>
+<li>A: back brace</li></ul><div>Waiting</div><div>* Viture pro xr ~ August 27?</div>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 <br>
@@ -83,16 +85,15 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Simplicity</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 <br>
 
 <ul>
 <li>Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good</li>
-<li>
-<br>
-</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
+<li>ShipSmsrt: Deborah</li>
+<li>Storage: rearrange for shipping + closing</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a>
 <br>
@@ -108,14 +109,13 @@
 <li>Eloise: Bee Memorial ~ Cynthia Chase visits</li>
 <li>ace-it+: exhibit report</li>
 <li>Film the corridor</li>
-<li>Floris: crucial&nbsp;memory return</li>
-<li>Floris:&nbsp;archiving photos Etc</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>
+<li>
 <br>
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2>
+</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>* Ruth Weston<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2>
 <br>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceiteloisemdquoteloisea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a></h2>
-<br>
-</details>
+<ul>
+<li>Newport</li></ul></details>
 
 <details>
 <summary>Family</summary>
@@ -144,7 +144,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Entities</summary>
 
 <ul>
@@ -159,11 +159,13 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Heritage</summary>
 
 <ul>
-<li></li>
+<li>
+<br>
+</li>
 <li>Morgan Centenary: Patti ~ Margaret Ja</li>Dr Fassett: clinic
 <li>Franklin Dentist + UCSF: dental clinic</li>
 <li>Window washing
@@ -232,19 +234,19 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
-* ooo
+* ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations repos</a>
 
-* lll
+* ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
 
-* mmm
+* ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
 
-* hhh
+* ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
 
