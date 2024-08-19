@@ -9,7 +9,7 @@
 ## SOON\`
 
 * ?
-* Cris: lunch
+*   
 * Health: meds list
 * Sarah Weld: Carlos
 * Kathy Smith
