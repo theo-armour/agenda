@@ -6,13 +6,21 @@
 
 ## Today
 
+ 
+
+* Wine spot
+* O&A: Sign
 * Constant Contact: contact support 
 * Sarah Weld: Carlos
 * Heritage: Vivien: EAF all year
 * UCSF GI referral: phone
+* Notesy
+* HH: Calendar
+* ECAT + Claudia: Nicole
 * Supernote: screen
-* O&A: Sign
+* Yashica: pack
 * CalWine: bucher
+* Books: scanned
 
 ## SOON
 
@@ -23,6 +31,9 @@
 * qData: notesy upgrade
 * HH: Calendar to Roxana
 * Heritage: fill in medical form
+* Place for daily papers:
+* Canon printer: Return cartridge
+* Superhexa: reset + back in box
 
 ***
 
@@ -59,7 +70,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <ul>
@@ -177,7 +188,7 @@
 <li>?</li>
 <li>Return cane to PT</li>
 <li>Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary</li>
-<li>Granucci: drive</li>
+<li>Granucci: drive copy</li>
 <li>Morgan Centenary: Patti ~ Margaret Ja</li>
 <li>Strategic Plan: Community organization alternative</li>
 <li>Morgan Building: 100th anniversary</li>
