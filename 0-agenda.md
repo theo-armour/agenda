@@ -8,26 +8,27 @@
 
  
 
+* 10am: desk up
 * Patrick
 * Constant Contact: contact support 
 * Sarah Weld: Carlos
+* Heritage: Vivien: EAF all year
+* CalWine: bucher
+* Kathy Smith
+* O&A: Sign
 
 ## SOON
 
 * ?
-* Heritage: fill in medical form
-* O&A:
-* Supernote: screen
-* Kathy Smith
 *   
-* Hailey: reply
-* Sarah Weld about Carlos
 * UCSF GI referral: phone
-* Heritage: Vivien: EAF all year
+* Supernote: screen
+* Hailey: reply
 * Sensay: replica
 * Simplicity: shipping update: shipsmart + Enclosures
 * qData: notesy upgrade
 * HH: Calendar to Roxana
+* Heritage: fill in medical form
 
 ***
 
@@ -50,7 +51,9 @@
 <li>?</li>
 <li>W: new toothbrush</li>
 <li>S: wine ~ Chia seeds</li>
-<li>A: back brace</li></ul><div>Waiting</div><div>* Viture pro xr ~ August 27?</div>
+<li>A: back brace</li>
+<li>Agendas: Initiate list of happy things to do</li>
+<li>Agendas: Initiate: not to do list</li></ul><div>Waiting</div><div>* Viture pro xr ~ August 27?</div>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 <br>
