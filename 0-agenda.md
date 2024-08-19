@@ -8,7 +8,7 @@
 
  
 
-* UCSF GI referral: phone  
+*   
 * Notesy
 * HH: Calendar to Mia
 * ECAT + Claudia: Nicole thanks
