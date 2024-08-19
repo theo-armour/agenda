@@ -8,13 +8,12 @@
 
  
 
-* 10am: desk up
+* 11am: desk up
 * Patrick
 * Constant Contact: contact support 
 * Sarah Weld: Carlos
 * Heritage: Vivien: EAF all year
 * CalWine: bucher
-* Kathy Smith
 * O&A: Sign
 
 ## SOON
