@@ -10,7 +10,7 @@
 
 * Wine spot
 * O&A: Sign
-* Constant Contact: contact support 
+*   
 * Sarah Weld: Carlos
 * Heritage: Vivien: EAF all year
 * UCSF GI referral: phone
@@ -25,6 +25,7 @@
 ## SOON
 
 * ?
+* B arrie Simpson
 * Hailey: reply
 * Sensay: replica
 * Simplicity: shipping update: shipsmart + Enclosures
