@@ -6,9 +6,7 @@
 
 ## Today
 
- 
-
-* Constant Contact: contact support   
+* Constant Contact: contact support 
 * Sarah Weld: Carlos
 * Heritage: Vivien: EAF all year
 * UCSF GI referral: phone

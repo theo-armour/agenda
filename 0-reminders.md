@@ -15,3 +15,17 @@
 * Snippets
 * The successful how-to
 * Make a playlist for my funeral
+
+## Not To Do List
+
+*
+
+## Fun To Do List
+
+* Coding
+* Triage Raindrop.io
+* Triage Bookmarks
+
+## Coding To Do List
+
+* Bookmarks HTML to JSON
