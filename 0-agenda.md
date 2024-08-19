@@ -8,7 +8,9 @@
 
  
 
+* Patrick
 * Constant Contact: contact support 
+* Sarah Weld: Carlos
 
 ## SOON
 
@@ -16,10 +18,8 @@
 * Heritage: fill in medical form
 * O&A:
 * Supernote: screen
-*   
-* Sarah Weld: Carlos
 * Kathy Smith
-* hw: pack higo + give to Patrick
+*   
 * Hailey: reply
 * Sarah Weld about Carlos
 * UCSF GI referral: phone
@@ -65,8 +65,8 @@
 <details open="">
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
-<br>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
+<ul>
+<li>Health: meds list</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a>
 <br>
