@@ -19,7 +19,6 @@
 ## SOON
 
 * ?
-*   
 * UCSF GI referral: phone
 * Supernote: screen
 * Hailey: reply
