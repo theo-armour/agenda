@@ -8,15 +8,13 @@
 
  
 
-*   
-*   
-* UCSF GI referral: phone
+* UCSF GI referral: phone  
 * Notesy
-* HH: Calendar
+* HH: Calendar to Mia
 * ECAT + Claudia: Nicole thanks
 * Supernote: screen
 * Yashica: pack
-* CalWine: bucher
+* CalWine: Bucher
 * Books: scanned
 
 ## SOON
