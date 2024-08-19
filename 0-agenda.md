@@ -6,13 +6,17 @@
 
 ## Today
 
+ 
+
+* Constant Contact: contact support 
+
 ## SOON
 
 * ?
 * Heritage: fill in medical form
-* Heritage: Van
+* O&A:
 * Supernote: screen
-* Health: meds list
+*   
 * Sarah Weld: Carlos
 * Kathy Smith
 * hw: pack higo + give to Patrick
@@ -23,7 +27,6 @@
 * Sensay: replica
 * Simplicity: shipping update: shipsmart + Enclosures
 * qData: notesy upgrade
-* Constant Contact: contact support 
 * HH: Calendar to Roxana
 
 ***
@@ -59,7 +62,7 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <br>
