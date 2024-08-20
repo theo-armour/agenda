@@ -20,6 +20,7 @@
 ## SOON
 
 * ?
+* Stout Books: books in boxes
 * Barrie Simpson
 * Hailey: reply
 * Sensay: replica
