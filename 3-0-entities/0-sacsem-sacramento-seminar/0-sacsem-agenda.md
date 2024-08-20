@@ -16,6 +16,12 @@
 
 * https://manage.wix.com/dashboard/b2537da6-a144-4436-bf40-8f3b36dcd723/home
 * https://Sacsem.net ~ pw: California
+* Registrar: GoDaddy
+* Registry Domain ID: 1853146845_DOMAIN_NET-VRSN
+* Expiration Date: 2027-04-02
+
+Mailing list
+
 * Membership list up to date
 * Email list?
 

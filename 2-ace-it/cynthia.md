@@ -1,7 +1,6 @@
 # Cynthia
 
 
-
 ## Topics 2
 
 * AI energy usage
@@ -9,6 +8,15 @@
 * Rio Vista city: California Forever: Solano County ~ Rio Vista ! 2 year EIR
 * Wallet Drawing
 * Finish hand
+
+
+## 2024-08-19
+
+### Google
+
+* Only one phone number
+* Multiple emails - but not be a gmail account
+
 
 ## 2024-08-14
 
