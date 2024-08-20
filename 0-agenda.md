@@ -14,7 +14,6 @@
 * ECAT + Claudia: Nicole thanks
 * Supernote: screen
 * Yashica: pack
-* CalWine: Bucher
 * Books: scanned
 
 ## SOON
