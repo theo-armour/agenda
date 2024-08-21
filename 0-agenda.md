@@ -7,7 +7,6 @@
 ## Today
 
 * * Notesy
-*   
 * ECAT + Claudia: Nicole thanks
 * Supernote: screen
 * Yashica: pack
@@ -168,7 +167,7 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Heritage</summary>
 
 <ul>
