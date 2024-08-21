@@ -11,6 +11,7 @@
 ## SOON
 
 * ?
+* Philip: lAlex for lunch ~ Peter: ditto ~ projects?/
 * Notesy
 * ECAT + Claudia: Nicole thanks
 * Supernote: screen
