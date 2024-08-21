@@ -11,7 +11,7 @@
 ## SOON
 
 * ?
-* SavSem: confirm
+*   
 * Philip: lAlex for lunch ~ Peter: ditto ~ projects?/
 * Notesy
 * ECAT + Claudia: Nicole thanks
