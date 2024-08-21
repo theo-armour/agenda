@@ -4,7 +4,6 @@
 
 * Daniel Ballarin, CPO ~ Prosthetist
 
-
 ## 2024-08-05
 
 * Dr Immerman ~ referrals

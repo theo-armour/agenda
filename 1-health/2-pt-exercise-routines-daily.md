@@ -27,23 +27,26 @@ The following are things I do every day
 
 I have been doing most of these or similar since August 2020
 
+
 ## In bed in the morning upon waking up
 
 Lying on stomach in bed
 
+* Stretch right arm and wiggle the fingers
 * Arch the back, pushing up with the elbows 15 seconds
 * List head, shoulders and legs ~ 10 reps
 
 Lying on back in bed
 
-* Stretch the arms and scapula
-* 10 hip-ups with coccyx curls and Kegel tightening
-* Legs stretch wide
+* Stretch the knees out to both sides
+  * Stretch the arms and scapula, wiggle the fingers
+  * 10 back scratchers + ten hip pulses
+* 20 hip-ups with coccyx curls and Kegel tightening
 * Legs in air ~ touch toes
 * Legs in air ~ rotate
 * 10 leg lifts
 * Trunk twist - right & Left
-* 10 Head ups
+* 10 Head ups ( or arches?)
 * 10 Angels
 * 10 Bicycles each ~ forwards then backwards
 
@@ -98,13 +101,23 @@ wrist curls, wrist extensions
 
 * Legs out to side or back
 
-### During the day
+## During the day
 
 Goals
 
 * 5,000 steps
 * (10 minutes Google heart points)
-* 15 flights of stairs ~ up and down
+* 12 flights of stairs ~ up and down
+* 2024-08-21 ~ Brittany OT ~ Hold scupalas back and down for ten seconds six times a day
+
+## Elevenses
+
+* Stretch scapulas
+* Stand no hands
+* Lift the desk
+* Take a walk
+* Get coffee + add fiber
+* Three flights of stairs
 
 ## At desk
 
