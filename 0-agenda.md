@@ -6,11 +6,8 @@
 
 ## Today
 
- 
-
+* * Notesy
 *   
-* Notesy
-* HH: Calendar to Mia
 * ECAT + Claudia: Nicole thanks
 * Supernote: screen
 * Yashica: pack
