@@ -11,7 +11,7 @@
 ## SOON
 
 * ?
-*   
+* Monday: van
 * Philip: lAlex for lunch ~ Peter: ditto ~ projects?/
 * Notesy
 * ECAT + Claudia: Nicole thanks
