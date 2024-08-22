@@ -3,6 +3,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
+* 2024-08-22 ~ James Clear ~ "The strategy required to find a great opportunity (lots of saying yes and exploring widely) is different from the strategy required to make the most of a great opportunity (lots of saying no and remaining focused)."
+
+  
 
 ## Today
 
@@ -13,18 +16,12 @@
 * ?
 * Ruth Westen:
 * Pierre Schwab:
-* Notesy
 * Nienke: $75
 * Barrie Simpson
 * Pierre Schwab
 * ECAT + Claudia: Nicole thanks
-* Supernote: screen
-*   
-* Sensay: replica  
-* Simplicity: shipping update: shipsmart + Enclosures
-* Place for daily papers:
-* Canon printer: Return cartridge
-* Superhexa: reset + back in box
+* Notesy
+* Sensay: replica
 * H >Men's group: Lord's prayer
 * H > Praveen
 * Heritage: fill in medical form
@@ -100,6 +97,11 @@
 <br>
 
 <ul>
+<li>Simplicity: shipping update: shipsmart + Enclosures</li>
+<li>Place for daily papers:</li>
+<li>Canon printer: Return cartridge</li>
+<li>Superhexa: reset + back in box</li>
+<li>Supernote: screen</li>
 <li>Yashica: pack</li>
 <li>Stout Books: books in boxes</li>
 <li>Books: scanned</li>
