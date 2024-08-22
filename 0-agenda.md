@@ -6,15 +6,21 @@
 
 ## Today
 
-* Notesy
-* ECAT + Claudia: Nicole thanks
-* Supernote: screen
-* Yashica: pack
-* Books: scanned
+* ?
 
 ## SOON
 
 * ?
+* Ruth Westen:
+* Pierre Schwab:
+* Monday: van
+* Notesy
+* Nienke: $75
+* Pierre Schwab
+* ECAT + Claudia: Nicole thanks
+* Supernote: screen
+* Yashica: pack
+* Books: scanned
 * Stout Books: books in boxes
 * Barrie Simpson
 * Hailey: reply
@@ -29,6 +35,7 @@
 * Men's group: Lord's prayer
 * Rod D: Hygienist for AL
 * H > Praveen
+* HH: Liao: balance class
 
 ***
 
@@ -65,7 +72,7 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <ul>
@@ -152,7 +159,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Entities</summary>
 
 <ul>
