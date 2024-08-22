@@ -11,9 +11,11 @@
 ## SOON
 
 * ?
+* Ruth Westen:
 * Monday: van
-* Philip: Alex for lunch ~ Peter: ditto ~ projects?/
 * Notesy
+* Nienke: $75
+* Pierre Schwab
 * ECAT + Claudia: Nicole thanks
 * Supernote: screen
 * Yashica: pack
@@ -32,6 +34,7 @@
 * Men's group: Lord's prayer
 * Rod D: Hygienist for AL
 * H > Praveen
+* HH: Liao: balance class
 
 ***
 
