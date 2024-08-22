@@ -22,9 +22,8 @@
 * Books: scanned
 * Stout Books: books in boxes
 * Barrie Simpson
-* Hailey: reply
 * Sensay: replica
-* Simplicity: shipping update: shipsmart + Enclosures
+*   
 * Place for daily papers:
 * Canon printer: Return cartridge
 * Superhexa: reset + back in box
@@ -97,7 +96,7 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Simplicity</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 <br>
