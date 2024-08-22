@@ -26,14 +26,13 @@
 * Hailey: reply
 * Sensay: replica
 * Simplicity: shipping update: shipsmart + Enclosures
-*   
 * HH: Calendar to Roxana
 * Heritage: fill in medical form
 * Place for daily papers:
 * Canon printer: Return cartridge
 * Superhexa: reset + back in box
 * Men's group: Lord's prayer
-* Rod D: Hygienist for AL
+*   
 * H > Praveen
 * HH: Liao: balance class
 
