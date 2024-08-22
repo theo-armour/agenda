@@ -22,7 +22,7 @@
 * Books: scanned
 * Stout Books: books in boxes
 * Barrie Simpson
-*   
+* Hailey: reply
 * Sensay: replica
 * Simplicity: shipping update: shipsmart + Enclosures
 * Place for daily papers:
