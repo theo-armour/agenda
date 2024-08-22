@@ -12,7 +12,7 @@
 
 * ?
 * Monday: van
-* Philip: lAlex for lunch ~ Peter: ditto ~ projects?/
+* Philip: Alex for lunch ~ Peter: ditto ~ projects?/
 * Notesy
 * ECAT + Claudia: Nicole thanks
 * Supernote: screen
