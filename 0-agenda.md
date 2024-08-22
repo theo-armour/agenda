@@ -3,6 +3,9 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
+* 2024-08-22 ~ James Clear ~ "The strategy required to find a great opportunity (lots of saying yes and exploring widely) is different from the strategy required to make the most of a great opportunity (lots of saying no and remaining focused)."
+
+  
 
 ## Today
 
@@ -13,29 +16,17 @@
 * ?
 * Ruth Westen:
 * Pierre Schwab:
-* Monday: van
-* Notesy
 * Nienke: $75
+* Barrie Simpson
 * Pierre Schwab
 * ECAT + Claudia: Nicole thanks
-* Supernote: screen
-* Yashica: pack
-* Books: scanned
-* Stout Books: books in boxes
-* Barrie Simpson
-* Hailey: reply
+* Notesy
 * Sensay: replica
-* Simplicity: shipping update: shipsmart + Enclosures
-* qData: notesy upgrade
-* HH: Calendar to Roxana
-* Heritage: fill in medical form
-* Place for daily papers:
-* Canon printer: Return cartridge
-* Superhexa: reset + back in box
-* Men's group: Lord's prayer
-* Rod D: Hygienist for AL
+* H >Men's group: Lord's prayer
 * H > Praveen
+* Heritage: fill in medical form
 * HH: Liao: balance class
+* HH: Calendar to Roxana
 
 ***
 
@@ -72,7 +63,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <ul>
@@ -100,12 +91,20 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Simplicity</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 <br>
 
 <ul>
+<li>Simplicity: shipping update: shipsmart + Enclosures</li>
+<li>Place for daily papers:</li>
+<li>Canon printer: Return cartridge</li>
+<li>Superhexa: reset + back in box</li>
+<li>Supernote: screen</li>
+<li>Yashica: pack</li>
+<li>Stout Books: books in boxes</li>
+<li>Books: scanned</li>
 <li>Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good</li>
 <li>ShipSmsrt: Deborah</li>
 <li>Storage: rearrange for shipping + closing</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
@@ -248,8 +247,6 @@
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
-
-*   
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations repos</a>
 
