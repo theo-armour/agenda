@@ -12,6 +12,7 @@
 
 * ?
 * Ruth Westen:
+* Pierre Schwab:
 * Monday: van
 * Notesy
 * Nienke: $75
