@@ -13,7 +13,6 @@
 * ?
 * Ruth Westen:
 * Pierre Schwab:
-*   
 * Notesy
 * Nienke: $75
 * Pierre Schwab
@@ -23,17 +22,17 @@
 * Books: scanned
 * Stout Books: books in boxes
 * Barrie Simpson
-* Hailey: reply
+*   
 * Sensay: replica
 * Simplicity: shipping update: shipsmart + Enclosures
-* HH: Calendar to Roxana
-* Heritage: fill in medical form
 * Place for daily papers:
 * Canon printer: Return cartridge
 * Superhexa: reset + back in box
-* Men's group: Lord's prayer
+* H >Men's group: Lord's prayer
 * H > Praveen
+* Heritage: fill in medical form
 * HH: Liao: balance class
+* HH: Calendar to Roxana
 
 ***
 
