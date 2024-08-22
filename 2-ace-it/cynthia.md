@@ -12,6 +12,8 @@
 
 ## 2024-08-19
 
+* Scott Alexander
+
 ### Google
 
 * Only one phone number
@@ -20,8 +22,10 @@
 
 ## 2024-08-14
 
-hook workshop photos
-cdb gummies for writing
+* hook workshop photos: sent
+* cdb gummies for writing
+* https://apothecarium.com/dispensaries/marina
+
 
 ## 2024-07-22
 
