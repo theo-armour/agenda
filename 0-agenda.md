@@ -23,7 +23,9 @@
 * Stout Books: books in boxes
 * Barrie Simpson
 * Sensay: replica
-*   
+
+* Simplicity: shipping update: shipsmart + Enclosures
+
 * Place for daily papers:
 * Canon printer: Return cartridge
 * Superhexa: reset + back in box
