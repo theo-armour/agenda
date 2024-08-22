@@ -26,7 +26,7 @@
 * Hailey: reply
 * Sensay: replica
 * Simplicity: shipping update: shipsmart + Enclosures
-* qData: notesy upgrade
+*   
 * HH: Calendar to Roxana
 * Heritage: fill in medical form
 * Place for daily papers:
