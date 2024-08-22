@@ -15,17 +15,13 @@
 * Pierre Schwab:
 * Notesy
 * Nienke: $75
+* Barrie Simpson
 * Pierre Schwab
 * ECAT + Claudia: Nicole thanks
 * Supernote: screen
-* Yashica: pack
-* Books: scanned
-* Stout Books: books in boxes
-* Barrie Simpson
-* Sensay: replica
-
+*   
+* Sensay: replica  
 * Simplicity: shipping update: shipsmart + Enclosures
-
 * Place for daily papers:
 * Canon printer: Return cartridge
 * Superhexa: reset + back in box
@@ -104,6 +100,9 @@
 <br>
 
 <ul>
+<li>Yashica: pack</li>
+<li>Stout Books: books in boxes</li>
+<li>Books: scanned</li>
 <li>Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good</li>
 <li>ShipSmsrt: Deborah</li>
 <li>Storage: rearrange for shipping + closing</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
