@@ -16,7 +16,7 @@
 * ?
 * Ruth Westen:
 * Pierre Schwab:
-* Nienke: $75
+*   
 * Barrie Simpson
 * Pierre Schwab
 * ECAT + Claudia: Nicole thanks
