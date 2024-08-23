@@ -5,8 +5,6 @@
 * 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
 * 2024-08-22 ~ James Clear ~ "The strategy required to find a great opportunity (lots of saying yes and exploring widely) is different from the strategy required to make the most of a great opportunity (lots of saying no and remaining focused)."
 
-  
-
 ## Today
 
 * ?
@@ -16,14 +14,11 @@
 * ?
 * Ruth Westen:
 
- I figured better
-
 * ECAT + Claudia: Nicole thanks
 * Carlos: meetup
 * Notesy
 * Sensay: replica
-* H > Men's group: Lord's prayer
-* H > Praveen
+*   
 * Heritage: fill in medical form
 * HH: Liao: balance class
 * HH: Calendar to Roxana
