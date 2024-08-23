@@ -85,7 +85,7 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Simplicity</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 <br>
@@ -162,7 +162,7 @@
 <li>SacSem: email to post ~ mobile</li>
 <li>SacSem</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2></details>
 
-<details open="">
+<details>
 <summary>Heritage</summary>
 <h2 id="heritagehappenings">Heritage Happenings</h2>
 <ul>
