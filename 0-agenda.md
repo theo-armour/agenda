@@ -159,6 +159,7 @@
 <li>Sensay: Dan + Marco</li>
 <li>SenSay: Read Dan's book&nbsp;</li>
 <li>SacSem: CC to three</li>
+<li>SacSem: Brian: Clay Jackson's recordings</li>
 <li>SacSem: Update Spotswood Template</li>
 <li>SacSem: email to post ~ mobile</li>
 <li>SacSem</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2></details>
