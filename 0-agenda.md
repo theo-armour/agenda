@@ -12,6 +12,7 @@
 ## SOON
 
 * ?
+* ConCon: neet
 * Ruth Westen:
 * ECAT + Claudia: Nicole thanks
 * Carlos: meetup on Monday
@@ -43,7 +44,7 @@
 <li>Canon printer: Return cartridge</li>
 <li>Superhexa: reset + back in box</li>
 <li>Supernote: screen</li>
-<li>Yashica: pack</li>
+<li>Yashica: email Kyle &amp; Corbett</li>
 <li>Agendas: Initiate list of happy things to do</li>
 <li>Agendas: Initiate: not to do list</li></ul><div>Waiting</div><div>* Viture pro xr ~ August 27?</div>
 <br>
