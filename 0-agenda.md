@@ -15,7 +15,7 @@
 
 * ?
 * Ruth Westen:
-* Pierre Schwa
+*   
 
  I figured better
 
