@@ -5,7 +5,7 @@
 * 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
 * 2024-08-22 ~ James Clear ~ "The strategy required to find a great opportunity (lots of saying yes and exploring widely) is different from the strategy required to make the most of a great opportunity (lots of saying no and remaining focused)."
 
-  
+
 
 ## Today
 
@@ -139,11 +139,12 @@
 
 <details>
 <summary>Peeps</summary>
+
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2>
 <ul>
 <li>2am</li>
 <li>Ray E</li>
-<li>Christine:&nbsp;<a href="https://www.freefuse.com/">https://www.freefuse.com/</a></li>
+<li>Christine<a href="https://www.freefuse.com/">https://www.freefuse.com/</a></li>
 <li>ing thanks</li>
 <li>Pam Choy ~ Niantic maps ~ sketchfab</li>
 <li>Ashley</li>
@@ -162,29 +163,26 @@
 <summary>Entities</summary>
 
 <ul>
-<li>Sensay: Dan + Marco
-<br>
-</li>
+<li>Sensay: Dan + Marco</li>
 <li>SenSay: Read Dan's book&nbsp;</li>
 <li>SacSem: CC to three</li>
 <li>SacSem: Update Spotswood Template</li>
 <li>SacSem: email to post ~ mobile</li>
-<li>SacSem</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
-<br>
+<li>SacSem</li>
+</ul>
+
+<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
+
 </details>
 
 <details>
 <summary>Heritage</summary>
 
+<h2 id="heritagehappenings">Heritage Happenings</h2>
 <ul>
-<li>
-<br>
-</li>
 <li>Morgan Centenary: Patti ~ Margaret Ja</li>Dr Fassett: clinic
 <li>Franklin Dentist + UCSF: dental clinic</li>
-<li>Window washing
-<br>
-</li>
+<li>Window washing</li>
 <li>More</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 <ul>
 <li>?</li>
@@ -206,9 +204,15 @@
 <li>HH: talk to Praveen</li>
 <li>Praveen: ditch HH Calendar</li>
 <li>Fee schedule questions</li>
-<li>House Committee: Bledsoe</li></ul><h2 id="invoices">Invoices</h2>
+<li>House Committee: Bledsoe</li>
+</ul>
+
+<h2 id="invoices">Invoices</h2>
 <ul>
-<li>February: $94.00</li></ul><h2 id="agenda">Agenda</h2>
+<li>February: $94.00</li>
+</ul>
+
+<h2 id="agenda">Agenda</h2>
 <ul>
 <li>What demos could I give? What do I want to show? What might people want to see?</li>
 <li>Patrick: Ange Appreciation documents</li>
