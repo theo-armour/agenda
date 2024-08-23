@@ -16,13 +16,11 @@
 * ?
 * Ruth Westen:
 * Pierre Schwab:
-*   
-* Barrie Simpson
-* Pierre Schwab
 * ECAT + Claudia: Nicole thanks
+* Carlos: meetup
 * Notesy
 * Sensay: replica
-* H >Men's group: Lord's prayer
+* H > Men's group: Lord's prayer
 * H > Praveen
 * Heritage: fill in medical form
 * HH: Liao: balance class
