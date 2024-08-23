@@ -13,12 +13,9 @@
 
 * ?
 * Ruth Westen:
-
 * ECAT + Claudia: Nicole thanks
 * Carlos: meetup
 * Notesy
-* Sensay: replica
-*   
 *   
 
 ***
