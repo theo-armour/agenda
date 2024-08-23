@@ -15,7 +15,10 @@
 
 * ?
 * Ruth Westen:
-* Pierre Schwab:
+* Pierre Schwa
+
+ I figured better
+
 * ECAT + Claudia: Nicole thanks
 * Carlos: meetup
 * Notesy
