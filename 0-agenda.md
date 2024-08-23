@@ -33,7 +33,7 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
@@ -151,7 +151,7 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Entities</summary>
 
 <ul>
