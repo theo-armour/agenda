@@ -16,7 +16,6 @@
 * ECAT + Claudia: Nicole thanks
 * Carlos: meetup
 * Notesy
-*   
 
 ***
 
@@ -32,7 +31,7 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
@@ -81,7 +80,7 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Simplicity</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 <br>
@@ -148,13 +147,12 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Entities</summary>
 
 <ul>
-<li>Sensay: Dan + Marco
-<br>
-</li>
+<li>Sensay: replica</li>
+<li>Sensay: Dan + Marco</li>
 <li>SenSay: Read Dan's book&nbsp;</li>
 <li>SacSem: CC to three</li>
 <li>SacSem: Update Spotswood Template</li>
