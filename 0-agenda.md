@@ -15,18 +15,9 @@
 
 * ?
 * Ruth Westen:
-* Pierre Schwab:
-* Nienke: $75
-* Barrie Simpson
-* Pierre Schwab
 * ECAT + Claudia: Nicole thanks
+* Carlos: meetup
 * Notesy
-* Sensay: replica
-* H >Men's group: Lord's prayer
-* H > Praveen
-* Heritage: fill in medical form
-* HH: Liao: balance class
-* HH: Calendar to Roxana
 
 ***
 
@@ -42,14 +33,19 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
 <li>?</li>
-<li>W: new toothbrush</li>
+<li>Maureen:new toothbrush</li>
+<li>W:&nbsp;</li>
 <li>S: wine ~ Chia seeds</li>
 <li>A: back brace</li>
+<li>Canon printer: Return cartridge</li>
+<li>Superhexa: reset + back in box</li>
+<li>Supernote: screen</li>
+<li>Yashica: pack</li>
 <li>Agendas: Initiate list of happy things to do</li>
 <li>Agendas: Initiate: not to do list</li></ul><div>Waiting</div><div>* Viture pro xr ~ August 27?</div>
 <br>
@@ -98,11 +94,9 @@
 
 <ul>
 <li>Simplicity: shipping update: shipsmart + Enclosures</li>
-<li>Place for daily papers:</li>
-<li>Canon printer: Return cartridge</li>
-<li>Superhexa: reset + back in box</li>
-<li>Supernote: screen</li>
-<li>Yashica: pack</li>
+<li>
+<br>
+</li>
 <li>Stout Books: books in boxes</li>
 <li>Books: scanned</li>
 <li>Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good</li>
@@ -159,10 +153,11 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Entities</summary>
 
 <ul>
+<li>Sensay: replica</li>
 <li>Sensay: Dan + Marco</li>
 <li>SenSay: Read Dan's book&nbsp;</li>
 <li>SacSem: CC to three</li>
@@ -175,11 +170,16 @@
 
 </details>
 
-<details>
+<details open="">
 <summary>Heritage</summary>
 
 <h2 id="heritagehappenings">Heritage Happenings</h2>
 <ul>
+<li>Heritage: fill in medical form</li>
+<li>HH: Liao: balance class</li>
+<li>HH: Calendar to Roxana</li>
+<li>H &gt; Men's group: Lord's prayer</li>
+<li>H &gt; Praveen</li>
 <li>Morgan Centenary: Patti ~ Margaret Ja</li>Dr Fassett: clinic
 <li>Franklin Dentist + UCSF: dental clinic</li>
 <li>Window washing</li>
