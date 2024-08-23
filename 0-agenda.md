@@ -14,7 +14,7 @@
 * ?
 * Ruth Westen:
 * ECAT + Claudia: Nicole thanks
-* Carlos: meetup
+* Carlos: meetup on Monday
 * Notesy
 * Maureen:new toothbrush
 
