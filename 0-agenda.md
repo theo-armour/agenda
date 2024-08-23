@@ -40,9 +40,6 @@
 <li>W:&nbsp;</li>
 <li>S: wine ~ Chia seeds</li>
 <li>A: back brace</li>
-<li>
-<br>
-</li>
 <li>Canon printer: Return cartridge</li>
 <li>Superhexa: reset + back in box</li>
 <li>Supernote: screen</li>
