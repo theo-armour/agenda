@@ -19,9 +19,7 @@
 * Notesy
 * Sensay: replica
 *   
-* Heritage: fill in medical form
-* HH: Liao: balance class
-* HH: Calendar to Roxana
+*   
 
 ***
 
@@ -86,7 +84,7 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Simplicity</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 <br>
@@ -168,13 +166,15 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Heritage</summary>
 
 <ul>
-<li>
-<br>
-</li>
+<li>Heritage: fill in medical form</li>
+<li>HH: Liao: balance class</li>
+<li>HH: Calendar to Roxana</li>
+<li>H &gt; Men's group: Lord's prayer</li>
+<li>H &gt; Praveen</li>
 <li>Morgan Centenary: Patti ~ Margaret Ja</li>Dr Fassett: clinic
 <li>Franklin Dentist + UCSF: dental clinic</li>
 <li>Window washing
