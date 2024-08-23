@@ -15,7 +15,6 @@
 
 * ?
 * Ruth Westen:
-*   
 
  I figured better
 
