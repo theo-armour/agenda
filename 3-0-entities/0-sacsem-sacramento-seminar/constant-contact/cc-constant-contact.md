@@ -1,5 +1,17 @@
 # CC Constant Contact
 
+RFK, Jr’s running mate, Nicole Shanahan
+
+RFK-Jrs-running-mate-Nicole-Shanahan
+
+
+https://myemail.constantcontact.com/Friday--August-30-at-At-Perry-s-On-Union--RFK-Jrs-running-mate-Nicole-Shanahan-.html?soid=1119242625067&aid=6ofowplvzgg
+
+https://myemail.constantcontact.com/Friday--July-26-at-At-Perry-s-On-Union--SF-City-Attorney-David-Chu-.html?soid=1119242625067&aid=hOi8BBcGEe 
+
+
+https://myemail.constantcontact.com/Friday--July-26-at-At-Perry-s-On-Union--SF-City-Attorney-David-Chu-.html?soid=1119242625067&aid=ieiwgbiwd-w
+
 ## Links
 
 * https://www.constantcontact.com/
