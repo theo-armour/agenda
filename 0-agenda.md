@@ -39,7 +39,7 @@
 <li>?</li>
 <li>W:&nbsp;</li>
 <li>S: wine ~ Chia seeds</li>
-<li>A: diapers ~ fiber bars ~ walker ~ back brace</li>
+<li>A: diapers ~ fiber bars ~ walker ~ cane</li>
 <li>Canon printer: Return cartridge</li>
 <li>Superhexa: reset + back in box</li>
 <li>Supernote: screen</li>
