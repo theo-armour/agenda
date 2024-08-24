@@ -37,7 +37,7 @@ Background
 
 Questions
 
-* Will it be possible simply to export and download Spotswood's templates and and list and then upload them to the new account?
+* Will it be possible simply to export and download Spotswood's templates , contact list, and **post archive** and then upload them to the new account?
 * Would there be any issues with the transfer?
 * Would there be any issues With two accounts posting to the same audience?
 * Will it be possible for Spotswood to continue to use his account for his other lists without having to log out and log back in?
@@ -46,4 +46,10 @@ Questions
 * Being a non-profit with mostly very elderly members, would there be any special pricing or services available to us?
 
 
+## More
 
+* Corporate ownership
+
+support 866 289 2101
+
+dick@militantcentrist.com
