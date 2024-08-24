@@ -80,7 +80,9 @@ Morning
 * Take out bathroom trash
 * Replace trash bag
 * Sponge wash coffee mug ~ while water is warming up: do nose & ears
+* \* Scrub 
 * Soak butt rags
+* Tidy bathroom cupboard
 
 Review
 
@@ -99,7 +101,7 @@ Afternoon or Evening
 After breakfast
 
 * ?
-* Tidy bathroom cupboard
+*   
 
 Afternoon
 
