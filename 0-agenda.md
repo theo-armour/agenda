@@ -12,8 +12,8 @@
 ## SOON
 
 * ?
-*   
 * ECAT + Claudia: Nicole thanks
+* Rob & José
 * Carlos: meetup on Monday
 * Notesy
 * Maureen: new toothbrush?
