@@ -12,8 +12,7 @@
 ## SOON
 
 * ?
-* ConCon: neet
-* Ruth Westen:
+*   
 * ECAT + Claudia: Nicole thanks
 * Carlos: meetup on Monday
 * Notesy
