@@ -16,7 +16,7 @@
 * ECAT + Claudia: Nicole thanks
 * Carlos: meetup on Monday
 * Notesy
-* Maureen:new toothbrush
+* Maureen: new toothbrush?
 
 ***
 
