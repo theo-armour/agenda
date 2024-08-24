@@ -32,14 +32,14 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
 <li>?</li>
 <li>W:&nbsp;</li>
 <li>S: wine ~ Chia seeds</li>
-<li>A: back brace</li>
+<li>A: diapers ~ fiber bars ~ walker ~ back brace</li>
 <li>Canon printer: Return cartridge</li>
 <li>Superhexa: reset + back in box</li>
 <li>Supernote: screen</li>
