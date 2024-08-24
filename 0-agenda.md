@@ -5,8 +5,6 @@
 * 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
 * 2024-08-22 ~ James Clear ~ "The strategy required to find a great opportunity (lots of saying yes and exploring widely) is different from the strategy required to make the most of a great opportunity (lots of saying no and remaining focused)."
 
-
-
 ## Today
 
 * ?
@@ -14,10 +12,11 @@
 ## SOON
 
 * ?
-* Ruth Westen:
+*   
 * ECAT + Claudia: Nicole thanks
-* Carlos: meetup
+* Carlos: meetup on Monday
 * Notesy
+* Maureen: new toothbrush?
 
 ***
 
@@ -38,14 +37,13 @@
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
 <li>?</li>
-<li>Maureen:new toothbrush</li>
 <li>W:&nbsp;</li>
 <li>S: wine ~ Chia seeds</li>
-<li>A: back brace</li>
+<li>A: diapers ~ fiber bars ~ walker ~ cane</li>
 <li>Canon printer: Return cartridge</li>
 <li>Superhexa: reset + back in box</li>
 <li>Supernote: screen</li>
-<li>Yashica: pack</li>
+<li>Yashica: email Kyle &amp; Corbett</li>
 <li>Agendas: Initiate list of happy things to do</li>
 <li>Agendas: Initiate: not to do list</li></ul><div>Waiting</div><div>* Viture pro xr ~ August 27?</div>
 <br>
@@ -87,7 +85,7 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Simplicity</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 <br>
@@ -133,7 +131,6 @@
 
 <details>
 <summary>Peeps</summary>
-
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2>
 <ul>
 <li>2am</li>
@@ -161,18 +158,13 @@
 <li>Sensay: Dan + Marco</li>
 <li>SenSay: Read Dan's book&nbsp;</li>
 <li>SacSem: CC to three</li>
+<li>SacSem: Brian: Clay Jackson's recordings</li>
 <li>SacSem: Update Spotswood Template</li>
 <li>SacSem: email to post ~ mobile</li>
-<li>SacSem</li>
-</ul>
+<li>SacSem</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2></details>
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
-
-</details>
-
-<details open="">
+<details>
 <summary>Heritage</summary>
-
 <h2 id="heritagehappenings">Heritage Happenings</h2>
 <ul>
 <li>Heritage: fill in medical form</li>
@@ -204,15 +196,9 @@
 <li>HH: talk to Praveen</li>
 <li>Praveen: ditch HH Calendar</li>
 <li>Fee schedule questions</li>
-<li>House Committee: Bledsoe</li>
-</ul>
-
-<h2 id="invoices">Invoices</h2>
+<li>House Committee: Bledsoe</li></ul><h2 id="invoices">Invoices</h2>
 <ul>
-<li>February: $94.00</li>
-</ul>
-
-<h2 id="agenda">Agenda</h2>
+<li>February: $94.00</li></ul><h2 id="agenda">Agenda</h2>
 <ul>
 <li>What demos could I give? What do I want to show? What might people want to see?</li>
 <li>Patrick: Ange Appreciation documents</li>
