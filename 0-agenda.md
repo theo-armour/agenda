@@ -33,7 +33,7 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
@@ -41,6 +41,7 @@
 <li>W:&nbsp;</li>
 <li>S: wine ~ Chia seeds</li>
 <li>A:&nbsp;</li>
+<li>Two new shirts</li>
 <li>Canon cartridge: mailboxes</li>
 <li>Superhexa: goodwill</li>
 <li>Agendas: Initiate list of happy things to do</li>
@@ -128,7 +129,7 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Peeps</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2>
 <ul>
