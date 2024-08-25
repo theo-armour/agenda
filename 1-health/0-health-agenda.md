@@ -4,7 +4,6 @@
 
 * ?
 * Colonoscopy report??
-*   
 * Dr Vaderhobli: 11:30 August 26
 * Dr Kattah: 09/05 8:00
 * Dr Yoga: 09/12 3:00
