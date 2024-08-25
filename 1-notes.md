@@ -2,7 +2,7 @@
 
 ??
 
-Scapulas back and down 10 times - six sessions a day
+  
 
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 
