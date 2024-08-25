@@ -62,7 +62,10 @@
 <ul>
 <li>Health: meds list</li>
 <li>UCSF &gt; Gastro: Kattah appoint</li>
-<li>UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
+<li>UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits</li>
+<li>Scapulas back and down 10 times - six sessions a day
+<br>
+</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a>
 <br>
