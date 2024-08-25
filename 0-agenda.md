@@ -166,21 +166,25 @@
 <li>SacSem: email to post ~ mobile</li>
 <li>SacSem</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2></details>
 
-<details>
+<details open="">
 <summary>Heritage</summary>
 <h2 id="heritagehappenings">Heritage Happenings</h2>
 <ul>
-<li>Heritage: fill in medical form</li>
 <li>HH: Liao: balance class</li>
 <li>HH: Calendar to Roxana</li>
-<li>H &gt; Men's group: Lord's prayer</li>
-<li>H &gt; Praveen</li>
-<li>Morgan Centenary: Patti ~ Margaret Ja</li>Dr Fassett: clinic
-<li>Franklin Dentist + UCSF: dental clinic</li>
-<li>Window washing</li>
-<li>More</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
+<li>H &gt; Praveen</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Herita</a></h2></details>
+
+* Morgan Centenary: Patti ~ Margaret Ja
+Dr Fassett: clinic* Franklin Dentist + UCSF: dental clinic
+* Window washing
+* More
+
+<details>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">ge</a></h2>
 <ul>
 <li>?</li>
+<li>Heritage: fill in medical form</li>
+<li>H &gt; Men's group: Lord's prayer</li>
 <li>Return cane to PT</li>
 <li>Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary</li>
 <li>Granucci: drive copy</li>
