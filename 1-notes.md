@@ -8,7 +8,6 @@ Ethan makes 3d
 
 Becoming supernatural Joe Joe dispenza 
 
-
 Add my daughter's telephone numbers to my Google and Microsoft accounts 
 
 Pioneer society anneq
@@ -161,7 +160,7 @@ Exercise the arms at night
 
 French 75
 
-Visit the doyles with Jane
+  
 
 Negroni
 
