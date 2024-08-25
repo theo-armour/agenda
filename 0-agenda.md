@@ -56,7 +56,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <ul>
@@ -65,7 +65,8 @@
 <li>UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits</li>
 <li>Scapulas back and down 10 times - six sessions a day
 <br>
-</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
+</li>
+<li>Calculate: calcium, protein and fiber in my diet</li></ul><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
 <br>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a>
 <br>
@@ -131,7 +132,7 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Peeps</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2>
 <ul>
