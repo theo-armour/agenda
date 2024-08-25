@@ -2,6 +2,8 @@
 
 ??
 
+Scapulas back and down 10 times - today
+
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 
 Ethan makes 3d
@@ -126,10 +128,6 @@ Oct 4 Aug 18
 
 Marissa was Alex's administer assistant want to be
 
-  
-
-  
-
 Forced sale of tik Tok? 
 
 What are two topics you might discuss? General topics such as last night's game or a favorite TV show are fine.
@@ -137,8 +135,6 @@ What are two topics you might discuss? General topics such as last night's game 
 What is one thing you hope to say?
 
 What is one question you will ask?
-
-  
 
 Imagine the world where everybody was suffering. There must be a reason why some people like us are living in Paradise. 
 
