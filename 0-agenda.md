@@ -8,14 +8,14 @@
 ## Today
 
 * ?
+* ECAT + Claudia: Nicole thanks
+* Yashica: email Kyle & Corbett
 
 ## SOON
 
 * ?
-* ECAT + Claudia: Nicole thanks
 * Rob & José: 3pm
 * Carlos: meetup on Monday
-* Yashica: email Kyle & Corbett
 * Notesy
 * Maureen: new toothbrush?
 
@@ -33,7 +33,7 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
@@ -43,7 +43,6 @@
 <li>A:&nbsp;</li>
 <li>Canon cartridge: mailboxes</li>
 <li>Superhexa: goodwill</li>
-<li>Supernote: screen</li>
 <li>Agendas: Initiate list of happy things to do</li>
 <li>Agendas: Initiate: not to do list</li></ul><div>Waiting</div><div>* Viture pro xr ~ August 27?</div>
 <br>
