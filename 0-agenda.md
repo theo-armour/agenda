@@ -149,7 +149,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Entities</summary>
 
 <ul>
