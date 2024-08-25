@@ -2,7 +2,7 @@
 
 ??
 
-Scapulas back and down 10 times - today
+Scapulas back and down 10 times - six sessions a day
 
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 
@@ -12,7 +12,7 @@ Becoming supernatural Joe Joe dispenza 
 
 Add my daughter's telephone numbers to my Google and Microsoft accounts 
 
-Pioneer society anneq
+Pioneer society anne
 
 Pharma america Martha 
 
