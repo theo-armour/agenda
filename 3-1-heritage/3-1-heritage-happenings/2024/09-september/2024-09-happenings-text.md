@@ -123,3 +123,11 @@ There are only 3 things certain in life
 Regards
 
 Patrick
+
+## Jonathan
+
+Jonathan Liao, Physical Therapist Assistant, has been working in the rehab department at Heritage since 2019. He is originally from New Jersey and moved to San Francisco 6 years, ago after finishing schooling in Pennsylvania. At the Heritage he works one on one with residents to improve their strength, balance, endurance, and safety in the community. Jonathan likes to stay physically active by playing sports like softball and tennis, snowboarding, and hiking with his dog, Po. Please join him for Better Balance Exercise class at 11AM on Tuesdays in the Fitness Center.
+
+
+Jonathan Liao
+Physical Therapist Assistant
