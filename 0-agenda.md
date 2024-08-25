@@ -9,7 +9,7 @@
 
 * ?
 * ECAT + Claudia: Nicole thanks
-* Yashica: email Kyle & Corbett
+*   
 
 ## SOON
 
@@ -146,7 +146,10 @@
 <li>Santani</li>
 <li>Blick</li>
 <li>Manfred</li>
-<li>mmm</li></ul></details>
+<li>Adrien</li>
+<li>Visit the doyles with Jane
+<br>
+</li></ul></details>
 
 ***
 
