@@ -8,12 +8,13 @@
 ## Today
 
 * ?
+* ECAT + Claudia: Nicole thanks
+*   
 
 ## SOON
 
 * ?
-* ECAT + Claudia: Nicole thanks
-* Rob & José
+* Rob & José: 3pm
 * Carlos: meetup on Monday
 * Notesy
 * Maureen: new toothbrush?
@@ -32,18 +33,17 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Personal</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 <ul>
 <li>?</li>
 <li>W:&nbsp;</li>
 <li>S: wine ~ Chia seeds</li>
-<li>A: diapers ~ fiber bars ~ walker ~ cane</li>
-<li>Canon printer: Return cartridge</li>
-<li>Superhexa: reset + back in box</li>
-<li>Supernote: screen</li>
-<li>Yashica: email Kyle &amp; Corbett</li>
+<li>A:&nbsp;</li>
+<li>Two new shirts</li>
+<li>Canon cartridge: mailboxes</li>
+<li>Superhexa: goodwill</li>
 <li>Agendas: Initiate list of happy things to do</li>
 <li>Agendas: Initiate: not to do list</li></ul><div>Waiting</div><div>* Viture pro xr ~ August 27?</div>
 <br>
@@ -146,11 +146,14 @@
 <li>Santani</li>
 <li>Blick</li>
 <li>Manfred</li>
-<li>mmm</li></ul></details>
+<li>Adrien</li>
+<li>Visit the doyles with Jane
+<br>
+</li></ul></details>
 
 ***
 
-<details open="">
+<details>
 <summary>Entities</summary>
 
 <ul>
@@ -163,21 +166,21 @@
 <li>SacSem: email to post ~ mobile</li>
 <li>SacSem</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2></details>
 
-<details>
+<details open="">
 <summary>Heritage</summary>
 <h2 id="heritagehappenings">Heritage Happenings</h2>
 <ul>
-<li>Heritage: fill in medical form</li>
 <li>HH: Liao: balance class</li>
 <li>HH: Calendar to Roxana</li>
 <li>H &gt; Men's group: Lord's prayer</li>
 <li>H &gt; Praveen</li>
-<li>Morgan Centenary: Patti ~ Margaret Ja</li>Dr Fassett: clinic
-<li>Franklin Dentist + UCSF: dental clinic</li>
-<li>Window washing</li>
 <li>More</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 <ul>
 <li>?</li>
+<li>Heritage: fill in medical form</li>
+<li>Morgan Centenary: Patti ~ Margaret Ja</li>Dr Fassett: clinic
+<li>Franklin Dentist + UCSF: dental clinic</li>
+<li>Window washing</li>
 <li>Return cane to PT</li>
 <li>Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary</li>
 <li>Granucci: drive copy</li>
