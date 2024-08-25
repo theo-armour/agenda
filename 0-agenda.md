@@ -13,8 +13,9 @@
 
 * ?
 * ECAT + Claudia: Nicole thanks
-* Rob & José
+* Rob & José: 3pm
 * Carlos: meetup on Monday
+* Yashica: email Kyle & Corbett
 * Notesy
 * Maureen: new toothbrush?
 
@@ -39,11 +40,10 @@
 <li>?</li>
 <li>W:&nbsp;</li>
 <li>S: wine ~ Chia seeds</li>
-<li>A: diapers ~ fiber bars ~ walker ~ cane</li>
-<li>Canon printer: Return cartridge</li>
-<li>Superhexa: reset + back in box</li>
+<li>A:&nbsp;</li>
+<li>Canon cartridge: mailboxes</li>
+<li>Superhexa: goodwill</li>
 <li>Supernote: screen</li>
-<li>Yashica: email Kyle &amp; Corbett</li>
 <li>Agendas: Initiate list of happy things to do</li>
 <li>Agendas: Initiate: not to do list</li></ul><div>Waiting</div><div>* Viture pro xr ~ August 27?</div>
 <br>
