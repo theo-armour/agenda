@@ -4,14 +4,12 @@
 
 * ?
 * Colonoscopy report??
-* Dr Immerman: 08/05 3:30
-* PPH > Gary: 08/26/2024 10:30 am
+*   
 * Dr Vaderhobli: 11:30 August 26
 * Dr Kattah: 09/05 8:00
 * Dr Yoga: 09/12 3:00
 * Dr Fassett: 10/05 2:30 ~ Dermatology exam ~ 185 Berry Ste 1000
 * Dr Masato Nagao: 10/21 @ 1 pm ~ 415 353 2080 ~ 1500 Osens
-
 
 ## Agenda
 
