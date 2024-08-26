@@ -2,6 +2,12 @@
 
 ??
 
+Chartreuse taste like Christmas without the abuse 
+
+Eric Cullen a quiet but vibrant disdain 
+
+  
+
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 
 Ethan makes 3d
@@ -10,11 +16,11 @@ Becoming supernatural Joe Joe dispenza 
 
 Add my daughter's telephone numbers to my Google and Microsoft accounts 
 
-Pioneer society anneq
+Pioneer society anne
 
 Pharma america Martha 
 
-30 residents present
+30 residents present and
 
 Survey care pleased
 
@@ -126,10 +132,6 @@ Oct 4 Aug 18
 
 Marissa was Alex's administer assistant want to be
 
-  
-
-  
-
 Forced sale of tik Tok? 
 
 What are two topics you might discuss? General topics such as last night's game or a favorite TV show are fine.
@@ -137,8 +139,6 @@ What are two topics you might discuss? General topics such as last night's game 
 What is one thing you hope to say?
 
 What is one question you will ask?
-
-  
 
 Imagine the world where everybody was suffering. There must be a reason why some people like us are living in Paradise. 
 
