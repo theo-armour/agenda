@@ -2,6 +2,8 @@
 
 ??
 
+Chartreuse taste like Christmas without the abuse 
+
   
 
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
