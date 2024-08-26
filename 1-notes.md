@@ -4,6 +4,8 @@
 
 Chartreuse taste like Christmas without the abuse 
 
+Eric Cullen a quiet but vibrant disdain 
+
   
 
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
@@ -18,7 +20,7 @@ Pioneer society anne
 
 Pharma america Martha 
 
-30 residents present
+30 residents present and
 
 Survey care pleased
 
