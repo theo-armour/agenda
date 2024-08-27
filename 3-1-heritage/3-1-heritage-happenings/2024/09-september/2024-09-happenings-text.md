@@ -1,5 +1,18 @@
 # 2024-09 September
 
+FF671F
+
+046A38
+
+Leadership meeting
+Ivy
+
+Why Names first?
+
+* What is at the top of every movie poster? The names of the stars.
+* What is in the front of every book? The name of the author.
+* What is at the top of every article? The name of the writer.
+* What is at the bottom right of every painting? The name of the artist.
 
 ## Theo: Fundraisers
 
