@@ -16,7 +16,7 @@
 * Rob & José: 3pm
 * Carlos: meetup on Monday
 * Notesy
-* Maureen: new toothbrush?
+*   
 
 ***
 
