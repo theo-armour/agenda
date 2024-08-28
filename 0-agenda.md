@@ -8,17 +8,16 @@
 ## Today
 
 * ?
+* Heritage: Hearing 09/26
 * Centenary: listed bldg ~ wikipedia entry ~ PDF ~ McNeil? ~ bldg fixes ~ party ~ lighting ~ AIA ~ Tom Jones ~ ICA ~ UCB, CalPoly ~ Hearst? Cal Hist society ~ portraits out ~ drawings  
 * ECAT + Claudia: Nicole thanks
 
 ## SOON
 
 * ?
-*   
-* Rob & José: 3pm
+* * Rob & José: 3pm
 * Notesy
 * Tab groups or whatever for two monitors
-*   
 
 ***
 
