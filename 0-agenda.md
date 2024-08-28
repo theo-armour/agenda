@@ -8,12 +8,13 @@
 ## Today
 
 * ?
+* Centenary: listed bldg ~ wikipedia entry ~ PDF ~ McNeil?
 * ECAT + Claudia: Nicole thanks
 
 ## SOON
 
 * ?
-* Centenary: listed bldg ~ wikipedia entry
+*   
 * Rob & José: 3pm
 * Notesy
 
@@ -131,7 +132,7 @@
 <br>
 </details>
 
-<details open="">
+<details>
 <summary>Peeps</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2>
 <ul>
@@ -155,10 +156,12 @@
 
 ***
 
-<details>
+<details open="">
 <summary>Entities</summary>
 
 <ul>
+<li>sps:&nbsp;</li>
+<li>Rob &amp; José: 3pm</li>
 <li>Sensay: replica</li>
 <li>Sensay: Dan + Marco</li>
 <li>SenSay: Read Dan's book&nbsp;</li>
@@ -168,7 +171,7 @@
 <li>SacSem: email to post ~ mobile</li>
 <li>SacSem</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2></details>
 
-<details open="">
+<details>
 <summary>Heritage</summary>
 <h2 id="heritagehappenings">Heritage Happenings</h2>
 <ul>
