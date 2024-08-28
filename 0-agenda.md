@@ -16,7 +16,6 @@
 * Centenary: listed bldg ~ wikipedia entry
 * Rob & José: 3pm
 * Notesy
-*   
 
 ***
 
@@ -56,7 +55,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <ul>
@@ -132,7 +131,7 @@
 <br>
 </details>
 
-<details>
+<details open="">
 <summary>Peeps</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2>
 <ul>
@@ -140,7 +139,7 @@
 <li>Ray E</li>
 <li>Christine<a href="https://www.freefuse.com/">https://www.freefuse.com/</a></li>
 <li>ing thanks</li>
-<li>Pam Choy ~ Niantic maps ~ sketchfab</li>
+<li>Pam Choy ~ Niantic maps ~ sketchfab ~ Brilliant labs!!</li>
 <li>Ashley</li>
 <li>Shammah: birthday</li>
 <li>Ronan</li>
