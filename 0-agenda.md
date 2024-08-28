@@ -13,8 +13,8 @@
 ## SOON
 
 * ?
+* Centenary: listed bldg ~ wikipedia entry
 * Rob & José: 3pm
-* Carlos: meetup on Monday
 * Notesy
 *   
 
