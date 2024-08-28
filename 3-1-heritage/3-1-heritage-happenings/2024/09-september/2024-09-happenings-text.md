@@ -1,13 +1,33 @@
 # 2024-09 September
 
+## Todo
+
+
+* Friday Bingo?
+
+## Res Dir
+
+* Patti: Tom & Val details
+
+Waiting
+
+* Leadership meeting
+* Randy lunch
+* Ivy
+* Angie
+* Hector & Cortez
+* Martha
+* Food committee
+* Homa
+* Bianca
+
+## ??
+
 FF671F
 
 046A38
 
-Leadership meeting
-Ivy
-
-Why Names first?
+## Why Names first?
 
 * What is at the top of every movie poster? The names of the stars.
 * What is in the front of every book? The name of the author.
