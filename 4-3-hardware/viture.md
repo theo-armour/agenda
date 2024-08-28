@@ -27,6 +27,10 @@
 * Cannot get extended screen features
 * Google Chrome app does not open
 
+Thank goodness, I found a post on using the glasses with windows. Period. The trick is to. Set the two monitors, one above the other, and not side by side. I am doing this now. The glasses Monitor  is above the laptop Monitor. I can see both screens quite easily.
+
+I have a vs code. Above It is extremely clear, and I can read the text Easily. The browser is below and by raising my head and looking down, I can see it very clearly.
+
 ### Support
 
 * Only support via Discord

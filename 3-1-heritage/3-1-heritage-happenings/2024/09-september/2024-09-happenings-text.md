@@ -1,8 +1,9 @@
 # 2024-09 September
 
 ## Todo
+Midge: Jonathan phone number in directory
 
-
+Nancy: birthdays in dir ~ Jon + Ivy thanks ~ Saturday movies 
 * Friday Bingo?
 
 ## Res Dir
