@@ -8,15 +8,16 @@
 ## Today
 
 * ?
+* Heritage: EIR Hearing 09/26
+* Centenary: listed bldg ~ wikipedia entry ~ PDF ~ McNeil? ~ bldg fixes ~ party ~ lighting ~ AIA ~ Tom Jones ~ ICA ~ UCB, CalPoly ~ Hearst? Cal Hist society ~ portraits out ~ drawings  
 * ECAT + Claudia: Nicole thanks
 
 ## SOON
 
 * ?
-* Centenary: listed bldg ~ wikipedia entry
-* Rob & José: 3pm
+* * Rob & José: 3pm
 * Notesy
-*   
+* Tab groups or whatever for two monitors
 
 ***
 
@@ -56,7 +57,7 @@
 
 ***
 
-<details open="">
+<details>
 <summary>Health</summary>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 <ul>
@@ -140,7 +141,7 @@
 <li>Ray E</li>
 <li>Christine<a href="https://www.freefuse.com/">https://www.freefuse.com/</a></li>
 <li>ing thanks</li>
-<li>Pam Choy ~ Niantic maps ~ sketchfab</li>
+<li>Pam Choy ~ Niantic maps ~ sketchfab ~ Brilliant labs!!</li>
 <li>Ashley</li>
 <li>Shammah: birthday</li>
 <li>Ronan</li>
@@ -160,6 +161,8 @@
 <summary>Entities</summary>
 
 <ul>
+<li>sps:&nbsp;</li>
+<li>Rob &amp; José: 3pm</li>
 <li>Sensay: replica</li>
 <li>Sensay: Dan + Marco</li>
 <li>SenSay: Read Dan's book&nbsp;</li>
