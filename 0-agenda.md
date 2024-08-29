@@ -17,7 +17,7 @@
 * ?
 * Ram: HH + Sensay
 * A: 7.5 foot weight
-* \* Rob & José: 3pm
+* Rob & José: 3pm
 * Notesy
 * Tab groups or whatever for two monitors
 
