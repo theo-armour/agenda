@@ -12,6 +12,10 @@
 * San Francisco Briones society
 * spur
 
+## test
+
+https://www.sacsem.net/post/friday-august-30-at-perry-s-on-union-vp-candidate-nicole-shanahan
+
 ## Web site
 
 * https://manage.wix.com/dashboard/b2537da6-a144-4436-bf40-8f3b36dcd723/home
