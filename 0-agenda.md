@@ -15,10 +15,8 @@
 ## SOON
 
 * ?
-<li>Ram: HH + Sensay
-
-</li>
-* 
+* Ram: HH + Sensay
+* PPHH: Gary: Fishy urine
 * Rob &amp; José: 3pm
 * Notesy
 * Tab groups or whatever for two monitors
