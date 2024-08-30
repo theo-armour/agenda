@@ -8,15 +8,14 @@
 ## Today
 
 * ?
-* Heritage: EIR Hearing 09/26
-* Centenary: listed bldg ~ wikipedia entry ~ PDF ~ McNeil? ~ bldg fixes ~ party ~ lighting ~ AIA ~ Tom Jones ~ ICA ~ UCB, CalPoly ~ Hearst? Cal Hist society ~ portraits out ~ drawings&nbsp;&nbsp;
+* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
 * ECAT + Claudia: Nicole thanks
 
 ## SOON
 
 * ?
 * Ram: HH + Sensay
-* PPHH: Gary: Fishy urine
+* PPH: Gary: Fishy urine
 * Rob &amp; José: 3pm
 * Notesy
 * Tab groups or whatever for two monitors
@@ -190,7 +189,7 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Entities</summary>
 
