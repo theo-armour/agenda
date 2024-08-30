@@ -12,7 +12,9 @@
 SPS
 
 * https://groups.io/g/paulies/
-
+* https://www.instagram.com/stpaulsschoolnh/
+* https://lnk.bio/spsnh
+* https://www.linkedin.com/school/stpaulschool/
 
 ## 2024-07-06
 

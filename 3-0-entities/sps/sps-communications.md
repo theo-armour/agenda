@@ -5,7 +5,7 @@
 * Interform communication
 * Chat
 * Jobs
-* Finding
+* Finding lost form members
 * Awakening to some need
 
 ## Vision
