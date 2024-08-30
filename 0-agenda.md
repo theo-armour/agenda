@@ -15,9 +15,11 @@
 ## SOON
 
 * ?
-* Ram: HH + Sensay
-<li>
-* Rob &amp; José: 3pm</li>
+<li>Ram: HH + Sensay
+
+</li>
+* 
+* Rob &amp; José: 3pm
 * Notesy
 * Tab groups or whatever for two monitors
 
@@ -31,8 +33,9 @@
 
 * ?
 * bean citibank: sign in
-* Schedule tax payments
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
+<li>Schedule tax payments
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a></li>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 
@@ -53,9 +56,9 @@
 * Superhexa: goodwill
 * Agendas: Initiate list of happy things to do
 * Agendas: Initiate: not to do list
+
 <div>Waiting</div>
 <div>* Viture pro xr ~ August 27?</div>
-
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a>
@@ -74,12 +77,14 @@
 
 * Health: meds list
 * UCSF &gt; Gastro: Kattah appoint
-* UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
-<li>Scapulas back and down 10 times - six sessions a day
+<li>UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
 
 </li>
-* Calculate: calcium, protein and fiber in my diet
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
+* Scapulas back and down 10 times - six sessions a day
+
+<li>Calculate: calcium, protein and fiber in my diet
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a></li>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a>
 
@@ -107,16 +112,18 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 
-* Simplicity: shipping update: shipsmart + Enclosures
-<li>
+<li>Simplicity: shipping update: shipsmart + Enclosures
 
 </li>
+* 
+
 * Stout Books: books in boxes
 * Books: scanned
 * Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good
 * ShipSmsrt: Deborah
-* Storage: rearrange for shipping + closing
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
+<li>Storage: rearrange for shipping + closing
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a></li>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a>
 
@@ -133,15 +140,16 @@
 * Marie-so: wedding
 * Eloise: Bee Memorial ~ Cynthia Chase visits
 * ace-it+: exhibit report
-* Film the corridor
-<li>
+<li>Film the corridor
 
 </li>
+* 
+
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>
+
 * Ruth Weston
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2>
-
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceiteloisemdquoteloisea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a></h2>
 
 * Newport
@@ -175,10 +183,10 @@
 * Santani
 * Blick
 * Manfred
-* Adrien
-<li>Visit the doyles with Jane
+<li>Adrien
 
 </li>
+* Visit the doyles with Jane
 
 </details>
 
@@ -198,6 +206,7 @@
 * SacSem: Update Spotswood Template
 * SacSem: email to post ~ mobile
 * SacSem
+
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
 
 </details>
@@ -211,9 +220,11 @@
 <li>
 
 </li>
+
 * H &gt; Men's group: Lord's prayer
 * H &gt; Praveen
 * More
+
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 
 * ?
@@ -240,9 +251,11 @@
 * Praveen: ditch HH Calendar
 * Fee schedule questions
 * House Committee: Bledsoe
+
 <h2 id="invoices">Invoices</h2>
 
 * February: $94.00
+
 <h2 id="agenda">Agenda</h2>
 
 * What demos could I give? What do I want to show? What might people want to see?
@@ -280,14 +293,15 @@
 </details>
 
 ***
-<details>
+
+<details open="">
 
 <summary>projects</summary>
 
-  
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
+
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations</a>
 
 * kiosk software
