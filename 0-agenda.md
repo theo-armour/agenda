@@ -178,8 +178,9 @@
 <summary>Heritage</summary>
 <h2 id="heritagehappenings">Heritage Happenings</h2>
 <ul>
-<li>HH: Liao: balance class</li>
-<li>HH: Calendar to Roxana</li>
+<li>
+<br>
+</li>
 <li>H &gt; Men's group: Lord's prayer</li>
 <li>H &gt; Praveen</li>
 <li>More</li></ul><h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
@@ -249,7 +250,11 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations repos</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations</a>
+
+\* kiosk software
+
+##  <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">&nbsp;repos</a>
 
 * ++
 
