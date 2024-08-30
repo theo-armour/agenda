@@ -8,6 +8,8 @@
 ## Today
 
 * ?
+* Wendy: Tea leaf thanks
+* Sensay: Life Review
 * Heritage: EIR Hearing 09/26&nbsp;&nbsp;
 * ECAT + Claudia: Nicole thanks
 
@@ -29,10 +31,12 @@
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 
 * ?
-* bean citibank: sign in
-<li>Schedule tax payments
+<li>bean citibank: sign in
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a></li>
+</li>
+* Schedule tax payments
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 
@@ -73,15 +77,18 @@
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 
 * Health: meds list
-* UCSF &gt; Gastro: Kattah appoint
-<li>UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
+<li>UCSF &gt; Gastro: Kattah appoint
 
 </li>
+* UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
+
 * Scapulas back and down 10 times - six sessions a day
 
 <li>Calculate: calcium, protein and fiber in my diet
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a></li>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
+
+</li>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a>
 
@@ -112,15 +119,20 @@
 <li>Simplicity: shipping update: shipsmart + Enclosures
 
 </li>
+
 * 
-
 * Stout Books: books in boxes
-* Books: scanned
-* Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good
-* ShipSmsrt: Deborah
-<li>Storage: rearrange for shipping + closing
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a></li>
+* Books: scanned
+
+* Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good
+
+<li>ShipSmsrt: Deborah
+
+</li>
+* Storage: rearrange for shipping + closing
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a>
 
@@ -136,10 +148,11 @@
 
 * Marie-so: wedding
 * Eloise: Bee Memorial ~ Cynthia Chase visits
-* ace-it+: exhibit report
-<li>Film the corridor
+<li>ace-it+: exhibit report
 
 </li>
+* Film the corridor
+
 * 
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>
@@ -179,10 +192,11 @@
 * Tom Magowan
 * Santani
 * Blick
-* Manfred
-<li>Adrien
+<li>Manfred
 
 </li>
+* Adrien
+
 * Visit the doyles with Jane
 
 </details>
