@@ -21,6 +21,9 @@
 ## SOON
 
 * ?
+* HptM &gt; Laura: Morgan fundraising
+* Joe M: not last puppy?
+* Randy: EIR strategy?
 * Ram: HH + Sensay
 * PPH: Gary: Fishy urine
 * Rob &amp; José: 3pm ~ why ~ mission
@@ -221,7 +224,8 @@
 * Sensay: replica
 * Sensay: Dan + Marco
 * SenSay: Read Dan's book&nbsp;
-* SacSem: CC to three
+* SacSem: Download Dennis' CJ files
+* SacSem: CC to three: cancel
 * SacSem: Brian: Clay Jackson's recordings
 * SacSem: Update Spotswood Template
 * SacSem: email to post ~ mobile
