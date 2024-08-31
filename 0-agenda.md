@@ -8,7 +8,12 @@
 ## Today
 
 * ?
-* Wendy: Tea leaf thanks
+* Mary L: Touchtown Czar?
+* Patrick &amp; Mary: EIR
+* Bennet: HotM
+* Dan: trias &amp; AI
+* Tess: Carm's Reader: little women
+* Mia: Bill ~ errors ~ news
 * Sensay: Life Review
 * Heritage: EIR Hearing 09/26&nbsp;&nbsp;
 * ECAT + Claudia: Nicole thanks
@@ -16,9 +21,12 @@
 ## SOON
 
 * ?
+* HptM &gt; Laura: Morgan fundraising
+* Joe M: not last puppy?
+* Randy: EIR strategy?
 * Ram: HH + Sensay
 * PPH: Gary: Fishy urine
-* Rob &amp; José: 3pm
+* Rob &amp; José: 3pm ~ why ~ mission
 * Notesy
 * Tab groups or whatever for two monitors
 
@@ -30,10 +38,11 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 
-* ?
-<li>bean citibank: sign in
+<li>?
 
 </li>
+* bean citibank: sign in
+
 * Schedule tax payments
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
@@ -76,10 +85,11 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 
-* Health: meds list
-<li>UCSF &gt; Gastro: Kattah appoint
+<li>Health: meds list
 
 </li>
+* UCSF &gt; Gastro: Kattah appoint
+
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
 
 * Scapulas back and down 10 times - six sessions a day
@@ -120,9 +130,8 @@
 
 </li>
 
-* 
-* Stout Books: books in boxes
-
+<li>
+* Stout Books: books in boxes</li>
 * Books: scanned
 
 * Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good
@@ -130,6 +139,7 @@
 <li>ShipSmsrt: Deborah
 
 </li>
+
 * Storage: rearrange for shipping + closing
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
@@ -147,10 +157,11 @@
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2>
 
 * Marie-so: wedding
-* Eloise: Bee Memorial ~ Cynthia Chase visits
-<li>ace-it+: exhibit report
+<li>Eloise: Bee Memorial ~ Cynthia Chase visits
 
 </li>
+* ace-it+: exhibit report
+
 * Film the corridor
 
 * 
@@ -191,10 +202,11 @@
 * Aaron
 * Tom Magowan
 * Santani
-* Blick
-<li>Manfred
+<li>Blick
 
 </li>
+* Manfred
+
 * Adrien
 
 * Visit the doyles with Jane
@@ -212,7 +224,8 @@
 * Sensay: replica
 * Sensay: Dan + Marco
 * SenSay: Read Dan's book&nbsp;
-* SacSem: CC to three
+* SacSem: Download Dennis' CJ files
+* SacSem: CC to three: cancel
 * SacSem: Brian: Clay Jackson's recordings
 * SacSem: Update Spotswood Template
 * SacSem: email to post ~ mobile
