@@ -11,6 +11,9 @@
 * Mary L: Touchtown Czar?
 * Patrick &amp; Mary: EIR
 * Bennet: HotM
+* Dan: trias &amp; AI
+* Tess: Carm's Reader: little women
+* Mia: Bill ~ errors ~ news
 * Sensay: Life Review
 * Heritage: EIR Hearing 09/26&nbsp;&nbsp;
 * ECAT + Claudia: Nicole thanks
@@ -20,7 +23,7 @@
 * ?
 * Ram: HH + Sensay
 * PPH: Gary: Fishy urine
-* Rob &amp; José: 3pm
+* Rob &amp; José: 3pm ~ why ~ mission
 * Notesy
 * Tab groups or whatever for two monitors
 
