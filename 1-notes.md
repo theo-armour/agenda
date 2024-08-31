@@ -2,11 +2,75 @@
 
 ??
 
+  
+
+Here's the transcription of the text in the image:
+
+by fervent apostles of mystery, none of whom appeared to be
+
+well-fed but maybe chronically next to emaciation. The
+
+hooded cobra is an evil and ominous presence on the pavement
+
+swaying menacingly to the faint melody played on a pipe. Children
+
+sit beside infants, sit beside begging adults like ransoms, crying for
+
+mercy, some obviously infirm. Some adults suffer from Leprosy
+
+missing toes and fingers, the disease that deadens nerves, allowing
+
+wounds to fester.
+
+To flee such prevalent miseries, the British had built
+
+homes in the Himalayan foothills reachable by coal-fired steam
+
+engine on narrow-gauge track. These were especially appreciated
+
+during the hot season, with large hotels available to the fortunate.
+
+Rhododendron forests spotted the rails. An unexpected perk
+
+was the presence in these villages of swarms of monkeys which
+
+rudely would climb the Hotel walls and enter any open
+
+window available, stealing anything that glittered, or not.
+
+They appeared to be quite territorial and could glare and bare
+
+their teeth if bothered. It is unlikely the Brits could shoot
+
+the intruders since the monkeys enjoyed holy status
+
+as evidenced by the many shrines up town. Shrines offer
+
+hope. There is an island in the bay of Bombay named called
+
+Elephanta, containing no elephants and surrounded
+
+with waters home to flying fish. Beneath the ground in
+
+Elephanta lie ancient deities, of both genders, carved
+
+in stone impressively large and explicit. Once again,
+
+one is not in India called upon to suspend one's
+
+disbelief. It is all there, starkly present.
+
+Please note: There might be some errors due to the handwriting and image quality.
+
+If you have another image you'd like trans
+
+  
+
+cribed, feel free to send it!
+
 Chartreuse taste like Christmas without the abuse 
 
 Eric Cullen a quiet but vibrant disdain 
-
-  
 
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 
