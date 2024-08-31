@@ -8,8 +8,9 @@
 ## Today
 
 * ?
-* 
-
+* Mary L: Touchtown Czar?
+* Patrick &amp; Mary: EIR
+* Bennet: HotM
 * Sensay: Life Review
 * Heritage: EIR Hearing 09/26&nbsp;&nbsp;
 * ECAT + Claudia: Nicole thanks
