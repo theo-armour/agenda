@@ -51,7 +51,7 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
