@@ -7,8 +7,7 @@ Gene
 
 * Washing machine rules
 * garbage in bottles basket
-* Van rules ~ consistent
-* No way to know schedule
+* Van rules ~ consistent ~ No way to know schedule
 
 Linda
 
