@@ -7,6 +7,7 @@
 ## Today
 
 * ?
+* Cal: StephenL sit&nbsp;
 * Mary L: Touchtown Czar?
 * Patrick &amp; Mary: EIR
 * Bennet: HotM
