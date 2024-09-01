@@ -223,17 +223,18 @@
 * Residents directory: hairdressers + others
 * More
 <div>## Morgan Centenary</div><div>* Dinner Laura</div><div>* Cindy + D</div>* Charlie-boy: holiday sign
+* Morgan Centenary: Patti ~ Margaret Ja
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 
 * ?
 * H &gt; Men's group: Lord's prayer
 * Heritage: fill in medical form
-* Morgan Centenary: Patti ~ Margaret Ja
 * Dr Fassett: clinic
 * Franklin Dentist + UCSF: dental clinic
 * Window washing
 * Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
-* Granucci: drive copy
+* 
+
 * Strategic Plan: Community organization alternative
 * Surströmming party
 * markdown-it: make it happen
