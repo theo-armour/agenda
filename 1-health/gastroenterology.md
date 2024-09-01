@@ -5,12 +5,17 @@
 * Dr Kattah: 2024-09-05&nbsp;<a href="https://github.com/9">@</a>&nbsp;8:00
 
 <div>
-</div><div>Questions</div><div>* Next colonoscopy: 202?
+</div>
+<div>Questions</div>
+<div>* Next colonoscopy: 202?
 * Miralax: why not + alternatives
 * Fiber: soluble vs insoluble
 * Statins
 * 
-</div>
+</div><div><span style="color: rgb(54, 54, 54); font-family: &quot;Source Sans Pro&quot;, Calibri, Arial, sans-serif; font-size: 17.3333px; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);">* 2 sessile polyps in ascending colon (2 to 5 mm)
+and 2 sessile polyps in the transverse colon (7 mm).
+</span></div><div><span style="color: rgb(54, 54, 54); font-family: &quot;Source Sans Pro&quot;, Calibri, Arial, sans-serif; font-size: 17.3333px; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);">
+</span></div>
 ## UCSF Gastroenterology
 
 <a href="https://www.ucsfhealth.org/list-of-clinics/gastroenterology">https://www.ucsfhealth.org/list-of-clinics/gastroenterology</a>
@@ -126,25 +131,31 @@ Possible reasons
 * No food for ~40 hours before
 * White wine is a clear liquid
 * Ditto ginger ale
-* No need to take shower before prep ~ you will be taking many showers later
-<li>Drink equal amounts of Prep|Gavilyte|GoLightly and water
-* One glass of prep + one glass of water</li>
-<li>Prepare the bathroom
+<li>No need to take shower before prep ~ you will be taking many showers later
+
+</li>
+* Drink equal amounts of Prep|Gavilyte|GoLightly and water
+* One glass of prep + one glass of water
+
+* Prepare the bathroom
 * Ensure no/zero/none trips out of the bathroom are needed
 * Stool place for phone and computer ( not used in 2020 )
 * Cleaning poo off carpet is not fun. Ditto off walls
 * Move wastebaskets and any other possible targets around toilet out of the way
-* Bring a full bag of diapers</li>
-<li>When poo is squirting
+* Bring a full bag of diapers
+
+* When poo is squirting
 * Sit on toilet before taking off diaper
-* In shower cover butt with hand</li>
-<li>Looking for:
+* In shower cover butt with hand
+
+* Looking for:
 * Clear yellow liquid yellow, light, liquid, and clear, like urine
-* No lumps but may be millimeter size particles and the add corn kernel</li>
-<li>The yellow liquid coats floor, hand, whatever with the most slippery substance known to mankind
+* No lumps but may be millimeter size particles and the add corn kernel
+
+* The yellow liquid coats floor, hand, whatever with the most slippery substance known to mankind
 * Big increase to fall risk
 * Consider a non slip mat
-* Keep wiping rag in shower</li>
+* Keep wiping rag in shower
 * It gets cold being naked in there! So take hot showers every ten minutes. Wear tee shirt??
 * Allow for urinating and final diaper change before leaving
 
