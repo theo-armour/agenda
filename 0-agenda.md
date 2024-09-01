@@ -11,7 +11,7 @@
 * Mary L: Touchtown Czar?
 * Patrick &amp; Mary: EIR
 * Bennet: HotM
-* Dan: trias &amp; AI
+* Dan: triads &amp; AI
 * Tess: Carm's Reader: little women
 * Mia: Bill ~ errors ~ news
 * Sensay: Life Review
@@ -21,7 +21,7 @@
 ## SOON
 
 * ?
-* HptM &gt; Laura: Morgan fundraising
+* HotM &gt; Laura: Morgan fundraising
 * Joe M: not last puppy?
 * Randy: EIR strategy?
 * Ram: HH + Sensay
@@ -141,6 +141,7 @@
 * Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good
 
 </li>
+
 <li>ShipSmsrt: Deborah
 
 </li>
@@ -164,6 +165,7 @@
 <li>Marie-so: wedding
 
 </li>
+
 * Eloise: Bee Memorial ~ Cynthia Chase visits
 
 * ace-it+: exhibit report
@@ -206,10 +208,11 @@
 * Shammah: birthday
 * Ronan
 * Aaron
-* Tom Magowan
-<li>Santani
+<li>Tom Magowan
 
 </li>
+* Santani
+
 * Blick
 
 * Manfred
