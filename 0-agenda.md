@@ -221,6 +221,7 @@
 * Praveen: ditch HH Calendar
 * Happenings: Audio version
 * Residents directory: hairdressers + others
+* HH: talk to Praveen
 * More
 <div>## Morgan Centenary</div><div>* Dinner Laura</div><div>* Cindy + D</div>* Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
@@ -233,18 +234,12 @@
 * Franklin Dentist + UCSF: dental clinic
 * Window washing
 * Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
-* 
-
 * Strategic Plan: Community organization alternative
 * Surströmming party
 * markdown-it: make it happen
 * Mary: Type A ~ Appendix H provisions ~ copy me om message to Christine
 * Mary: Type C: particulars
-* Roxana: meeting &gt; calendar ~ mia
-* Martha: Dermatology clinic ~ H Pharmacy ~ PPH ~ HH bio ~ HH Advisory
-* HH: talk to Praveen
-* 
-
+* Martha: Dermatology clinic ~ H Pharmacy ~ PPH ~ HH Advisory
 * Fee schedule questions
 * House Committee: Bledsoe
 
