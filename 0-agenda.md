@@ -7,12 +7,12 @@
 ## Today
 
 * ?
+* ECAT + Claudia: Nicole thanks
 * Bennet: HotM
 * Dan: triads &amp; AI
 * Tess: Carm's Reader: little women
 * Mia: Bill ~ errors ~ news
 * Sensay: Life Review
-* ECAT + Claudia: Nicole thanks
 
 ## SOON
 
@@ -47,7 +47,7 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
@@ -74,7 +74,7 @@
 
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
