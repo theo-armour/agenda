@@ -13,6 +13,7 @@ Questions
 * Miralax: why not + alternatives
 * Fiber: soluble vs insoluble
 * Statins?
+* And See below
 
 ## UCSF Gastroenterology
 
