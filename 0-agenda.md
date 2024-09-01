@@ -2,7 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 
+* ++
 
 ## Today
 
@@ -80,22 +80,14 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 
-* pt:&nbsp;"up with the good, down with the bad."&nbsp;
-<li>Health: meds list
-
-</li>
-
+* pt: "up with the good, down with the bad."&nbsp;
+* ealth: meds list
 * Daniel: questions: any prep
-
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
-
 * Scapulas back and down 10 times - six sessions a day
-
-<li>Calculate: calcium, protein and fiber in my diet
+* Calculate: calcium, protein and fiber in my diet
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
-
-</li>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a>
 
@@ -130,17 +122,9 @@
 <li>
 
 * Stout Books: books in boxes
-
 * Books: scanned
-
 * Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good
-
-</li>
-
-<li>ShipSmsrt: Deborah
-
-</li>
-
+*ShipSmsrt: Deborah
 * Storage: rearrange for shipping + closing
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
@@ -157,16 +141,10 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2>
 
-<li>Marie-so: wedding
-
-</li>
-
+* Marie-so: wedding
 * Eloise: Bee Memorial ~ Cynthia Chase visits
-
 * ace-it+: exhibit report
-
 * Film the corridor
-
 * 
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>
@@ -201,23 +179,14 @@
 * Pam Choy ~ Niantic maps ~ sketchfab ~ Brilliant labs!!
 * Ashley
 * Shammah: birthday
-<li>Ronan
-
-</li>
+* Ronan
 * Aaron
-
 * Tom Magowan
-
 * Santani
-
 * Blick
-
 * Manfred
-
 * Adrien
-
 * Visit the doyles with Jane
-
 </details>
 
 ***
@@ -247,10 +216,6 @@
 <summary>Heritage</summary>
 
 <h2 id="heritagehappenings">Heritage Happenings</h2>
-
-<li>
-
-</li>
 
 * H &gt; Men's group: Lord's prayer
 * H &gt; Praveen
