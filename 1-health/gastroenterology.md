@@ -14,6 +14,9 @@ Questions
 * Fiber: soluble vs insoluble
 * Statins?
 * And See below
+* Jeaperdy
+* The back end starts a journey to the start end a roundabout way
+* What is a colonoscopy?
 
 ## UCSF Gastroenterology
 
