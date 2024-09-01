@@ -115,16 +115,11 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 
-<li>Simplicity: shipping update: shipsmart + Enclosures
-
-</li>
-
-<li>
-
+* Simplicity: shipping update: shipsmart + Enclosures
 * Stout Books: books in boxes
 * Books: scanned
 * Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good
-*ShipSmsrt: Deborah
+* ShipSmsrt: Deborah
 * Storage: rearrange for shipping + closing
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
