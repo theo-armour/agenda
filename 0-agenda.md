@@ -87,7 +87,7 @@
 
 * Daniel: questions
 
-* Kattah: questions + meds
+* 
 
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
 
