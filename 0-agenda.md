@@ -32,18 +32,13 @@
 
 ***
 
-<details open="">
+<details>
 
 <summary>Admin</summary>
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 
-<li>?
-
-</li>
-
-* bean citibank: sign in
-
+* ?
 * Schedule tax payments
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
@@ -79,7 +74,7 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
@@ -89,7 +84,7 @@
 
 </li>
 
-* UCSF &gt; Gastro: Kattah appoint
+* 
 
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
 
