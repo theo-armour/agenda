@@ -1,7 +1,6 @@
 # Mia Agenda
 
 
-
 ## Simplicity
 
 * Theo: share folders
