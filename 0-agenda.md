@@ -62,7 +62,8 @@
 * W:&nbsp;
 * S: wine ~ Chia seeds
 * A:&nbsp;
-* Two new shirts
+* 
+
 * Canon cartridge: mailboxes
 * Superhexa: goodwill
 * Agendas: Initiate list of happy things to do
@@ -207,10 +208,11 @@
 * Ashley
 * Shammah: birthday
 * Ronan
-* Aaron
-<li>Tom Magowan
+<li>Aaron
 
 </li>
+* Tom Magowan
+
 * Santani
 
 * Blick
