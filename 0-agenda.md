@@ -85,9 +85,7 @@
 
 </li>
 
-* Daniel: questions
-
-* 
+* Daniel: questions: any prep
 
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
 
