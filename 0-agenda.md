@@ -47,7 +47,7 @@
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
@@ -207,7 +207,7 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
