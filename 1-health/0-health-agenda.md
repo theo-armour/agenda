@@ -4,7 +4,6 @@
 
 * ?
 * Colonoscopy report??
-* Dr Vaderhobli: 11:30 August 26
 * Dr Kattah: 09/05 8:00
 * Dr Yoga: 09/12 3:00
 * Dr Fassett: 10/05 2:30 ~ Dermatology exam ~ 185 Berry Ste 1000
@@ -15,13 +14,13 @@
 * List of medications
 * List of conditions
 * Kattah: questions: Miralax alternatives ~ statins ~ colonoscopy results
-* Brittany: pins & needles: paresthesia
+* Brittany: pins &amp; needles:&nbsp;paresthesia
 * Statins?
-* Margaret Jacobs: [https://www.alignmenthealthplan.com/](https://www.alignmenthealthplan.com/) ~ free lunch?
+* Margaret Jacobs: <a href="https://www.alignmenthealthplan.com/">https://www.alignmenthealthplan.com/</a> ~ free lunch?
 
 ## Work-in-progress
 
-* [https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc](https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc)
+* <a href="https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc">https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc</a>
 * Statins
 * Shoulder ortho
 * Hyperkyphosis
@@ -29,7 +28,7 @@
 * High cholesterol
 * Reminder: playing with my fingers helps alleviate the stress of dental procedures
 * Skin clinic ~ Dermatology visits
-* Sara's Medical Advocacy & Planning ~ [https://www.sarasmap.com/](https://www.sarasmap.com/)
+* Sara's Medical Advocacy &amp; Planning ~ <a href="https://www.sarasmap.com/">https://www.sarasmap.com/</a>
 * Three books on aging for the library
 * Medical tray delivery to apartments
 
@@ -40,7 +39,7 @@ See 1-heritage/health/0-health-agenda
 Martha Nkhoma
 
 * Follow-up on email of
-* Staffing hours & levels
+* Staffing hours &amp; levels
 * Anticipated costs
 
 ### PPH ~ Gary Richmond: msg
@@ -52,7 +51,7 @@ Martha Nkhoma
 ## Not to forget
 
 * Brian Trieu-Mallari ~ Sutter PT dude ~ gadget-aware
-* C-Dental: stl & dicom
+* C-Dental: stl &amp; dicom
 * C Dental ~ 415-421-1389 ~ 450 Sutter St ~ #1542
 * Dr Warney: send simple STL ~ cancel contract
 * Refactor history and reference
@@ -68,7 +67,7 @@ Martha Nkhoma
 * Massage groin
 * Continue Kegel exercises
 * Use the tweezers!
-* Trim Ear & Nose hair
+* Trim Ear &amp; Nose hair
 * Toe exercises
 
 ***
