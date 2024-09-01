@@ -32,7 +32,7 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Admin</summary>
 
@@ -52,7 +52,7 @@
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
