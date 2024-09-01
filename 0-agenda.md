@@ -80,10 +80,13 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 
+* pt: bad foot up, good foot down
 <li>Health: meds list
 
 </li>
+
 * Daniel: questions
+
 * Kattah: questions + meds
 
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
@@ -200,10 +203,11 @@
 * Pam Choy ~ Niantic maps ~ sketchfab ~ Brilliant labs!!
 * Ashley
 * Shammah: birthday
-* Ronan
-<li>Aaron
+<li>Ronan
 
 </li>
+* Aaron
+
 * Tom Magowan
 
 * Santani
