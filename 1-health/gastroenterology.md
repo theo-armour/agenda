@@ -2,20 +2,20 @@
 
 ## Appointments
 
-* Dr Kattah: 2024-07-25 @9:30
+* Dr Kattah: 2024-09-05&nbsp;<a href="https://github.com/9">@</a>&nbsp;8:00
 * Next colonoscopy: 202?
 
 ## UCSF Gastroenterology
 
-https://www.ucsfhealth.org/list-of-clinics/gastroenterology
+<a href="https://www.ucsfhealth.org/list-of-clinics/gastroenterology">https://www.ucsfhealth.org/list-of-clinics/gastroenterology</a>
 
 ### Kattah, Michael George, MD, PhD ~ Gastroenterology UCSF
 
-* https://www.ucsfhealth.org/providers/dr-michael-kattah
-* https://profiles.ucsf.edu/michael.kattah
-* https://kattahlab.ucsf.edu/
-* https://github.com/mkattah
-* Article: https://www.nature.com/articles/s41467-024-45665-6#Abs1
+* <a href="https://www.ucsfhealth.org/providers/dr-michael-kattah">https://www.ucsfhealth.org/providers/dr-michael-kattah</a>
+* <a href="https://profiles.ucsf.edu/michael.kattah">https://profiles.ucsf.edu/michael.kattah</a>
+* <a href="https://kattahlab.ucsf.edu/">https://kattahlab.ucsf.edu/</a>
+* <a href="https://github.com/mkattah">https://github.com/mkattah</a>
+* Article: <a href="https://www.nature.com/articles/s41467-024-45665-6#Abs1">https://www.nature.com/articles/s41467-024-45665-6#Abs1</a>
 * Article open source
 * Code open source: Jupyter notebooks on GitHub
 
@@ -26,7 +26,6 @@ Suggestions
 * Add tags to your repos on GitHub
 * Add links to your article to the readme on GitHub
 * Add links to GitHub in X
-
 
 ### Office
 
@@ -41,16 +40,16 @@ Suggestions
 * 2021
 * ?
 
-## Endoscope & Video Processor
+## Endoscope &amp; Video Processor
 
 ### Single-Use Scope for Colonoscopies
 
-* https://www.aclsonline.us/blog/fda-clears-worlds-first-single-use-scope-for-colonoscopies/
+* <a href="https://www.aclsonline.us/blog/fda-clears-worlds-first-single-use-scope-for-colonoscopies/">https://www.aclsonline.us/blog/fda-clears-worlds-first-single-use-scope-for-colonoscopies/</a>
 * The FDA granted approval this month for Invendo Medical to sell the world’s first single-use colonoscope. The new $200 sterile scope is expected to solve the problems associated with reprocessing scopes for colonoscopies.
 
 ### Pentax J10
 
-* https://sites.pentaxmedical.com/eb-j10-series/p/1
+* <a href="https://sites.pentaxmedical.com/eb-j10-series/p/1">https://sites.pentaxmedical.com/eb-j10-series/p/1</a>
 
 both available on Ebay for under $7K. More reasonable than I expected. Got the Pentax J10 yet?
 
@@ -64,10 +63,12 @@ Videos of the procedure on the way??
 
 ## Boston Bowel Prep Scale
 
-* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763922/
+* <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763922/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763922/</a>
 
-> Each region of the colon receives a “segment score” from 0 to 3 and these segment scores are summed for a total BBPS score ranging from 0 to 9. Therefore, the maximum BBPS score for a perfectly clean colon without any residual liquid is 9 and the minimum BBPS score for an unprepared colon is 0
+<blockquote>
+  Each region of the colon receives a “segment score” from 0 to 3 and these segment scores are summed for a total BBPS score ranging from 0 to 9. Therefore, the maximum BBPS score for a perfectly clean colon without any residual liquid is 9 and the minimum BBPS score for an unprepared colon is 0
 
+</blockquote>
 ## 2023 Lessons Learned
 
 * Simeticone (Gas-X) is your friend
@@ -120,24 +121,24 @@ Possible reasons
 * White wine is a clear liquid
 * Ditto ginger ale
 * No need to take shower before prep ~ you will be taking many showers later
-* Drink equal amounts of Prep|Gavilyte|GoLightly and water
-    * One glass of prep + one glass of water
-* Prepare the bathroom
-    * Ensure no/zero/none trips out of the bathroom are needed
-    * Stool place for phone and computer ( not used in 2020 )
-    * Cleaning poo off carpet is not fun. Ditto off walls
-    * Move wastebaskets and any other possible targets around toilet out of the way
-    * Bring a full bag of diapers
-* When poo is squirting
-    * Sit on toilet before taking off diaper
-    * In shower cover butt with hand
-* Looking for:
-    * Clear yellow liquid yellow, light, liquid, and clear, like urine
-    * No lumps but may be millimeter size particles and the add corn kernel
-* The yellow liquid coats floor, hand, whatever with the most slippery substance known to mankind
-    * Big increase to fall risk
-    * Consider a non slip mat
-    * Keep wiping rag in shower
+<li>Drink equal amounts of Prep|Gavilyte|GoLightly and water
+* One glass of prep + one glass of water</li>
+<li>Prepare the bathroom
+* Ensure no/zero/none trips out of the bathroom are needed
+* Stool place for phone and computer ( not used in 2020 )
+* Cleaning poo off carpet is not fun. Ditto off walls
+* Move wastebaskets and any other possible targets around toilet out of the way
+* Bring a full bag of diapers</li>
+<li>When poo is squirting
+* Sit on toilet before taking off diaper
+* In shower cover butt with hand</li>
+<li>Looking for:
+* Clear yellow liquid yellow, light, liquid, and clear, like urine
+* No lumps but may be millimeter size particles and the add corn kernel</li>
+<li>The yellow liquid coats floor, hand, whatever with the most slippery substance known to mankind
+* Big increase to fall risk
+* Consider a non slip mat
+* Keep wiping rag in shower</li>
 * It gets cold being naked in there! So take hot showers every ten minutes. Wear tee shirt??
 * Allow for urinating and final diaper change before leaving
 
