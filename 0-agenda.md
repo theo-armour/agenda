@@ -2,16 +2,16 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 2024-08-18: “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
-* 2024-08-22 ~ James Clear ~&nbsp;"The strategy required to find a great opportunity (lots of saying yes and exploring widely) is different from the strategy required to make the most of a great opportunity (lots of saying no and remaining focused)."
+* 
 
 ## Today
 
 * ?
+* Cal: StephenL sit&nbsp;
 * Mary L: Touchtown Czar?
 * Patrick &amp; Mary: EIR
 * Bennet: HotM
-* Dan: trias &amp; AI
+* Dan: triads &amp; AI
 * Tess: Carm's Reader: little women
 * Mia: Bill ~ errors ~ news
 * Sensay: Life Review
@@ -21,7 +21,7 @@
 ## SOON
 
 * ?
-* HptM &gt; Laura: Morgan fundraising
+* HotM &gt; Laura: Morgan fundraising
 * Joe M: not last puppy?
 * Randy: EIR strategy?
 * Ram: HH + Sensay
@@ -41,6 +41,7 @@
 <li>?
 
 </li>
+
 * bean citibank: sign in
 
 * Schedule tax payments
@@ -51,7 +52,7 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
@@ -88,6 +89,7 @@
 <li>Health: meds list
 
 </li>
+
 * UCSF &gt; Gastro: Kattah appoint
 
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
@@ -131,10 +133,14 @@
 </li>
 
 <li>
-* Stout Books: books in boxes</li>
+
+* Stout Books: books in boxes
+
 * Books: scanned
 
 * Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good
+
+</li>
 
 <li>ShipSmsrt: Deborah
 
@@ -156,10 +162,12 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2>
 
-* Marie-so: wedding
-<li>Eloise: Bee Memorial ~ Cynthia Chase visits
+<li>Marie-so: wedding
 
 </li>
+
+* Eloise: Bee Memorial ~ Cynthia Chase visits
+
 * ace-it+: exhibit report
 
 * Film the corridor
@@ -200,11 +208,13 @@
 * Shammah: birthday
 * Ronan
 * Aaron
-* Tom Magowan
-* Santani
-<li>Blick
+<li>Tom Magowan
 
 </li>
+* Santani
+
+* Blick
+
 * Manfred
 
 * Adrien

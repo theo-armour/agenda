@@ -1,6 +1,6 @@
 # 0.1 Schedule Weekly
 
-## Maybe 
+## Maybe&nbsp;
 
 I could schedule each day of the week to a task.
 
@@ -8,7 +8,7 @@ I could schedule each day of the week to a task.
 * Wikipedia
 * Wellness
 * Heritage Happenings
-* Software & art
+* Software &amp; art
 * Knowledge management
 
 Weekends: whatever + admin
@@ -51,7 +51,7 @@ After dinner
 ## Wednesday
 
 * Review People agenda
-* Activities + Out&About
+* Activities + Out&amp;About
 
 afternoon
 
@@ -79,8 +79,8 @@ Morning
 
 * Take out bathroom trash
 * Replace trash bag
-* Sponge wash coffee mug ~ while water is warming up: do nose & ears
-* \* Scrub 
+* Sponge wash coffee mug ~ while water is warming up: do nose &amp; ears
+* Scrub&nbsp;
 * Soak butt rags
 * Tidy bathroom cupboard
 
@@ -101,7 +101,7 @@ Afternoon or Evening
 After breakfast
 
 * ?
-*   
+* 
 
 Afternoon
 
