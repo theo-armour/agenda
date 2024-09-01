@@ -6,12 +6,13 @@
 
 Questions
 
-* Next colonoscopy: 202?
-* Miralax: why not + alternatives
-* Fiber: soluble vs insoluble
-* Statins
 * 2 sessile polyps in ascending colon (2 to 5 mm) and 2 sessile polyps in the transverse colon (7 mm).
 * Sessile: genetic: Y chromosome
+* Next colonoscopy: 2026
+* Email: not possible
+* Miralax: why not + alternatives
+* Fiber: soluble vs insoluble
+* Statins?
 
 ## UCSF Gastroenterology
 
