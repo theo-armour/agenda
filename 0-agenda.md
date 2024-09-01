@@ -223,6 +223,11 @@
 * Residents directory: hairdressers + others
 * HH: talk to Praveen
 * More
+* Sarah Standing: hostel
+* Bledsoe: cat
+* Dugliss: cat
+* Waymo
+* Dining services: sylvie ~ third Th ~ milkshake day
 <div>## Morgan Centenary</div><div>* Dinner Laura</div><div>* Cindy + D</div>* Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
