@@ -7,8 +7,9 @@
 ## Today
 
 * ?
+* Rob &amp; José: 3pm ~ why ~ mission
 * ECAT + Claudia: Nicole thanks
-* Bennet: HotM
+* PPH: Gary: Fishy urine
 * Dan: triads &amp; AI
 * Tess: Carm's Reader: little women
 * Mia: Bill ~ errors ~ news
@@ -17,6 +18,7 @@
 ## SOON
 
 * ?
+* Bennet: HotM
 * Heritage: EIR Hearing 09/26&nbsp;&nbsp;
 * Cal: StephenL sit&nbsp;
 * Mary L: Touchtown Czar?
@@ -25,8 +27,7 @@
 * Joe M: not last puppy?
 * Randy: EIR strategy?
 * Ram: HH + Sensay
-* PPH: Gary: Fishy urine
-* Rob &amp; José: 3pm ~ why ~ mission
+
 * Notesy
 * Tab groups or whatever for two monitors
 
@@ -132,7 +133,7 @@
 
 ***
 
-<details open="">
+<details>
 
 <summary>ACE IT</summary>
 
@@ -209,7 +210,7 @@
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
