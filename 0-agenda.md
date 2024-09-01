@@ -181,12 +181,13 @@
 * Blick
 * Manfred
 * Adrien
-* Visit the doyles with Jane
-</details>
+<li>Visit the doyles with Jane
+
+</li></details>
 
 ***
 
-<details open="">
+<details>
 
 <summary>Entities</summary>
 
