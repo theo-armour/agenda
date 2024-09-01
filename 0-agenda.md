@@ -62,15 +62,13 @@
 * W:&nbsp;
 * S: wine ~ Chia seeds
 * A:&nbsp;
-* 
-
 * Canon cartridge: mailboxes
 * Superhexa: goodwill
 * Agendas: Initiate list of happy things to do
 * Agendas: Initiate: not to do list
 
 <div>Waiting</div>
-<div>* Viture pro xr ~ August 27?</div>
+<div>* ++</div>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a>
