@@ -100,9 +100,7 @@ Afternoon or Evening
 
 After breakfast
 
-* ?
-* 
-
+* Closet
 Afternoon
 
 * Basement: mail + batteries + shredding

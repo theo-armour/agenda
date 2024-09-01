@@ -2,31 +2,32 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* 
+* ++
 
 ## Today
 
 * ?
-* Cal: StephenL sit&nbsp;
-* Mary L: Touchtown Czar?
-* Patrick &amp; Mary: EIR
-* Bennet: HotM
+* Rob &amp; José: 3pm ~ why ~ mission
+* ECAT + Claudia: Nicole thanks
+* PPH: Gary: Fishy urine
 * Dan: triads &amp; AI
 * Tess: Carm's Reader: little women
 * Mia: Bill ~ errors ~ news
 * Sensay: Life Review
-* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
-* ECAT + Claudia: Nicole thanks
 
 ## SOON
 
 * ?
+* Bennet: HotM
+* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
+* Cal: StephenL sit&nbsp;
+* Mary L: Touchtown Czar?
+* Patrick &amp; Mary: EIR
 * HotM &gt; Laura: Morgan fundraising
 * Joe M: not last puppy?
 * Randy: EIR strategy?
 * Ram: HH + Sensay
-* PPH: Gary: Fishy urine
-* Rob &amp; José: 3pm ~ why ~ mission
+
 * Notesy
 * Tab groups or whatever for two monitors
 
@@ -38,12 +39,7 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 
-<li>?
-
-</li>
-
-* bean citibank: sign in
-
+* ?
 * Schedule tax payments
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
@@ -52,7 +48,7 @@
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
@@ -62,14 +58,13 @@
 * W:&nbsp;
 * S: wine ~ Chia seeds
 * A:&nbsp;
-* Two new shirts
 * Canon cartridge: mailboxes
 * Superhexa: goodwill
 * Agendas: Initiate list of happy things to do
 * Agendas: Initiate: not to do list
 
 <div>Waiting</div>
-<div>* Viture pro xr ~ August 27?</div>
+<div>* ++</div>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a>
@@ -86,21 +81,14 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 
-<li>Health: meds list
-
-</li>
-
-* UCSF &gt; Gastro: Kattah appoint
-
+* pt: "up with the good, down with the bad."&nbsp;
+* ealth: meds list
+* Daniel: questions: any prep
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
-
 * Scapulas back and down 10 times - six sessions a day
-
-<li>Calculate: calcium, protein and fiber in my diet
+* Calculate: calcium, protein and fiber in my diet
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
-
-</li>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a>
 
@@ -128,24 +116,13 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 
-<li>Simplicity: shipping update: shipsmart + Enclosures
-
-</li>
-
-<li>
-
+* Bennet: looking for help
+* Vish: ??
+* Simplicity: shipping update: shipsmart + Enclosures
 * Stout Books: books in boxes
-
 * Books: scanned
-
 * Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good
-
-</li>
-
-<li>ShipSmsrt: Deborah
-
-</li>
-
+* ShipSmart: Deborah
 * Storage: rearrange for shipping + closing
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
@@ -162,16 +139,10 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2>
 
-<li>Marie-so: wedding
-
-</li>
-
+* Marie-so: wedding
 * Eloise: Bee Memorial ~ Cynthia Chase visits
-
 * ace-it+: exhibit report
-
 * Film the corridor
-
 * 
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>
@@ -208,24 +179,18 @@
 * Shammah: birthday
 * Ronan
 * Aaron
-<li>Tom Magowan
-
-</li>
+* Tom Magowan
 * Santani
-
 * Blick
-
 * Manfred
-
 * Adrien
+<li>Visit the doyles with Jane
 
-* Visit the doyles with Jane
-
-</details>
+</li></details>
 
 ***
 
-<details open="">
+<details>
 
 <summary>Entities</summary>
 
@@ -251,38 +216,36 @@
 
 <h2 id="heritagehappenings">Heritage Happenings</h2>
 
-<li>
-
-</li>
-
-* H &gt; Men's group: Lord's prayer
-* H &gt; Praveen
+* HH &gt; Praveen
+* HH: tucker
+* HH: Granucci + Mia ~ read some text
+* Praveen: ditch HH Calendar
+* Happenings: Audio version
+* Residents directory: hairdressers + others
+* HH: talk to Praveen
 * More
-
+* Sarah Standing: hostel
+* Bledsoe: cat
+* Dugliss: cat
+* Waymo
+* Dining services: sylvie ~ third Th ~ milkshake day
+<div>## Morgan Centenary</div><div>* Dinner Laura</div><div>* Cindy + D</div>* Charlie-boy: holiday sign
+* Morgan Centenary: Patti ~ Margaret Ja
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 
 * ?
+* H &gt; Men's group: Lord's prayer
 * Heritage: fill in medical form
-* Morgan Centenary: Patti ~ Margaret JaDr Fassett: clinic
+* Dr Fassett: clinic
 * Franklin Dentist + UCSF: dental clinic
 * Window washing
-* Return cane to PT
 * Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
-* Granucci: drive copy
-* Morgan Centenary: Patti ~ Margaret Ja
 * Strategic Plan: Community organization alternative
-* Morgan Building: 100th anniversary
 * Surströmming party
 * markdown-it: make it happen
-* Happenings: Audio version
-* Residents directory: hairdressers + others
-* Charlie-boy: holiday sign
 * Mary: Type A ~ Appendix H provisions ~ copy me om message to Christine
 * Mary: Type C: particulars
-* Roxana: meeting &gt; calendar ~ mia
-* Martha: Dermatology clinic ~ H Pharmacy ~ PPH ~ HH bio ~ HH Advisory
-* HH: talk to Praveen
-* Praveen: ditch HH Calendar
+* Martha: Dermatology clinic ~ H Pharmacy ~ PPH ~ HH Advisory
 * Fee schedule questions
 * House Committee: Bledsoe
 
