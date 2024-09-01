@@ -5,12 +5,13 @@
 * Dr Kattah: 2024-09-05&nbsp;<a href="https://github.com/9">@</a>&nbsp;8:00
 
 Questions
-  
+
 * Next colonoscopy: 202?
 * Miralax: why not + alternatives
 * Fiber: soluble vs insoluble
 * Statins
-*  2 sessile polyps in ascending colon (2 to 5 mm) and 2 sessile polyps in the transverse colon (7 mm).
+* 2 sessile polyps in ascending colon (2 to 5 mm) and 2 sessile polyps in the transverse colon (7 mm).
+* Sessile: genetic: Y chromosome
 
 ## UCSF Gastroenterology
 
@@ -126,33 +127,49 @@ Possible reasons
 * Stop most high fiber items five days before
 * No food for ~40 hours before
 * White wine is a clear liquid
-* Ditto ginger ale
-<li>No need to take shower before prep ~ you will be taking many showers later
+<li>Ditto ginger ale
 
 </li>
+* No need to take shower before prep ~ you will be taking many showers later
+
 * Drink equal amounts of Prep|Gavilyte|GoLightly and water
+
 * One glass of prep + one glass of water
 
 * Prepare the bathroom
+
 * Ensure no/zero/none trips out of the bathroom are needed
+
 * Stool place for phone and computer ( not used in 2020 )
+
 * Cleaning poo off carpet is not fun. Ditto off walls
+
 * Move wastebaskets and any other possible targets around toilet out of the way
+
 * Bring a full bag of diapers
 
 * When poo is squirting
+
 * Sit on toilet before taking off diaper
+
 * In shower cover butt with hand
 
 * Looking for:
+
 * Clear yellow liquid yellow, light, liquid, and clear, like urine
+
 * No lumps but may be millimeter size particles and the add corn kernel
 
 * The yellow liquid coats floor, hand, whatever with the most slippery substance known to mankind
+
 * Big increase to fall risk
+
 * Consider a non slip mat
+
 * Keep wiping rag in shower
+
 * It gets cold being naked in there! So take hot showers every ten minutes. Wear tee shirt??
+
 * Allow for urinating and final diaper change before leaving
 
 ## 2020-10-24
