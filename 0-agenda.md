@@ -7,20 +7,20 @@
 ## Today
 
 * ?
-* Cal: StephenL sit&nbsp;
-* Mary L: Touchtown Czar?
-* Patrick &amp; Mary: EIR
 * Bennet: HotM
 * Dan: triads &amp; AI
 * Tess: Carm's Reader: little women
 * Mia: Bill ~ errors ~ news
 * Sensay: Life Review
-* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
 * ECAT + Claudia: Nicole thanks
 
 ## SOON
 
 * ?
+* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
+* Cal: StephenL sit&nbsp;
+* Mary L: Touchtown Czar?
+* Patrick &amp; Mary: EIR
 * HotM &gt; Laura: Morgan fundraising
 * Joe M: not last puppy?
 * Randy: EIR strategy?
