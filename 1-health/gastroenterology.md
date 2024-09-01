@@ -3,8 +3,14 @@
 ## Appointments
 
 * Dr Kattah: 2024-09-05&nbsp;<a href="https://github.com/9">@</a>&nbsp;8:00
-* Next colonoscopy: 202?
 
+<div>
+</div><div>Questions</div><div>* Next colonoscopy: 202?
+* Miralax: why not + alternatives
+* Fiber: soluble vs insoluble
+* Statins
+* 
+</div>
 ## UCSF Gastroenterology
 
 <a href="https://www.ucsfhealth.org/list-of-clinics/gastroenterology">https://www.ucsfhealth.org/list-of-clinics/gastroenterology</a>
