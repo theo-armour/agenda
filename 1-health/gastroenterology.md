@@ -4,18 +4,14 @@
 
 * Dr Kattah: 2024-09-05&nbsp;<a href="https://github.com/9">@</a>&nbsp;8:00
 
-<div>
-</div>
-<div>Questions</div>
-<div>* Next colonoscopy: 202?
+Questions
+  
+* Next colonoscopy: 202?
 * Miralax: why not + alternatives
 * Fiber: soluble vs insoluble
 * Statins
-* 
-</div><div><span style="color: rgb(54, 54, 54); font-family: &quot;Source Sans Pro&quot;, Calibri, Arial, sans-serif; font-size: 17.3333px; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);">* 2 sessile polyps in ascending colon (2 to 5 mm)
-and 2 sessile polyps in the transverse colon (7 mm).
-</span></div><div><span style="color: rgb(54, 54, 54); font-family: &quot;Source Sans Pro&quot;, Calibri, Arial, sans-serif; font-size: 17.3333px; white-space-collapse: preserve-breaks; background-color: rgb(255, 255, 255);">
-</span></div>
+*  2 sessile polyps in ascending colon (2 to 5 mm) and 2 sessile polyps in the transverse colon (7 mm).
+
 ## UCSF Gastroenterology
 
 <a href="https://www.ucsfhealth.org/list-of-clinics/gastroenterology">https://www.ucsfhealth.org/list-of-clinics/gastroenterology</a>
