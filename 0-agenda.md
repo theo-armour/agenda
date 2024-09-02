@@ -39,7 +39,7 @@
 
 ***
 
-<details open="">
+<details>
 
 <summary>Admin</summary>
 
@@ -87,9 +87,11 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 
-* pt: "up with the good, down with the bad."&nbsp;
-* ealth: meds list
-* Daniel: questions: any prep
+* Kattah: prep
+* PPH: Gary: Fishy urine
+* PT: "up with the good, down with the bad."&nbsp;
+* Health: meds list
+* Daniel B: questions: any prep
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
 * Scapulas back and down 10 times - six sessions a day
 * Calculate: calcium, protein and fiber in my diet
