@@ -7,33 +7,31 @@
 ## Today
 
 * ?
-* Rob &amp; José: 3pm ~ why ~ mission
-* ECAT + Claudia: Nicole thanks
-* PPH: Gary: Fishy urine
+* Mia: Bill ~ errors ~ news
 * Dan: triads &amp; AI
 * Tess: Carm's Reader: little women
-* Mia: Bill ~ errors ~ news
 * Sensay: Life Review
 
 ## SOON
 
 * ?
-* Bennet: HotM
-* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
-* Cal: StephenL sit&nbsp;
+
+* Jon + stephen: out Tuesday&nbsp;
+
+* PPH: Gary: Fishy urine
+* Bennet: HotM\
+
 * Mary L: Touchtown Czar?
-* Patrick &amp; Mary: EIR
+
 * HotM &gt; Laura: Morgan fundraising
-* Joe M: not last puppy?
-* Randy: EIR strategy?
-* Ram: HH + Sensay
 
 * Notesy
+
 * Tab groups or whatever for two monitors
 
 ***
 
-<details>
+<details open="">
 
 <summary>Admin</summary>
 
@@ -81,9 +79,11 @@
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 
-* pt: "up with the good, down with the bad."&nbsp;
-* ealth: meds list
-* Daniel: questions: any prep
+* Kattah: prep
+* PPH: Gary: Fishy urine
+* PT: "up with the good, down with the bad."&nbsp;
+* Health: meds list
+* Daniel B: questions: any prep
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
 * Scapulas back and down 10 times - six sessions a day
 * Calculate: calcium, protein and fiber in my diet
@@ -183,10 +183,12 @@
 * Santani
 * Blick
 * Manfred
-* Adrien
-<li>Visit the doyles with Jane
+<li>Adrien
 
-</li></details>
+</li>
+* Visit the doyles with Jane
+
+</details>
 
 ***
 
@@ -210,27 +212,67 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
 <h2 id="heritagehappenings">Heritage Happenings</h2>
 
-* HH &gt; Praveen
-* HH: tucker
+* HH: Scams ~ EIR ~ Touchtown
+* HH: Nienke + Fort Mason ~&nbsp;
+* Mary Liz: India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
+* Til: photo&nbsp;
+* Hector: projects
+* Marketing: Ads ~ links
+* HH: Tucker ~ finish
+* HH: Grassfed ~ Photo + Joe M: not last puppy?
 * HH: Granucci + Mia ~ read some text
+
+* Doris: Moghul
+
+* Martha Nell: India
+
+* Martha Nell Books:
+
+* Patrick: Jokes
+
+* Sheila: India
+
+* Trish: ?
+
+* ## Photos
+
+* Dugliss: cat
+
+* Margaret M: garden
+
+* ## Residents directory:&nbsp;
+* hairdressers + others
+* 
+
+* ## Moore
+* HH: talk to Pravee
 * Praveen: ditch HH Calendar
 * Happenings: Audio version
-* Residents directory: hairdressers + others
-* HH: talk to Praveen
-* More
 * Sarah Standing: hostel
 * Bledsoe: cat
 * Dugliss: cat
 * Waymo
-* Dining services: sylvie ~ third Th ~ milkshake day
-<div>## Morgan Centenary</div><div>* Dinner Laura</div><div>* Cindy + D</div>* Charlie-boy: holiday sign
+* 
+
+<div>## Morgan Centenary</div>
+<div>* Dinner Laura</div>
+<div>* Cindy + D</div>
+
+* Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
+<div>EIR</div><div>* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
+
+* Patrick &amp; Mary: EIR
+
+* Randy: EIR strategy?
+
+</div>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 
 * ?
@@ -238,7 +280,6 @@
 * Heritage: fill in medical form
 * Dr Fassett: clinic
 * Franklin Dentist + UCSF: dental clinic
-* Window washing
 * Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
 * Strategic Plan: Community organization alternative
 * Surströmming party
