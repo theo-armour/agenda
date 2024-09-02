@@ -19,7 +19,7 @@
 * PPH: Gary: Fishy urine
 * Bennet: HotM\
 
-* ary L: Touchtown Czar?
+* Mary L: Touchtown Czar?
 
 * HotM &gt; Laura: Morgan fundraising
 
@@ -29,7 +29,7 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Admin</summary>
 
