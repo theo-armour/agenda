@@ -7,23 +7,19 @@
 ## Today
 
 * ?
-* 
-
-* PPH: Gary: Fishy urine
+* Mia: Bill ~ errors ~ news
 * Dan: triads &amp; AI
 * Tess: Carm's Reader: little women
-* Mia: Bill ~ errors ~ news
 * Sensay: Life Review
 
 ## SOON
 
 * ?
 
+* PPH: Gary: Fishy urine
 * Bennet: HotM
 
 * Heritage: EIR Hearing 09/26&nbsp;&nbsp;
-
-* Cal: StephenL sit&nbsp;
 
 * Mary L: Touchtown Czar?
 
@@ -43,7 +39,7 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Admin</summary>
 
