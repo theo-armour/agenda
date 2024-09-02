@@ -7,8 +7,8 @@
 ## Today
 
 * ?
-* Rob &amp; José: 3pm ~ why ~ mission
-* ECAT + Claudia: Nicole thanks
+* 
+
 * PPH: Gary: Fishy urine
 * Dan: triads &amp; AI
 * Tess: Carm's Reader: little women
@@ -18,17 +18,27 @@
 ## SOON
 
 * ?
+
 * Bennet: HotM
+
 * Heritage: EIR Hearing 09/26&nbsp;&nbsp;
+
 * Cal: StephenL sit&nbsp;
+
 * Mary L: Touchtown Czar?
+
 * Patrick &amp; Mary: EIR
+
 * HotM &gt; Laura: Morgan fundraising
+
 * Joe M: not last puppy?
+
 * Randy: EIR strategy?
+
 * Ram: HH + Sensay
 
 * Notesy
+
 * Tab groups or whatever for two monitors
 
 ***
@@ -183,10 +193,12 @@
 * Santani
 * Blick
 * Manfred
-* Adrien
-<li>Visit the doyles with Jane
+<li>Adrien
 
-</li></details>
+</li>
+* Visit the doyles with Jane
+
+</details>
 
 ***
 
@@ -229,8 +241,14 @@
 * Dugliss: cat
 * Waymo
 * Dining services: sylvie ~ third Th ~ milkshake day
-<div>## Morgan Centenary</div><div>* Dinner Laura</div><div>* Cindy + D</div>* Charlie-boy: holiday sign
+
+<div>## Morgan Centenary</div>
+<div>* Dinner Laura</div>
+<div>* Cindy + D</div>
+
+* Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
+
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 
 * ?
