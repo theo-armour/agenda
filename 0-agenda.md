@@ -17,19 +17,11 @@
 * ?
 
 * PPH: Gary: Fishy urine
-* Bennet: HotM
+* Bennet: HotM\
 
-* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
-
-* Mary L: Touchtown Czar?
-
-* Patrick &amp; Mary: EIR
+* ary L: Touchtown Czar?
 
 * HotM &gt; Laura: Morgan fundraising
-
-* Randy: EIR strategy?
-
-* 
 
 * Notesy
 
@@ -79,7 +71,7 @@
 
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
@@ -247,7 +239,13 @@
 
 * Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
+<div>EIR</div><div>* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
 
+* Patrick &amp; Mary: EIR
+
+* Randy: EIR strategy?
+
+</div>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 
 * ?
