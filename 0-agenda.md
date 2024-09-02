@@ -27,11 +27,9 @@
 
 * HotM &gt; Laura: Morgan fundraising
 
-* Joe M: not last puppy?
-
 * Randy: EIR strategy?
 
-* Ram: HH + Sensay
+* 
 
 * Notesy
 
@@ -81,7 +79,7 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
@@ -220,7 +218,7 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
@@ -228,7 +226,10 @@
 
 * HH &gt; Praveen
 * HH: tucker
+* Joe M: not last puppy?
+
 * HH: Granucci + Mia ~ read some text
+
 * Praveen: ditch HH Calendar
 * Happenings: Audio version
 * Residents directory: hairdressers + others
