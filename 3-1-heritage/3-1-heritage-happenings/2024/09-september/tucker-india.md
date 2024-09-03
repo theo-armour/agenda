@@ -14,4 +14,7 @@ Over-population was everywhere very noticeable with street beggars ubiquitous th
 
 To flee such prevalent miseries, the British had built homes in the Himalayan foothills reachable by coal-fired steam engine on narrow-gauge track. These were especially appreciated during the hot season, with large hotels available to the fortunate. Rhododendron forests spotted the rails. An unexpected perk was the presence in these villages of swarms of monkeys which rudely would climb the Hotel walls and enter any open window available, stealing anything that glittered, or not. They appeared to be quite territorial and could glare and bare their teeth if bothered. It is unlikely the Brits could shoot the intruders since the monkeys enjoyed holy status as evidenced by the many shrines up town. Shrines offer hope.
 
-There is an island in the bay of Bombay named called Elephanta, containing no elephants and surrounded with waters home to flying fish. Beneath the ground in Elephanta lie ancient deities, of both genders, carved in stone impressively large and explicit. Once again, one is not in India called upon to suspend one's disbelief. It is all there, starkly present.
+There is an island in the bay of Bombay named called Elephanta, containing no elephants and surrounded with waters home to flying fish. Beneath the ground in Elephanta lie ancient deities, of both genders, carved in stone impressively large and explicit.
+
+Hi Stella, Starkly present: overwhelming poverty comma disparities in wealth comma homelessness comma and misery in a land beyond its capacities due to overpopulation and its willingness to accept what others would choose to disbelieve.It is all there, starkly present.
+Hello Heidi, 
