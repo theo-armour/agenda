@@ -16,7 +16,6 @@
 
 ## Event
 
-
 * 2-4 27 march Thursday
 * 135 people
 * Save the date
