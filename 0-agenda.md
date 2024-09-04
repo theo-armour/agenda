@@ -16,10 +16,15 @@
 
 * ?
 
+* Marco
+
+* SquareSpace
+
 * Jon + stephen: out Tuesday&nbsp;
 
 * PPH: Gary: Fishy urine
-* Bennet: HotM\
+
+* Bennet: HotM&lt;/p&gt;
 
 * Mary L: Touchtown Czar?
 
@@ -182,10 +187,11 @@
 * Tom Magowan
 * Santani
 * Blick
-* Manfred
-<li>Adrien
+<li>Manfred
 
 </li>
+* Adrien
+
 * Visit the doyles with Jane
 
 </details>
@@ -219,13 +225,21 @@
 <h2 id="heritagehappenings">Heritage Happenings</h2>
 
 * HH: Scams ~ EIR ~ Touchtown
+
 * HH: Nienke + Fort Mason ~&nbsp;
+
 * Mary Liz: India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
+
 * Til: photo&nbsp;
+
 * Hector: projects
+
 * Marketing: Ads ~ links
+
 * HH: Tucker ~ finish
+
 * HH: Grassfed ~ Photo + Joe M: not last puppy?
+
 * HH: Granucci + Mia ~ read some text
 
 * Doris: Moghul
@@ -240,24 +254,33 @@
 
 * Trish: ?
 
-* ## Photos
-
+<li>## Photos
+</li>
 * Dugliss: cat
 
 * Margaret M: garden
 
 * ## Residents directory:&nbsp;
-* hairdressers + others
-* 
 
+* hairdressers + others
+
+* 
 * ## Moore
+
 * HH: talk to Pravee
+
 * Praveen: ditch HH Calendar
+
 * Happenings: Audio version
+
 * Sarah Standing: hostel
+
 * Bledsoe: cat
+
 * Dugliss: cat
+
 * Waymo
+
 * 
 
 <div>## Morgan Centenary</div>
@@ -266,7 +289,9 @@
 
 * Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
-<div>EIR</div><div>* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
+
+<div>EIR</div>
+<div>* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
 
 * Patrick &amp; Mary: EIR
 
