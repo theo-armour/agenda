@@ -15,23 +15,14 @@
 ## SOON
 
 * ?
-
 * Marco
-
 * SquareSpace
-
 * Jon + stephen: out Tuesday&nbsp;
-
 * PPH: Gary: Fishy urine
-
 * Bennet: HotM&lt;/p&gt;
-
 * Mary L: Touchtown Czar?
-
 * HotM &gt; Laura: Morgan fundraising
-
 * Notesy
-
 * Tab groups or whatever for two monitors
 
 ***
@@ -187,11 +178,8 @@
 * Tom Magowan
 * Santani
 * Blick
-<li>Manfred
-
-</li>
+* Manfred
 * Adrien
-
 * Visit the doyles with Jane
 
 </details>
@@ -225,79 +213,53 @@
 <h2 id="heritagehappenings">Heritage Happenings</h2>
 
 * HH: Scams ~ EIR ~ Touchtown
-
 * HH: Nienke + Fort Mason ~&nbsp;
-
 * Mary Liz: Grassfed ~ India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
-
 * Til: photo&nbsp;
-
 * Hector: projects
-
 * Marketing: Ads ~ links
-
 * HH: Tucker ~ finish
-
 * HH: Grassfed ~ Photo + Joe M: not last puppy?
-
 * HH: Granucci + Mia ~ read some text
-
 * Doris: Moghul
-
 * Martha Nell: India
-
 * Martha Nell Books:
-
 * Patrick: Jokes
-
 * Sheila: India
-
 * Trish: ?
 
-<li>## Photos
-</li>
+## Photos
+
 * Dugliss: cat
-
 * Margaret M: garden
-
 * ## Residents directory:&nbsp;
-
 * hairdressers + others
-
 * 
-* ## Moore
+
+ ## Mooe
 
 * HH: talk to Pravee
-
 * Praveen: ditch HH Calendar
-
 * Happenings: Audio version
-
 * Sarah Standing: hostel
-
 * Bledsoe: cat
-
 * Dugliss: cat
-
 * Waymo
+ 
 
-* 
+## Morgan Centenary
 
-<div>## Morgan Centenary</div>
-<div>* Dinner Laura</div>
-<div>* Cindy + D</div>
-
+* Dinner Laura
+* Cindy + D
 * Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
 
-<div>EIR</div>
-<div>* Heritage: EIR Hearing 09/26&nbsp;&nbsp;
+EIR
 
+* Heritage: EIR Hearing 09/26
 * Patrick &amp; Mary: EIR
-
 * Randy: EIR strategy?
 
-</div>
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 
 * ?
