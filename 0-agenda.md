@@ -7,25 +7,24 @@
 ## Today
 
 * ?
-* Mia: Bill ~ errors ~ news
-* Dan: triads &amp; AI
+* HotM &gt; Laura: Morgan fundraising
+* Marco
+* Michelle:Nienke / Noel Coward
+* Poindexter
 * 
-
-* Sensay: Life Review
 
 ## SOON
 
 * ?
-* Marco
-* Michelle:Nienke / Noel Coward
-* Poindexter
 * SquareSpace
-* 
-
 * PPH: Gary: Fishy urine
 * Bennet: HotM
 * Mary L: Touchtown Czar?
-* HotM &gt; Laura: Morgan fundraising
+<div>
+</div><div>Thinking</div><div>
+</div><div>* Mia: Bill ~ errors ~ news
+* Dan E: triads &amp; AI
+* Sensay: Life Review</div>
 * Notesy
 * Tab groups or whatever for two monitors
 
