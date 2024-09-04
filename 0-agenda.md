@@ -16,6 +16,8 @@
 
 * ?
 * Marco
+* Michelle:Nienke / Noel Coward
+* Poindexter
 * SquareSpace
 * Jon + stephen: out Tuesday&nbsp;
 * PPH: Gary: Fishy urine
@@ -231,21 +233,28 @@
 ## Photos
 
 * Dugliss: cat
+
 * Margaret M: garden
+
 * ## Residents directory:&nbsp;
+
 * hairdressers + others
-* 
 
- ## Mooe
-
+<li>## Mooe
+</li>
 * HH: talk to Pravee
+
 * Praveen: ditch HH Calendar
+
 * Happenings: Audio version
+
 * Sarah Standing: hostel
+
 * Bledsoe: cat
+
 * Dugliss: cat
+
 * Waymo
- 
 
 ## Morgan Centenary
 
