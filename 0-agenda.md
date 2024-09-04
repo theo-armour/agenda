@@ -9,7 +9,8 @@
 * ?
 * Mia: Bill ~ errors ~ news
 * Dan: triads &amp; AI
-* Tess: Carm's Reader: little women
+* 
+
 * Sensay: Life Review
 
 ## SOON
@@ -19,7 +20,8 @@
 * Michelle:Nienke / Noel Coward
 * Poindexter
 * SquareSpace
-* Jon + stephen: out Tuesday&nbsp;
+* 
+
 * PPH: Gary: Fishy urine
 * Bennet: HotM
 * Mary L: Touchtown Czar?
@@ -236,12 +238,13 @@
 
 * Margaret M: garden
 
-* ## Residents directory:&nbsp;
-
+<li>## Residents directory:&nbsp;
+</li>
 * hairdressers + others
 
 <li>## Mooe
 </li>
+
 * HH: talk to Pravee
 
 * Praveen: ditch HH Calendar
