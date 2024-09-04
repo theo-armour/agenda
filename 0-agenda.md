@@ -36,7 +36,7 @@
 
 ***
 
-<details open="">
+<details>
 
 <summary>Admin</summary>
 
@@ -228,7 +228,7 @@
 
 * HH: Nienke + Fort Mason ~&nbsp;
 
-* Mary Liz: India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
+* Mary Liz: Grassfed ~ India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
 
 * Til: photo&nbsp;
 
