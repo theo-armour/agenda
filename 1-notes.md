@@ -1,6 +1,6 @@
 # Notes
 
-??
+??https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj
 
   
 
@@ -63,8 +63,6 @@ disbelief. It is all there, starkly present.
 Please note: There might be some errors due to the handwriting and image quality.
 
 If you have another image you'd like trans
-
-  
 
 cribed, feel free to send it!
 
