@@ -8,8 +8,6 @@
 
 * ?
 * HotM &gt; Laura: Morgan fundraising
-* 
-
 * Michelle:Nienke / Noel Coward
 * Poindexter
 * 
