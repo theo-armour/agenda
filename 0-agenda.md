@@ -21,7 +21,7 @@
 * SquareSpace
 * Jon + stephen: out Tuesday&nbsp;
 * PPH: Gary: Fishy urine
-* Bennet: HotM&lt;/p&gt;
+* Bennet: HotM
 * Mary L: Touchtown Czar?
 * HotM &gt; Laura: Morgan fundraising
 * Notesy
