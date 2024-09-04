@@ -8,7 +8,8 @@
 
 * ?
 * HotM &gt; Laura: Morgan fundraising
-* Marco
+* 
+
 * Michelle:Nienke / Noel Coward
 * Poindexter
 * 
@@ -109,7 +110,7 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Simplicity</summary>
 
