@@ -213,7 +213,7 @@
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
