@@ -76,7 +76,7 @@
 
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
