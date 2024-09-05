@@ -216,7 +216,7 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
@@ -268,6 +268,10 @@
 
 ## Morgan Centenary
 
+* MorCen: Tom Jones
+* MorCen: 3D scan
+* MorCen: roses PDF
+* MorCen: Fundraisers
 * Dinner Laura
 * Cindy + D
 * Charlie-boy: holiday sign
