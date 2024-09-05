@@ -19,11 +19,16 @@
 * PPH: Gary: Fishy urine
 * Bennet: HotM
 * Mary L: Touchtown Czar?
+
 <div>
-</div><div>Thinking</div><div>
-</div><div>* Mia: Bill ~ errors ~ news
+</div>
+<div>Thinking</div>
+<div>
+</div>
+<div>* Mia: Bill ~ errors ~ news
 * Dan E: triads &amp; AI
 * Sensay: Life Review</div>
+
 * Notesy
 * Tab groups or whatever for two monitors
 
@@ -71,7 +76,7 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
@@ -238,6 +243,7 @@
 
 <li>## Residents directory:&nbsp;
 </li>
+
 * hairdressers + others
 
 <li>## Mooe
