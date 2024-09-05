@@ -25,9 +25,7 @@
 <div>Thinking</div>
 <div>
 </div>
-<div>* Mia: Bill ~ errors ~ news
-* Dan E: triads &amp; AI
-* Sensay: Life Review</div>
+<div>* Mia: Bill ~ errors ~ news&nbsp;</div><div>* Dan E: triads &amp; AI&nbsp;</div><div>* Sensay: Life Review</div>
 
 * Notesy
 * Tab groups or whatever for two monitors
