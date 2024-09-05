@@ -7,23 +7,23 @@
 ## Today
 
 * ?
-* Mia: Bill ~ errors ~ news
-* Dan: triads &amp; AI
-* Tess: Carm's Reader: little women
-* Sensay: Life Review
+* HotM &gt; Laura: Morgan fundraising
+* Michelle:Nienke / Noel Coward
+* Poindexter
+* 
 
 ## SOON
 
 * ?
-* Marco
-* Michelle:Nienke / Noel Coward
-* Poindexter
 * SquareSpace
-* Jon + stephen: out Tuesday&nbsp;
 * PPH: Gary: Fishy urine
-* Bennet: HotM&lt;/p&gt;
+* Bennet: HotM
 * Mary L: Touchtown Czar?
-* HotM &gt; Laura: Morgan fundraising
+<div>
+</div><div>Thinking</div><div>
+</div><div>* Mia: Bill ~ errors ~ news
+* Dan E: triads &amp; AI
+* Sensay: Life Review</div>
 * Notesy
 * Tab groups or whatever for two monitors
 
@@ -115,7 +115,7 @@
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 
 * Bennet: looking for help
-* Vish: ??
+* NextDoor/Village: handyman
 * Simplicity: shipping update: shipsmart + Enclosures
 * Stout Books: books in boxes
 * Books: scanned
@@ -236,12 +236,13 @@
 
 * Margaret M: garden
 
-* ## Residents directory:&nbsp;
-
+<li>## Residents directory:&nbsp;
+</li>
 * hairdressers + others
 
 <li>## Mooe
 </li>
+
 * HH: talk to Pravee
 
 * Praveen: ditch HH Calendar
