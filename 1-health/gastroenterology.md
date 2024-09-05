@@ -2,25 +2,37 @@
 
 ## Appointments
 
-* Dr Kattah: 2024-09-05&nbsp;<a href="https://github.com/9">@</a>&nbsp;8:00
+* Dr Kattah: 2024-09-05 @ 8:00
 
-Questions
+## Questions
 
-* 2 sessile polyps in ascending colon (2 to 5 mm) and 2 sessile polyps in the transverse colon (7 mm).
-* Sessile: genetic: Y chromosome
+Recent colonoscopy
+
+* 2 sessile polyps in ascending colon (2 to 5 mm)
+* 2 sessile polyps in the transverse colon (7 mm).
+* Or: Tubular adenoma and Sessile serrated adenoma
+* Sessile: genetic: Y chromosome?
 * Next colonoscopy: 2026
+
 * Email: not possible
-* Miralax: why not + alternatives
+* Miralax: why not + alternatives?
 * Fiber: soluble vs insoluble
 * Statins?
-* And See below
-* Jeaperdy
+* Cholesterol Total 210
+* Triglycerides 191
+* HDL 49
+* VLDL 34
+* LDL 127
+
+Jeopardy
+
 * The back end starts a journey to the start end a roundabout way
+* "The back end is the front end to a roundabout journey"
 * What is a colonoscopy?
 
 ## UCSF Gastroenterology
 
-<a href="https://www.ucsfhealth.org/list-of-clinics/gastroenterology">https://www.ucsfhealth.org/list-of-clinics/gastroenterology</a>
+https://www.ucsfhealth.org/list-of-clinics/gastroenterology
 
 ### Kattah, Michael George, MD, PhD ~ Gastroenterology UCSF
 
