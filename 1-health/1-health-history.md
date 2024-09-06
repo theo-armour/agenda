@@ -21,16 +21,16 @@ Problems mostly relate to the wear and tear due to aging
 ### Current medications and doses
 
 * Esomeprazole 20 mg capsule per day
-    * Commonly known as: NEXIUM
-    * For dysphagia and internal bleeding
-    * Experimenting with reduction from 40 mg per day
+  * Commonly known as: NEXIUM
+  * For dysphagia and internal bleeding
+  * Experimenting with reduction from 40 mg per day
 * Ketoconazole 2% Shampoo 120ml
 * Ciclopirox 8 % topical solution nail polish
-    * Commonly known as: PENLAC
-    * Apply topically nightly at bedtime to affected nails for fungal infection
+  * Commonly known as: PENLAC
+  * Apply topically nightly at bedtime to affected nails for fungal infection
 * Triamcinolone Acetonide 0.1% Cream 454gm
-    * [https://en.wikipedia.org/wiki/Triamcinolone](https://en.wikipedia.org/wiki/Triamcinolone)
-    * [https://en.wikipedia.org/wiki/Triamcinolone\_acetonide](https://en.wikipedia.org/wiki/Triamcinolone_acetonide)
+  * [https://en.wikipedia.org/wiki/Triamcinolone](https://en.wikipedia.org/wiki/Triamcinolone)
+  * [https://en.wikipedia.org/wiki/Triamcinolone\_acetonide](https://en.wikipedia.org/wiki/Triamcinolone_acetonide)
 * Vitamin D3 ~ 1000 IUD Vi
 
 ### Current Problems History
@@ -71,7 +71,7 @@ Problems mostly relate to the wear and tear due to aging
 * 1968 ~ Wisdom teeth removal
 * 1969 ~ Vertebrae T12 to L5 broken and fused; Both arms broken ~ due to four story fall off roof
 * 1970 ~ Right forearm amputated
-* 1973 ~ Badly cut left foot
+* 1973 ~ Badly cut left foo
 * 2015 ~ Right hip arthroplasty
 * 2016 ~ Blood in Stool
 * 2017 ~ Colectomy for Level 0/1 cancer ~ did not reach lymph nodes
@@ -79,11 +79,14 @@ Problems mostly relate to the wear and tear due to aging
 * 2018 ~ Blood in stool
 * 2019 ~ Inguinal hernia ~ Lichtenstein Procedure
 * 2020 ~ Colonoscopy OK
-* 2022 ~ Broken femur
+* 2022 ~ Broken femur ~ pinned
+* 2023 ~ colonoscopy OK
+* 2023 ~ UTI
+* 2024 ~ colonoscopy OK
 
 ### Surgical procedures (include dates)
 
-* 2000 ~ 2020 ~ Colonoscopies and endoscopies
+* 2000 ~ Present ~ Colonoscopies and endoscopies
 * _Dermato fibroma_ removal x ~20
 * _Keratosis pilaris_ ~ chicken skin ~ reduced symptoms with aging
 
@@ -103,13 +106,16 @@ See above
 
 ### Healthcare Maintenance (include most recent dates)
 
-* Fairly frequent contact with UCSF primary care
+* Fairly frequent contact with Pine Park Health primary care
 
 #### Immunizations
 
 * The usual
 * Flu shots every year
-* To do: shingles
+* shingles
+* pneumonia
+* tetanus
+* COVID-19
 
 #### screening tests (e.g., cancer, diabetes, cholesterol, alcohol)
 
@@ -155,7 +161,7 @@ See above
 
 * Married 1981 to 2001
 * Three daughters
-* See about page: [https://theo-armour.github.io/#page/about.md](https://theo-armour.github.io/#page/about.md)
+* See about page: https://theo-armour.github.io/#page/about.md
 
 ### Health-related behaviors: habits, health promotion, safety
 
@@ -174,9 +180,9 @@ See above
 ### Goals of care
 
 * Maintain a five year plan covering
-    * Fitness
-    * Diet
-    * Sanity
+  * Fitness
+  * Diet
+  * Sanity
 
 ### Advance directives
 

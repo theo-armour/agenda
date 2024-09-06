@@ -13,10 +13,14 @@ Recent colonoscopy
 * Or: Tubular adenoma and Sessile serrated adenoma
 * Sessile: genetic: Y chromosome?
 * Next colonoscopy: 2026
+* tell family?
+
+* Esophagus: hiatal hernia
 
 * Email: not possible
 * Miralax: why not + alternatives?
 * Fiber: soluble vs insoluble
+* Citrucel: soluble non-fermentable
 * Statins?
 * Cholesterol Total 210
 * Triglycerides 191
