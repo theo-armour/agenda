@@ -1,34 +1,38 @@
 # Notes
 
-??<a href="https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj">https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj</a>
+  
+
+INDIA IN 2011  
+
+I have travelled around India three times. In the 1960's it was dirt poor. They had fought to slough off British occupation, and finally acheived independence about 1945, and split into India and Pakistan. There is still a caste system in India unfortunately.  
+
+On my first visit in the 1960's India was very poor and undevelped - they had no underground water or sanitation systems, so there were no toilets, and everyone did their excretions by the side of the dirt tracks that served as streets. They had no plates, so a big spoonful of stew or food was placed onto a big tree leaf. I remember I paid 25 cents a night for a bunk bed on a railway platform. But when I returned this last time in 2011 the economy was doing well, India is now one of the major economies in Asia! Here are some photos from my last visit in 2011:  
+
+??[https:/](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj)
+
+[/www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj)
 
 * EIR ~ residents points ~ van
-
 * Me: side of house ~ walkability ~ parking ~ generator noise
-
-* Centenary: Laura&nbsp; ~ Wednesday
-
+* Centenary: Laura  ~ Wednesday
 * Officers?
-
 * Heritage Happenings
 
-<div>
-</div>
-Chartreuse taste like Christmas without the abuse&nbsp;
+Chartreuse taste like Christmas without the abuse 
 
-Eric Cullen a quiet but vibrant disdain&nbsp;
+Eric Cullen a quiet but vibrant disdain 
 
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 
 Ethan makes 3d
 
-Becoming supernatural Joe Joe dispenza&nbsp;
+Becoming supernatural Joe Joe dispenza 
 
-Add my daughter's telephone numbers to my Google and Microsoft accounts&nbsp;
+Add my daughter's telephone numbers to my Google and Microsoft accounts 
 
 Pioneer society anne
 
-Pharma america Martha&nbsp;
+Pharma america Martha 
 
 30 residents present and
 
@@ -40,7 +44,7 @@ Functionally non-
 
 3 years work
 
-2035 1st quarter permit , affiliate must preserve culture&nbsp;
+2035 1st quarter permit , affiliate must preserve culture 
 
 Rox 18 jul
 
@@ -52,7 +56,7 @@ Yardi migration October 2024
 
 23 audit
 
-14 Aug&nbsp;
+14 Aug 
 
 Praveen lvn CNA Kayla ware
 
@@ -62,17 +66,17 @@ Wander guards
 
 Tracker GPS
 
-Replica talks to EMT&nbsp;
+Replica talks to EMT 
 
 Care plan
 
-Physician report update&nbsp;
+Physician report update 
 
 Hospice Friday 11am
 
 Hector
 
-Santa Claus national Park Spicer Meadows reservoir&nbsp;
+Santa Claus national Park Spicer Meadows reservoir 
 
 Patrick: notes, 100 year, house
 
@@ -82,11 +86,11 @@ Thank sant
 
 Helsinki declaration 1964 research ethics
 
-Right to be forgotten GDPR&nbsp;
+Right to be forgotten GDPR 
 
 Got it
 
-Charlie&nbsp;
+Charlie 
 
 What Have We Liberals Done to the West Coast? Jun 15
 
@@ -112,17 +116,17 @@ so just write a Samsung note and then
 
 Click the magic button pencil + wand button and bingo!
 
-A network of dining room servers. People who have served me in restaurants that I like, well this should be a network of them I should be able to contact them or interact with them. They're the stars of the meal that I experienced why don't they have their own fandoms? If they move from one joint to another guess what I will gox x to the new joint&nbsp;
+A network of dining room servers. People who have served me in restaurants that I like, well this should be a network of them I should be able to contact them or interact with them. They're the stars of the meal that I experienced why don't they have their own fandoms? If they move from one joint to another guess what I will gox x to the new joint 
 
 El Mariachi loco is the one who dances
 
-Remembery: a startup dedicated to using AI systems to talk to old people to record their memories for posterity. This will help AI gather more data and help hope people feel more engaged and useful.&nbsp;
+Remembery: a startup dedicated to using AI systems to talk to old people to record their memories for posterity. This will help AI gather more data and help hope people feel more engaged and useful. 
 
 Texting 123 Can you hear me now comma? Question mark I wonder which thing are you using?
 
 People versus gopal
 
-Outlive&nbsp;
+Outlive 
 
 Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
 
@@ -134,7 +138,7 @@ Million dollar donation
 
 Audited update
 
-Make haste slowly&nbsp;
+Make haste slowly 
 
 granucci
 
@@ -142,7 +146,7 @@ Oct 4 Aug 18
 
 Marissa was Alex's administer assistant want to be
 
-Forced sale of tik Tok?&nbsp;
+Forced sale of tik Tok? 
 
 What are two topics you might discuss? General topics such as last night's game or a favorite TV show are fine.
 
@@ -150,7 +154,7 @@ What is one thing you hope to say?
 
 What is one question you will ask?
 
-Imagine the world where everybody was suffering. There must be a reason why some people like us are living in Paradise.&nbsp;
+Imagine the world where everybody was suffering. There must be a reason why some people like us are living in Paradise. 
 
 Exercise the arms at night
 
@@ -160,7 +164,7 @@ Negroni
 
 Boulvardier
 
-<a href="https://theo-armour.github.io/agenda/#1-simplicity/README.md">https://theo-armour.github.io/agenda/#1-simplicity/README.md</a>
+[https://theo-armour.github.io/agenda/#1-simplicity/README.md](https://theo-armour.github.io/agenda/#1-simplicity/README.md)
 
 ## More
 
