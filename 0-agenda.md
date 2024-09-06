@@ -7,8 +7,6 @@
 ## Today
 
 * ?
-* 
-
 * HotM &gt; Laura: Morgan fundraising
 * Michelle:Nienke / Noel Coward
 * Poindexter
@@ -20,7 +18,7 @@
 * SquareSpace
 * PPH: Gary: Fishy urine
 * Bennet: HotM
-* Mary L: Touchtown Czar?
+* Jon Casey Touchtown Czar?
 
 <div>
 </div>
