@@ -60,7 +60,7 @@
 * W:&nbsp;
 * S: wine ~ Chia seeds
 * A:&nbsp;
-* John King ~ The Poral book
+* John King ~ The Portal book
 * Canon cartridge: mailboxes
 * Superhexa: goodwill
 * Agendas: Initiate list of happy things to do
@@ -270,12 +270,14 @@
 
 ## Morgan Centenary
 
-* jking@sfchronicle.com; Twitter: @johnkingsfchron
+* jking@sfchronicle.com; Twitter: <a href="https://github.com/johnkingsfchron">@johnkingsfchron</a>
+* MorCen: Masg to dirs: constituencies ~ funds ~ history&nbsp;
 * MorCen: Tom Jones
 * MorCen: 3D scan
 * MorCen: roses PDF
 * MorCen: Fundraisers
-* Dinner Laura
+* 
+
 * Cindy + D
 * Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
