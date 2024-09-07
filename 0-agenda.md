@@ -246,13 +246,7 @@
 
 * Margaret M: garden
 
-<li>## Residents directory:&nbsp;
-</li>
-
-* hairdressers + others
-
-<li>## Mooe
-</li>
+* ## Residents directory:&nbsp;
 
 * HH: talk to Pravee
 
@@ -263,8 +257,6 @@
 * Sarah Standing: hostel
 
 * Bledsoe: cat
-
-* 
 
 * Waymo
 
