@@ -268,6 +268,7 @@
 
 ## Morgan Centenary
 
+* jking@sfchronicle.com; Twitter: @johnkingsfchron
 * MorCen: Tom Jones
 * MorCen: 3D scan
 * MorCen: roses PDF
