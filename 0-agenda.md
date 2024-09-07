@@ -15,6 +15,7 @@
 ## SOON
 
 * ?
+* Marty Nolan: book
 * SquareSpace
 * PPH: Gary: Fishy urine
 * Bennet: HotM
@@ -49,7 +50,7 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
@@ -59,6 +60,7 @@
 * W:&nbsp;
 * S: wine ~ Chia seeds
 * A:&nbsp;
+* John King ~ The Poral book
 * Canon cartridge: mailboxes
 * Superhexa: goodwill
 * Agendas: Initiate list of happy things to do
