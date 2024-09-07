@@ -7,7 +7,8 @@
 ## Today
 
 * ?
-* Pack for healdsburf
+* Pack for healdsburg
+* Cynthia: Marie So ~ toys for boys ~ long term goals ~ wallet
 * HotM &gt; Laura: Morgan fundraising
 * Michelle:Nienke / Noel Coward
 * Poindexter
@@ -16,6 +17,7 @@
 ## SOON
 
 * ?
+* He martha~ PPH?
 * Sacsem: Dick news ~ Clat tapes
 * Marty Nolan: book?
 * SPS
@@ -246,8 +248,8 @@
 
 ## Photos
 
-* ## Residents directory:&nbsp;
-
+<li>## Residents directory:&nbsp;
+</li>
 * HH: talk to Pravee
 
 * Praveen: ditch HH Calendar
@@ -263,15 +265,22 @@
 ## Morgan Centenary
 
 * jking@sfchronicle.com; Twitter: <a href="https://github.com/johnkingsfchron">@johnkingsfchron</a>
-* MorCen: Masg to dirs: constituencies ~ funds ~ history&nbsp;
-* MorCen: Tom Jones
-* MorCen: 3D scan
-* MorCen: roses PDF
-* MorCen: Fundraisers
-* 
 
+* MorCen: Masg to dirs: constituencies ~ funds ~ history&nbsp;
+
+* MorCen: Tom Jones
+
+* MorCen: 3D scan
+
+* MorCen: roses PDF
+
+* MorCen: Fundraisers
+
+* 
 * Cindy + D
+
 * Charlie-boy: holiday sign
+
 * Morgan Centenary: Patti ~ Margaret Ja
 
 EIR
