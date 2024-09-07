@@ -7,6 +7,7 @@
 ## Today
 
 * ?
+* Pack for healdsburf
 * HotM &gt; Laura: Morgan fundraising
 * Michelle:Nienke / Noel Coward
 * Poindexter
@@ -15,7 +16,10 @@
 ## SOON
 
 * ?
-* Marty Nolan: book
+* Sacsem: Dick news ~ Clat tapes
+* Marty Nolan: book?
+* SPS
+* Sensay: my replica&nbsp;
 * SquareSpace
 * PPH: Gary: Fishy urine
 * Bennet: HotM
@@ -118,7 +122,7 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Simplicity</summary>
 
@@ -241,10 +245,6 @@
 * Trish: ?
 
 ## Photos
-
-* Dugliss: cat
-
-* Margaret M: garden
 
 * ## Residents directory:&nbsp;
 
