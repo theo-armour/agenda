@@ -3,34 +3,33 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
+* 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities. ~&nbsp;
 
 ## Today
 
 * ?
-* HotM &gt; Laura: Morgan fundraising
-* Michelle:Nienke / Noel Coward
+* Marty Nolan: book?
+* Nicole Smith
+* HH: meeting Tuesday @ 4
 * Poindexter
-* 
-
+* H &gt; praveen meeting
 ## SOON
 
 * ?
 * SquareSpace
 * PPH: Gary: Fishy urine
 * Bennet: HotM
-* Mary L: Touchtown Czar?
+* 
 
 <div>
 </div>
 <div>Thinking</div>
 <div>
 </div>
-<div>* Mia: Bill ~ errors ~ news
-* Dan E: triads &amp; AI
-* Sensay: Life Review</div>
+<div>* Mia: Bill ~ errors ~ news&nbsp;</div>
+<div>* Dan E: triads &amp; AI&nbsp;</div>
 
 * Notesy
-* Tab groups or whatever for two monitors
 
 ***
 
@@ -59,6 +58,7 @@
 * W:&nbsp;
 * S: wine ~ Chia seeds
 * A:&nbsp;
+* John King ~ The Portal book
 * Canon cartridge: mailboxes
 * Superhexa: goodwill
 * Agendas: Initiate list of happy things to do
@@ -76,13 +76,17 @@
 
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 
+* Dr Yun
 * Kattah: prep
+* Kattah: GitHub suggestions
+* Kattah: Endiatx
+* Kattah: citrucel
 * PPH: Gary: Fishy urine
 * PT: "up with the good, down with the bad."&nbsp;
 * Health: meds list
@@ -174,6 +178,7 @@
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2>
 
 * 2am
+* Mike Marean: zoom
 * Ray E
 * Christine<a href="https://www.freefuse.com/">https://www.freefuse.com/</a>
 * ing thanks
@@ -193,27 +198,31 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Entities</summary>
 
 * sps:&nbsp;
+* Sensay: my replica + Marco
 * Rob &amp; José: 3pm
 * Sensay: replica
 * Sensay: Dan + Marco
-* SenSay: Read Dan's book&nbsp;
+* SenSay: Read Dan's book
+* Sensay: Life Review
+* Sacsem: Dick news ~ Clay tapes
 * SacSem: Download Dennis' CJ files
 * SacSem: CC to three: cancel
 * SacSem: Brian: Clay Jackson's recordings
 * SacSem: Update Spotswood Template
 * SacSem: email to post ~ mobile
 * SacSem
+* SPS: Randy
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
@@ -237,16 +246,7 @@
 
 ## Photos
 
-* Dugliss: cat
-
-* Margaret M: garden
-
 <li>## Residents directory:&nbsp;
-</li>
-
-* hairdressers + others
-
-<li>## Mooe
 </li>
 
 * HH: talk to Pravee
@@ -259,15 +259,28 @@
 
 * Bledsoe: cat
 
-* Dugliss: cat
-
 * Waymo
 
 ## Morgan Centenary
 
-* Dinner Laura
+* jking@sfchronicle.com; Twitter: <a href="https://github.com/johnkingsfchron">@johnkingsfchron</a>
+
+* MorCen: Masg to dirs: constituencies ~ funds ~ history&nbsp;
+
+* MorCen: Tom Jones
+
+* MorCen: 3D scan
+
+* MorCen: roses PDF
+
+* MorCen: Fundraisers
+
+<li>
+
 * Cindy + D
+
 * Charlie-boy: holiday sign
+
 * Morgan Centenary: Patti ~ Margaret Ja
 
 EIR
@@ -279,6 +292,8 @@ EIR
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 
 * ?
+* Jon Casey Touchtown Czar?
+* He martha ~ PPH?
 * H &gt; Men's group: Lord's prayer
 * Heritage: fill in medical form
 * Dr Fassett: clinic
@@ -331,7 +346,7 @@ EIR
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a>
 
-</details>
+</li></details>
 
 ***
 

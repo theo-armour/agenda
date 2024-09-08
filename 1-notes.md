@@ -1,19 +1,13 @@
 # Notes
 
-??<a href="https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj">https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj</a>
+??<a href="https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj">https:/</a><a href="https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj">/www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj</a>
 
 * EIR ~ residents points ~ van
-
 * Me: side of house ~ walkability ~ parking ~ generator noise
-
 * Centenary: Laura&nbsp; ~ Wednesday
-
 * Officers?
-
 * Heritage Happenings
 
-<div>
-</div>
 Chartreuse taste like Christmas without the abuse&nbsp;
 
 Eric Cullen a quiet but vibrant disdain&nbsp;
