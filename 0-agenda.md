@@ -9,16 +9,13 @@
 
 * ?
 * Marty Nolan: book?
+* Nicole Smith
 * HH: meeting Tuesday @ 4
 * Poindexter
 * H &gt; praveen meeting
 ## SOON
 
 * ?
-* 
-
-* Sacsem: Dick news ~ Clay tapes
-* Sensay: my replica&nbsp;
 * SquareSpace
 * PPH: Gary: Fishy urine
 * Bennet: HotM
@@ -33,7 +30,6 @@
 <div>* Dan E: triads &amp; AI&nbsp;</div>
 
 * Notesy
-* Tab groups or whatever for two monitors
 
 ***
 
@@ -202,16 +198,18 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Entities</summary>
 
 * sps:&nbsp;
+* Sensay: my replica + Marco
 * Rob &amp; José: 3pm
 * Sensay: replica
 * Sensay: Dan + Marco
 * SenSay: Read Dan's book
 * Sensay: Life Review
+* Sacsem: Dick news ~ Clay tapes
 * SacSem: Download Dennis' CJ files
 * SacSem: CC to three: cancel
 * SacSem: Brian: Clay Jackson's recordings
