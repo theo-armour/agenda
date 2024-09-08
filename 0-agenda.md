@@ -56,7 +56,7 @@
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
@@ -84,7 +84,7 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
@@ -250,6 +250,7 @@
 
 <li>## Residents directory:&nbsp;
 </li>
+
 * HH: talk to Pravee
 
 * Praveen: ditch HH Calendar
@@ -276,9 +277,8 @@
 
 * MorCen: Fundraisers
 
-* 
-* Cindy + D
-
+<li>
+* Cindy + D</li>
 * Charlie-boy: holiday sign
 
 * Morgan Centenary: Patti ~ Margaret Ja
