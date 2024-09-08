@@ -8,7 +8,6 @@
 ## Today
 
 * ?
-* HotM &gt; Laura: Morgan fundraising
 * 
 
 * Poindexter
@@ -19,7 +18,7 @@
 * ?
 * 
 
-* Sacsem: Dick news ~ Clat tapes
+* Sacsem: Dick news ~ Clay tapes
 * Marty Nolan: book?
 * SPS
 * Sensay: my replica&nbsp;
@@ -227,7 +226,7 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
