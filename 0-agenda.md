@@ -84,7 +84,7 @@
 
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
@@ -179,7 +179,7 @@
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Peeps</summary>
 
@@ -205,7 +205,7 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Entities</summary>
 
@@ -225,7 +225,7 @@
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
