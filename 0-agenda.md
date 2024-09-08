@@ -8,9 +8,10 @@
 ## Today
 
 * ?
-* 
-
+* Marty Nolan: book?
+* HH: meeting Tuesday @ 4
 * Poindexter
+* H &gt; praveen meeting
 * 
 
 ## SOON
@@ -19,7 +20,8 @@
 * 
 
 * Sacsem: Dick news ~ Clay tapes
-* Marty Nolan: book?
+* 
+
 * SPS
 * Sensay: my replica&nbsp;
 * SquareSpace
