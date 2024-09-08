@@ -8,8 +8,6 @@
 ## Today
 
 * ?
-* 
-
 * HotM &gt; Laura: Morgan fundraising
 * Michelle:Nienke / Noel Coward
 * Poindexter
@@ -18,7 +16,8 @@
 ## SOON
 
 * ?
-* He martha ~ PPH?
+* 
+
 * Sacsem: Dick news ~ Clat tapes
 * Marty Nolan: book?
 * SPS
@@ -85,7 +84,7 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
@@ -296,6 +295,7 @@ EIR
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 
 * ?
+* He martha ~ PPH?
 * H &gt; Men's group: Lord's prayer
 * Heritage: fill in medical form
 * Dr Fassett: clinic
