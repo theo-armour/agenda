@@ -9,7 +9,8 @@
 
 * ?
 * HotM &gt; Laura: Morgan fundraising
-* Michelle:Nienke / Noel Coward
+* 
+
 * Poindexter
 * 
 
@@ -179,7 +180,7 @@
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Peeps</summary>
 
