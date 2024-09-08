@@ -126,7 +126,7 @@
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Simplicity</summary>
 
