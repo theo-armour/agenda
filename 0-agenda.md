@@ -186,6 +186,7 @@
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2>
 
 * 2am
+* Mike Marean: zoom
 * Ray E
 * Christine<a href="https://www.freefuse.com/">https://www.freefuse.com/</a>
 * ing thanks
