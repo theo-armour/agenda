@@ -8,8 +8,8 @@
 ## Today
 
 * ?
-* Pack for healdsburg
-* Cynthia: Marie So ~ toys for boys ~ long term goals ~ wallet
+* 
+
 * HotM &gt; Laura: Morgan fundraising
 * Michelle:Nienke / Noel Coward
 * Poindexter
@@ -18,7 +18,7 @@
 ## SOON
 
 * ?
-* He martha~ PPH?
+* He martha ~ PPH?
 * Sacsem: Dick news ~ Clat tapes
 * Marty Nolan: book?
 * SPS
@@ -85,7 +85,7 @@
 
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
