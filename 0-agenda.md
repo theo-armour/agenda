@@ -12,23 +12,17 @@
 * HH: meeting Tuesday @ 4
 * Poindexter
 * H &gt; praveen meeting
-* 
-
 ## SOON
 
 * ?
 * 
 
 * Sacsem: Dick news ~ Clay tapes
-* 
-
-* 
-
 * Sensay: my replica&nbsp;
 * SquareSpace
 * PPH: Gary: Fishy urine
 * Bennet: HotM
-* Jon Casey Touchtown Czar?
+* 
 
 <div>
 </div>
@@ -37,7 +31,6 @@
 </div>
 <div>* Mia: Bill ~ errors ~ news&nbsp;</div>
 <div>* Dan E: triads &amp; AI&nbsp;</div>
-<div>* Sensay: Life Review</div>
 
 * Notesy
 * Tab groups or whatever for two monitors
@@ -217,19 +210,21 @@
 * Rob &amp; José: 3pm
 * Sensay: replica
 * Sensay: Dan + Marco
-* SenSay: Read Dan's book&nbsp;
+* SenSay: Read Dan's book
+* Sensay: Life Review
 * SacSem: Download Dennis' CJ files
 * SacSem: CC to three: cancel
 * SacSem: Brian: Clay Jackson's recordings
 * SacSem: Update Spotswood Template
 * SacSem: email to post ~ mobile
 * SacSem
+* SPS: Randy
 
 <h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
