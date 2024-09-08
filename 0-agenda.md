@@ -22,7 +22,8 @@
 * Sacsem: Dick news ~ Clay tapes
 * 
 
-* SPS
+* 
+
 * Sensay: my replica&nbsp;
 * SquareSpace
 * PPH: Gary: Fishy urine
@@ -208,7 +209,7 @@
 
 ***
 
-<details>
+<details open="">
 
 <summary>Entities</summary>
 
