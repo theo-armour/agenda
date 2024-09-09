@@ -47,7 +47,7 @@ Thinking
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
@@ -200,7 +200,7 @@ Waiting
 
 ***
 
-<details open="">
+<details>
 
 <summary>Entities</summary>
 
