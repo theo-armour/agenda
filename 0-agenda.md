@@ -253,7 +253,7 @@ Waiting
 
 <summary>Heritage</summary>
 
-<details>
+<details open="">
 
 <summary>Heritage Happenings</summary>
 
@@ -327,7 +327,6 @@ EIR
 
 ## Agenda
 
-
 * What demos could I give? What do I want to show? What might people want to see?
 * Patrick: Ange Appreciation documents
 * AnneM: Evanston house in Birth of a Nation
@@ -372,7 +371,7 @@ EIR
 
 * ++
 * GH &gt; HH: add HH/private repo
-* GH &gt; ta/ref &gt; update?
+* GH &gt; ta/reference &gt; update?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations</a>
 
