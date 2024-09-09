@@ -28,7 +28,7 @@ Thinking
 
 * Mia: Bill ~ errors ~ news&nbsp;
 * Dan E: triads &amp; AI&nbsp;
-* 
+*
 
 ***
 
@@ -234,9 +234,9 @@ Waiting
 
 <summary>sps </summary>
 
-* sps:&nbsp;
+* sps:
 * SPS: Randy
-* Rob &amp; José: 3pm
+* Rob & José: 3pm
 
 </details>
 
@@ -248,7 +248,9 @@ Waiting
 
 <summary>Heritage</summary>
 
-<h2 id="heritagehappenings">Heritage Happenings</h2>
+<details>
+
+<summary>Heritage Happenings</summary>
 
 * HH: Scams ~ EIR ~ Touchtown
 * HH: Nienke + Fort Mason ~&nbsp;
@@ -265,6 +267,10 @@ Waiting
 * Patrick: Jokes
 * Sheila: India
 * Trish: ?
+
+</details>
+
+
 
 ## Photos
 
