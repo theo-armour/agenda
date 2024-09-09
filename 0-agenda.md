@@ -8,7 +8,7 @@
 ## Today
 
 * ?
-* H: &lt;ol&gt;story Blding&lt;/ol&gt;
+* H: 20 story Blding
 * HH: to GH
 * HH: to subscribers
 * Marty Nolan: book?
@@ -18,7 +18,8 @@
 ## SOON
 
 * ?
-* Awesome Foundation
+* Dr Yoga: Van
+* Awesome Foundation ~ Tue
 * HH: copy calendar
 * SquareSpace
 * PPH: Gary: Fishy urine
@@ -175,7 +176,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Peeps</summary>
 
