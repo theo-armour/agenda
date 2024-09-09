@@ -127,7 +127,7 @@ Waiting
 * Simplicity: shipping update: shipsmart + Enclosures
 * Stout Books: books in boxes
 * Books: scanned
-* Claudia:&nbsp;<a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a>&nbsp;&gt; looks good
+* Claudia: <a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a> ;&gt; looks good
 * ShipSmart: Deborah
 * Storage: rearrange for shipping + closing
 
@@ -149,8 +149,7 @@ Waiting
 * Eloise: Bee Memorial ~ Cynthia Chase visits
 * ace-it+: exhibit report
 * Film the corridor
-
-*
+* ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a>
 
@@ -203,13 +202,22 @@ Waiting
 
 <summary>Entities</summary>
 
-* sps:&nbsp;
+<details>
+
+<summary>sensay</summary>
+
 * Sensay: my replica + Marco
-* Rob &amp; José: 3pm
 * Sensay: replica
 * Sensay: Dan + Marco
 * SenSay: Read Dan's book
 * Sensay: Life Review
+
+</details>
+
+<details>
+
+<summary>sacsem</summary>
+
 * Sacsem: Dick news ~ Clay tapes
 * SacSem: Download Dennis' CJ files
 * SacSem: CC to three: cancel
@@ -217,7 +225,19 @@ Waiting
 * SacSem: Update Spotswood Template
 * SacSem: email to post ~ mobile
 * SacSem
+
+</details>
+
+<details>
+
+<summary>sps </summary>
+
+* sps:&nbsp;
 * SPS: Randy
+* Rob &amp; José: 3pm
+
+</details>
+
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
 
