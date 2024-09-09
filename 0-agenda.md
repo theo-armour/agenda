@@ -8,7 +8,8 @@
 ## Today
 
 * ?
-* H: 20 story Blding
+* 
+
 * HH: to GH
 * HH: to subscribers
 * Marty Nolan: book?
