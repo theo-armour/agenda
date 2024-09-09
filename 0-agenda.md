@@ -198,7 +198,7 @@ Waiting
 
 ***
 
-<details>
+<details open="">
 
 <summary>Entities</summary>
 
@@ -228,7 +228,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>sps </summary>
 
@@ -237,7 +237,6 @@ Waiting
 * Rob &amp; José: 3pm
 
 </details>
-
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
 
