@@ -30,7 +30,7 @@ Thinking
 
 ***
 
-<details open="">
+<details>
 
 <summary>Admin</summary>
 
@@ -75,7 +75,7 @@ Waiting
 
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
