@@ -10,14 +10,12 @@
 * ?
 * Marty Nolan: book?
 * Nicole Smith
-* 
-
-* Poindexter
 * H &gt; praveen meeting
 
 ## SOON
 
 * ?
+* Awesome Foundation
 * HH: copies
 * SquareSpace
 * PPH: Gary: Fishy urine
