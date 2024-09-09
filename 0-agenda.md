@@ -16,7 +16,7 @@
 
 * ?
 * Awesome Foundation
-* HH: copies
+* HH: copy calendar
 * SquareSpace
 * PPH: Gary: Fishy urine
 * Bennet: HotM
@@ -30,7 +30,7 @@ Thinking
 
 ***
 
-<details>
+<details open="">
 
 <summary>Admin</summary>
 
