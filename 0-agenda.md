@@ -11,12 +11,13 @@
 * Marty Nolan: book?
 * Nicole Smith
 * HH: meeting Tuesday @ 4
-* Pomerantz
+* Poindexter
 * H &gt; praveen meeting
 
 ## SOON
 
 * ?
+* HH: copies
 * SquareSpace
 * PPH: Gary: Fishy urine
 * Bennet: HotM
