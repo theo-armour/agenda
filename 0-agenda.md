@@ -206,8 +206,8 @@ Waiting
 
 <summary>sensay</summary>
 
-* Sensay: my replica + Marco
 * Sensay: replica
+
 * Sensay: Dan + Marco
 * SenSay: Read Dan's book
 * Sensay: Life Review
@@ -228,7 +228,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>sps </summary>
 
