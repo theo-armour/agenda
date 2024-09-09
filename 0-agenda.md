@@ -13,22 +13,19 @@
 * HH: meeting Tuesday @ 4
 * Poindexter
 * H &gt; praveen meeting
+
 ## SOON
 
 * ?
 * SquareSpace
 * PPH: Gary: Fishy urine
 * Bennet: HotM
-* 
+* ++
 
-<div>
-</div>
-<div>Thinking</div>
-<div>
-</div>
-<div>* Mia: Bill ~ errors ~ news&nbsp;</div>
-<div>* Dan E: triads &amp; AI&nbsp;</div>
+Thinking
 
+* Mia: Bill ~ errors ~ news&nbsp;</div>
+* Dan E: triads &amp; AI&nbsp;</div>
 * Notesy
 
 ***
@@ -37,7 +34,7 @@
 
 <summary>Admin</summary>
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0admin0adminagendamdquot0adminagendaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a></h2>
 
 * ?
 * Schedule tax payments
@@ -52,7 +49,7 @@
 
 <summary>Personal</summary>
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents0adminpersonal0adminpersonalmdquot0adminpersonala"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a></h2>
 
 * ?
 * W:&nbsp;
@@ -80,7 +77,7 @@
 
 <summary>Health</summary>
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1health0healthagendamdquot10healtha"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a></h2>
 
 * Dr Yun
 * Kattah: prep
@@ -121,7 +118,7 @@
 
 <summary>Simplicity</summary>
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents1simplicity0simplicityagendamdquot1simplicitya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a></h2>
 
 * Bennet: looking for help
 * NextDoor/Village: handyman
@@ -144,20 +141,20 @@
 
 <summary>ACE IT</summary>
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceit0aceitagendamdquot20aceita"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a></h2>
 
 * Marie-so: wedding
 * Eloise: Bee Memorial ~ Cynthia Chase visits
 * ace-it+: exhibit report
 * Film the corridor
-* 
+*
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitalixmdquotalixa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a></h2>
 
 * Ruth Weston
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceitcynthiamdquotcynthiaa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2>
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2aceiteloisemdquoteloisea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a></h2>
 
 * Newport
 
@@ -167,7 +164,7 @@
 
 <summary>Family</summary>
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2family0familyagendamdquot20familya"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a></h2>
 
 </details>
 
@@ -175,7 +172,7 @@
 
 <summary>Peeps</summary>
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents2peeps0peepsagendamdquot20peepsa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a></h2>
 
 * 2am
 * Mike Marean: zoom
@@ -218,7 +215,7 @@
 * SacSem
 * SPS: Randy
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents30entities0entitiesagendamdquot30entitiesa"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a></h2>
 
 </details>
 
@@ -246,41 +243,25 @@
 
 ## Photos
 
-<li>## Residents directory:&nbsp;
-</li>
+## Residents directory:&nbsp;
 
 * HH: talk to Pravee
-
 * Praveen: ditch HH Calendar
-
 * Happenings: Audio version
-
 * Sarah Standing: hostel
-
 * Bledsoe: cat
-
 * Waymo
 
 ## Morgan Centenary
 
 * jking@sfchronicle.com; Twitter: <a href="https://github.com/johnkingsfchron">@johnkingsfchron</a>
-
 * MorCen: Masg to dirs: constituencies ~ funds ~ history&nbsp;
-
 * MorCen: Tom Jones
-
 * MorCen: 3D scan
-
 * MorCen: roses PDF
-
 * MorCen: Fundraisers
-
-<li>
-
 * Cindy + D
-
 * Charlie-boy: holiday sign
-
 * Morgan Centenary: Patti ~ Margaret Ja
 
 EIR
@@ -289,7 +270,7 @@ EIR
 * Patrick &amp; Mary: EIR
 * Randy: EIR strategy?
 
-<h2 id="ahrefonclickparentlocationhashquothttpsapigithubcomrepostheoarmouragendacontents31heritage0heritageagendamdquot31heritagea"><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
+<h2><a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a></h2>
 
 * ?
 * Jon Casey Touchtown Czar?
@@ -346,7 +327,7 @@ EIR
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a>
 
-</li></details>
+</details>
 
 ***
 
@@ -362,7 +343,7 @@ EIR
 
 * tess: kiosk software
 
-## &nbsp;<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">&nbsp;repos</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">repos</a>
 
 * ++
 
