@@ -10,13 +10,12 @@
 * ?
 * Marty Nolan: book?
 * Nicole Smith
-* HH: meeting Tuesday @ 4
-* Poindexter
 * H &gt; praveen meeting
 
 ## SOON
 
 * ?
+* Awesome Foundation
 * HH: copies
 * SquareSpace
 * PPH: Gary: Fishy urine
@@ -200,7 +199,7 @@ Waiting
 
 ***
 
-<details open="">
+<details>
 
 <summary>Entities</summary>
 
