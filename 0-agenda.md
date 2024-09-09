@@ -9,7 +9,7 @@
 
 * ?
 * HH: to GH
-* * HH: to subscribers
+* HH: to subscribers
 * Marty Nolan: book?
 * Nicole Smith
 * H &gt; praveen meeting
