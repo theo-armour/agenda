@@ -11,6 +11,11 @@ Interactive Object Network Indices For Law, Fact Patterns And Their Interaction
 * https://onedrive.live.com/?cid=4348E1419F457EB2&id=4348E1419F457EB2%21837369&parId=4348E1419F457EB2%21837368&o=OneUp
 
 
+## 2024-09-09
+
+* Suggests https://www.nytimes.com/2022/06/27/realestate/only-murders-in-the-building-belnord-arconia.html ~ Ray Ravello eoic?
+* I suggested Wilson's Iliad
+* He will be seeing Peter Twinin
 ## 2024-06-04
 
 * demo of latest rev

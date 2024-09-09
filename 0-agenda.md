@@ -325,6 +325,7 @@ EIR
 
 ## Agenda
 
+
 * What demos could I give? What do I want to show? What might people want to see?
 * Patrick: Ange Appreciation documents
 * AnneM: Evanston house in Birth of a Nation
