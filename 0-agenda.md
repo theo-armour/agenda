@@ -257,6 +257,9 @@ Waiting
 
 <summary>Heritage Happenings</summary>
 
+October&nbsp;September&nbsp;
+* 
+
 * HH: Scams ~ EIR ~ Touchtown
 * HH: Nienke + Fort Mason ~&nbsp;
 * Mary Liz: Grassfed ~ India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
