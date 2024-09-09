@@ -8,6 +8,8 @@
 ## Today
 
 * ?
+* HH: to GH
+* * HH: to subscribers
 * Marty Nolan: book?
 * Nicole Smith
 * H &gt; praveen meeting
@@ -26,7 +28,7 @@ Thinking
 
 * Mia: Bill ~ errors ~ news&nbsp;
 * Dan E: triads &amp; AI&nbsp;
-* Notesy
+* 
 
 ***
 
@@ -75,7 +77,7 @@ Waiting
 
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
