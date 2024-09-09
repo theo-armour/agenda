@@ -8,8 +8,10 @@
 ## Today
 
 * ?
+* 
+
 * HH: to GH
-* * HH: to subscribers
+* HH: to subscribers
 * Marty Nolan: book?
 * Nicole Smith
 * H &gt; praveen meeting
@@ -17,7 +19,8 @@
 ## SOON
 
 * ?
-* Awesome Foundation
+* Dr Yoga: Van
+* Awesome Foundation ~ Tue
 * HH: copy calendar
 * SquareSpace
 * PPH: Gary: Fishy urine
@@ -181,12 +184,12 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * 2am
-* Mike Marean: zoom
-* Ray E
-* Christine<a href="https://www.freefuse.com/">https://www.freefuse.com/</a>
-* ing thanks
+* Mike Marean: zoom&nbsp;
+* Ray Eisenberg
+* Tim Child
+* Christine&nbsp;<a href="https://www.freefuse.com/">https://www.freefuse.com/</a>
 * Pam Choy ~ Niantic maps ~ sketchfab ~ Brilliant labs!!
-* Ashley
+* Ashley Emory
 * Shammah: birthday
 * Ronan
 * Aaron
@@ -194,7 +197,6 @@ Waiting
 * Santani
 * Blick
 * Manfred
-* Adrien
 * Visit the doyles with Jane
 
 </details>
@@ -275,7 +277,7 @@ Waiting
 
 ## Residents directory:&nbsp;
 
-* HH: talk to Pravee
+* HH: talk to Praveen
 * Praveen: ditch HH Calendar
 * Happenings: Audio version
 * Sarah Standing: hostel
@@ -362,13 +364,15 @@ EIR
 
 ***
 
-<details>
+<details open="">
 
 <summary>projects</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
+* GH &gt; HH: add HH/private repo
+* GH &gt; ta/ref &gt; update?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations</a>
 
