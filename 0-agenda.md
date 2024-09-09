@@ -11,7 +11,7 @@
 * Marty Nolan: book?
 * Nicole Smith
 * HH: meeting Tuesday @ 4
-* Poindexter
+* Pomerantz
 * H &gt; praveen meeting
 
 ## SOON
