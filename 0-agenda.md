@@ -271,9 +271,6 @@ Waiting
 </details>
 
 
-
-## Photos
-
 ## Residents directory:&nbsp;
 
 * HH: talk to Pravee
@@ -320,11 +317,11 @@ EIR
 * Fee schedule questions
 * House Committee: Bledsoe
 
-<h2 id="invoices">Invoices</h2>
+## Invoices
 
 * February: $94.00
 
-<h2 id="agenda">Agenda</h2>
+## Agenda
 
 * What demos could I give? What do I want to show? What might people want to see?
 * Patrick: Ange Appreciation documents
