@@ -8,6 +8,7 @@
 ## Today
 
 * ?
+* H: &lt;ol&gt;story Blding&lt;/ol&gt;
 * HH: to GH
 * HH: to subscribers
 * Marty Nolan: book?
@@ -174,7 +175,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Peeps</summary>
 
