@@ -28,6 +28,7 @@ Thinking
 
 * Mia: Bill ~ errors ~ news&nbsp;
 * Dan E: triads &amp; AI&nbsp;
+
 *
 
 ***
@@ -47,7 +48,7 @@ Thinking
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
@@ -211,7 +212,9 @@ Waiting
 * Sensay: replica
 
 * Sensay: Dan + Marco
+
 * SenSay: Read Dan's book
+
 * Sensay: Life Review
 
 </details>
@@ -236,7 +239,7 @@ Waiting
 
 * sps:
 * SPS: Randy
-* Rob & José: 3pm
+* Rob &amp; José: 3pm
 
 </details>
 
@@ -244,7 +247,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
@@ -269,7 +272,6 @@ Waiting
 * Trish: ?
 
 </details>
-
 
 ## Residents directory:&nbsp;
 
