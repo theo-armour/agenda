@@ -61,7 +61,7 @@ Thinking
 * ?
 * W:&nbsp;
 * S: wine ~ Chia seeds
-* A:&nbsp;
+* A: diapers ~ back wheels ~ return walkers
 * John King ~ The Portal book
 * Canon cartridge: mailboxes
 * Superhexa: goodwill
