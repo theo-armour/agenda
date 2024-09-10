@@ -9,10 +9,6 @@
 ## Today
 
 * ?
-* 
-
-* HH: to GH
-* HH: to subscribers
 * Marty Nolan: book?
 * Nicole Smith
 * H &gt; praveen meeting
@@ -21,8 +17,7 @@
 
 * ?
 * Dr Yoga: Van
-* Awesome Foundation ~ Tue
-* HH: copy calendar
+* Awesome Foundation ~ Wed
 * SquareSpace
 * PPH: Gary: Fishy urine
 * Bennet: HotM
