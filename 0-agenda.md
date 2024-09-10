@@ -17,6 +17,7 @@
 ## SOON
 
 * ?
+* Taxes
 * Dr Yoga: Van
 * Awesome Foundation ~ Wed
 * SquareSpace
