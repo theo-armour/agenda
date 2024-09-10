@@ -12,7 +12,7 @@
 * Jon Rubin &gt; marty
 * Marty Nolan: book? &gt;jon rubin
 * Nicole Smith
-* H &gt; praveen meeting
+* 
 
 ## SOON
 
@@ -20,23 +20,20 @@
 
 * Taxes
 
-* Awesome Foundation ~ Wed
-
 * SquareSpace
 
 * PPH: Gary: Fishy urine
-
-* Bennet: HotM
 
 * ++
 
 Thinking
 
-* 
+* Bennet: HotM
 
 * Dan E: triads &amp; AI&nbsp;
+* Awesome Foundation ~ Wed
 
-*
+* ++
 
 ***
 
