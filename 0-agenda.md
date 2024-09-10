@@ -20,11 +20,6 @@
 
 * Taxes
 
-* Diapers
-
-* 
-* Dr Yoga: Van
-
 * Awesome Foundation ~ Wed
 
 * SquareSpace
@@ -37,7 +32,8 @@
 
 Thinking
 
-* Mia: Bill ~ errors ~ news&nbsp;
+* 
+
 * Dan E: triads &amp; AI&nbsp;
 
 *
@@ -392,7 +388,7 @@ EIR
 
 ***
 
-<details open="">
+<details>
 
 <summary>projects</summary>
 
