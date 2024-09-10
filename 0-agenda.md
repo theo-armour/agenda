@@ -9,7 +9,8 @@
 ## Today
 
 * ?
-* Jon Rubin &gt; marty
+* 
+
 * Marty Nolan: book? &gt;jon rubin
 * Nicole Smith
 * 
