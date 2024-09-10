@@ -17,15 +17,22 @@
 ## SOON
 
 * ?
-* Taxes
-* Diapers
-* 
 
+* Taxes
+
+* Diapers
+
+* 
 * Dr Yoga: Van
+
 * Awesome Foundation ~ Wed
+
 * SquareSpace
+
 * PPH: Gary: Fishy urine
+
 * Bennet: HotM
+
 * ++
 
 Thinking
@@ -61,7 +68,7 @@ Thinking
 * ?
 * W:&nbsp;
 * S: wine ~ Chia seeds
-* A: diapers ~ back wheels ~ return walkers
+* A: return walkers
 * John King ~ The Portal book
 * Canon cartridge: mailboxes
 * Superhexa: goodwill
@@ -250,7 +257,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
@@ -260,7 +267,10 @@ Waiting
 
 October&nbsp;September&nbsp;
 
-* birthday list* Men's group
+* birthday list
+
+* Men's group
+
 September&nbsp;
 * HH: Scams ~ EIR ~ Touchtown
 
