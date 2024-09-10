@@ -4,16 +4,20 @@ Tome sheet
 
 * Updates
 * Payments
-* hours
+* Hours
 * storage
 
 Calendar
 
-* Mistakes
-* Birthday
-* hair dresser phone number
-* Liao, Bianca, Claudia, Tess, Brittany, Angie, Sabrina, Patrick, Podiatry
+* Mistakes: men's group, food committee
+* Birthday list
+* hair dresser phone numbers
+* Liao, Bianca, Claudia, Tess, Brittany, Angie, Sabrina, Patrick art, Podiatry
 * Email addresses from Roxana or Stephen?
+
+Res Dir
+
+* Angie's phone number
 
 Granucci
 
@@ -23,6 +27,6 @@ Granucci
 
 More
 
-* Newsletter aspects of interest?
+* Newsletter aspects of interest? Doris. Jane?
 * GitHub: Heritage Happenings
 
