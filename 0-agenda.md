@@ -9,11 +9,10 @@
 ## Today
 
 * ?
-* 
-
-* Marty Nolan: book? &gt;jon rubin
 * Nicole Smith
-* 
+
+* Walkers: return labels
+* Centenary
 
 ## SOON
 
