@@ -17,7 +17,7 @@
 * Sherry ~ email ~ mexsp
 * Rob&Bennet: Remembery ~ Gusty: puzzle train
 * Marissa ~ meal invite
-* Paul Mason: Aaron
+* Paul Masson: Aaron
 * Drake Tam: The Key
 * Joe Macleod
 * Nienke
