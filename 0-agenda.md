@@ -9,28 +9,31 @@
 ## Today
 
 * ?
-* Jon Rubin &gt; marty
-* Marty Nolan: book? &gt;jon rubin
 * Nicole Smith
-* H &gt; praveen meeting
+
+* Walkers: return labels
+* Centenary
 
 ## SOON
 
 * ?
+
 * Taxes
-* Dr Yoga: Van
-* Awesome Foundation ~ Wed
+
 * SquareSpace
+
 * PPH: Gary: Fishy urine
-* Bennet: HotM
+
 * ++
 
 Thinking
 
-* Mia: Bill ~ errors ~ news&nbsp;
-* Dan E: triads &amp; AI&nbsp;
+* Bennet: HotM
 
-*
+* Dan E: triads &amp; AI&nbsp;
+* Awesome Foundation ~ Wed
+
+* ++
 
 ***
 
@@ -49,7 +52,7 @@ Thinking
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
@@ -58,7 +61,7 @@ Thinking
 * ?
 * W:&nbsp;
 * S: wine ~ Chia seeds
-* A:&nbsp;
+* A: return walkers
 * John King ~ The Portal book
 * Canon cartridge: mailboxes
 * Superhexa: goodwill
@@ -247,7 +250,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
@@ -256,22 +259,40 @@ Waiting
 <summary>Heritage Happenings</summary>
 
 October&nbsp;September&nbsp;
-* 
 
+* birthday list
+
+* Men's group
+
+September&nbsp;
 * HH: Scams ~ EIR ~ Touchtown
+
 * HH: Nienke + Fort Mason ~&nbsp;
+
 * Mary Liz: Grassfed ~ India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
+
 * Til: photo&nbsp;
+
 * Hector: projects
+
 * Marketing: Ads ~ links
+
 * HH: Tucker ~ finish
+
 * HH: Grassfed ~ Photo + Joe M: not last puppy?
+
 * HH: Granucci + Mia ~ read some text
+
 * Doris: Moghul
+
 * Martha Nell: India
+
 * Martha Nell Books:
+
 * Patrick: Jokes
+
 * Sheila: India
+
 * Trish: ?
 
 </details>
@@ -364,7 +385,7 @@ EIR
 
 ***
 
-<details open="">
+<details>
 
 <summary>projects</summary>
 
