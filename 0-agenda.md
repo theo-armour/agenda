@@ -9,8 +9,7 @@
 ## Today
 
 * ?
-* Marty Nolan: book?
-* Nicole Smith
+* Marty Nolan: book? &gt;jon rubinNicole Smith
 * H &gt; praveen meeting
 
 ## SOON
