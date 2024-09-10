@@ -18,6 +18,9 @@
 
 * ?
 * Taxes
+* Diapers
+* 
+
 * Dr Yoga: Van
 * Awesome Foundation ~ Wed
 * SquareSpace
@@ -49,7 +52,7 @@ Thinking
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
@@ -256,22 +259,37 @@ Waiting
 <summary>Heritage Happenings</summary>
 
 October&nbsp;September&nbsp;
-* 
 
+* birthday list* Men's group
+September&nbsp;
 * HH: Scams ~ EIR ~ Touchtown
+
 * HH: Nienke + Fort Mason ~&nbsp;
+
 * Mary Liz: Grassfed ~ India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
+
 * Til: photo&nbsp;
+
 * Hector: projects
+
 * Marketing: Ads ~ links
+
 * HH: Tucker ~ finish
+
 * HH: Grassfed ~ Photo + Joe M: not last puppy?
+
 * HH: Granucci + Mia ~ read some text
+
 * Doris: Moghul
+
 * Martha Nell: India
+
 * Martha Nell Books:
+
 * Patrick: Jokes
+
 * Sheila: India
+
 * Trish: ?
 
 </details>
