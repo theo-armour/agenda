@@ -31,6 +31,8 @@ Thinking
 * Dan E: triads &amp; AI&nbsp;
 * Awesome Foundation ~ Wed
 
+* Granucci: upload
+
 * ++
 
 ***
@@ -176,7 +178,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Peeps</summary>
 
