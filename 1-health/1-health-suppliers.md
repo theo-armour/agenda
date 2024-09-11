@@ -24,11 +24,11 @@ https://www.caremark.com/
 * Issuer 9151014609
 * ID G6C825534
 * Name NORMAN ARMOUR
-
-CVS Caremark MAILSERVICE Pharmacy - Scottsdale, AZ - 9501 E Shea Blvd AT Portal to Registered Caremark Sites
-9501 E Shea Blvd
-Scottsdale AZ 85260
-877-864-7744
+* CVS Caremark MAILSERVICE Pharmacy - Scottsdale, AZ - 9501 E
+* Shea Blvd AT Portal to Registered Caremark Sites
+* 9501 E Shea Blvd
+* Scottsdale AZ 85260
+* 877-864-7744
 
 
 ### Walgreens ~ 415 362 5227
