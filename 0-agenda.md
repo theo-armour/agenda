@@ -12,8 +12,7 @@
 * Nicole Smith
 
 * Walkers: return labels
-* Centenary
-* Michael
+* 
 
 ## SOON
 
