@@ -9,21 +9,24 @@
 ## Today
 
 * ?
+
 * Nicole Smith
 
 * Walkers: return labels
-* Centenary
-* Michael
+
+* 
 
 ## SOON
 
 * ?
 
+* Urinalysis issues
+
+* Blood press
+
 * Taxes
 
 * SquareSpace
-
-* PPH: Gary: Fishy urine
 
 * ++
 
@@ -32,7 +35,10 @@ Thinking
 * Bennet: HotM
 
 * Dan E: triads &amp; AI&nbsp;
+
 * Awesome Foundation ~ Wed
+
+* Granucci: upload
 
 * ++
 
@@ -53,7 +59,7 @@ Thinking
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
@@ -205,7 +211,7 @@ Waiting
 
 ***
 
-<details>
+<details open="">
 
 <summary>Entities</summary>
 
@@ -251,11 +257,11 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
-<details open="">
+<details>
 
 <summary>Heritage Happenings</summary>
 
@@ -266,6 +272,7 @@ October&nbsp;September&nbsp;
 * Men's group
 
 September&nbsp;
+
 * HH: Scams ~ EIR ~ Touchtown
 
 * HH: Nienke + Fort Mason ~&nbsp;
@@ -328,6 +335,7 @@ EIR
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
+* Party for Marty
 * Jon Casey Touchtown Czar?
 * He martha ~ PPH?
 * H &gt; Men's group: Lord's prayer
