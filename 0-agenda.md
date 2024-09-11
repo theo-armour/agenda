@@ -222,7 +222,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>sacsem</summary>
 
@@ -254,7 +254,7 @@ Waiting
 
 <summary>Heritage</summary>
 
-<details open="">
+<details>
 
 <summary>Heritage Happenings</summary>
 
@@ -327,6 +327,7 @@ EIR
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
+* Party for Marty
 * Jon Casey Touchtown Czar?
 * He martha ~ PPH?
 * H &gt; Men's group: Lord's prayer
