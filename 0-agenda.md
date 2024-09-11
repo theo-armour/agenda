@@ -22,8 +22,6 @@
 
 * SquareSpace
 
-* PPH: Gary: Fishy urine
-
 * ++
 
 Thinking
@@ -52,7 +50,7 @@ Thinking
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
