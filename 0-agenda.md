@@ -9,14 +9,20 @@
 ## Today
 
 * ?
+
 * Nicole Smith
 
 * Walkers: return labels
+
 * 
 
 ## SOON
 
 * ?
+
+* Urinalysis issues
+
+* Blood press
 
 * Taxes
 
@@ -29,6 +35,7 @@ Thinking
 * Bennet: HotM
 
 * Dan E: triads &amp; AI&nbsp;
+
 * Awesome Foundation ~ Wed
 
 * Granucci: upload
@@ -265,6 +272,7 @@ October&nbsp;September&nbsp;
 * Men's group
 
 September&nbsp;
+
 * HH: Scams ~ EIR ~ Touchtown
 
 * HH: Nienke + Fort Mason ~&nbsp;
