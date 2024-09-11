@@ -178,7 +178,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Peeps</summary>
 
@@ -204,7 +204,7 @@ Waiting
 
 ***
 
-<details>
+<details open="">
 
 <summary>Entities</summary>
 
@@ -222,7 +222,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>sacsem</summary>
 
@@ -250,7 +250,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
