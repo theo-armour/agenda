@@ -10,9 +10,9 @@
 
 * ?
 
-* Nicole Smith
-
 * Walkers: return labels
+
+* SacSem news
 
 * 
 
@@ -22,9 +22,7 @@
 
 * Urinalysis issues
 
-* Taxes
-
-* 
+* Tax payments
 
 * ++
 
@@ -34,7 +32,7 @@ Thinking
 
 * Dan E: triads &amp; AI&nbsp;
 
-* Awesome Foundation ~ Wed
+* Nicole Smith
 
 * Granucci: upload
 
