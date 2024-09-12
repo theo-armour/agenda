@@ -1,6 +1,10 @@
 # Notes
 
-??<a href="https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj">https:/</a><a href="https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj">/www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj</a>
+??
+
+https://www.awesomefoundation.org/en/chapters/sf/projects?start=2024-08-01&amp;end=2024-08-31&amp;q=
+
+<a href="https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj">https:/</a><a href="https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj">/www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj</a>
 
 * EIR ~ residents points ~ van
 * Me: side of house ~ walkability ~ parking ~ generator noise
