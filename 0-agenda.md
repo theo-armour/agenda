@@ -22,11 +22,9 @@
 
 * Urinalysis issues
 
-* Blood press
-
 * Taxes
 
-* SquareSpace
+* 
 
 * ++
 
