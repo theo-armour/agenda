@@ -97,7 +97,7 @@ Waiting
 
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
@@ -108,7 +108,8 @@ Waiting
 * Kattah: GitHub suggestions
 * Kattah: Endiatx
 * Kattah: citrucel
-* PPH: Gary: Fishy urine
+* 
+
 * PT: "up with the good, down with the bad."&nbsp;
 * Health: meds list
 * Daniel B: questions: any prep
