@@ -32,6 +32,8 @@
 
 Thinking
 
+* Randy + Patrick: EIR
+
 * Bennet: HotM
 
 * Dan E: triads &amp; AI&nbsp;
