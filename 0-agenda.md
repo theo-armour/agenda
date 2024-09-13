@@ -214,7 +214,7 @@ Waiting
 
 ***
 
-<details open="">
+<details>
 
 <summary>Entities</summary>
 
