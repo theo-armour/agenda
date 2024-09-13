@@ -10,9 +10,11 @@
 
 * ?
 
+* Walkers: return labels
+
 * 
 
-* Walkers: return labels
+* Mia
 
 ## SOON
 
@@ -26,7 +28,7 @@
 
 * Joel
 
-* Marty Party
+* Simpsons
 
 * ++
 
