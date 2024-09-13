@@ -26,8 +26,6 @@
 
 * Joel
 
-* 
-
 * ++
 
 Thinking
@@ -45,6 +43,7 @@ Thinking
 * Kattah
 * Randy Morgan
 * Mike M
+* Sensay
 * ++
 
 ***
@@ -398,7 +397,7 @@ EIR
 
 ***
 
-<details open="">
+<details>
 
 <summary>projects</summary>
 
