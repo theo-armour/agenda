@@ -26,7 +26,7 @@
 
 * Joel
 
-* Simpsons
+* 
 
 * ++
 
