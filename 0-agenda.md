@@ -41,6 +41,8 @@ Thinking
 * Granucci: upload
 
 * Kattah
+* Randy Morgan
+* Mike M
 * ++
 
 ***
@@ -257,11 +259,11 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
-<details open="">
+<details>
 
 <summary>Heritage Happenings</summary>
 
@@ -394,7 +396,7 @@ EIR
 
 ***
 
-<details>
+<details open="">
 
 <summary>projects</summary>
 
