@@ -12,8 +12,6 @@
 
 * Walkers: return labels
 
-* 
-
 ## SOON
 
 * ?
@@ -28,12 +26,6 @@
 
 * Marty Party
 
-* 
-
-<div style="background-color: rgb(255, 255, 255); font-size: 12pt; color: rgb(51, 51, 51); font-family: helvetica, arial, sans-serif;">
-<div style="background-color: rgb(255, 255, 255); font-size: 12pt; font-family: helvetica, arial, sans-serif; color: rgb(51, 51, 51);">
-
-* 
 * Tax payments
 
 * ++
