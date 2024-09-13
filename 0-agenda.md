@@ -10,9 +10,9 @@
 
 * ?
 
-* 
-
 * Walkers: return labels
+
+* 
 
 ## SOON
 
@@ -26,11 +26,11 @@
 
 * Joel
 
-* Marty Party
-
 * ++
 
 Thinking
+
+* Randy + Patrick: EIR
 
 * Bennet: HotM
 
@@ -43,6 +43,7 @@ Thinking
 * Kattah
 * Randy Morgan
 * Mike M
+* Sensay
 * ++
 
 ***
@@ -213,7 +214,7 @@ Waiting
 
 ***
 
-<details open="">
+<details>
 
 <summary>Entities</summary>
 
