@@ -30,7 +30,8 @@
 
 * 
 
-<div style="background-color: rgb(255, 255, 255); font-size: 12pt; font-family: helvetica, arial, sans-serif; color: rgb(51, 51, 51);"><span style="font-family: helvetica; font-size: 12pt;">Tracy Huddleson - her email address is:</span><div style="background-color: rgb(255, 255, 255); font-size: 12pt; font-family: helvetica, arial, sans-serif; color: rgb(51, 51, 51);"><span style="font-family: helvetica; font-size: 12pt;"><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=tracybelle2@gmail.com" target="_blank" style="color: rgb(17, 85, 204);">tracybelle2@gmail.com</a></span>
+<div style="background-color: rgb(255, 255, 255); font-size: 12pt; color: rgb(51, 51, 51); font-family: helvetica, arial, sans-serif;">
+<div style="background-color: rgb(255, 255, 255); font-size: 12pt; font-family: helvetica, arial, sans-serif; color: rgb(51, 51, 51);">
 
 * 
 * Tax payments
