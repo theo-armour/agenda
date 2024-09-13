@@ -10,23 +10,23 @@
 
 * ?
 
-* Nicole Smith
+* 
 
 * Walkers: return labels
-
-* 
 
 ## SOON
 
 * ?
 
-* Urinalysis issues
+* Aaron
 
-* Blood press
+* Ronan
 
-* Taxes
+* Santani
 
-* SquareSpace
+* Joel
+
+* Marty Party
 
 * ++
 
@@ -36,10 +36,13 @@ Thinking
 
 * Dan E: triads &amp; AI&nbsp;
 
-* Awesome Foundation ~ Wed
+* Nicole Smith
 
 * Granucci: upload
 
+* Kattah
+* Randy Morgan
+* Mike M
 * ++
 
 ***
@@ -100,7 +103,6 @@ Waiting
 * Kattah: GitHub suggestions
 * Kattah: Endiatx
 * Kattah: citrucel
-* PPH: Gary: Fishy urine
 * PT: "up with the good, down with the bad."&nbsp;
 * Health: meds list
 * Daniel B: questions: any prep
@@ -257,7 +259,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
@@ -322,7 +324,7 @@ September&nbsp;
 * MorCen: 3D scan
 * MorCen: roses PDF
 * MorCen: Fundraisers
-* Cindy + D
+* Cindy + Michele
 * Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
 
@@ -394,7 +396,7 @@ EIR
 
 ***
 
-<details>
+<details open="">
 
 <summary>projects</summary>
 
