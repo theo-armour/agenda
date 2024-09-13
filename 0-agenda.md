@@ -397,7 +397,7 @@ EIR
 
 ***
 
-<details>
+<details open="">
 
 <summary>projects</summary>
 
