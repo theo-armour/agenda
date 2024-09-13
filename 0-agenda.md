@@ -12,7 +12,7 @@
 
 * Walkers: return labels
 
-* SacSem news
+* 
 
 * 
 
@@ -24,7 +24,7 @@
 
 * Ronan
 
-* Santaoin
+* Santani
 
 * Joel
 
