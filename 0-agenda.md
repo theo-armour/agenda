@@ -108,8 +108,6 @@ Waiting
 * Kattah: GitHub suggestions
 * Kattah: Endiatx
 * Kattah: citrucel
-* 
-
 * PT: "up with the good, down with the bad."&nbsp;
 * Health: meds list
 * Daniel B: questions: any prep
