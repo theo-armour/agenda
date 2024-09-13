@@ -10,6 +10,8 @@
 
 * ?
 
+* Tax payments
+
 * Walkers: return labels
 
 ## SOON
@@ -25,8 +27,6 @@
 * Joel
 
 * Marty Party
-
-* Tax payments
 
 * ++
 
@@ -60,7 +60,7 @@ Thinking
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
@@ -90,7 +90,7 @@ Waiting
 
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
