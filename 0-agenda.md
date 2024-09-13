@@ -10,7 +10,7 @@
 
 * ?
 
-* Tax payments
+* 
 
 * Walkers: return labels
 
