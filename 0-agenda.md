@@ -60,7 +60,7 @@ Thinking
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
@@ -261,7 +261,7 @@ Waiting
 
 <summary>Heritage</summary>
 
-<details>
+<details open="">
 
 <summary>Heritage Happenings</summary>
 
@@ -322,7 +322,7 @@ September&nbsp;
 * MorCen: 3D scan
 * MorCen: roses PDF
 * MorCen: Fundraisers
-* Cindy + D
+* Cindy + Michele
 * Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
 
