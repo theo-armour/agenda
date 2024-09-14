@@ -30,7 +30,7 @@
 
 Thinking
 
-* Randy + Patrick: EIR
+* RandyG + Patrick: EIR
 
 * Bennet: HotM
 
@@ -41,9 +41,13 @@ Thinking
 * Granucci: upload
 
 * Kattah
+
 * Randy Morgan
+
 * Mike M
+
 * Sensay
+
 * ++
 
 ***
