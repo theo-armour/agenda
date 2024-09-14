@@ -10,13 +10,15 @@
 
 * ?
 
-* Walkers: return labels
+* Walkers: work order + return labels
 
 * 
 
 ## SOON
 
 * ?
+
+* He: paperwork
 
 * Aaron ~ sunday?
 
