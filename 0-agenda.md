@@ -18,6 +18,8 @@
 
 * ?
 
+* PLE: monday lunch?
+
 * He: paperwork
 
 * Aaron ~ sunday?
