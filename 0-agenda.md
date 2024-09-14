@@ -18,6 +18,8 @@
 
 * ?
 
+* HH: meeting
+
 * PLE: monday lunch?
 
 * He: paperwork
