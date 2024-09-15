@@ -20,7 +20,7 @@
 
 * HH: meeting
 
-* He: paperwork
+* 
 
 * Aaron ~ sunday?
 
