@@ -44,7 +44,7 @@ Thinking
 
 * Nicole Smith
 
-* Granucci: upload
+* 
 
 * Kattah
 
