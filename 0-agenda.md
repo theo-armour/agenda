@@ -10,6 +10,10 @@
 
 * ?
 
+* Nicole Smith
+
+* RandyG + Patrick: EIR
+
 * 
 
 ## SOON
@@ -28,13 +32,11 @@
 
 Thinking
 
-* RandyG + Patrick: EIR
-
 * Bennet: HotM
 
-* Dan E: triads &amp; AI&nbsp;
+* Alex:&nbsp;
 
-* Nicole Smith
+* Dan E: triads &amp; AI&nbsp;
 
 * Kattah
 
@@ -43,6 +45,8 @@ Thinking
 * Mike M
 
 * Sensay ~ audiopen
+
+* Daniel B: arm joints
 
 * ++
 
