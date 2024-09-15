@@ -10,6 +10,10 @@
 
 * ?
 
+* Nicole Smith
+
+* RandyG + Patrick: EIR
+
 * 
 
 ## SOON
@@ -28,13 +32,11 @@
 
 Thinking
 
-* RandyG + Patrick: EIR
-
 * Bennet: HotM
 
-* Dan E: triads &amp; AI&nbsp;
+* Alex:&nbsp;
 
-* Nicole Smith
+* Dan E: triads &amp; AI&nbsp;
 
 * Kattah
 
@@ -43,6 +45,10 @@ Thinking
 * Mike M
 
 * Sensay ~ audiopen
+
+* Daniel B: arm joints
+
+* Ship Smart
 
 * ++
 
@@ -55,7 +61,7 @@ Thinking
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
-* Schedule tax payments
+* 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 
@@ -72,10 +78,8 @@ Thinking
 * ?
 * W:&nbsp;
 * S: wine ~ Chia seeds
-* A: return walkers
 * John King ~ The Portal book
 * Canon cartridge: mailboxes
-* Superhexa: goodwill
 * Agendas: Initiate list of happy things to do
 * Agendas: Initiate: not to do list
 
@@ -100,6 +104,8 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
 * Dr Yun
+* Dr Han
+* Ortho Institute
 * Kattah: prep
 * Kattah: GitHub suggestions
 * Kattah: Endiatx
@@ -260,7 +266,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
