@@ -10,23 +10,17 @@
 
 * ?
 
-* Walkers: work order + return labels
-
 * 
 
 ## SOON
 
 * ?
 
-* PLE: monday lunch?
-
-* He: paperwork
+* HH: meeting
 
 * Aaron ~ sunday?
 
 * Ronan
-
-* Santani
 
 * Joel
 
@@ -42,15 +36,13 @@ Thinking
 
 * Nicole Smith
 
-* Granucci: upload
-
 * Kattah
 
 * Randy Morgan
 
 * Mike M
 
-* Sensay
+* Sensay ~ audiopen
 
 * ++
 
