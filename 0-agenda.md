@@ -76,10 +76,12 @@ Thinking
 * ?
 * W:&nbsp;
 * S: wine ~ Chia seeds
-* A: return walkers
+* 
+
 * John King ~ The Portal book
 * Canon cartridge: mailboxes
-* Superhexa: goodwill
+* 
+
 * Agendas: Initiate list of happy things to do
 * Agendas: Initiate: not to do list
 
