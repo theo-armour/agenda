@@ -52,7 +52,7 @@ Thinking
 
 ***
 
-<details open="">
+<details>
 
 <summary>Admin</summary>
 
@@ -67,7 +67,7 @@ Thinking
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
