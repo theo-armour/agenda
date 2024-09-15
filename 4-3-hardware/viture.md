@@ -7,12 +7,17 @@
 * https://www.viture.com/dashboard?scene=faq
 * https://discord.com/channels/978805270841008180/1064001029148000309
 * https://linktr.ee/viture
+* bhttps://academy.viture.com/xr_glasses/introduction
 
 ## links
 
 * https://www.reddit.com/r/VITURE/
 * https://www.reddit.com/r/VITURE/comments/1espkk1/spacewalker_on_windows_not_as_smooth_as_mac/
 https://new.reddit.com/r/VITURE/comments/1dw20wi/the_moment_weve_all_been_waiting_for_spacewalker/
+
+## Get started
+
+& Plug it into a device
 
 ## Issues
 
