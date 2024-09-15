@@ -266,7 +266,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
@@ -403,7 +403,7 @@ EIR
 
 ***
 
-<details open="">
+<details>
 
 <summary>projects</summary>
 
