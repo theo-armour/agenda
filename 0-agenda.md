@@ -67,7 +67,7 @@ Thinking
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
@@ -76,12 +76,8 @@ Thinking
 * ?
 * W:&nbsp;
 * S: wine ~ Chia seeds
-* 
-
 * John King ~ The Portal book
 * Canon cartridge: mailboxes
-* 
-
 * Agendas: Initiate list of happy things to do
 * Agendas: Initiate: not to do list
 
