@@ -48,6 +48,8 @@ Thinking
 
 * Daniel B: arm joints
 
+* Ship Smart
+
 * ++
 
 ***
