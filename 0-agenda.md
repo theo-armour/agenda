@@ -10,6 +10,8 @@
 
 * ?
 
+* i v stone: socrates
+
 * Nicole Smith
 
 * RandyG + Patrick: EIR
