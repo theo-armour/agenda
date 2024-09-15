@@ -10,13 +10,13 @@
 
 * ?
 
-* IF Stone: socrates
-
-* Nicole Smith
+* Closet: tidy
 
 * RandyG + Patrick: EIR
 
-* 
+* Nicole Smith: PDF
+
+* Tidy Notes
 
 ## SOON
 
@@ -71,7 +71,7 @@ Thinking
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
