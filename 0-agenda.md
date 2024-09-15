@@ -10,7 +10,9 @@
 
 * ?
 
-* 
+* Isabelle
+
+* sfhistoric
 
 * 
 
@@ -19,8 +21,6 @@
 * ?
 
 * HH: meeting
-
-* 
 
 * Aaron ~ sunday?
 
