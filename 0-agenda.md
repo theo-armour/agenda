@@ -80,6 +80,7 @@ Thinking
 * ?
 * W:&nbsp;
 * S: wine ~ Chia seeds
+* A: Esomeprazole ~ centrum silver vitamins&nbsp;
 * John King ~ The Portal book
 * Canon cartridge: mailboxes
 * Agendas: Initiate list of happy things to do
