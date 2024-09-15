@@ -104,6 +104,8 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
 * Dr Yun
+* Dr Han
+* Ortho Institute
 * Kattah: prep
 * Kattah: GitHub suggestions
 * Kattah: Endiatx
@@ -160,7 +162,7 @@ Waiting
 
 ***
 
-<details>
+<details open="">
 
 <summary>ACE IT</summary>
 
