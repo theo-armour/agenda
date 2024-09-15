@@ -20,7 +20,7 @@
 
 * HH: meeting
 
-* PLE: monday lunch?
+* 
 
 * He: paperwork
 
@@ -44,15 +44,13 @@ Thinking
 
 * Nicole Smith
 
-* 
-
 * Kattah
 
 * Randy Morgan
 
 * Mike M
 
-* Sensay
+* Sensay ~ audiopen
 
 * ++
 
