@@ -162,7 +162,7 @@ Waiting
 
 ***
 
-<details open="">
+<details>
 
 <summary>ACE IT</summary>
 
@@ -266,7 +266,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
