@@ -10,7 +10,7 @@
 
 * ?
 
-* i v stone: socrates
+* IF Stone: socrates
 
 * Nicole Smith
 
@@ -405,7 +405,7 @@ EIR
 
 ***
 
-<details>
+<details open="">
 
 <summary>projects</summary>
 
