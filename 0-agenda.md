@@ -44,8 +44,6 @@ Thinking
 
 * Sensay ~ audiopen
 
-* Daniel B: arm joints
-
 * Ship Smart
 
 * ++
@@ -102,7 +100,9 @@ Waiting
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
-* Martha N: Pharmacy appl
+* Vada + Martha N: Pharmacy appl
+* Daniel B: arm joints
+
 * Dr Yun
 * Dr Han
 * Ortho Institute
