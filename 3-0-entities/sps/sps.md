@@ -1,7 +1,7 @@
 
 # SPS / Pelicans
 
-* S.P.S. Alumni Discussion Group ~ https://www.face
+* S.P.S. Alumni Discussion Group ~ 
 
 * http://www.sps65.com/
 * https://groups.google.com/g/sps65
@@ -15,6 +15,8 @@ SPS
 * https://www.instagram.com/stpaulsschoolnh/
 * https://lnk.bio/spsnh
 * https://www.linkedin.com/school/stpaulschool/
+
+
 
 ## 2024-07-06
 
