@@ -10,8 +10,6 @@
 
 * ?
 
-* HH: meeting
-
 * Closet: tidy
 
 * RandyG + Patrick: EIR
