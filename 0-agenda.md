@@ -24,8 +24,6 @@
 
 * ?
 
-* 
-
 * Aaron ~ sunday?
 
 * Joel
