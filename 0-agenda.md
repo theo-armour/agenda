@@ -10,6 +10,8 @@
 
 * ?
 
+* HH: meeting
+
 * Closet: tidy
 
 * RandyG + Patrick: EIR
@@ -22,7 +24,7 @@
 
 * ?
 
-* HH: meeting
+* 
 
 * Aaron ~ sunday?
 
