@@ -10,13 +10,13 @@
 
 * ?
 
-* i v stone: socrates
-
-* Nicole Smith
+* Closet: tidy
 
 * RandyG + Patrick: EIR
 
-* 
+* Nicole Smith: PDF
+
+* Tidy Notes
 
 ## SOON
 
@@ -79,7 +79,8 @@ Thinking
 
 * ?
 * W:&nbsp;
-* S: wine ~ Chia seeds
+* S: Esomeprazole ~ centrum silver vitamins ~ wine ~ Chia seeds
+* A:&nbsp;
 * John King ~ The Portal book
 * Canon cartridge: mailboxes
 * Agendas: Initiate list of happy things to do
@@ -99,12 +100,13 @@ Waiting
 
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
+* Martha N: Pharmacy appl
 * Dr Yun
 * Dr Han
 * Ortho Institute
@@ -412,6 +414,8 @@ EIR
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
+* Reading: I F Stone: socrates &gt; Doris
+
 * GH &gt; HH: add HH/private repo
 * GH &gt; ta/reference &gt; update?
 
