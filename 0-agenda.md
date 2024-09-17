@@ -12,8 +12,6 @@
 
 * Closet: tidy
 
-* 
-
 * Nicole Smith: PDF
 
 * Tidy Notes
@@ -21,8 +19,6 @@
 ## SOON
 
 * ?
-
-* Aaron ~ sunday?
 
 * Joel
 
