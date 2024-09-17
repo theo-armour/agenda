@@ -12,7 +12,7 @@
 
 * Closet: tidy
 
-* RandyG + Patrick: EIR
+* 
 
 * Nicole Smith: PDF
 
@@ -101,20 +101,33 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
 * Vada + Martha N: Pharmacy appl
+
 * Daniel B: arm joints
 
 * Dr Yun
+
 * Dr Han
+
 * Ortho Institute
+
 * Kattah: prep
+
 * Kattah: GitHub suggestions
+
 * Kattah: Endiatx
+
 * Kattah: citrucel
+
 * PT: "up with the good, down with the bad."&nbsp;
+
 * Health: meds list
+
 * Daniel B: questions: any prep
+
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
+
 * Scapulas back and down 10 times - six sessions a day
+
 * Calculate: calcium, protein and fiber in my diet
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
