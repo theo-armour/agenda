@@ -92,7 +92,6 @@ The draft omits three significant historic resources that are adjacent to the pr
 ### George R Moscone Recreation Center
 
 * Visible from the project site
-* Completed in 1924 ~ Also in a Tudor Revival style
 * https://en.wikipedia.org/wiki/Moscone_Recreation_Center
 * https://www.sfheritage.org/news/moscone-field-house-one-mayors-playground/
 
@@ -102,7 +101,9 @@ The draft omits three significant historic resources that are adjacent to the pr
 * https://www.sfheritage.org/news/sf-gas-light-building-the-marinas-industrial-past/
 * http://www.sfmuseum.org/hist7/gaslight.html
 * https://noehill.com/sf/landmarks/sf058.asp
-
+* https://www.sfchronicle.com/bayarea/article/In-the-Marina-a-stocky-castle-with-a-story-to-6366483.php
+* https://www.christies.com/en/lot/lot-5617344
+* https://pacunionpartners.com/legacy
 
 ### 3320 Baker Street
 
