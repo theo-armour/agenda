@@ -1,49 +1,31 @@
 # TheoMotto
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
-
 * ++
 * 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities. ~&nbsp;
 * 2024-09-09 Andranik: "Working on Positive impact AI models"
 
 ## Today
-
 * ?
-
 * Closet: tidy
-
 * Nicole Smith: PDF
-
 * Tidy Notes
 
 ## SOON
-
 * ?
-
 * Joel
-
 * ++
 
 Thinking
-
 * Bennet: HotM
-
 * Alex:&nbsp;
-
 * Dan E: triads &amp; AI
-
 * Kattah
-
 * Randy Morgan
-
 * Mike M
-
 * Sensay ~ audiopen
-
 * Ship Smart
-
 * ++
-
 ***
 
 <details>
@@ -51,7 +33,6 @@ Thinking
 <summary>Admin</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
-
 * ?
 *
 
@@ -66,7 +47,6 @@ Thinking
 <summary>Personal</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
-
 * ?
 * W:&nbsp;
 * S: Esomeprazole ~ centrum silver vitamins ~ wine ~ Chia seeds
@@ -77,7 +57,6 @@ Thinking
 * Agendas: Initiate: not to do list
 
 Waiting
-
 * ++
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
@@ -87,7 +66,6 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a>
 
 </details>
-
 ***
 
 <details open="">
@@ -95,45 +73,23 @@ Waiting
 <summary>Health</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
-
-Conceptualizing random endpoints in a access matrix provides reach extensions enterprise wide. Respective divisions historically insignificant, upscale trend lines in a management inventory analysis survivability format.
-
-Document-centric projections unfetter traditional auditing practices rivaling central process management. Advanced functionality, easy administration, proclaim the hallmarks of unprecedented opportunity.
-
 * Vada + Martha N: Pharmacy appl
-
 * Daniel B: arm joints
-
 * Dr Yun
-
 * Dr Han
-
 * Ortho Institute
-
 * Kattah: prep
-
 * Kattah: GitHub suggestions
-
 * Kattah: Endiatx
-
 * Kattah: citrucel
-
 * PT: "up with the good, down with the bad."&nbsp;
-
 * Health: meds list
-
 * Daniel B: questions: any prep
-
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
-
 * Scapulas back and down 10 times - six sessions a day
-
 * Calculate: calcium, protein and fiber in my diet
-
-Iteration system wide engenders economies of scale, cross-media technology, presentation action items and life cycle replication.
-
-Enterprise engenderment accelerates initiative platforms, reducing staffing components, integration of technical accessibility, resulting in bottom line pluralisms, benefit-wise. Incidental re-sizing staff requirements through attrition can be accelerated by paradigm shifts and focusing on core suitability and cross-training.
-
+* try
+* 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
 
@@ -162,7 +118,6 @@ Enterprise engenderment accelerates initiative platforms, reducing staffing comp
 <summary>Simplicity</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
-
 * Bennet: looking for help
 * NextDoor/Village: handyman
 * Simplicity: shipping update: shipsmart + Enclosures
@@ -177,7 +132,6 @@ Enterprise engenderment accelerates initiative platforms, reducing staffing comp
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a>
 
 </details>
-
 ***
 
 <details>
@@ -185,7 +139,6 @@ Enterprise engenderment accelerates initiative platforms, reducing staffing comp
 <summary>ACE IT</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
-
 * Marie-so: wedding
 * Eloise: Bee Memorial ~ Cynthia Chase visits
 * ace-it+: exhibit report
@@ -193,13 +146,11 @@ Enterprise engenderment accelerates initiative platforms, reducing staffing comp
 * ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a>
-
 * Ruth Weston
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a>
-
 * Newport
 
 </details>
@@ -217,7 +168,6 @@ Enterprise engenderment accelerates initiative platforms, reducing staffing comp
 <summary>Peeps</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
-
 * 2am
 * Mike Marean: zoom&nbsp;
 * Ray Eisenberg
@@ -235,7 +185,6 @@ Enterprise engenderment accelerates initiative platforms, reducing staffing comp
 * Visit the doyles with Jane
 
 </details>
-
 ***
 
 <details>
@@ -245,13 +194,9 @@ Enterprise engenderment accelerates initiative platforms, reducing staffing comp
 <details>
 
 <summary>sensay</summary>
-
 * Sensay: replica
-
 * Sensay: Dan + Marco
-
 * SenSay: Read Dan's book
-
 * Sensay: Life Review
 
 </details>
@@ -259,7 +204,6 @@ Enterprise engenderment accelerates initiative platforms, reducing staffing comp
 <details>
 
 <summary>sacsem</summary>
-
 * Sacsem: Dick news ~ Clay tapes
 * SacSem: Download Dennis' CJ files
 * SacSem: CC to three: cancel
@@ -273,7 +217,6 @@ Enterprise engenderment accelerates initiative platforms, reducing staffing comp
 <details>
 
 <summary>sps </summary>
-
 * sps:
 * SPS: Randy
 * Rob &amp; José: 3pm
@@ -293,47 +236,29 @@ Enterprise engenderment accelerates initiative platforms, reducing staffing comp
 <summary>Heritage Happenings</summary>
 
 October&nbsp;September&nbsp;
-
 * birthday list
-
 * Men's group
 
 September&nbsp;
-
 * HH: Scams ~ EIR ~ Touchtown
-
 * HH: Nienke + Fort Mason ~&nbsp;
-
 * Mary Liz: Grassfed ~ India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
-
 * Til: photo&nbsp;
-
 * Hector: projects
-
 * Marketing: Ads ~ links
-
 * HH: Tucker ~ finish
-
 * HH: Grassfed ~ Photo + Joe M: not last puppy?
-
 * HH: Granucci + Mia ~ read some text
-
 * Doris: Moghul
-
 * Martha Nell: India
-
 * Martha Nell Books:
-
 * Patrick: Jokes
-
 * Sheila: India
-
 * Trish: ?
 
 </details>
 
 ## Residents directory:&nbsp;
-
 * HH: talk to Praveen
 * Praveen: ditch HH Calendar
 * Happenings: Audio version
@@ -342,7 +267,6 @@ September&nbsp;
 * Waymo
 
 ## Morgan Centenary
-
 * jking@sfchronicle.com; Twitter: <a href="https://github.com/johnkingsfchron">@johnkingsfchron</a>
 * MorCen: Masg to dirs: constituencies ~ funds ~ history&nbsp;
 * MorCen: Tom Jones
@@ -354,13 +278,11 @@ September&nbsp;
 * Morgan Centenary: Patti ~ Margaret Ja
 
 EIR
-
 * Heritage: EIR Hearing 09/26
 * Patrick &amp; Mary: EIR
 * Randy: EIR strategy?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
-
 * ?
 * Party for Marty
 * Jon Casey Touchtown Czar?
@@ -380,11 +302,9 @@ EIR
 * House Committee: Bledsoe
 
 ## Invoices
-
 * February: $94.00
 
 ## Agenda
-
 * What demos could I give? What do I want to show? What might people want to see?
 * Patrick: Ange Appreciation documents
 * AnneM: Evanston house in Birth of a Nation
@@ -418,7 +338,6 @@ EIR
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a>
 
 </details>
-
 ***
 
 <details>
@@ -426,35 +345,25 @@ EIR
 <summary>projects</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
-
 * ++
-
 * Reading: I F Stone: socrates &gt; Doris
-
 * GH &gt; HH: add HH/private repo
-
 * GH &gt; ta/reference &gt; update?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations</a>
-
 * tess: kiosk software
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">repos</a>
-
 * ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
-
 * ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
-
 * ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
-
 * ++
-
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-reminders.md&quot;">Reminders</a>
