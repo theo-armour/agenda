@@ -15,7 +15,7 @@
 
 ## SOON
 * ?
-* Mia:helper
+* Mia: helper
 * Joel
 * ++
 
