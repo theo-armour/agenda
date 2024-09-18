@@ -21,7 +21,7 @@
 
 Thinking
 * Bennet: HotM
-* Alex:&nbsp;
+* Alex P:&nbsp;
 * Dan E: triads &amp; AI
 * Kattah
 * Randy Morgan
