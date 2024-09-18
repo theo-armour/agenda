@@ -1,24 +1,29 @@
 # TheoMotto
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
+
 * ++
-* 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities. ~&nbsp;
+* 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.
 * 2024-09-09 Andranik: "Working on Positive impact AI models"
+* 2024-09-17 Bambi's Thumper: "If you can't say something nice, don't say nothing at all."
 
 ## Today
+
 * ?
 * Closet: tidy
 * Nicole Smith: PDF
 * Tidy Notes
 
 ## SOON
+
 * ?
 * Joel
 * ++
 
 Thinking
+
 * Bennet: HotM
-* Alex:&nbsp;
+* Alex:
 * Dan E: triads &amp; AI
 * Kattah
 * Randy Morgan
@@ -26,6 +31,7 @@ Thinking
 * Sensay ~ audiopen
 * Ship Smart
 * ++
+
 ***
 
 <details>
@@ -33,6 +39,7 @@ Thinking
 <summary>Admin</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
+
 * ?
 *
 
@@ -47,6 +54,7 @@ Thinking
 <summary>Personal</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
+
 * ?
 * W:&nbsp;
 * S: Esomeprazole ~ centrum silver vitamins ~ wine ~ Chia seeds
@@ -73,6 +81,8 @@ Waiting
 <summary>Health</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
+
+* ?
 * Vada + Martha N: Pharmacy appl
 * Daniel B: arm joints
 * Dr Yun
@@ -89,7 +99,7 @@ Waiting
 * Scapulas back and down 10 times - six sessions a day
 * Calculate: calcium, protein and fiber in my diet
 * try
-* 
+*
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
 
