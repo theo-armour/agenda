@@ -8,9 +8,7 @@
 
 ## Today
 * ?
-* 
-* 
-* * Closet: tidy
+* Closet: tidy
 * Nicole Smith: PDF
 * Tidy Notes
 
