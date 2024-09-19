@@ -4,23 +4,24 @@
 * ++
 * 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities. ~&nbsp;
 * 2024-09-09 Andranik: "Working on Positive impact AI models"
+* 2024-09-17: Bambi's Thumper:&nbsp;"If you can't say something nice, don't say nothing at all"
 
 ## Today
 * ?
-* HH: agenda
+* 
 * Closet: tidy
 * Nicole Smith: PDF
 * Tidy Notes
 
 ## SOON
 * ?
-* Mia:helper
+* Mia: helper
 * Joel
 * ++
 
 Thinking
 * Bennet: HotM
-* Alex:&nbsp;
+* Alex P:&nbsp;
 * Dan E: triads &amp; AI
 * Kattah
 * Randy Morgan
@@ -70,13 +71,13 @@ Waiting
 </details>
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 * Vada + Martha N: Pharmacy appl
-* Daniel B: arm joints
+* Daniel B: arm joints + adafruit
 * Dr Yun
 * Dr Han
 * Ortho Institute
