@@ -15,7 +15,7 @@
 
 ## SOON
 * ?
-* 
+* Ronan: intro text
 * ++
 
 Thinking
@@ -172,6 +172,7 @@ Waiting
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 * 2am
+* Ronan: PLE ~ endiatx ~ jason ~ intro text
 * Mike Marean: zoom&nbsp;
 * Ray Eisenberg
 * Tim Child
