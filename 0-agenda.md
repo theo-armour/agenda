@@ -8,7 +8,7 @@
 
 ## Today
 * ?
-* Vada + Martha N: Pharmacy appl
+* 
 * 
 * * Closet: tidy
 * Nicole Smith: PDF
