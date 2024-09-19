@@ -80,7 +80,6 @@ Waiting
 * 
 * Daniel B: arm joints + adafruit
 * Dr Yun
-* 
 * Ortho Institute
 * Kattah: prep
 * Kattah: GitHub suggestions
