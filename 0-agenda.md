@@ -5,6 +5,7 @@
 * 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities. ~&nbsp;
 * 2024-09-09 Andranik: "Working on Positive impact AI models"
 * 2024-09-17: Bambi's Thumper:&nbsp;"If you can't say something nice, don't say nothing at all"
+* 
 
 ## Today
 * ?
