@@ -8,7 +8,7 @@
 
 ## Today
 * ?
-* HH: agenda
+* 
 * Closet: tidy
 * Nicole Smith: PDF
 * Tidy Notes
