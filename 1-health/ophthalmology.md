@@ -37,7 +37,7 @@ See eyes.md
 * Appointment January 25 2023 @ 3
 * Last appointment 2021-09-27
 
-### Han, Ying, MD ~ Ophthalmology ~ (415) 353-2800
+### Han, Ying, MD ~ Ophthalmology ~ (415) 353-2800 ~ 1 ~ 5 ~ 3
 
 * 533 Parnassus avenue / 5th floor ~ UCSF
 

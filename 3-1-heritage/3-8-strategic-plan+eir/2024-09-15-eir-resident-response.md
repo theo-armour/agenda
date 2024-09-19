@@ -82,14 +82,24 @@ N/A
 
 ## Character-Defining Features15 ~ p3.B-15
 
-* Terra Cotta details with representaions of a Tudor rose—a symbol of love—evident in twelve different manners (or more) and in dozens of locations throughout the building
+* Terra Cotta details with representations of a Tudor rose—a symbol of love—evident in twelve different manners (or more) and in dozens of locations throughout the building
 * Unencumbered, undecorated reinforced concrete structure evident in the main lobby
 
 ## Adjacent Historic Architectural Resources ~ p3.B-21
 
+### Page & Turnbull
+
 * https://www.page-turnbull.com/
 * 415-362-5154
+* Page and Turnbull. 2023. 3400 Laguna Street Historic Resource Evaluation, Part 1 – Revised, Prepared for the San
+Francisco Planning Department. February 16.
+15
+Character-defining features are essential physic
+
+### Links
+
 * https://commissions.sfplanning.org/hpcpackets/2010.2776.pdf
+* https://www.hmdb.org/
 
 ### Adjacent Historic Architectural Resources
 According to the HRR,17 the project site is in the Marina neighborhood. Across Laguna Street to the
@@ -122,14 +132,26 @@ The draft omits three significant historic resources that are adjacent to the pr
 
 ### Galileo High School
 
-
 * 1921 & 1925
 * John Reid Jr
 
 ### Ghiradelii Square
 
 * 1890
+* French Gothic
+* Industrial brick
 
+### Front gardens
+
+Structures in San Francisco with extensive front gardens are rare. The Julia Morgan Building has a front garden that is a significant feature of the building
+
+
+### Comparables
+
+Private premises with a front garden entirely visible to the public extending to the entire length of the block
+
+* Pacific Union Club
+* Mary Ellen Pleasant Memorial Park ~ https://www.foundsf.org/index.php?title=Mary_Ellen_Pleasant
 
 
 ### 3320 Baker Street
