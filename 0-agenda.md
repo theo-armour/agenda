@@ -10,11 +10,12 @@
 * ?
 * Closet: tidy
 * Nicole Smith: PDF
+* Joel
 * Tidy Notes
 
 ## SOON
 * ?
-* Joel
+* 
 * ++
 
 Thinking
@@ -46,7 +47,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
