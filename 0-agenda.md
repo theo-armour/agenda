@@ -23,7 +23,6 @@ Thinking
 * Alex P:&nbsp;
 * Dan E: triads &amp; AI
 * Kattah
-* 
 * Mike M
 * Sensay ~ audiopen
 * Ship Smart
