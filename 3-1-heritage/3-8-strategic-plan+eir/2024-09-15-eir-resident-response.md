@@ -85,13 +85,28 @@ N/A
 * Terra Cotta details with representaions of a Tudor rose—a symbol of love—evident in twelve different manners (or more) and in dozens of locations throughout the building
 * Unencumbered, undecorated reinforced concrete structure evident in the main lobby
 
-## Adjacent Historic Architectural Resources
+## Adjacent Historic Architectural Resources ~ p3.B-21
+
+* https://www.page-turnbull.com/
+* 415-362-5154
+* https://commissions.sfplanning.org/hpcpackets/2010.2776.pdf
+
+### Adjacent Historic Architectural Resources
+According to the HRR,17 the project site is in the Marina neighborhood. Across Laguna Street to the
+west, the 3400 Laguna Street property faces the Moscone Recreation Center that contains the article 10 designated Marina Branch Library and the California Register-eligible Funston bleachers that are identified as contributors to the discontiguous Midcentury Recreation historic district. In addition, the Fort Mason historic district is located to the north of the proposed project. The 3400 Laguna Street property, which is the proposed project site, occupies the western half of a residential block situated
+between Laguna and Octavia streets. The following is a brief description of the historic resources near the project site:
+
+
+* Marina Branch Library ~ Mid-century modern
+* Funston Bleachers
+* Fort Mason Historic District
 
 The draft omits three significant historic resources that are adjacent to the project site that have much similarity to the Julia Morgan Building—unlike most of the other Art Deco buildings in the Marina District. These are:
 
 ### George R Moscone Recreation Center
 
 * Visible from the project site
+* John Reid Jr, 1924
 * https://en.wikipedia.org/wiki/Moscone_Recreation_Center
 * https://www.sfheritage.org/news/moscone-field-house-one-mayors-playground/
 
@@ -105,10 +120,23 @@ The draft omits three significant historic resources that are adjacent to the pr
 * https://www.christies.com/en/lot/lot-5617344
 * https://pacunionpartners.com/legacy
 
+### Galileo High School
+
+
+* 1921 & 1925
+* John Reid Jr
+
+### Ghiradelii Square
+
+* 1890
+
+
+
 ### 3320 Baker Street
 
 * https://www.sfheritage.org/heritage-in-the-neighborhoods/trailblazing-reporter-called-marina-district-home/
 * Julia Morgan 1927
+
 
 ## 3.B.5 Impacts and Mitigation Measures
 
