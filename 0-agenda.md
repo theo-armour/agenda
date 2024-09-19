@@ -8,9 +8,9 @@
 
 ## Today
 * ?
-* Page &amp; Turnbull ~&nbsp;415-362-5154
+* Vada + Martha N: Pharmacy appl
 * 
-* Closet: tidy
+* * Closet: tidy
 * Nicole Smith: PDF
 * Tidy Notes
 
@@ -28,6 +28,7 @@ Thinking
 * Mike M
 * Sensay ~ audiopen
 * Ship Smart
+* Page &amp; Turnbull ~&nbsp;415-362-5154
 * ++
 ***
 
@@ -71,15 +72,15 @@ Waiting
 </details>
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
-* Vada + Martha N: Pharmacy appl
+* 
 * Daniel B: arm joints + adafruit
 * Dr Yun
-* Dr Han
+* 
 * Ortho Institute
 * Kattah: prep
 * Kattah: GitHub suggestions
