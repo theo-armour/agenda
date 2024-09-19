@@ -54,10 +54,9 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 * ?
 * W:&nbsp;
-* S: Esomeprazole ~ centrum silver vitamins ~ wine ~ Chia seeds
+* S: centrum silver vitamins ~ wine ~ Chia seeds
 * A:&nbsp;
 * John King ~ The Portal book
-* Canon cartridge: mailboxes
 * Agendas: Initiate list of happy things to do
 * Agendas: Initiate: not to do list
 
@@ -167,7 +166,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Peeps</summary>
 
