@@ -2,11 +2,12 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 * ++
-* 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities. ~&nbsp;
+* 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities
 * 2024-09-09 Andranik: "Working on Positive impact AI models"
 * 2024-09-17: Bambi's Thumper:&nbsp;"If you can't say something nice, don't say nothing at all"
 
 ## Today
+
 * ?
 * Closet: tidy
 * Nicole Smith: PDF
@@ -14,6 +15,7 @@
 * Tidy Notes
 
 ## SOON
+
 * ?
 * Drink a Mai Tai
 * John King ~ The Portal book
@@ -21,6 +23,7 @@
 * ++
 
 Thinking
+
 * Kattah
 * Ship Smart
 * Bennet: HotM
@@ -30,6 +33,7 @@ Thinking
 * Sensay ~ audiopen ~ seo
 
 Waiting
+
 * Page &amp; Turnbull ~&nbsp;415-362-5154
 * ++
 ***
@@ -39,6 +43,7 @@ Waiting
 <summary>Admin</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
+
 * ?
 *
 
@@ -53,6 +58,7 @@ Waiting
 <summary>Personal</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
+
 * ?
 * W:&nbsp;
 * S: centrum silver vitamins ~ wine ~ Chia seeds
@@ -61,6 +67,7 @@ Waiting
 * Agendas: Initiate: not to do list
 
 Waiting
+
 * ++
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
@@ -70,6 +77,7 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a>
 
 </details>
+
 ***
 
 <details>
