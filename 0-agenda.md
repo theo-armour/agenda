@@ -11,21 +11,18 @@
 
 * ?
 * Nicole Smith: PDF
-* Joel
+* Joel:&nbsp;* SacSem: Jon Rubin &gt; angie&nbsp;
 * ++
 
 ## SOON
 
 * ?
-* Drink a Mai Tai
-* John King ~ The Portal book
-* SacSem: Jon Rubin &gt; angie&nbsp;
-* ++
-
-Thinking
 
 * Kattah
 * Ship Smart
+
+Thinking
+
 * Bennet: HotM
 * Alex P:&nbsp;
 * Dan E: triads &amp; AI
@@ -64,7 +61,7 @@ Waiting
 * ?
 * W:&nbsp;
 * S: ?? ~ Chia seeds
-* A:
+* A:* John King ~ The Portal book
 
 Waiting
 
