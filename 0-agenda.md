@@ -71,27 +71,24 @@ Waiting
 </details>
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
-* 
-* Daniel B: arm joints + adafruit
 * Dr Yun
+* Daniel B: arm joints + adafruit
 * Ortho Institute
 * Kattah: prep
 * Kattah: GitHub suggestions
 * Kattah: Endiatx
 * Kattah: citrucel
-* PT: "up with the good, down with the bad."&nbsp;
 * Health: meds list
 * Daniel B: questions: any prep
+* PT: "up with the good, down with the bad."&nbsp;
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
 * Scapulas back and down 10 times - six sessions a day
 * Calculate: calcium, protein and fiber in my diet
-* try
-* 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
 
@@ -99,9 +96,9 @@ Waiting
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/gastroenterology.md&quot;">gastroenterology</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/ophthalmology.md&quot;">ophthalmology</a> ~ call first week September
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/ophthalmology.md&quot;">ophthalmology</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">pph</a>&nbsp;~ august appointment change
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">pph</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-history.md&quot;">1.1 Health History</a>
 
