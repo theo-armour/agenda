@@ -237,7 +237,7 @@ Waiting
 
 <details>
 
-<summary>sps </summary>
+<summary>sps</summary>
 
 * sps:
 * SPS: Randy
@@ -257,28 +257,10 @@ Waiting
 
 <summary>Heritage Happenings</summary>
 
-October&nbsp;September&nbsp;
+## October
 
-* birthday list
-* Men's group
 
-September
 
-* HH: Scams ~ EIR ~ Touchtown
-* HH: Nienke + Fort Mason ~&nbsp;
-* Mary Liz: Grassfed ~ India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
-* Til: photo&nbsp;
-* Hector: projects
-* Marketing: Ads ~ links
-* HH: Tucker ~ finish
-* HH: Grassfed ~ Photo + Joe M: not last puppy?
-* HH: Granucci + Mia ~ read some text
-* Doris: Moghul
-* Martha Nell: India
-* Martha Nell Books:
-* Patrick: Jokes
-* Sheila: India
-* Trish: ?
 
 </details>
 
@@ -294,7 +276,7 @@ September
 ## Morgan Centenary
 
 * jking@sfchronicle.com; Twitter: <a href="https://github.com/johnkingsfchron">@johnkingsfchron</a>
-* MorCen: Masg to dirs: constituencies ~ funds ~ history&nbsp;
+* MorCen: Msg to dirs: constituencies ~ funds ~ history&nbsp;
 * MorCen: Tom Jones
 * MorCen: 3D scan
 * MorCen: roses PDF
@@ -306,14 +288,13 @@ September
 ## EIR
 
 * Heritage: EIR Hearing 09/26
-* Patrick &amp; Mary: EIR
 * Randy: EIR strategy?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
 * ?
 * Party for Marty
-* Jon Casey Touchtown Czar?
+* Jon Casey: Touchtown Czar?
 * He martha ~ PPH?
 * H &gt; Men's group: Lord's prayer
 * Heritage: fill in medical form
@@ -335,6 +316,7 @@ September
 
 ## Agenda
 
+* tess: kiosk software
 * What demos could I give? What do I want to show? What might people want to see?
 * Patrick: Ange Appreciation documents
 * AnneM: Evanston house in Birth of a Nation
@@ -384,7 +366,7 @@ September
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations</a>
 
-* tess: kiosk software
+* ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">repos</a>
 
