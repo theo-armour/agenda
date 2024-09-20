@@ -11,13 +11,13 @@
 * 
 * Nicole Smith: PDF
 * Joel
-* Tidy Notes
+* 
 
 ## SOON
 * ?
 * Drink a Mai Tai
 * John King ~ The Portal book
-* SacSem: Jon Rubin &gt;angie&nbsp;
+* SacSem: Jon Rubin &gt; angie&nbsp;
 * ++
 
 Thinking
