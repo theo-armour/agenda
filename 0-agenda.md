@@ -3,9 +3,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities
-* 2024-09-09 Andranik: "Working on Positive impact AI models"
-* 2024-09-17: Bambi's Thumper:&nbsp;"If you can't say something nice, don't say nothing at all"
+* 
 
 ## Today
 
