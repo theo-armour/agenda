@@ -15,18 +15,19 @@
 
 ## SOON
 * ?
-* 
+* Drink a Mai Tai
+* John King ~ The Portal book
+* SacSem: Jon Rubin &gt;angie&nbsp;
 * ++
 
 Thinking
+* Kattah
+* Ship Smart
 * Bennet: HotM
 * Alex P:&nbsp;
 * Dan E: triads &amp; AI
-* Kattah
-* Randy Morgan
 * Mike M
-* Sensay ~ audiopen
-* Ship Smart
+* Sensay ~ audiopen ~ seo
 
 Waiting
 * Page &amp; Turnbull ~&nbsp;415-362-5154
@@ -47,17 +48,15 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 * ?
 * W:&nbsp;
-* S: Esomeprazole ~ centrum silver vitamins ~ wine ~ Chia seeds
+* S: centrum silver vitamins ~ wine ~ Chia seeds
 * A:&nbsp;
-* John King ~ The Portal book
-* Canon cartridge: mailboxes
 * Agendas: Initiate list of happy things to do
 * Agendas: Initiate: not to do list
 
@@ -73,27 +72,24 @@ Waiting
 </details>
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
-* 
-* Daniel B: arm joints + adafruit
 * Dr Yun
+* Daniel B: arm joints + adafruit
 * Ortho Institute
 * Kattah: prep
 * Kattah: GitHub suggestions
 * Kattah: Endiatx
 * Kattah: citrucel
-* PT: "up with the good, down with the bad."&nbsp;
 * Health: meds list
 * Daniel B: questions: any prep
+* PT: "up with the good, down with the bad."&nbsp;
 * UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
 * Scapulas back and down 10 times - six sessions a day
 * Calculate: calcium, protein and fiber in my diet
-* try
-* 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
 
@@ -101,9 +97,9 @@ Waiting
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/gastroenterology.md&quot;">gastroenterology</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/ophthalmology.md&quot;">ophthalmology</a> ~ call first week September
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/ophthalmology.md&quot;">ophthalmology</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">pph</a>&nbsp;~ august appointment change
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">pph</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-history.md&quot;">1.1 Health History</a>
 
@@ -117,7 +113,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Simplicity</summary>
 
@@ -167,12 +163,13 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Peeps</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 * 2am
+* Ronan: PLE ~ endiatx ~ jason ~ intro text
 * Mike Marean: zoom&nbsp;
 * Ray Eisenberg
 * Tim Child
