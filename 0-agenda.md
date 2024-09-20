@@ -46,7 +46,6 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
-
 *
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
@@ -161,13 +160,13 @@ Waiting
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a>
 
-* Ruth Weston
+* ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a>
 
-* Newport
+* ++
 
 </details>
 
@@ -179,7 +178,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Peeps</summary>
 
@@ -262,7 +261,7 @@ October&nbsp;September&nbsp;
 * birthday list
 * Men's group
 
-September&nbsp;
+September
 
 * HH: Scams ~ EIR ~ Touchtown
 * HH: Nienke + Fort Mason ~&nbsp;
@@ -282,7 +281,7 @@ September&nbsp;
 
 </details>
 
-## Residents directory:&nbsp;
+## Residents directory
 
 * HH: talk to Praveen
 * Praveen: ditch HH Calendar
@@ -303,7 +302,7 @@ September&nbsp;
 * Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
 
-EIR
+## EIR
 
 * Heritage: EIR Hearing 09/26
 * Patrick &amp; Mary: EIR
@@ -331,7 +330,7 @@ EIR
 
 ## Invoices
 
-* February: $94.00
+* ++
 
 ## Agenda
 
