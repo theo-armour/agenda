@@ -15,7 +15,7 @@
 
 * ?
 
-* Kattah
+* Kattah* Ronan
 * Ship Smart
 
 Thinking
@@ -49,7 +49,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
