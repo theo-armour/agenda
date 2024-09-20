@@ -55,7 +55,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Personal</summary>
 
@@ -63,10 +63,8 @@ Waiting
 
 * ?
 * W:&nbsp;
-* S: centrum silver vitamins ~ wine ~ Chia seeds
-* A:&nbsp;
-* Agendas: Initiate list of happy things to do
-* Agendas: Initiate: not to do list
+* S: ?? ~ Chia seeds
+* A:
 
 Waiting
 
