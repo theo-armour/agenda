@@ -8,6 +8,7 @@
 
 ## Agenda
 
+* Help with the Sensay SEO
 * Eat your own dog food. Every Sensay team member has an up to date replica of themselves
 * Google Docs is your enemy
 * "How can we get more customers right now?"
