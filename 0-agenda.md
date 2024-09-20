@@ -7,15 +7,12 @@
 * 2024-09-17: Bambi's Thumper:&nbsp;"If you can't say something nice, don't say nothing at all"
 
 ## Today
-
 * ?
-*
 * Nicole Smith: PDF
 * Joel
 *
 
 ## SOON
-
 * ?
 * Drink a Mai Tai
 * John King ~ The Portal book
@@ -23,7 +20,6 @@
 * ++
 
 Thinking
-
 * Kattah
 * Ship Smart
 * Bennet: HotM
