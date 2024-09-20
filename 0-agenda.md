@@ -249,7 +249,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
@@ -353,7 +353,7 @@ Waiting
 
 ***
 
-<details>
+<details open="">
 
 <summary>projects</summary>
 
