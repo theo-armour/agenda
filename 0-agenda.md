@@ -287,7 +287,9 @@ September
 * Happenings: Audio version
 
 * Sarah Standing: hostel
+
 * Bledsoe: Sage
+
 * Patrick: Waymo
 
 ## Morgan Centenary
@@ -370,7 +372,7 @@ September
 
 ***
 
-<details open="">
+<details>
 
 <summary>projects</summary>
 
