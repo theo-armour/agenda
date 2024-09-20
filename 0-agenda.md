@@ -249,7 +249,7 @@ Waiting
 
 </details>
 
-<details>
+<details open="">
 
 <summary>Heritage</summary>
 
@@ -371,7 +371,7 @@ September
 
 ***
 
-<details>
+<details open="">
 
 <summary>projects</summary>
 
