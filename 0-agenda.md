@@ -15,17 +15,18 @@
 
 ## SOON
 * ?
-* Ronan: intro text
+* John King ~ The Portal book
+* SacSem: Jon Rubin &gt;angie&nbsp;
 * ++
 
 Thinking
+* Kattah
+* Ship Smart
 * Bennet: HotM
 * Alex P:&nbsp;
 * Dan E: triads &amp; AI
-* Kattah
 * Mike M
-* Sensay ~ audiopen
-* Ship Smart
+* Sensay ~ audiopen ~ seo
 
 Waiting
 * Page &amp; Turnbull ~&nbsp;415-362-5154
@@ -46,7 +47,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Personal</summary>
 
@@ -55,7 +56,6 @@ Waiting
 * W:&nbsp;
 * S: centrum silver vitamins ~ wine ~ Chia seeds
 * A:&nbsp;
-* John King ~ The Portal book
 * Agendas: Initiate list of happy things to do
 * Agendas: Initiate: not to do list
 
