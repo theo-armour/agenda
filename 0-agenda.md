@@ -1,6 +1,7 @@
 # TheoMotto
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
+
 * ++
 * 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities
 * 2024-09-09 Andranik: "Working on Positive impact AI models"
@@ -8,7 +9,7 @@
 
 ## Today
 
-* ?
+* ?* add stuff
 * Nicole Smith: PDF
 * Joel
 * ++
@@ -32,9 +33,9 @@ Thinking
 * Sensay ~ audiopen ~ seo
 
 Waiting
+
 * Page &amp; Turnbull ~&nbsp;415-362-5154
 * ++
-
 
 ***
 
@@ -43,7 +44,9 @@ Waiting
 <summary>Admin</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
+
 * ?
+
 *
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
@@ -57,6 +60,7 @@ Waiting
 <summary>Personal</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
+
 * ?
 * W:&nbsp;
 * S: centrum silver vitamins ~ wine ~ Chia seeds
@@ -65,6 +69,7 @@ Waiting
 * Agendas: Initiate: not to do list
 
 Waiting
+
 * ++
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
@@ -74,6 +79,7 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a>
 
 </details>
+
 ***
 
 <details>
@@ -81,6 +87,7 @@ Waiting
 <summary>Health</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
+
 * Dr Yun
 * Daniel B: arm joints + adafruit
 * Ortho Institute
@@ -122,6 +129,7 @@ Waiting
 <summary>Simplicity</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
+
 * Bennet: looking for help
 * NextDoor/Village: handyman
 * Simplicity: shipping update: shipsmart + Enclosures
@@ -136,6 +144,7 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a>
 
 </details>
+
 ***
 
 <details>
@@ -143,6 +152,7 @@ Waiting
 <summary>ACE IT</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
+
 * Marie-so: wedding
 * Eloise: Bee Memorial ~ Cynthia Chase visits
 * ace-it+: exhibit report
@@ -150,11 +160,13 @@ Waiting
 * ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a>
+
 * Ruth Weston
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a>
+
 * Newport
 
 </details>
@@ -172,6 +184,7 @@ Waiting
 <summary>Peeps</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
+
 * 2am
 * Ronan: PLE ~ endiatx ~ jason ~ intro text
 * Mike Marean: zoom&nbsp;
@@ -190,6 +203,7 @@ Waiting
 * Visit the doyles with Jane
 
 </details>
+
 ***
 
 <details>
@@ -199,6 +213,7 @@ Waiting
 <details>
 
 <summary>sensay</summary>
+
 * Sensay: replica
 * Sensay: Dan + Marco
 * SenSay: Read Dan's book
@@ -209,6 +224,7 @@ Waiting
 <details>
 
 <summary>sacsem</summary>
+
 * Sacsem: Dick news ~ Clay tapes
 * SacSem: Download Dennis' CJ files
 * SacSem: CC to three: cancel
@@ -222,6 +238,7 @@ Waiting
 <details>
 
 <summary>sps </summary>
+
 * sps:
 * SPS: Randy
 * Rob &amp; José: 3pm
@@ -241,10 +258,12 @@ Waiting
 <summary>Heritage Happenings</summary>
 
 October&nbsp;September&nbsp;
+
 * birthday list
 * Men's group
 
 September&nbsp;
+
 * HH: Scams ~ EIR ~ Touchtown
 * HH: Nienke + Fort Mason ~&nbsp;
 * Mary Liz: Grassfed ~ India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
@@ -264,6 +283,7 @@ September&nbsp;
 </details>
 
 ## Residents directory:&nbsp;
+
 * HH: talk to Praveen
 * Praveen: ditch HH Calendar
 * Happenings: Audio version
@@ -272,6 +292,7 @@ September&nbsp;
 * Waymo
 
 ## Morgan Centenary
+
 * jking@sfchronicle.com; Twitter: <a href="https://github.com/johnkingsfchron">@johnkingsfchron</a>
 * MorCen: Masg to dirs: constituencies ~ funds ~ history&nbsp;
 * MorCen: Tom Jones
@@ -283,11 +304,13 @@ September&nbsp;
 * Morgan Centenary: Patti ~ Margaret Ja
 
 EIR
+
 * Heritage: EIR Hearing 09/26
 * Patrick &amp; Mary: EIR
 * Randy: EIR strategy?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
+
 * ?
 * Party for Marty
 * Jon Casey Touchtown Czar?
@@ -307,9 +330,11 @@ EIR
 * House Committee: Bledsoe
 
 ## Invoices
+
 * February: $94.00
 
 ## Agenda
+
 * What demos could I give? What do I want to show? What might people want to see?
 * Patrick: Ange Appreciation documents
 * AnneM: Evanston house in Birth of a Nation
@@ -343,6 +368,7 @@ EIR
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a>
 
 </details>
+
 ***
 
 <details>
@@ -350,25 +376,32 @@ EIR
 <summary>projects</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
+
 * ++
 * Reading: I F Stone: socrates &gt; Doris
 * GH &gt; HH: add HH/private repo
 * GH &gt; ta/reference &gt; update?
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations</a>
+
 * tess: kiosk software
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">repos</a>
+
 * ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
+
 * ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
+
 * ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
+
 * ++
+
 ***
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-reminders.md&quot;">Reminders</a>
