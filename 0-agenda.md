@@ -9,7 +9,7 @@
 
 ## Today
 
-* ?* add stuff hhh nnnn llllll
+* ?
 * Nicole Smith: PDF
 * Joel
 * ++
@@ -284,12 +284,11 @@ September
 
 ## Residents directory
 
-* 
-
 * Happenings: Audio version
+
 * Sarah Standing: hostel
-* Bledsoe: cat
-* Waymo
+* Bledsoe: Sage
+* Patrick: Waymo
 
 ## Morgan Centenary
 
