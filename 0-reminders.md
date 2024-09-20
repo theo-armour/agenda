@@ -1,6 +1,6 @@
 # Reminders
 
-* ?* Drink a Mai Tai* Agendas: Initiate list of happy things to do* Agendas: Initiate: not to do list
+* ?&nbsp;* "Design Positive impact AI models"* Drink a Mai Tai* Agendas: Initiate list of happy things to do* Agendas: Initiate: not to do list
 * Update my timeline
 * De Young Member ID: FAM376769570&nbsp; ~ expires June 30, 2025
 * Libby does audiobooks
