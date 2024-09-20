@@ -3,13 +3,12 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 
 
 ## Today
 
 * ?
 * Nicole Smith: PDF
-* Joel:&nbsp;* SacSem: Jon Rubin &gt; angie&nbsp;
+* Joel:&nbsp;* SacSem: Jon Rubin &gt; angie&nbsp;* EIR
 * ++
 
 ## SOON
