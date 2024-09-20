@@ -8,7 +8,6 @@
 
 ## Today
 * ?
-* 
 * Nicole Smith: PDF
 * Joel
 * 
