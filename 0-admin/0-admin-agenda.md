@@ -2,7 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
 
-* ?
+* ?* This&nbsp; page is useless!!!
 
 ## Actions
 
@@ -13,7 +13,7 @@
 * Josh: estimated payments
 * Josh: class action suits: ignore them OK?
 * DWA/Josh: note re Estimated payments not sent??
-* DWA: Send Will & Trust docs / Olivia to look
+* DWA: Send Will &amp; Trust docs / Olivia to look
 
 ## IRS
 
@@ -22,11 +22,11 @@
 
 ## Tiller
 
-~ [https://www.tillerhq.com/](https://www.tillerhq.com/)
+~&nbsp;<a href="https://www.tillerhq.com/">https://www.tillerhq.com/</a>
 
 * Tiller: PayPal deposits
 * Tiller: import 2nd CSV
-* Tiller: categories 
+* Tiller: categories&nbsp;
 * Tiller: Years + donations
 
 ## Loans AidVantage
@@ -40,7 +40,7 @@
 
 ## Waiting ~ Confirm?
 
-* Stop AI monthlies < confirm
+* Stop AI monthlies &lt; confirm
 * Stop Samsung insurance
 
 ## Done
