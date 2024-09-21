@@ -2,7 +2,7 @@
 
 ## Two Pieces of Furniture
 
-## 2024-09-01
+### 2024-09-01
 
 Dear Alix, Cynthia & Eloise and Nicole and Claudia
 
@@ -24,7 +24,7 @@ Cheers,
 
 Theo
 
-## 2024-09-01 claudia
+### 2024-09-01 claudia
 
 Hi, Theo Alix, Cynthia & Eloise and Nicole,
 
@@ -34,7 +34,7 @@ Best,
 
 Claudia
 
-## 2024-09-05 nicole
+### 2024-09-05 nicole
 
 
 Hi all,
@@ -48,7 +48,7 @@ Thanks again,
 
 Nicole
 
-## 2024-09-05 nicoleClaudia
+### 2024-09-05 nicoleClaudia
 
 Hi, Nicole,
 
@@ -60,7 +60,7 @@ Best,
 
 Claudia
 
-## 2024-09-05 Cynthia
+### 2024-09-05 Cynthia
 
 This is really incredible to see. Thank you Nicole for giving them new life and a new home.
 
