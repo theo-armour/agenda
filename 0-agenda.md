@@ -159,7 +159,7 @@ Waiting
 </details>
 ***
 
-<details open="">
+<details>
 <summary>Entities</summary>
 <details>
 <summary>sensay</summary>
@@ -193,7 +193,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
 
 </details>
-<details>
+<details open="">
 <summary>Heritage</summary>
 <details>
 <summary>Heritage Happenings</summary>
@@ -298,7 +298,7 @@ September
 </details>
 ***
 
-<details open="">
+<details>
 <summary>projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
