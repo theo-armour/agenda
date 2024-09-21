@@ -8,8 +8,7 @@
 
 * ?
 * Nicole Smith: PDF
-* Joel:&nbsp;* 
-* EIR
+* Joel:&nbsp;* EIR
 * ++
 
 ## SOON
