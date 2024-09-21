@@ -4,7 +4,7 @@
 
 Eir
 
-Calendar mm
+Calendar
 
 Locks
 
