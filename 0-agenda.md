@@ -193,42 +193,36 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
 
 </details>
-<details open="">
+
+
+<details>
 <summary>Heritage</summary>
+
 <details>
 <summary>Heritage Happenings</summary>
-October&nbsp;September&nbsp;
+October
 
 * birthday list
 * Men's group
-
-September
-
-* HH: Scams ~ EIR ~ Touchtown
-* HH: Nienke + Fort Mason ~&nbsp;
-* Mary Liz: Grassfed ~ India meal ~ 3rd Th ~ Bday ~ Dining ~&nbsp; sylvie ~ third Th ~ milkshake day ~
-* Til: photo&nbsp;
-* Hector: projects
-* Marketing: Ads ~ links
-* HH: Tucker ~ finish
-* HH: Grassfed ~ Photo + Joe M: not last puppy?
-* HH: Granucci + Mia ~ read some text
-* Doris: Moghul
-* Martha Nell: India
-* Martha Nell Books:
-* Patrick: Jokes
-* Sheila: India
-* Trish: ?
-
-</details>
-## Residents directory
-
 * Happenings: Audio version
 * Sarah Standing: hostel
 * Bledsoe: Sage
 * Patrick: Waymo
 
-## Morgan Centenary
+Residents directory
+
+</details>
+
+<details>
+<summary>EIR</summary>
+* Heritage: EIR Hearing 09/26
+* Patrick &amp; Mary: EIR
+* Randy: EIR strategy?
+</details>
+
+
+<details>
+<summary>Morgan Centenary</summary>
 
 * jking@sfchronicle.com; Twitter: <a href="https://github.com/johnkingsfchron">@johnkingsfchron</a>
 * MorCen: Masg to dirs: constituencies ~ funds ~ history&nbsp;
@@ -240,11 +234,11 @@ September
 * Charlie-boy: holiday sign
 * Morgan Centenary: Patti ~ Margaret Ja
 
-## EIR
+</details>
 
-* Heritage: EIR Hearing 09/26
-* Patrick &amp; Mary: EIR
-* Randy: EIR strategy?
+<details>
+
+<summary>Agenda</summary>
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
@@ -266,9 +260,6 @@ September
 * Fee schedule questions
 * House Committee: Bledsoe
 
-## Invoices
-
-* ++
 
 ## Agenda
 
@@ -286,6 +277,9 @@ September
 * Organist: evensong
 * Emergency: 628 222-3097
 
+</details>
+
+
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-out-and-about/0-out-and-about.md&quot;">3.1.2 out and about</a>
@@ -295,7 +289,9 @@ September
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-staff/1-staff.md&quot;">3.1.5 staff</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a>
+
 </details>
+
 ***
 
 <details>
