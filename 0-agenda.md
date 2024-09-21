@@ -16,6 +16,7 @@
 * ?
 
 * Kattah* Ronan
+
 * Ship Smart
 
 Thinking
@@ -24,7 +25,7 @@ Thinking
 * Alex P:&nbsp;
 * Dan E: triads &amp; AI
 * Mike M
-* Sensay ~ audiopen ~ seo
+* Sensay ~ audiopen ~ seo* SacSem: Ron ~ Mike: heritage
 
 Waiting
 
