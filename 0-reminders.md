@@ -13,7 +13,7 @@
 * PlainJS
 * Effective Altruism
 * Dawn of Everything ~ Graeber
-* Iliad
+* Iliad ~ Trial of Socrates
 * Rhetoric
 * Snippets
 * The successful how-to
