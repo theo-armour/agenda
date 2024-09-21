@@ -3,34 +3,29 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2024-09-08 ~ Farnam street ~ prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities
-* 2024-09-09 Andranik: "Working on Positive impact AI models"
-* 2024-09-17: Bambi's Thumper:&nbsp;"If you can't say something nice, don't say nothing at all"
 
 ## Today
 
 * ?
 * Nicole Smith: PDF
-* Joel
+* Joel:&nbsp;* SacSem: Jon Rubin &gt; angie&nbsp;* EIR
 * ++
 
 ## SOON
 
 * ?
-* Drink a Mai Tai
-* John King ~ The Portal book
-* SacSem: Jon Rubin &gt; angie&nbsp;
-* ++
+
+* Kattah* Ronan
+
+* Ship Smart
 
 Thinking
 
-* Kattah
-* Ship Smart
 * Bennet: HotM
 * Alex P:&nbsp;
 * Dan E: triads &amp; AI
 * Mike M
-* Sensay ~ audiopen ~ seo
+* Sensay ~ audiopen ~ seo* SacSem: Ron ~ Mike: heritage
 
 Waiting
 
@@ -63,10 +58,8 @@ Waiting
 
 * ?
 * W:&nbsp;
-* S: centrum silver vitamins ~ wine ~ Chia seeds
-* A:&nbsp;
-* Agendas: Initiate list of happy things to do
-* Agendas: Initiate: not to do list
+* S: ?? ~ Chia seeds
+* A:* John King ~ The Portal book
 
 Waiting
 
@@ -249,7 +242,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
@@ -287,7 +280,9 @@ September
 * Happenings: Audio version
 
 * Sarah Standing: hostel
+
 * Bledsoe: Sage
+
 * Patrick: Waymo
 
 ## Morgan Centenary
