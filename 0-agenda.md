@@ -220,7 +220,7 @@ Residents directory
 * Randy: EIR strategy?
 
 </details>
-<details>
+<details open="">
 <summary>Morgan Centenary</summary>
 
 * jking@sfchronicle.com; Twitter: <a href="https://github.com/johnkingsfchron">@johnkingsfchron</a>
