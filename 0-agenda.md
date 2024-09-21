@@ -9,16 +9,12 @@
 * ?
 * Nicole Smith: PDF
 * Joel:&nbsp;* EIR
-* ++
+* ++* llll
 
 ## SOON
 
-* ?
-
 * Kattah: endiatx
-
 * Ronan
-
 * Ship Smart
 
 Thinking
