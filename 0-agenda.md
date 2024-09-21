@@ -8,14 +8,17 @@
 
 * ?
 * Nicole Smith: PDF
-* Joel:&nbsp;* SacSem: Jon Rubin &gt; angie&nbsp;* EIR
+* Joel:&nbsp;* 
+* EIR
 * ++
 
 ## SOON
 
 * ?
 
-* Kattah* Ronan
+* Kattah
+
+* Ronan
 
 * Ship Smart
 
