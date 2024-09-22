@@ -159,12 +159,8 @@ Waiting
 
 </details>
 
-<details open="">
-
-<summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
 
-</details>
 <details>
 
 <summary>Peeps</summary>
@@ -256,7 +252,9 @@ Waiting
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-8-strategic-plan-eir/0-strategic-plan-eir.md&quot;">3.8 strategic plan ~ eir</a>
+
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-9-morgan-centenary/0-morgan-centenary.md&quot;">3.1.9 morgan centenary</a>
+
 </details>
 ***
 
