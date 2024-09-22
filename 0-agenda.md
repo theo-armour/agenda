@@ -75,7 +75,6 @@ Waiting
 ***
 
 <details>
-
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
@@ -230,9 +229,11 @@ Waiting
 * Rob &amp; José: 3pm
 
 </details>
+
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
 
 </details>
+
 <details>
 
 <summary>Heritage</summary>
@@ -243,7 +244,7 @@ Waiting
 
 <summary>Heritage Happenings</summary>
 
-##October
+## October
 
 * birthday list
 * Men's group
@@ -337,6 +338,7 @@ Residents directory
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a>
 </details>
+
 ***
 
 <details>
