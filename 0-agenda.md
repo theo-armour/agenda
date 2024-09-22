@@ -9,7 +9,8 @@
 
 * ?
 * Nicole Smith: PDF
-* Joel:
+* 
+
 * EIR
 * ++
 
