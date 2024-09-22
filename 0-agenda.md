@@ -98,18 +98,9 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-providers.md&quot;">1.1 Health Providers</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a>
 </details>
-<details>
+<details open="">
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
-
-* Bennet: looking for help
-* NextDoor/Village: handyman
-* Simplicity: shipping update: shipsmart + Enclosures
-* Stout Books: books in boxes
-* Books: scanned
-* Claudia: <a href="https://www.shipsmart.com/shipping-art">https://www.shipsmart.com/shipping-art</a> ;&gt; looks good
-* ShipSmart: Deborah
-* Storage: rearrange for shipping + closing
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a>
@@ -186,7 +177,7 @@ Waiting
 * SacSem
 
 </details>
-<details>
+<details open="">
 <summary>sps </summary>
 
 * sps:
@@ -195,6 +186,7 @@ Waiting
 
 </details>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
+
 </details>
 <details>
 <summary>Heritage</summary>
