@@ -4,6 +4,7 @@
 
 I could schedule each day of the week to a task.
 
+* Convert to details views?
 * Archiving Theo
 * Wikipedia
 * Wellness
@@ -12,7 +13,6 @@ I could schedule each day of the week to a task.
 * Knowledge management
 
 Weekends: whatever + admin
-
 ## Monday
 
 Review
@@ -96,16 +96,13 @@ Afternoon or Evening
 
 ## Sunday
 
-* Review Projects agenda
+* Review agendas
 
 After breakfast
 
-* Closet
+* Tidy closet &amp; bookcase
+
 Afternoon
 
 * Basement: mail + batteries + shredding
 * Photography excursion + Long Now
-
-***
-
-<center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);">❦</a></center>

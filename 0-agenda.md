@@ -5,7 +5,6 @@
 * ++
 
 <!-- this is a comment -->
-
 ## Today
 
 * ?
@@ -26,7 +25,8 @@ Thinking
 * Alex P:&nbsp;
 * Dan E: triads &amp; AI
 * Mike M
-* Sensay ~ audiopen ~ seo* SacSem: Ron ~ Mike: heritage
+* Sensay ~ audiopen ~ seo
+* SacSem: Ron ~ Mike: heritage
 
 Waiting
 
@@ -57,7 +57,9 @@ Waiting
 * ?
 * W:&nbsp;
 * S: ?? ~ Chia seeds
-* A:* John King ~ The Portal book
+* A: long socks ~ translucent cup holder
+* Sean: 3.75 &amp; 14 plank for basket
+* John King ~ The Portal book
 
 Waiting
 
@@ -337,7 +339,7 @@ Residents directory
 </details>
 ***
 
-<details open="">
+<details>
 
 <summary>projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
