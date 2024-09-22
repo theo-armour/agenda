@@ -139,7 +139,7 @@ Waiting
 </details>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
 
-<details>
+<details open="">
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
@@ -198,7 +198,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 <summary>Heritage</summary>
 
 * ++
