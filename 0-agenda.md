@@ -206,7 +206,6 @@ Waiting
 
 * ++
 
-
 <details>
 <summary>Agenda</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
@@ -259,7 +258,7 @@ Waiting
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-8-strategic-plan-eir/0-strategic-plan-eir.md&quot;">3.8</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-9-morgan-centenary/0-morgan-centenary.md&quot;">3.1.9 Morgan Centenaryl</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-9-morgan-centenary/0-morgan-centenary.md&quot;">3.1.9 Morgan Centenary</a>
 
 </details>
 ***
