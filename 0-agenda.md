@@ -59,7 +59,8 @@ Waiting
 * ?
 * W:&nbsp;
 * S: ?? ~ Chia seeds
-* A:* John King ~ The Portal book
+* A: long socks
+* John King ~ The Portal book
 
 Waiting
 
