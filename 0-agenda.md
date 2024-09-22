@@ -100,7 +100,9 @@ Waiting
 </details>
 <details>
 <summary>Simplicity</summary>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 Simplicity</a>
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/nicole-smith/0-nicole-agenda.md&quot;">nicole agenda</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 Archiving</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 Claudia</a>
