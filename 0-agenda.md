@@ -209,30 +209,6 @@ Waiting
 
 * ++
 
-<details>
-<summary>Heritage Happenings</summary>
-
-## October
-
-* birthday list
-* Men's group
-* Happenings: Audio version
-* Sarah Standing: hostel
-* Bledsoe: Sage
-* Patrick: Waymo
-
-Residents directory
-
-</details>
-
-<details>
-<summary>EIR</summary>
-
-* Heritage: EIR Hearing 09/26
-* Patrick &amp; Mary: EIR
-* Randy: EIR strategy?
-
-</details>
 
 <details open="">
 <summary>Morgan Centenary</summary>
@@ -298,6 +274,7 @@ Residents directory
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-4-residents-council/1-residents-council.md&quot;">3.1.4 residents council</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-staff/1-staff.md&quot;">3.1.5 staff</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-8-strategic-plan-eir/0-strategic-plan-eir.md&quot;">3.1.8 Strategic Plan ~ EIR</a>
 
 </details>
 

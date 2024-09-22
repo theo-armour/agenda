@@ -1,5 +1,17 @@
 # 3.1 Heritage Happenings
 
+
+## October
+
+* birthday list
+* Men's group
+* Happenings: Audio version
+* Sarah Standing: hostel
+* Bledsoe: Sage
+* Patrick: Waymo
+
+Residents directory
+
 ## Agenda
 
 * ResDir: split names
