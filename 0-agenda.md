@@ -159,12 +159,7 @@ Waiting
 
 </details>
 
-<details>
-
-<summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.0 Family</a>
-
-</details>
 
 <details>
 
@@ -243,41 +238,10 @@ Waiting
 <summary>Agenda</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
-* ?
-* Party for Marty
-* Jon Casey Touchtown Czar?
-* He martha ~ PPH?
-* H &gt; Men's group: Lord's prayer
-* Heritage: fill in medical form
-* Dr Fassett: clinic
-* Franklin Dentist + UCSF: dental clinic
-* Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
-* Strategic Plan: Community organization alternative
-* Surströmming party
-* markdown-it: make it happen
-* Mary: Type A ~ Appendix H provisions ~ copy me om message to Christine
-* Mary: Type C: particulars
-* Martha: Dermatology clinic ~ H Pharmacy ~ PPH ~ HH Advisory
-* Fee schedule questions
-* House Committee: Bledsoe
 
-## Agenda
-
-* What demos could I give? What do I want to show? What might people want to see?
-* Patrick: Ange Appreciation documents
-* AnneM: Evanston house in Birth of a Nation
-* Sort Heritage files
-* Joe Morris: Grass-fed beef for Heritage
-* Ayon: residents folder OneDrive
-* Cortez: lunch + interview
-* HH Patti G: 4th floor screen isa JM?
-* Christina: RC exec committee to be informed of RCFE statutes and obligations
-* Xfinity: Demian: upload speeds
-* Martha N: small charges
-* Organist: evensong
-* Emergency: 628 222-3097
 
 </details>
+
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>

@@ -1,8 +1,25 @@
 # 3.0 Heritage Agenda
 
-## Invoices
+## Stuff
 
-* February: $94.00
+* ?
+* Party for Marty
+* Jon Casey Touchtown Czar?
+* He martha ~ PPH?
+* H &gt; Men's group: Lord's prayer
+* Heritage: fill in medical form
+* Dr Fassett: clinic
+* Franklin Dentist + UCSF: dental clinic
+* Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
+* Strategic Plan: Community organization alternative
+* Surströmming party
+* markdown-it: make it happen
+* Mary: Type A ~ Appendix H provisions ~ copy me om message to Christine
+* Mary: Type C: particulars
+* Martha: Dermatology clinic ~ H Pharmacy ~ PPH ~ HH Advisory
+* Fee schedule questions
+* House Committee: Bledsoe
+
 
 ## 2024-09-03
 
@@ -28,7 +45,3 @@
 * Martha N: small charges
 * Organist: evensong
 * Emergency: 628 222-3097
-
-***
-
-<center title="Hello! Click me to go up to the top"><a class="aDingbat" href="javascript:window.scrollTo(0,0);">❦</a></center>
