@@ -166,7 +166,7 @@ Waiting
 </details>
 ***
 
-<details>
+<details open="">
 <summary>Entities</summary>
 <details>
 <summary>sensay</summary>
@@ -206,7 +206,7 @@ Waiting
 
 * ++
 
-<details>
+<details open="">
 <summary>Agenda</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
