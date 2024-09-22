@@ -9,8 +9,6 @@
 
 * ?
 * Nicole Smith: PDF
-* 
-
 * EIR
 * ++
 
@@ -32,6 +30,7 @@ Thinking
 Waiting
 
 * Page &amp; Turnbull ~&nbsp;415-362-5154
+* Joel P: invite
 * ++
 
 ***
@@ -188,7 +187,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 Entities</a>
 
 </details>
-<details open="">
+<details>
 <summary>Heritage</summary>
 
 * ++
