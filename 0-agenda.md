@@ -238,47 +238,6 @@ Waiting
 
 * ++
 
-<details>
-
-<summary>Heritage Happenings</summary>
-
-##October
-
-* birthday list
-* Men's group
-* Happenings: Audio version
-* Sarah Standing: hostel
-* Bledsoe: Sage
-* Patrick: Waymo
-
-Residents directory
-</details>
-<details>
-
-<summary>EIR</summary>
-
-* Heritage: EIR Hearing 09/26
-* Patrick &amp; Mary: EIR
-* Randy: EIR strategy?
-
-</details>
-<details open="">
-
-<summary>Morgan Centenary</summary>
-
-* jking@sfchronicle.com; Twitter: <a href="https://github.com/johnkingsfchron">@johnkingsfchron</a>
-* MorCen: Masg to dirs: constituencies ~ funds ~ history&nbsp;
-* MorCen: Tom Jones
-* MorCen: 3D scan
-* MorCen: roses PDF
-* MorCen: Fundraisers
-* Cindy + Michele
-* Charlie-boy: holiday sign
-* Morgan Centenary: Patti ~ Margaret Ja
-
-</details>
-<details>
-
 <summary>Agenda</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 Heritage</a>
 
@@ -317,6 +276,7 @@ Residents directory
 * Emergency: 628 222-3097
 
 </details>
+
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-1-heritage-happenings/0-heritage-happenings-agenda.md&quot;">3.1.1 heritage happenings</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-2-activities/0-activities.md&quot;">3.1.2 activities</a>
@@ -334,7 +294,11 @@ Residents directory
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-staff/1-staff.md&quot;">3.1.5 staff</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-5-townhall/0-townhall.md&quot;">3.1.5 townhall</a>
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/3-8-strategic-plan-eir/0-strategic-plan-eir.md&quot;">3.1.6 Strategic Plan ~ EIR</a>
+
 </details>
+
 ***
 
 <details>
