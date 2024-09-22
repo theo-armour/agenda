@@ -1,34 +1,42 @@
 # Reminders
 
-* "Design Positive impact AI models"
-* Drink a Mai Tai
-* Agendas: Initiate list of happy things to do
-* Agendas: Initiate: not to do list
-* Update my timeline
-* De Young Member ID: FAM376769570&nbsp; ~ expires June 30, 2025
-* Libby does audiobooks
-* vscode: simple browser
-* Delete old passwords
-* Harvest those bookmarks
-* PlainJS
-* Effective Altruism
-* Dawn of Everything ~ Graeber
-* Iliad ~ Trial of Socrates
-* Rhetoric
-* Snippets
-* The successful how-to
-* Make a playlist for my funeral
+* ++
 
-## Not To Do List
+## Avoid
 
 * ??
+* Mindless alcohol
 
-## Fun To Do List
+## Fun
 
+* Drink a Mai Tai ~ French 75
 * Coding
 * Triage Raindrop.io
 * Triage Bookmarks
 
-## Coding To Do List
+## Legacy
 
+* Make a playlist for my funeral
+* Update my timeline
+
+## Coding
+
+* Delete old passwords
 * Bookmarks HTML to JSON
+* Harvest those bookmarks
+* Snippets
+
+## Projects
+
+* habits
+* "Design Positive impact AI models"
+* Libby does audiobooks
+* PlainJS
+* The successful how-to
+
+## Contemplation
+
+* Effective Altruism
+* Dawn of Everything ~ Graeber
+* Iliad ~ Trial of Socrates
+* Rhetoricundefined
