@@ -55,7 +55,8 @@ Waiting
 * ?
 * W:&nbsp;
 * S: ?? ~ Chia seeds
-* A: diapers ~ long socks ~ translucent cup holder
+* 
+
 * Sean: 3.75 &amp; 14 plank for basket
 * John King ~ The Portal book
 
