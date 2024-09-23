@@ -2,7 +2,9 @@
 
 ## 2024-09-23
 
-* Helper
+* CynthiaM
+* Helper ~ look at orgs ~ want system & vetting
 * Storage
 * Doris
-* G
+* Trish
+* Granucci ~ web site
