@@ -9,7 +9,7 @@
 
 * ?
 * Nicole Smith: PDF
-* EIR
+* EIR / Centenary
 * Granucci
 * ++
 
@@ -18,15 +18,16 @@
 * Kattah: endiatx
 * Ronan
 * Ship Smart
+* SquareSpace: broken links
 
 Thinking
 
+* Sensay ~ audiopen ~ seo
+* SacSem: Ron ~ Mike: heritage
 * Bennet: HotM
 * Alex P:&nbsp;
 * Dan E: triads &amp; AI
 * Mike M
-* Sensay ~ audiopen ~ seo
-* SacSem: Ron ~ Mike: heritage
 
 Waiting
 
@@ -55,8 +56,6 @@ Waiting
 * ?
 * W:&nbsp;
 * S: ?? ~ Chia seeds
-* 
-
 * Sean: 3.75 &amp; 14 plank for basket
 * John King ~ The Portal book
 
