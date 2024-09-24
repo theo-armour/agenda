@@ -10,7 +10,6 @@
 * ?
 * Nicole Smith: PDF
 * EIR / Centenary
-* Granucci
 * ++
 
 ## SOON
@@ -226,7 +225,7 @@ Waiting
 
 </details>
 
-<details open="">
+<details>
 
 <summary>Heritage</summary>
 
