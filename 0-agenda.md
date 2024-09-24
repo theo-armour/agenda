@@ -8,8 +8,6 @@
 ## Today
 
 * ?
-* 
-
 * Centenary
 * Page &amp; Turnbull
 * ++
