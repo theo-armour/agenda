@@ -190,6 +190,12 @@ Waiting
 
 <details>
 
+* ?
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">Entities</a>
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sacsem/0-sacsem-agenda.md&quot;">SacSem</a>
+
 <summary>sensay</summary>
 
 * Sensay: replica
@@ -200,18 +206,6 @@ Waiting
 </details>
 
 <details>
-
-<summary>sacsem</summary>
-
-* Sacsem: Dick news ~ Clay tapes
-* SacSem: Download Dennis' CJ files
-* SacSem: CC to three: cancel
-* SacSem: Brian: Clay Jackson's recordings
-* SacSem: Update Spotswood Template
-* SacSem: email to post ~ mobile
-* SacSem
-
-</details>
 
 <details open="">
 

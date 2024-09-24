@@ -3,6 +3,12 @@
 
 ## Agenda
 
+* Sacsem: Dick news ~ Clay tapes
+* SacSem: Download Dennis' CJ files
+* SacSem: CC to three: cancel
+* SacSem: Brian: Clay Jackson's recordings
+* SacSem: Update Spotswood Template
+* SacSem: email to post ~ mobile
 * Patrick: membership details
 * Dennis: Membership list up to date
 * Member Trips to CA cities ~ easier for the aged
