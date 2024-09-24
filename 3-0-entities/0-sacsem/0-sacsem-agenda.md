@@ -2,10 +2,8 @@
 
 ## Agenda
 
-* 
-
-* Dennis: email list
 * Clay tapes
+
 * SacSem: Download Dennis' CJ files
 * SacSem: CC to three: cancel
 * SacSem: Brian: Clay Jackson's recordings
@@ -16,7 +14,9 @@
 * Member Trips to CA cities ~ easier for the aged
 
 Done
-* 2024-09-24: Dick email to wix
+* 2024-09-24: Dick email to wix2024-09-24:&nbsp;
+* Dennis: email list to spreadsheet
+
 ## Organizations
 
 * San Francisco Briones society
