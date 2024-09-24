@@ -4,7 +4,10 @@ Chair sliders
 ## Theme
 
 * **Around the World**&nbsp;Germany ~ Message to residents
-* **Colors** <img src="media/b6a03c23d5ba5bab98291f927d69b498.png" alt="">
+* **Colors**&nbsp;
+* * Black: #000000
+* Red: #DD0000
+* Gold: #FFCC00 or #FFCE00<img src="media/b6a03c23d5ba5bab98291f927d69b498.png" alt="">
 * **Cameo Image** _fraulein_ wearing a _dirndl_?
 
 ## Calendar Events &amp; Holidays
@@ -44,6 +47,7 @@ Chair sliders
 ### Miscellany
 
 * portrait photo: Sage&nbsp;* Susan and Martha?
+
 ## Calendar
 
 Theo wants out. October calendar???
