@@ -16,6 +16,8 @@
 Done
 * 2024-09-24: Dick email to wix2024-09-24:&nbsp;
 * Dennis: email list to spreadsheet
+* 2024-09-2:&nbsp;
+* SacSem: Ron Boring invite
 
 ## Organizations
 
