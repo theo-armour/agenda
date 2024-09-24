@@ -11,7 +11,6 @@ Chair sliders
 <img src="media/b6a03c23d5ba5bab98291f927d69b498.png" alt="">
 * **Cameo Image**
 
-
 elderly fraulein wearing a dirndl carrying a beer stein and blowing a horn celebrating Octoberfest. head and shoulders. black red and gold colors. etching.
 
 ## Calendar Events &amp; Holidays
