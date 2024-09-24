@@ -18,6 +18,8 @@ Done
 * Dennis: email list to spreadsheet
 * 2024-09-2:&nbsp;
 * SacSem: Ron Boring invite
+* 2024-09-24:&nbsp;
+* Sacem Mike F: heritage ~ speakers
 
 ## Organizations
 
