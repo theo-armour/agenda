@@ -3,17 +3,16 @@
 Chair sliders
 ## Theme
 
-* **Around the World** India \~ Germany \~ Message to residents
-* **Colors** ![](media/b6a03c23d5ba5bab98291f927d69b498.png)
+* **Around the World** India ~ Germany ~ Message to residents
+* **Colors** <img src="media/b6a03c23d5ba5bab98291f927d69b498.png" alt="">
+* **Cameo Image**
 * Black: #000000
 * Red: #DD0000
 * Gold: #FFCC00 or #FFCE00
-<img src="media/b6a03c23d5ba5bab98291f927d69b498.png" alt="">
-* **Cameo Image**
 
+<img src="media/b6a03c23d5ba5bab98291f927d69b498.png" alt="">
 
 elderly fraulein wearing a dirndl carrying a beer stein and blowing a horn celebrating Octoberfest. head and shoulders. black red and gold colors. etching.
-
 ## Calendar Events &amp; Holidays
 
 * Octoberfest
@@ -50,7 +49,8 @@ elderly fraulein wearing a dirndl carrying a beer stein and blowing a horn celeb
 
 ### Miscellany
 
-* portrait photo: Sage&nbsp;* Susan and Martha?
+* portrait photo: Sage?
+* Not: Susan and Martha?
 
 ## Calendar
 
