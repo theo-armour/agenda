@@ -2,7 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
-* ++
+* ++ 10:50
 
 <!-- this is a comment -->
 ## Today
@@ -182,15 +182,11 @@ Waiting
 * Visit the doyles with Jane
 
 </details>
+
 ***
 
 <details open="">
-
-<summary>Entities</summary><summary>awesome</summary>
-
-<details open="">
 <summary>Entities</summary>
-<details>
 
 * ?
 
@@ -208,8 +204,7 @@ Waiting
 
 </details>
 
-<details open="">
-
+<details>
 <summary>sps </summary>
 
 * sps:
@@ -222,7 +217,6 @@ Waiting
 </details>
 
 <details>
-
 <summary>Heritage</summary>
 
 * ++
