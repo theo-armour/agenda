@@ -9,7 +9,7 @@
 
 * ?
 * Residents: calendar notice
-* SacSem: Ron ~ Mike: heritage ~ Dick: post
+* SacSem: Ron ~ Mike: heritage ~&nbsp;
 * Centenary
 * ++
 
