@@ -6,6 +6,9 @@ Chair sliders
 
 * **Around the World** India \~ Germany \~ Message to residents
 * **Colors** ![](media/b6a03c23d5ba5bab98291f927d69b498.png)
+* Black: #000000
+* Red: #DD0000
+* Gold: #FFCC00 or #FFCE00
 * **Cameo Image** *fraulein* wearing a *dirndl*?
 
 ## Calendar Events & Holidays
