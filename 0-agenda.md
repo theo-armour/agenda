@@ -8,11 +8,10 @@
 ## Today
 
 * ?
-* Residents: calendar notice
 * 
 
-* Sacem Mike F: heritage ~&nbsp;
 * Centenary
+* Page &amp; Turnbull
 * ++
 
 ## SOON
@@ -34,7 +33,8 @@ Thinking
 
 Waiting
 
-* Page &amp; Turnbull ~&nbsp;415-362-5154
+* 
+
 * ++
 
 ***
