@@ -15,6 +15,9 @@
 ## SOON
 
 * EIR
+* Ron Boring: Sunday lunch?
+* MikeF: ?
+* RandyM: ?
 * Kattah: endiatx
 * Ronan
 * Ship Smart
