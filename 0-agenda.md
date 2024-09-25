@@ -9,8 +9,7 @@
 
 * ?
 * Centenary
-* 
-
+* Residents: EIR notice
 * ++
 
 ## SOON
