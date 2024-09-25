@@ -39,4 +39,4 @@
 * Effective Altruism
 * Dawn of Everything ~ Graeber
 * Iliad ~ Trial of Socrates
-* Rhetoricundefined
+* Rhetoric undefined
