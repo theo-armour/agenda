@@ -31,7 +31,7 @@ Thinking
 
 Waiting
 
-* 
+*
 
 * ++
 
@@ -199,7 +199,6 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sacsem/0-sacsem-agenda.md&quot;">SacSem</a>
 <!-- -->
 <details>
-
 <summary>sensay</summary>
 
 * Sensay: replica
