@@ -1,11 +1,16 @@
-# 0 Morgan Centenary
+# 0 Morgan Centenary Agenda
 
-* jking@sfchronicle.com; Twitter: <a href="https://github.com/johnkingsfchron">@johnkingsfchron</a>
-* MorCen: Msg to dirs: constituencies ~ funds ~ history&nbsp;
-* MorCen: Tom Jones
-* MorCen: 3D scan
-* MorCen: roses PDF
-* MorCen: Fundraisers
-* Cindy + Michele
-* Charlie-boy: holiday sign
+## Agenda
+
+
+
+
+## Done
+
+### 2024-09-24: All added to my paper
+
+* Paper sent to Laura, Cindy, Michele & Randy
 * Morgan Centenary: Patti ~ Margaret Ja
+* Charlie-boy: holiday sign* New vertical banners?
+* MorCen: roses PDF
+* Cindy + Michele
