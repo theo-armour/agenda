@@ -8,6 +8,7 @@ Armour Collection Item Selector
 
 ## Theo
 
+* Stout: ready for books?
 * Start a personal timeline
 * Spec to Sandberg
 
