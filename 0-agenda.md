@@ -8,14 +8,14 @@
 ## Today
 
 * ?
-* HH"?
-* Residents: EIR notice
+* 
+
 * ++
 
 ## SOON
 
 * EIR
-* Ron Boring: Sunday lunch?
+* TGD
 * MikeF: ?
 * RandyM: ?
 * Kattah: endiatx
@@ -162,7 +162,7 @@ Waiting
 ***
 
 <!-- -->
-<details open="">
+<details>
 <summary>Entities</summary>
 <!-- -->
 
@@ -199,7 +199,7 @@ Waiting
 <!-- -->
 </details>
 <!-- -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
