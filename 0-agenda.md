@@ -13,10 +13,8 @@
 
 ## SOON
 
-* EIR
-* 
-
 * MikeF: ?
+
 * RandyM: ?
 * Kattah: endiatx
 * Ronan
