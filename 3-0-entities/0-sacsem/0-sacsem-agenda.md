@@ -2,8 +2,9 @@
 
 ## Agenda
 
+* Marty Party: 10/23 @ 3-4
+* Marty Party: front office ~ reserve ~ chairs ~ mike
 * Clay tapes
-
 * SacSem: Download Dennis' CJ files
 * SacSem: CC to three: cancel
 * SacSem: Brian: Clay Jackson's recordings
@@ -14,6 +15,7 @@
 * Member Trips to CA cities ~ easier for the aged
 
 Done
+
 * 2024-09-24: Dick email to wix2024-09-24:&nbsp;
 * Dennis: email list to spreadsheet
 * 2024-09-2:&nbsp;
@@ -43,14 +45,10 @@ Mailing list
 * Email list?
 
 SacSem &gt; dennis@triticum.com: RSVP
-
 SacSem &gt; Brian Chase: transcripts ~ videos
-
 SacSem &gt; Spotswood: Brooks &amp; Brooks articles
 ## Papers
 
 Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
-
 SF is the global TechCity: peer + Cynthia reviewed paper
-
 Paper on social layers ~ San Francisco is not your typical Village

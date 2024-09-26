@@ -3,6 +3,13 @@
 ## Agenda
 
 * ?
+* https://a3visual.com/: quote
+* Media names
+* Nob hill
+* Marina Times
+* Heritage
+* Chronic
+
 
 
 ## Done
