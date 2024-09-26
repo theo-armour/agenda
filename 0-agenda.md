@@ -197,7 +197,7 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">entities</a>
 
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-f/0-sacsem-agenda.md&quot;">SacSem</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-foundation-agenda.md&quot;">awesome</a>
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sacsem/0-sacsem-agenda.md&quot;">SacSem</a>
 <!-- -->
