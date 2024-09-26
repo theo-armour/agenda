@@ -8,21 +8,36 @@
 ## Today
 
 * ?
-* 
-
+* SacSem: Invite Merty's sister
+* SacSem: Description ~ substitle
+* Patrick: use Front Office
+* hRC: Lighting intro
+* Trayo: Add Franks links to a pop-up
+* Joel: reply
+* Laundry ~ Safeway
 * ++
 
 ## SOON
 
-* EIR
-* TGD
+* Jon Casey: Type C ChargesRayBab: upgrade
+* RayBan: lenses
+* Stout: ready?
+* AweFou: snacks
+* AweFou: Reserve Cottage
+* AweFou: invite
+* Morris: Anne's Cookbook
+* hSP: Landmark designation details
+* Tess: audiobook app
+* Barrie &amp; Bick:&nbsp;
 * MikeF: ?
+
 * RandyM: ?
 * Kattah: endiatx
 * Ronan
 * Ship Smart
 * SquareSpace: broken links
 * Nicole Smith: PDF
+* Olga: Progress
 
 Thinking
 
