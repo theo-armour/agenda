@@ -9,7 +9,7 @@
 
 * ?
 * Merty: sister
-* Patrick: use FronyOffoce
+* Patrick: use Front Office
 * hRC: Lighting intro
 * Trayo: Add Franks links to a pop-up
 * Joel: reply
@@ -17,6 +17,8 @@
 
 ## SOON
 
+* Stout: ready?
+* hSP: Landmark designation details
 * Tess: audiobook app
 * Barrie &amp; Bick:&nbsp;
 * MikeF: ?
@@ -27,6 +29,7 @@
 * Ship Smart
 * SquareSpace: broken links
 * Nicole Smith: PDF
+* Olga: Progress
 
 Thinking
 
