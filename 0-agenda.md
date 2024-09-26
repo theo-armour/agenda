@@ -210,12 +210,15 @@ Waiting
 
 </details>
 <!-- -->
-<details>
+<details open="">
 
 <summary>sps </summary>
 
 * sps:
 * SPS: Randy
+
+## Done
+
 * Rob &amp; José: 3pm
 
 </details>
