@@ -8,7 +8,7 @@
 ## Today
 
 * ?
-* hh
+* HH"?
 * Residents: EIR notice
 * ++
 
@@ -186,7 +186,7 @@ Waiting
 ***
 
 <!-- -->
-<details>
+<details open="">
 
 <summary>Entities</summary>
 <!-- -->
@@ -194,7 +194,7 @@ Waiting
 * ?
 
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">entities</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">Entities</a>
 
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-foundation-agenda.md&quot;">awesome</a>
@@ -227,7 +227,7 @@ Waiting
 <!-- -->
 </details>
 <!-- -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
