@@ -9,6 +9,7 @@
 
 * ?
 * Merty: sister
+* Patrick: use FronyOffoce
 * hRC: Lighting intro
 * Trayo: Add Franks links to a pop-up
 * Joel: reply
@@ -17,6 +18,7 @@
 ## SOON
 
 * Tess: audiobook app
+* Barrie &amp; Bick:&nbsp;
 * MikeF: ?
 
 * RandyM: ?
