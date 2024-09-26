@@ -3,7 +3,7 @@
 ## Agenda
 
 * ?
-* set up 
+* set up&nbsp;
 * diaconal hermeneutic: deacon forum
 * Adesk: Val, jessica, brad, Jerry
 * Adesk: Eisenberg, Quanci, Michler, Eugene Loch
@@ -13,23 +13,8 @@
 
 * Update LinkedIn
 * Update bio
-* [Code-switching - Wikipedia](https://en.wikipedia.org/wiki/Code-switching)  
-* https://substack.com/home/post/p-145897612  
-
-## SacSem
-
-* briones society
-* spur
-* trips to CA
-* Web site
-* Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
-* SF is the global TechCity: peer + Cynthia reviewed paper
-* SacSem > dennis@triticum.com: RSVP
-* SacSem > Brian Chase: transcripts ~ videos
-* SacSem > Spotswood: Brooks & Brooks articles
-* Sacsem.net ~ pw: California
-* Email list?
-* Paper on social layers ~ San Francisco is not your typical Village
+* <a href="https://en.wikipedia.org/wiki/Code-switching">Code-switching - Wikipedia</a>
+* <a href="https://substack.com/home/post/p-145897612">https://substack.com/home/post/p-145897612</a>
 
 ## Diaconal hermeneutics
 
@@ -43,26 +28,26 @@
 
 * cubism 3.0 post
 
-## Endiatx ~ [https://endiatx.com](https://endiatx.com)
+## Endiatx ~ <a href="https://endiatx.com">https://endiatx.com</a>
 
 * Message reply
 
-## BBN ~ [https://bbns.org](https://bbns.org)
+## BBN ~ <a href="https://bbns.org">https://bbns.org</a>
 
-* Monthly donation to BB&N?
+* Monthly donation to BB&amp;N?
 
 ## TGD
 
 * TGD: sound video
 * TGD: Mark on Latex to Python
 * TGD: Hover 1 ~ flying camera
-* Evan & Medium ~ Morning Consult ~ SDGs ~ Air Quality
+* Evan &amp; Medium ~ Morning Consult ~ SDGs ~ Air Quality
 * Evan ~ AQI ~ morning consult ~ SDG
 
-## SPS / Paulies ~ [https://sps.edu](https://sps.edu)
+## SPS / Paulies ~ <a href="https://sps.edu">https://sps.edu</a>
 
 * Randy
-* SPS65 > Bob Hall: reply ~ email addresses
+* SPS65 &gt; Bob Hall: reply ~ email addresses
 * Rory ~ Should actors have to be clever?
 * Jose ~ Agenda ~ Rory ~ monthly notice ~ private vs public ~ content
 
@@ -71,7 +56,7 @@
 * Syracuse: Login
 * Syracuse: Check donations
 
-## WSD ~ [https://websightdesign.com](https://websightdesign.com)
+## WSD ~ <a href="https://websightdesign.com">https://websightdesign.com</a>
 
 * WSD: Gustav??
 
