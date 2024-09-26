@@ -23,6 +23,21 @@ Done
 * 2024-09-24:&nbsp;
 * Sacem Mike F: heritage ~ speakers
 
+## SacSem
+
+* briones society
+* spur
+* trips to CA
+* Web site
+* Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
+* SF is the global TechCity: peer + Cynthia reviewed paper
+* SacSem &amp;gt; dennis@triticum.com: RSVP
+* SacSem &amp;gt; Brian Chase: transcripts ~ videos
+* SacSem &amp;gt; Spotswood: Brooks &amp;amp; Brooks articles
+* Sacsem.net ~ pw: California
+* Email list?
+* Paper on social layers ~&amp;nbsp;San Francisco is not your typical Village
+
 ## Organizations
 
 * San Francisco Briones society
@@ -45,10 +60,14 @@ Mailing list
 * Email list?
 
 SacSem &gt; dennis@triticum.com: RSVP
+
 SacSem &gt; Brian Chase: transcripts ~ videos
+
 SacSem &gt; Spotswood: Brooks &amp; Brooks articles
 ## Papers
 
 Marshall McLuhan: read book ~ oral + writing now uniting ~ I am a solutionist
+
 SF is the global TechCity: peer + Cynthia reviewed paper
+
 Paper on social layers ~ San Francisco is not your typical Village
