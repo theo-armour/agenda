@@ -8,8 +8,8 @@
 ## Today
 
 * ?
-* HH"?
-* Residents: EIR notice
+* 
+
 * ++
 
 ## SOON
@@ -162,7 +162,7 @@ Waiting
 ***
 
 <!-- -->
-<details open="">
+<details>
 <summary>Entities</summary>
 <!-- -->
 
@@ -199,7 +199,7 @@ Waiting
 <!-- -->
 </details>
 <!-- -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
