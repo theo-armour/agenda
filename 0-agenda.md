@@ -186,7 +186,7 @@ Waiting
 ***
 
 <!-- -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
@@ -225,7 +225,7 @@ Waiting
 <!-- -->
 </details>
 <!-- -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
