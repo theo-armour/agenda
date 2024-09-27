@@ -8,8 +8,8 @@
 ## Today
 
 * ?
-* SacSem: Invite Merty's sister
-* SacSem: Description ~ substitle
+* 
+
 * Patrick: use Front Office
 * hRC: Lighting intro ~ EIR report ~ Door keys
 * Trayo: Add Franks links to a pop-up
@@ -204,7 +204,7 @@ Waiting
 ***
 
 <!-- -->
-<details>
+<details open="">
 
 <summary>Entities</summary>
 <!-- -->
