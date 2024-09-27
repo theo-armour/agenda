@@ -15,6 +15,7 @@
 
 * Stout: ready?
 
+* Martha*Vada: hygeine clinic details
 * AweFou: Reserve Cottage
 * H: Tess: audiobook app
 * Barrie &amp; Bick
