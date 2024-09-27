@@ -12,7 +12,8 @@
 
 * Patrick: use Front Office
 * hRC: Lighting intro ~ EIR report ~ Door keys
-* Trayo: Add Franks links to a pop-up
+* 
+
 * Joel: reply
 * Laundry ~ Safeway
 * ++
