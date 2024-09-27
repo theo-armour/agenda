@@ -16,18 +16,16 @@
 * Patrick: use Front Office* Joel: reply
 * hRC: Touchtown app ~ Directory ~ you edit!
 * Jon Casey: Type C Charges
-*
-
 * RayBan: lenses
 * Stout: ready?
 * AweFou: Reserve Cottage
 * AweFou: invite
 * Morris: Anne's Cookbook
 * hSP: Landmark designation details
-* Tess: audiobook app
+* H: Tess: audiobook app
 * Barrie &amp; Bick
 * MikeF: ?
-* RandyM: ?
+* SPS: RandyMor: ?
 * Kattah: endiatx
 * Ronan
 * Ship Smart
@@ -180,7 +178,7 @@ Waiting
 ***
 
 <!-- -->
-<details>
+<details open="">
 <summary>Entities</summary>
 <!-- -->
 
