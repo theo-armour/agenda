@@ -24,7 +24,7 @@
 * Morris: Anne's Cookbook
 * hSP: Landmark designation details
 * Tess: audiobook app
-* Barrie &amp; Bick:&nbsp;
+* Barrie &amp; Bick
 * MikeF: ?
 * RandyM: ?
 * Kattah: endiatx
@@ -169,8 +169,13 @@ Waiting
 
 </details>
 <!-- Family -->
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">Family</a>
+<details>
+<summary>family</summary>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">Family</a>
 
+* ++
+
+</details>
 <!-- Family -->
 <details>
 
