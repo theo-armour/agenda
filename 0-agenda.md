@@ -203,7 +203,7 @@ Waiting
 <!-- -->
 <details open="">
 
-<summary>Entities</summary>
+<summary>entities</summary>
 <!-- -->
 
 * ?
@@ -213,7 +213,7 @@ Waiting
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-agenda.md&quot;">awesome</a>
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sacsem/0-sacsem-agenda.md&quot;">SacSem</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sacsem/0-sacsem-agenda.md&quot;">sacsem</a>
 <!-- -->
 <details>
 
