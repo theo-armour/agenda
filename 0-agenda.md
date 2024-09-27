@@ -8,23 +8,17 @@
 ## Today
 
 * ?
-* 
-
-* Patrick: use Front Office
 * hRC: Lighting intro ~ EIR report ~ Door keys
-* Trayo: Add Franks links to a pop-up
-* Joel: reply
-* Laundry ~ Safeway
 * ++
 
 ## SOON
 
+* Patrick: use Front Office* Joel: reply
 * hRC: Touchtown app ~ Directory ~ you edit!
 * Jon Casey: Type C Charges
 * RayBab: upgrade
 * RayBan: lenses
 * Stout: ready?
-* AweFou: snacks
 * AweFou: Reserve Cottage
 * AweFou: invite
 * Morris: Anne's Cookbook
@@ -204,7 +198,7 @@ Waiting
 ***
 
 <!-- -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
@@ -229,7 +223,7 @@ Waiting
 
 </details>
 <!-- -->
-<details open="">
+<details>
 
 <summary>sps </summary>
 
