@@ -17,11 +17,10 @@
 
 * hRC: Touchtown app ~ Directory ~ you edit!
 * Jon Casey: Type C Charges
-* RayBan: lenses
 * Stout: ready?
 * AweFou: Reserve Cottage
-* Morris: Anne's Cookbook
-* hSP: Landmark designation details
+* 
+
 * H: Tess: audiobook app
 * Barrie &amp; Bick
 * MikeF: ?
@@ -31,7 +30,7 @@
 * Ship Smart
 * SquareSpace: broken links
 * Nicole Smith: PDF
-* Olga: Progress
+* Olga: Progress?
 
 Thinking
 
@@ -63,7 +62,7 @@ Waiting
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
@@ -71,6 +70,7 @@ Waiting
 * ?
 * W:&nbsp;
 * S: ?? ~ Chia seeds
+* RayBan: lenses
 * Sean: 3.75 &amp; 14 plank for basket
 * John King ~ The Portal book
 
