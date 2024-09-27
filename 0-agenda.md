@@ -229,7 +229,7 @@ Waiting
 
 </details>
 <!-- -->
-<details open="">
+<details>
 
 <summary>sps </summary>
 
