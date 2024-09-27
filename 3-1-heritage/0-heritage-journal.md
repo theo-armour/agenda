@@ -1,6 +1,34 @@
 # Heritage 2023 Journal
 
 
+## 2024-09-26
+
+* Randy Gridley: agenda: building ~ minutes non-disclosure ~ 100th anniversary
+* House Committee: Bledsoe
+
+## 2024-09-03
+
+* EIR ~ residents points ~ van
+* Me: side of house ~ walkability ~ parking ~ generator noise
+* Centenary: Laura  ~ Wednesday
+* Officers?
+* Heritage Happenings
+
+* Sort Heritage files
+* Joe Morris: Grass-fed beef for Heritage
+* Ayon: residents folder OneDrive
+* Christina: RC exec committee to be informed of RCFE statutes and obligations
+* Xfinity: Demian: upload speeds
+* Martha N: small charges
+
+
+## 2024-09-03
+EIR ~ residents points ~ van
+Me: side of house ~ walkability ~ parking ~ generator noise
+Centenary: Laura ~ Wednesday
+Officers?
+Heritage Happenings
+
 
 ## 2023-11-14
 
@@ -58,6 +86,8 @@ See 0-residents-to-do.md
 * Question for board members
 
 Done
+
+## 2023
 
 * accounts Monthly withdrawals
 * Gardner ~ lunch
