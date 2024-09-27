@@ -203,13 +203,13 @@ Waiting
 <!-- -->
 <details open="">
 
-<summary>entities</summary>
+<summary>Entities</summary>
 <!-- -->
 
 * ?
 
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">Entities</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">entities</a>
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-agenda.md&quot;">awesome</a>
 <!-- -->
