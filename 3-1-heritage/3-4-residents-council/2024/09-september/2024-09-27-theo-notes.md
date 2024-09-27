@@ -1,5 +1,12 @@
 # 2024-09-27 Theo Notes
 
+* Illumination
+* EIR
+* Touchtown app
+* Easy Opening doors
+* Health Care Billing Charges
+* Dining Room Chairs
+
 ## Preface
 
 For the first time in a long time, I am able to attend the Residents Council meeting. Thank you Margaret Jacobson for taking on preparation of the Heritage Happenings Calendar.
@@ -55,23 +62,6 @@ We agreed: Neither of these views were show stoppers. The EIR moves on to the ne
 
 I wil be submitting my comments in the next few day. I will share them with you when I do.
 
-## Opening doors
-
-### Problem
-
-There are a number of residents that have a tough time locating their keys, unlocking the door handle and opening the doors to their apartments.
-
-Carm is evidence of this. She has a hard time opening her door and has asked for help.
-
-### Solution
-
-There are a variety of solutions that can be implemented to help residents open their doors more easily. Some of these solutions include:
-
-* Installing a keyless entry system
-* Installing a door handle that is easier to grip
-
-If anybody thinks it's a good idea, I can look into it further and see if it's possible to implement.
-
 
 ## Touchtown app ~
 
@@ -91,6 +81,25 @@ No reply yet.
 ### Install Instructions
 
 * I can send them to you by email
+
+
+## Easy Opening doors
+
+### Problem
+
+There are a number of residents that have a tough time locating their keys, unlocking the door handle and opening the doors to their apartments.
+
+Carm is evidence of this. She has a hard time opening her door and has asked for help.
+
+### Solution
+
+There are a variety of solutions that can be implemented to help residents open their doors more easily. Some of these solutions include:
+
+* Installing a keyless entry system
+* Installing a door handle that is easier to grip
+
+If anybody thinks it's a good idea, I can look into it further and see if it's possible to implement.
+
 
 
 ## Health Care Billing Charges
