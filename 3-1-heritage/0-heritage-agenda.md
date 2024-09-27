@@ -3,6 +3,8 @@
 ## Agenda
 
 * ?
+* Morris: Anne's Cookbook
+* hSP: Landmark designation details
 * Patrick: use Front Office* Joel: reply
 * Party for Marty
 * Jon Casey Touchtown Czar?
