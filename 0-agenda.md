@@ -15,7 +15,8 @@
 * 
 
 * Joel: reply
-* Laundry ~ Safeway
+* 
+
 * ++
 
 ## SOON
