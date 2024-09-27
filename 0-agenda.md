@@ -13,14 +13,9 @@
 
 ## SOON
 
-* 
-
-* hRC: Touchtown app ~ Directory ~ you edit!
-* Jon Casey: Type C Charges
 * Stout: ready?
-* AweFou: Reserve Cottage
-* 
 
+* AweFou: Reserve Cottage
 * H: Tess: audiobook app
 * Barrie &amp; Bick
 * MikeF: ?
