@@ -18,7 +18,7 @@ Patrick
 * New numbers
 * Speaker volume ~ still low
 * Scams ~ even on paper
-* March 2025 ~ Margan 100
+* March 2025 ~ Morgan 100
 * EIR ~
 * Feed assistance in Dining Room??
 
@@ -29,4 +29,4 @@ Michelle
 
 Betty Dy
 
-* How to get om ADL ~ assisted living list?
+* How to get on ADL ~ assisted living list?
