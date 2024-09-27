@@ -12,14 +12,27 @@
 
 ## Agenda
 
-* Reserve cottage
-* Drinks
-* Nuts
-* Cheese ?
+See Trayo
+
+## Meeting tasks
+
 * WiFi Password
 * Cups
 * Plates
 
+## Meeting Snacks
+
+* Drinks before: Sutter + Fre, Soleil, Athletic IPA
+* Drinks on day: cranberry, V8, tomato juice
+* Snacks before: nuts, seaweed,olives
+* Snacks on day: yogurt, bananas, cracker
+* Dining room: grapes, baby bell
+
+
+## 2024-09-26
+
+* Reserve cottage
+* Snacks started
 
 ## 2024-09-11
 
