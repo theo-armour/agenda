@@ -20,16 +20,6 @@
 * Fee schedule questions
 * House Committee: Bledsoe
 
-
-## 2024-09-03
-
-* EIR ~ residents points ~ van
-* Me: side of house ~ walkability ~ parking ~ generator noise
-* Centenary: Laura  ~ Wednesday
-* Officers?
-* Heritage Happenings
-
-
 ## Agenda
 
 * What demos could I give? What do I want to show? What might people want to see?
