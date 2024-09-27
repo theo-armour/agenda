@@ -3,7 +3,9 @@
 ## Agenda
 
 * ?
-* Morris: Anne's Cookbook
+* hRC: Touchtown app ~ Directory ~ you edit!
+* Jon Casey: Type C Charges
+* Morris: Anne's Cookbook: Amy?
 * hSP: Landmark designation details
 * Patrick: use Front Office* Joel: reply
 * Party for Marty
