@@ -3,6 +3,7 @@
 ## Agenda
 
 * ?
+* Patrick: use Front Office* Joel: reply
 * Party for Marty
 * Jon Casey Touchtown Czar?
 * He martha ~ PPH?
