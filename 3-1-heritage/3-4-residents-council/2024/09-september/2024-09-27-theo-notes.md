@@ -88,9 +88,9 @@ Installing, launching, and maintaining the app is a service that residents, part
 
 No reply yet.
 
-### Install
+### Install Instructions
 
-* I can send it to you by email
+* I can send them to you by email
 
 
 ## Health Care Billing Charges
@@ -99,6 +99,7 @@ Mary: Type A ~ Appendix H provisions ~ copy me om message to Christine
 Mary: Type C: particulars
 Many promises ~ no action
 I will follow up with John Casey
+
 
 ## Dining Room Chairs
 
