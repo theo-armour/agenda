@@ -12,6 +12,7 @@
 For the first time in a long time, I am able to attend the Residents Council meeting. Thank you Margaret Jacobson for taking on preparation of the Heritage Happenings Calendar.
 
 
+
 ## Front of Heritage be illuminated to illustrate architectural features
 
 ### Problem with the current lighting situation
