@@ -16,6 +16,7 @@
 ## SOON
 
 * Stout: ready?
+* Amy: Ann's cookbook
 * ConCin: cancel sub
 * Joel: reply
 * Martha&amp;Vada: hygeine clinic details
@@ -29,6 +30,7 @@
 * SquareSpace: broken links
 * Nicole Smith: PDF
 * Olga: Progress?
+* TGGD: glasses
 
 Thinking
 
