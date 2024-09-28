@@ -8,16 +8,18 @@
 ## Today
 
 * ?
-* 
-
+* AweFou: Reserve Cottage
+* H: Tess: audiobook app
+* Jon R: sacsem description
 * ++
 
 ## SOON
 
 * Stout: ready?
-* Martha*Vada: hygeine clinic details
-* AweFou: Reserve Cottage
-* H: Tess: audiobook app
+* ConCin: cancel sub
+* Joel: reply
+* Martha&amp;Vada: hygeine clinic details
+
 * Barrie &amp; Bick
 * MikeF: ?
 * SPS: RandyMor: ?
@@ -39,6 +41,7 @@ Thinking
 Waiting
 
 * ++
+* Jon Casey Touchtown Czar?
 
 ***
 
