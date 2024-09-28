@@ -8,7 +8,8 @@
 ## Today
 
 * ?
-* MaryL Aeron
+* 
+
 * ++
 
 ## SOON
