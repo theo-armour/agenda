@@ -6,7 +6,6 @@
 * Praveen
 * Fire alarm test: announce
 * Heritage: capital projects reports
-* Lunch Jeff Brenner
 * Patti: minutes 2023
 * borrow Jeannie's history and scan
 
@@ -21,7 +20,7 @@
 ## Activities
 
 * Adding photos
-* Ling Shien > to Karina
+* Ling Shien?
 
 ## Dining Services
 

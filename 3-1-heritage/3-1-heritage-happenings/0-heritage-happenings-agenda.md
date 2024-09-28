@@ -3,6 +3,7 @@
 
 ## October
 
+* Marty Party
 * birthday list
 * Men's group
 * Happenings: Audio version

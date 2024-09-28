@@ -1,5 +1,10 @@
 # Heritage 2023 Journal
 
+## 2024-09-28
+
+* ?
+* hRC: Touchtown app ~ Directory ~ you edit!
+* Jon Casey Touchtown Czar?
 
 ## 2024-09-26
 

@@ -3,6 +3,9 @@
 ## Agenda
 
 * ?
+* Meet with Bob: discuss media
+* Draft letter to invitees
+* Draft Press release
 * https://a3visual.com/: quote
 * Media names
 * Nob hill
