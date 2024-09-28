@@ -9,7 +9,7 @@
 
 ## Preface
 
-For the first time in a long time, I am able to attend the Residents Council meeting. Thank you Margaret Jacobson for taking on preparation of the Heritage Happenings Calendar.
+For the first time in a long time, I am able to attend the Residents Council meeting. Thank you Margaret Jacobs for taking on preparation of the Heritage Happenings Calendar.
 
 
 
