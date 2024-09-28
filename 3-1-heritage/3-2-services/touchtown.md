@@ -2,10 +2,13 @@
 
 ## Instructions
 
+Computer: go to:
 
-To download the app, search for: Uniguest Community Apps ~ Touchtown Inc
+https://www.residentapps.com/home/residentapps/mobile/#/home
 
-After the app is installed, login using:
+Phone: To download the app, search for: Uniguest Community Apps ~ Touchtown Inc
+
+Login using:
 
 User name: hot:firstInitialLastname ~ example:  hotm.tarmour
 
