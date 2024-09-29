@@ -1,12 +1,13 @@
 # Happenings Text
 
 
-## Tucker
+## Tucker ~ Octoberfest -
 
+I was running as fast as I could, but that German waiter was still after me. My one Liter Hofbrau mug still in hand. He was probably twice my age, it was Octoberfest, and he was only doing his job, trying to catch a 21-year old skinny American wiseguy. My college roommate had been directed to a table with four beefy middle-aged Munchenites, all of whom with spoke American vernacular lingo with ease because, as they told us cheerily, they had been sent as POWs to Texas. They loved us. So the question looms embarrassingly, why on God's green earth do we so often attack such good beer-drinking neighbors?
 
-Student Council Meeting ~SV Octoberfest -
+Will and Ariel Durant, after 35 years of recording much of world history, write that the perennial answer will always be a combinationof pride, acquisitiveness, and pugnacity.
 
-I was running as fast as I could, but that German waiter was still after me, my 1 Liter Hofbraumug still in hand. He was probably twice my age, it was Octoberfest, and he was only doing his job, trying to catcha 21-year oldskinny American wiseguy..room.a table with four beefy middle-aged Munchen-ites:alt with spoke Amerikan vernacular lingo wees?with ease because, as they told us cheerily, theyhad been sent as POW'sto Texas. Theyloved us.So the question looms embarrassingly, whyon God's green earth do we so often attacksuch good beer-drinking neighbors?Will and Ariel Durant, after 35 years ofrecording muda world history, writeth at theperennial answer will alwaysbeof pride, acquistiveness, anda comsinat coupugnacity.Thewaiterbehind me exemplifiedthoseattributes of hostility: He was proud of his job,cacquestive of the beer stern, and ready to be pug-nacious, But then, so was I, proud, acquistive,andinsultingly pugnacious busy theft. Thewaiterwould be mollified if I surrendered the mug, bobuthe was by now on his way back to his jols, andI was left with feeling society's collective guiltand dismay,- strane or not. And perhapsbeer, some of usSometimes.weanyway, really be ashamed of ourselves.
+The waiter behind me exemplified those attributes of hostility: He was proud of his job, acquisitive of the beer stern, and ready to be pugnacious. But then, so was I, proud, acquisitive,and insultingly pugnacious by my theft. The waiter would be mollified if I surrendered the mug, but he was by now on his way back to his job, and I was left with feeling society's collective guilt and dismay, beer stein or not. And perhaps we should, some of us anyway, really be ashamed of ourselves. Sometimes.
 
 ## According to the American College of
 Emergency Physicians, these are the warning signs of a medical
