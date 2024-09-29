@@ -23,7 +23,7 @@
 * Martha&amp;Vada: hygeine clinic details
 
 * Barrie &amp; Bick
-* MikeF: ?
+* MikeFitz: ?
 * SPS: RandyMor: ?
 * Kattah: endiatx
 * Ronan
