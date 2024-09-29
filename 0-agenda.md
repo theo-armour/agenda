@@ -144,7 +144,7 @@ Waiting
 
 </details>
 <!-- Family -->
-<details open="">
+<details>
 
 <summary>family</summary>
 
@@ -216,7 +216,7 @@ Waiting
 <!-- -->
 </details>
 <!-- -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
