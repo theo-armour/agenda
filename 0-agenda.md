@@ -41,7 +41,7 @@ Waiting
 
 ***
 
-<details open="">
+<details>
 <summary>Admin</summary>
 
 * ?
@@ -210,7 +210,7 @@ Waiting
 <!-- -->
 </details>
 <!-- -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
