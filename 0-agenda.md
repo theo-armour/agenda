@@ -30,7 +30,6 @@ Thinking
 
 * Sensay ~ audiopen ~ seo
 * Bennet: HotM
-* Alex P:&nbsp;
 * Dan E: triads &amp; AI
 * Mike M
 
@@ -38,6 +37,7 @@ Waiting
 
 * ++
 * Jon Casey Touchtown Czar?
+* Alex P:&nbsp;
 
 ***
 
