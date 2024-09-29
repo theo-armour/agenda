@@ -10,13 +10,12 @@
 * ?
 * AweFou: Reserve Cottage
 * H: Tess: audiobook app
-* Jon R: sacsem description
 * ++
 
 ## SOON
 
 * Stout: ready?
-* ConCin: cancel sub
+* ConCon: cancel sub
 * Joel: reply
 * Martha&amp;Vada: hygeine clinic details
 * Barrie &amp; Bick
