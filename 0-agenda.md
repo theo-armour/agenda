@@ -14,12 +14,14 @@
 
 ## SOON
 
-* Ronan
 * TGD: glasses
 * Nicole Smith: PDF
+* Ronan
 * SPS: RandyMor: ?
+* Mike M
 * Kattah: endiatx
 * MikeFitz: ?
+* Kathy: basket
 * Stout: ready?
 * ConCon: cancel sub
 * Martha&amp;Vada: hygeine clinic details
@@ -32,7 +34,6 @@ Thinking
 * Sensay ~ audiopen ~ seo
 * Bennet: HotM
 * Dan E: triads &amp; AI
-* Mike M
 * Christine &amp; Pam
 
 Waiting
