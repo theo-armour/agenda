@@ -2,7 +2,7 @@
 
 ## Agenda
 
-* ? \*What connections do I have with my family
+* ? *What connections do I have with my family
 * What connections do I want to have with my family
 
 ## Things to consider
@@ -13,15 +13,6 @@
 * Asilomar
 * Dawn of Everything
 * Genealogy
-
-## Mia
-
-* Good time to call
-* CynthiaM: invite
-* Mirror
-* Editor
-
-* Wedding talks
 
 ## Tania
 
@@ -37,10 +28,10 @@
 
 ## email
 
-* [ace-it@groups.io](mailto:ace-it@groups.io)
-* [AldenSmith@gmail.com](mailto:AldenSmith@gmail.com)
-* [allison@allisonarmour.com](mailto:allison@allisonarmour.com)
-* [davidlmorgan.01@gmail.com](mailto:davidlmorgan.01@gmail.com)
-* [jonathangterry@gmail.com](mailto:jonathangterry@gmail.com)
-* [Juliettevka@gmail.com](mailto:Juliettevka@gmail.com)
-* [taniabecker8@gmail.com](mailto:taniabecker8@gmail.com)
+* <a href="mailto:ace-it@groups.io">ace-it@groups.io</a>
+* <a href="mailto:AldenSmith@gmail.com">AldenSmith@gmail.com</a>
+* <a href="mailto:allison@allisonarmour.com">allison@allisonarmour.com</a>
+* <a href="mailto:davidlmorgan.01@gmail.com">davidlmorgan.01@gmail.com</a>
+* <a href="mailto:jonathangterry@gmail.com">jonathangterry@gmail.com</a>
+* <a href="mailto:Juliettevka@gmail.com">Juliettevka@gmail.com</a>
+* <a href="mailto:taniabecker8@gmail.com">taniabecker8@gmail.com</a>
