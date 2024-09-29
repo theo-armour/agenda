@@ -16,7 +16,6 @@
 
 * Stout: ready?
 * ConCon: cancel sub
-* Joel: reply
 * Martha&amp;Vada: hygeine clinic details
 * Barrie &amp; Bick
 * MikeFitz: ?
