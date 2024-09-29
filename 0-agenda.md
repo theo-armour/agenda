@@ -9,7 +9,7 @@
 
 * ?
 * AweFou: Reserve Cottage
-* H: Tess: audiobook app
+* H Tess: audiobook app
 * ++
 
 ## SOON
