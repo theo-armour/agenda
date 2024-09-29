@@ -5,7 +5,7 @@
 
 I was running as fast as I could, but that German waiter was still after me. My one Liter Hofbrau mug still in hand. He was probably twice my age, it was Octoberfest, and he was only doing his job, trying to catch a 21-year old skinny American wiseguy. My college roommate had been directed to a table with four beefy middle-aged Munchenites, all of whom with spoke American vernacular lingo with ease because, as they told us cheerily, they had been sent as POWs to Texas. They loved us. So the question looms embarrassingly, why on God's green earth do we so often attack such good beer-drinking neighbors?
 
-Will and Ariel Durant, after 35 years of recording much of world history, write that the perennial answer will always be a combinationof pride, acquisitiveness, and pugnacity.
+Will and Ariel Durant, after 35 years of recording much of world history, write that the perennial answer will always be a combination of pride, acquisitiveness, and pugnacity.
 
 The waiter behind me exemplified those attributes of hostility: He was proud of his job, acquisitive of the beer stern, and ready to be pugnacious. But then, so was I, proud, acquisitive,and insultingly pugnacious by my theft. The waiter would be mollified if I surrendered the mug, but he was by now on his way back to his job, and I was left with feeling society's collective guilt and dismay, beer stein or not. And perhaps we should, some of us anyway, really be ashamed of ourselves. Sometimes.
 
