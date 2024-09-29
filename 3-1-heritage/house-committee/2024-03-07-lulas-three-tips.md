@@ -15,9 +15,6 @@ I think it would be best if I were to recuse myself from this discussion.
 Theo
 
 
-
-
-
 Three Heritage on the Marina (HotM) LULA issues that need to be addressed:
 
  https://en.wikipedia.org/wiki/Standard_operating_procedure

@@ -2,6 +2,9 @@
 
 ## Agenda
 
+
+* Nail Salon on site? Mary will investigate this.
+* Emergency phone numbers
 * Tess: Audiobook app
 * House Committee: Door openers for residents with issues
 
@@ -15,7 +18,7 @@ Health
 * Heritage: fill in medical form
 * Dr Fassett: clinic
 * Martha: Dermatology clinic ~ PPH ~ HH Advisory
-* PPharamerica: waiting
+* Pharamerica: waiting
 
 Strategic Plan
 

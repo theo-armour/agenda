@@ -3,6 +3,10 @@
 
 ## Ideas
 
+* Activities msg
+*
+* EAF Stats
+* Who to thank?
 * Advocates: Margaret: rules ~ promote ~ on address list
 * Out & About
 * Recycling Update?

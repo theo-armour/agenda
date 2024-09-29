@@ -1,12 +1,12 @@
 # House Committee
 
+* Chair sliders?
 * Charter?
 * Paper for Eleanor
-* Wash screens
-* Categories
 * Wash the screens
 * Jane: Gazebo: raise handrail 
 * Jane ~ Hanging planters
+* Residents: Cottage Uses
 
 ## Keyless Entry
 
