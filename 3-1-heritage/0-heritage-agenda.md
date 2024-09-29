@@ -2,7 +2,8 @@
 
 ## Agenda
 
-
+* Historical Pla
+* Roses: photos
 * Nail Salon on site? Mary will investigate this.
 * Emergency phone numbers
 * Tess: Audiobook app
