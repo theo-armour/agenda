@@ -60,8 +60,7 @@ Waiting
 * ?
 * W:&nbsp;
 * S: ?? ~ Chia seeds
-* 
-
+* EyeBuyDirect: small specs?
 * Sean: 3.75 &amp; 14 plank for basket
 * John King ~ The Portal book
 
