@@ -26,7 +26,6 @@
 * Ship Smart
 * SquareSpace: broken links
 * Nicole Smith: PDF
-* Olga: Progress?
 * TGGD: glasses
 
 Thinking
