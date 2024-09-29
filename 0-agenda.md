@@ -17,7 +17,6 @@
 * Stout: ready?
 * ConCon: cancel sub
 * Martha&amp;Vada: hygeine clinic details
-* Barrie &amp; Bick
 * MikeFitz: ?
 * SPS: RandyMor: ?
 * Kattah: endiatx
