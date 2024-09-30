@@ -23,11 +23,8 @@
 * Kattah: endiatx
 * MikeFitz: ?
 * Kathy: basket
-* 
-
 * Stout: ready?
 * ConCon: cancel sub
-* Martha&amp;Vada: hygeine clinic details
 * Ship Smart
 * SquareSpace: broken links
 
@@ -42,7 +39,7 @@ Waiting
 
 * ++
 * Jon Casey Touchtown Czar?
-* Alex P: Wednesday
+* 
 
 ***
 
