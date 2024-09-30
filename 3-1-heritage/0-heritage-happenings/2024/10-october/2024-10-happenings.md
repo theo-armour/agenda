@@ -1,6 +1,5 @@
 # 2024-10 October
 
-
 ## Theme
 
 * **Around the World** Germany ~ Message to residents
@@ -11,9 +10,7 @@
 * Gold: #FFCC00 or #FFCE00
 
 <img src="media/b6a03c23d5ba5bab98291f927d69b498.png" alt="">
-
 Elderly fraulein wearing a dirndl carrying a beer stein and blowing a horn celebrating Octoberfest. head and shoulders. black red and gold colors. etching.
-
 ## Calendar Events &amp; Holidays
 
 * Octoberfest
@@ -22,30 +19,32 @@ Elderly fraulein wearing a dirndl carrying a beer stein and blowing a horn celeb
 * Halloween
 * Flu Clinic: 10/29 from 10-2
 
-
 ## Content for October Issue
 
 * Angie: ResDir #
 * Angie: regular special meals: 3rd Thursday?, Milkshake, Donuts? Others?
 * Angie: Halloween? Any others
-* Bob Conolly: Marketing: Email
-* New Resident move in- Val and Tom King 244M
-* Applications received for 1530 #3, Nelse "Cooby" Greenway, move in
-October. Occupancy at 90.41%
+* 
+
 * %% Bob Granucci Mia: Ducks #3
 * %% Doris: Addictions article ~ LIU
 * Eleanor Bissell: ??
 * Jane: “One if by sea, two if by land”
 * Hector: Maintenance/shakeout day??
 * Hector had purchased new slides for the
+
 chairs and installed them on a few chairs to test them, but they didn’t work
+
 any better than what we have, so he is currently trying to find a better
+
 solution.
-* Fire alarms & loudspeakers
+* Fire alarms &amp; loudspeakers
 * Loading bay
 * Save the Date: The Great Shakeout is scheduled for Heritage on the
+
 Marina on October 17, 2024. For more information about this program
-see www.shakeout.org.
+
+see <a href="http://www.shakeout.org">www.shakeout.org</a>.
 * ?? Margaret Jacobs: Maya or other events??
 * %% Margaret Johnson: #12 Philadelphia??
 * % Margaret Johnson photosL scan
