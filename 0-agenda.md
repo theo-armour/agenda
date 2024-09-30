@@ -10,10 +10,6 @@
 
 * ?
 
-*
-
-*
-
 * ++
 
 ## SOON
@@ -46,7 +42,7 @@ Waiting
 
 * ++
 * Jon Casey Touchtown Czar?
-* Alex P:&nbsp;
+* Alex P: Wednesday
 
 ***
 
