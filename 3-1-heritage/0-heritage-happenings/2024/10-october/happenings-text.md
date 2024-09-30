@@ -1,5 +1,39 @@
 # Happenings Text
 
+Mary Liz Harris ~ Food Committee Chair
+The Food Committee met on September 10, 2024. Meeting Highlights:
+Angie distributed compiled comments from the Dining Room and Resident Council. We discussed these comments and will continue to gather more feedback
+We can no longer get Bassa fish; Tilapia & Cod are now used.
+Stuffed peppers are too spicy.
+Thank you for the plump black olives - they were enjoyed!
+Delicious crab cakes! The entire meal was fantastic (crab cakes, beans, spinach & chocolate chip cookies).
+Upcoming:
+Birthday dinner will be on October 12
+October will feature German food and a Halloween dinner on October 31
+The next Food Committee meeting for 2024 is on November 12.
+The last Friday lunch of the month is milkshake day. The Superfood is ?????
+
+## Patrick
+
+Message from Patrick Alexander ~ Resident Council President
+It is time to start thinking about your contribution to the Employee
+Appreciation Fund. The staff here do a great deal for us. They help us
+With health questions, cook, serve food, clean, hang pictures, repair things that go wrong. If you lived by yourself, you would have to do all these things yourself. When you go to a restaurant and are given good service you give the servers a good tip. We don’t tip staff on a daily basis but as you know we reward them for their service at the end of the year. On October 1st We will be sending out a leaflet giving instructions about contributing to the Employee Appreciation Fund.
+Please be generous.
+
+Waymo
+
+On a daily basis you see a lot of these Waymo self-driving cars scuttling about.
+Riding in one is fun. You have to fill out an application online and enter a valid credit card number for billing. You then start by downloading the app onto your phone and requesting a car. The car may not stop exactly where you are. They are programmed to stop as near as possible to your location where there is an open space. So, it is best to call for one by an opening in the street parking by a garage, bus stop, or other open space. They also will drop you off as near as possible to your destination where there is an open space. This is a safety issue and programmed into the Waymo’s brain.
+If by chance you call for a ride and then don’t take it. You still may be charged by Waymo. This will be billed to your credit card.
+Prices are about the same as Uber’s.
+You can seat up to 4 people in a car.
+If you have a small child with you then you have to install the child’s seat yourself.
+You can carry up to 200 lbs in the trunk.
+The trunk is large enough to accommodate a foldable wheelchair.
+Once you have installed the app on your phone it is possible to speak to a live person at Waymo.
+Waymo is owned and operated as part of Alphabet.
+
 
 ## Tucker ~ Octoberfest -
 
@@ -173,4 +207,16 @@ A typical reaction for first time users, from addicts I’ve interviewed is: “
 One question that interests me is the experience of withdrawal. We’ve all seen and read about the agonies of withdrawal from heroin. For example, I had a coworker years ago who had, like many others, withdrawn from a substance addiction with no medicinal help. It lasted a week and was difficult and painful, causing bodily pain and nausea. At the time we were working together, he caught the Asian Flu. He was sick for two weeks and said later that it was worse than any “cold turkey” withdrawal he had ever experienced. Another woman I knew used heroin daily for 25 years. When her need got too high, she would regularly stop using for a week. She said that, yes, it hurt but not too badly. These were not isolated stories. There may be genetic differences in the severity of withdrawal and there is surely exaggeration in some cases.
 
 The issue of addiction is so complex. Genetic vulnerability? Psychological make-up? Lack of social and economic access? All three? Treating the problem as we see it on our city streets requires the most difficult things to find: money and housing to create more group rehabilitation programs. In San Francisco, several agencies and programs are doing this work now but more help is needed. We also need more education in our schools, helping teenagers find the best path. Steps to reduce the problem of substance abuse must be taken beforehand, not when it’s widespread and out of our control.
+
+Cloistered: My Years as a Nun   By Catherine Coldstream
+
+Catherine Coldstream pours her heart out in this incredible story of her life (12 years) in a cloistered monastery in England.  Coming from a fairly dysfunctional household, she grew up accustomed to strange and missing family dynamics, seeking her own privacy and choosing solitary enjoyments. When she entered the monastery, she was thrilled by the simple needs, the simple faith and the truth of the life of a nun. When the peace of the monastery changed into something intolerable, she bolted. This the fascinating story of an earnest woman of faith and her life both inside and outside a cloistered monastery.
+
+The Fall Show at Fort Mason
+
+The San Francisco Fall Show is the leading art, antiques, and design fair on the West Coast, with renowned dealers from around the globe. October 17 · 10:30am October 20 · 7pm PDT in the Festival Pavilion
+
+Site: The San Francisco Fall Show - Home (sffallshow.org)
+Tickets: start at $22.79 – non refundable
+                   415 445 6701
 
