@@ -1,7 +1,6 @@
 # 2024-10 October
 
 * Scan Margaret's photos
-* Scan Sheila's photos
 * Scan Doris' photos
 * Editorial
 * Staff articles
@@ -12,6 +11,7 @@
 Done
 
 * Proofread #1 midge
+* Scan Sheila's photos
 
 ## Theme
 
