@@ -9,7 +9,6 @@
 ## Today
 
 * ?
-
 * ++
 
 ## SOON
@@ -20,14 +19,12 @@
 * Nicole Smith: PDF
 * Ronan
 * SPS: RandyMor: ?
-* Mike M
+* Mike Marean: folding desk
 * Kattah: endiatx
 * MikeFitz: ?
 * Kathy: basket
-* AweFou: Reserve Cottage
 * Stout: ready?
 * ConCon: cancel sub
-* Martha&amp;Vada: hygeine clinic details
 * Ship Smart
 * SquareSpace: broken links
 
@@ -42,7 +39,7 @@ Waiting
 
 * ++
 * Jon Casey Touchtown Czar?
-* Alex P: Wednesday
+* 
 
 ***
 
