@@ -1,5 +1,17 @@
 # 2024-10 October
 
+* Scan Margaret's photos
+* Scan Sheila's photos
+* Scan Doris' photos
+* Editorial
+* Staff articles
+* Marty event
+* Sage photo
+* Til photo
+
+Done
+
+* Proofread #1 midge
 
 ## Theme
 
@@ -41,7 +53,7 @@ October. Occupancy at 90.41%
 chairs and installed them on a few chairs to test them, but they didn’t work
 any better than what we have, so he is currently trying to find a better
 solution.
-* Fire alarms & loudspeakers
+* Fire alarms & loudspeakers, chairlifts, Elevators, Apartment refreshes,
 * Loading bay
 * Save the Date: The Great Shakeout is scheduled for Heritage on the
 Marina on October 17, 2024. For more information about this program

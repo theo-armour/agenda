@@ -1,6 +1,128 @@
 # Happenings Text
 
-Mary Liz Harris ~ Food Committee Chair
+## Jon Casey
+
+Heritage Happenings Color Printing is Unsatisfactory
+
+Hi Jon
+
+For recent issues of the Heritage Happenings, printing in color to paper using the Front Office printer has been unsatisfactory. The colors are not even nearly true. I provide two examples below.
+
+My guess is that a good cleaning of the printer heads and a recalibration of the printer would solve the problem. I would appreciate it if you could look into this.
+
+I note that the Heritage Happenings is given to residents and prospects and is a part of the marketing effort. It is important that the colors are true.
+
+Thank you in anticipation.
+
+Cheers,
+
+Theo
+
+Screen Grab of the masthead on the front page
+
+Photo of the printout of the masthead on the front page
+
+Screen Grab of the back page
+
+Photo of the printout of the back page
+
+
+
+
+
+## Martha and Vada
+
+October Heritage Happenings Newsletter: Wellness Update
+
+Hi Martha and Vada
+
+It would be useful and informative to residents and prospects to include wellness activity bullet highlights in the Heritage Happenings Newsletter on an ongoing basis.
+
+Here are some suggestions of possible text that could be used for the October issue:
+
+* Lauren K Chin (RDHAP) Discusses Dental Services, Thursday, October 3 at 3:00 in Friendship Hall, Ms Chin, a Registered Dental Hygienist in Alternative Practice (RDHAP) provides dental hygiene care outside of a traditional dental office.  Ms Chin, describes services she can provide to residents.
+* There will be a flu vaccine clinic on Tuesday, October 29 from 10am-2pm. Location, details, signups?
+* Starting October 1, the Resident Health Services team is conducting the annual tuberculosis testing for all residents to meet RCFE requirements and ensure the safety of all community members. Sign op in the Corridor
+
+These are just a few ideas. If you could provide a brief update on the above items, I will include them in the October issue.
+
+Thank you in anticipation.
+
+Cheers,
+
+Theo
+
+
+## Hector
+
+October Heritage Happenings Newsletter: Maintenance Update
+
+Hi Hector
+
+You update for the September issue was well received. Thank you.
+
+Here are some ideas for the October issue:
+
+* International Shakeout is on October 17. Millions of people worldwide participate in earthquake drills at work, school, or home! see www.shakeout.org. Heritage on the Marina will practice its earthquake drill. << better words??
+* Work continues on fire alarms, loudspeakers, chairlifts for the stairs, elevators, the Loading bay, and apartment refreshes. << Other items??
+
+I know your having a busy day, but if you could provide a brief update on the above items, I will include them in the October issue.
+
+Thank you in anticipation.
+
+Cheers,
+
+Theo
+
+
+
+
+
+
+
+## Bob Conn
+
+Hi Bob
+It would be useful and informative to residents and prospects to include marketing activity bullet highlights in the Heritage Happenings Newsletter on an ongoing basis.
+Here are some suggestions of possible text to be used for the October issue:
+
+* We welcomed new residents Val Szegeti and Tom King
+* An application has been received for 1530 Francisco with a move in October
+* October occupancy looking like 90%!
+* The Centenary of the Julia Morgan Building is to be celebrated on Wednesday, March 25, 2025. We are planning for a gathering of San Francisco dignitaries, Directors, team members and residents.
+
+Questions:
+* Where should we be looking for new Heritage ads in October?* Any other clever ideas?
+Cheers,
+Theo
+
+
+## Angie
+
+Hi Angie
+
+I am working on the Food Committee report for the October Heritage Happenings. I have a few questions.
+
+* When will the new menu start? Any highlights?
+* Will there any specials meals for events like these: Germany, Halloween, Columbus(?) Day, International Shakeout day, October 17, Halloween or others?
+* Birthday dinner will be on October 11?
+* The last Friday lunch of the month is always milkshake day?
+* The Superfood of the month is ?????
+* Is the third Thursday of the month a special meal day?
+* Are there any other regular special days of interest?
+
+Elsewhere I will mention the celebration for Marty on October 23.
+
+I well add your input to the Report Mary Liz has prepared and give it to her for review prior to publication.
+
+Thank you in anticipation.
+
+Cheers,
+
+Theo
+
+
+## Mary Liz Harris ~ Food Committee Chair
 The Food Committee met on September 10, 2024. Meeting Highlights:
 Angie distributed compiled comments from the Dining Room and Resident Council. We discussed these comments and will continue to gather more feedback
 We can no longer get Bassa fish; Tilapia & Cod are now used.
@@ -8,7 +130,7 @@ Stuffed peppers are too spicy.
 Thank you for the plump black olives - they were enjoyed!
 Delicious crab cakes! The entire meal was fantastic (crab cakes, beans, spinach & chocolate chip cookies).
 Upcoming:
-Birthday dinner will be on October 12
+Birthday dinner will be on October 11
 October will feature German food and a Halloween dinner on October 31
 The next Food Committee meeting for 2024 is on November 12.
 The last Friday lunch of the month is milkshake day. The Superfood is ?????

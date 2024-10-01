@@ -1,11 +1,9 @@
 # 3.1 Heritage Happenings
 
-* Jon Casey: Color printing
-* Maria Church Ombundsman: email?Heritage Happenings
+* Maria Church Ombundsman: email?
 
-waiting
 
-* Angie: November to Myanmar
+
 
 ## Template
 
