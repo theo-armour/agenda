@@ -1,17 +1,19 @@
 # 2024-10 October
 
-* Scan Margaret's photos
-* Scan Doris' photos
-* Editorial
+* Angie Phone number
+* Scan Doris' paintings
 * Staff articles
-* Marty event
 * Sage photo
 * Til photo
+* Maria Church Ombundsman: email?
 
 Done
 
 * Proofread #1 midge
 * Scan Sheila's photos
+* Editorial
+* Scan Margaret's photos
+* Marty event
 
 ## Theme
 

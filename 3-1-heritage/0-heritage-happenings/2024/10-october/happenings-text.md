@@ -1,5 +1,48 @@
 # Happenings Text
 
+## Theo Editorial
+
+Improve this draft. of an article for a RCFE newletter Let me know if you need more background.
+
+Partcipation
+
+Long time residents of Heritage on the Marina have been heard to exclaim that participation in activities used to be much greater that it is currently. Ten or more years ago, many more residents would take part in Out and About excursions, planning and giving parties, creating arts and crafts items and much more.
+
+Well the average age of residents has increased over the years and is now over ninety. Many feel that they have already done all the things they want to do and are content to stay in their apartments or take quiet walks. Or play a few hands of solitaire on thir laptop.
+
+Nonetheless, the other day I counted the number of people who were involved with putting together the September Heritage Happenings Newsletter, Calender and Resident Directory. There are forty-six pages of documents in total!
+
+I identified twenty-four residents and team members participated in some way in the production of the newsletter. The count does not include Sabine the cat. Given that we currently have seventy-seven residents, this is a very high percentage of participants.
+
+The community may not be as active in the ways it used to be, but there is still a lot of interest and involvement in the community.
+
+***
+
+# Participation: A Changing Landscape at Heritage on the Marina
+
+Long-time residents of Heritage on the Marina often reminisce about the days when participation in activities seemed more vibrant. A decade or more ago, Out and About excursions bustled with eager participants, residents enthusiastically planned and hosted parties, and the arts and crafts room hummed with creativity.
+
+## Shifting Demographics and Interests
+
+As the years have passed, our community has naturally evolved. The average age of our residents has climbed to over ninety, bringing with it a shift in interests and energy levels. Many of our cherished residents now find contentment in the comfort of their apartments, enjoying quiet walks, or perhaps indulging in a few hands of solitaire on their laptops.
+
+## A Different Kind of Engagement
+
+However, this change doesn't signify a lack of community involvement. Rather, it represents a transformation in how our residents choose to participate. A recent analysis of the September edition of our *Heritage Happenings* Newsletter, Calendar, and Resident Directory revealed a surprising level of engagement.
+
+## By the Numbers
+
+- Total pages produced: 46
+- Number of contributors: 24 (residents and team members combined)
+- Current resident population: 77
+
+This means that nearly one-third of our residents were directly involved in creating these vital community documents!
+
+## Conclusion
+
+While the nature of participation at Heritage on the Marina may have shifted, the spirit of community involvement remains strong. Our residents continue to contribute in meaningful ways, adapting to their changing needs and preferences.
+
+As we move forward, let's celebrate this evolution and continue to find new and engaging ways for all residents to participate in our vibrant community life.
 ## Jon Casey
 
 Heritage Happenings Color Printing is Unsatisfactory
