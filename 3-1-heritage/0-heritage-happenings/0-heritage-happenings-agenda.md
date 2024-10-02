@@ -3,8 +3,6 @@
 * Maria Church Ombundsman: email?
 
 
-
-
 ## Template
 
 https://onedrive.live.com/personal/5e22d509523afc95/_layouts/15/Doc.aspx?resid=5E22D509523AFC95!s5b6a4833fa8e41c3a8a97e89fb094d04&cid=5e22d509523afc95&migratedtospo=true&app=Word

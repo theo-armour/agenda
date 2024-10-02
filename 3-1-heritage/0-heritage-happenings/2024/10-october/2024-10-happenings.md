@@ -1,14 +1,14 @@
 # 2024-10 October
 
-* Angie Phone number
-* Scan Doris' paintings
 * Staff articles
-* Sage photo
 * Til photo
 * Maria Church Ombundsman: email?
 
 Done
 
+* Angie Phone number
+* Scan Doris' paintings
+* Sage photo
 * Proofread #1 midge
 * Scan Sheila's photos
 * Editorial
