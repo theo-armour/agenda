@@ -13,6 +13,7 @@
 
 ## SOON
 
+* Ron Bor: on links
 * EIR: Roses
 * HistPlan: submission
 * TGD: glasses
@@ -30,6 +31,7 @@
 
 Thinking
 
+* Tim Lattimore
 * Sensay ~ audiopen ~ seo
 * Bennet: HotM
 * Dan E: triads &amp; AI
