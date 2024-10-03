@@ -1,4 +1,4 @@
-# 2024-10 October
+# 2024-10 October Agenda
 
 * Staff articles
 * Til photo

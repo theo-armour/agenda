@@ -1,4 +1,4 @@
-# Heritage Read Me
+# Heritage Observations
 
 ## Dinner Invites
 
@@ -7,7 +7,7 @@
 * Mark Carranza
 * Jon Rubin
 
-## Audubon Ibis
+## Art: Audubon Ibis
 
 * audubon white ibis printed Havell 1834 price original
 
@@ -30,7 +30,7 @@
 * Serious contingent of anti-Mary residents
 * Sadly: most residents have little or no concept that they are part of a 170-year charitable legacy
 
-### Directors
+### Staff Directors
 
 * Overworked, under supported
 * Mary: speaks too fast, not touchy-feely
