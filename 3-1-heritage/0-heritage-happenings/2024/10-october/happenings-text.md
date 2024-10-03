@@ -1,5 +1,50 @@
 # Happenings Text
 
+## Hector
+
+New fire alarm panel:Installed and tested
+Loud speaker system: Proposals submitted, presently under review
+Perry & Morgan Stairs Chair Lifts: Proposals approved, presently reviewing next steps
+Loading Dock Safety Repair: 95% completed
+Porter Garden New irrigation line: Installation completed
+Apartment #213 & #327: Refresh: Demolition started
+Apartment #423 Laundry room conversion: Waiting on City Inspection & Approval
+Morgan Building Elevator: Reviewed project overall, waiting on architects final drawings
+Note: First we will install chairs lifts to 1st floors only. Need inspection and approval by city inspector. We need total project approval before installing on remaining floors.
+
+
+Fire alarm Panel:
+Installation lasted for 5 days from Monday Sept 16th to Friday Sept 20th, all successfully transfer and tested
+
+Louder Annunciator Speakers:
+
+
+Perry & Morgan Stairs Chair Lifts:
+Proposals approved and submitted to vendor, COI & W9 submitted on Monday Sept 30th, presently reviewing next steps process for permits & installing dedicated electrical outlets in the first floor of the Perry & Morgan Buildings stairways
+
+Note: we will install 2 lift chairs on the 1st floor of the 2 buildings to have it inspected and approve by the city inspector, need to be able to obtain total project approval before we move forward with the installation on the rest of the floors
+
+Morgan Building Elevator:
+Reviewed drawings and project as an overall, presently waiting on HKIT architects on final drawings, tentatively schedule for the 2nd week November
+
+Loading Dock Safety Repair:
+95% completed, running a little behind to be able to accommodate scheduled kitchen deliveries, schedule to be 100% completed, Thursday Oct 3rd
+
+Apartments Drawings / Approvals #423 Laundry room conversion / #213 & #327:
+
+Drawings approved, Proposals finalize and approved August 10th, approved bids approved Friday August 16th, preliminary construction meeting with GC scheduled for Thursday August 22nd,
+
+HKIT architects & GC construction prelim meeting schedule for Wednesday September 4th, all approved,
+
+Project started on Monday Sept 30th, presently demolishing apartment #213, demolition on #327 tentavily schedule to start on the 2nd week of October,
+
+#423 Laundry room conversion, presently waiting on final City Inspection /
+
+Drawings approvals
+
+Porter Garden New irrigation line installation:
+for For the area that had no automatic system, installation started Monday September 23rd. Completed Friday September 27th
+
 ## Theo Editorial
 
 Improve this draft. of an article for a RCFE newletter Let me know if you need more background.

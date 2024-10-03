@@ -21,7 +21,6 @@ Please review and provide feedback ASAP.
 * Angie
 * Roxana
 * Stephen
-* Kayla
 * Front Office
 
 
