@@ -1,5 +1,8 @@
 # iuZee PTZ
 
+* https://www.iuzee.com/
+* https://www.iuzee.com/products/20x-1080p-ptz-camera
+
 ## Description
 
 Very nice device.

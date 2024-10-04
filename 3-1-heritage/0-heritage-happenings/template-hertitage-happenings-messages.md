@@ -10,7 +10,10 @@ Heritage Happenings Newsletter
 
 As part of the monthly Around the World program, Heritage Happenings visits <country>. The colors are <colors>. The masthead cameo mascot is <description>.
 
-The _Heritage Happenings_ **Resident Directory** has also been updated this month. Please check that your contact information is correct.
+The Resident Directory has also been updated this month. Please check that your contact information is correct.
+
+Heritage Happenings Resident Directory
+
 Cheers,
 
 Theo
