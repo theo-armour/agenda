@@ -9,7 +9,8 @@
 ## Today
 
 * ?
-* Cynthia M
+* 
+
 * HH: family
 * Laura W
 * ++
