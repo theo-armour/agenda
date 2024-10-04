@@ -13,6 +13,7 @@
 
 ## SOON
 
+* Laurn Chin: slides to Martha
 * Ron Bor: on links
 * EIR: Roses
 * HistPlan: submission
