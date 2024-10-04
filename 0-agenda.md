@@ -9,8 +9,6 @@
 ## Today
 
 * ?
-* 
-
 * HH: family
 * Laura W
 * ++
