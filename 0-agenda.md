@@ -11,7 +11,7 @@
 * ?
 * HH: family
 * Eiseles
-* Laura W ~ falls infographic ~ nursing in RCFEs
+* Laura W ~ funding for history ~ spnsor five cdc nih ~ falls infographic ~ nursing in RCFEs
 * ++
 
 ## SOON
