@@ -15,12 +15,7 @@
 
 ## SOON
 
-* 
-
-* 
-
 * Ron Bor: on links
-
 * EIR: Roses
 * HistPlan: submission
 * TGD: glasses
