@@ -4,11 +4,20 @@ C:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied
 
 ## Subscriber Messages
 
+Heritage Happenings October Newsletter + Calendar + Resident Directory
+
+
 Click on the website link below to open your digital copy of:
 
-Heritage Happenings Newsletter
+Heritage Happenings <month> Newsletter
 
 As part of the monthly Around the World program, Heritage Happenings visits <country>. The colors are <colors>. The masthead cameo mascot is <description>.
+
+Click on the website link below to open your digital copy of:
+
+Heritage Happenings <month> Calendar
+
+The Heritage Happenings Newsletter has been updated this month. Please check that your contact information is correct.
 
 The Resident Directory has also been updated this month. Please check that your contact information is correct.
 
@@ -57,11 +66,13 @@ Authors
 
 * Tom Johnson
 
-## Heritage Happenings <month> Newsletter: Print Ready
+## Heritage Happenings <month> Newsletter + Resident Directory: Print Ready
 
 Good morning, Front Office
 
-The Heritage *Happenings* August **Newsletter** is ready for print. A copy is attached.
+The Heritage Happenings <month> Newsletter is ready for printing. A print-ready copy is attached.
+
+The Heritage Happenings <month> Resident Directory is ready for print. A print-ready copy is attached.
 
 Cheers,
 
