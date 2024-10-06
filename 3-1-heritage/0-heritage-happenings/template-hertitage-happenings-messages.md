@@ -13,6 +13,7 @@ Heritage Happenings <month> Newsletter
 
 As part of the monthly Around the World program, Heritage Happenings visits <country>. The colors are <colors>. The masthead cameo mascot is <description>.
 
+The Heritage Happenings Calendar is now being edited by Margaret Jacobs.
 Click on the website link below to open your digital copy of:
 
 Heritage Happenings <month> Calendar
@@ -21,7 +22,13 @@ The Heritage Happenings Newsletter has been updated this month. Please check tha
 
 The Resident Directory has also been updated this month. Please check that your contact information is correct.
 
+
+
 Heritage Happenings Resident Directory
+
+
+
+
 
 Cheers,
 
@@ -36,7 +43,7 @@ Apartment 227 C
 415 828 0000
 t.armour@gmail.com
 
-********************************
+***
 
 ## Initial Drafts
 
