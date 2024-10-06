@@ -1,14 +1,12 @@
 # Notes
 
+Mia pay
+
 ??[https://theo-armour.github.io/agenda/readme.html#3-1-heritage/3-4-residents-council/2024/09-september/2024-09-27-theo-notes.md](https://theo-armour.github.io/agenda/readme.html#3-1-heritage/3-4-residents-council/2024/09-september/2024-09-27-theo-notes.md)
 
 test Eir Calendar Locks
 
-  
-
 Henderson number 
-
-  
 
 [https://www.awesomefoundation.org/en/chapters/sf/projects?start=2024-08-01&end=2024-08-31&q=](https://www.awesomefoundation.org/en/chapters/sf/projects?start=2024-08-01&end=2024-08-31&q=) [https:/](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj)[/www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj](https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj)
 
