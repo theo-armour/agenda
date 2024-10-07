@@ -2,6 +2,10 @@
 
 Mia pay
 
+San Francisco museum & historical society 
+
+  
+
 ??[https://theo-armour.github.io/agenda/readme.html#3-1-heritage/3-4-residents-council/2024/09-september/2024-09-27-theo-notes.md](https://theo-armour.github.io/agenda/readme.html#3-1-heritage/3-4-residents-council/2024/09-september/2024-09-27-theo-notes.md)
 
 test Eir Calendar Locks
