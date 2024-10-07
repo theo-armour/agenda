@@ -2,6 +2,11 @@
 
 C:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software\software-by-vendor\microsoft\word.md
 
+Done:
+
+* Family
+* Team Members
+* BoD
 ## Subscriber Messages
 
 Heritage Happenings October Newsletter + Calendar + Resident Directory

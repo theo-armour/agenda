@@ -17,6 +17,20 @@
 
 ## Done
 
+### 2024-10-06
+
+Five levels of sponsorship
+
+* Mansion
+* Manor
+* Villa
+* Hacienda
+* Homestead
+
+* Cottage, bungalow, casita, cabin, lodge, hacienda,
+
+
+
 ### 2024-09-24: All added to my paper
 
 * Paper sent to Laura, Cindy, Michele & Randy
