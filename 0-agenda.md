@@ -12,12 +12,13 @@
 * HH: family
 * 
 
-* Laura W ~ funding for history ~ spnsor five levels&nbsp; cdc nih ~ falls infographic ~ nursing in RCFEs ~ ucsf care at home ~ ucsf care at home 4155143577 self refer
+* Laura W ~ funding for history ~ sponsor five levels ~ cdc nih ~ falls infographic ~ nursing in RCFEs ~ ucsf care at home ~ ucsf care at home 4155143577 self refer
 * &nbsp;project echo ~ tele precept&nbsp;
 * ++
 
 ## SOON
 
+* Anne Morris: Cookbook scans
 * Ron Bor: on links
 * MJ's friend: ? Grimes
 * EIR: Roses
@@ -29,7 +30,7 @@
 * Mike Marean: folding desk
 * Kattah: endiatx
 * MikeFitz: ?
-* Kathy: basket
+* Kathy Smith: basket
 * Stout: ready?
 * ConCon: cancel sub
 * Ship Smart
