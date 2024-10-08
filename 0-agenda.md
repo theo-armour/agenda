@@ -9,7 +9,6 @@
 ## Today
 
 * ?
-* HH: family
 * 
 
 * Laura W ~ funding for history ~ sponsor five levels ~ cdc nih ~ falls infographic ~ nursing in RCFEs ~ ucsf care at home ~ ucsf care at home 4155143577 self refer
