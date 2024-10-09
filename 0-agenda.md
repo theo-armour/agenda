@@ -15,7 +15,8 @@
 
 ## SOON
 
-* Allison: Eastern Bank log
+* 
+
 * Spotswood: to sacsem
 * EIR: Roses
 * HistPlan: submission
