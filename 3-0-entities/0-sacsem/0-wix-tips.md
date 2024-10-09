@@ -15,6 +15,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday, October 11 at Perry's on Union: Rob Thompson, Chief Cultural officer of the Presidio Trust
 * Friday, October 4 at Perry's on Union: Mark Buell, Democratic Party mega-donor, real estate developer, and philanthropist
 * Friday, September 27 at Perry's on Union: Lori Brooke, co-founder of Neighborhoods United SF and Cow Hollow Neighborhood leader
 * Friday, July 26 at At Perry's On Union: SF City Attorney David Chu
