@@ -15,10 +15,8 @@
 
 ## SOON
 
-* 
-
+* Anne Morris: Cookbook scans: cover? ~ return ~ send
 * Ron Bor: on links
-* MJ's friend: ? Grimes
 * EIR: Roses
 * HistPlan: submission
 * TGD: glasses
