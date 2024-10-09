@@ -15,7 +15,8 @@
 
 ## SOON
 
-* Anne Morris: Cookbook scans
+* 
+
 * Ron Bor: on links
 * MJ's friend: ? Grimes
 * EIR: Roses
