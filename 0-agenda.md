@@ -15,8 +15,7 @@
 
 ## SOON
 
-* 
-
+* Allison: Eastern Bank log
 * EIR: Roses
 * HistPlan: submission
 * TGD: glasses
