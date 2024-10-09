@@ -2,7 +2,7 @@
 
 ## Agenda
 
-* Spotswood: to sacsem
+* Spotswood: oc 18 email to sacsem
 * SacSem: CC to three: cancel
 * SacSem: Jon: Description ~ subtitle
 * 
