@@ -15,6 +15,8 @@
 
 ## SOON
 
+* Julia Morgan mtg: zoom
+* Marty Nolan
 * EIR: Roses
 
 * HistPlan: submission
