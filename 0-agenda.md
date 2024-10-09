@@ -15,10 +15,8 @@
 
 ## SOON
 
-* 
-
-* Spotswood: to sacsem
 * EIR: Roses
+
 * HistPlan: submission
 * TGD: glasses
 * Nicole Smith: PDF
