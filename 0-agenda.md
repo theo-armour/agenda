@@ -15,8 +15,8 @@
 
 ## SOON
 
-* Anne Morris: Cookbook scans: cover? ~ return ~ send
-* Ron Bor: on links
+* 
+
 * EIR: Roses
 * HistPlan: submission
 * TGD: glasses
@@ -34,6 +34,7 @@
 
 Thinking
 
+* Anne Morris: Cookbook scans: cover? ~ return ~ send
 * Tim Lattimore
 * Sensay ~ audiopen ~ seo
 * Bennet: HotM
