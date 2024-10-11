@@ -2,9 +2,11 @@
 
 ## Agenda
 
-* ?
+* ? Next meeting Nov6
+* Lighting quote
+* Dr McNeil
 * Meet with Patti
-
+* Rod Dugliss + Laura
 * Draft letter to invitees
 * Draft Press release
 * <a href="https://a3visual.com/:">https://a3visual.com/:</a> quote
@@ -15,8 +17,10 @@
 * Chronic
 
 ## Done
+
 <font color="#00008b"><span style="font-size: 15.6px;">**
-**</span></font><font color="#00008b"><span style="font-size: 15.6px;">***&nbsp;**</span></font>
+****</span></font>**<font color="#00008b"><span style="font-size: 15.6px;"></span></font>**<font color="#00008b">_&nbsp;_*</font>
+
 * Meet with Bob: discuss media
 
 ### 2024-10-06
