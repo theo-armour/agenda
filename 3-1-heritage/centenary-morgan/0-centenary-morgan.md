@@ -3,6 +3,9 @@
 ## Agenda
 
 * ? Next meeting Nov6
+* Martha Nell
+* EIR: Roses
+* HistPlan: submission
 * Lighting quote
 * Dr McNeil
 * Meet with Patti
