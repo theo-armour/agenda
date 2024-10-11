@@ -15,10 +15,8 @@
 
 ## SOON
 
-* Martha Nell
-* EIR: Roses
-* HistPlan: submission
 * TGD: glasses
+
 * Nicole Smith: PDF
 * Ronan
 * SPS: RandyMor: ?
