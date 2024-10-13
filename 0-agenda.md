@@ -9,27 +9,22 @@
 ## Today
 
 * ?
-* 
-
 * Laura W ~ funding for history ~ sponsor five levels ~ cdc nih ~ falls infographic ~ nursing in RCFEs ~ ucsf care at home ~ ucsf care at home 4155143577 self refer
-
 * &nbsp;project echo ~ tele precept&nbsp;
 * Carpet stain clean
-* Wip keyboard
-* Saturday things
+* 
+
 * ++
 
 ## SOON
 
 * TGD: glasses
-* Alex: Perry's?
 * Nicole Smith: PDF
 * Ronan
 * SPS: RandyMor: ?
 * Mike Marean: folding desk
 * Kattah: endiatx
 * MikeFitz: ?
-* Kathy Smith: basket
 * Stout: ready?
 * Ship Smart
 * SquareSpace: broken links
@@ -37,15 +32,9 @@
 Thinking
 
 * Anne Morris: Cookbook scans: cover? ~ return ~ send
-* 
-
+* Peter Granucci: computer help
 * Sensay ~ audiopen ~ seo
 * 
-
-* Dan E: triads &amp; AI
-* 
-
-* Peter Granucci: computer help
 
 Waiting
 
@@ -178,6 +167,10 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">Family</a>
 
 * ++
+* Alex: Perry's?
+* Kathy Smith: basket
+* Bennet: HotM
+* Dan E: triads &amp; AI
 
 </details>
 <!-- Family -->
