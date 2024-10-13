@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* Jon Casey Touchtown Czar?
 * SF:Historical Plan
 * Roses: photos
 * Nail Salon on site? Mary will investigate this.
@@ -44,8 +45,8 @@ Residents
 * Lillemor: Surströmming party
 
 Marty Party
-
 *
+
 * Invites
 * Copy of book?
 * Oral History Center, The Bancroft Library, University of California, Berkeley ~ link to Nolan not found
