@@ -14,13 +14,15 @@
 * Laura W ~ funding for history ~ sponsor five levels ~ cdc nih ~ falls infographic ~ nursing in RCFEs ~ ucsf care at home ~ ucsf care at home 4155143577 self refer
 
 * &nbsp;project echo ~ tele precept&nbsp;
-* 
-
+* Carpet stain clean
+* Wip keyboard
+* Saturday things
 * ++
 
 ## SOON
 
 * TGD: glasses
+* Alex: Perry's?
 * Nicole Smith: PDF
 * Ronan
 * SPS: RandyMor: ?
@@ -35,11 +37,14 @@
 Thinking
 
 * Anne Morris: Cookbook scans: cover? ~ return ~ send
-* Tim Lattimore
+* 
+
 * Sensay ~ audiopen ~ seo
-* Bennet: HotM
+* 
+
 * Dan E: triads &amp; AI
-* Christine &amp; Pam
+* 
+
 * Peter Granucci: computer help
 
 Waiting
@@ -168,7 +173,7 @@ Waiting
 
 </details>
 <!-- Family -->
-<details>
+<details open="">
 <summary>family</summary>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">Family</a>
 
@@ -182,6 +187,8 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * 2am
+* Tim Lattimore
+* Christine &amp; Pam
 * Ronan: PLE ~ endiatx ~ jason ~ intro text
 * Mike Marean: zoom&nbsp;
 * Ray Eisenberg
