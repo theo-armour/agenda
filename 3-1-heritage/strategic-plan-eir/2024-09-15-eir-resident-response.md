@@ -80,7 +80,7 @@ For sure
 
 N/A
 
-## Character-Defining Features15 ~ p3.B-15
+## Character-Defining Features 15 ~ p3.B-15
 
 * Terra Cotta details with representations of a Tudor rose—a symbol of love—evident in twelve different manners (or more) and in dozens of locations throughout the building
 * Unencumbered, undecorated reinforced concrete structure evident in the main lobby
@@ -94,7 +94,7 @@ N/A
 * Page and Turnbull. 2023. 3400 Laguna Street Historic Resource Evaluation, Part 1 – Revised, Prepared for the San
 Francisco Planning Department. February 16.
 15
-Character-defining features are essential physic
+Character-defining features are essential physical
 
 ### Links
 
