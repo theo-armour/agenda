@@ -45,9 +45,8 @@ Thinking
 Waiting
 
 * ++
-* Jon Casey Touchtown Czar?
+* 
 
-*
 ***
 
 <details>
@@ -177,7 +176,7 @@ Waiting
 
 </details>
 <!-- Family -->
-<details>
+<details open="">
 
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
@@ -243,7 +242,7 @@ Waiting
 <!-- -->
 </details>
 <!-- -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
