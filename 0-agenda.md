@@ -50,7 +50,7 @@ Waiting
 *
 ***
 
-<details open="">
+<details>
 
 <summary>Admin</summary>
 
@@ -203,7 +203,7 @@ Waiting
 ***
 
 <!-- -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
