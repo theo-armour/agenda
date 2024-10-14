@@ -19,7 +19,6 @@
 
 * Dr Fassett: agenda
 * EIR: Draft #2
-* DotD
 * Mia: tasks ~ Marina Handyman
 
 *
@@ -41,7 +40,7 @@ Waiting
 
 ***
 
-<details>
+<details open="">
 <summary>Admin</summary>
 
 * ?
