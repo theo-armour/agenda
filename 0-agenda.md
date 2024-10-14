@@ -23,11 +23,10 @@
 * 
 
 * Kattah: endiatx
-* 
-
 * Stout: ready?
 * Ship Smart
 * SquareSpace: broken links
+* AudioPen: Download audio
 
 Thinking
 
@@ -41,7 +40,7 @@ Waiting
 
 ***
 
-<details>
+<details open="">
 
 <summary>Admin</summary>
 
@@ -216,7 +215,7 @@ Waiting
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sacsem/0-sacsem-agenda.md&quot;">sacsem</a>
 <!-- -->
-<details>
+<details open="">
 
 <summary>sensay</summary>
 
@@ -227,12 +226,13 @@ Waiting
 
 </details>
 <!-- -->
-<details open="">
+<details>
 
 <summary>sps </summary>
 
-* sps:
-* SPS: Randy
+* ++
+* SPS: RandyMor: ?
+* Mike Marean: folding desk
 
 ## Done
 
