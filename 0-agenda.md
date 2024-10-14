@@ -11,15 +11,14 @@
 * ?
 * Laura W ~ funding for history ~ sponsor five levels ~ cdc nih ~ falls infographic ~ nursing in RCFEs ~ ucsf care at home ~ ucsf care at home 4155143577 self refer
 * &nbsp;project echo ~ tele precept&nbsp;
-* Carpet stain clean
 * 
 
 * ++
 
 ## SOON
 
-* Nicole Smith: PDF
-
+* Dr Fassett: agenda
+* EIR: Draft #2
 * 
 
 * 
@@ -31,6 +30,7 @@ Thinking
 * Ship Smart
 * SquareSpace: broken links
 * AudioPen: Download audio
+* Nicole Smith: PDF
 
 Waiting
 
@@ -214,7 +214,7 @@ Waiting
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sacsem/0-sacsem-agenda.md&quot;">sacsem</a>
 <!-- -->
-<details open="">
+<details>
 
 <summary>sensay</summary>
 
