@@ -18,10 +18,10 @@
 
 ## SOON
 
-* TGD: glasses
 * Nicole Smith: PDF
-* SPS: RandyMor: ?
-* Mike Marean: folding desk
+
+* 
+
 * Kattah: endiatx
 * 
 
@@ -207,6 +207,7 @@ Waiting
 <!-- -->
 
 * ?
+* TGD: glasses
 
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">entities</a>
@@ -226,7 +227,7 @@ Waiting
 
 </details>
 <!-- -->
-<details>
+<details open="">
 
 <summary>sps </summary>
 
