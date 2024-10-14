@@ -9,16 +9,17 @@ Agenda
 ## Remember
 
 * Next: add a list of interesting things to look at as the first item. Otherwise, it is too easy to overlook
+
 ## Questions
 
 * See: 2023-06-01-fassett-report.md
 * What made red skin go away?
 * Rash cream
 * Aquaphor or Eucerin?
-* Identify laces where things grow on head
+* Identify places where things grow on head
 * 4 warts
 * 1 Dermatofibroma
-* why did red areas on right ankles disappear
+* Why did red areas on right ankles disappear
 * What about dark patch on inside of left ankle
 
 
