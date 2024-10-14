@@ -33,7 +33,8 @@ Thinking
 
 * 
 
-* Peter Granucci: computer help
+* 
+
 * Sensay ~ audiopen ~ seo
 * 
 
