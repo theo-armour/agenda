@@ -20,7 +20,7 @@
 * Dr Fassett: agenda
 * EIR: Draft #2
 * DotD
-* Maia: tasks ~ Marina Handyman
+* Mia: tasks ~ Marina Handyman
 
 *
 
@@ -182,7 +182,7 @@ Waiting
 ***
 
 <!-- -->
-<details open="">
+<details>
 <summary>Entities</summary>
 <!-- -->
 
@@ -221,7 +221,7 @@ Waiting
 <!-- -->
 </details>
 <!-- -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
