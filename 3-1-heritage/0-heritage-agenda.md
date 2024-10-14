@@ -38,8 +38,9 @@ Staff
 
 Residents
 
+* Anne Morris: Cookbook scans: cover scan
 * Eleanor B: Reminiscences
-* Morris: Anne's Cookbook: Amy?
+* Anne Morris: Anne's Cookbook to Amy?
 * AnneM: Evanston house in Birth of a Nation
 * Patrick: use Front Office
 * Lillemor: Surströmming party
