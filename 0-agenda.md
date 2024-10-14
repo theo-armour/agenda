@@ -142,7 +142,7 @@ Waiting
 <!-- Family -->
 <details>
 
-<summary>family</summary>
+<summary>Family</summary>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">Family</a>
 
