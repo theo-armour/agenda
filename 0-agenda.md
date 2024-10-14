@@ -17,10 +17,9 @@
 
 ## SOON
 
-* Dr Fassett: agenda
+* Dr Fassett: agenda ~ looked
 * EIR: Draft #2
-* DotD
-* Maia: tasks ~ Marina Handyman
+* Mia: tasks ~ Marina Handyman ~ started
 
 *
 
@@ -41,7 +40,7 @@ Waiting
 
 ***
 
-<details>
+<details open="">
 <summary>Admin</summary>
 
 * ?
@@ -182,7 +181,7 @@ Waiting
 ***
 
 <!-- -->
-<details open="">
+<details>
 <summary>Entities</summary>
 <!-- -->
 
@@ -226,10 +225,11 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
+* hheimark@hotmail.com: HH
 
 *
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">agenda</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">0-agenda</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/10-october/2024-10-happenings.md&quot;">october</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/activities/0-activities.md&quot;">activities</a>
