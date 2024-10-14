@@ -21,7 +21,7 @@
 
 ## Coding
 
-* Delete old passwords
+* Win+V: clipboard historyDelete old passwords
 * Bookmarks HTML to JSON
 * Harvest those bookmarks
 * Snippets
