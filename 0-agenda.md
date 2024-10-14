@@ -17,9 +17,9 @@
 
 ## SOON
 
-* Dr Fassett: agenda
+* Dr Fassett: agenda ~ looked
 * EIR: Draft #2
-* Mia: tasks ~ Marina Handyman
+* Mia: tasks ~ Marina Handyman ~ started
 
 *
 
