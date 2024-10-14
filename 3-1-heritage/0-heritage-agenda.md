@@ -38,6 +38,7 @@ Staff
 
 Residents
 
+* Peter Granucci: computer help
 * Anne Morris: Cookbook scans: cover scan
 * Eleanor B: Reminiscences
 * Anne Morris: Anne's Cookbook to Amy?
