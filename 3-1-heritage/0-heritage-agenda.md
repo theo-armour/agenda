@@ -20,7 +20,7 @@
 * Heritage: fill in medical form
 * Dr Fassett: clinic
 * Martha: Dermatology clinic ~ PPH ~ HH Advisory
-* Pharamerica: waiting
+* 
 
 Strategic Plan
 
