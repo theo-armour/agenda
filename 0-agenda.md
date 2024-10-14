@@ -31,10 +31,6 @@
 
 Thinking
 
-* 
-
-* 
-
 * Sensay ~ audiopen ~ seo
 * 
 
@@ -125,7 +121,7 @@ Waiting
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a></details>
 
-<details>
+<details open="">
 <summary>Simplicity</summary>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 simplicity</a>
