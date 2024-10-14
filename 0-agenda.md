@@ -11,7 +11,7 @@
 * ?
 * Laura W ~ funding for history ~ sponsor five levels ~ cdc nih ~ falls infographic ~ nursing in RCFEs ~ ucsf care at home ~ ucsf care at home 4155143577 self refer
 * &nbsp;project echo ~ tele precept&nbsp;
-* 
+*
 
 * ++
 
@@ -21,7 +21,7 @@
 * EIR: Draft #2
 * DotD
 * Maia: tasks ~ Marina Handyman
-* 
+*
 
 Thinking
 
@@ -35,7 +35,7 @@ Thinking
 Waiting
 
 * ++
-* 
+*
 
 ***
 
@@ -83,6 +83,9 @@ Waiting
 <details>
 
 <summary>Health</summary>
+
+* ++
+
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
 * Check dates
@@ -247,7 +250,7 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
-* 
+*
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">agenda</a>
 
