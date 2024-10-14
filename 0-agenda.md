@@ -20,11 +20,11 @@
 
 * TGD: glasses
 * Nicole Smith: PDF
-* Ronan
 * SPS: RandyMor: ?
 * Mike Marean: folding desk
 * Kattah: endiatx
-* MikeFitz: ?
+* 
+
 * Stout: ready?
 * Ship Smart
 * SquareSpace: broken links
@@ -121,7 +121,7 @@ Waiting
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a></details>
 
-<details open="">
+<details>
 <summary>Simplicity</summary>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 simplicity</a>
@@ -178,6 +178,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * 2am
+* Ronan
 * Tim Lattimore
 * Christine &amp; Pam
 * Ronan: PLE ~ endiatx ~ jason ~ intro text
