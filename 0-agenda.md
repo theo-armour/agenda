@@ -19,8 +19,8 @@
 
 * Dr Fassett: agenda
 * EIR: Draft #2
-* 
-
+* DotD
+* Maia: tasks ~ Marina Handyman
 * 
 
 Thinking
@@ -39,7 +39,7 @@ Waiting
 
 ***
 
-<details open="">
+<details>
 
 <summary>Admin</summary>
 
@@ -63,6 +63,7 @@ Waiting
 * ?
 * W:&nbsp;
 * S: ?? ~ Chia seeds
+* Plateau chair
 * EyeBuyDirect: small specs?
 * John King ~ The Portal book
 
