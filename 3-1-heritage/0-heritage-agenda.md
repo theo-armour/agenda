@@ -43,9 +43,9 @@ Residents
 * AnneM: Evanston house in Birth of a Nation
 * Patrick: use Front Office
 * Lillemor: Surströmming party
+* 
 
 Marty Party
-*
 
 * Invites
 * Copy of book?
