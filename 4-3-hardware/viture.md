@@ -1,4 +1,4 @@
-* Viture Pro XR
+# Viture Pro XR
 
 ## Viture
 
@@ -47,4 +47,18 @@ I have a vs code. Above It is extremely clear, and I can read the text Easily. T
 ### Support
 
 * Only support via Discord
+
+
+## Log
+
+### 2024-10-13
+
+* Screen walker works! I can see my desktop screen. Multiple displays. Encourages me to use voice to enter in text.
+* It's quite clear. I can certainly do kind of work maybe.
+* Typing is very tricky. Slow and cumbersome.
+* A lot of settings to figure out And get working.
+* Still does not want to upgrade to latest firmware.
+* SpaceWalker does not run on the Microsoft Surface
+* Did the glasses make me feel nauseous? Maybe.
+
 
