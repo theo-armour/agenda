@@ -11,30 +11,26 @@
 * ?
 * Laura W ~ funding for history ~ sponsor five levels ~ cdc nih ~ falls infographic ~ nursing in RCFEs ~ ucsf care at home ~ ucsf care at home 4155143577 self refer
 * &nbsp;project echo ~ tele precept&nbsp;
-* Carpet stain clean
 * 
 
 * ++
 
 ## SOON
 
-* TGD: glasses
-* Nicole Smith: PDF
-* Ronan
-* SPS: RandyMor: ?
-* Mike Marean: folding desk
-* Kattah: endiatx
-* MikeFitz: ?
-* Stout: ready?
-* Ship Smart
-* SquareSpace: broken links
+* Dr Fassett: agenda
+* EIR: Draft #2
+* DotD
+* Maia: tasks ~ Marina Handyman
+* 
 
 Thinking
 
-* Anne Morris: Cookbook scans: cover? ~ return ~ send
-* Peter Granucci: computer help
 * Sensay ~ audiopen ~ seo
-* 
+* Stout: ready?
+* Ship Smart
+* SquareSpace: broken links
+* AudioPen: Download audio
+* Nicole Smith: PDF
 
 Waiting
 
@@ -65,8 +61,9 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* W:&nbsp;
+* A: Miralax
 * S: ?? ~ Chia seeds
+* Plateau chair
 * EyeBuyDirect: small specs?
 * John King ~ The Portal book
 
@@ -162,7 +159,7 @@ Waiting
 
 </details>
 <!-- Family -->
-<details open="">
+<details>
 <summary>family</summary>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">Family</a>
 
@@ -174,12 +171,13 @@ Waiting
 
 </details>
 <!-- Family -->
-<details open="">
+<details>
 
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
 * 2am
+* Ronan
 * Tim Lattimore
 * Christine &amp; Pam
 * Ronan: PLE ~ endiatx ~ jason ~ intro text
@@ -202,12 +200,13 @@ Waiting
 ***
 
 <!-- -->
-<details>
+<details open="">
 
 <summary>Entities</summary>
 <!-- -->
 
 * ?
+* TGD: glasses
 
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">entities</a>
@@ -231,8 +230,9 @@ Waiting
 
 <summary>sps </summary>
 
-* sps:
-* SPS: Randy
+* ++
+* SPS: RandyMor: ?
+* Mike Marean: folding desk
 
 ## Done
 
@@ -242,7 +242,7 @@ Waiting
 <!-- -->
 </details>
 <!-- -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
