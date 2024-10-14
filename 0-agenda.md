@@ -31,7 +31,8 @@
 
 Thinking
 
-* Anne Morris: Cookbook scans: cover? ~ return ~ send
+* 
+
 * Peter Granucci: computer help
 * Sensay ~ audiopen ~ seo
 * 
