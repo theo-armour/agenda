@@ -23,7 +23,7 @@ Any monitoring of the construction process should be done with an eye to the pre
 
 Impacts TR-1,2,3
 
-The proposed project will have a significant beneficial impact on the accessibility and walkability of the neighborhood. Residents, workers will have safer access to the build by having sidewalks rather than a prking lot to walk through. The distance to get to the Fort Mason meadow will be shorter, safer and more direct
+The proposed project will have a significant beneficial impact on the accessibility and walkability of the neighborhood. Residents, workers will have safer access to the build by having sidewalks rather than a parking lot to walk through. The distance to get to the Fort Mason meadow will be shorter, safer and more direct
 
 ### Section E.7 Noise ~ page S-25
 
