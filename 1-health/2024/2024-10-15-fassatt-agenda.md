@@ -7,7 +7,7 @@
 
 Shampoo
 
-* Head and shoulders ~ Pyrithione zinc 1%
+* Head and Shoulders ~ Pyrithione zinc 1%
 * Neutrogena T-gel ~ 0.5% Coal tar
 * Nizoral ~ Ketoconoazole 1%
 
