@@ -80,7 +80,7 @@ For sure
 
 N/A
 
-## Character-Defining Features 15 ~ p3.B-15
+## Character-Defining Features 15 ~ page 3.B-15
 
 * Terra Cotta details with representations of a Tudor rose—a symbol of love—evident in twelve different manners (or more) and in dozens of locations throughout the building
 * Unencumbered, undecorated reinforced concrete structure evident in the main lobby
@@ -91,19 +91,18 @@ N/A
 
 * https://www.page-turnbull.com/
 * 415-362-5154
-* Page and Turnbull. 2023. 3400 Laguna Street Historic Resource Evaluation, Part 1 – Revised, Prepared for the San
-Francisco Planning Department. February 16.
-15
-Character-defining features are essential physical
+* Page and Turnbull. 2023. 3400 Laguna Street Historic Resource Evaluation, Part 1 – Revised, Prepared for the San Francisco Planning Department. February 16.
+15 Character-defining features are essential physical
 
 ### Links
 
 * https://commissions.sfplanning.org/hpcpackets/2010.2776.pdf
 * https://www.hmdb.org/
 
+
 ### Adjacent Historic Architectural Resources
-According to the HRR,17 the project site is in the Marina neighborhood. Across Laguna Street to the
-west, the 3400 Laguna Street property faces the Moscone Recreation Center that contains the article 10 designated Marina Branch Library and the California Register-eligible Funston bleachers that are identified as contributors to the discontiguous Midcentury Recreation historic district. In addition, the Fort Mason historic district is located to the north of the proposed project. The 3400 Laguna Street property, which is the proposed project site, occupies the western half of a residential block situated
+
+According to the HRR,17 the project site is in the Marina neighborhood. Across Laguna Street to the west, the 3400 Laguna Street property faces the Moscone Recreation Center that contains the article 10 designated Marina Branch Library and the California Register-eligible Funston bleachers that are identified as contributors to the discontiguous Midcentury Recreation historic district. In addition, the Fort Mason historic district is located to the north of the proposed project. The 3400 Laguna Street property, which is the proposed project site, occupies the western half of a residential block situated
 between Laguna and Octavia streets. The following is a brief description of the historic resources near the project site:
 
 
