@@ -1,7 +1,10 @@
-# 2024-10-15 Fassett Agenda
+# 2024-10-15 Fassett
+
+## Agenda
 
 * Volcano
-* wart
+* Wart
+* Blackhead
 * Dermato fibroma
 * Why did red areas on right ankle disappear?
 
