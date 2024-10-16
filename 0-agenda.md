@@ -11,7 +11,7 @@
 * ?
 * Laura W ~ funding for history ~ sponsor five levels ~ cdc nih ~ falls infographic ~ nursing in RCFEs ~ ucsf care at home ~ ucsf care at home 4155143577 self refer
 * &nbsp;project echo ~ tele precept&nbsp;
-* Prosthetics 628-758-2007
+* 
 
 *
 
@@ -19,8 +19,8 @@
 
 ## SOON
 
-* Dr Fassett: agenda ~ looked
-* EIR: Draft #2
+* 
+
 * Mia: tasks ~ Marina Handyman ~ started
 
 *
@@ -40,7 +40,7 @@ Waiting
 *
 ***
 
-<details open="">
+<details>
 
 <summary>Admin</summary>
 
