@@ -40,7 +40,7 @@ Waiting
 *
 ***
 
-<details open="">
+<details>
 
 <summary>Admin</summary>
 
