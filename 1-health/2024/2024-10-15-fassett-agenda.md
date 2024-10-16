@@ -1,6 +1,4 @@
-# 2024-10-15 Fassett
-
-## Agenda
+# Dr Fassett Agenda
 
 * Volcano
 * Wart

@@ -152,6 +152,13 @@ Private premises with a front garden entirely visible to the public extending to
 * Pacific Union Club
 * Mary Ellen Pleasant Memorial Park ~ https://www.foundsf.org/index.php?title=Mary_Ellen_Pleasant
 
+## Hobart Hall ~ 1920-1921
+
+* https://www.hmdb.org/m.asp?m=50801
+* https://en.wikipedia.org/wiki/Berkeley_School_of_Theology
+* https://www.berkeleydailyplanet.com/issue/2000-04-08/article/777
+* https://schooldesigns.com/Projects/american-baptist-seminary-of-the-west-hobart-hall/
+
 
 ### 3320 Baker Street
 
