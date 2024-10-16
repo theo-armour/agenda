@@ -19,8 +19,7 @@
 
 ## SOON
 
-* 
-
+* Jone + Johnson: JM papers
 * Mia: tasks ~ Marina Handyman ~ started
 
 *
