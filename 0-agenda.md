@@ -19,7 +19,7 @@
 
 ## SOON
 
-* Jone + Johnson: JM papers
+* Jones + Johnson: JM papers
 * Mia: tasks ~ Marina Handyman ~ started
 
 *
@@ -39,7 +39,7 @@ Waiting
 *
 ***
 
-<details>
+<details open="">
 
 <summary>Admin</summary>
 
