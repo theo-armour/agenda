@@ -20,7 +20,7 @@
 * Jones + Johnson: JM papers
 * Mia: tasks ~ Marina Handyman ~ started
 * Tiffany ~ Awesome disability
-* Joel : hdmi
+* Joel: hdmi
 * 
 
 Thinking
