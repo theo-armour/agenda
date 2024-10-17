@@ -72,10 +72,13 @@ Waiting
 </details>
 ***
 
-<details>
+<details open="">
 <summary>Health</summary>
 
 * ++
+* ucsf care at home ~ 4155143577
+* self refer
+* project echo ~ tele precept&nbsp;
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
