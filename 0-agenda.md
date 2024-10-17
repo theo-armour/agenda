@@ -18,7 +18,7 @@
 * Jones + Johnson: JM papers
 * Mia: tasks ~ Marina Handyman ~ started
 * Tiffany ~ Awesome disability
-* Joel: hdmi
+* Joel: hdmi ~ map
 * Marty Party: paper invite
 * Marty Party: PDF to residents
 * Tom King reply
