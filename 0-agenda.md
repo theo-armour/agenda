@@ -19,7 +19,10 @@
 * Mia: tasks ~ Marina Handyman ~ started
 * Tiffany ~ Awesome disability
 * Joel: hdmi
-* 
+* Marty Party: paper invite
+* Marty Party: PDF to residents
+* Tom King reply
+* Marty Party: UC book?
 
 Thinking
 
