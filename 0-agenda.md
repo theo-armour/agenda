@@ -85,6 +85,9 @@ Waiting
 
 * https://geriatrics.ucsf.edu/patient-care/ucsf/outpatient-geriatrics-consults#Integrative%20Aging%20Clinic
 
+* Project Echo ~ tele precept ~ many aspects
+* CDC NIH: fall risk infographics&nbsp;&nbsp;
+
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
 
 * Check dates
