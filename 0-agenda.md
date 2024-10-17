@@ -21,7 +21,7 @@
 * Mia: tasks ~ Marina Handyman ~ started
 * Tiffany ~ Awesome disability
 * Joel : hdmi
-* Patrick: msg to residents
+* 
 
 Thinking
 
