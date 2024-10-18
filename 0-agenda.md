@@ -16,10 +16,9 @@
 * Jones + Johnson: JM papers
 * Mia: tasks ~ Marina Handyman ~ started
 * Tiffany ~ Awesome disability
-* Joel: hdmi ~ map
+* Joel: map
 * Marty Party: paper invite
 * Marty Party: PDF to residents
-* Tom King reply
 * Marty Party: UC book?
 
 Thinking
