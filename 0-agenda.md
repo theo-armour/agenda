@@ -13,13 +13,14 @@
 
 ## SOON
 
-* Jones + Johnson: JM papers
+* Jones + Johnson: JM papers + sean + residents
 * Mia: tasks ~ Marina Handyman ~ started
 * Tiffany ~ Awesome disability
 * Joel: map
 * Marty Party: paper invite
 * Marty Party: PDF to residents
 * Marty Party: UC book?
+* Pharmamerica: address
 
 Thinking
 
