@@ -13,6 +13,8 @@
 
 ## SOON
 
+* SacSem: dues
+* SacSem: Jon Rubin: scan photos
 * Jones + Johnson: JM papers + sean + residents
 * Mia: tasks ~ Marina Handyman ~ started
 * Tiffany ~ Awesome disability
@@ -38,7 +40,7 @@ Waiting
 *
 ***
 
-<details open="">
+<details>
 
 <summary>Admin</summary>
 
@@ -79,7 +81,7 @@ Waiting
 </details>
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
