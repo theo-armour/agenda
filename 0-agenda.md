@@ -14,6 +14,8 @@
 ## SOON
 
 * SacSem: dues
+* He: Satisfaction Survey
+* Ballot
 * SacSem: Jon Rubin: scan photos
 * Jones + Johnson: JM papers + sean + residents
 * Mia: tasks ~ Marina Handyman ~ started
