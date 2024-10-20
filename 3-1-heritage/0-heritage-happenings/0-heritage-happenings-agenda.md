@@ -1,37 +1,31 @@
 # 3.1 Heritage Happenings
 
 * Maria Church Ombundsman: email?
-
+* HH: future: I build web pages, somebpdy else turns them into paper&nbsp;
 
 ## Template
 
-https://onedrive.live.com/personal/5e22d509523afc95/_layouts/15/Doc.aspx?resid=5E22D509523AFC95!s5b6a4833fa8e41c3a8a97e89fb094d04&cid=5e22d509523afc95&migratedtospo=true&app=Word
-
+<a href="https://onedrive.live.com/personal/5e22d509523afc95/_layouts/15/Doc.aspx?resid=5E22D509523AFC95!s5b6a4833fa8e41c3a8a97e89fb094d04&amp;cid=5e22d509523afc95&amp;migratedtospo=true&amp;app=Word">https://onedrive.live.com/personal/5e22d509523afc95/_layouts/15/Doc.aspx?resid=5E22D509523AFC95!s5b6a4833fa8e41c3a8a97e89fb094d04&amp;cid=5e22d509523afc95&amp;migratedtospo=true&amp;app=Word</a>
 ## Heritage Happenings Submissions Guidelines
 
-Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q](https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q)
+Link: <a href="https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q">https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q</a>
+## Heritage Happenings Reference Manual &amp; Style Guide
 
-## Heritage Happenings Reference Manual & Style Guide
-
-Link: [https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc](https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc)
-
-
+Link: <a href="https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc">https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc</a>
 ## Subscriptions
 
 * ?
 
 ## Editorial Committee
 
-
 ## Graphic Design
 
 * New Logo
 * External Comments
-* [https://www.fiverr.com/](https://www.fiverr.com/)
+* <a href="https://www.fiverr.com/">https://www.fiverr.com/</a>
 * Testing of prints
 
 ## Calendar
-
 
 ## Residents Directory
 
