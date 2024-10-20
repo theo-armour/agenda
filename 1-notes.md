@@ -1,10 +1,8 @@
 # Notes
 
-  
-
 Sacsem dues
 
-  
+Van ucsf
 
 Charles sowers sculptor 
 
