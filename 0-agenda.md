@@ -13,6 +13,7 @@
 
 ## SOON
 
+* Maragaret Jonson: article
 * SacSem: dues
 * He: Satisfaction Survey
 * Ballot
