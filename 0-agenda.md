@@ -13,7 +13,8 @@
 
 ## SOON
 
-* Margaret Johnson: article
+* 
+
 * He: Satisfaction Survey
 * Ballot
 * SacSem: Jon Rubin: scan photos
