@@ -23,7 +23,7 @@ First on overview of the construction
 
 * https://citypln-m-extnl.sfgov.org/Commissions/CPC/9_26_2024/Presentation/2022-009819ENV.pdf
 
-Full Draft witgh appendices:
+Full Draft with appendices:
 
 3400 LagunaSt-DEIR-Appendices ()
 
@@ -41,9 +41,9 @@ Here are links to the two papers I have sent in as comments to both the Draft EI
 
 I hope you can skim the Roses paper. It's 90% pictures.
 
-All of this is just to get the ball rolling.
+All of the above is just to get the ball rolling and to sow that I am serious about being involved in the process.
 
-The Julia Morgan building is one of the prettiest mansions in the city. It embodies a host of architectural and social values. It is a treasure that should be celebrated and preserved.
+The Julia Morgan building is one of the prettiest mansions in the city. It embodies a host of architectural and social values. It is a treasure that should be studied in more detail, celebrated and preserved.
 
 Having only practiced overseas, I have few if any contacts in the city. I am hoping that you can help me get the word out.
 
