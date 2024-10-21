@@ -20,11 +20,7 @@
 * SacSem: Jon Rubin: scan photos
 * Tiffany ~ Awesome disability
 * Joel: map
-* 
-
 * Marty Party: PDF to residents
-* 
-
 * Martha: Pharmamerica: address
 
 Thinking
