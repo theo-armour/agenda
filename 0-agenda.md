@@ -18,12 +18,10 @@
 * He: Satisfaction Survey
 * Ballot
 * SacSem: Jon Rubin: scan photos
-* 
-
-* Mia: tasks ~ Marina Handyman ~ started
 * Tiffany ~ Awesome disability
 * Joel: map
-* Marty Party: paper invite
+* 
+
 * Marty Party: PDF to residents
 * Marty Party: UC book?
 * Martha: Pharmamerica: address
