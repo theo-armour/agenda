@@ -41,4 +41,10 @@ Here are links to the two papers I have sent in as comments to both the Draft EI
 
 I hope you can skim the Roses paper. It's 90% pictures.
 
+All of this is just to get the ball rolling.
+
+The Julia Morgan building is one of the prettiest mansions in the city. It embodies a host of architectural and social values. It is a treasure that should be celebrated and preserved.
+
+Having only practiced overseas, I have few if any contacts in the city. I am hoping that you can help me get the word out.
+
 
