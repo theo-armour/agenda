@@ -23,7 +23,8 @@
 * 
 
 * Marty Party: PDF to residents
-* Marty Party: UC book?
+* 
+
 * Martha: Pharmamerica: address
 
 Thinking
