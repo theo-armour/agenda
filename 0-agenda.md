@@ -13,14 +13,11 @@
 
 ## SOON
 
-* 
 * He: Satisfaction Survey
 * Ballot
 * SacSem: Jon Rubin: scan photos
 * Tiffany ~ Awesome disability
 * Joel: map
-* 
-
 * Martha: Pharmamerica: address
 
 Thinking
