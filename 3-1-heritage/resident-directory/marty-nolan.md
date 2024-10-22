@@ -1,9 +1,12 @@
 # Marty Nolan
 
-## Links
+## Book
 
 * https://digitalassets.lib.berkeley.edu/roho/ucb/text/nolan_martin_2024.pdf
 * https://millercenter.org/the-presidency/presidential-oral-histories/martin-nolan-oral-history
+
+## Life
+
 * https://en.wikipedia.org/wiki/Martin_Nolan_(journalist)
 * https://dbpedia.org/page/Martin_Nolan
 * https://apps.bostonglobe.com/metro/graphics/2017/05/135-morrissey/
