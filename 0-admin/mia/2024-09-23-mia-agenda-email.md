@@ -9,7 +9,6 @@ Have a look at:
 * https://evereverland.github.io/2019/everlandings/
 
 
-
 ### Agenda
 
 * CynthiaM
