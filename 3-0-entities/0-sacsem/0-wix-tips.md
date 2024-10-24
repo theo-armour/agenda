@@ -15,6 +15,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday, October 25 at Perry's on Union: Mark DiCamillo, California’s top political pollster
 * Friday, October 18 at Perry's on Union: Alfonce Munyao Mula, a climate scientist from Kenya
 * Friday, October 11 at Perry's on Union: Rob Thompson, Chief Cultural officer of the Presidio Trust
 * Friday, October 4 at Perry's on Union: Mark Buell, Democratic Party mega-donor, real estate developer, and philanthropist
