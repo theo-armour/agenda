@@ -1,20 +1,30 @@
 # Mia Agenda
 
 
-## 2024-10-22
+## 2024-10-03
 
 ### finding help
 
 * Date & location of next meeting for both villages
-* good event for aging male techie to get a feel and involved in the community
+* Good event for aging male techie to get a feel and involved in the community
+* Stout
 
 ### Heritage Happenings
 
-* meet after meeting / dinner
+* meeting: too long. not interesting, boring
+* want shorter articles
+
+Interviews
+
+* Stela ~ headstart
+* Til: boatworks
+
 
 ### Website
 
-* look for three to five comparable sites
+* Look for three to five comparable sites
+* People to talk to: RCFE, Leading Age
+
 
 ### Thanksgiving
 
