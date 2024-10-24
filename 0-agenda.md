@@ -15,6 +15,7 @@
 * Start Statins
 * dotd to f&amp;G
 * BobC: #238
+* GoogleFi: Esim
 * ++
 
 ## SOON
