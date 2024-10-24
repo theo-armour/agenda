@@ -10,8 +10,6 @@
 
 * ?
 * SF Village: app
-* USB C to A adaptor
-* Citricel
 * Start Statins
 * dotd to f&amp;G
 * BobC: #238
