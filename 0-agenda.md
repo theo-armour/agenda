@@ -9,8 +9,7 @@
 ## Today
 
 * ?
-* 
-
+* AlixL LinkeIn post: reply
 * Start Statins
 * dotd to f&amp;G
 * BobC: #238
