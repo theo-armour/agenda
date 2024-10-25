@@ -9,7 +9,12 @@
 ## Today
 
 * ?
-* SF Village: app
+* AlixL LinkeIn post: reply
+* Start Statins
+* dotd to f&amp;G
+* BobC: #238
+* GoogleFi: Esim
+* Lawrence Fine Art: adjust payments
 * ++
 
 ## SOON
@@ -23,12 +28,16 @@
 
 Thinking
 
+* Trmnl: dev access
 * Sensay ~ audiopen ~ seo
 * Stout: ready?
 * Ship Smart
 * SquareSpace: broken links
 * AudioPen: Download audio
 * Nicole Smith: PDF
+* https://www.sfcivictech.org/
+* Tricycle
+* 
 
 Waiting
 
