@@ -12,7 +12,8 @@
 * AlixL LinkeIn post: reply
 * Start Statins
 * dotd to f&amp;G
-* BobC: #238
+* 
+
 * GoogleFi: Esim
 * Lawrence Fine Art: adjust payments
 * ++
