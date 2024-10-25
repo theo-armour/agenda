@@ -9,14 +9,13 @@
 ## Today
 
 * ?
+* Awesome: pay
 * 
 
-* SF Village: app
 * Start Statins
 * dotd to f&amp;G
 * BobC: #238
 * GoogleFi: Esim
-* https://www.nps.gov/goga/GOGA_Superintendent@nps.gov
 * ++
 
 ## SOON
@@ -38,6 +37,8 @@ Thinking
 * AudioPen: Download audio
 * Nicole Smith: PDF
 * https://www.sfcivictech.org/
+* Tricycle
+* 
 
 Waiting
 
