@@ -20,9 +20,7 @@
 ## SOON
 
 * He: Satisfaction Survey
-* Ballot
-* 
-
+* Ballottheo
 * Tiffany ~ Awesome disability
 * Joel: map
 * Martha: Pharmamerica: address
@@ -37,7 +35,8 @@ Thinking
 * AudioPen: Download audio
 * Nicole Smith: PDF
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
-* Tricycle
+* Tricycle ~ Barry
+* David: Pertiz: readable slides
 * 
 
 Waiting
