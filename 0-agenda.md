@@ -37,7 +37,7 @@ Thinking
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
 * Tricycle ~ Barry
 * David: Pertiz: readable slides
-* 
+* Coding triad
 
 Waiting
 
@@ -240,6 +240,7 @@ Waiting
 
 * ++
 * hheimark@hotmail.com: HH
+* Attend Food committee
 
 *
 
