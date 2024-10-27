@@ -31,26 +31,26 @@
 * Angie: new menu ~ regular special meals: 3rd Thursday? ~  Milkshake day,  Donuts day, Thai meal day? Others? ~ new kiosk
 * Jon Casey: Type C rates?
 * Hector: Updates
-* Martha & VadaHealth: article? Pharmamerica? Hygienist
+* Martha & Vada: Health: article? Pharmamerica? Hygienist
 * Health Agenda for the year: Dimensions of wellness
 
 
 ## Residents Council
 
-* Patrick
-* Pamela
+* Patrick ~ updates
+* Rod: RC notes
+* Pamela & Pam: RC notes
 * Mary Liz
 
-<br>
 
 ## Residents
 
 * Bob Granucci Mia: Ducks #3
-* Doris: Thailand
+* Doris: Thailand ~
 * Eleanor Bissell:
 * Jane: Overnight train
 * Margaret Jacobs:
-* Margaret Johnson: #12 Philadelphia??
+* Margaret Johnson: #13
 * Margaret Missiaen:
 * Martha Nell:
 * Martha Nell: Library new acquisitions: none
@@ -59,20 +59,18 @@
 * Patrick: Residents Council or Board?
 * Patrick: funny story??
 * Sheila: Thailand montage
-* Til Mossi: Shipyard update
-* Trish: Book review
+* Stela: head start: Mia
+* Til Mossi: Shipyard update ~ Mia chat
+* Trish: xmas books
 * Tucker:
-* Theo: ??
-* Theo: Aging in Place: Levels of Service??
-* Theo: EIR report
+* Theo: Short & Sweet articles
+* Tom King: Nixon
 
-Possible:
 
-* Tom & Val: First article
 
 ### Miscellany
 
-* Portrait photo: Kitty? Morgan building?
+* Portrait photo: Marty Nolan
 
 
 ## Other Publications
