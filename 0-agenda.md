@@ -16,8 +16,7 @@
 * Lawrence Fine Art: adjust payments
 * Daniel: adafruit ~ roses
 * DWA: $5K
-* 
-
+* Doris: finidh photos + michael's cour on Dia
 * ++
 
 ## SOON
