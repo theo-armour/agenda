@@ -16,7 +16,8 @@
 * Lawrence Fine Art: adjust payments
 * Daniel: adafruit ~ roses
 * DWA: $5K
-* Til: walker
+* 
+
 * ++
 
 ## SOON
