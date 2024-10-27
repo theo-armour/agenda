@@ -15,12 +15,14 @@
 * GoogleFi: Esim
 * Lawrence Fine Art: adjust payments
 * Daniel: adafruit ~ roses
+* DWA: $5K
+* Til: walker
 * ++
 
 ## SOON
 
 * He: Satisfaction Survey
-* Ballottheo
+* Ballot
 * Tiffany ~ Awesome disability
 * Joel: map
 * Martha: Pharmamerica: address
@@ -38,6 +40,7 @@ Thinking
 * Tricycle ~ Barry
 * David: Pertiz: readable slides
 * Coding triad
+* Daniel: Adafruit + scans ~ LED
 
 Waiting
 
