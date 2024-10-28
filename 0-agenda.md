@@ -10,12 +10,11 @@
 ## Today
 
 * ?
+* Daniel: LED
 * Alix: LinkekIn post: reply
 * Start Statins
 * GoogleFi: Esim
 * Lawrence Fine Art: adjust payments
-* 
-
 * DWA: $5K
 * Doris: finish photos + michael's course on Dia
 * ++
@@ -41,7 +40,7 @@ Thinking
 * Tricycle ~ Barry
 * David: Pertiz: readable slides
 * Coding triad
-* Daniel: Adafruit + scans ~ LED
+* 
 
 Waiting
 
