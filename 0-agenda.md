@@ -10,8 +10,7 @@
 ## Today
 
 * ?
-* 
-
+* Hover X1: to Peter
 * NextVillage: application
 * Alix: LinkekIn post: reply
 * Start Statins
