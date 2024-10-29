@@ -10,13 +10,10 @@
 ## Today
 
 * ?
-* 
-
 * Alix: LinkekIn post: reply
 * Start Statins
 * GoogleFi: Esim
 * Lawrence Fine Art: adjust payments
-* 
 * Doris: finish photos + michael's course on Dia
 * ++
 
