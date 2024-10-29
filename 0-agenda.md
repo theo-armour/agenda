@@ -11,8 +11,6 @@
 
 * ?
 * SacSem: update
-* 
-
 * NextVillage: application
 * Alix: LinkekIn post: reply
 * Start Statins
