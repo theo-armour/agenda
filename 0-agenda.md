@@ -21,7 +21,8 @@
 
 ## SOON
 
-* He: Satisfaction Survey
+* 
+
 * Ballot
 * Tiffany ~ Awesome disability
 * Joel: map
