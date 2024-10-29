@@ -32,7 +32,7 @@
 * habits
 * "Design Positive impact AI models"
 * Libby does audiobooks
-* PlainJS
+* Plain JS
 * The successful how-to
 
 ## Contemplation
