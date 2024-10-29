@@ -10,6 +10,7 @@
 ## Today
 
 * ?
+* NextVillage: application
 * Alix: LinkekIn post: reply
 * Start Statins
 * GoogleFi: Esim
@@ -39,6 +40,7 @@ Thinking
 * David: Pertiz: readable slides
 * Coding triad
 * Tess: Audiobooks
+* 180 Medical: study self-cath process
 
 Waiting
 
