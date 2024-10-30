@@ -10,12 +10,11 @@
 ## Today
 
 * ?
-* 
-
 * NextVillage: application
 * Start Statins
 * GoogleFi: Esim
 * Doris: finish photos + michael's course on Dia
+* Sarah + carlos:
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
 * 
