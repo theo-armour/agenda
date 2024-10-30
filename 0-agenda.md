@@ -178,7 +178,7 @@ Waiting
 
 </details>
 <!-- Family -->
-<details open="">
+<details>
 <summary>Family</summary>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">Family</a>
 
@@ -234,7 +234,7 @@ Waiting
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sacsem/0-sacsem-agenda.md&quot;">sacsem</a>
 <!-- -->
-<details>
+<details open="">
 
 <summary>sensay</summary>
 
