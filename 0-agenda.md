@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-* Dan Thompson: Thursday&nbsp;
+* Dan Thompson: Thursday PT?
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
 * Start Statins
