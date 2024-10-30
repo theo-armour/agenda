@@ -10,17 +10,11 @@
 ## Today
 
 * ?
-* SacSem: Friday zoom
-
-* Stout
 * 
 
 * NextVillage: application
-* Alix: LinkekIn post: reply
 * Start Statins
 * GoogleFi: Esim
-* 
-
 * Doris: finish photos + michael's course on Dia
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
@@ -51,6 +45,8 @@ Thinking
 * Tess: Audiobooks
 * 180 Medical: study self-cath process
 * Hover X1: to Peter
+* SacSem: Friday zoom
+* Alix: LinkekIn post: reply
 
 Waiting
 
