@@ -10,8 +10,6 @@
 ## Today
 
 * ?
-* 
-
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
 * Start Statins
@@ -22,13 +20,12 @@
 * Ballot
 * Tiffany ~ Awesome disability
 * Joel: map
-* 
+* SacSem: Friday zoom
 
 Thinking
 
 * Trmnl: dev access
 * Sensay ~ audiopen ~ seo
-* Stout: ready?
 * Ship Smart
 * SquareSpace: broken links
 * AudioPen: Download audio
@@ -40,8 +37,8 @@ Thinking
 * Tess: Audiobooks
 * 180 Medical: study self-cath process
 * Hover X1: to Peter
-* SacSem: Friday zoom
 * Alix: LinkekIn post: reply
+* Binder clips
 
 Waiting
 
