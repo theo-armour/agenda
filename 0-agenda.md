@@ -10,8 +10,8 @@
 <!-- this is a comment -->
 ## Today
 
-* ?is folder You are in Your&nbsp;
-* Hook messages
+* ?
+* Daniel Hook messages
 
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
