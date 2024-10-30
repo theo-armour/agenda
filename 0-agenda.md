@@ -13,12 +13,14 @@
 * SacSem: Friday zoom
 
 * Stout
-* Daniel B: report
+* 
+
 * NextVillage: application
 * Alix: LinkekIn post: reply
 * Start Statins
 * GoogleFi: Esim
-* Lawrence Fine Art: adjust payments
+* 
+
 * Doris: finish photos + michael's course on Dia
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
