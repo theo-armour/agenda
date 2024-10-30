@@ -10,18 +10,21 @@
 ## Today
 
 * ?
-* Hover X1: to Peter
+* 
+
 * NextVillage: application
 * Alix: LinkekIn post: reply
 * Start Statins
 * GoogleFi: Esim
 * Lawrence Fine Art: adjust payments
 * Doris: finish photos + michael's course on Dia
+* Randy G: Roses to Chris, Frank. P&amp;T
+* Lighting people
+* 
+
 * ++
 
 ## SOON
-
-* 
 
 * Ballot
 * Tiffany ~ Awesome disability
@@ -43,6 +46,7 @@ Thinking
 * Coding triad
 * Tess: Audiobooks
 * 180 Medical: study self-cath process
+* Hover X1: to Peter
 
 Waiting
 
@@ -51,7 +55,7 @@ Waiting
 *
 ***
 
-<details>
+<details open="">
 
 <summary>Admin</summary>
 
