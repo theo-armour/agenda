@@ -10,10 +10,8 @@
 ## Today
 
 * ?
-* GoogleFi: Esim
 * 
 
-* Sarah + carlos: Friday zoom
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
 * Start Statins
