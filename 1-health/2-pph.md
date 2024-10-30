@@ -3,7 +3,20 @@
 * ?
 * Pneumonia vaccine ~ June 2024
 
+## Pine Park Health ~ [https://pineparkhealth.com](https://pineparkhealth.com)
+
+* 1901 4th Street, Suite 201
+* Berkeley, CA 94710
+* clinical@pineparkhealth.com.
+* nfo@pineparkhealth.com
+* 510-929-1400 - main number
+* NPI Number: 1346879848
+* Medicare PECOS PAC: ID 0345670527
+* Medicare Enrollment ID: O20200501001068
+
 ## CEO
+
+* New CEO?
 
 * George Khasin: gkhasin@pineparkhealth.com
 * https://www.linkedin.com/in/george-khasin-763b16132/
@@ -41,15 +54,7 @@ Community Issues
 * PPH: Elation sucks ~ see paper-in-progress
 * PPH: who to contact re Website issues
 
-## Pine Park Health ~ [https://pineparkhealth.com](https://pineparkhealth.com)
 
-* 1144 65th St Ste F, Oakland CA 94608-1053
-* clinical@pineparkhealth.com.
-* [info@pineparkhealth.com](mailto:info@pineparkhealth.com)
-* 510-929-1400 - main number
-* NPI Number: 1346879848
-* Medicare PECOS PAC: ID 0345670527
-* Medicare Enrollment ID: O20200501001068
 
 ## Gary Richmond NP-C (nurse practitioner - certified)
 

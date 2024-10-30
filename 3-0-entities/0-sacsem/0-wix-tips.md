@@ -15,6 +15,12 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+https://berkeley.zoom.us/j/93178757135
+
+https://www.eventbrite.com/e/california-and-the-2024-election-berkeley-igs-poll-pre-election-panel-tickets-1035282195917
+
+
+* Friday, November 1, 2024 at Noon On ZOOM: California and the 2024 Election: Berkeley IGS Poll Pre-Election Panel
 * Friday, October 25 at Perry's on Union: Mark DiCamillo, California’s top political pollster
 * Friday, October 18 at Perry's on Union: Alfonce Munyao Mula, a climate scientist from Kenya
 * Friday, October 11 at Perry's on Union: Rob Thompson, Chief Cultural officer of the Presidio Trust
