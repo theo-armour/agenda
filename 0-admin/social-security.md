@@ -5,6 +5,13 @@
 
 * https://www.ssa.gov/
 
+## 2024-10-30
+
+Monthly Benefit Amount:$1,901.40
+
+Medicare Premium(s):-$382.70
+
+Last Payment Total:$1,518.70
 
 ## 2024-03-29
 

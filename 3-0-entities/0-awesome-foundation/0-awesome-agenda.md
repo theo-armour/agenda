@@ -12,17 +12,26 @@
 
 ## Agenda
 
+* Joel
+* Tiffany
+* Matt Chapman
+
+## 2024-10-09?
+
+All done:
+
 See Trayo
+
 * AweFou: Reserve Cottage
 * AweFou: invite
 
-## Meeting tasks
+### Meeting tasks
 
 * WiFi Password
 * Cups
 * Plates
 
-## Meeting Snacks
+### Meeting Snacks
 
 * Drinks before: Sutter + Fre, Soleil, Athletic IPA
 * Drinks on day: cranberry, V8, tomato juice

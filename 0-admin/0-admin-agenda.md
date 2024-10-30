@@ -2,29 +2,16 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
 
-## SF Vilage
 
-* https://www.sfvillage.org/about/
-
-## Next Village
-
-* https://nextvillagesf.org/how-we-help/
-* https://nextvillagesf.org/member-application/
-
-Member Application
-
-* Anamary Ehlen
-* anamary@nextvillagesf.org
-*  415-299-1825.
-* NEXT Village San Francisco
-* Office Manager
-
-
-## Actions
+## Agenda
 
 * ?
-* Party when??
-* Josh: ray-ban stream?
+* Nov 5: recommendations
+* Nov 5: Ballot prepared
+
+Waiting
+
+
 
 ## DWA + Pershing
 
@@ -33,10 +20,19 @@ Member Application
 * DWA/Josh: note re Estimated payments not sent??
 * DWA: Send Will &amp; Trust docs / Olivia to look
 
+Done
+
+* Party when??
+* Josh: ray-ban stream?
+
 ## IRS
 
 * IRS: estimated taxes
 * IRS: recalculate estimated payment
+
+## SF Village
+
+* https://www.sfvillage.org/about/
 
 ## Tiller
 

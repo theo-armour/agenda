@@ -6,25 +6,30 @@
 * Randy: Roses
 * Laura W: PDF to send to subscribers
 * Martha Nell
-* EIR: Roses
+
 * HistPlan: submission
-* Lighting quote
+
 * Dr McNeil
 * Meet with Patti
+
+## Media
+
 * Draft Press release
-* <a href="https://a3visual.com/:">https://a3visual.com/:</a> quote
 * Media names
 * Nob hill
 * Marina Times
 * HeritageSF
 * Chronic
 
+## Illumination
+
+* Lighting quote
+* <a href="https://a3visual.com/:">https://a3visual.com/:</a> quote
+
 ## Done
 
-<font color="#00008b"><span style="font-size: 15.6px;">**
-***__**</span></font>_<font color="#00008b"><span style="font-size: 15.6px;"></span></font>__<font color="#00008b"><em>&nbsp;_</font></em>
-
 * Meet with Bob: discuss media
+* EIR: Roses
 
 ### 2024-10-06
 
