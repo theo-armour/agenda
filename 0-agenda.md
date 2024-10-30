@@ -10,6 +10,7 @@
 ## Today
 
 * ?
+* Dasn Thompson: Thursday&nbsp;
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
 * Start Statins
