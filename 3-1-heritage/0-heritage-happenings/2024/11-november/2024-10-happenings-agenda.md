@@ -1,5 +1,12 @@
+# Heritage Happenings November Issue Agenda
 
-## Heritage Happenings November Issue Agenda
+
+## Subscribers
+
+* Marty link
+* Doris photos link
+* Laura Wagner link
+* Stela: hand warmers
 
 ## Review of October Issue
 

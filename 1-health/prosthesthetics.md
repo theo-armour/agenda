@@ -1,12 +1,47 @@
 # Prosthetics
 
+## Video
+
+* https://photos.app.goo.gl/e3SjD8xVqa5yJ4U97
+
+
 ## 2024-10-30?
 
-Comfort: Walking with myu arm in the socket i=while leaning on the armrest of an upright walker le less comfortable.
+Comfort: Walking with my arm in the socket while leaning on the armrest of an upright walker le less comfortable.
 
 Battery Life: Much better than expected. I'm still on the first charge.
 
+Observability: Not
 
+Extra weight:
+
+Posture Aid: Bathroom pole
+
+Uses: Knitting
+
+Muscle memory: https://en.wikipedia.org/wiki/Muscle_memory
+
+Cane holding:
+
+Object holding:
+
+Button Usage
+
+Tuning:
+
+Washability:
+
+Anchoring: Harness
+
+Harmfulness:
+
+AI: talking words silently in the brain could be used to control the prosthesis.
+
+TGD:
+
+Art & Beauty: LEDs ~ Seasonal Hand warmers by Stela
+
+HH: Presthesis Raportage
 
 
 ## 2024-10-29 ~ Prosthesis Update
