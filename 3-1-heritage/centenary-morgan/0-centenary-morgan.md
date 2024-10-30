@@ -3,14 +3,15 @@
 ## Agenda
 
 * ? Next meeting Nov6
+* Laura W: PDF to send to subscribers
 * Martha Nell
 * EIR: Roses
 * HistPlan: submission
 * Lighting quote
 * Dr McNeil
 * Meet with Patti
-* Rod Dugliss + Laura
-* Draft letter to invitees
+* 
+
 * Draft Press release
 * <a href="https://a3visual.com/:">https://a3visual.com/:</a> quote
 * Media names
@@ -22,7 +23,7 @@
 ## Done
 
 <font color="#00008b"><span style="font-size: 15.6px;">**
-****</span></font>**<font color="#00008b"><span style="font-size: 15.6px;"></span></font>**<font color="#00008b">_&nbsp;_*</font>
+***__**</span></font>_<font color="#00008b"><span style="font-size: 15.6px;"></span></font>__<font color="#00008b"><em>&nbsp;_</font></em>
 
 * Meet with Bob: discuss media
 
