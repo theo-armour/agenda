@@ -11,7 +11,8 @@
 
 * ?
 * GoogleFi: Esim
-* Doris: finish photos + michael's course on Dia
+* 
+
 * Sarah + carlos: Friday zoom
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
