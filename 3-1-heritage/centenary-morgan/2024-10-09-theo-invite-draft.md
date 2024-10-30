@@ -1,4 +1,4 @@
-Invite
+## Invite
 
 
 We are excited to announce the celebration of the 100th anniversary of the historic Julia Morgan building, home to Heritage on the Marina, on March 27, 2025. This event will honor Julia Morgan, one of the 20th century&#39;s most significant architects, and commemorate the building’s rich history, which has not only housed but also lovingly cared for so many residents over the years.

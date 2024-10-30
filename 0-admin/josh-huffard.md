@@ -5,7 +5,6 @@
 
 
 * Date next meeting: 2024-01-24
-
 * Transfer of Assets to Trust
 * MSFT ~ Nvidia ~ let your clients speak somehow
 * WSD

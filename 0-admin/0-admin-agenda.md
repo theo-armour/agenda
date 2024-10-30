@@ -2,7 +2,23 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
 
-* ?* This&nbsp; page is useless!!!
+## SF Vilage
+
+* https://www.sfvillage.org/about/
+
+## Next Village
+
+* https://nextvillagesf.org/how-we-help/
+* https://nextvillagesf.org/member-application/
+
+Member Application
+
+* Anamary Ehlen
+* anamary@nextvillagesf.org
+*  415-299-1825.
+* NEXT Village San Francisco
+* Office Manager
+
 
 ## Actions
 
