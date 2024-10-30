@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-* Dasn Thompson: Thursday&nbsp;
+* Dan Thompson: Thursday&nbsp;
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
 * Start Statins
@@ -178,7 +178,7 @@ Waiting
 
 </details>
 <!-- Family -->
-<details>
+<details open="">
 <summary>Family</summary>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">Family</a>
 
