@@ -3,6 +3,7 @@
 ## Agenda
 
 * ? Next meeting Nov6
+* Randy: Roses
 * Laura W: PDF to send to subscribers
 * Martha Nell
 * EIR: Roses
@@ -10,14 +11,12 @@
 * Lighting quote
 * Dr McNeil
 * Meet with Patti
-* 
-
 * Draft Press release
 * <a href="https://a3visual.com/:">https://a3visual.com/:</a> quote
 * Media names
 * Nob hill
 * Marina Times
-* Heritage
+* HeritageSF
 * Chronic
 
 ## Done
