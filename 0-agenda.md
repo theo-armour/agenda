@@ -15,8 +15,6 @@
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
 * Start Statins
-* 
-
 * ++
 
 ## SOON
@@ -24,7 +22,7 @@
 * Ballot
 * Tiffany ~ Awesome disability
 * Joel: map
-* Martha: Pharmamerica: address
+* 
 
 Thinking
 
