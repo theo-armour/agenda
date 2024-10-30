@@ -12,16 +12,9 @@
 * ?
 * 
 
-* NextVillage: application
-* Alix: LinkekIn post: reply
-* Start Statins
-* GoogleFi: Esim
-* Lawrence Fine Art: adjust payments
-* Doris: finish photos + michael's course on Dia
 * Randy G: Roses to Chris, Frank. P&amp;T
 * Lighting people
-* 
-
+* Start Statins
 * ++
 
 ## SOON
@@ -29,7 +22,7 @@
 * Ballot
 * Tiffany ~ Awesome disability
 * Joel: map
-* Martha: Pharmamerica: address
+* 
 
 Thinking
 
@@ -47,6 +40,8 @@ Thinking
 * Tess: Audiobooks
 * 180 Medical: study self-cath process
 * Hover X1: to Peter
+* SacSem: Friday zoom
+* Alix: LinkekIn post: reply
 
 Waiting
 
@@ -160,7 +155,7 @@ Waiting
 </details>
 ***
 
-<details>
+<details open="">
 
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
