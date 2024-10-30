@@ -153,7 +153,7 @@ Waiting
 </details>
 ***
 
-<details open="">
+<details>
 
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
@@ -219,7 +219,7 @@ Waiting
 ***
 
 <!-- -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
@@ -291,7 +291,7 @@ Waiting
 <!-- -->
 ***
 
-<details>
+<details open="">
 
 <summary>projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
