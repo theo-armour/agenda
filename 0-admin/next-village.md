@@ -31,11 +31,13 @@
 * 415-574-0156
 
 
-## Donna Booher
+## Donna Booher: D2 University / Library
 
 * 11:30 ~ 11/11 lunch
 
-## Diane: Volunteer
+## Diana Greer: Volunteer
+
+* 415 271 4286
 
 ## Phone Tree
 
