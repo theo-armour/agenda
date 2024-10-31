@@ -2,7 +2,7 @@
 
 Hello Randy
 
-As we discussed. I would be pleased to have your confirmation that it is acceptable to forward the documents I sent to San Francisco Planning Commission and San Francisco Historic Commission to the the following Strategic Plan consultants.
+As we discussed, I would be pleased to have your confirmation that it is acceptable to forward the documents I sent to the San Francisco Planning Commission and San Francisco Historic Commission to the following Strategic Plan consultants.
 
 Frank Rockwood
 Susan Rockwood
