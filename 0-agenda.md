@@ -9,7 +9,8 @@
 
 * ?
 * Daniel Hook messages
-* Randy G: Roses to Chris, Frank. P&amp;T
+* 
+
 * ++
 
 ## SOON
