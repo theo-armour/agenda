@@ -2,7 +2,7 @@
 
 ## Agenda
 
-* ? Next meeting Nov6
+* ? Next meeting Nov 6
 * Randy: Roses
 * Laura W: PDF to send to subscribers
 * Martha Nell
@@ -15,7 +15,10 @@
 ## Media
 
 * Draft Press release
-* Media names
+
+
+Media names
+
 * Nob hill
 * Marina Times
 * HeritageSF

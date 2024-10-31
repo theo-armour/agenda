@@ -8,6 +8,8 @@
 * District 2 University: ?? I'm a 2 and disabled
 * Events Coordinator: who to contact
 * Volunteers: car
+* Diversity?
+
 
 ## Links
 
@@ -27,6 +29,13 @@
 
 * camille@nextvillagesf.org
 * 415-574-0156
+
+
+## Donna Booher
+
+* 11:30 ~ 11/11 lunch
+
+## Diane: Volunteer
 
 ## Phone Tree
 

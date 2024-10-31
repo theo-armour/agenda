@@ -12,7 +12,6 @@
 Waiting
 
 
-
 ## DWA + Pershing
 
 * Josh: estimated payments
@@ -33,6 +32,9 @@ Done
 ## SF Village
 
 * https://www.sfvillage.org/about/
+* Jill Ellefsen ~ Member Services Director
+* jill@sfvillage.org
+* 3220 Fulton St. San Francisco, CA 94118  |   415-387-1375 ext. 2
 
 ## Tiller
 

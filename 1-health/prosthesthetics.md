@@ -41,7 +41,18 @@ TGD:
 
 Art & Beauty: LEDs ~ Seasonal Hand warmers by Stela
 
-HH: Presthesis Raportage
+HH: Prosthesis Raportage
+
+Sock changes:
+
+Material changes
+
+* Heat editables
+* Glue guns
+
+Appearance
+
+Complexity
 
 
 ## 2024-10-29 ~ Prosthesis Update
