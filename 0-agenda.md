@@ -15,13 +15,12 @@
 * ?
 * Daniel Hook messages
 * Randy G: Roses to Chris, Frank. P&amp;T
-* 
-
 * ++
 
 ## SOON
 
-* Dan Thompson: Thursday PT?
+* 
+
 * Ballot
 * Tiffany ~ Awesome disability
 * Joel: map
