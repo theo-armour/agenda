@@ -2,12 +2,7 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>n
 
-* ++ 10:50
-* 2024-09-29: me:&nbsp;Falling in love and loving the fallen have much in common
-* 2024-10-27: FS ~ fs.blog/brain-food/october-27-2024/:&nbsp;“It’s true that becoming an empathic listener takes time, but it doesn’t take any-where near as much time as it takes to back up and correct misunderstandings when you’re already miles down the road, to redo, and to live with unexpressed and unsolved problems.”
-* 2024-10-30: Theo: "Everything in my life is of interest to me. My Smiles, my tears, my successes, my failures, big things,&nbsp;silly little unimportant things: all can be looked at in detail and treasured"
-* 2024-10-30: Theo:&nbsp;The sublime may happen any time, anywhere. You just have to notice it.
-* 2024-10-30: Theo:&nbsp;The issue these days is that I've designed my life so well that it is just simply full of things that I absolutely love doing.
+* ++
 
 <!-- this is a comment -->
 ## Today
@@ -22,6 +17,7 @@
 * 
 
 * Ballot
+
 * Tiffany ~ Awesome disability
 * Joel: map
 * SacSem: Friday zoom
@@ -67,14 +63,16 @@ Waiting
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* S: ?? ~ Chia seeds
+* S: esomeprazole ~ beer ~ wine ~ Chia seeds
 * Plateau chair
+* A: mug ~ mike
+* Winter shoes
 * EyeBuyDirect: small specs?
 * John King ~ The Portal book
 
