@@ -8,11 +8,9 @@
 ## Today
 
 * ?
-* 
-
+* Binder clips
 * Granucci: Hover X1 prep
-* 
-
+* Hover X1: to Peter
 * Daniel Hook messages
 * Whatsapp ace-it-tkd
 * ++
@@ -41,9 +39,8 @@ Thinking
 * Coding triad
 * Tess: Audiobooks
 * 180 Medical: study self-cath process
-* Hover X1: to Peter
 * Alix: LinkekIn post: reply
-* Binder clips
+* 
 
 Waiting
 
