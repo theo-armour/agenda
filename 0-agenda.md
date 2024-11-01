@@ -8,6 +8,10 @@
 ## Today
 
 * ?
+* SacSem: zoom work order
+* Granucci: Hover X1 prep
+* 
+
 * Daniel Hook messages
 * Whatsapp ace-it-tkd
 * ++
