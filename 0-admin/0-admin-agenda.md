@@ -2,16 +2,14 @@
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
 
-
 ## Agenda
 
 * ?
 * Nov 5: recommendations
 * Nov 5: Ballot prepared
+* Lawrence: pay by Zelle
 
 Waiting
-
-
 ## DWA + Pershing
 
 * Josh: estimated payments
@@ -31,9 +29,9 @@ Done
 
 ## SF Village
 
-* https://www.sfvillage.org/about/
+* <a href="https://www.sfvillage.org/about/">https://www.sfvillage.org/about/</a>
 * Jill Ellefsen ~ Member Services Director
-* jill@sfvillage.org
+* <a href="mailto:jill@sfvillage.org">jill@sfvillage.org</a>
 * 3220 Fulton St. San Francisco, CA 94118  |   415-387-1375 ext. 2
 
 ## Tiller
