@@ -11,8 +11,8 @@
 * 
 
 * Granucci: Hover X1 prep
-* Alix: $2K
-* Chase: edit autopay&nbsp;
+* 
+
 * Daniel Hook messages
 * Whatsapp ace-it-tkd
 * ++
