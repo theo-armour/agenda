@@ -45,7 +45,7 @@ Waiting
 *
 ***
 
-<details>
+<details open="">
 <summary>Admin</summary>
 
 * ?
