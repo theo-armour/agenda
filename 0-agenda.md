@@ -8,7 +8,8 @@
 ## Today
 
 * ?
-* SacSem: zoom work order
+* 
+
 * Granucci: Hover X1 prep
 * Alix: $2K
 * Chase: edit autopay&nbsp;
