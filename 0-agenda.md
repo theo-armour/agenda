@@ -129,14 +129,12 @@ Waiting
 </details>
 ***
 
-<details open="">
+<details>
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
-* Marie-so: wedding
-* Eloise: Bee Memorial ~ Cynthia Chase visits
-* ace-it+: exhibit report
-* Film the corridor
+* 
+
 * ++
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a>
