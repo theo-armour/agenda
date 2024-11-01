@@ -9,12 +9,6 @@
 * [https://www.instagram.com/armourisabelle/](https://www.instagram.com/armourisabelle/)
 * [https://www.instagram.com/armour.theo/](https://www.instagram.com/armour.theo/)
 
-## Tassajara
-
-* Probably too much
-* https://en.wikipedia.org/wiki/Tassajara_Zen_Mountain_Center
-* https://en.wikipedia.org/wiki/Tassajara_Zen_Mountain_Center
-* Something or somewhere else?
 
 ## Agenda
 
@@ -35,33 +29,6 @@
 * Isabelle was a better startup person than I was with her gardens
 
 ## Change Log
-
-## 2024-05-09
-
-* Cynthia: Tania's recollections to PDF ~ transcripts
-* 77 ~ too busy ~ now Heritage Happenings ~ Final Design
-* Funding trust
-* Isabelle: operation? Waiver
-* ace: share ms365
-* Notion ~ permissions
-* Lolo: HH & chat
-
-### 2024-02-24
-
-* Alix & Cynthia in SF
-* Yosemite visit
-* Graphics
-* Shipping
-* List of must sell items
-
-### 2024-01-18
-
-* Archive stuff
-
-### 2023-05-10
-
-* Cleaning up the house / adding things to consider
-* readme.html to Markdown file 2021-11-07
 
 ***
 

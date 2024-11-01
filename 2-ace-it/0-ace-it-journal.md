@@ -1,5 +1,40 @@
 # ace-it journal
 
+## 2024-10-31
+
+* Marie-so: wedding
+* Eloise: Bee Memorial ~ Cynthia Chase visits
+* ace-it+: exhibit report
+* Film the corridor
+
+
+## 2024-05-09
+
+* Cynthia: Tania's recollections to PDF ~ transcripts
+* 77 ~ too busy ~ now Heritage Happenings ~ Final Design
+* Funding trust
+* Isabelle: operation? Waiver
+* ace: share ms365
+* Notion ~ permissions
+* Lolo: HH & chat
+
+### 2024-02-24
+
+* Alix & Cynthia in SF
+* Yosemite visit
+* Graphics
+* Shipping
+* List of must sell items
+
+### 2024-01-18
+
+* Archive stuff
+
+### 2023-05-10
+
+* Cleaning up the house / adding things to consider
+* readme.html to Markdown file 2021-11-07
+
 
 ## 2023-10-29
 
