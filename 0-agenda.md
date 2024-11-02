@@ -11,8 +11,6 @@
 * Binder clips
 * Granucci: Hover X1 prep
 * Hover X1: to Peter
-* 
-
 * Whatsapp ace-it-tkd
 * ++
 
@@ -25,6 +23,7 @@
 * Tiffany ~ Awesome disability
 * Joel: map
 * SacSem: Friday zoom
+* Check Kaiser Payment
 
 Thinking
 
