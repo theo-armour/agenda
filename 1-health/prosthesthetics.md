@@ -4,18 +4,32 @@
 
 * https://photos.app.goo.gl/e3SjD8xVqa5yJ4U97
 
+## ottobock
+
+* https://www.ottobock.com/en-us/home
+
+Want
+
+* https://www.ottobock.com/en-us/product/8E600
+
+To watch
+
+* https://www.ottobock.com/en-us/bionic-life
+
+## 2024-11-01
+
+Comfort: Generally: quite comfortable; feels cozy. Walking with my arm in the socket while leaning on the armrest of an upright walker may be less comfortable.
+
+Battery Life: Very much better than expected. I'm still on the first charge.
+
+Observability: Virtually nobody notices that I'm wearing a prosthesis. In particular even the people that know me well and have heard that I was going to the second hand store.
+
+Extra weight: The newly added weight is noticeable, but not bothersome. It may help with posture and balance while walking with a cane.
+
+Safety Aid: At times the newly-extended arm length allows me to stand safely further away from whatever I am using to stabilize my position, for example the safety pole in the bathroom.
+
 
 ## 2024-10-30?
-
-Comfort: Walking with my arm in the socket while leaning on the armrest of an upright walker le less comfortable.
-
-Battery Life: Much better than expected. I'm still on the first charge.
-
-Observability: Not
-
-Extra weight:
-
-Posture Aid: Bathroom pole
 
 Uses: Knitting
 
