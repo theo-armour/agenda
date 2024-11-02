@@ -35,7 +35,7 @@ Thinking
 * Coding triad
 * Tess: Audiobooks
 * 180 Medical: study self-cath process
-* Alix: LinkekIn post: reply
+* Alix: LinkedIn post: reply
 * 
 
 Waiting
@@ -45,7 +45,7 @@ Waiting
 *
 ***
 
-<details open="">
+<details>
 
 <summary>Admin</summary>
 
@@ -257,7 +257,7 @@ Waiting
 <!-- -->
 </details>
 <!-- -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
