@@ -9,8 +9,6 @@
 
 * ?
 * Binder clips
-* 
-
 * Whatsapp ace-it-tkd
 * ++
 
@@ -22,7 +20,8 @@
 
 * Tiffany ~ Awesome disability
 * Joel: map
-* SacSem: Friday zoom
+* 
+
 * Check Kaiser Payment:&nbsp;866-564-2262.
 
 Thinking
