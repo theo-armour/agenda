@@ -19,9 +19,7 @@
 * Ballot:&nbsp;
 
 * Tiffany ~ Awesome disability
-* Joel: map
-* 
-
+* Joel:is join
 * Check Kaiser Payment:&nbsp;866-564-2262.
 
 Thinking
