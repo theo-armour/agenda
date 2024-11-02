@@ -11,7 +11,8 @@
 * Binder clips
 * Granucci: Hover X1 prep
 * Hover X1: to Peter
-* Daniel Hook messages
+* 
+
 * Whatsapp ace-it-tkd
 * ++
 
