@@ -9,7 +9,8 @@
 
 * ?
 * Binder clips
-* Whatsapp ace-it-tkd
+* 
+
 * ++
 
 ## SOON
