@@ -9,8 +9,6 @@
 
 * ?
 * Binder clips
-* 
-
 * ++
 
 ## SOON
@@ -33,7 +31,7 @@ Thinking
 * Nicole Smith: PDF
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
 * Tricycle ~ Barry
-* David: Pertiz: readable slides
+* David: Peritz: readable slides
 * Coding triad
 * Tess: Audiobooks
 * 180 Medical: study self-cath process
