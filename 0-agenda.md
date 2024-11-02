@@ -9,8 +9,8 @@
 
 * ?
 * Binder clips
-* Granucci: Hover X1 prep
-* Hover X1: to Peter
+* 
+
 * Whatsapp ace-it-tkd
 * ++
 
