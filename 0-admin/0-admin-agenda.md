@@ -28,12 +28,7 @@ Done
 * IRS: estimated taxes
 * IRS: recalculate estimated payment
 
-## SF Village
 
-* <a href="https://www.sfvillage.org/about/">https://www.sfvillage.org/about/</a>
-* Jill Ellefsen ~ Member Services Director
-* <a href="mailto:jill@sfvillage.org">jill@sfvillage.org</a>
-* 3220 Fulton St. San Francisco, CA 94118  |   415-387-1375 ext. 2
 
 ## Tiller
 

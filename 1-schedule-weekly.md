@@ -1,6 +1,6 @@
 # 0.1 Schedule Weekly
 
-## Maybe&nbsp;
+## Maybe
 
 I could schedule each day of the week to a task.
 
@@ -13,6 +13,7 @@ I could schedule each day of the week to a task.
 * Knowledge management
 
 Weekends: whatever + admin
+
 ## Monday
 
 Review
@@ -77,10 +78,13 @@ Before breakfast
 
 Morning
 
+* Let hot water run to warm up
+* Trim hair from ears &amp; nose
+* Sponge wash coffee mug ~ while water is warming up: do nose &amp; ears
+* Scrub soap holder and basin
 * Take out bathroom trash
 * Replace trash bag
-* Sponge wash coffee mug ~ while water is warming up: do nose &amp; ears
-* Scrub&nbsp;
+* Scrub
 * Soak butt rags
 * Tidy bathroom cupboard
 

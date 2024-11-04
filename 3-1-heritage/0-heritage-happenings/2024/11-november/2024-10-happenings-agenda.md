@@ -1,7 +1,7 @@
 # Heritage Happenings November Issue Agenda
 
 
-## Subscribers
+## Agenda
 
 * Marty link
 * Doris photos link
@@ -35,12 +35,12 @@
 
 ### Staff
 
-* Angie: new menu ~ regular special meals: 3rd Thursday? ~  Milkshake day,  Donuts day, Thai meal day? Others? ~ new kiosk
+* Angie: new menu ~ regular special meals: 3rd Thursday? ~  Milkshake day,  Donuts day, Thai meal day? Others? ~ new kiosk!!
 * Jon Casey: Type C rates?
 * Hector: Updates
 * Martha & Vada: Health: article? Pharmamerica? Hygienist
 * Health Agenda for the year: Dimensions of wellness
-
+* Brittany: Bones: scan
 
 ## Residents Council
 
@@ -48,51 +48,33 @@
 * Rod: RC notes
 * Pamela & Pam: RC notes
 * Mary Liz
+* Mary Liz: Dining Services: ??
+* Patrick: Residents Council or Board?
+* Patrick: funny story??
 
 
 ## Residents
 
-* Bob Granucci Mia: Ducks #3
-* Doris: Thailand ~
-* Eleanor Bissell:
-* Jane: Overnight train
-* Margaret Jacobs:
-* Margaret Johnson: #13
+* @ Bob Granucci Mia: Ducks #3
+* @ Doris: Thailand ~
+* @ Jane: Overnight train
+* Margaret Jacobs: ??
+* Margaret Johnson: Barges: need text
 * Margaret Missiaen:
 * Martha Nell:
-* Martha Nell: Library new acquisitions: none
-* Martha Nell: Interview: Nancy T
-* Mary Liz: Dining Services: ??
-* Patrick: Residents Council or Board?
-* Patrick: funny story??
-* Sheila: Thailand montage
-* Stela: head start: Mia
-* Til Mossi: Shipyard update ~ Mia chat
-* Trish: xmas books
-* Tucker:
+* @ Martha Nell: Library new acquisitions: none
+* @ Martha Nell: Interview: Nancy T
+* @ Sheila: Thailand montage
+* @ Stela: head start: Mia
+* @ Til Mossi: Shipyard update ~ Mia chat
+* @ Trish: xmas books
+* @ Tucker: Jabberwocky
 * Theo: Short & Sweet articles
-* Tom King: Nixon
-
+* @ Tom King: Nixon
 
 
 ### Miscellany
 
 * Portrait photo: Marty Nolan
-
-
-## Other Publications
-
-### Reminiscing
-
-* Marty Nolan
-* Martha Nell
-* Tom King
-* Anne Morris
-* Margaret Johnson
-* Doris Howard
-* Theo Armour
-* Eleanor Bissell
-
-### Residents Manual
-
-* Theo dreaming about this
+* Marty; Mia chat
+* Link to PDF

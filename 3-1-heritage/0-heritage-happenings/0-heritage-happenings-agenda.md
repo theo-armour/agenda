@@ -27,6 +27,26 @@ Link: <a href="https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc">http
 
 ## Calendar
 
+
+
+## Other Publications
+
+### Reminiscing
+
+* Marty Nolan
+* Martha Nell
+* Tom King
+* Anne Morris
+* Margaret Johnson
+* Doris Howard
+* Theo Armour
+* Eleanor Bissell
+
+### Residents Manual
+
+* Theo dreaming about this
+
+
 ## Residents Directory
 
 * Regular Events page?
