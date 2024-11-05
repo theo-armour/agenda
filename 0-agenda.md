@@ -9,7 +9,7 @@
 
 * ?
 * Call pharmerica
-* Afgani family / Tom Kong
+* Afgani family / Tom Kng
 * ++
 
 ## SOON
