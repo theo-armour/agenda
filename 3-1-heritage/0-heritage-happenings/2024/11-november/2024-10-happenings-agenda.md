@@ -3,6 +3,9 @@
 
 ## Agenda
 
+* Midge's edits
+* MJohnson: Barges article
+* Sheila's photos
 * Marty link
 * Doris photos link
 * Laura Wagner link

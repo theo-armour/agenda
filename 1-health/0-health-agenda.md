@@ -3,14 +3,17 @@
 ## Appointments
 
 * ?
+* Sports medicine reference
 * Colonoscopy report??
 * Dr Kattah: 09/05 8:00
 * Dr Yoga: 09/12 3:00
 * Dr Fassett: 10/05 2:30 ~ Dermatology exam ~ 185 Berry Ste 1000
-* Dr Masato Nagao: 10/21 @ 1 pm ~ 415 353 2080 ~ 1500 Osens
+* Dr Masato Nagao: 10/21 @ 1 pm ~ 415 353 2080 ~ 1500 Owens
 
 ## Agenda
 
+* PPH: Talk to Breen
+* Genualdi: prepare report
 * List of medications
 * List of conditions
 * Kattah: questions: Miralax alternatives ~ statins ~ colonoscopy results

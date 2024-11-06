@@ -1,6 +1,7 @@
 # PPH
 
 * ?
+* Talk to breen
 * Pneumonia vaccine ~ June 2024
 
 ## Pine Park Health ~ [https://pineparkhealth.com](https://pineparkhealth.com)
@@ -8,11 +9,20 @@
 * 1901 4th Street, Suite 201
 * Berkeley, CA 94710
 * clinical@pineparkhealth.com.
-* nfo@pineparkhealth.com
+* info@pineparkhealth.com
 * 510-929-1400 - main number
 * NPI Number: 1346879848
 * Medicare PECOS PAC: ID 0345670527
 * Medicare Enrollment ID: O20200501001068
+
+
+## Michael Genualdi, M.D ~ Dr Mike
+
+* Education: New York Medical College, Stanford University
+* Residency: Stanford Health Care
+
+Dr. Michael Genualdi, originally from New Jersey, is a dedicated physician and advocate for the well-being of older adults. He completed his Internal Medicine residency and Geriatrics fellowship at Stanford University, where he developed a commitment to providing compassionate care. As a Geriatrics and Internal Medicine Board Certified physician, **Dr. Mike’s** mission is to deliver quality-focused, evidence-based, patient-centered care.
+
 
 ## CEO
 
