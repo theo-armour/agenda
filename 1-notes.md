@@ -1,14 +1,14 @@
 # Notes
 
+  
+
+  
+
+  
+
 Nate silver pollster
 
 Odds of tie low
-
-  
-
-  
-
-  
 
 Heather Brooke national Park service fort Mason
 
