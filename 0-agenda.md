@@ -8,9 +8,9 @@
 ## Today
 
 * ?
-* Saturday things
-* HH: downloads
-* Binder clips
+* Call pharmerica
+* Jon: photos
+* Afgani family / Tom Kng
 * ++
 
 ## SOON
@@ -18,7 +18,7 @@
 * 
 * Ballot:&nbsp;
 * Tiffany ~ Awesome disability
-* Joel:is join
+* Joel:&nbsp;
 * Check Kaiser Payment:&nbsp;866-564-2262.
 
 Thinking
