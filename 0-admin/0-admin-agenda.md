@@ -5,6 +5,7 @@
 ## Agenda
 
 * ?
+* Check Kaiser Payment: Blue Shield?
 * DWA: $30K? for ACE
 * Nov 5: recommendations
 * Nov 5: Ballot prepared
@@ -27,8 +28,6 @@ Done
 
 * IRS: estimated taxes
 * IRS: recalculate estimated payment
-
-
 
 ## Tiller
 
