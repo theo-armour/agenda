@@ -8,6 +8,24 @@
 * Office Hours: 9AM - 5PM PST, Mon - Fri
 
 
+## 2024-11-06
+
+nice call it was!
+* $40K minimum ~ less than I thought ;-)
+* no cheap demo ~
+
+Questions
+
+* Cost
+* Timing
+* Protecting the historic character of the building
+
+More
+
+* Multiple modes of operation: normal & special occasions
+* Targeting: Internal glare and light pollution
+* Extending and upgrading the lighting system
+* Maintaining and controlling the system
 
 ## 2024-10-29
 

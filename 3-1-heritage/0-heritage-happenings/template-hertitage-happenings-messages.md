@@ -7,6 +7,7 @@ Done:
 * Family
 * Team Members
 * BoD
+
 ## Subscriber Messages
 
 Heritage Happenings October Newsletter + Calendar + Resident Directory

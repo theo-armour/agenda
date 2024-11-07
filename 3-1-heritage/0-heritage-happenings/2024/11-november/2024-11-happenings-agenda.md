@@ -3,6 +3,12 @@
 
 ## Agenda
 
+* Hector
+* Bob
+* Til images
+
+Done:
+
 * Midge's edits
 * MJohnson: Barges article
 * Sheila's photos
