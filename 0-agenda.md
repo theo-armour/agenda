@@ -37,9 +37,6 @@ Thinking
 * David: Peritz: readable slides
 * Coding triad
 * Tess: Audiobooks
-* 180 Medical: study self-cath process
-* 
-
 * 
 
 Waiting
@@ -91,11 +88,12 @@ Waiting
 </details>
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
 * ++
+* 180 Medical: study self-cath process
 * <a href="https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-care-home">https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-care-home</a>
 * ucsf care at home ~ 4155143577
 * self refer
