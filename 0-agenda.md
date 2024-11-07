@@ -9,6 +9,7 @@
 ## Today
 
 * ?
+* HH: Hector ~ Bob
 * Uber
 * Martha Nel
 * Daniel: prep ~ light
