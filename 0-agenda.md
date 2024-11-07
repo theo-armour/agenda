@@ -12,6 +12,7 @@
 * Call pharmerica
 * Jon: Afgani family / Tom King
 * NextVillage: add tree number
+* Mug
 * ++
 
 ## SOON
@@ -37,7 +38,7 @@ Thinking
 * David: Peritz: readable slides
 * Coding triad
 * Tess: Audiobooks
-* 
+* Dec 6: A3 SF
 
 Waiting
 
