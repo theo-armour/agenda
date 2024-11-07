@@ -1,14 +1,14 @@
 # Notes
 
+  
+
+Dspach watch straps 638 20th
+
 My current life is quite wonderful. My guess is that a year from now my life will still be wonderful. 
 
 At the same time the lives of a large portion of my country are not wonderful. Today that large number of people may have a hope that their lives may become wonderful. 
 
-  
-
 Oops I forgot that in America less than half the people eligible to vote actually vote. Probably most of the people whose lives are not wonderful are also not voters 
-
-  
 
 Nate silver pollster
 
