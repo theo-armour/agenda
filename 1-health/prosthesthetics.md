@@ -16,6 +16,7 @@ To watch
 
 * https://www.ottobock.com/en-us/bionic-life
 
+
 ## 2024-11-01
 
 Comfort: Generally: quite comfortable; feels cozy. Walking with my arm in the socket while leaning on the armrest of an upright walker may be less comfortable.

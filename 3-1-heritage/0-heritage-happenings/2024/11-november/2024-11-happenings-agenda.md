@@ -15,7 +15,6 @@ Done:
 * Marty link
 * Doris photos link
 * Laura Wagner link
-* Stela: hand warmers
 
 ## Review of October Issue
 
