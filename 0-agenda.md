@@ -22,7 +22,7 @@
 
 * Tiffany ~ Awesome disability
 * Joel:&nbsp;
-* Check Kaiser Payment: Blue Shield?
+* 
 
 Thinking
 
@@ -91,7 +91,7 @@ Waiting
 </details>
 ***
 
-<details open="">
+<details>
 
 <summary>Health</summary>
 
