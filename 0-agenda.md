@@ -9,6 +9,8 @@
 ## Today
 
 * ?
+* Res dir
+* Harry 121 ~ segrin. conn, flora
 * Martha Ne,l
 * Daniel: prep ~ light
 * Call pharmerica
