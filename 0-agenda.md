@@ -9,9 +9,6 @@
 ## Today
 
 * ?
-* Alix
-* HH: Hector ~ Bob
-* Uber
 * Martha Ne,l
 * Daniel: prep ~ light
 * Call pharmerica
@@ -40,7 +37,8 @@ Thinking
 * Coding triad
 * Tess: Audiobooks
 * Dec 6: A3 SF
-* kPop exhibit
+* kPop exhibit&nbsp;
+* Stela: hand warmers
 
 Waiting
 
