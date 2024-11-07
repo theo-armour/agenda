@@ -9,21 +9,20 @@
 ## Today
 
 * ?
+* Uber
+* Martha Nel
+* Daniel: prep ~ light
 * Call pharmerica
 * Jon: Afgani family / Tom King
 * NextVillage: add tree number
-* Mug
 * ++
 
 ## SOON
 
-* 
-
-* Ballot:&nbsp;
-
 * Tiffany ~ Awesome disability
 * Joel:&nbsp;
-* 
+* Clean carpet
+* Git for windows: uninstall
 
 Thinking
 
@@ -39,6 +38,7 @@ Thinking
 * Coding triad
 * Tess: Audiobooks
 * Dec 6: A3 SF
+* kPop exhibit
 
 Waiting
 
@@ -63,15 +63,15 @@ Waiting
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* S:&nbsp; ~ Chia seeds
+* S: beer ~ Chia seeds
 * Plateau chair
-* A: mug ~ mike
+* A: mug ~ mike ~ frixion pens ~ laser pointer ~ kneeling pad ~&nbsp;
 * Winter shoes
 * EyeBuyDirect: small specs?
 * John King ~ The Portal book
