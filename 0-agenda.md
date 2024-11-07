@@ -20,7 +20,7 @@
 
 * Tiffany ~ Awesome disability
 * Joel:&nbsp;
-* Check Kaiser Payment:&nbsp;866-564-2262.
+* Check Kaiser Payment: Blue Shield?
 
 Thinking
 
@@ -36,7 +36,8 @@ Thinking
 * Coding triad
 * Tess: Audiobooks
 * 180 Medical: study self-cath process
-* Alix: LinkedIn post: reply
+* 
+
 * 
 
 Waiting
