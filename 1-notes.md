@@ -1,12 +1,40 @@
 # Notes
 
+The pollsters are wrong 
+
+  
+
+It's a liberal press observes through faulty lenses
+
+  
+
+Harris losing the election is not what it's about 
+
+  
+
+It's about Trump winning the election 
+
+  
+
+If you include the people who didn't vote such as convicted felons, the homeless, the illiterate, he has four more than half the population as followers who wish for change. 
+
+  
+
+Harris promised stability 
+
+Trump promised disruption 
+
+  
+
+Politics is not like what it used to be. It is far more interesting 
+
+  
+
+  
+
 Dspach watch straps 638 20th
 
-  
-
 Pmnr doctor 
-
-  
 
 My current life is quite wonderful. My guess is that a year from now my life will still be wonderful. 
 
