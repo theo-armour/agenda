@@ -9,6 +9,7 @@
 ## Today
 
 * ?
+* DWA: $30K
 * Nextvillage: add to agenda
 * Pam: food committee notes
 * Jeanne SacSem: lunch
