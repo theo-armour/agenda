@@ -10,6 +10,7 @@
 
 * ?
 * DWA: $30K
+* Mia: $525
 * Nextvillage: add to agenda
 * Pam: food committee notes
 * Jeanne SacSem: lunch
