@@ -67,22 +67,13 @@ Please review and provide feedback.
 
 
 
-## Heritage Happenings November Calendar: Print Ready
-
-Good morning, Front Office
-
-The Heritage Happenings November Calendar is ready for print. A copy is attached.
-
-Cheers,
-
-Theo
-
-
 ## Heritage Happenings November Newsletter: Print Ready
 
 Good morning, Front Office
 
-The Heritage *Happenings* November **Newsletter** is ready for print. A copy is attached.
+The *Heritage Happenings* November Newsletter is ready for print. A copy is attached.
+
+Kindly print and distribute a copy to all residents.
 
 Cheers,
 

@@ -8,5 +8,5 @@
 
 ## Time tracker
 
-https://onedrive.live.com/personal/5e22d509523afc95/_layouts/15/Doc.aspx?resid=5E22D509523AFC95!s80094a3a48dd4245bfbcd7e3b62b136e&cid=5e22d509523afc95&migratedtospo=true&app=Excel
+* https://onedrive.live.com/edit.aspx?resid=4348E1419F457EB2!1263675&cid=4348e1419f457eb2&CT=1731136952214&OR=ItemsView
 
