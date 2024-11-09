@@ -5,6 +5,8 @@
 ## Avoid
 
 * ??
+* New Teodoro with voice
+* Restart backing up
 * Mindless alcohol
 
 ## Fun
