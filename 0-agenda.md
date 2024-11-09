@@ -12,8 +12,6 @@
 * Jeanne: roses
 * Adele
 * Angelika
-* 
-
 * Call pharmerica
 * Jon: Afgani family / Tom King
 * NextVillage: add tree number
