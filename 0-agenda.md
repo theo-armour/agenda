@@ -8,7 +8,9 @@
 <!-- this is a comment -->
 ## Today
 
-* ?Pam: food committee notes
+* ?
+* Nextvillage: add to agenda
+* Pam: food committee notes
 * Jeanne SacSem: lunch
 * Jeanne: roses + xmas party
 * Adele SFPL
@@ -21,7 +23,7 @@
 ## SOON
 
 * 
-* 
+
 * Tiffany ~ Awesome disability
 * Joel:&nbsp;
 * Clean carpet
