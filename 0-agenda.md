@@ -8,11 +8,10 @@
 <!-- this is a comment -->
 ## Today
 
-* ?* Mia pay&nbsp;
-* 
-
-* Jeanne: roses
-* Adele
+* ?
+* Jeanne SacSem: lunch
+* Jeanne: roses + xmas party
+* Adele SFPL
 * Angelika
 * Call pharmerica
 * Jon: Afgani family / Tom King
@@ -20,6 +19,10 @@
 * ++
 
 ## SOON
+
+* 
+
+* 
 
 * Tiffany ~ Awesome disability
 * Joel:&nbsp;
