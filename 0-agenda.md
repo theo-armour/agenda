@@ -9,16 +9,18 @@
 ## Today
 
 * ?
+* Angelika: reply
+* Angie: cookie images
 * Netflix
-* Chat
 * MichaelH: Book + Doom
 * Oil razor
-* Angelika: reply
+
 * Spotswood: blog posy
 * Til: scan card
-* Angie: cookie images
+
 * DWA: $30K
-* Mia: $525
+* 
+
 * Nextvillage: add to agenda
 * Pam: food committee notes
 * Jeanne: roses + xmas party
