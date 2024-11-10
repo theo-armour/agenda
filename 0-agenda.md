@@ -9,8 +9,6 @@
 ## Today
 
 * ?
-* 
-
 * Netflix
 * Chat
 * MichaelH: Book + Doom
