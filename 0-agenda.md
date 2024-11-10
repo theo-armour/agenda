@@ -12,6 +12,8 @@
 * Citibank
 * Netflix
 * Chat
+* MichaelH: Book + Doom
+* Oil razor
 * Angelika: reply
 * Spotswood: blog posy
 * Til: scan card
