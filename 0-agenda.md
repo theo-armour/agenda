@@ -9,14 +9,23 @@
 ## Today
 
 * ?
+* Angelika: reply
 * Angie: cookie images
+* Jeanne: roses + xmas party
+* Netflix
+* MichaelH: Book + Doom
+* Oil razor
+
+* Spotswood: blog posy
+* Til: scan card
+
 * DWA: $30K
-* Mia: $525
+* 
+
 * Nextvillage: add to agenda
 * Pam: food committee notes
-* Jeanne: roses + xmas party
+
 * Adele SFPL
-* Angelika
 * Call pharmerica
 * Jon: Afgani family / Tom King
 * ++
