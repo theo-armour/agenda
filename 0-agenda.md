@@ -9,6 +9,7 @@
 ## Today
 
 * ?
+* Angie: cookie images
 * DWA: $30K
 * Mia: $525
 * Nextvillage: add to agenda
