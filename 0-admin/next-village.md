@@ -21,7 +21,7 @@
 
 * Anamary Ehlen
 * anamary@nextvillagesf.org
-*  415-299-1825.
+* 415-299-1825
 * NEXT Village San Francisco
 * Office Manager
 
@@ -38,7 +38,29 @@
 ## Diana Greer: Volunteer
 
 * 415 271 4286
+* Tuesday 10:30
+
+2024-11-09 txt: Diana: I really look forward to meeting you and getting things done. But, please can we reschedule? Either 11:30 or another day?
+
+Allowing for 30 minutes to go, 60 minutes there, and either 30 minutes back (or you leave from the storage). I will be able to reserve the Heritage van, so getting there and back should be easy. Cheers, Theo
+
+
+## Montera: Lamere Carter? : Volunteer
+
+Carter Lamere
+lamere.carter@gmail.com
+
+meet ?
+
+
+## Saoirse ~ soar-sha
+
+* 719-290-0074
+* currently William Sonoma
+* Next: "furniture tore" ~ restoration hardware??
+
+
 
 ## Phone Tree
 
-*415-301-3742
+* 415-301-3742
