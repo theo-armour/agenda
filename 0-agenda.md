@@ -18,8 +18,6 @@
 * Angelika
 * Call pharmerica
 * Jon: Afgani family / Tom King
-* 
-
 * ++
 
 ## SOON
