@@ -54,7 +54,7 @@ Waiting
 *
 ***
 
-<details>
+<details open="">
 <summary>Admin</summary>
 
 * ?
@@ -65,7 +65,7 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
@@ -73,7 +73,7 @@ Waiting
 * ?
 * S: Chia seeds
 * Plateau chair
-* A: mug ~ mike ~ frixion pens ~ laser pointer ~ kneeling pad ~ sticking clot
+* A: mike ~ frixion pens ~ laser pointer ~ kneeling pad ~ sticking cloth
 * Winter shoes
 * EyeBuyDirect: small specs?
 * John King ~ The Portal book
