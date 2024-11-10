@@ -9,7 +9,8 @@
 ## Today
 
 * ?
-* Citibank
+* 
+
 * Netflix
 * Chat
 * MichaelH: Book + Doom
