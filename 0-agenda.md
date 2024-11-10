@@ -11,6 +11,7 @@
 * ?
 * Angelika: reply
 * Angie: cookie images
+* Jeanne: roses + xmas party
 * Netflix
 * MichaelH: Book + Doom
 * Oil razor
@@ -23,9 +24,8 @@
 
 * Nextvillage: add to agenda
 * Pam: food committee notes
-* Jeanne: roses + xmas party
+
 * Adele SFPL
-* Angelika
 * Call pharmerica
 * Jon: Afgani family / Tom King
 * ++
