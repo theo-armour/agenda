@@ -13,13 +13,13 @@
 * Mia: $525
 * Nextvillage: add to agenda
 * Pam: food committee notes
-* &nbsp;
 * Jeanne: roses + xmas party
 * Adele SFPL
 * Angelika
 * Call pharmerica
 * Jon: Afgani family / Tom King
-* NextVillage: add tree number
+* 
+
 * ++
 
 ## SOON
