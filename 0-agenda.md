@@ -71,7 +71,7 @@ Waiting
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
@@ -79,7 +79,7 @@ Waiting
 * ?
 * S: Chia seeds
 * Plateau chair
-* A: mike ~ frixion pens ~ laser pointer ~ kneeling pad ~ sticking cloth
+* A: mike ~ razor
 * Winter shoes
 * EyeBuyDirect: small specs?
 * John King ~ The Portal book
