@@ -17,6 +17,13 @@
 * https://nextvillagesf.org/member-application/
 * https://www.youtube.com/@NEXTVillageSF
 
+### NEXT Village SF
+
+* PO Box 330278,
+* San Francisco, CA 94133
+* 415.888.2868
+* info@nextvillagesf.org
+
 ## Admin
 
 * Anamary Ehlen
@@ -34,6 +41,15 @@
 ## Donna Booher: D2 University / Library
 
 * 11:30 ~ 11/11 lunch
+https://www.linkedin.com/in/donnabooher/
+
+### 2024-11-11
+
+* Library
+* Julia Morgan building tours
+* What is NV seeking these days?
+* D2 in particular
+* Awesome Foundation
 
 ## Diana Greer: Volunteer
 
