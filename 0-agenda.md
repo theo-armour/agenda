@@ -9,15 +9,13 @@
 ## Today
 
 * ?
-* Jeanne: roses + xmas party
+* Jeanne: xmas party
 * Netflix
 * MichaelH: Book + Doom
 * Oil razor
 * Til: scan card + address
 * Spotswood: blog posy
-* 
-
-* Nextvillage: add to agenda
+* Next Village: add to agenda
 * Pam: food committee notes
 * Adele SFPL
 * Call pharmerica
