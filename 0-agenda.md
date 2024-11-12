@@ -15,7 +15,8 @@
 * NV lemere: emil
 * Netflix
 * MichaelH: Book + Doom
-* Til: scan card + address
+* 
+
 * Next Village: add to agenda
 * Pam: food committee notes
 * Adele SFPL
