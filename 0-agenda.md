@@ -9,18 +9,13 @@
 ## Today
 
 * ?
+* Carm: nieces
 * SecSem: Spotswood
 * NV Donna: wrap-up
 * NV lemere: emil
-* 
-
 * Netflix
 * MichaelH: Book + Doom
-* 
-
 * Til: scan card + address
-* 
-
 * Next Village: add to agenda
 * Pam: food committee notes
 * Adele SFPL
@@ -30,10 +25,7 @@
 
 ## SOON
 
-* Carm: nieces
 * Eloise: david &amp; AI
-* 
-
 * Tiffany ~ Awesome disability
 * Git for windows: uninstall
 
