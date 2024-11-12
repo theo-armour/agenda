@@ -9,13 +9,13 @@
 ## Today
 
 * ?
-* NV lemere: wrap-up
-* Jeanne: xmas party
+* Carm: nieces
+* SecSem: Spotswood
+* NV Donna: wrap-up
+* NV lemere: emil
 * Netflix
 * MichaelH: Book + Doom
-* Oil razor
 * Til: scan card + address
-* Spotswood: blog posy
 * Next Village: add to agenda
 * Pam: food committee notes
 * Adele SFPL
@@ -25,10 +25,8 @@
 
 ## SOON
 
-* 
+* Eloise: david &amp; AI
 * Tiffany ~ Awesome disability
-* Joel:&nbsp;
-* Clean carpet
 * Git for windows: uninstall
 
 Thinking
@@ -37,7 +35,6 @@ Thinking
 * Sensay ~ audiopen ~ seo
 * Ship Smart
 * SquareSpace: broken links
-* AudioPen: Download audio
 * Nicole Smith: PDF
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
 * Tricycle ~ Barry
@@ -47,6 +44,7 @@ Thinking
 * Dec 6: A3 SF
 * kPop exhibit&nbsp;
 * Stela: hand warmers
+* Jeanne DeMeio: xmas party
 
 Waiting
 
