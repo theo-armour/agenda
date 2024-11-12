@@ -15,8 +15,6 @@
 * NV lemere: emil
 * Netflix
 * MichaelH: Book + Doom
-* 
-
 * Next Village: add to agenda
 * Pam: food committee notes
 * Adele SFPL
