@@ -32,7 +32,8 @@
 
 ## SOON
 
-* 
+* Eloise: david &amp; AI
+* Eloise: Hire a mover; send me the invoice.&nbsp;
 * Tiffany ~ Awesome disability
 * Clean carpet
 * Git for windows: uninstall
@@ -43,8 +44,6 @@ Thinking
 * Sensay ~ audiopen ~ seo
 * Ship Smart
 * SquareSpace: broken links
-* 
-
 * Nicole Smith: PDF
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
 * Tricycle ~ Barry
