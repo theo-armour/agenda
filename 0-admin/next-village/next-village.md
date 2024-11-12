@@ -61,14 +61,6 @@ https://www.linkedin.com/in/donnabooher/
 Allowing for 30 minutes to go, 60 minutes there, and either 30 minutes back (or you leave from the storage). I will be able to reserve the Heritage van, so getting there and back should be easy. Cheers, Theo
 
 
-## Montera: Lamere Carter? : Volunteer
-
-Carter Lamere
-lamere.carter@gmail.com
-
-meet ?
-
-
 ## Saoirse ~ soar-sha
 
 * 719-290-0074

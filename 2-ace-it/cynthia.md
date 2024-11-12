@@ -10,6 +10,15 @@
 * Finish hand
 
 
+## 2024-11-11
+
+* Lolo
+* David birthday: 11/20
+* love message
+* Follow up on my way: seeking agreement, but never completely; never want to hurt, ever
+* Christmas
+* Happiness: Next Village, tech,
+
 ## 2024-08-19
 
 * Scott Alexander
