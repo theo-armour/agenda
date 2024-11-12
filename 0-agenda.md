@@ -10,20 +10,16 @@
 
 * ?
 * SecSem: Spotswood
-* 
-
-* 
-
-* 
-
-* NV lemere: wrap-up
+* NV Donna: wra-up
+* NV lemere: emil
 * 
 
 * Netflix
 * MichaelH: Book + Doom
 * Oil razor
 * Til: scan card + address
-* Spotswood: blog posy
+* 
+
 * Next Village: add to agenda
 * Pam: food committee notes
 * Adele SFPL
