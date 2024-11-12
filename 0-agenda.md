@@ -12,7 +12,8 @@
 * SecSem: Spotswood
 * 
 
-* NV: Donna
+* 
+
 * 
 
 * NV lemere: wrap-up
@@ -37,7 +38,6 @@
 * 
 
 * Tiffany ~ Awesome disability
-* Clean carpet
 * Git for windows: uninstall
 
 Thinking
