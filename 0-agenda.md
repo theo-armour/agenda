@@ -13,7 +13,8 @@
 * 
 
 * NV: Donna
-* He Ana: uber
+* 
+
 * NV lemere: wrap-up
 * Jeanne: xmas party
 * Netflix
