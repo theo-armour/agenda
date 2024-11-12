@@ -10,13 +10,14 @@
 
 * ?
 * SecSem: Spotswood
-* NV Donna: wra-up
+* NV Donna: wrap-up
 * NV lemere: emil
 * 
 
 * Netflix
 * MichaelH: Book + Doom
-* Oil razor
+* 
+
 * Til: scan card + address
 * 
 
