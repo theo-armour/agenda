@@ -32,8 +32,10 @@
 
 ## SOON
 
+* Carm: nieces
 * Eloise: david &amp; AI
-* Eloise: Hire a mover; send me the invoice.&nbsp;
+* 
+
 * Tiffany ~ Awesome disability
 * Clean carpet
 * Git for windows: uninstall
