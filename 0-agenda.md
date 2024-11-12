@@ -16,7 +16,8 @@
 * 
 
 * NV lemere: wrap-up
-* Jeanne: xmas party
+* 
+
 * Netflix
 * MichaelH: Book + Doom
 * Oil razor
@@ -33,7 +34,6 @@
 
 * 
 * Tiffany ~ Awesome disability
-* Joel:&nbsp;
 * Clean carpet
 * Git for windows: uninstall
 
@@ -43,7 +43,8 @@ Thinking
 * Sensay ~ audiopen ~ seo
 * Ship Smart
 * SquareSpace: broken links
-* AudioPen: Download audio
+* 
+
 * Nicole Smith: PDF
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
 * Tricycle ~ Barry
@@ -53,6 +54,7 @@ Thinking
 * Dec 6: A3 SF
 * kPop exhibit&nbsp;
 * Stela: hand warmers
+* Jeanne DeMeio: xmas party
 
 Waiting
 
