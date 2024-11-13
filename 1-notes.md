@@ -1,15 +1,9 @@
 # Notes
 
 Pmnr doctor&nbsp;
-
 Heather Brooke national Park service fort Mason
-
 Charles sowers sculptor&nbsp;
-
 San Francisco museum &amp; historical society&nbsp;
-
-https://www.awesomefoundation.org/en/chapters/sf/projects?start=2024-08-01&amp;end=2024-08-31
-
 
 * EIR ~ residents points ~ van
 * Me: side of house ~ walkability ~ parking ~ generator noise
@@ -61,7 +55,7 @@ https://www.awesomefoundation.org/en/chapters/sf/projects?start=2024-08-01&amp;e
 * Imagine the world where everybody was suffering. There must be a reason why some people like us are living in Paradise.
 * Exercise the arms at night
 * French 75 Negroni Boulvardier
-* https://theo-armour.github.io/agenda/#1-simplicity/README.md
+* <a href="https://theo-armour.github.io/agenda/#1-simplicity/README.md">https://theo-armour.github.io/agenda/#1-simplicity/README.md</a>
 
 ## More
 
