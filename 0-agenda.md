@@ -12,7 +12,6 @@
 * Til: mail letter
 * He: Reserve cottage: boxing day
 * Carm: nieces
-* NV Donna: wrap-up
 * Netflix
 * MichaelH: Book + Doom
 * Pam F: food committee notes
