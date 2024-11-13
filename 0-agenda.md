@@ -17,12 +17,10 @@
 * Netflix
 * MichaelH: Book + Doom
 * Next Village: add to agenda
-* Pam: food committee notes
+* Pam F: food committee notes
 * Adele SFPL
 * Call pharmerica
 * Jon: Afgani family / Tom King
-* 
-
 * ++
 
 ## SOON
