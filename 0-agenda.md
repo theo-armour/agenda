@@ -16,7 +16,8 @@
 * NV lemere: email
 * Netflix
 * MichaelH: Book + Doom
-* Next Village: add to agenda
+* 
+
 * Pam F: food committee notes
 * Adele SFPL
 * Call pharmerica
