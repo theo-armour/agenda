@@ -9,12 +9,11 @@
 ## Today
 
 * ?
+* Til: mail letter
 * He: Reserve cottage: boxing day
 * Carm: nieces
-* 
-
 * NV Donna: wrap-up
-* NV lemere: emil
+* NV lemere: email
 * Netflix
 * MichaelH: Book + Doom
 * Next Village: add to agenda
