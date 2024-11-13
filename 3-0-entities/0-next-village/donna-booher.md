@@ -39,7 +39,70 @@ Let me know if there's anything else I was supposed to follow up on that I forgo
 
 Donna
 
-###
+### me
+
+Hi Donna (and Camille)
+
+>>It was wonderful to meet you
+
+Exactly the same from me to you. We covered so many topics of interest and familiarity to both of us. And you remembered them all!
+
+Please note my typing is pretty slow and I don't use voice recognition enough yet so my emails may not be as detailed as your excellent efforts!
+
+Awesome Foundation
+
+I will be attending the monthly meeting tomorrow. Here are the projects we are looking at:https://www.awesomefoundation.org/en/chapters/6/projects?end=2024-10-31&page=2&q=&start=2024-10-01
+
+I received a postcard from Jacqueline today. Before she comes back I will write up something summarizing my thoughts or ideas.
+
+Aging Mastery Program
+
+Yes. Yes. Yes. I will establish the connection. And in doing so facilitate attendance by NV members.
+Dining with EldersBy the way I had tons of fun with visits by La'mère Carter and Saoirse. Can we work out something where volunteers get invited for a meal in our dining room and I plant them at a table with three old people? Or something like that?
+
+NotBornYesterday
+
+I will add a link to our monthly newsletter
+
+Tech & Old People
+
+I hear you. It's still early days. The people I would like to connect with are others in NV who are already quite tech-savvy.
+
+Richard Caro
+
+Also we never finished the dialog about Richard Caro and Tech Enhanced Life. Did anything ever happen there?
+
+WhatsApp
+
+I think there may be enough in the message that might be of interest to camille. I am copying her on this message.  
+
+Hi Camille: may I join the whatsapp group?
+
+Tours of Heritage on the Marina
+
+I will be delighted to give tours of my 1925 Julia Morgan mansion. And I would also like to discuss having meetings and get-togethers here - in the parlor or the cottage. And early 2025 sounds good.
+
+Please note that there are lots of places with "Heritage" in their name. To differentiate ours is "Heritage on the Marina".
+
+Diana Greer
+
+Magic introduction: Get Things Done!
+
+Links of Interest
+
+Here is a paper with lots of photos of the roses starting on page fourhttps://heritage-happenings.github.io/pages/2024/eir/the-roses-of-3400-laguna.pdf
+
+Here is a link to the monthly newsletter I produce:
+https://heritage-happenings.github.io/happenings-issues/2024/2024-11-happenings-newsletter.pdf
+
+Of course, there's more. But enough for now.
+
+Cheers,
+
+Theo
+
+
+
 ## 2024-11-11
 
 * Library
