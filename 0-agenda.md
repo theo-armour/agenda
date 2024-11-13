@@ -9,10 +9,11 @@
 ## Today
 
 * ?
-* Hector: meeting
+* Hector: meeting: chair lists ~ mtgs
+* Martha: meeting
+* Mary: meeting: apt +
 * Doris: Art contest
 * Til: mail letter
-* He: Reserve cottage: boxing day
 * Carm: nieces
 * Netflix
 * MichaelH: Book + Doom
