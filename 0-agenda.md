@@ -9,6 +9,9 @@
 ## Today
 
 * ?
+* 
+
+* Tiffany ~ Awesome disability
 * Hector: meeting: chair lists ~ mtgs
 * Martha: meeting
 * Mary: meeting: apt +
@@ -26,7 +29,7 @@
 ## SOON
 
 * Eloise: david &amp; AI
-* Tiffany ~ Awesome disability
+
 * Git for windows: uninstall
 
 Thinking
