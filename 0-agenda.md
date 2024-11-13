@@ -11,7 +11,8 @@
 * ?
 * He: Reserve cottage: boxing day
 * Carm: nieces
-* SecSem: Spotswood
+* 
+
 * NV Donna: wrap-up
 * NV lemere: emil
 * Netflix
