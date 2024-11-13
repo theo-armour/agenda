@@ -65,7 +65,20 @@ Allowing for 30 minutes to go, 60 minutes there, and either 30 minutes back (or 
 
 * 719-290-0074
 * currently William Sonoma
-* Next: "furniture tore" ~ restoration hardware??
+* Next: "furniture store" ~ restoration hardware??
+
+### Questions
+
+* What do you like doing?
+* Skills? Strengths?
+* Want to learn?
+* Goals: short & long
+* Five years
+
+Things to help with
+
+* Newsletter: interviews, photography, mailings
+* Residents: help with errands, rides, visits
 
 
 

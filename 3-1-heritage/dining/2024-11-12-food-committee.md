@@ -1,6 +1,22 @@
 # 2024-11-12 Food Committee
 
- New menu
+
+
+Thailand
+talk new residents
+Christmas Friendship Hall dinner
+
+kiosk
+angie reads all the comments: is this necesary?
+
+salad: can ask for half
+
+sandwich: ask for thin
+
+tg: early dinner
+13 staff party fod truck
+
+New menu
 
 * Heart the underlying Nutrition awareness: small portions, no salt,
 * Like: Sausage patties, Sunday Greek Salad, broccoli turmeric soup
