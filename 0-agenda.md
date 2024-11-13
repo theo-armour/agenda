@@ -13,11 +13,8 @@
 * He: Reserve cottage: boxing day
 * Carm: nieces
 * NV Donna: wrap-up
-* NV lemere: email
 * Netflix
 * MichaelH: Book + Doom
-* 
-
 * Pam F: food committee notes
 * Adele SFPL
 * Call pharmerica
