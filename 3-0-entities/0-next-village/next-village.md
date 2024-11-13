@@ -51,21 +51,14 @@ https://www.linkedin.com/in/donnabooher/
 * D2 in particular
 * Awesome Foundation
 
-## Diana Greer: Volunteer
-
-* 415 271 4286
-* Tuesday 10:30
-
-2024-11-09 txt: Diana: I really look forward to meeting you and getting things done. But, please can we reschedule? Either 11:30 or another day?
-
-Allowing for 30 minutes to go, 60 minutes there, and either 30 minutes back (or you leave from the storage). I will be able to reserve the Heritage van, so getting there and back should be easy. Cheers, Theo
 
 
 ## Saoirse ~ soar-sha
 
 * 719-290-0074
 * currently William Sonoma
-* Next: "furniture store" ~ restoration hardware??
+* Going to herman miller subsidiary wd Hoag?
+* Next: "furniture store"
 
 ### Questions
 
