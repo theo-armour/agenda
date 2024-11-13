@@ -10,13 +10,10 @@ San Francisco museum &amp; historical society&nbsp;
 
 https://www.awesomefoundation.org/en/chapters/sf/projects?start=2024-08-01&amp;end=2024-08-31
 
-<a href="https://www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj">/www.microsoft.com/en-us/store/configure/surface-pro-11th-edition/8n9t09p96cmj</a>
 
 * EIR ~ residents points ~ van
 * Me: side of house ~ walkability ~ parking ~ generator noise
 * Centenary: Laura&nbsp; ~ Wednesday
-* Officers?
-* Heritage Happenings
 * Chartreuse taste like Christmas without the abuse&nbsp; Eric Cullen a quiet but vibrant disdain&nbsp;
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 * Ethan makes 3d&nbsp;
@@ -38,9 +35,8 @@ https://www.awesomefoundation.org/en/chapters/sf/projects?start=2024-08-01&amp;e
 * national Park Spicer Meadows reservoir
 * Patrick: notes, 100 year, house&nbsp;
 * California historical society visit
-* Thank sant
-* Helsinki declaration 1964 research ethics&nbsp;
-* Right to be forgotten GDPR&nbsp; Got it Charlie&nbsp;&nbsp;
+* Thank sant: Helsinki declaration 1964 research ethics&nbsp;
+* Right to be forgotten GDPR
 * What Have We Liberals Done to the West Coast? Jun 15 Kristov&nbsp;
 * Centrist voters can reasonably ask: Why put liberals in charge nationally when the places where they have greatest control are plagued by homelessness, crime and dysfunction?&nbsp;
 * Politics always is part theater, but out West too often we settle for being performative rather than substantive.&nbsp;
@@ -54,13 +50,7 @@ https://www.awesomefoundation.org/en/chapters/sf/projects?start=2024-08-01&amp;e
 * People versus gopal Outlive&nbsp;
 * Explicit Honesty. Never lie if asked if something is true. but if not asked, make no guarantees
 * Nora? 45th artist I need to do it collective co-op okay
-
-Use those arms and hands at night to jesticulate for fun and get some exercise and move those bones&nbsp;
-
-Million dollar donation&nbsp;
-
-Audited update 
-
+* Use those arms and hands at night to jesticulate for fun and get some exercise and move those bones&nbsp;
 * Make haste slowly&nbsp; 
 * Marissa was Alex's administer assistant want to be
 * Forced sale of tik Tok?&nbsp;
