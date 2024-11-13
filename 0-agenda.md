@@ -9,6 +9,7 @@
 ## Today
 
 * ?
+* Hector: meeting
 * Doris: Art contest
 * Til: mail letter
 * He: Reserve cottage: boxing day
