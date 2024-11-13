@@ -18,7 +18,7 @@
 * Infinity Sculpture + Mersea
 * golf courses bon Connolly
 * cartoon museum
-* * Marin Civic Center + CafaeBasque
+* Marin Civic Center + CafaeBasque
 * Zoo
 * Ghirardelli Square
 * Bledsoe: winery
