@@ -2,6 +2,8 @@
 
 C:\Users\tarmo\OneDrive\Documents\GitHub\theo-armour-pages\13-technology-applied-sciences\computing-software\software-by-vendor\microsoft\word.md
 
+https://heritage-happenings.github.io/files/resident-directory/2024-11-happenings-resident-directory.pdf
+
 Done:
 
 * Family
@@ -10,7 +12,7 @@ Done:
 
 ## Subscriber Messages
 
-Heritage Happenings <month> Newsletter + Calendar + Resident Directory
+Heritage Happenings November Newsletter + Calendar + Resident Directory
 
 
 Click on the website link below to open your digital copy of:
