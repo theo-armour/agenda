@@ -9,14 +9,12 @@
 ## Today
 
 * ?
-* 
+* AWeFou Frank: email invite
 * Tiffany ~ Awesome disability
 * Hector: meeting: chair lists ~ mtgs
 * Martha: meeting
 * Mary: meeting: apt +
 * Doris: Art contest
-* 
-
 * Carm: nieces
 * Netflix
 * MichaelH: Book + Doom
@@ -28,6 +26,7 @@
 
 ## SOON
 
+* Lauren Chin: dental insurance
 * Eloise: david &amp; AI
 * Git for windows: uninstall
 
