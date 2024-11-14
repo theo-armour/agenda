@@ -9,6 +9,7 @@
 ## Today
 
 * ?
+* AWeFou Frank: email invite
 * Tiffany ~ Awesome disability
 * Hector: meeting: chair lists ~ mtgs
 * Martha: meeting
