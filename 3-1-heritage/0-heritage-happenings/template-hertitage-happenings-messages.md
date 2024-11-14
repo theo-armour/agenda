@@ -10,7 +10,7 @@ Done:
 
 ## Subscriber Messages
 
-Heritage Happenings October Newsletter + Calendar + Resident Directory
+Heritage Happenings <month> Newsletter + Calendar + Resident Directory
 
 
 Click on the website link below to open your digital copy of:
@@ -29,16 +29,13 @@ The Resident Directory has also been updated this month. Please check that your 
 Heritage Happenings Resident Directory
 
 
-
-
-
 Cheers,
 
 Theo
 
 Editor and Designer, Heritage Happenings
 
-***
+❧ ❧ ❧
 
 Theo Armour
 Apartment 227 C
