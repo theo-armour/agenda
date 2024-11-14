@@ -9,7 +9,6 @@
 ## Today
 
 * ?
-* 
 * Tiffany ~ Awesome disability
 * Hector: meeting: chair lists ~ mtgs
 * Martha: meeting
