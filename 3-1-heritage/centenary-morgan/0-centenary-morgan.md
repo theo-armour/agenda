@@ -3,6 +3,15 @@
 
 ## Agenda
 
+## Party favors
+
+* https://www.amazon.com/Tongcloud-Flapper-Headband-Headpiece-Accessory/dp/B08DXDSMZ5/ref=asc_df_B08DXDSMZ5
+* https://www.amazon.com/Jexine-Headband-Rhinestones-Headpieces-Decorations/dp/B0C2TM3T5T/ref=asc_df_B0C2TM3T5T
+* https://www.amazon.com/dp/B074TDFD23/ref=sspa_dk_detail_3
+* https://www.amazon.com/dp/B09VKY2NZQ/ref=sspa_dk_detail_3
+* https://www.orientaltrading.com/hats-around-the-world-assortment-10-pc--a2-15_444.fltr
+https://ultimatepartysuperstores.com/products/fabric-hats-around-the-world-assortment
+
 ### Sponsorship Opportunities with Laura
 
 * Drafted letter; introduced to Rod, Acting RC president
