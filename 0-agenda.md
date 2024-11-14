@@ -19,10 +19,10 @@
 * Mary: meeting: apt +
 * Doris: Art contest
 * Carm: nieces
-* Netflix
+* Netflix: ace-i
 * MichaelH: Book + Doom
 * Pam F: food committee notes
-* Adele SFPL
+* Adele: SFPL
 * Call pharmerica
 * Jon: Afgani family / Tom King
 * ++
