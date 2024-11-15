@@ -2,15 +2,13 @@
 
 Pmnr doctor  Heather Brooke national Park service fort Mason Charles sowers sculptor  San Francisco museum & historical society 
 
-  
-
-  
-
 Plans jm
 
+Marty typewriter 
+
   
 
-Marty typewriter 
+Power play standard
 
   
 
