@@ -10,6 +10,10 @@ Plans jm
 
   
 
+Marty typewriter 
+
+  
+
 * EIR ~ residents points ~ van
 * Me: side of house ~ walkability ~ parking ~ generator noise
 * Centenary: Laura  ~ Wednesday
