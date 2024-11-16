@@ -6,11 +6,17 @@ Plans jm
 
 Marty typewriter 
 
-  
+Power play standard Annie gaus
 
-Power play standard
+Doris in the four years I've been here, unlike other places
 
-  
+ I don't think I've ever been asked an interesting question 
+
+I don't think anybody has ever posited a statement that made my brain cells jump 
+
+I don't think anybody's ever here has ever pointed me in a good cool New direction
+
+I have nothing against this place. I very much enjoy living here. But it's a very ordinary place
 
 * EIR ~ residents points ~ van
 * Me: side of house ~ walkability ~ parking ~ generator noise
