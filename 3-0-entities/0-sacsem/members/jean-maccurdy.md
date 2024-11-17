@@ -1,7 +1,18 @@
 # Jean MacCurdy
 
-https://en.wikipedia.org/wiki/Jean_MacCurdy
+* https://en.wikipedia.org/wiki/Jean_MacCurdy
 
+Background
+
+* Palo Alto to Ann Arbor at 16
+* Occidental college
+* LA legal secretary
+* NBC ~ margaret loesch ~ https://en.wikipedia.org/wiki/Talk:Margaret_Loesch
+* Hanna Berbera
+* Broke off abruptly ~ year in Europe
+* Warner Bros ~ ceo
+* SGI ~ Jim Clark? George Lucas?
+* "All shows have a lifespan"
 
 ## 2024-11-15
 
@@ -19,3 +30,4 @@ SaceSem:
 * History
 * Present
 * Future
+

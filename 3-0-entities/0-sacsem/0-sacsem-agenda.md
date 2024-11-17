@@ -13,13 +13,11 @@
 
 * Marty Party: 10/23 @ 3-4
 
-*
 
 Clay Jackson
 
 * Clay tapes
 * SacSem: Download Dennis' CJ files
-
 *
 
 Website
@@ -27,7 +25,6 @@ Website
 * Take photos?* Add Trip invite* Add description* Transfer all Spotswood emails
 * Clay tapes online
 
-*
 
 Constant Contact
 
