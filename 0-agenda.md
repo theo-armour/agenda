@@ -103,11 +103,13 @@ Waiting
 </details>
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
 * ++
+* trmnl: write app!
+* Sports Medicine peeps: Sr Tan ~ Dr Theologis
 * 180 Medical: study self-cath process
 * <a href="https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-care-home">https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-care-home</a>
 * ucsf care at home ~ 4155143577
