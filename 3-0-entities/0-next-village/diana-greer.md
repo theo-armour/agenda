@@ -2,6 +2,15 @@
 
 * 415 271 4286
 
+## 2024-11-17
+
+I look forward to another session with you. I hope to finish with finding photos and then starting to assemble these into something that can be shipped tp the scanning people.
+
+I also talked to Donna about my employing you for techie work. I specifically said that I initiated the request and that anything we might do would absolutely fow Next Village gulines.
+
+Donna said this could be possible. It would be organized by Jacqleing who is not back for another week. It would also involves us signing a document that this effort is not part of Next Village.
+
+
 ## 2024-11-12
 
 very effective hour in storage

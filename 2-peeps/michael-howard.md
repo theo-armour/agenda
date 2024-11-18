@@ -2,14 +2,14 @@
 
 ## 2024-11-17
 
-The San Francisco Civic Center.
+* The San Francisco Civic Center.
 * A history of the design, comma, controversies, comma, and realization of a city. Beautiful masterpiece.
 * By James W Haas
 * orward by Senator Dianne Feinstein.
 * 2019
 * https://www.amazon.com/San-Francisco-Civic-Center-Controversies/dp/1948908158
 
-Michael gave me his copy of the book. A couple of weeks ago. Period. It is signed by. James Haas and dedicated to somebody named Thom.
+Michael gave me his copy of the book. A couple of weeks ago. Period. It is signed by James Haas and dedicated to somebody named Thom.
 
 Haas view:
 
