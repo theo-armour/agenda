@@ -15,8 +15,6 @@
 ## Today
 
 * ?
-* 
-
 * HerCen Melissa: Invite text
 * AWeFou Joshua: email invite
 * Tiffany ~ Awesome disability
@@ -35,8 +33,8 @@
 
 ## SOON
 
-* Lauren Chin: dental insurance
-* Eloise: david &amp; AI
+* 
+
 * Git for windows: uninstall
 
 Thinking
