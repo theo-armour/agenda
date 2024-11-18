@@ -15,11 +15,10 @@
 ## Today
 
 * ?
-* Cynthia: zelle@outlook
 * HerCen Melissa: Invite text
 * AWeFou Joshua: email invite
 * Tiffany ~ Awesome disability
-* Hector: meeting: chair lists ~ mtgs
+* Hector: meeting: chair lifts ~ mtgs
 * Martha: meeting
 * Mary: meeting: apt +
 * Doris: Art contest
@@ -34,8 +33,6 @@
 
 ## SOON
 
-* Lauren Chin: dental insurance
-* Eloise: david &amp; AI
 * Git for windows: uninstall
 
 Thinking
@@ -85,7 +82,7 @@ Waiting
 * ?
 * S: Chia seeds
 * Plateau chair
-* A: mike ~
+* A: mike ~ fiber bars
 * Winter shoes
 * EyeBuyDirect: small specs?
 * John King ~ The Portal book
