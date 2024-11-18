@@ -15,7 +15,8 @@
 ## Today
 
 * ?
-* Cynthia: zelle@outlook
+* 
+
 * HerCen Melissa: Invite text
 * AWeFou Joshua: email invite
 * Tiffany ~ Awesome disability
