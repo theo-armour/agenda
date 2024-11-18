@@ -4,6 +4,12 @@
 * Eloise: Silver: send it? Address?
 
 
+## 2024-11-17
+
+* Dave
+* his family
+* Politics: embrace the disruption ~ ethical logging
+
 ## 2024-07-12
 
 * Alix ~ Floris

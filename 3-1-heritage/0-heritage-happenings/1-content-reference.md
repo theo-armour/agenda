@@ -4,7 +4,6 @@
 ## Ideas
 
 * Activities msg
-*
 * EAF Stats
 * Who to thank?
 * Advocates: Margaret: rules ~ promote ~ on address list
@@ -22,7 +21,12 @@
 * Post Mortem ~ Who needs thanking?
 * TerryM: story of marathons
 
-## Around the World
+## Health & Wellness series
+
+* Aging Mastery Program by the National Council on Aging
+* https://www.ncoa.org/article/aging-mastery-program-core-curriculum/
+
+## Around the World 2024
 
 * January-Italy
 * February-China
@@ -92,11 +96,10 @@
 * Passover
 * Earth Day
 
-
 ### May
 
-* Cinco de Mayo Mariach Band
-* Song Request: El Mariachi loco is the one who dances ~ musicians have to dance
+* Cinco de Mayo Mariachi Band
+* Song Request: "El Mariachi Loco" is the one who dances ~ musicians have to dance: "El Son de la Negra"?
 * Big guitar Guiteron ~ https://en.wikipedia.org/wiki/Guitarr%C3%B3n_mexicano
 * Small guitar Vihuela ~ https://en.wikipedia.org/wiki/Mexcican_vihuela
 * https://en.wikipedia.org/wiki/Mariachi

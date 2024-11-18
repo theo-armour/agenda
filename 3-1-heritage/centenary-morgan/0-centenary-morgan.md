@@ -3,6 +3,18 @@
 
 ## Agenda
 
+* Next meetin 8 January
+
+## Party invites
+
+* Text to Patti & Melissa
+
+## Party things
+
+* Reproduce her drawings
+* Drone inspection
+* 3D printed replicas
+
 ## Party favors
 
 * https://www.amazon.com/Tongcloud-Flapper-Headband-Headpiece-Accessory/dp/B08DXDSMZ5/ref=asc_df_B08DXDSMZ5

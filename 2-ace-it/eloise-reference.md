@@ -1,6 +1,12 @@
 # Eloise Reference
 
 
+## Tech
+
+* R
+* arcGIS
+* Later ~ Python, SQL, JavaScript, HTML, CSS
+
 ## Western Colorado University
 
 * https://western.edu/
@@ -44,6 +50,7 @@ ftp nifc
 * https://firecrew.us/
 * https://www.instagram.com/gallatinrappelcrew/
 * https://gacc.nifc.gov/nrcc/predictive/intelligence/intelligence.htm
+
 
 ### Background
 
