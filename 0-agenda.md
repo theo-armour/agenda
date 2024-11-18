@@ -14,7 +14,8 @@
 <!-- this is a comment -->
 ## Today
 
-* ?
+* ?Brittany: send
+* Michal H: send
 * HerCen Melissa: Invite text
 * AWeFou Joshua: email invite
 * Tiffany ~ Awesome disability
@@ -28,7 +29,7 @@
 * Pam F: food committee notes
 * Adele: SFPL
 * Call pharmerica
-* Jon: Afgani family / Tom King
+* Jon: Afgani family / Tom King ~ photos
 * ++
 
 ## SOON
@@ -37,6 +38,7 @@
 
 Thinking
 
+* Tom King: res manual stuff
 * Trmnl: dev access
 * Sensay ~ audiopen ~ seo
 * Ship Smart
