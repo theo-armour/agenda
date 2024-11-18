@@ -85,7 +85,7 @@ Waiting
 * ?
 * S: Chia seeds
 * Plateau chair
-* A: mike ~
+* A: mike ~ fiber bars
 * Winter shoes
 * EyeBuyDirect: small specs?
 * John King ~ The Portal book
