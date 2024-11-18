@@ -100,7 +100,7 @@ Waiting
 </details>
 ***
 
-<details>
+<details open="">
 
 <summary>Health</summary>
 
