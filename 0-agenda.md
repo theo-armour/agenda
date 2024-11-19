@@ -15,8 +15,6 @@
 ## Today
 
 * ?
-* Josh: stocks to children?
-* 
 
 * Brittany: send
 * Michal H: send
@@ -33,7 +31,9 @@
 * Pam F: food committee notes
 * Adele: SFPL
 * Call pharmerica
-* Jon: Afgani family / Tom King ~ photos
+* Josh: stocks to children?
+* Jon: Afgani family
+* Jon: Marty photos
 * ++
 
 ## SOON
