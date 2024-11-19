@@ -18,7 +18,8 @@
 * 
 
 * Brittany: send
-* Michal H: send
+* 
+
 * Diana Greer: message
 * HerCen Melissa: Invite text
 * AWeFou Joshua: email invite
@@ -290,6 +291,7 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
+* Pam F: food committee notes
 * hheimark@hotmail.com: HH
 * Attend Food committee
 
