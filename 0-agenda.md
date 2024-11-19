@@ -32,8 +32,8 @@
 * Adele: SFPL
 * Call pharmerica
 * Josh: stocks to children?
-* Jon: Afgani family
-* Jon: Marty photos
+* 
+
 * ++
 
 ## SOON
@@ -238,7 +238,7 @@ Waiting
 ***
 
 <!-- -->
-<details>
+<details open="">
 
 <summary>Entities</summary>
 <!-- -->
