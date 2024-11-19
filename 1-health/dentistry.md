@@ -5,15 +5,24 @@
 ## Agenda
 
 * Dr Vaderhobli: May 17 @ 10:30
-
 * Dr Yogalakshmi: June 13 @10:30
-
 
 
 ## Remember
 
 * Look at Delta Insurance
 * Look at UCSF Dental Center at 100 Buchanan
+
+## Codes
+
+* D1110: adult prophylaxis (a basic cleaning for a healthy person)
+* D4346: prophylaxis with gingivitis without bone loss (for someone with disease but no bone loss)
+* D4355: gross debridement (typically used in preparation for another procedure)
+* D4341/4342: deep scaling per quadrant/1-3 teeth (could need local anesthetic, which needs to be done in a dental office)
+* D4910: periodontal maintenance (the type of quarterly cleaning that happens after a deep cleaning)
+* D1206: topical fluoride varnish (anti-cavity and desensitizing treatment)
+* D1354/1355: silver diamine fluoride (cavity arresting and desensitizing treatment)
+
 
 ## Faculty Practice
 
@@ -61,7 +70,6 @@ Stephanie Steve
 
 ## Past Events
 
-# Appointments
 
 ### 2022? July 8 ~ 11:30
 

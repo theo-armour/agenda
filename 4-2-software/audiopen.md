@@ -3,8 +3,11 @@
 ## Agenda
 
 * Set up a web hook to post directly to GitHub
-* Can I do an audiopen with the MetaView glasses
+* Can I do an audiopen with the MetaView glasses? not yet
 
+Issues
+
+* Cannot see the text as I type.
 
 ## links
 
@@ -31,7 +34,3 @@
 * https://audiosurvey.ai/s/heritage-happenings-newsletter
 
 
-## Speechnotes
-
-* https://github.com/speechnotes/speechnotes-website
-* https://github.com/orgs/speechnotes/people

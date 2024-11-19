@@ -15,10 +15,8 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
-https://berkeley.zoom.us/j/93178757135
 
-https://www.eventbrite.com/e/california-and-the-2024-election-berkeley-igs-poll-pre-election-panel-tickets-1035282195917
-
+Friday, November 22 at Perry's on Union: Jack Ohman, Pulitzer Prize-winning editorial cartoonist
 * Friday, November 15 at Perry's on Union: Annie Gaus, senior news editor of The San Francisco Standard
 * Friday, November 8, 2024 at Perry's on Union: Big Round Table: Analysis of the 2024 Election
 * Friday, November 1, 2024 at Noon On ZOOM: California and the 2024 Election: Berkeley IGS Poll Pre-Election Panel
