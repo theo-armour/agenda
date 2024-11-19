@@ -15,15 +15,15 @@
 ## Today
 
 * ?
-* 
-
+* Cynthia: stocks?
 * SacSem: Jean McC: Friday
 * Brittany: send
 * Michal H: send
 * HerCen Melissa: Invite text
 * AWeFou Joshua: email invite
 * Tiffany ~ Awesome disability
-* Hector: meeting: chair lifts ~ mtgs
+* 
+
 * Martha: meeting
 * Mary: meeting: apt +
 * Doris: Art contest
