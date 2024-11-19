@@ -15,25 +15,29 @@
 ## Today
 
 * ?
+* 
 
 * Brittany: send
 * Michal H: send
+* Diana Greer: message
 * HerCen Melissa: Invite text
 * AWeFou Joshua: email invite
 * Tiffany ~ Awesome disability
-* Hector: meeting: chair lifts ~ mtgs
+* Hector: mtgs
 * Martha: meeting
 * Mary: meeting: apt +
 * Doris: Art contest
 * Carm: nieces
 * Netflix: ace-i
 * MichaelH: Book + Doom
-* Pam F: food committee notes
-* Adele: SFPL
-* Call pharmerica
-* Josh: stocks to children?
 * 
 
+* Adele: SFPL
+* Call pharmerica
+* 
+
+* Jon: Afgani family
+* Jon: Marty photos
 * ++
 
 ## SOON
@@ -42,6 +46,7 @@
 
 Thinking
 
+* Josh: stocks to children?
 * Tom King: res manual stuff
 * Trmnl: dev access
 * Sensay ~ audiopen ~ seo
@@ -280,7 +285,7 @@ Waiting
 <!-- -->
 </details>
 <!-- -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
