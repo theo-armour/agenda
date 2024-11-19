@@ -2,13 +2,13 @@
 
 * 415 271 4286
 
-## 2024-11-17
+## 2024-11-19
 
-I look forward to another session with you. The objective: finish with finding photos and then starting to collect these into something that can be shipped tp the scanning people.
+Hi Diana. Thank you very much for your wonderful efforts last week. I really appreciate your professionalism and your sharps eye. I hope and look forward to another session with you. The objective: finish with finding photos and then starting to collect these into something that can be shipped tp the scanning people.
 
-I also talked to Donna about my employing you for techie work. I specifically said that I initiated the request and that anything we might do would absolutely follow Next Village gulines.
+I also talked to Donna about my employing you for techie work. I specifically said that I initiated the request and that anything we might do would absolutely follow Next Village guidelines.
 
-Donna said this could be possible. It would be organized by Jacqeline who is not back for another week. It would also involves us signing a document that this effort is not part of Next Village.
+Donna said this could be possible. It would be organized by Jacqueline who is not back for another week. It would also involves us signing a document that this effort is not part of Next Village.
 
 
 ## 2024-11-12
