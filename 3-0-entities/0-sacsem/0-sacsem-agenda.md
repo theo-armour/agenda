@@ -2,21 +2,15 @@
 
 ## Agenda
 
-## Email
-
-
-* MikeFitz: Heritage SF / Woody LaBounty
-
-Waiting
-
-* Dennis Wh: Zelle
-* Jean MacC: Friday?
-
-## 2024-11-22
+## Agenda 2024-11-22
 
 * Jon: Description ~ subtitle
 * Jon: King's Afgani family
-* Jon: Marty photos
+* Jon: Marty photos: scan
+
+## Email
+
+* MikeFitz: Heritage SF / Woody LaBounty
 
 ## Website
 
@@ -38,6 +32,11 @@ Waiting
 
 
 ## Done
+
+### 2024-11-19
+
+* Dennis Wh: Zelle
+* Jean MacC: Friday?
 
 ### 2024-10 ~ Marty Party
 
