@@ -4,6 +4,25 @@
 
 ## Peeps
 
+* Mike Marean
+* MichaelH: Doom
+* 2am
+* Tim Lattimore
+* Christine &amp; Pam
+* Ronan: PLE ~ endiatx ~ jason ~ intro text
+* Mike Marean: zoom&nbsp;
+* Ray Eisenberg
+* Tim Child
+* Christine&nbsp;<a href="https://www.freefuse.com/">https://www.freefuse.com/</a>
+* Pam Choy ~ Niantic maps ~ sketchfab ~ Brilliant labs!!
+* Ashley Emory
+* Shammah: thanksgiving
+* Aaron
+* Tom Magowan
+* Santani
+* Blick
+* Manfred
+* Visit the doyles with Jane
 * Fred & Laon Burke: lunch invite
 * Ronan: DWA policies
 * Vish: iqLand: building codes ~ pdf AI
@@ -11,13 +30,12 @@
 * Myint: thanks + photos + JW BL
 * Tu Phone ~ copilot
 * Jason Carman
-* Floris
 * Ashley Emory
 * Jerome: dorkbot ~ art scene ~ mushroom drink
 * Sherry ~ email ~ mexsp
 * Rob&Bennet: Remembery ~ Gusty: puzzle train
 * Marissa ~ meal invite
-* Paul Masson: Aaron
+* Paul Masson:
 * Drake Tam: The Key
 * Joe Macleod
 * Nienke

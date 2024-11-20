@@ -39,9 +39,7 @@ Thinking
 * SquareSpace: broken links
 * Nicole Smith: PDF
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
-* Tricycle ~ Barry
-* 
-
+* Tricycle ~ Barry to fix
 * Coding triad
 * Tess: Audiobooks
 * Dec 6: A3 SF
@@ -199,32 +197,16 @@ Waiting
 * Dan E: triads &amp; AI
 
 </details>
-<!-- Family -->
+<!--
+
+Peeps
+
+-->
 <details>
-* MichaelH: Doom
 
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
 
-* 2am
-* Ronan
-* Tim Lattimore
-* Christine &amp; Pam
-* Ronan: PLE ~ endiatx ~ jason ~ intro text
-* Mike Marean: zoom&nbsp;
-* Ray Eisenberg
-* Tim Child
-* Christine&nbsp;<a href="https://www.freefuse.com/">https://www.freefuse.com/</a>
-* Pam Choy ~ Niantic maps ~ sketchfab ~ Brilliant labs!!
-* Ashley Emory
-* Shammah: birthday
-* Ronan
-* Aaron
-* Tom Magowan
-* Santani
-* Blick
-* Manfred
-* Visit the doyles with Jane
 
 </details>
 ***
@@ -258,7 +240,7 @@ Waiting
 <!-- -->
 <details>
 
-<summary>sps </summary>
+<summary>sps</summary>
 
 * ++
 * SPS: RandyMor: ?
@@ -271,7 +253,11 @@ Waiting
 </details>
 <!-- -->
 </details>
-<!-- -->
+<!--
+
+**Heritage**
+
+-->
 <details open="">
 <!-- -->
 <summary>Heritage</summary>
@@ -281,7 +267,6 @@ Waiting
 * hheimark@hotmail.com: HH
 * Attend Food committee
 
-*
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">0-agenda</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/10-october/2024-10-happenings.md&quot;">october</a>
