@@ -89,35 +89,11 @@ Waiting
 <details open="">
 <summary>Health</summary>
 
+
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
+
 * ++
-* trmnl: write app!
-* Sports Medicine peeps: Sr Tan ~ Dr Theologis
-* 180 Medical: study self-cath process
-* <a href="https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-care-home">https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-care-home</a>
-* ucsf care at home ~ 4155143577
-* self refer
-* project echo ~ tele precept&nbsp;
-* <a href="https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-center-geriatric-care">https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-center-geriatric-care</a>
-* <a href="https://geriatrics.ucsf.edu/patient-care/ucsf/outpatient-geriatrics-consults#Integrative%20Aging%20Clinic">https://geriatrics.ucsf.edu/patient-care/ucsf/outpatient-geriatrics-consults#Integrative%20Aging%20Clinic</a>
-* Project Echo ~ tele precept ~ many aspects
-* CDC NIH: fall risk infographics&nbsp;&nbsp;
-
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health</a>
-
-* Check dates
-* Dr Yun
-* Daniel B: arm joints + adafruit
-* Ortho Institute
-* Kattah: prep
-* Kattah: GitHub suggestions
-* Kattah: Endiatx
-* Kattah: citrucel
-* Health: meds list
-* Daniel B: questions: any prep
-* PT: "up with the good, down with the bad."&nbsp;
-* UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
-* Scapulas back and down 10 times - six sessions a day
-* Calculate: calcium, protein and fiber in my diet
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a>

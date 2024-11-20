@@ -3,15 +3,37 @@
 ## Appointments
 
 * ?
+* 2024-11-26: Dr Grnualdi: prepare report
+* Daniel B: ??
 * Sports medicine reference
 * Colonoscopy report??
-* Dr Kattah: 09/05 8:00
-* Dr Yoga: 09/12 3:00
-* Dr Fassett: 10/05 2:30 ~ Dermatology exam ~ 185 Berry Ste 1000
-* Dr Masato Nagao: 10/21 @ 1 pm ~ 415 353 2080 ~ 1500 Owens
+
 
 ## Agenda
 
+* ++
+* Dr Yun
+* Ortho Institute
+* Kattah: prep
+* Kattah: GitHub suggestions
+* Kattah: Endiatx
+* Kattah: citrucel
+* Health: meds list
+* PT: "up with the good, down with the bad."
+* UCSF &gt; Fassett: photo of volcano + recommendation for alternate ~ recommendation for AL visits
+* Scapulas back and down 10 times - six sessions a day
+* Calculate: calcium, protein and fiber in my diet
+* trmnl: write app!
+* Sports Medicine peeps: Sr Tan ~ Dr Theologis
+* 180 Medical: study self-cath process
+* <a href="https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-care-home">https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-care-home</a>
+* ucsf care at home ~ 4155143577
+* self refer
+* project echo ~ tele precept&nbsp;
+* <a href="https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-center-geriatric-care">https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-center-geriatric-care</a>
+* <a href="https://geriatrics.ucsf.edu/patient-care/ucsf/outpatient-geriatrics-consults#Integrative%20Aging%20Clinic">https://geriatrics.ucsf.edu/patient-care/ucsf/outpatient-geriatrics-consults#Integrative%20Aging%20Clinic</a>
+* Project Echo ~ tele precept ~ many aspects
+* CDC NIH: fall risk infographics&nbsp;&nbsp;
 * PPH: Talk to Breen
 * Genualdi: prepare report
 * List of medications
@@ -20,6 +42,7 @@
 * Brittany: pins &amp; needles:&nbsp;paresthesia
 * Statins?
 * Margaret Jacobs: <a href="https://www.alignmenthealthplan.com/">https://www.alignmenthealthplan.com/</a> ~ free lunch?
+
 
 ## Work-in-progress
 
