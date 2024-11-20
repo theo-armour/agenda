@@ -240,6 +240,7 @@ Waiting
 </details>
 <!-- -->
 </details>
+
 <!--
 
 **Heritage**
@@ -249,14 +250,14 @@ Waiting
 <!-- -->
 <summary>Heritage</summary>
 
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
+
 * ++
 * Pam F: food committee notes
 * hheimark@hotmail.com: HH
 * Attend Food committee
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">0-agenda</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/10-october/2024-10-happenings.md&quot;">october</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/12-december/2024-12-happenings.md&quot;">october</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings</a>
 
@@ -274,7 +275,9 @@ Waiting
 </details>
 <!-- -->
 ***
-
+<!--
+**Projects**
+-->
 <details>
 
 <summary>projects</summary>
