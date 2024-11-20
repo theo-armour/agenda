@@ -3,8 +3,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 
-
 * 2024-11-17:&nbsp;Bucky’s prediction of “spontaneous cooperation,”
 * 2024-11-17: ?: The obstacle is the way. The obstacle is the signpost.&nbsp;You are&nbsp;the obstacle. The obstacle points the way, but is it the right way
 
@@ -19,8 +17,6 @@
 * Donna:&nbsp;
 * AWeFou Joshua: email invite
 * Tiffany ~ Awesome disability
-* 
-
 * Doris: Art contest
 * Carm: nieces
 * Netflix: ace-i
@@ -31,6 +27,7 @@
 ## SOON
 
 * Git for windows: uninstall
+* David: Peritz: readable slides
 
 Thinking
 
@@ -43,7 +40,8 @@ Thinking
 * Nicole Smith: PDF
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
 * Tricycle ~ Barry
-* David: Peritz: readable slides
+* 
+
 * Coding triad
 * Tess: Audiobooks
 * Dec 6: A3 SF
@@ -202,7 +200,7 @@ Waiting
 
 </details>
 <!-- Family -->
-<details open="">
+<details>
 * MichaelH: Doom
 
 <summary>Peeps</summary>
