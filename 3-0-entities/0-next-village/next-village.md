@@ -53,12 +53,7 @@ https://www.linkedin.com/in/donnabooher/
 
 
 
-## Saoirse ~ soar-sha
 
-* 719-290-0074
-* currently William Sonoma
-* Going to herman miller subsidiary wd Hoag?
-* Next: "furniture store"
 
 ### Questions
 

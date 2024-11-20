@@ -1,6 +1,6 @@
 # Next Village Agenda
 
 
-* Donna:&nbsp;
+* Donna: lectures + lunches + tech
 * Diana Greer: message
-* Sioarsia:&nbsp;
+* Sioarsia:lunches
