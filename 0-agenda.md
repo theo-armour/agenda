@@ -34,8 +34,6 @@
 * Call pharmerica
 * 
 
-* Jon: Afgani family
-* Jon: Marty photos
 * ++
 
 ## SOON
