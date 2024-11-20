@@ -31,8 +31,6 @@
 
 Thinking
 
-* 
-
 * Tom King: res manual stuff
 * Trmnl: dev access
 * Sensay ~ audiopen ~ seo
@@ -54,7 +52,7 @@ Waiting
 
 ***
 
-<details open="">
+<details>
 <summary>Admin</summary>
 
 * ?
