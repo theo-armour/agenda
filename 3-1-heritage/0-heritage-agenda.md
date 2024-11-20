@@ -2,6 +2,8 @@
 
 ## Agenda
 
+* Hector: mtgs
+* Mary: meeting: apt +
 * Jon Casey Touchtown Czar?
 * SF:Historical Plan
 * Roses: photos
