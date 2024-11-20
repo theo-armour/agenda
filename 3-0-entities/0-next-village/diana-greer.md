@@ -4,6 +4,12 @@
 
 ## 2024-11-19
 
+* Storage unit: Photo triage and more
+* Tech: managing an archive
+* Chat: anarchy, bias, a gentle worldview,
+
+***
+
 Hi Diana. Thank you very much for your wonderful efforts last week. I really appreciate your professionalism and your sharps eye. I hope and look forward to another session with you. The objective: finish with finding photos and then starting to collect these into something that can be shipped tp the scanning people.
 
 I also talked to Donna about my employing you for techie work. I specifically said that I initiated the request and that anything we might do would absolutely follow Next Village guidelines.
