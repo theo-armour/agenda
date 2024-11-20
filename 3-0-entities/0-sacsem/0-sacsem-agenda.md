@@ -4,19 +4,17 @@
 
 ## Email
 
-
 * MikeFitz: Heritage SF / Woody LaBounty
 
 Waiting
-
-* Dennis Wh: Zelle
-* Jean MacC: Friday?
 
 ## 2024-11-22
 
 * Jon: Description ~ subtitle
 * Jon: King's Afgani family
-* Jon: Marty photos
+* Jon: Scan Marty photos
+* Dennis Wh: Zelle
+* Jean MacC: Friday?
 
 ## Website
 
@@ -36,7 +34,6 @@ Waiting
 * Clay tapes online
 * Clay tapes
 
-
 ## Done
 
 ### 2024-10 ~ Marty Party
@@ -50,8 +47,6 @@ Waiting
 * Constant Contact: Cancel contract
 * eastern time: 866-289-2101
 * ?
-
-
 
 ## SacSem Reminders
 
