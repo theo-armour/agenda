@@ -2,6 +2,8 @@
 
 ## Agenda
 
+* Hector: mtgs
+* Mary: meeting: apt +
 * Jon Casey Touchtown Czar?
 * SF:Historical Plan
 * Roses: photos
@@ -16,7 +18,7 @@
 
 ## Health
 
-* He martha ~ PPH?
+* He martha: forms ~ HH ~ PPH?
 * Heritage: fill in medical form
 * Dr Fassett: clinic
 * Martha: Dermatology clinic ~ PPH ~ HH Advisory

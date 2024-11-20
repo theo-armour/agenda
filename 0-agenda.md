@@ -22,21 +22,13 @@
 * Donna:&nbsp;
 * AWeFou Joshua: email invite
 * Tiffany ~ Awesome disability
-* Hector: mtgs
-* Martha: meeting
-* Mary: meeting: apt +
+* 
+
 * Doris: Art contest
 * Carm: nieces
 * Netflix: ace-i
-* MichaelH: Doom
-* 
-
 * Adele: SFPL
 * Call pharmerica
-* 
-
-* Jon: Afgani family
-* Jon: Marty photos
 * ++
 
 ## SOON
@@ -213,7 +205,8 @@ Waiting
 
 </details>
 <!-- Family -->
-<details>
+<details open="">
+* MichaelH: Doom
 
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.0 Peeps</a>
@@ -242,7 +235,7 @@ Waiting
 ***
 
 <!-- -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
