@@ -22,9 +22,8 @@
 * Donna:&nbsp;
 * AWeFou Joshua: email invite
 * Tiffany ~ Awesome disability
-* Hector: mtgs
-* Martha: meeting
-* Mary: meeting: apt +
+* 
+
 * Doris: Art contest
 * Carm: nieces
 * Netflix: ace-i
