@@ -15,8 +15,6 @@
 ## Today
 
 * ?
-* 
-
 * Brittany: send
 * Diana Greer: message
 * HerCen Melissa: Invite text
@@ -30,7 +28,7 @@
 * Doris: Art contest
 * Carm: nieces
 * Netflix: ace-i
-* MichaelH: Book + Doom
+* MichaelH: Doom
 * 
 
 * Adele: SFPL
