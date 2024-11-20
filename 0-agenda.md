@@ -5,10 +5,6 @@
 * ++
 * 
 
-* 2024-11-14 gwern:&nbsp;If it wasn't written down, it wasn't written down.
-* 2024-11-15: <a href="https://bigthink.com/business/how-to-win-the-long-game-fight-unfair-fights/&nbsp;">https://bigthink.com/business/how-to-win-the-long-game-fight-unfair-fights/&nbsp;</a> the only thing that can go wrong is that something goes wrong, and who cares if it does?* I’ve been letting go of my overbearing artistic control over how things should be
-* The expression “The worse, the better” is often attributed to Vladimir Lenin, and captures a sort of messianic nihilism — the dream that escalating misery will hasten the fall of a corrupt order.
-* The best we can hope for is that our new rulers will be stymied by incompetence, infighting and self-sabotage. In that respect, Gaetz may be just the man for the job.
 * 2024-11-17:&nbsp;Bucky’s prediction of “spontaneous cooperation,”
 * 2024-11-17: ?: The obstacle is the way. The obstacle is the signpost.&nbsp;You are&nbsp;the obstacle. The obstacle points the way, but is it the right way
 
