@@ -84,13 +84,8 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a>
 </details>
-
 ***
-<!--
 
-**Health**
-
--->
 <details>
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
@@ -151,7 +146,7 @@ Waiting
 
 **Family**
 
--->
+ -->
 <details>
 
 <summary>Family</summary>
@@ -177,20 +172,16 @@ Waiting
 </details>
 ***
 
-<!--
-
-**Entities**
-
--->
-
+<!-- -->
 <details>
-
 <summary>Entities</summary>
 <!-- -->
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
 
 * ?
 * TGD: glasses
+
+<!-- -->
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">entities</a>
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-agenda.md&quot;">awesome</a>
 <!-- -->
@@ -210,7 +201,7 @@ Waiting
 <summary>sps</summary>
 
 * ++
-* SPS: RandyMorg: ?
+* SPS: RandyMor: ?
 * Mike Marean: folding desk
 
 ## Done
@@ -229,15 +220,13 @@ Waiting
 <!-- -->
 <summary>Heritage</summary>
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">0-agenda</a>
-
 * ++
 * Pam F: food committee notes
 * hheimark@hotmail.com: HH
 * Attend Food committee
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/12-december/2024-12-happenings.md&quot;">hh december</a>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">0-agenda</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/10-october/2024-10-happenings.md&quot;">october</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/activities/0-activities.md&quot;">activities</a>
 
@@ -263,12 +252,6 @@ Waiting
 ***
 
 <details>
-
-<!--
-
-**Projects**
-
--->
 <summary>projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
