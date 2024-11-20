@@ -10,41 +10,33 @@
 ## Today
 
 * ?
-* Brittany: send
-* Diana Greer: message
-* HerCen Melissa: Invite text
-* Sioarsia:&nbsp;
-* Donna:&nbsp;
-* AWeFou Joshua: email invite
-* Tiffany ~ Awesome disability
-* Doris: Art contest
-* Carm: nieces
-* Netflix: ace-i
-* Adele: SFPL
-* Call pharmerica
-* ++
 
 ## SOON
 
-* Git for windows: uninstall
+Volunteers
+
 * David: Peritz: readable slides
-
-Thinking
-
-* Tom King: res manual stuff
-* Trmnl: dev access
-* Sensay ~ audiopen ~ seo
-* Ship Smart
-* SquareSpace: broken links
-* Nicole Smith: PDF
-* <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
-* Tricycle ~ Barry to fix
-* Coding triad
 * Tess: Audiobooks
-* Dec 6: A3 SF
-* kPop exhibit&nbsp;
-* Stela: hand warmers
+
+Staff
+
+* Brittany: send
+* Call pharmerica
+
+Centenary
+
+* HerCen Melissa: Invite text
+* Adele: SFPL
 * Jeanne DeMeio: xmas party
+* Dec 6: A3 SF
+
+Residents
+
+* Doris: Art contest
+* Carm: nieces
+* Tom King: res manual stuff
+* Stela: hand warmers + knitting lessons
+* kPop exhibit
 
 Waiting
 
@@ -91,6 +83,11 @@ Waiting
 </details>
 ***
 
+<!--
+
+**Health**
+
+-->
 <details>
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
@@ -118,7 +115,11 @@ Waiting
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
 
-* ++
+* ++Simplicity
+* Claudia
+* Nicole Smith: PDF
+* Ship Smart
+
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/nicole-smith/0-nicole-agenda.md&quot;">nicole agenda</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a>
@@ -135,6 +136,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
 * ++
+* Netflix: ace-i
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a>
 
@@ -178,7 +180,12 @@ Waiting
 </details>
 ***
 
-<!-- -->
+<!--
+
+**Entities**
+
+-->
+
 <details>
 <summary>Entities</summary>
 <!-- -->
@@ -258,13 +265,21 @@ Waiting
 ***
 
 <!--
+
 **Projects**
+
 -->
 <details>
 <summary>projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
+* Trmnl: dev access
+* Sensay ~ audiopen ~ seo
+* <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
+* SquareSpace: broken links
+* Tricycle ~ Barry to fix
+* Coding triad
 * About Theo: use AI
 * Time to Fidget app
 * Reading: I F Stone: socrates &gt; Doris
