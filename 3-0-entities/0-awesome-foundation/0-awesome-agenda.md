@@ -1,10 +1,13 @@
 # Awesome Foundation Agenda
 
-<<<<<<< HEAD
 ## Agenda
 
 * Tiffany ~ Awesome disability
-=======
+* AweFou Joshua: email invite
+* Joel
+* Tiffany
+* Matt Chapman
+
 ## Links
 
 * <a href="https://www.awesomefoundation.org">https://www.awesomefoundation.org</a>
@@ -15,11 +18,4 @@
 * Joel ~ 415-505-8255 (flip phone)
 * <a href="https://drive.google.com/drive/folders/16S90hh9IxipngvFyy5D9JUuQcMZSLcAM">https://drive.google.com/drive/folders/16S90hh9IxipngvFyy5D9JUuQcMZSLcAM</a>
 
-## Agenda
 
-* * Tiffany ~ Awesome disability
->>>>>>> a0432f5868a8db5e861647fe91716686c9798031
-* AweFou Joshua: email invite
-* Joel
-* Tiffany
-* Matt Chapman
