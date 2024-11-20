@@ -63,7 +63,7 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
@@ -86,7 +86,7 @@ Waiting
 </details>
 ***
 
-<details open="">
+<details>
 <summary>Health</summary>
 
 * ++
@@ -129,7 +129,7 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-journal.md&quot;">1.1 Health Journal</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-providers.md&quot;">1.1 Health Providers</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a></details>
-<details>
+<details open="">
 
 <summary>Simplicity</summary>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1 simplicity</a>
@@ -139,7 +139,7 @@ Waiting
 </details>
 ***
 
-<details>
+<details open="">
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
