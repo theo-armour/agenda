@@ -30,7 +30,6 @@
 * Clay tapes online
 * Clay tapes
 
-
 ## Done
 
 ### 2024-11-19
@@ -49,8 +48,6 @@
 * Constant Contact: Cancel contract
 * eastern time: 866-289-2101
 * ?
-
-
 
 ## SacSem Reminders
 
