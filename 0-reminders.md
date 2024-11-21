@@ -1,6 +1,8 @@
 # Reminders
 
 * ++
+* squegg + Phone
+* Nap on the floor&nbsp;
 
 ## Avoid
 
