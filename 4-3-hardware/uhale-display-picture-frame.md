@@ -1,4 +1,4 @@
-# uHale Diaplay Picture Frame
+# uHale Display Picture Frame
 
 * Model 215KZ
 * 21.5" Full HD 1920x1080
@@ -13,3 +13,4 @@
 * 3 Year Warranty
 * https://www.uhale.zeasn.tv
 * https://uhalephoto.com/downloadPage
+
