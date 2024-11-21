@@ -15,33 +15,6 @@
 
 ## SOON
 
-Volunteers
-
-* David: Peritz: readable slides
-* Tess: Audiobooks
-
-Staff
-
-* Brittany: send
-* Call pharmerica
-
-Centenary
-
-* HerCen Melissa: Invite text
-* Adele: SFPL
-* Jeanne DeMeio: xmas party
-* Dec 6: A3 SF
-
-Residents
-
-* Doris: Art contest
-* Carm: nieces
-* Tom King: res manual stuff
-* Stela: hand warmers + knitting lessons
-* kPop exhibit
-
-Waiting
-
 * ++
 
 ***
@@ -53,6 +26,7 @@ Waiting
 -->
 <details>
 <summary>Admin</summary>
+
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
@@ -160,6 +134,7 @@ Waiting
 <details>
 
 <summary>Family</summary>
+
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
 * ++

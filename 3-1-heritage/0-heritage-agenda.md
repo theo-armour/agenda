@@ -12,6 +12,20 @@
 * Tess: Audiobook app
 * House Committee: Door openers for residents with issues
 
+
+## Volunteers
+
+* David: Peritz: readable slides
+* Tess: Audiobooks
+
+## Centenary
+
+* HerCen Melissa: Invite text
+* Adele: SFPL
+* Jeanne DeMeio: xmas party
+* Dec 6: A3 SF
+
+
 ## Residents Council
 
 * Me: Willing to serve as a member of the executive committee but not as an officer
@@ -22,24 +36,31 @@
 * Heritage: fill in medical form
 * Dr Fassett: clinic
 * Martha: Dermatology clinic ~ PPH ~ HH Advisory
-* 
+*
 
-Strategic Plan
+## Strategic Plan
 
 * hSP: Landmark designation details
 * EIR: roses
 * EIR: access
 * EIR: Historic milieu
 
-Staff
+## Staff
 
+* Brittany: send
+* Call pharmerica
 * Fee schedule questions
 * Jon Casey: Type C Charges
-* Mary: Type A ~ Appendix H provisions ~ copy me om message to Christine
+* Mary: Type A ~ Appendix H provisions ~ copy me on message to Christine
 * Mary: Type C: particulars
 
-Residents
+## Residents
 
+* Doris: Art contest
+* Carm: nieces
+* Tom King: res manual stuff
+* Stela: hand warmers + knitting lessons
+* kPop exhibit
 * Peter Granucci: computer help
 * Anne Morris: Cookbook scans: cover scan
 * Eleanor B: Reminiscences
@@ -47,7 +68,7 @@ Residents
 * AnneM: Evanston house in Birth of a Nation
 * Patrick: use Front Office
 * Lillemor: Surströmming party
-* 
+*
 
 Marty Party
 

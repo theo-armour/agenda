@@ -3,6 +3,18 @@
 * 415 271 4286
 * diana94133@pm.me
 
+## 2024-11-21
+
+Hi Diana
+
+I've read the intro, first chapter, epilogue and glossary of White Women. Some thoughts: Many meaningful, believable, depressing observations. The ignorance, insensitivity and close-mindedness. Of me. Of us.
+
+The difficulty, the impossibility of seeing oneself clearly and finding some way of doing something useful.
+
+I have exhibited all nine practices of white supremacy they discuss. I acknowledge that I will most likely continue to do so in the future.  My hope is that I continue to learn, become aware and update my behaviors so as to diminish being evil.
+
+Theo
+
 ## 2024-11-19 Diana's reply
 
 I am excited to tell you how I became radicalized. I read the book White Women by Saira Rao and Regina Jackson. I considered myself a non-racist person, and I was proud if the way I "didn't see color." Ugh. I learned I had more to learn on that. Then, I accidentally learned about the genocide happening in Palestine. I spend 12 noon to 12:30, M-F at JewishVoiceForPeace.org's webinar. The folks there are helping form my political world views. They have lit a fire. And of course as a longtime fan of EFF I care about preserving my rights and freedoms on the internet. Combine these things together and that makes me a person aiming to spend her final years helping buck the systems that enslave many.
@@ -19,6 +31,7 @@ Watch their documentary Deconstructing Karen.
 ## 2024-11-19
 
 ***
+
 * Storage unit: Photo triage and more
 * Tech: managing an archive
 * Chat: anarchy, bias, a gentle worldview,
