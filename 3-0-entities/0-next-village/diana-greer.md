@@ -3,9 +3,22 @@
 * 415 271 4286
 * diana94133@pm.me
 
+## 2024-11-19 Diana's reply
+
+I am excited to tell you how I became radicalized. I read the book White Women by Saira Rao and Regina Jackson. I considered myself a non-racist person, and I was proud if the way I "didn't see color." Ugh. I learned I had more to learn on that. Then, I accidentally learned about the genocide happening in Palestine. I spend 12 noon to 12:30, M-F at JewishVoiceForPeace.org's webinar. The folks there are helping form my political world views. They have lit a fire. And of course as a longtime fan of EFF I care about preserving my rights and freedoms on the internet. Combine these things together and that makes me a person aiming to spend her final years helping buck the systems that enslave many.
+Warmly,
+Diana
+    Aaron Bushnell's final post: Many of us like to ask ourselves, “What would I do if I was alive during slavery? Or the Jim Crow South? Or apartheid?
+What would I do if my country was committing genocide?
+The answer is, you're doing it. Right now.”
+
+    Dismantle white supremacy.
+Read the book White Women by Saira Rao & Regina Jackson.
+Watch their documentary Deconstructing Karen.
 
 ## 2024-11-19
 
+***
 * Storage unit: Photo triage and more
 * Tech: managing an archive
 * Chat: anarchy, bias, a gentle worldview,
