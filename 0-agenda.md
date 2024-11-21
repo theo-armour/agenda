@@ -10,12 +10,12 @@
 ## Today
 
 * ?
-* Cathy Cochran: Segrin Obit
-* Diana Greer: invite
+* 
 
 ## SOON
 
 * ++
+* create tkd whatsapp group
 
 ***
 
