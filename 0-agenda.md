@@ -6,6 +6,7 @@
 * 2024-11-17:&nbsp;Bucky’s prediction of “spontaneous cooperation,”
 * 2024-11-17: ?: The obstacle is the way. The obstacle is the signpost.&nbsp;You are&nbsp;the obstacle. The obstacle points the way, but is it the right way
 * 2024-11-21: finish what you've started before you start a second thing to finish
+* Finish something before starting something
 
 <!-- this is a comment -->
 ## Today
@@ -88,7 +89,7 @@ Waiting
 **Simplicity**
 
 -->
-<details>
+<details open="">
 
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
