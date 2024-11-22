@@ -5,6 +5,7 @@
 * ++
 * 2024-11-17:&nbsp;Bucky’s prediction of “spontaneous cooperation,”
 * 2024-11-17: ?: The obstacle is the way. The obstacle is the signpost.&nbsp;You are&nbsp;the obstacle. The obstacle points the way, but is it the right way
+* 2024-11-21: finish what you've started before you start a second thing to finish
 
 <!-- this is a comment -->
 ## Today
