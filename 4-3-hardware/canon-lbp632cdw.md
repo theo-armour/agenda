@@ -1,4 +1,4 @@
-# Canon LBP632Cdw
+# [Canon LBP632Cdw](https://maps.app.goo.gl/CCAaQyeyfrr3R4ne7)
 
 Serial number: NTDA117219
 
