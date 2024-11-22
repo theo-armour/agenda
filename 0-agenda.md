@@ -89,7 +89,7 @@ Waiting
 **Simplicity**
 
 -->
-<details open="">
+<details>
 
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
@@ -151,7 +151,7 @@ Waiting
 **Peeps**
 
 -->
-<details>
+<details open="">
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.2 Peeps</a>
 
@@ -212,7 +212,8 @@ Waiting
 
 * ++
 * Pam F: food committee notes
-* hheimark@hotmail.com: HH
+* 
+
 * Attend Food committee
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/12-december/2024-12-happenings.md&quot;">december</a>
