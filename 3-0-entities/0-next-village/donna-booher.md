@@ -5,7 +5,8 @@
 * 11:30 ~ 11/11 lunch
 * https://www.linkedin.com/in/donnabooher/
 
-##
+
+## 2024-11-??
 
 Theo -
 

@@ -4,7 +4,7 @@
 
 ## Agenda 2024-11-22
 
-* Jon: Description ~ subtitle
+* Jon: Description ~ subtitle: "The back room of the inner sanctum of political intrigue at the deepest levels…"
 * Jon: King's Afgani family
 * Jon: Marty photos: scan
 
