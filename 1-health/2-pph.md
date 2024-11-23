@@ -1,20 +1,20 @@
 # PPH
 
 * ?
+* Genualdi: repor
 * Talk to breen
 * Pneumonia vaccine ~ June 2024
 
-## Pine Park Health ~ [https://pineparkhealth.com](https://pineparkhealth.com)
+## Pine Park Health ~ <a href="https://pineparkhealth.com">https://pineparkhealth.com</a>
 
 * 1901 4th Street, Suite 201
 * Berkeley, CA 94710
 * clinical@pineparkhealth.com.
-* info@pineparkhealth.com
+* <a href="mailto:info@pineparkhealth.com">info@pineparkhealth.com</a>
 * 510-929-1400 - main number
 * NPI Number: 1346879848
 * Medicare PECOS PAC: ID 0345670527
 * Medicare Enrollment ID: O20200501001068
-
 
 ## Michael Genualdi, M.D ~ Dr Mike
 
@@ -22,14 +22,11 @@
 * Residency: Stanford Health Care
 
 Dr. Michael Genualdi, originally from New Jersey, is a dedicated physician and advocate for the well-being of older adults. He completed his Internal Medicine residency and Geriatrics fellowship at Stanford University, where he developed a commitment to providing compassionate care. As a Geriatrics and Internal Medicine Board Certified physician, **Dr. Mike’s** mission is to deliver quality-focused, evidence-based, patient-centered care.
-
-
 ## CEO
 
 * New CEO?
-
-* George Khasin: gkhasin@pineparkhealth.com
-* https://www.linkedin.com/in/george-khasin-763b16132/
+* George Khasin: <a href="mailto:gkhasin@pineparkhealth.com">gkhasin@pineparkhealth.com</a>
+* <a href="https://www.linkedin.com/in/george-khasin-763b16132/">https://www.linkedin.com/in/george-khasin-763b16132/</a>
 
 ### Gripes
 
@@ -64,13 +61,11 @@ Community Issues
 * PPH: Elation sucks ~ see paper-in-progress
 * PPH: who to contact re Website issues
 
-
-
 ## Gary Richmond NP-C (nurse practitioner - certified)
 
-* [https://www.pineparkhealth.com/provider-bios/gary-richmond-np](https://www.pineparkhealth.com/provider-bios/gary-richmond-np)
-* [https://twitter.com/garyfnp](https://twitter.com/garyfnp)
-* [https://allnurses.com/glossary-nursing-medical-degrees-certifications-allied-t83384/#:~:text=np-C%3A%20a%20Credential%20for%20Nurse%20Practitioners%20in%20All,%28Oncc%29.%20od%3A%20Doctor%20of%20Optometry%20%28See%20Also%20Do%29](https://allnurses.com/glossary-nursing-medical-degrees-certifications-allied-t83384/#:~:text=np-C%3A%20a%20Credential%20for%20Nurse%20Practitioners%20in%20All,%28Oncc%29.%20od%3A%20Doctor%20of%20Optometry%20%28See%20Also%20Do%29)
+* <a href="https://www.pineparkhealth.com/provider-bios/gary-richmond-np">https://www.pineparkhealth.com/provider-bios/gary-richmond-np</a>
+* <a href="https://twitter.com/garyfnp">https://twitter.com/garyfnp</a>
+* <a href="https://allnurses.com/glossary-nursing-medical-degrees-certifications-allied-t83384/#:~:text=np-C%3A%20a%20Credential%20for%20Nurse%20Practitioners%20in%20All,%28Oncc%29.%20od%3A%20Doctor%20of%20Optometry%20%28See%20Also%20Do%29">https://allnurses.com/glossary-nursing-medical-degrees-certifications-allied-t83384/#:~:text=np-C%3A%20a%20Credential%20for%20Nurse%20Practitioners%20in%20All,%28Oncc%29.%20od%3A%20Doctor%20of%20Optometry%20%28See%20Also%20Do%29</a>
 
 ### Kari Cedillo
 
@@ -89,8 +84,8 @@ Community Issues
 
 ## Communications
 
-* [https://www.pineparkhealth.com/articles](https://www.pineparkhealth.com/articles)
-* [https://uploads-ssl.webflow.com/634d54b35cb8acda220ba9fc/645407e75cbe597ad32d5bf0\_General%20Resident%20Newsletter%20-%20April%202023.pdf](https://uploads-ssl.webflow.com/634d54b35cb8acda220ba9fc/645407e75cbe597ad32d5bf0_General%20Resident%20Newsletter%20-%20April%202023.pdf)
+* <a href="https://www.pineparkhealth.com/articles">https://www.pineparkhealth.com/articles</a>
+* <a href="https://uploads-ssl.webflow.com/634d54b35cb8acda220ba9fc/645407e75cbe597ad32d5bf0_General%20Resident%20Newsletter%20-%20April%202023.pdf">https://uploads-ssl.webflow.com/634d54b35cb8acda220ba9fc/645407e75cbe597ad32d5bf0_General%20Resident%20Newsletter%20-%20April%202023.pdf</a>
 * May June
 
 ## Elation Passport
