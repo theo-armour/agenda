@@ -192,7 +192,7 @@ Waiting
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-agenda.md&quot;">awesome</a>
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-next-village/0-next-village-agenda.md&quot;">sacsem</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-next-village/0-next-village-agenda.md&quot;">next village</a>
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sacsem/0-sacsem-agenda.md&quot;">sacsem</a>
 <!-- -->
@@ -200,6 +200,9 @@ Waiting
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sps/0-sps-agenda.md&quot;">sps</a>
 <!-- -->
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-tgd/0-tgd-agenda.md&quot;">sps</a>
+<!-- -->
+
 </details>
 <!--
 
