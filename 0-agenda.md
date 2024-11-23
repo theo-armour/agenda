@@ -15,9 +15,10 @@
 * Lunch with A &amp; V:&nbsp;
 * Saturday things
 * Picture frame
-* create tkd whatsapp group
+* Create tkd whatsapp group
 * Stout: reply
 * Mike Marean:
+* trmnl" update
 
 ## SOON
 
