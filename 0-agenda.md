@@ -195,14 +195,13 @@ Waiting
 * Pam F: food committee notes
 * Attend Food committee
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/12-december/12-happenings.md&quot;">december</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/12-december/12-december.md&quot;">december</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/activities/0-activities-agenda.md&quot;">activities</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/admin-townhall/0-admin-townhall.md&quot;">admin townhall</a>
-
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/admin-town-hall/0-admin-townhall.md&quot;">admin townhall</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/board-of-directors-sflprs/0-bod-sflprs-agenda.md&quot;">bod sflprs</a>
 
@@ -221,6 +220,7 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/staff-directory/1-staff-agenda.md&quot;">staff</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/strategic-plan-eir/0-strategic-plan-eir.md&quot;">strategic plan ~ eir</a>
+
 
 
 
