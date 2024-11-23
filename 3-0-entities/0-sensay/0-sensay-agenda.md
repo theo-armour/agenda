@@ -8,6 +8,10 @@
 
 ## Agenda
 
+* Sensay: replica
+* Sensay: Dan + Marco
+* SenSay: Read Dan's book
+* Sensay: Life Review
 * Help with the Sensay SEO
 * Eat your own dog food. Every Sensay team member has an up to date replica of themselves
 * Google Docs is your enemy

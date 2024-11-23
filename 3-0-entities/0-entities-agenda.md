@@ -36,20 +36,7 @@
 
 * Monthly donation to BB&amp;N?
 
-## TGD
 
-* TGD: sound video
-* TGD: Mark on Latex to Python
-* TGD: Hover 1 ~ flying camera
-* Evan &amp; Medium ~ Morning Consult ~ SDGs ~ Air Quality
-* Evan ~ AQI ~ morning consult ~ SDG
-
-## SPS / Paulies ~ <a href="https://sps.edu">https://sps.edu</a>
-
-* Randy
-* SPS65 &gt; Bob Hall: reply ~ email addresses
-* Rory ~ Should actors have to be clever?
-* Jose ~ Agenda ~ Rory ~ monthly notice ~ private vs public ~ content
 
 ## Syracuse
 

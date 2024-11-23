@@ -1,5 +1,21 @@
 # Read Me
 
+* ++
+* SPS: RandyMor: ?
+* Mike Marean: folding desk (??)
+
+## SPS / Paulies ~ <a href="https://sps.edu">https://sps.edu</a>
+
+* Randy
+* SPS65 &gt; Bob Hall: reply ~ email addresses
+* Rory ~ Should actors have to be clever?
+* Jose ~ Agenda ~ Rory ~ monthly notice ~ private vs public ~ content
+
+## Done
+
+* Rob &amp; José: 3pm
+
+
 ## Rob Leslie
 
 * https://sps.mars.org/dashboard

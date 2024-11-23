@@ -9,6 +9,7 @@
 * <a href="mailto:jill@sfvillage.org">jill@sfvillage.org</a>
 * 3220 Fulton St. San Francisco, CA 94118  |   415-387-1375 ext. 2
 
+
 ## Who We Are
 
 >San Francisco Village is a membership organization designed with, by and for older San Franciscans and the extended community that champions them.

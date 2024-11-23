@@ -3,7 +3,34 @@
 * 415 271 4286
 * diana94133@pm.me
 
+## 2024-11-22
+
+Diana,
+
+Time is on your side
+You are young and you are smart. Stay curious and keep learning. Keep doing this for several more decades and, Bingo!, you will be older and wiser. And happier.
+
+Of course, there luck and statistics are involved as well.
+
+Privilege comes easily
+I was raised in the right address , went to the best schools, ate at the finest restaurants. I was raised to look down my nose at people. By some amazing thing, I happened to be able to learn to view people in other ways. Looking up, over inside and out. Which turns out to be more fun, engaging and beautiful
+
+My bad
+No mater how wise, caring and generous I may be, I must accept that I will at times be involved with cruelty, inattention and with things I could have changed.
+
+
+
 ## 2024-11-21
+
+Theo,
+Thank you for your words. Yes.
+I appreciate the way you speak.
+I am awed that you read as much as you did.
+Its a rough thing to read. It is a short book and it took me over a month; I spent a lot of time stomping around my apartment and calling my smart girlfriend to have her explain things to me. It took me a long, long time to "get it."
+Warmly,
+Diana
+
+***
 
 Hi Diana
 
