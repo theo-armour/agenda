@@ -2,6 +2,7 @@
 
 ## agenda
 
+* TGD: glasses
 * TGD: sound video
 * TGD: Mark on Latex to Python
 * TGD: Hover 1 ~ flying camera
