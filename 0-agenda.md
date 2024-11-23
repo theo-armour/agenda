@@ -204,7 +204,7 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/admin-townhall/0-admin-townhall.md&quot;">admin townhall</a>
 
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/board-of-directors-sflprs/0-bod-sflprs-agenda.md&quot;">bod sflprs/a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/board-of-directors-sflprs/0-bod-sflprs-agenda.md&quot;">bod sflprs</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan.md&quot;">centenary-morgan </a>
 
@@ -218,9 +218,10 @@ Waiting
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/services/0-services.md&quot;">services</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/staff/1-staff-agenda.md&quot;">staff</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/staff-directory/1-staff-agenda.md&quot;">staff</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/strategic-plan-eir/0-strategic-plan-eir.md&quot;">strategic plan ~ eir</a>
+
 
 
 </details>
