@@ -15,11 +15,13 @@
 * Saturday things
 * Lunch with A &amp; V
 * Picture frame
+* create tkd whatsapp group
+* Stout: reply
 
 ## SOON
 
 * ++
-* create tkd whatsapp group
+* 
 
 ***
 
