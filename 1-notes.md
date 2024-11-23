@@ -1,5 +1,19 @@
 # Notes
 
+  
+
+  
+
+Dorman smith artist
+
+  
+
+Garrison keeler
+
+  
+
+  
+
 Pmnr doctor  Heather Brooke national Park service fort Mason Charles sowers sculptor  San Francisco museum & historical society 
 
 Plans jm
