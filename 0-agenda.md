@@ -200,7 +200,7 @@ Waiting
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sps/0-sps-agenda.md&quot;">sps</a>
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-tgd/0-tgd-agenda.md&quot;">sps</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-tgd/0-tgd-agenda.md&quot;">tgd</a>
 <!-- -->
 
 </details>
