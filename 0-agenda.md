@@ -201,7 +201,7 @@ Waiting
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/activities/0-activities-agenda.md&quot;">activities</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/admin-town-hall/0-admin-townhall.md&quot;">admin townhall</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/admin-town-hall/0-admin-town-hall-agenda.md&quot;">admin town hall</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/board-of-directors-sflprs/0-bod-sflprs-agenda.md&quot;">bod sflprs</a>
 
