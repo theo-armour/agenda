@@ -222,6 +222,7 @@ Waiting
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/strategic-plan-eir/0-strategic-plan-eir.md&quot;">strategic plan ~ eir</a>
 
+
 </details>
 <!-- -->
 ***
