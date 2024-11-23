@@ -12,7 +12,7 @@
 ## Today
 
 * ?
-*
+* 
 
 ## SOON
 
@@ -105,7 +105,7 @@ Waiting
 **Simplicity**
 
 -->
-<details>
+<details open="">
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
 
@@ -192,15 +192,33 @@ Waiting
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-agenda.md&quot;">awesome</a>
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-next-village/0-next-village-agenda.md&quot;">sacsem</a>
-<!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sacsem/0-sacsem-agenda.md&quot;">sacsem</a>
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sensay/0-sensay-agenda.md&quot;">sensay</a>
-<!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sps/0-sps-agenda.md&quot;">sps</a>
-<!-- -->
+<details>
 
+<summary>sensay</summary>
+
+* Sensay: replica
+* Sensay: Dan + Marco
+* SenSay: Read Dan's book
+* Sensay: Life Review
+
+</details>
+<!-- -->
+<details>
+
+<summary>sps</summary>
+
+* ++
+* SPS: RandyMor: ?
+* Mike Marean: folding desk
+
+## Done
+
+* Rob &amp; José: 3pm
+
+</details>
+<!-- -->
 </details>
 <!--
 
@@ -214,8 +232,7 @@ Waiting
 
 * ++
 * Pam F: food committee notes
-*
-
+* 
 * Attend Food committee
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/12-december/2024-12-happenings.md&quot;">december</a>
