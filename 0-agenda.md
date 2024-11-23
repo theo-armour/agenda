@@ -21,7 +21,7 @@
 ## SOON
 
 * ++
-* 
+* PPH: 3 points
 
 ***
 
@@ -30,7 +30,7 @@
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
@@ -76,7 +76,7 @@ Waiting
 **Health**
 
 -->
-<details>
+<details open="">
 
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
