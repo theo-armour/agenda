@@ -12,11 +12,23 @@
 ## Today
 
 * ?
+* Create tkd whatsapp group
+* Stout: reply
+* Mike Marean:
+* trmnl: update
+* Diana:
+* Next Village
+* John King
+* Mary:&nbsp;
 
 ## SOON
 
 * ++
-* create tkd whatsapp group
+* PPH: 3 points
+* Boxing Day
+* Joel P
+* 3400 Roses: to consultants
+* HH: to the web
 
 ***
 
@@ -186,7 +198,7 @@ Waiting
 **Heritage**
 
 -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
@@ -221,9 +233,6 @@ Waiting
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/strategic-plan-eir/0-strategic-plan-eir.md&quot;">strategic plan ~ eir</a>
 
-
-
-
 </details>
 <!-- -->
 ***
@@ -233,7 +242,7 @@ Waiting
 **Projects**
 
 -->
-<details>
+<details open="">
 <summary>projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
