@@ -16,8 +16,8 @@
 * trmnl: update
 * Diana:
 * Next Village
-* John King
-* Mary:&nbsp;
+* John King: print roses&nbsp;
+* Mary: HH+NV ~ hector&nbsp;
 * Til: address / room #
 
 ## SOON
