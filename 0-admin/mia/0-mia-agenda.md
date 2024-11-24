@@ -1,8 +1,12 @@
 # Mia Agenda November
 
 
-## 2024-11-23
+## 2024-11-24
 
+* December ~ Tuesday 
+* Next Village
+* website
+* thanksgiving
 
 ## 2024-11-10
 
