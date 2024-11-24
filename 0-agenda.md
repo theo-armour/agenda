@@ -12,8 +12,6 @@
 ## Today
 
 * ?
-* 
-
 * Stout: reply
 * Mike Marean:
 * trmnl: update
