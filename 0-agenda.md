@@ -12,7 +12,8 @@
 ## Today
 
 * ?
-* Lunch with A &amp; V:&nbsp;
+* 
+
 * Saturday things
 * Picture frame
 * Create tkd whatsapp group
