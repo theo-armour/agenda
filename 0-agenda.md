@@ -12,13 +12,11 @@
 ## Today
 
 * ?
-* 
-
 * Picture frame
 * Create tkd whatsapp group
 * Stout: reply
 * Mike Marean:
-* trmnl" update
+* trmnl: update
 
 ## SOON
 
