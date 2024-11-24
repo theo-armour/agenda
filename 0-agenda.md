@@ -12,7 +12,8 @@
 ## Today
 
 * ?
-* Create tkd whatsapp group
+* 
+
 * Stout: reply
 * Mike Marean:
 * trmnl: update
