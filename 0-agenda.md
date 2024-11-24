@@ -12,9 +12,6 @@
 ## Today
 
 * ?
-* 
-
-* Saturday things
 * Picture frame
 * Create tkd whatsapp group
 * Stout: reply
