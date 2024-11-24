@@ -13,7 +13,8 @@
 
 * ?
 * Stout: reply
-* Mike Marean:
+* 
+
 * trmnl: update
 * Diana:
 * Next Village
