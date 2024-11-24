@@ -13,13 +13,12 @@
 
 * ?
 * Stout: reply
-* 
-
 * trmnl: update
 * Diana:
 * Next Village
 * John King
 * Mary:&nbsp;
+* Til: address / room #
 
 ## SOON
 
@@ -172,7 +171,7 @@ Waiting
 **Entities**
 
 -->
-<details>
+<details open="">
 <summary>Entities</summary>
 <!-- -->
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
