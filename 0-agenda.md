@@ -12,12 +12,14 @@
 ## Today
 
 * ?
+* Tom Johnson: wine
 * Stout: reply
 * trmnl: update
 * Diana:
-* Next Village
+* 
+
 * John King: print roses&nbsp;
-* Mary: HH+NV ~ hector&nbsp;
+* Mary: HH+NV ~ hector ~ PPH
 * Til: address / room #
 
 ## SOON
