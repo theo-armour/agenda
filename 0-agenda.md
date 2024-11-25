@@ -12,6 +12,7 @@
 ## Today
 
 * ?
+* HH: meeting
 * Ling Shin
 * Call from France
 * Mar Carranza
@@ -24,7 +25,8 @@
 
 * ++
 * Ange: cookie images
-* Breanna
+* 
+
 * SF Heritage
 * trmnl: update
 * Hover: joystick
