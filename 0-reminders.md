@@ -44,6 +44,7 @@
 
 ## Contemplation
 
+* John Rawls
 * Effective Altruism
 * Dawn of Everything ~ Graeber
 * Iliad ~ Trial of Socrates
