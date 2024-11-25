@@ -17,7 +17,6 @@
 * Call from France
 * Mark Carranza
 * Shammah
-* John King: print roses&nbsp;
 * Mary: HH+NV ~ hector ~ PPH
 * Boxing Day
 
