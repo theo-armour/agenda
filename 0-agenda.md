@@ -14,7 +14,8 @@
 * ?
 * 
 
-* trmnl: update
+* 
+
 * John King: print roses&nbsp;
 * Mary: HH+NV ~ hector ~ PPH
 * Boxing Day
@@ -22,6 +23,8 @@
 ## SOON
 
 * ++
+* trmnl: update
+* Hover: joystick
 * Tom Johnson: wine
 * PPH: 3 points
 
@@ -75,7 +78,7 @@ Waiting
 **Health**
 
 -->
-<details open="">
+<details>
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
