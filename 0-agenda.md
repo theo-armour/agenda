@@ -12,10 +12,6 @@
 ## Today
 
 * ?
-* 
-
-* 
-
 * John King: print roses&nbsp;
 * Mary: HH+NV ~ hector ~ PPH
 * Boxing Day
@@ -23,6 +19,8 @@
 ## SOON
 
 * ++
+* Breanna
+* SF Heritage
 * trmnl: update
 * Hover: joystick
 * Tom Johnson: wine
