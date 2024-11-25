@@ -12,22 +12,18 @@
 ## Today
 
 * ?
-* 
-
-* 
-
 * trmnl: update
 * John King: print roses&nbsp;
 * Mary: HH+NV ~ hector ~ PPH
-* 
+* Boxing Day
 
 ## SOON
 
 * ++
 * Tom Johnson: wine
 * PPH: 3 points
-* Boxing Day
-* Joel P
+
+* Joel P:&nbsp;
 * 3400 Roses: to consultants
 * HH: to the web
 
