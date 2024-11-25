@@ -16,7 +16,8 @@
 * 
 
 * trmnl: update
-* Diana: Talking to Mary
+* 
+
 * John King: print roses&nbsp;
 * Mary: HH+NV ~ hector ~ PPH
 * Til: address / room #
