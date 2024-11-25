@@ -16,8 +16,6 @@
 * Stout: reply
 * trmnl: update
 * Diana:
-* 
-
 * John King: print roses&nbsp;
 * Mary: HH+NV ~ hector ~ PPH
 * Til: address / room #
