@@ -12,7 +12,8 @@
 ## Today
 
 * ?
-* HH: meeting
+* 
+
 * Ling Shin
 * Call from France
 * Mark Carranza
