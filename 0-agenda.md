@@ -12,6 +12,10 @@
 ## Today
 
 * ?
+* Ling Shin
+* Call from France
+* Mar Carranza
+* Shammah
 * John King: print roses&nbsp;
 * Mary: HH+NV ~ hector ~ PPH
 * Boxing Day
