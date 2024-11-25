@@ -12,6 +12,8 @@
 ## Today
 
 * ?
+* 
+
 * trmnl: update
 * John King: print roses&nbsp;
 * Mary: HH+NV ~ hector ~ PPH
