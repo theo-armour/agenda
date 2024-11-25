@@ -15,7 +15,7 @@
 * HH: meeting
 * Ling Shin
 * Call from France
-* Mar Carranza
+* Mark Carranza
 * Shammah
 * John King: print roses&nbsp;
 * Mary: HH+NV ~ hector ~ PPH
@@ -25,11 +25,9 @@
 
 * ++
 * Ange: cookie images
-* 
-
 * SF Heritage
 * trmnl: update
-* Hover: joystick
+* Hover: joystick try
 * Tom Johnson: wine
 * PPH: 3 points
 * Joel P:&nbsp;
