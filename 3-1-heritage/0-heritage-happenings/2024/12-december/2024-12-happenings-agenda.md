@@ -1,5 +1,7 @@
 # Heritage Happenings December Issue Agenda
 
+* https://sfrecpark.org/CivicAlerts.aspx?AID=1961 ~ 2024-12-05 5 to 6
+* Next Village?
 
 ## Agenda
 
