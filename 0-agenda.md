@@ -13,7 +13,8 @@
 
 * ?
 * Ling Shin
-* Call from France
+* 
+
 * Mark Carranza
 * Shammah
 * Mary: HH+NV ~ hector ~ PPH
