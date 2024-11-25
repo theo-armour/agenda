@@ -12,7 +12,6 @@
 ## Today
 
 * ?
-* Ling Shin
 * Mark Carranza
 * Shammah
 * Mary: HH+NV ~ hector ~ PPH
