@@ -6,7 +6,6 @@
 * http://www.woodylabounty.com/
 * https://www.sfheritage.org/staff-member/stephen-woody-labounty/
 * Phone: 415-441-3000 x15
-* Email: wlabounty@sfheritage.org
 
 ## Heritage Happy Hour:
 
