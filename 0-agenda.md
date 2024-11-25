@@ -23,6 +23,7 @@
 ## SOON
 
 * ++
+* Ange: cookie images
 * Breanna
 * SF Heritage
 * trmnl: update
