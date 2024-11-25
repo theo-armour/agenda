@@ -12,12 +12,11 @@
 ## Today
 
 * ?
-* Tom Johnson: wine
+* 
+
 * 
 
 * trmnl: update
-* 
-
 * John King: print roses&nbsp;
 * Mary: HH+NV ~ hector ~ PPH
 * Til: address / room #
@@ -25,6 +24,7 @@
 ## SOON
 
 * ++
+* Tom Johnson: wine
 * PPH: 3 points
 * Boxing Day
 * Joel P
