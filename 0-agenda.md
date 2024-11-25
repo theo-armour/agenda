@@ -12,8 +12,6 @@
 ## Today
 
 * ?
-* 
-
 * Ling Shin
 * Call from France
 * Mark Carranza
