@@ -24,7 +24,7 @@
 * Scapulas back and down 10 times - six sessions a day
 * Calculate: calcium, protein and fiber in my diet
 * trmnl: write app!
-* Sports Medicine peeps: Sr Tan ~ Dr Theologis
+* Sports Medicine peeps: Dr Tan ~ Dr Theologis
 * 180 Medical: study self-cath process
 * <a href="https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-care-home">https://geriatrics.ucsf.edu/patient-care/ucsf/ucsf-care-home</a>
 * ucsf care at home ~ 4155143577

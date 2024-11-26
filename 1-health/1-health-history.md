@@ -45,8 +45,8 @@ Problems mostly relate to the wear and tear due to aging
 ## Past Conditions – significant resolved conditions
 
 * 1961 ~ Eyeglasses for near sightedness since 1960
-* 1969-04 ~ Partial paraplegic
-* 1969-04 ~ Left hand amputee
+* 1969 ~ Partial paraplegic
+* 1969 ~ Left hand amputee
 * Deep pockets around molars in gums
 * Arthritis in hip
 * Stomach: Large paraesophageal hernia. Cameron's ulcers/erosions
@@ -54,7 +54,7 @@ Problems mostly relate to the wear and tear due to aging
 * Dysphagia
 * Bleeding in diverticula
 * Anemia
-* Colon cancer
+* Colon cancer / colectomy
 * Bursitis
 * Hernia
 * 2022-11 ~ Broken femur
@@ -70,10 +70,10 @@ Problems mostly relate to the wear and tear due to aging
 * 1955? ~ broken tibia
 * 1968 ~ Wisdom teeth removal
 * 1969 ~ Vertebrae T12 to L5 broken and fused; Both arms broken ~ due to four story fall off roof
-* 1970 ~ Right forearm amputated
-* 1973 ~ Badly cut left foo
+* 1970 ~ Right forearm amputated - after multiple surgeries to save it
+* 1973 ~ Badly cut left foot
 * 2015 ~ Right hip arthroplasty
-* 2016 ~ Blood in Stool
+* 2016 ~ Blood in stool
 * 2017 ~ Colectomy for Level 0/1 cancer ~ did not reach lymph nodes
 * 2018 ~ Bursitis
 * 2018 ~ Blood in stool
@@ -102,7 +102,7 @@ See above
 
 ### Allergies and sensitivities to medications/supplements, food, and environmental allergens
 
-* Skin rashes due to Esomeprazole?
+* Skin rashes due to dryness
 
 ### Healthcare Maintenance (include most recent dates)
 
@@ -128,7 +128,8 @@ See above
 
 ### Non-occupational exposures – physical, chemical
 
-??
+* Former heavy smoker
+* Summer job in a noxious rubber factory
 
 ### Travel to areas with endemic diseases
 

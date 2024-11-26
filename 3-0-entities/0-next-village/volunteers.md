@@ -13,3 +13,7 @@
 
 * Newsletter: interviews, photography, mailings
 * Residents: help with errands, rides, visits
+
+
+## Amy
+
