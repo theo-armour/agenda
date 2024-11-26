@@ -13,21 +13,24 @@
 ## Today
 
 * ?
-* HH: Agenda + Trish &amp; Mia
-* Mark Carranza
-* Shammah
-* Mary: HH+NV ~ hector ~ PPH
-* Boxing Day
+* PPH: 3 points
+* HH: Agenda
+* Laurent &amp; Myriam
+* Jon Rubin
 
 ## SOON
 
 * ++
+* Mark Carranza
+* Shammah
+* Mary: HH+NV ~ hector ~ PPH
+* Boxing Day
 * Ange: cookie images
 * SF Heritage
 * trmnl: update
 * Hover: joystick try
 * Tom Johnson: wine
-* PPH: 3 points
+
 * Joel P:&nbsp;
 * 3400 Roses: to consultants
 * HH: to the web
