@@ -35,5 +35,7 @@ Is it
 
 ### Cons
 
-* The website
-* 
+* The website ~ no medical terms of service ~ compare https://www.onemedical.com/
+* Patient Portal ~ compare mychart
+* The lack of technology ~ 
+

@@ -12,46 +12,38 @@
 
 Done:
 
-* Midge's edits
-* MJohnson: Barges article
-* Sheila's photos
-* Marty link
-* Doris photos link
-* Laura Wagner link
 
-## Review of October Issue
+
+## Review of November Issue
 
 * Did anybody have any issuers with the October issue?
 
 
 ## Theme
 
-* **Around the World** Thailand ~ Message to residents has been sent
-* **Colors** red #A51931 ~ white #F4F5F8 ~ blue #2D2A4A
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" width=50 >
-
+* **Around the World** El Salvador
+* **Colors**
 * **Cameo Image**
 
-<img src="https://ideogram.ai/assets/image/lossless/response/40EAGiwqRHafnI0izAYGpA" width=150>
 
 ## Events
 
-* Diwali 2024: November 1
-* Day of the Dead: November 1
-* Thanksgiving
+* Xmas
+* New Year
 
 
-## Content for November Issue
+## Content for December  Issue
 
 ### Staff
 
-* Angie: new menu ~ regular special meals: 3rd Thursday? ~  Milkshake day,  Donuts day, Thai meal day? Others? ~ new kiosk!!
-* Jon Casey: Type C rates?
+* Angie:
+* Jon Casey:
 * Hector: Updates
-* Martha & Vada: Health: article? Pharmamerica? Hygienist
-* Health Agenda for the year: Dimensions of wellness
+* Martha & Vada: Health:
 * Brittany: Bones: scan
+* Roxanne: Health: ??
+* Mary: ?
+* Health Agenda for the year: Dimensions of wellness
 
 ## Residents Council
 
@@ -66,26 +58,22 @@ Done:
 
 ## Residents
 
-* @ Bob Granucci Mia: Ducks #3
-* @ Doris: Thailand ~
-* @ Jane: Overnight train
+* Bob Granucci Mia: Ducks #4
+* Doris: El Salvador Book Review
+* Jane: ?
 * Margaret Jacobs: ??
-* Margaret Johnson: Barges: need text
-* Margaret Missiaen:
-* Martha Nell:
-* @ Martha Nell: Library new acquisitions: none
-* @ Martha Nell: Interview: Nancy T
-* @ Sheila: Thailand montage
-* @ Stela: head start: Mia
-* @ Til Mossi: Shipyard update ~ Mia chat
-* @ Trish: xmas books
-* @ Tucker: Jabberwocky
-* Theo: Short & Sweet articles
-* @ Tom King: Nixon
+* Margaret Johnson: Petra
+* Martha Nell: Tom & Val
+* Martha Nell: Library new acquisitions: none
+* Sheila:
+* Stela: head start: Jeanne
+* Til Mossi:
+* Tucker:
+* Theo:
+* Tom King:
+* Marty: Mia chat
 
 
 ### Miscellany
 
-* Portrait photo: Marty Nolan
-* Marty; Mia chat
-* Link to PDF
+*
