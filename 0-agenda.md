@@ -7,24 +7,29 @@
 * 2024-11-17: ?: The obstacle is the way. The obstacle is the signpost.&nbsp;You are&nbsp;the obstacle. The obstacle points the way, but is it the right way
 * 2024-11-21: finish what you've started before you start a second thing to finish
 * Finish something before starting something
+* Finish things before starting things
 
 <!-- this is a comment -->
 ## Today
 
 * ?
-* John King: print roses&nbsp;
-* Mary: HH+NV ~ hector ~ PPH
-* Boxing Day
+* PPH: 3 points
+* HH: Agenda
+* Laurent &amp; Myriam
+* Jon Rubin
 
 ## SOON
 
 * ++
-* Breanna
+* Mark Carranza
+* Shammah
+* Mary: HH+NV ~ hector ~ PPH
+* Boxing Day
+* Ange: cookie images
 * SF Heritage
 * trmnl: update
-* Hover: joystick
+* Hover: joystick try
 * Tom Johnson: wine
-* PPH: 3 points
 
 * Joel P:&nbsp;
 * 3400 Roses: to consultants
@@ -198,7 +203,7 @@ Waiting
 **Heritage**
 
 -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
