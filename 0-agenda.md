@@ -14,7 +14,8 @@
 ## Today
 
 * ?
-* Dicke George
+
+* 3400 Roses: to consultants
 
 ## SOON
 
@@ -29,7 +30,6 @@
 * Hover: joystick try
 * Tom Johnson: wine
 * Joel P:&nbsp;
-* 3400 Roses: to consultants
 * HH: to the web
 
 ***
