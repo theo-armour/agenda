@@ -16,6 +16,7 @@
 * ?
 
 * 3400 Roses: to consultants
+* Call pharmerica
 
 ## SOON
 
@@ -32,6 +33,7 @@
 * Tom Johnson: wine
 * Joel P:&nbsp;
 * HH: to the web
+* Cynthia: money
 
 ***
 
