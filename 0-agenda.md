@@ -13,10 +13,7 @@
 ## Today
 
 * ?
-* PPH: 3 points
-* HH: Agenda
-* Laurent &amp; Myriam
-* Jon Rubin
+* 
 
 ## SOON
 
@@ -30,7 +27,6 @@
 * trmnl: update
 * Hover: joystick try
 * Tom Johnson: wine
-
 * Joel P:&nbsp;
 * 3400 Roses: to consultants
 * HH: to the web
@@ -252,6 +248,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
+* Update Wix user name
 * Trmnl: dev access
 * Sensay ~ audiopen ~ seo
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
