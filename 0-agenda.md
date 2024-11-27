@@ -25,7 +25,8 @@
 * Mary: HH+NV ~ hector ~ PPH
 * Boxing Day
 * Ange: cookie images
-* SF Heritage
+* 
+
 * trmnl: update
 * Hover: joystick try
 * Tom Johnson: wine
