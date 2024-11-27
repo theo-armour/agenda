@@ -13,7 +13,7 @@
 ## Today
 
 * ?
-* 
+* Dicke George
 
 ## SOON
 
