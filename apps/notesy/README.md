@@ -14,6 +14,7 @@
 ## Today
 
 * ?
+* Cynthia: no stocks just $$
 * 3400 Roses: to consultants
 * Call pharmerica
 
