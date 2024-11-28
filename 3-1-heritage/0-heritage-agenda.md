@@ -6,7 +6,6 @@
 * Mary: meeting: apt +
 * Jon Casey Touchtown Czar?
 * SF:Historical Plan
-* Roses: photos
 * Nail Salon on site? Mary will investigate this.
 * Emergency phone numbers
 * Tess: Audiobook app
@@ -17,14 +16,6 @@
 
 * David: Peritz: readable slides
 * Tess: Audiobooks
-
-## Centenary
-
-* HerCen Melissa: Invite text
-* Adele: SFPL
-* Jeanne DeMeio: xmas party
-* Dec 6: A3 SF
-
 
 ## Residents Council
 
@@ -69,12 +60,6 @@
 * Patrick: use Front Office
 * Lillemor: Surströmming party
 *
-
-Marty Party
-
-* Invites
-* Copy of book?
-* Oral History Center, The Bancroft Library, University of California, Berkeley ~ link to Nolan not found
 
 ## Men's Group
 

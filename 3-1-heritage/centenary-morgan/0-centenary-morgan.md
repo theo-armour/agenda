@@ -3,7 +3,10 @@
 
 ## Agenda
 
-* Next meetin 8 January
+* Next meeting 8 January
+* HerCen Melissa: Invite text
+* Adele: SFPL
+* Dec 6: A3 SF
 
 ## Party invites
 

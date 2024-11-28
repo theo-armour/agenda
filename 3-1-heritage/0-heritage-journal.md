@@ -1,5 +1,14 @@
 # Heritage 2023 Journal
 
+
+## 2024-10
+
+Marty Party
+
+* Invites
+* Copy of book?
+* Oral History Center, The Bancroft Library, University of California, Berkeley ~ link to Nolan not found
+
 ## 2024-09-28
 
 * ?
