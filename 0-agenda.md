@@ -8,28 +8,29 @@
 * 2024-11-21: finish what you've started before you start a second thing to finish
 * Finish something before starting something
 * Finish things before starting things
+* Always say yes to an offer ~&nbsp;always say yes to a counter offer to your offer
 
 <!-- this is a comment -->
 ## Today
 
 * ?
-* 
+* 3400 Roses: to consultants
+* Call pharmerica
 
 ## SOON
 
 * ++
-* Mark Carranza
-* Shammah
+* 
+
 * Mary: HH+NV ~ hector ~ PPH
 * Boxing Day
 * Ange: cookie images
-* SF Heritage
 * trmnl: update
 * Hover: joystick try
 * Tom Johnson: wine
 * Joel P:&nbsp;
-* 3400 Roses: to consultants
 * HH: to the web
+* Cynthia: money
 
 ***
 
@@ -161,7 +162,7 @@ Waiting
 **Peeps**
 
 -->
-<details>
+<details open="">
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.2 Peeps</a>
 
