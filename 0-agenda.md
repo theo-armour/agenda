@@ -20,12 +20,11 @@
 ## SOON
 
 * ++
-* Mark Carranza
-* Shammah
+* 
+
 * Mary: HH+NV ~ hector ~ PPH
 * Boxing Day
 * Ange: cookie images
-* 
 * trmnl: update
 * Hover: joystick try
 * Tom Johnson: wine
