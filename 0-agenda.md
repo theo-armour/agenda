@@ -20,21 +20,21 @@
 * Call pharmerica
 * Ange: cookie images
 * Cynthia: money
-* Peyton: flatland
+* 
+
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 * 
 
 ## SOON
 
 * ++
-* Mary: HH+NV ~ hector ~ PPH
 * Boxing Day
 * trmnl: update
-* Hover: joystick try
 * Tom Johnson: wine
 * Joel P:
 * Mia: HH: to the web
-* 3400 Roses: to consultants
+* Hover: joystick try
+* Mary: HH+NV ~ hector ~ PPH
 * 3400 Roses: to consultants
 
 ***
