@@ -20,7 +20,7 @@
 * Triage Raindrop.io
 * Triage Bookmarks
 
-## Leg
+## Legacy
 
 * Make a playlist for my funeral
 * Update my timeline
