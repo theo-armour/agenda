@@ -20,10 +20,7 @@
 * Call pharmerica
 * Ange: cookie images
 * Cynthia: money
-* 
-
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
-* 
 
 ## SOON
 
