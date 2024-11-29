@@ -21,7 +21,7 @@
 * Ange: cookie images
 * Cynthia: money
 * Peyton: flatland
-* Rob &amp; Peyton"&nbsp;
+* Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 * 
 
 ## SOON
