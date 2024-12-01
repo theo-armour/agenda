@@ -10,6 +10,7 @@
 * Finish things before starting things
 * Always say yes to an offer ~&nbsp;always say yes to a counter offer to your offer
 * 2024-11-29: people tell you stories you did ask for.&nbsp;
+* 2024-12-01:&nbsp;You can't lie your way into code compiling.
 
 <!-- this is a comment -->
 ## Today
