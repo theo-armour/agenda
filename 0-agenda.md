@@ -17,17 +17,20 @@
 
 * ?
 * NNnews: image
-* HHcal: to peeps
+* 
+
 * Peyton: hello theater
 * Assurant:&nbsp;877-406-4372
 * Call pharmerica
 * Ange: cookie images
-* Cynthia: money
+* 
+
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 
 ## SOON
 
 * ++
+* Cynthia: money
 * Steve Gordon: jon
 * SiSi: home help
 * Boxing Day
@@ -37,7 +40,6 @@
 * Mia: HH: to the web
 * Hover: joystick try
 * Mary: HH+NV ~ hector ~ PPH
-* 
 
 ***
 
