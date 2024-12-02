@@ -3,12 +3,8 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2024-11-17:&nbsp;Bucky’s prediction of “spontaneous cooperation,”
-* 2024-11-17: ?: The obstacle is the way. The obstacle is the signpost.&nbsp;You are&nbsp;the obstacle. The obstacle points the way, but is it the right way
-* 2024-11-21: finish what you've started before you start a second thing to finish
-* Finish something before starting something
-* Finish things before starting things
-* Always say yes to an offer ~&nbsp;always say yes to a counter offer to your offer
+* 
+
 * 2024-11-29: people tell you stories you did ask for.&nbsp;
 * 2024-12-01:&nbsp;You can't lie your way into code compiling.
 
@@ -47,7 +43,7 @@
 **Admin**
 
 -->
-<details open="">
+<details>
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -252,7 +248,7 @@ Waiting
 **Projects**
 
 -->
-<details open="">
+<details>
 <summary>projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
