@@ -1,6 +1,5 @@
 # Cynthia
 
-
 ## Topics 2
 
 * AI energy usage
@@ -9,7 +8,8 @@
 * Wallet Drawing
 * Finish hand
 
-
+## 2024-12-02
+* Shares: next timw* Room here
 ## 2024-11-11
 
 * Lolo
@@ -28,19 +28,18 @@
 * Only one phone number
 * Multiple emails - but not be a gmail account
 
-
 ## 2024-08-14
 
 * hook workshop photos: sent
 * cdb gummies for writing
-* https://apothecarium.com/dispensaries/marina
-
+* <a href="https://apothecarium.com/dispensaries/marina">https://apothecarium.com/dispensaries/marina</a>
 
 ## 2024-07-22
 
 * Floris ~ Alix briefing: parents ~ therapist
 * Kathy
 * Mia ~ working ~ Bdy invite
+
 *
 
 ## 2024-07-01
@@ -50,11 +49,10 @@
 * wedding invite reply
 * Elections ~ bardella
 
-
 ## 2024-06-24
 
-* Depressing stuff ~ Storage-- & Sensay++
-* Marie-S & Engue
+* Depressing stuff ~ Storage-- &amp; Sensay++
+* Marie-S &amp; Engue
 * Kyle?
 * Bee memorial
 * Tassajara: Probably too much
@@ -79,7 +77,7 @@
 
 ## 2024-04-22
 
-* Peter Taylor & Eliza
+* Peter Taylor &amp; Eliza
 * Morels
 * Buy a forest or a cabin
 * Buy a houseboat?
@@ -130,16 +128,15 @@ Visit
 
 * Check items in spreadsheet
 * Ready to pick up furniture
-* Will&Trust: finished with Vivian
+* Will&amp;Trust: finished with Vivian
 
 ## 2024-02-12
 
-* [https://californiaforever.com](https://californiaforever.com)
-* [https://twitter.com/CAForever/](https://twitter.com/CAForever/)
-* [https://www.instagram.com/californiaforever/](https://www.instagram.com/californiaforever/)
+* <a href="https://californiaforever.com">https://californiaforever.com</a>
+* <a href="https://twitter.com/CAForever/">https://twitter.com/CAForever/</a>
+* <a href="https://www.instagram.com/californiaforever/">https://www.instagram.com/californiaforever/</a>
 
-CEO lives in Solano County
-
+CEO lives in&nbsp;Solano&nbsp;County
 ## 2024-01-16
 
 * OneNote versus Notion
@@ -215,15 +212,14 @@ Family
 
 ## 2023-08-14
 
-* W&T: waiver sent ~ msg to V
-* SF ~ 17 & 18
+* W&amp;T: waiver sent ~ msg to V
+* SF ~ 17 &amp; 18
 * Room?
 * Money to Lolo
 * Bonding with Myint's people
 * Projector
 
 phone Isabelle
-
 ## 2023-06-26
 
 * Car
@@ -232,13 +228,12 @@ phone Isabelle
 ## 2023-06-15
 
 Cynthia in guestroom Lolo ~ logged into Netflix Alix ~ Munich cynthia is Social life ~ out of control
-
 My life
 
 * Cookie
 * Aaron
 * Olga
-* Acelya & Vish
+* Acelya &amp; Vish
 * Ray
 * Anders + CalWine
 * Jorge + Michael
@@ -246,9 +241,9 @@ My life
 Actions
 
 * Dinner
-* Calender \[x\] WhatsApp ~ Community?
-* Will & trust \*
-* MS ~ ace-it ~ ICE \[x\] LastPass
+* Calender [x] WhatsApp ~ Community?
+* Will &amp; trust *
+* MS ~ ace-it ~ ICE [x] LastPass
 * Medicare
 * PPH
 * Hand to build?
@@ -278,15 +273,16 @@ More
 * Interviews
 * Arthritis ~ Acupuncture
 * Weekend in Healdsburg?
-    * Robot hand
-    * Jewels
-    * Bring coins??
+
+* Robot hand
+* Jewels
+* Bring coins??
 
 Vivian
 
 * Will sign ~ under duress~?
 * will ask Isabelle to sign ~ after David's consent
-* Will try to get H&R Block involved
+* Will try to get H&amp;R Block involved
 
 ## 2023-04-19
 
@@ -310,7 +306,7 @@ More
 
 * Manatt ~
 * Thursday ~ 7:30 ~ Dinner Charmaines rooftop
-* [https://www.properhotel.com/san-francisco/restaurants-bars/charmaines/](https://www.properhotel.com/san-francisco/restaurants-bars/charmaines/)
+* <a href="https://www.properhotel.com/san-francisco/restaurants-bars/charmaines/">https://www.properhotel.com/san-francisco/restaurants-bars/charmaines/</a>
 * Poor yella rednecks
 
 ## 2023-03-15
@@ -331,47 +327,53 @@ More
 
 ## Arthritis
 
-* [https://en.wikipedia.org/wiki/Rheumatoid\_arthritis|Rheumatoid](https://en.wikipedia.org/wiki/Rheumatoid_arthritis|Rheumatoid) arthritis
+* <a href="https://en.wikipedia.org/wiki/Rheumatoid_arthritis|Rheumatoid">https://en.wikipedia.org/wiki/Rheumatoid_arthritis|Rheumatoid</a> arthritis
 
 Wedding
 
 * How to Waltz?
-* [https://www.theknot.com/us/kyle-smith-and-cynthia-armour-apr-2022](https://www.theknot.com/us/kyle-smith-and-cynthia-armour-apr-2022)
-* [https://www.theknot.com/gs/dashboard/](https://www.theknot.com/gs/dashboard/)
+* <a href="https://www.theknot.com/us/kyle-smith-and-cynthia-armour-apr-2022">https://www.theknot.com/us/kyle-smith-and-cynthia-armour-apr-2022</a>
+* <a href="https://www.theknot.com/gs/dashboard/">https://www.theknot.com/gs/dashboard/</a>
 
 ## 2022 To Do
 
 * Jaws popping
 * Wedding planning
-    * Wine: budget
-    * Invites: Spreadsheet
-    * Meaning
-    * Separation agreement
+
+* Wine: budget
+* Invites: Spreadsheet
+* Meaning
+* Separation agreement
+
 * Storage
-    * Coins
-    * Portfolio
-    * Microfilm
-    * Organize
-    * Discuss the visio
+
+* Coins
+* Portfolio
+* Microfilm
+* Organize
+* Discuss the visio
 
 ## 2022-11-13
 
-* \[X\] Shoes
-* Yvonne & Simone ~ treasures ~ saving both of us a ton of guilt
+* [X] Shoes
+* Yvonne &amp; Simone ~ treasures ~ saving both of us a ton of guilt
 * Hip
-    * Elevated Risks for Years After a Hip Fracture
-    * One-year mortality after hip fracture is 21% once the fracture is surgically addressed
-    * all-cause mortality rate was doubled over the course of over 12 years in those who had a hip fracture
+
+* Elevated Risks for Years After a Hip Fracture
+* One-year mortality after hip fracture is 21% once the fracture is surgically addressed
+* all-cause mortality rate was doubled over the course of over 12 years in those who had a hip fracture
+
 * Tania
-    * Will
+
+* Will
+
 * Isabelle
-    * Long term vision
-    * Sophie & Isa
+
+* Long term vision
+* Sophie &amp; Isa
 
 Cynthia ~ Eloise collaboration
-
 Zoom videos recorderd and transcribed with question
-
 ## 2021-10-08
 
 * Able to dance
@@ -379,18 +381,16 @@ Zoom videos recorderd and transcribed with question
 
 WildBride
 
-* [https://www.wildbride.us/](https://www.wildbride.us/) ~ 654 filmore
-* [https://www.instagram.com/wild\_bride/?hl=en](https://www.instagram.com/wild_bride/?hl=en)
+* <a href="https://www.wildbride.us/">https://www.wildbride.us/</a> ~ 654 filmore
+* <a href="https://www.instagram.com/wild_bride/?hl=en">https://www.instagram.com/wild_bride/?hl=en</a>
 
 Wine
 
-* [https://drapervin.com/](https://drapervin.com/)
+* <a href="https://drapervin.com/">https://drapervin.com/</a>
 * Nicolas
 
 Cynthia and Kyle - written in the sky with 50 box kites
-
 Everybody help sand a salad bowl
-
 ## 2021-09-09 ~ call
 
 * Wedding planning
@@ -405,7 +405,6 @@ Everybody help sand a salad bowl
 * Heritage: sense of belonging and intimacy; range of classes, types, mentalities and personas
 
 I hope it goes OK. I hope Cynthia understand that I am trying to let go. I have dreams and aspirations for a family that are unreal. It would be a good thing if I dis-invested myself from hoping and making much effort toward goal that can not be achieved.
-
 ## 2021-02-04
 
 * remarkable pen tips
@@ -426,22 +425,19 @@ I hope it goes OK. I hope Cynthia understand that I am trying to let go. I have 
 * iferte
 * Shoeboxed / dropbox
 * Vinod
-* Updating ICE & my data BEB
+* Updating ICE &amp; my data BEB
 * Charitable donations
 
 ## 2020-04-22 ~ Yoga 940
 
 xps 13 not a flip screen but has touch 1920 x 1080 10th Generation Intel® Core™ i7-10710U (12 MB Cache, 6 Core, up to 4.70 GHz) Intel® UHD Graphics with shared graphics memory 16 GB, LPDDR3, 2133 MHz, Integrated 512 GB M.2 PCIe NVMe Solid-State Drive
-
 Asus 360 screen 1920 x 1080 10th gen Intel Price is $1300 Nvidia MX250 512GB
-
 Acer Predator Has a real GTX not MX GPU DDR4
-
 ## 2020-03-02 ~ Graduation
 
 ## 2020-03-07
 
-[cba@groups.io](mailto:cba@groups.io)
+<a href="mailto:cba@groups.io">cba@groups.io</a>
 
 * Link to AV article
 * Yosemite
@@ -461,8 +457,10 @@ Acer Predator Has a real GTX not MX GPU DDR4
 * Link to AV article
 * Wikipedia edits of interest
 * Paris list
-    * Hotel de Fleurie
-* Updating ICE & my data
+
+* Hotel de Fleurie
+
+* Updating ICE &amp; my data
 * Charitable donations
 
 ## 2019-11-12
@@ -474,7 +472,7 @@ Nature, Choice and Social Power
 
 * Erica Schoenberger
 * On Page 149 (in the doc) there's an interesting comparison of European versus US train system building. And the section on growth/investments/funding is interesting
-* See gdrive > ace-it > cynthia > theo-cynthia for two pdf files
+* See gdrive &gt; ace-it &gt; cynthia &gt; theo-cynthia for two pdf files
 
 ## 2019-08-18
 
@@ -484,11 +482,11 @@ Nature, Choice and Social Power
 
 ## 2019-07-28
 
-* [https://www.tripadvisor.com/Hotel\_Review-g42139-d7263062-Reviews-Aloft\_Detroit\_at\_The\_David\_Whitney-Detroit\_Michigan.html](https://www.tripadvisor.com/Hotel_Review-g42139-d7263062-Reviews-Aloft_Detroit_at_The_David_Whitney-Detroit_Michigan.html)
-* [https://www.tripadvisor.com/Hotel\_Review-g42139-d95294-Reviews-The\_Atheneum-Detroit\_Michigan.html4](https://www.tripadvisor.com/Hotel_Review-g42139-d95294-Reviews-The_Atheneum-Detroit_Michigan.html4)
-* [https://www.tripadvisor.com/Hotel\_Review-g42139-d15121938-Reviews-Element\_Detroit\_At\_The\_Metropolitan-Detroit\_Michigan.html](https://www.tripadvisor.com/Hotel_Review-g42139-d15121938-Reviews-Element_Detroit_At_The_Metropolitan-Detroit_Michigan.html)
-* [https://www.tripadvisor.com/Hotel\_Review-g42139-d15558901-Reviews-The\_Shinola\_Hotel-Detroit\_Michigan.html](https://www.tripadvisor.com/Hotel_Review-g42139-d15558901-Reviews-The_Shinola_Hotel-Detroit_Michigan.html)
-* [https://www.tripadvisor.com/Hotel\_Review-g42139-d12130393-Reviews-Detroit\_Foundation\_Hotel-Detroit\_Michigan.html](https://www.tripadvisor.com/Hotel_Review-g42139-d12130393-Reviews-Detroit_Foundation_Hotel-Detroit_Michigan.html)
+* <a href="https://www.tripadvisor.com/Hotel_Review-g42139-d7263062-Reviews-Aloft_Detroit_at_The_David_Whitney-Detroit_Michigan.html">https://www.tripadvisor.com/Hotel_Review-g42139-d7263062-Reviews-Aloft_Detroit_at_The_David_Whitney-Detroit_Michigan.html</a>
+* <a href="https://www.tripadvisor.com/Hotel_Review-g42139-d95294-Reviews-The_Atheneum-Detroit_Michigan.html4">https://www.tripadvisor.com/Hotel_Review-g42139-d95294-Reviews-The_Atheneum-Detroit_Michigan.html4</a>
+* <a href="https://www.tripadvisor.com/Hotel_Review-g42139-d15121938-Reviews-Element_Detroit_At_The_Metropolitan-Detroit_Michigan.html">https://www.tripadvisor.com/Hotel_Review-g42139-d15121938-Reviews-Element_Detroit_At_The_Metropolitan-Detroit_Michigan.html</a>
+* <a href="https://www.tripadvisor.com/Hotel_Review-g42139-d15558901-Reviews-The_Shinola_Hotel-Detroit_Michigan.html">https://www.tripadvisor.com/Hotel_Review-g42139-d15558901-Reviews-The_Shinola_Hotel-Detroit_Michigan.html</a>
+* <a href="https://www.tripadvisor.com/Hotel_Review-g42139-d12130393-Reviews-Detroit_Foundation_Hotel-Detroit_Michigan.html">https://www.tripadvisor.com/Hotel_Review-g42139-d12130393-Reviews-Detroit_Foundation_Hotel-Detroit_Michigan.html</a>
 * Elizabeth Warren
 * Tech and the city - re-focus on my building
 
@@ -499,8 +497,10 @@ Nature, Choice and Social Power
 * Detroit
 * Butch
 * Conference summary
-    * About large vc-funded companies creating issues for cities - both good and bad -
-    * Left much on the table: for example: how can tech coding help build better cities
+
+* About large vc-funded companies creating issues for cities - both good and bad -
+* Left much on the table: for example: how can tech coding help build better cities
+
 * Yosemite
 * Missoula
 * Christmas
@@ -510,8 +510,8 @@ Nature, Choice and Social Power
 My take
 
 * Given a well designed system, running in an optimal state, guided by intelligent, well meaning people there may still be endemic causes, instances and perpetuation of injustice.
-* [https://poseidon01.ssrn.com/delivery.php?ID=021112125089064109118113067108079024100018018060083089125001014097125118113121086078060055056035060023006069115111113102017118041066034086088125012105021071074120063030084111121120064114088006022075017113095065090112112114087117082118072084065024068&EXT=pdf](https://poseidon01.ssrn.com/delivery.php?ID=021112125089064109118113067108079024100018018060083089125001014097125118113121086078060055056035060023006069115111113102017118041066034086088125012105021071074120063030084111121120064114088006022075017113095065090112112114087117082118072084065024068&EXT=pdf)
-* [https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3345366](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345366)
+* <a href="https://poseidon01.ssrn.com/delivery.php?ID=021112125089064109118113067108079024100018018060083089125001014097125118113121086078060055056035060023006069115111113102017118041066034086088125012105021071074120063030084111121120064114088006022075017113095065090112112114087117082118072084065024068&amp;EXT=pdf">https://poseidon01.ssrn.com/delivery.php?ID=021112125089064109118113067108079024100018018060083089125001014097125118113121086078060055056035060023006069115111113102017118041066034086088125012105021071074120063030084111121120064114088006022075017113095065090112112114087117082118072084065024068&amp;EXT=pdf</a>
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345366">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345366</a>
 * The cases of Allison Liao and Lauren Davis are not isolated injustices. It has been shown empirically that vulnerable road users (VRUs) are regularly blamed for their own deaths.183 After conducting a content analysis of 200 local news reports of crashes resulting in the deaths of people walking and biking, researchers concluded that “coverage tends to shift blame toward VRUs and away from drivers. Coverage almost always treats crashes as isolated incidents, obscuring the public health nature of the problem.”184 The scholars believe this “pattern of coverage likely contributes to the limited public outcry about pedestrian and bicyclist fatalities.”
 * For example, an experienced personal injury lawyer in the space has stated that the NYPD follows an undocumented but rigid “observed violation” rule with regard to the law that requires motorists to yield to pedestrians.209 Under this rule, the police refuse to issue tickets under that law unless they personally observe a motorist violating it.210 Their stated justification is that judges would not uphold the citation unless an officer personally witnessed the incident.211 This rationale is absurd on its face; as the lawyer noted, it posits that a court would require “a higher quality of proof in order to establish a traffic violation” than to establish crimes like murder.
 * . In most places, street parking is given away free of charge without regard to the residency or taxpaying status of the user. Further, street parking is reserved for cars. T
@@ -524,31 +524,34 @@ My take
 * The most important subsidy for driving in the criminal law is in the area of enforcement. Enforcement of laws proscribing striking pedestrians are rarely enforced, even against hit-and-run motorists who kill their victims.509 In a recent study, even where motorists killed someone walking or using a wheelchair, they were charged with some form of homicide less than seven percent of the time. 510 In addition, car-related offenses are frequently defined as violations while ones relating to transit are crimes or otherwise result in graver consequences. Examples abound. In the ordinary course, the maximum penalty for a parking meter or HOV lane violation is a ticket, while boarding a subway or light rail without paying can trigger not only a fine but arrest.511 Ironically, delaying 50 bus passengers by temporarily parking in the bus lane is punishable by ticket, but boarding that same bus with an expired pass can trigger jail time.512 Motorists also enjoy more constitutional privacy protection in their car trunks than people riding the subway or walking down the street with respect to their person or belongings.513 Given the demographic makeup of the transit user base,514 the increased legal jeopardy and physical intrusion by law enforcement to which transit riders are subject cannot be understood without reference to race. Finally, even when motorists kill while driving negligently or recklessly, it can be difficult to secure a jury verdict of homicide. 515 For this reason, legislatures created a special category of homicide—vehicular manslaughter— for homicides committed with a car, 516 which is a lesser offense.
 
 Law’s function is not only substantive but expressive, and of course in the real world these roles feed on each other. 518 Motorists today can make reckless choices that erase human life secure in the knowledge that they will not have to face the consequences.
-
 ## 2018-11-29 ~ C+K stop by in SF
 
 * Christmas plans
-    * Planes, trains and cars
-    * Uber all the way? ;-)
+
+* Planes, trains and cars
+* Uber all the way? ;-)
+
 * Dispersal of heirlooms
-    * to storage first
+
+* to storage first
+
 * Disposal of bikes / walker
 * Larry Schell contact
 * Alix news
 * Mailing lists
 * Establishing clannish behaviors
 
-Studies \*New peeps at level of Geronimus & Arnstein?
+Studies *New peeps at level of Geronimus &amp; Arnstein?
 
-* teaching and grading \*Presentation and papers
+* teaching and grading *Presentation and papers
 * Internships / jobs
 
 ## Summer 2018
 
 Cynthia / Cal folder
 
-* [https://drive.google.com/drive/folders/0B6CqfRSpvPf3Z2FjYXl6SmdLNFk](https://drive.google.com/drive/folders/0B6CqfRSpvPf3Z2FjYXl6SmdLNFk)
-* [https://docs.google.com/spreadsheets/d/12zc\_ybWXQG\_ryFPN5\_OU3q4xioH8A6aYSsnKidsXYqw/edit?ts=5a34727e#gid=0](https://docs.google.com/spreadsheets/d/12zc_ybWXQG_ryFPN5_OU3q4xioH8A6aYSsnKidsXYqw/edit?ts=5a34727e#gid=0)
+* <a href="https://drive.google.com/drive/folders/0B6CqfRSpvPf3Z2FjYXl6SmdLNFk">https://drive.google.com/drive/folders/0B6CqfRSpvPf3Z2FjYXl6SmdLNFk</a>
+* <a href="https://docs.google.com/spreadsheets/d/12zc_ybWXQG_ryFPN5_OU3q4xioH8A6aYSsnKidsXYqw/edit?ts=5a34727e#gid=0">https://docs.google.com/spreadsheets/d/12zc_ybWXQG_ryFPN5_OU3q4xioH8A6aYSsnKidsXYqw/edit?ts=5a34727e#gid=0</a>
 
 ## Autonomous Vehicles
 
@@ -558,94 +561,87 @@ A friend of a friend suggests that the benefits of autonomous vehicle may be qui
 
 ### Organizations
 
-* [https://meridianmobility.tech/](https://meridianmobility.tech/)
-    * Meridian was created by government and industry to focus on key areas of UK capability in the global Connected and Autonomous Vehicle (CAV) sector which is predicted to be worth £907 billion by 2035. These include advanced development and validation, connected environments, data and cyber security and new service development.
+* <a href="https://meridianmobility.tech/">https://meridianmobility.tech/</a>
+
+* Meridian was created by government and industry to focus on key areas of UK capability in the global Connected and Autonomous Vehicle (CAV) sector which is predicted to be worth £907 billion by 2035. These include advanced development and validation, connected environments, data and cyber security and new service development.
 
 ### Sources
 
-* [https://www.reddit.com/r/SelfDrivingCars/](https://www.reddit.com/r/SelfDrivingCars/)
-    * See right-side menu
-* [https://www.reddit.com/r/Futurology/](https://www.reddit.com/r/Futurology/)
-* [https://www.reddit.com/search?q=autonomous+vehicle](https://www.reddit.com/search?q=autonomous+vehicle)
-* [https://readwrite.com/?s=vehicle](https://readwrite.com/?s=vehicle)
+* <a href="https://www.reddit.com/r/SelfDrivingCars/">https://www.reddit.com/r/SelfDrivingCars/</a>
+
+* See right-side menu
+
+* <a href="https://www.reddit.com/r/Futurology/">https://www.reddit.com/r/Futurology/</a>
+* <a href="https://www.reddit.com/search?q=autonomous+vehicle">https://www.reddit.com/search?q=autonomous+vehicle</a>
+* <a href="https://readwrite.com/?s=vehicle">https://readwrite.com/?s=vehicle</a>
 
 ### About
 
-* [https://techcrunch.com/2018/05/14/apples-self-driving-car-fleet-grows-to-55-in-california/](https://techcrunch.com/2018/05/14/apples-self-driving-car-fleet-grows-to-55-in-california/)
+* <a href="https://techcrunch.com/2018/05/14/apples-self-driving-car-fleet-grows-to-55-in-california/">https://techcrunch.com/2018/05/14/apples-self-driving-car-fleet-grows-to-55-in-california/</a>
 
 ## Links of possible interest
 
-[https://docs.google.com/document/d/1GUfOr58BivJkmM57qMljQce07khRmLNtD5GqXSAUf1U/edit](https://docs.google.com/document/d/1GUfOr58BivJkmM57qMljQce07khRmLNtD5GqXSAUf1U/edit)
-
-One weird trick to end gerrymandering: cake-cutting game theory [https://boingboing.net/2017/11/06/one-weird-trick-to-end-gerryma.html](https://boingboing.net/2017/11/06/one-weird-trick-to-end-gerryma.html)
-
+<a href="https://docs.google.com/document/d/1GUfOr58BivJkmM57qMljQce07khRmLNtD5GqXSAUf1U/edit">https://docs.google.com/document/d/1GUfOr58BivJkmM57qMljQce07khRmLNtD5GqXSAUf1U/edit</a>
+One weird trick to end gerrymandering: cake-cutting game theory <a href="https://boingboing.net/2017/11/06/one-weird-trick-to-end-gerryma.html">https://boingboing.net/2017/11/06/one-weird-trick-to-end-gerryma.html</a>
 ## ucb-mph-strategy-pdf
 
-[http://sph.berkeley.edu/sites/default/files/2015-2020\_Strategy.pdf](http://sph.berkeley.edu/sites/default/files/2015-2020_Strategy.pdf)
+<a href="http://sph.berkeley.edu/sites/default/files/2015-2020_Strategy.pdf">http://sph.berkeley.edu/sites/default/files/2015-2020_Strategy.pdf</a>
 
 * No links
 * No footnotes
 * No author credits
 * No open license - All rights reserved.
 * No stats/data/evidence
-* Not SMART-enabled ~ [https://en.wikipedia.org/wiki/SMART\_criteria](https://en.wikipedia.org/wiki/SMART_criteria)
+* Not SMART-enabled ~ <a href="https://en.wikipedia.org/wiki/SMART_criteria">https://en.wikipedia.org/wiki/SMART_criteria</a>
 
-Typical marketing document designed to lure partially-engaged peeps to donate Promulgates US charity-driven donations over European tax-driven funding \*Walter Reuther vs Aneurin Bevin
+Typical marketing document designed to lure partially-engaged peeps to donate Promulgates US charity-driven donations over European tax-driven funding *Walter Reuther vs Aneurin Bevin
 
 * AMA Pushes for one-off disruptions rather than long-term engagement Written for sixth grade English skills No existing partnerships highlighted
 
 To what extent is the UCB SPH complicit - a creator/promoter/supporter the current lack of health of the average American? Is it the enemy?
-
 ## Wicked problems
 
-[https://en.wikipedia.org/wiki/Wicked\_problem](https://en.wikipedia.org/wiki/Wicked_problem)
-
+<a href="https://en.wikipedia.org/wiki/Wicked_problem">https://en.wikipedia.org/wiki/Wicked_problem</a>
 contrast with
-
-[https://en.wikipedia.org/wiki/Pattern\_language](https://en.wikipedia.org/wiki/Pattern_language)
-
+<a href="https://en.wikipedia.org/wiki/Pattern_language">https://en.wikipedia.org/wiki/Pattern_language</a>
 The elements of the language are entities called patterns. Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.
-
 ## A Ladder Of Citizen Participation
 
 Sherry R. Arnstein
 
-* [https://en.wikipedia.org/wiki/Sherry\_Arnstein](https://en.wikipedia.org/wiki/Sherry_Arnstein)
-* [http://www.aacom.org/news-and-events/publications/iome/2015/july-august-2015/Arnstein-bio](http://www.aacom.org/news-and-events/publications/iome/2015/july-august-2015/Arnstein-bio)
+* <a href="https://en.wikipedia.org/wiki/Sherry_Arnstein">https://en.wikipedia.org/wiki/Sherry_Arnstein</a>
+* <a href="http://www.aacom.org/news-and-events/publications/iome/2015/july-august-2015/Arnstein-bio">http://www.aacom.org/news-and-events/publications/iome/2015/july-august-2015/Arnstein-bio</a>
 
 ## Copyable text
 
-* [https://lithgow-schmidt.dk/sherry-arnstein/ladder-of-citizen-participation.html](https://lithgow-schmidt.dk/sherry-arnstein/ladder-of-citizen-participation.html)
-* [http://peggymouldercampaign2014.com/wp-content/uploads/2014/10/Connie\_Tucker\_Handout\_CBPR\_Ladder.pdf](http://peggymouldercampaign2014.com/wp-content/uploads/2014/10/Connie_Tucker_Handout_CBPR_Ladder.pdf)
-* [http://www.participatorymethods.org/sites/participatorymethods.org/files/Arnstein%20ladder%201969.pdf](http://www.participatorymethods.org/sites/participatorymethods.org/files/Arnstein%20ladder%201969.pdf)
+* <a href="https://lithgow-schmidt.dk/sherry-arnstein/ladder-of-citizen-participation.html">https://lithgow-schmidt.dk/sherry-arnstein/ladder-of-citizen-participation.html</a>
+* <a href="http://peggymouldercampaign2014.com/wp-content/uploads/2014/10/Connie_Tucker_Handout_CBPR_Ladder.pdf">http://peggymouldercampaign2014.com/wp-content/uploads/2014/10/Connie_Tucker_Handout_CBPR_Ladder.pdf</a>
+* <a href="http://www.participatorymethods.org/sites/participatorymethods.org/files/Arnstein%20ladder%201969.pdf">http://www.participatorymethods.org/sites/participatorymethods.org/files/Arnstein%20ladder%201969.pdf</a>
 
 ### References
 
-* [http://www.eltis.org/sites/eltis/files/trainingmaterials/challenge\_participation\_final.pdf](http://www.eltis.org/sites/eltis/files/trainingmaterials/challenge_participation_final.pdf)
-    * Lengthy and many clickable links
-* [https://en.wikipedia.org/wiki/Participation\_(decision\_making](https://en.wikipedia.org/wiki/Participation_\(decision_making\))
-* [http://www.citizenshandbook.org/arnsteinsladder.html](http://www.citizenshandbook.org/arnsteinsladder.html)
-* [http://www.bangthetable.com/ladder-of-citizen-participation/](http://www.bangthetable.com/ladder-of-citizen-participation/)
-* [https://acawiki.org/A\_Ladder\_of\_Citizen\_Participation](https://acawiki.org/A_Ladder_of_Citizen_Participation)
-* [http://geog.sdsu.edu/People/Pages/jankowski/public\_html/web780/Connor\_1988.pdf](http://geog.sdsu.edu/People/Pages/jankowski/public_html/web780/Connor_1988.pdf) << lengthy article
-* [http://partnerships.org.uk/part/arn.htm](http://partnerships.org.uk/part/arn.htm)
-* [https://www.slideshare.net/NicolaiSidek/ladder-of-citizen-participation-journal-review](https://www.slideshare.net/NicolaiSidek/ladder-of-citizen-participation-journal-review)
-* [http://www.academia.edu/22518577/ARNSTEIN\_S\_LADDER\_OF\_CITIZEN\_PARTICIPATION\_A\_CRITICAL\_DISCUSSION](http://www.academia.edu/22518577/ARNSTEIN_S_LADDER_OF_CITIZEN_PARTICIPATION_A_CRITICAL_DISCUSSION)
+* <a href="http://www.eltis.org/sites/eltis/files/trainingmaterials/challenge_participation_final.pdf">http://www.eltis.org/sites/eltis/files/trainingmaterials/challenge_participation_final.pdf</a>
+
+* Lengthy and many clickable links
+
+* <a href="https://en.wikipedia.org/wiki/Participation_(decision_making)">https://en.wikipedia.org/wiki/Participation_(decision_making</a>
+* <a href="http://www.citizenshandbook.org/arnsteinsladder.html">http://www.citizenshandbook.org/arnsteinsladder.html</a>
+* <a href="http://www.bangthetable.com/ladder-of-citizen-participation/">http://www.bangthetable.com/ladder-of-citizen-participation/</a>
+* <a href="https://acawiki.org/A_Ladder_of_Citizen_Participation">https://acawiki.org/A_Ladder_of_Citizen_Participation</a>
+* <a href="http://geog.sdsu.edu/People/Pages/jankowski/public_html/web780/Connor_1988.pdf">http://geog.sdsu.edu/People/Pages/jankowski/public_html/web780/Connor_1988.pdf</a> &lt;&lt; lengthy article
+* <a href="http://partnerships.org.uk/part/arn.htm">http://partnerships.org.uk/part/arn.htm</a>
+* <a href="https://www.slideshare.net/NicolaiSidek/ladder-of-citizen-participation-journal-review">https://www.slideshare.net/NicolaiSidek/ladder-of-citizen-participation-journal-review</a>
+* <a href="http://www.academia.edu/22518577/ARNSTEIN_S_LADDER_OF_CITIZEN_PARTICIPATION_A_CRITICAL_DISCUSSION">http://www.academia.edu/22518577/ARNSTEIN_S_LADDER_OF_CITIZEN_PARTICIPATION_A_CRITICAL_DISCUSSION</a>
 
 ### A working model for public participation. - History of Social Work
 
-* [https://www.historyofsocialwork.org/1969\_ENG\_Ladderofparticipation/1975,%20%20Arnstein,%20a%20working%20model%20OCR%20C.pdf](https://www.historyofsocialwork.org/1969_ENG_Ladderofparticipation/1975,%20%20Arnstein,%20a%20working%20model%20OCR%20C.pdf)
+* <a href="https://www.historyofsocialwork.org/1969_ENG_Ladderofparticipation/1975,%20%20Arnstein,%20a%20working%20model%20OCR%20C.pdf">https://www.historyofsocialwork.org/1969_ENG_Ladderofparticipation/1975,%20%20Arnstein,%20a%20working%20model%20OCR%20C.pdf</a>
 
 ## TO DENIGRATE, IGNORE, OR DISRUPT
 
 Racial Inequality in Health and the Impact of a Policy-induced Breakdown of African American Communities
-
-Arline T. Geronimus Department of Health Behavior and Health Education, University of Michigan [https://en.wikipedia.org/wiki/Arline\_Geronimus](https://en.wikipedia.org/wiki/Arline_Geronimus)
-
-[https://www.ncbi.nlm.nih.gov/pubmed/1467758](https://www.ncbi.nlm.nih.gov/pubmed/1467758)
-
-[http://guide.berkeley.edu/courses/cy\_plan/](http://guide.berkeley.edu/courses/cy_plan/)
-
-[https://www.law.berkeley.edu/php-programs/courses/coursePage.php?cID=20179&termCode=D&termYear=2017](https://www.law.berkeley.edu/php-programs/courses/coursePage.php?cID=20179&termCode=D&termYear=2017)
-
-## [http://bradmax25.blogspot.com/](http://bradmax25.blogspot.com/)
+Arline T. Geronimus Department of Health Behavior and Health Education, University of Michigan <a href="https://en.wikipedia.org/wiki/Arline_Geronimus">https://en.wikipedia.org/wiki/Arline_Geronimus</a>
+<a href="https://www.ncbi.nlm.nih.gov/pubmed/1467758">https://www.ncbi.nlm.nih.gov/pubmed/1467758</a>
+<a href="http://guide.berkeley.edu/courses/cy_plan/">http://guide.berkeley.edu/courses/cy_plan/</a>
+<a href="https://www.law.berkeley.edu/php-programs/courses/coursePage.php?cID=20179&amp;termCode=D&amp;termYear=2017">https://www.law.berkeley.edu/php-programs/courses/coursePage.php?cID=20179&amp;termCode=D&amp;termYear=2017</a>
+## <a href="http://bradmax25.blogspot.com/">http://bradmax25.blogspot.com/</a>
