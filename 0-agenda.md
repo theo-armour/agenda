@@ -3,15 +3,15 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 
-
-* 2024-11-29: people tell you stories you did ask for.&nbsp;
 * 2024-12-01:&nbsp;You can't lie your way into code compiling.
 
 <!-- this is a comment -->
 ## Today
 
 * ?
+* Nancy Trogman: dinner ~ font designer
+* 
+
 * Johnson: Move tapas party date&nbsp;
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
@@ -19,6 +19,7 @@
 ## SOON
 
 * ++
+* Jewely appraisal
 * Outlook email replies
 * PPH &gt; Genualdi: check report? Care plan?
 * Cynthia: guest room? Share? dates on cal
