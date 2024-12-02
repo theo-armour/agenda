@@ -10,8 +10,6 @@
 
 * ?
 * Nancy Trogman: dinner ~ font designer
-* 
-
 * Johnson: Move tapas party date&nbsp;
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
@@ -19,7 +17,7 @@
 ## SOON
 
 * ++
-* Jewely appraisal
+* Storage: Jewelry appraisal
 * Outlook email replies
 * PPH &gt; Genualdi: check report? Care plan?
 * Cynthia: guest room? Share? dates on cal
