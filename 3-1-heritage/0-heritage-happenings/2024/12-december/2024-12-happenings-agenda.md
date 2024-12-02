@@ -1,5 +1,6 @@
 # Heritage Happenings December Issue Agenda
 
+## Running Agenda* Calendar to CSV
 ## Review of November Issue
 
 * Did anybody have any issuers with the October issue?
@@ -11,7 +12,7 @@
 * **[x] Cameo Image** <a href="https://www.flickr.com/photos/jikatu/5919534691">https://www.flickr.com/photos/jikatu/5919534691</a>
 * <a href="https://en.wikipedia.org/wiki/El_Salvador">https://en.wikipedia.org/wiki/El_Salvador</a>
 * <a href="https://en.wikipedia.org/wiki/Flag_of_El_Salvador">https://en.wikipedia.org/wiki/Flag_of_El_Salvador</a>
-* [x] create an image a Mayan youth blowing a Mayan trumpet
+<li class="task-list-item" style="list-style-type: none;"><input type="checkbox" disabled="" style="margin: 0px 0.35em 0.25em -1.6em; vertical-align: middle;" checked=""> create an image a Mayan youth blowing a Mayan trumpet
 
 ## Events
 
