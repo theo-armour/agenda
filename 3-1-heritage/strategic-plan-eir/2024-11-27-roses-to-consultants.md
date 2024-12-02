@@ -8,16 +8,17 @@ The Roses of 3400 Laguna ~ https://heritage-happenings.github.io/pages/2024/eir/
 Julia Morgan Building: Character Defining Features ~ https://heritage-happenings.github.io/pages/2024/eir/julia-morgan-building-character-defining-features.pdf
 Theo Armour: EIR Comments Cover Letter ~ https://heritage-happenings.github.io/pages/2024/eir/theo-armour-eir-comments-cover-letter.pdf
 
-I would be pleased to receive your observations on these documents. I have never practiced architecture in San Francisco. Kindly excuse any errors and omissions in my comments. I do hope that some of my observations will helpful in adding detail to the the listing of items that are character defining features of the building.
+I would be pleased to receive your observations on these documents. I have never practiced architecture in San Francisco. Kindly excuse any errors and omissions in my comments. I do hope that some of my observations might be helpful in adding detail to the listing of items that are character defining features of the building — without in any way slowing down the strategic plan for Heritage on the Marina.
 
-Cheers and happy Thanksgiving,
+Cheers and happy holidays
 
 Theo
 
 ❧ ❧ ❧
 
-Theo Armour ~ BA AADip, former RIBA & HKIA
+Theo Armour ~ ( BA AADip, former RIBA & HKIA ;-)
 415 828 0000
 t.armour@gmail.com
+3400 Laguna Street #227
 
 

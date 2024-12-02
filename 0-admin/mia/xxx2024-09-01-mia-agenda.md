@@ -1,18 +1,18 @@
-# 2024-09-01 mia agenda
+## 2024-09-01 mia agenda
 
-## TimeTracker
+### TimeTracker
 
 I added a new calculations and titles. I agree that as today we are clear (unless you did more time since )
 
 Would you prefer being paid once a month or twice a month?
 
-## Duck Tales
+### Duck Tales
 
 * Phone Granucci
 * Retitle files
 * One pager
 
-## Events
+### Events
 
 * Check the dates for the events
 
