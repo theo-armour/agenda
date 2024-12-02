@@ -9,7 +9,7 @@
 * Finish hand
 
 ## 2024-12-02
-* Shares: next timw* Room here
+* Shares: next timw* Room here* Pink sheet update with Martha
 ## 2024-11-11
 
 * Lolo
