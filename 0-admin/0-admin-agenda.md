@@ -6,7 +6,6 @@
 
 * ?
 * Josh: stocks to children?
-* Check Kaiser Payment: Blue Shield?
 * DWA: $30K? for ACE
 * Nov 5: recommendations
 * Nov 5: Ballot prepared
