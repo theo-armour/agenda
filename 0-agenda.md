@@ -255,6 +255,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
+* Start a personal timeline ~ use Markwhen format
 * Update Wix user name
 * Trmnl: dev access
 * Sensay ~ audiopen ~ seo
