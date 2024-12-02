@@ -16,14 +16,15 @@
 ## Today
 
 * ?
+* Johnson: Move tapas party date&nbsp;
 * Peyton: hello theater
-* 
-
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 
 ## SOON
 
 * ++
+* PPH &gt; Genualdi: check report? Care plan?
+* Cynthia: guest room? Share?
 * Assurant:&nbsp;877-406-4372
 * Call pharmerica:&nbsp;1-888-588-1633.
 * Ange: cookie images
@@ -84,7 +85,7 @@ Waiting
 **Health**
 
 -->
-<details open="">
+<details>
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
