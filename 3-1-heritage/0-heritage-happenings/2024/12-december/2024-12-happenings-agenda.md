@@ -9,6 +9,9 @@
 * **Around the World** El Salvador
 * **Colors** Cobalt Blue & White
 * **Cameo Image** https://www.flickr.com/photos/jikatu/5919534691
+* https://en.wikipedia.org/wiki/El_Salvador
+* https://en.wikipedia.org/wiki/Flag_of_El_Salvador
+* create an image a Mayan youth blowing a Mayan trumpet
 
 ## Events
 
