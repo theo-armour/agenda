@@ -68,7 +68,6 @@
 * A: mike ~&nbsp;
 * Winter shoes
 * EyeBuyDirect: small specs?
-* John King ~ The Portal book
 
 Waiting
 
