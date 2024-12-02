@@ -6,10 +6,6 @@
 
 * ?
 * Josh: stocks to children?
-* DWA: $30K? for ACE
-* Nov 5: recommendations
-* Nov 5: Ballot prepared
-* Lawrence: pay by Zelle
 
 Waiting
 ## DWA + Pershing
