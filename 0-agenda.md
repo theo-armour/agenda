@@ -24,7 +24,7 @@
 
 * ++
 * PPH &gt; Genualdi: check report? Care plan?
-* Cynthia: guest room? Share?
+* Cynthia: guest room? Share? dates on cal
 * Assurant:&nbsp;877-406-4372
 * Call pharmerica:&nbsp;1-888-588-1633.
 * Ange: cookie images
@@ -46,7 +46,7 @@
 **Admin**
 
 -->
-<details>
+<details open="">
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
