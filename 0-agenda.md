@@ -17,14 +17,16 @@
 
 * ?
 * Peyton: hello theater
-* Assurant:&nbsp;877-406-4372
-* Call pharmerica
-* Ange: cookie images
+* 
+
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 
 ## SOON
 
 * ++
+* Assurant:&nbsp;877-406-4372
+* Call pharmerica:&nbsp;1-888-588-1633.
+* Ange: cookie images
 * Cynthia: money
 * Steve Gordon: jon
 * SiSi: home help
