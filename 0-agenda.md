@@ -107,7 +107,7 @@ Waiting
 **Simplicity**
 
 -->
-<details open="">
+<details>
 
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
@@ -127,7 +127,7 @@ Waiting
 **ACE IT**
 
 -->
-<details>
+<details open="">
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
