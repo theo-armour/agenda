@@ -23,6 +23,7 @@
 ## SOON
 
 * ++
+* Outlook email replies
 * PPH &gt; Genualdi: check report? Care plan?
 * Cynthia: guest room? Share? dates on cal
 * Assurant:&nbsp;877-406-4372
