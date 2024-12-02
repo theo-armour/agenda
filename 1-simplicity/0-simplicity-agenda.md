@@ -8,9 +8,7 @@ Armour Collection Item Selector
 
 ## Theo
 
-* 
-
-* Start a personal timeline
+* See Mia
 * Spec to Sandberg
 
 ## Claudia
@@ -32,4 +30,4 @@ Armour Collection Item Selector
 
 ## Lawrence Fine Art
 
-* Lawrence: last extra pay in Feb?
+* ++
