@@ -46,7 +46,7 @@
 **Admin**
 
 -->
-<details open="">
+<details>
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -57,7 +57,7 @@
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
@@ -65,7 +65,7 @@
 * ?
 * S: Chia seeds
 * Plateau chair
-* A: mike ~ fiber bars
+* A: mike ~&nbsp;
 * Winter shoes
 * EyeBuyDirect: small specs?
 * John King ~ The Portal book
