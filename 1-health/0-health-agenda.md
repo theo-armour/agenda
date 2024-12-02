@@ -4,10 +4,9 @@
 
 * ?
 * 2024-11-26: Dr Grnualdi: prepare report
-* Daniel B: ??
 * Sports medicine reference
+* Daniel B: ?? 17th
 * Colonoscopy report??
-
 
 ## Agenda
 
@@ -43,7 +42,6 @@
 * Statins?
 * Margaret Jacobs: <a href="https://www.alignmenthealthplan.com/">https://www.alignmenthealthplan.com/</a> ~ free lunch?
 
-
 ## Work-in-progress
 
 * <a href="https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc">https://www.mdcalc.com/calc/3398/ascvd-atherosclerotic-cardiovascular-disease-2013-risk-calculator-aha-acc</a>
@@ -61,7 +59,6 @@
 ### Heritage
 
 See 1-heritage/health/0-health-agenda
-
 Martha Nkhoma
 
 * Follow-up on email of
@@ -71,7 +68,6 @@ Martha Nkhoma
 ### PPH ~ Gary Richmond: msg
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">1.2 PPH</a>
-
 ## Lists
 
 ## Not to forget
