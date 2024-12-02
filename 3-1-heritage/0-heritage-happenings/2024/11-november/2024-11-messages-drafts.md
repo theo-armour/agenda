@@ -5,6 +5,7 @@
 * Mia
 * Roxana
 * Stephen
+* Jeanne
 
 ## Heritage Happenings Newsletter Monthly Draft
 
@@ -62,7 +63,7 @@ Please review and provide feedback.
 * Stephen
 * Patti
 * Front Office
-* Kayla
+* Melissa
 * Angie
 
 
