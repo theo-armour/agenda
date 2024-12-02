@@ -8,8 +8,7 @@ Armour Collection Item Selector
 
 ## Theo
 
-* Stout: ready for books?
-* Start a personal timeline
+* See Mia
 * Spec to Sandberg
 
 ## Claudia
@@ -31,4 +30,4 @@ Armour Collection Item Selector
 
 ## Lawrence Fine Art
 
-* Lawrence: last extra pay in Feb?
+* ++

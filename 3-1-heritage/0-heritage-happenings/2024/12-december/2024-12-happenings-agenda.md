@@ -7,15 +7,15 @@
 ## Theme
 
 * **Around the World** El Salvador
-* **Colors** Cobalt Blue & White
-* **Cameo Image** https://www.flickr.com/photos/jikatu/5919534691
-* https://en.wikipedia.org/wiki/El_Salvador
-* https://en.wikipedia.org/wiki/Flag_of_El_Salvador
-* create an image a Mayan youth blowing a Mayan trumpet
+* **Colors** Cobalt Blue &amp; White
+* **[x] Cameo Image** <a href="https://www.flickr.com/photos/jikatu/5919534691">https://www.flickr.com/photos/jikatu/5919534691</a>
+* <a href="https://en.wikipedia.org/wiki/El_Salvador">https://en.wikipedia.org/wiki/El_Salvador</a>
+* <a href="https://en.wikipedia.org/wiki/Flag_of_El_Salvador">https://en.wikipedia.org/wiki/Flag_of_El_Salvador</a>
+* [x] create an image a Mayan youth blowing a Mayan trumpet
 
 ## Events
 
-* https://sfrecpark.org/CivicAlerts.aspx?AID=1961 ~ 2024-12-05 5 to 6
+* <a href="https://sfrecpark.org/CivicAlerts.aspx?AID=1961">https://sfrecpark.org/CivicAlerts.aspx?AID=1961</a> ~ 2024-12-05 5 to 6
 * Next Village? 12/13 ~ Marina Green
 * Xmas
 * New Year
@@ -25,7 +25,6 @@
 * Rod: RC notes
 * Patrick: France story
 
-
 ## Residents
 
 * Bob Granucci Mia: Ducks #4
@@ -33,7 +32,7 @@
 * Jane: ??
 * Margaret Jacobs: ??
 * Margaret Johnson: Petra
-* Martha Nell: Tom & Val
+* Martha Nell: Tom &amp; Val
 * Martha Nell: Library new acquisitions: none
 * Sheila: ??
 * Stela: head start: Jeanne
@@ -46,18 +45,17 @@
 
 * ??
 
-
 ## Notes
 
 * Return to publishing before the 1st of the month
-* Liaison with Next Village ~ https://nextvillagesf.org/
+* Liaison with Next Village ~ <a href="https://nextvillagesf.org/">https://nextvillagesf.org/</a>
 
 ### Staff
 
 * Angie:
 * Jon Casey:
 * Hector: Updates
-* Martha & Vada: Health:
+* Martha &amp; Vada: Health:
 * Brittany: Bones: scan
 * Roxanne: Health: ??
 * Mary: ?

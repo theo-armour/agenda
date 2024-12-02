@@ -3,31 +3,34 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2024-11-17:&nbsp;Bucky’s prediction of “spontaneous cooperation,”
-* 2024-11-17: ?: The obstacle is the way. The obstacle is the signpost.&nbsp;You are&nbsp;the obstacle. The obstacle points the way, but is it the right way
-* 2024-11-21: finish what you've started before you start a second thing to finish
-* Finish something before starting something
-* Finish things before starting things
-* Always say yes to an offer ~&nbsp;always say yes to a counter offer to your offer
-* 2024-11-29: people tell you stories you did ask for.&nbsp;
 * 2024-12-01:&nbsp;You can't lie your way into code compiling.
 
 <!-- this is a comment -->
 ## Today
 
 * ?
-* NNnews: image
-* HHcal: to peeps
+* Goodwill
+* Laundry
+* HH: template
+* Nancy Trogman: dinner ~ font designer
+* Johnson: Move tapas party date&nbsp;
 * Peyton: hello theater
-* Assurant:&nbsp;877-406-4372
-* Call pharmerica
-* Ange: cookie images
-* Cynthia: money
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 
 ## SOON
 
 * ++
+* NV Amt: invite
+* Fromagerie image
+* Hover: joystick try
+* Storage: Jewelry appraisal
+* Outlook email replies
+* PPH &gt; Genualdi: check report? Care plan?
+* Cynthia: guest room? Share? dates on cal
+* Assurant:&nbsp;877-406-4372
+* Call pharmerica:&nbsp;1-888-588-1633.
+* Ange: cookie images
+* Cynthia: money
 * Steve Gordon: jon
 * SiSi: home help
 * Boxing Day
@@ -35,9 +38,9 @@
 * Tom Johnson: wine
 * Joel P:
 * Mia: HH: to the web
-* Hover: joystick try
+* 
+
 * Mary: HH+NV ~ hector ~ PPH
-* 3400 Roses: to consultants
 
 ***
 
@@ -69,10 +72,9 @@
 * ?
 * S: Chia seeds
 * Plateau chair
-* A: mike ~ fiber bars
+* A: mike ~&nbsp;
 * Winter shoes
 * EyeBuyDirect: small specs?
-* John King ~ The Portal book
 
 Waiting
 
@@ -151,6 +153,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
 * ++
+* fix link
 * Netflix: ace-i
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a>
@@ -187,7 +190,7 @@ Waiting
 **Peeps**
 
 -->
-<details open="">
+<details>
 
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.2 Peeps</a>
@@ -200,7 +203,7 @@ Waiting
 **Entities**
 
 -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
@@ -227,14 +230,12 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
 
 * ++
-* Pam F: food committee notes
-* Attend Food committee
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/12-december/2024-12-happenings-agenda.md&quot;">december</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings</a>
@@ -258,12 +259,13 @@ Waiting
 **Projects**
 
 -->
-<details open="">
+<details>
 
 <summary>projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
+* Start a personal timeline ~ use MarkWhen format
 * Update Wix user name
 * Trmnl: dev access
 * Sensay ~ audiopen ~ seo

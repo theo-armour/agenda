@@ -10,7 +10,6 @@
 * Tim Lattimore
 * Christine &amp; Pam
 * Ronan: PLE ~ endiatx ~ jason ~ intro text
-* Mike Marean: zoom&nbsp;
 * Ray Eisenberg
 * Tim Child
 * Christine&nbsp;<a href="https://www.freefuse.com/">https://www.freefuse.com/</a>
@@ -23,7 +22,7 @@
 * Blick
 * Manfred
 * Visit the doyles with Jane
-* Fred & Laon Burke: lunch invite
+* Fred &amp; Laon Burke: lunch invite
 * Ronan: DWA policies
 * Vish: iqLand: building codes ~ pdf AI
 * Quentin
@@ -33,7 +32,7 @@
 * Ashley Emory
 * Jerome: dorkbot ~ art scene ~ mushroom drink
 * Sherry ~ email ~ mexsp
-* Rob&Bennet: Remembery ~ Gusty: puzzle train
+* Rob&amp;Bennet: Remembery ~ Gusty: puzzle train
 * Marissa ~ meal invite
 * Paul Masson:
 * Drake Tam: The Key
@@ -44,7 +43,7 @@
 ## Peeps 2024-05-03
 
 * Anders Grigel:
-* Anders ~ Jurgen Habermas & the bourgeois public ~ Jena Germany sphere
+* Anders ~ Jurgen Habermas &amp; the bourgeois public ~ Jena Germany sphere
 * Andranik
 * Aselia A:
 * Arvind Saxena:
@@ -54,10 +53,10 @@
 * Jason Carman:
 * JenCarPey: A
 * Jonathen Liao: dinner here late January
-* Jonathan K Rubin, \\415 215 3724
+* Jonathan K Rubin, \415 215 3724
 * Jorge Vasquez: Michael Merrill
 * Jose Leos:
-* Kathy & Richard: thanks
+* Kathy &amp; Richard: thanks
 * Khoren: Myint
 * Larry Albukerk: back early August
 * Laura Wagner:
@@ -107,7 +106,7 @@
 * whoop?
 * To Kill
 * Bay Guardian
-* [https://www.sfbg.com/2022/10/10/endorsements-fall-2022/](https://www.sfbg.com/2022/10/10/endorsements-fall-2022/)
+* <a href="https://www.sfbg.com/2022/10/10/endorsements-fall-2022/">https://www.sfbg.com/2022/10/10/endorsements-fall-2022/</a>
 
 ## Alix Paine
 
@@ -198,17 +197,15 @@
 * Peter McM
 * Mad VonM
 * Jason Allen
-* Shoeboxed \[\] AlixP / Abby \[\] Doug Dwyer \[\] Bill Kennedy / Randy
-* Drew?? Willito / Raymond / Drew \[\] Johan / Micha: takeaways from meeting/ new GH org \[\] Dr Yoga
+* Shoeboxed [] AlixP / Abby [] Doug Dwyer [] Bill Kennedy / Randy
+* Drew?? Willito / Raymond / Drew [] Johan / Micha: takeaways from meeting/ new GH org [] Dr Yoga
 
 ***
 
 ## 2020-07-26
 
 Sometime in the 17th of August I will move from where I've been living for 20 years into an independent living facility.
-
 This will be a self-inflicted game changer
-
 I will move from
 
 * Living by myself to living with 200
@@ -225,11 +222,8 @@ I could have chosen a bigger space, I chose smallest. Live like a nun. Bare mini
 * A bed, a chair, a desk, computer and wifi
 
 if I can live with Justice, this would be wonderful. if I cannot then well let's move me up to a larger space.
-
 more fun to start small and then move up instead of starting so much smaller and then having to go to even smaller
-
 This should significantly decrease my cost of living
-
 Currently
 
 * ~$4.000 per month for housing
@@ -262,7 +256,7 @@ New friends
 
 Benefits
 
-* Healthy diet - my current diet is what I choose to buy. It is not as varied and all-inclusib\]ve as what a nutritionist would specify
+* Healthy diet - my current diet is what I choose to buy. It is not as varied and all-inclusib]ve as what a nutritionist would specify
 * Night-owl push-back ~ be a regular person
 * Walkability
 * Much cheaper entertaining
