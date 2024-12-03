@@ -7,9 +7,16 @@
 * Rio Vista city: California Forever: Solano County ~ Rio Vista ! 2 year EIR
 * Wallet Drawing
 * Finish hand
+* Mariposa
 
 ## 2024-12-02
-* Shares: next timw* Room here* Pink sheet update with Martha
+
+* Mexico
+* Shares: next time
+* Share room here?
+* Pink sheet update with Martha
+
+
 ## 2024-11-11
 
 * Lolo
@@ -39,8 +46,6 @@
 * Floris ~ Alix briefing: parents ~ therapist
 * Kathy
 * Mia ~ working ~ Bdy invite
-
-*
 
 ## 2024-07-01
 
