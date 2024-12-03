@@ -1,9 +1,11 @@
 # Notes
 
 Jon Rawls
+Pmnr doctor&nbsp;
+Heather Brooke national Park service fort Mason Charles sowers sculptor&nbsp; San Francisco museum &amp; historical society&nbsp;
 
-Pmnr doctor&nbsp; Heather Brooke national Park service fort Mason Charles sowers sculptor&nbsp; San Francisco museum &amp; historical society&nbsp;
 Marty typewriter&nbsp;
+
 Power play standard Annie gaus
 
 * EIR ~ residents points ~ van
