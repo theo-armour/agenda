@@ -1,6 +1,8 @@
 # Heritage Happenings December Issue Agenda
 
 ## Running Agenda* Calendar to CSV
+
+
 ## Review of November Issue
 
 * Did anybody have any issuers with the October issue?
@@ -8,7 +10,7 @@
 ## Theme
 
 * **Around the World** El Salvador
-* **Colors** Cobalt Blue &amp; White
+* **Colors** Cobalt Blue #0047AB &amp; White
 * **[x] Cameo Image** <a href="https://www.flickr.com/photos/jikatu/5919534691">https://www.flickr.com/photos/jikatu/5919534691</a>
 * <a href="https://en.wikipedia.org/wiki/El_Salvador">https://en.wikipedia.org/wiki/El_Salvador</a>
 * <a href="https://en.wikipedia.org/wiki/Flag_of_El_Salvador">https://en.wikipedia.org/wiki/Flag_of_El_Salvador</a>
@@ -29,17 +31,18 @@
 ## Residents
 
 * Bob Granucci Mia: Ducks #4
-* Doris: El Salvador Book Review
+* [x] Doris: El Salvador Book Review
 * Jane: ??
 * Margaret Jacobs: ??
-* Margaret Johnson: Petra
-* Martha Nell: Tom &amp; Val
-* Martha Nell: Library new acquisitions: none
+* [*] Margaret Johnson: Petra
+* [x] Martha Nell: Tom &amp; Val
+* [x] Martha Nell: Library new acquisitions: none
+* [x] [x] Patrick
 * Sheila: ??
 * Stela: head start: Jeanne
-* Tucker: ??
+* ?? Tucker: ??
 * Theo: ??
-* Tom King:
+* [x] [x] Tom King:
 * Marty: Mia chat
 
 ### Miscellany

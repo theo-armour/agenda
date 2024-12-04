@@ -4,6 +4,11 @@
 >
 >He values a collaborative approach, creating personalized care plans that align with the individual goals and values of his patients.
 
+## Care Plan
+
+* What is a care plan?
+* Is there a checklist?
+
 ## My three top health concerns
 
 * Fall risk & hunching over
@@ -25,6 +30,8 @@ Is it
 * Esophageal reflux
 * Gums
 * Dermatology
+* Arthritis
+* Organs generally
 
 ## PPH
 
