@@ -9,8 +9,6 @@
 ## Today
 
 * ?
-* 
-
 * Johnson: Move tapas party date&nbsp;
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
