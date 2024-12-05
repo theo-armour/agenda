@@ -2,6 +2,7 @@
 
 ## New Post
 
+* spotswood@comcast.net
 * https://manage.wix.com/dashboard/b2537da6-a144-4436-bf40-8f3b36dcd723/home
 * https://Sacsem.net ~ pw: California
 
@@ -14,7 +15,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
-
+* Friday, December 6 at Perry's on Union: Janelle Kellman, candidate for the Democratic nomination for Lieutenant Governor of California
 * Friday, November 22 at Perry's on Union: Jack Ohman, Pulitzer Prize-winning editorial cartoonist
 * Friday, November 15 at Perry's on Union: Annie Gaus, senior news editor of The San Francisco Standard
 * Friday, November 8, 2024 at Perry's on Union: Big Round Table: Analysis of the 2024 Election
