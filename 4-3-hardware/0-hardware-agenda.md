@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* Phone:
 * Watch: learn
 * Connect Meta glasses?
 * Soundcore: Answer phone
