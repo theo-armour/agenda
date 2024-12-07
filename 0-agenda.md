@@ -4,11 +4,15 @@
 
 * ++
 * 2024-12-01:&nbsp;You can't lie your way into code compiling.
+* 2024-12-05: Which is better:
+* forgetting the present and living in the past?
+* forgetting the past and living in the present?
 
 <!-- this is a comment -->
 ## Today
 
 * ?
+* light show tour
 * Woody
 * Johnson: Move tapas party date&nbsp;
 * Peyton: hello theater
@@ -17,7 +21,7 @@
 ## SOON
 
 * ++
-* NV Amt: invite
+* NV Ami: invite
 * Fromagerie image
 * Hover: joystick try
 * Storage: Jewelry appraisal
@@ -254,7 +258,7 @@ Waiting
 **Projects**
 
 -->
-<details>
+<details open="">
 
 <summary>projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
