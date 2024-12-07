@@ -1,19 +1,21 @@
 # 2024-12 MailMerge Text
 
 
-## Generally
+## Heritage Happenings December Newsletter
 
 Saludos <first>
 
 Click on the website link below to open your digital copy of:
 
 Heritage Happenings December Newsletter
+https://heritage-happenings.github.io/happenings-issues/2024/2024-12-happenings-newsletter.pdf
 
 As part of the monthly Around the World program, Heritage Happenings visits El Salvador. The colors are cobalt blue, and white. The masthead cameo this month is unusual for us. Instead of a drawing created using artificial intelligence, it is a photograph of a young person probably from El Salvador wearing indigo makeup in the style of his Mayan ancestors. The makeup is made from the indigo plant, a native plant that has been used for thousands of years to create a deep blue dye.
 
 The Heritage Happenings Calendar is now being edited and maintained by Margaret Jacobs. Click on the website link below to open your digital copy of:
 
 Heritage Happenings December Calendar
+https://heritage-happenings.github.io/happenings-issues/2024/2024-12-happenings-calendar.pdf
 
 Felices Fiestas,,
 
