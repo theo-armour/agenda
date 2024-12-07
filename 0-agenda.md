@@ -7,7 +7,7 @@
 * 2024-12-05: Which is better:
 * forgetting the present and living in the past?
 * forgetting the past and living in the present?
-* 
+* 2024-12-06:&nbsp;With deeper knowledge there may be deeper feelings
 
 <!-- this is a comment -->
 ## Today
