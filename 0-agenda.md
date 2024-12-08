@@ -67,11 +67,11 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* S: Chia seeds
+* Swyt: 2 white ~ 1 red ~ cheese ~ biscuits ~ wipes ~ athletic beer
 * Plateau chair
 * A: mike ~&nbsp;
 * Winter shoes
-* EyeBuyDirect: small specs?
+* EyeBuyDirect: small spec
 
 Waiting
 
