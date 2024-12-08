@@ -74,7 +74,7 @@ Waiting
 * ?
 * Swyt: 2 white ~ 1 red ~ cheese ~ biscuits ~ wipes ~ athletic beer
 * Plateau chair
-* A: mike ~&nbsp;
+* A: mike ~ starops ~ grab bar
 * Winter shoes
 * EyeBuyDirect: small spec
 
