@@ -13,26 +13,28 @@
 ## Today
 
 * ?
+* Fromagerie image
+* Hover: joystick try
 * 
 * glowsh: route
 * Woody
-* 
-
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 
 ## SOON
 
 * ++
+* Ange: cookie images
+* Lemire
 * NYT: my ten best list of aphorisms&nbsp;
-* NV Ami: invite
-* Fromagerie image
-* Hover: joystick try
+* NV Amy: invite
+
 * Storage: Jewelry appraisal
 * Outlook email replies
 * PPH: using apps ~ fitbit?~ mike should email patients
 * Call pharmerica:&nbsp;1-888-588-1633.
-* Ange: cookie images
+* 
+
 * Cynthia: money
 * Steve Gordon: jon
 * SiSi: home help
@@ -40,7 +42,6 @@
 * trmnl: update
 * Tom Johnson: wine
 * Joel P:
-* Mia: HH: to the web
 * Mary: HH+NV ~ hector ~ PPH
 
 Waiting
