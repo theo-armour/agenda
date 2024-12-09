@@ -4,8 +4,11 @@ tags #hw #hardware
 
 ## MX Keys Mini
 
+* https://www.logitech.com/en-us/products/keyboards/mx-keys-mini.920-010474.html
+* https://hub.sync.logitech.com/mx-keys-mini
 * fn-esc to switch between media and function keys
 
+* https://support.logi.com/hc/en-us/articles/4418699283607-Logi-Options
 
 ### Lessons Learned
 
