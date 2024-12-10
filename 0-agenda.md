@@ -17,6 +17,7 @@
 * Hover: joystick try
 * glowsf: route
 * Woody
+* Diana
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 
