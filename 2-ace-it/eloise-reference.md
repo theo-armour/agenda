@@ -7,6 +7,21 @@
 * arcGIS
 * Later ~ Python, SQL, JavaScript, HTML, CSS
 
+## Articles
+
+Wildfire-Driven Forest Conversion in Western North American Landscapes
+
+* https://academic.oup.com/bioscience/article/70/8/659/5859066
+* https://research.fs.usda.gov/treesearch/60427
+* https://www.fs.usda.gov/rm/pubs_journals/2020/rmrs_2020_coop_j001.pdf
+
+Untrammeling the wilderness: restoring natural conditions through the return of human-ignited fire
+
+* https://link.springer.com/article/10.1186/s42408-024-00297-5
+
+
+* https://github.com/souma4/Fire_Regime_Departure/wiki
+
 ## Western Colorado University
 
 * https://western.edu/

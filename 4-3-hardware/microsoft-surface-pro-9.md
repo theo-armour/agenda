@@ -6,11 +6,13 @@
 * 5G, 16GB RAM, 512GB SSD
 * https://account.microsoft.com/billing/orders?forcedSignIn=1&refd=account.microsoft.com
 
+
 ## Battery limit
 
 * EuFi battery limit is 50% >> too low
 * Not: Use the Surface App to set the battery limit to 50% to extend the battery life.
 * Smart Charging appears to be off by default
+
 
 ## To Do
 
