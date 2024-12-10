@@ -14,6 +14,7 @@
 ## Today
 
 * ?
+* Eloise: GitHub account
 * Hover: joystick try
 * glowsf: route
 * Woody
