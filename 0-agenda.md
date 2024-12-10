@@ -3,43 +3,57 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* Jeff Russell 530-277-8021
-* 2024-12-01:&nbsp;You can't lie your way into code compiling.
-* 2024-12-05: Which is better:
-* forgetting the present and living in the past?
-* forgetting the past and living in the present?
 * 2024-12-06:&nbsp;With deeper knowledge there may be deeper feelings
 
 <!-- this is a comment -->
 ## Today
 
 * ?
-* 
 
-* Hover: joystick try
+Emails
 
-* glowsf: route
+* Diana Greer
+* Donna:
 * Woody
+* Bob Hall
+* Eloise: GitHub account + Coop
+
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
+
+Tasks
+
+* Cynthia: money
+* glowsf: route
+
+* Hover: joystick try
+* trmnl: update
+* Ange: cookie images
+* NYT: my ten best list of aphorisms&nbsp;
+
+Text
+
+* Lemire
+* Eloise
+* Mark Bell
+* Kathy: Janine
+* Eloise: David
+* NV Amy: invite&nbsp;hello
+
+calls
+
+* Call pharmerica:&nbsp;1-888-588-1633.
+* Jeff Russell 530-277-8021
 
 ## SOON
 
 * ++
-* Ange: cookie images
-* Lemire
-* NYT: my ten best list of aphorisms&nbsp;
-* NV Amy: invite
 * Storage: Jewelry appraisal
 * Outlook email replies
 * PPH: using apps ~ fitbit?~ mike should email patients
-* Call pharmerica:&nbsp;1-888-588-1633.
-* 
-* Cynthia: money
 * Steve Gordon: jon
 * SiSi: home help
 * Boxing Day
-* trmnl: update
 * Tom Johnson: wine
 * Joel P:
 * Mary: HH+NV ~ hector ~ PPH
@@ -63,15 +77,14 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* Swyt: 2 white ~ 1 red ~ cheese ~ biscuits ~ wipes ~ athletic beer
 * Plateau chair
-* A: mike ~ starops ~ grab bar
+* A: mike ~ neutrogena shampoo ~ grab bar
 * Winter shoes
 * EyeBuyDirect: small spec
 
@@ -132,7 +145,7 @@ Waiting
 **ACE IT**
 
 -->
-<details>
+<details open="">
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
@@ -256,10 +269,11 @@ Waiting
 
 -->
 <details open="">
-<summary>projects</summary>
+<summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
+* Notsey: fix masthead link so that it points to the file in use and not the notes file.
 * Start a personal timeline ~ use MarkWhen format
 * Update Wix user name
 * Trmnl: dev access
