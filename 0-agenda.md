@@ -3,11 +3,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 
-
-* 2024-12-05: Which is better:
-* forgetting the present and living in the past?
-* forgetting the past and living in the present?
 * 2024-12-06:&nbsp;With deeper knowledge there may be deeper feelings
 
 <!-- this is a comment -->
@@ -36,6 +31,7 @@ Text
 * Mark Bell
 * Kathy: Janine
 * Eloise: David
+* NV Amy: invite
 
 calls
 
@@ -47,7 +43,8 @@ calls
 * ++
 * Ange: cookie images
 * NYT: my ten best list of aphorisms&nbsp;
-* NV Amy: invite
+* 
+
 * Storage: Jewelry appraisal
 * Outlook email replies
 * PPH: using apps ~ fitbit?~ mike should email patients
@@ -276,7 +273,7 @@ Waiting
 **Projects**
 
 -->
-<details>
+<details open="">
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
