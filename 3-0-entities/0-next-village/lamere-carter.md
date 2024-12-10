@@ -3,8 +3,22 @@
 * lamere.carter@gmail.com
 * Bay Street since August, born Sacramento
 
+## 2024-12-09
 
+Hi La'mère
 
+Sorry for my slow reply. The last few days of every month I go nuts working on the newsletter for residents. And the it takes a few days to recover.
+
+So when our we going to introduce our drones to each other?
+
+This week is a bit busy, but starting on Saturday the next is open. I'm looking forward to catching up.
+
+Theo
+## Lamere
+
+Good morning Theo, I meant to check in earlier. I wanted to say Happy thanksgiving
+
+Hope you are doing well
 ## 2024-11-11
 
 To Share
