@@ -3,7 +3,8 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2024-12-01:&nbsp;You can't lie your way into code compiling.
+* 
+
 * 2024-12-05: Which is better:
 * forgetting the present and living in the past?
 * forgetting the past and living in the present?
