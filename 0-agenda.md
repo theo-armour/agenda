@@ -13,10 +13,12 @@
 ## Today
 
 * ?
-* Eloise: GitHub account
-* Hover: joystick try
+* Diana Greer
+* Donna:
 * Woody
-* Diana
+* Bob Hall
+* Eloise: GitHub account + Coop
+* Hover: joystick try
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 
@@ -32,6 +34,7 @@ Text
 * Eloise
 * Mark Bell
 * Kathy: Janine
+* Eloise: David
 
 calls
 
@@ -274,7 +277,7 @@ Waiting
 -->
 <details>
 
-<summary>projects</summary>
+<summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
