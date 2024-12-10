@@ -9,6 +9,9 @@
 ## Today
 
 * ?
+
+Emails
+
 * Diana Greer
 * Donna:
 * Woody
@@ -31,7 +34,7 @@ Text
 * Mark Bell
 * Kathy: Janine
 * Eloise: David
-* NV Amy: invite
+* NV Amy: invite&nbsp;hello
 
 calls
 
