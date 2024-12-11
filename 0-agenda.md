@@ -35,8 +35,6 @@ Text
 calls
 
 * Call pharmerica:&nbsp;1-888-588-1633.
-* 
-
 * Ombundsman: 415 751 9788
 
 ## SOON
@@ -63,7 +61,7 @@ Waiting
 **Admin**
 
 -->
-<details>
+<details open="">
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
