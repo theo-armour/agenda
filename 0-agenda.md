@@ -29,7 +29,8 @@ Text
 * Mike M
 * Lemire
 * Mark Bell
-* Kathy: Janine
+* 
+
 * NV Amy: invite&nbsp;hello
 * Cynthia: money not deducted
 
