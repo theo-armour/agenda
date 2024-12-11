@@ -9,6 +9,7 @@
 ## Today
 
 * ?
+* Centenary: report
 
 Emails
 
@@ -29,10 +30,7 @@ Text
 * Mike M
 * Lemire
 * Mark Bell
-* 
-
 * NV Amy: invite&nbsp;hello
-* Cynthia: money not deducted
 
 calls
 
