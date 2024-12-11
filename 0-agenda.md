@@ -35,7 +35,8 @@ Text
 calls
 
 * Call pharmerica:&nbsp;1-888-588-1633.
-* Jeff Russell 530-277-8021
+* 
+
 * Ombundsman: 415 751 9788
 
 ## SOON
@@ -52,7 +53,7 @@ calls
 Waiting
 
 * Ange: cookie images
-* Peter Taylor
+* Jeff Russell 530-277-8021
 * Peter Taylor
 
 ***
@@ -73,7 +74,7 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
