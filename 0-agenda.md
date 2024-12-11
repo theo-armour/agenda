@@ -121,16 +121,12 @@ Waiting
 **Simplicity**
 
 -->
-<details open="">
+<details>
 
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
 
-* ++
-* Storage: Jewelry appraisal
-* Claudia
-* Nicole Smith: PDF
-* Ship Smart
+* +
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/nicole-smith/0-nicole-agenda.md&quot;">nicole agenda</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a>
