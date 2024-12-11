@@ -1,26 +1,20 @@
 # Notes
 
 +++
+
 Jeanine&nbsp;
-
 new text&nbsp;try
-
 Jon Rawls
-
 Om 415 751 9788
-
 Pmnr doctor&nbsp;
-
 Heather Brooke national Park service fort Mason Charles sowers sculptor&nbsp; San Francisco museum &amp; historical society&nbsp;
-
 Marty typewriter
-
 Power play San Francisco standard Annie gaus
 
 * EIR ~ residents points ~ van
 * Me: side of house ~ walkability ~ parking ~ generator noise
-* Centenary: Laura&nbsp; ~ Wednesday
-* Chartreuse taste like Christmas without the abuse&nbsp; Eric Cullen a quiet but vibrant disdain&nbsp;
+* Chartreuse taste like Christmas without the abuse&nbsp;&nbsp;
+* Eric Cullen a quiet but vibrant disdain&nbsp;
 * Shirley: lunch ~ nondisclosure ~ affiliation ~ agenda ~ limited understanding of the residents
 * Ethan makes 3d&nbsp;
 * Becoming supernatural Joe
