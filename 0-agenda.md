@@ -14,23 +14,24 @@ Emails
 
 * Donna:
 * Woody
-* Bob Hall
-* Peter Taylor
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
+* Bob Hall
 
 Tasks
 
-* Cynthia: money
+* ++
 * glowsf: route
-* 
+* Christmas party: mia?
 
 Text
 
+* Mike M
 * Lemire
 * Mark Bell
 * Kathy: Janine
 * NV Amy: invite&nbsp;hello
+* Cynthia: money not deducted
 
 calls
 
@@ -53,6 +54,8 @@ calls
 
 Waiting
 * Ange: cookie images
+* Peter Taylor
+* Peter Taylor
 
 ***
 
