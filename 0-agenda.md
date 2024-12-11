@@ -41,7 +41,7 @@ calls
 
 * ++
 * <div style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;">hector: tank pictures
-* George Dicke: ?
+* George Dicke?
 * Outlook email replies
 * Steve Gordon: jon
 * SiSi: home help
