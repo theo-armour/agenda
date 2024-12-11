@@ -17,7 +17,7 @@
 * Medicare PECOS PAC: ID 0345670527
 * Medicare Enrollment ID: O20200501001068
 
-## Michael Genualdi, M.D ~ Dr Mike
+## Michael Genualdi, MD ~ Dr Mike
 
 * Education: New York Medical College, Stanford University
 * Residency: Stanford Health Care
