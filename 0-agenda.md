@@ -12,45 +12,42 @@
 
 Emails
 
-* Diana Greer
-* Donna:
-* Woody
-* Bob Hall
-* Eloise: GitHub account + Coop
+* 
 
+* Woody
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
+* Breänna
+* Bob Hall
 
 Tasks
 
-* Cynthia: money
+* ++
 * glowsf: route
-
-* Hover: joystick try
-* trmnl: update
-* Ange: cookie images
-* NYT: my ten best list of aphorisms&nbsp;
+* Awesome: select a winner?
+* Christmas party: mia?
 
 Text
 
+* Mike M
 * Lemire
-* Eloise
 * Mark Bell
 * Kathy: Janine
-* Eloise: David
 * NV Amy: invite&nbsp;hello
+* Cynthia: money not deducted
 
 calls
 
 * Call pharmerica:&nbsp;1-888-588-1633.
 * Jeff Russell 530-277-8021
+* Ombundsman: 415 751 9788
 
 ## SOON
 
 * ++
-* Storage: Jewelry appraisal
 * Outlook email replies
-* PPH: using apps ~ fitbit?~ mike should email patients
+* 
+
 * Steve Gordon: jon
 * SiSi: home help
 * Boxing Day
@@ -59,6 +56,10 @@ calls
 * Mary: HH+NV ~ hector ~ PPH
 
 Waiting
+* Ange: cookie images
+* Peter Taylor
+* Peter Taylor
+
 ***
 
 <!--
@@ -103,7 +104,7 @@ Waiting
 **Health**
 
 -->
-<details>
+<details open="">
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
@@ -130,7 +131,8 @@ Waiting
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
 
-* ++Simplicity
+* ++
+* Storage: Jewelry appraisal
 * Claudia
 * Nicole Smith: PDF
 * Ship Smart
@@ -145,7 +147,7 @@ Waiting
 **ACE IT**
 
 -->
-<details open="">
+<details>
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
@@ -164,6 +166,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a>
 
 * ++
+* Eloise: GitHub account + Coop
 
 </details>
 <!--
@@ -273,6 +276,10 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
+* Hover: joystick try
+* trmnl: update
+* Hover: joystick try
+* trmnl: update
 * Notsey: fix masthead link so that it points to the file in use and not the notes file.
 * Start a personal timeline ~ use MarkWhen format
 * Update Wix user name

@@ -1,8 +1,9 @@
 # PPH
 
 * ?
+* PPH: using apps ~ fitbit? ~ mike should email patients
 * Genualdi: repor
-* Talk to breen
+* Talk to breen ???
 * Pneumonia vaccine ~ June 2024
 
 ## Pine Park Health ~ <a href="https://pineparkhealth.com">https://pineparkhealth.com</a>
@@ -16,7 +17,7 @@
 * Medicare PECOS PAC: ID 0345670527
 * Medicare Enrollment ID: O20200501001068
 
-## Michael Genualdi, M.D ~ Dr Mike
+## Michael Genualdi, MD ~ Dr Mike
 
 * Education: New York Medical College, Stanford University
 * Residency: Stanford Health Care
