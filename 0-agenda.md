@@ -12,8 +12,6 @@
 
 Emails
 
-* 
-
 * Donna:
 * Woody
 * Bob Hall
@@ -23,6 +21,7 @@ Emails
 
 Tasks
 
+* Van: Thursday&nbsp;
 * Cynthia: money
 * glowsf: route
 * Hover: joystick try
