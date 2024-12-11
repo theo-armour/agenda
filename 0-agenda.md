@@ -24,9 +24,7 @@ Tasks
 
 * Cynthia: money
 * glowsf: route
-* Hover: joystick try
-* trmnl: update
-* Ange: cookie images
+* 
 
 Text
 
@@ -44,8 +42,6 @@ calls
 ## SOON
 
 * ++
-* 
-
 * Outlook email replies
 * PPH: using apps ~ fitbit?~ mike should email patients
 * Steve Gordon: jon
@@ -56,6 +52,8 @@ calls
 * Mary: HH+NV ~ hector ~ PPH
 
 Waiting
+* Ange: cookie images
+
 ***
 
 <!--
@@ -127,7 +125,8 @@ Waiting
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
 
-* ++Simplicity
+* ++
+* Storage: Jewelry appraisal
 * Claudia
 * Nicole Smith: PDF
 * Ship Smart
@@ -265,11 +264,13 @@ Waiting
 **Projects**
 
 -->
-<details open="">
+<details>
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
+* Hover: joystick try
+* trmnl: update
 * Notsey: fix masthead link so that it points to the file in use and not the notes file.
 * Start a personal timeline ~ use MarkWhen format
 * Update Wix user name
