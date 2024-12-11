@@ -6,6 +6,40 @@
 * https://www.linkedin.com/in/donnabooher/
 
 
+## 2024-12-10
+
+Hi Donna
+
+Sorry for my slow Reply to all your messages. Getting the newsletter out seems to take up all my brain cells. And then it takes a week or so to recover. ;-)
+
+Name: Heritage on the Marina
+It turns out that There are a number of organizations in the Bay Area that have Heritage in their name. One of them is an Old People's home in Walnut Creek. Therefore, we always use "Heritage on the Marina" - At least at the first use in a text. And then heritage without the "The" afterwards. I'm letting you know this so that when you contact our people. You can use the correct name.
+
+Contact person at Heritage on the Marina
+The person is Roxana Lara ~ rlara@heritagesf.org ~ 415 792 5462. Please wait for me to make the introduction. I want to talk to Mary Linde ~ mlinde@heritagesf.org ~ (415) 202-0343 ~ our CEO first. I had planned to talk To her before Thanksgiving, but the meeting got postponed. I will try to set one up in the next few days. Things will be more productive with her blessing.
+
+January Heritage on the Marina tour
+How about 1/13 or 1/15 or 1/16? The light in the afternoon is good for viewing the front of the building. So 3pm? Setting a maximum of say a dozen people. I. thinking about half an hour for the tour of the building and then about fifteen minutes on San Francisco Ladies Protection and Relief Society founded in 1853. Perhaps with tea or coffee.
+
+Paradise Village Senior Community newsletter
+Awesome! And I look forward to, fingers crossed, meeting another old peeps newsletter editor one day. Drop off next week is good.
+
+Lighted Boat Parade
+I just registered myself. I did not provide details in the Heritage Happenings. The event overlaps with thr monthly birthday cocktail party and dinner. It's best not to have conflicting events.
+
+I plan to sent out an email message to residents on Thursday. There are a few strong walkers here. I hope One or two might stop by. I plan to come down after dinner.
+
+***
+
+Of course there's more. But enough for now.
+
+Cheers,
+
+Theo
+
+
+
+
 
 ## 2024-11-??
 

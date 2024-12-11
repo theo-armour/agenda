@@ -1,5 +1,7 @@
 # 0-2024-taxes-agenda
 
+* Add link to IRS and FTB 1040-ES forms
+* Check January 15th 2025 FTB payment
 * 11,600 per month
 
 ## IRS

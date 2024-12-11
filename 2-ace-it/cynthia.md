@@ -9,12 +9,23 @@
 * Finish hand
 * Mariposa
 
+## 2024-12-1l?
+
+* BraceBridge
+* Money in
+* Mariposa
+* Buy More: hermeneutics
+* Richard and Kathy / Mark & Ling Shien
+* Party: Cynthia A, Smiths, Janine, Englehardts P & H, CynthiaM, Mia & Rob, Peter Taylor & ??
+* Pink sheet update with Martha
+* Pink sheet update with Martha
+
+
 ## 2024-12-02
 
 * Mexico
 * Shares: next time
 * Share room here?
-* Pink sheet update with Martha
 
 
 ## 2024-11-11

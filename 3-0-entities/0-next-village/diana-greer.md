@@ -3,8 +3,35 @@
 * 415 271 4286
 * diana94133@pm.me
 
+## 2024-12-10
 
+Diana, I just sent you an email. I look forward to hearing from you. Theo
 
+---
+
+### Continuing the effort We started.
+
+Hi Diana
+
+Sorry for the slow reply. I was working on getting the monthly newsletter out last week. And then I have to catch up with all the things I didn't do while I was preparing it.
+
+I just looked for your email but I can't see it. Maybe I deleted it. Please send again. t.armour@gmail.com.
+
+I would very much like to continue what we started. I see three different areas we can work on.:
+Physical: Finding new homes for my old things.Tech: Establishing guidelines, methods and best practices for managing online digital archives.Philosophical: Investigating the ways aging white males can overcome their biases and preconceptions and reach new understandings.In all of these: we both explore, learn and add to the ways we can help others.
+It would be really helpful to me if we could talk these over in person. My favorite way of doing this is over a meal. Breakfast, lunch or dinner. I am willing to pay $70 and the price of the meal at my house for, say, two hours of your time: one hour of talk and one hour for travel.
+
+How does this sound to you? I am very flexible on time and place.
+
+Cheers,
+
+Theo
+
+Theo
+
+---
+
+Hi Theo! I just now emailed you. Feel free to call if typing is an issue. Warmly - Diana
 
 ## 2024-11-22
 
@@ -21,8 +48,6 @@ I was raised in the right address , went to the best schools, ate at the finest 
 My bad
 No mater how wise, caring and generous I may be, I must accept that I will at times be involved with cruelty, inattention and with things I could have changed.
 
-
-
 ## 2024-11-21
 
 Theo,
@@ -33,7 +58,7 @@ Its a rough thing to read. It is a short book and it took me over a month; I spe
 Warmly,
 Diana
 
-***
+---
 
 Hi Diana
 
@@ -60,7 +85,7 @@ Watch their documentary Deconstructing Karen.
 
 ## 2024-11-19
 
-***
+---
 
 * Storage unit: Photo triage and more
 * Tech: managing an archive
@@ -71,6 +96,7 @@ Hi Diana
 I left it a bit late. I have a ton to say. I will just bullet some of thoughts. We can double-click on any of these when we meet. And, please note, this is late night writing and not to be relied on for anything.
 
 ## Fees: a few thoughts
+
 I like to start at a low end of the scale and then move up with bonuses and raises. I am thinking of offering you $35 per hour.
 
 I am very conscious of travel times and costs and will consider compensation for these.
@@ -78,7 +104,6 @@ I am very conscious of travel times and costs and will consider compensation for
 I hope we could work out a plan for, say, ten to fifteen hours a month.
 
 Most everything I do is digital. I hope I can pay using Zelle or PayPal. Payment early in the month for the previous month.
-
 
 ## Storage Unit
 
@@ -98,18 +123,13 @@ You talked of being an anarchist. This is not a usual worldview. It is intention
 
 We should zoom or meetup.
 
-
-
-
-
-***
+---
 
 Hi Diana. Thank you very much for your wonderful efforts last week. I really appreciate your professionalism and your sharps eye. I hope and look forward to another session with you. The objective: finish with finding photos and then starting to collect these into something that can be shipped tp the scanning people.
 
 I also talked to Donna about my employing you for techie work. I specifically said that I initiated the request and that anything we might do would absolutely follow Next Village guidelines.
 
 Donna said this could be possible. It would be organized by Jacqueline who is not back for another week. It would also involves us signing a document that this effort is not part of Next Village.
-
 
 ## 2024-11-12
 
