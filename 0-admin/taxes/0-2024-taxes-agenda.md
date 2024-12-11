@@ -1,12 +1,12 @@
 # 0-2024-taxes-agenda
 
-* Add link to IRS and FTB 1040-ES forms
+* Add link to IRS and FTB 1040-ES forms!!
 * Check January 15th 2025 FTB payment
 * 11,600 per month
 
 ## IRS
 
-* https://www.irs.gov/your-account
+* <a href="https://www.irs.gov/your-account">https://www.irs.gov/your-account</a>
 * IRS ~ 2024 Estimated Taxes #1 ~ 2024-04-15: $7,452
 * IRS ~ 2024 Estimated Taxes #2 ~ 2024-06-17: $7,452 ~ EFT# 240456900408199
 * IRS ~ 2024 Estimated Taxes #3 ~ 2024-09-16: $7,452
@@ -14,14 +14,13 @@
 * EFT# 240466095253538
 * IRS ~ 2024 Estimated Taxes #4 ~ 2025-04-15: $7,452
 
-
 ## California
 
 ## FTB
 
-* https://www.ftb.ca.gov/
-* https://webapp.ftb.ca.gov/WebPay/Payment/Confirmation/3
-* Overview: https://webapp.ftb.ca.gov/etfprd1/pit/pit_overview.xhtml
+* <a href="https://www.ftb.ca.gov/">https://www.ftb.ca.gov/</a>
+* <a href="https://webapp.ftb.ca.gov/WebPay/Payment/Confirmation/3">https://webapp.ftb.ca.gov/WebPay/Payment/Confirmation/3</a>
+* Overview: <a href="https://webapp.ftb.ca.gov/etfprd1/pit/pit_overview.xhtml">https://webapp.ftb.ca.gov/etfprd1/pit/pit_overview.xhtml</a>
 
 Payments
 
