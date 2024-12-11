@@ -8,6 +8,10 @@ Armour Collection Item Selector
 
 ## Theo
 
+* Storage: Jewelry appraisal
+* Claudia
+* Nicole Smith: PDF
+* Ship Smart
 * See Mia
 * Spec to Sandberg
 

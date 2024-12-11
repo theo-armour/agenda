@@ -3,6 +3,7 @@
 ## Appointments
 
 * ?
+* Senior Doc
 * 2024-11-26: Dr Grnualdi: prepare report
 * Sports medicine reference
 * Daniel B: 17th
@@ -59,7 +60,6 @@
 ### Heritage
 
 See 1-heritage/health/0-health-agenda
-
 Martha Nkhoma
 
 * Follow-up on email of
