@@ -27,15 +27,12 @@ Tasks
 * Hover: joystick try
 * trmnl: update
 * Ange: cookie images
-* 
 
 Text
 
 * Lemire
-* Eloise
 * Mark Bell
 * Kathy: Janine
-* Eloise: David
 * NV Amy: invite&nbsp;hello
 
 calls
