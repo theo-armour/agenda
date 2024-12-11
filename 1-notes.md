@@ -23,14 +23,8 @@ Power play San Francisco standard Annie gaus
 * Pioneer society anne&nbsp;
 * Pharma america Martha&nbsp;&nbsp;
 * 30 residents present and Survey care pleased Non-ambulatory soon license Functionally non- 3 years work&nbsp;
-* 2035 1st quarter permit , affiliate must preserve culture&nbsp;
-* Rox 18 jul&nbsp;Brittany: yasin&nbsp;
-* Casey: account March financial 25 July&nbsp;
-* Yardi migration October 2024 23 audit 14 Aug
 * Praveen
 * lvn CNA Kayla ware No map!! Wander guards Tracker GPS Replica talks to EMT&nbsp;&nbsp;
-* Care plan Physician report update&nbsp;&nbsp;
-* Hospice Friday 11am&nbsp;
 * Hector Santa Claus&nbsp;
 * national Park Spicer Meadows reservoir
 * Patrick: notes, 100 year, house&nbsp;
