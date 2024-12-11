@@ -39,12 +39,13 @@ calls
 
 * Call pharmerica:&nbsp;1-888-588-1633.
 * Jeff Russell 530-277-8021
-* Ombundsman:&nbsp;
+* Ombundsman: 415 751 9788
 
 ## SOON
 
 * ++
-* Storage: Jewelry appraisal
+* 
+
 * Outlook email replies
 * PPH: using apps ~ fitbit?~ mike should email patients
 * Steve Gordon: jon
@@ -121,7 +122,7 @@ Waiting
 **Simplicity**
 
 -->
-<details>
+<details open="">
 
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
