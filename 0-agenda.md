@@ -22,9 +22,7 @@ Tasks
 
 * ++
 * glowsf: route
-* 
-
-* Christmas party: mia?
+* My Christmas party: mia?
 
 Text
 
