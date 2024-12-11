@@ -35,6 +35,7 @@
 
 ## Projects
 
+* NYT: my ten best list of aphorisms&nbsp;
 * habits
 * "Design Positive impact AI models"
 * Libby does audiobooks
