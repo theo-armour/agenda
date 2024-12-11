@@ -17,12 +17,14 @@ Emails
 * Woody
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
+* Breänna
 * Bob Hall
 
 Tasks
 
 * ++
 * glowsf: route
+* Awesome: select a winner?
 * Christmas party: mia?
 
 Text
