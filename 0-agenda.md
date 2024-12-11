@@ -6,14 +6,13 @@
 * 2024-12-06:&nbsp;With deeper knowledge there may be deeper feelings
 
 <!-- this is a comment -->
-
 ## Today
 
 * ?
 
 Emails
 
-*
+* 
 * Woody
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
@@ -39,13 +38,14 @@ Text
 calls
 
 * Call pharmerica:&nbsp;1-888-588-1633.
-
+* Jeff Russell 530-277-8021
 * Ombundsman: 415 751 9788
 
 ## SOON
 
 * ++
 * Outlook email replies
+* 
 * Steve Gordon: jon
 * SiSi: home help
 * Boxing Day
@@ -57,7 +57,7 @@ Waiting
 
 * Ange: cookie images
 * Peter Taylor
-* Jeff Russell 530-277-8021
+* Peter Taylor
 
 ***
 
@@ -164,10 +164,10 @@ Waiting
 **ACE IT**
 
 -->
-<details open="">
+<details>
 
 <summary>ACE IT</summary>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/2024/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
 * ++
 * Buy mo: share paper
