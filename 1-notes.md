@@ -1,18 +1,21 @@
 # Notes
 
-+++Jeanine&nbsp;
++++
+Jeanine&nbsp;
+
 new text&nbsp;try
 
 Jon Rawls
 
 Om 415 751 9788
+
 Pmnr doctor&nbsp;
 
 Heather Brooke national Park service fort Mason Charles sowers sculptor&nbsp; San Francisco museum &amp; historical society&nbsp;
 
-Marty typewriter&nbsp;
+Marty typewriter
 
-Power play standard Annie gaus
+Power play San Francisco standard Annie gaus
 
 * EIR ~ residents points ~ van
 * Me: side of house ~ walkability ~ parking ~ generator noise
