@@ -27,7 +27,7 @@ Tasks
 * Hover: joystick try
 * trmnl: update
 * Ange: cookie images
-* NYT: my ten best list of aphorisms&nbsp;
+* 
 
 Text
 
