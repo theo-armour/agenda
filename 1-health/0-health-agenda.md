@@ -4,7 +4,7 @@
 
 * ?
 * Senior Doc
-* 2024-11-26: Dr Grnualdi: prepare report
+* 2024-11-26: Dr Genualdi: prepare report
 * Sports medicine reference
 * Daniel B: 17th
 * Colonoscopy report??
