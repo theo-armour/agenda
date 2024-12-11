@@ -16,7 +16,6 @@ Emails
 * Woody
 * Bob Hall
 * Peter Taylor
-* Eloise: GitHub account + Coop
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 
@@ -43,7 +42,8 @@ calls
 
 * ++
 * Outlook email replies
-* PPH: using apps ~ fitbit?~ mike should email patients
+* 
+
 * Steve Gordon: jon
 * SiSi: home help
 * Boxing Day
@@ -98,7 +98,7 @@ Waiting
 **Health**
 
 -->
-<details>
+<details open="">
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
@@ -141,7 +141,7 @@ Waiting
 **ACE IT**
 
 -->
-<details open="">
+<details>
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
@@ -160,6 +160,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a>
 
 * ++
+* Eloise: GitHub account + Coop
 
 </details>
 <!--
@@ -269,6 +270,8 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * ++
+* Hover: joystick try
+* trmnl: update
 * Hover: joystick try
 * trmnl: update
 * Notsey: fix masthead link so that it points to the file in use and not the notes file.
