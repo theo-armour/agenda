@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-* H activities: route&nbsp;
+* H activities: glowsf route&nbsp;
 
 Emails
 
@@ -22,7 +22,6 @@ Emails
 Tasks
 
 * ++
-* glowsf: route
 * My Christmas party: mia?
 
 Text
@@ -34,7 +33,6 @@ Text
 
 calls
 
-* Call pharmerica:&nbsp;1-888-588-1633.
 * Ombundsman: 415 751 9788
 
 ## SOON
