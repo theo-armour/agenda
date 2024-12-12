@@ -12,8 +12,8 @@
 * 
 
 * Woody
-* GlowSF
-* Donna
+* Donna: January tour
+* NV Donna lunch
 * 
 
 Emails
