@@ -9,7 +9,8 @@
 ## Today
 
 * ?
-* Dr Yoga: codes ~ stain ~ crack
+* 
+
 * Woody
 * GlowSF
 
