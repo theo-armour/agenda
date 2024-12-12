@@ -11,13 +11,9 @@
 * Angels pay to sponsor the intent
 * Sponsored starters get x hours of cofounder time
 
-## 
-## 
-
 ## 2024-08-03
 
 Are there other sayings or aphorisms that are about apples?
-
 Some examples:
 
 * Pick out the bad apples
@@ -104,11 +100,8 @@ Testing testing 12 Testing testing 123.
 ### Opener
 
 I'm no expert. I'm a beginner.
-
 Here are some of my my theories
-
 I'm making up as I go along
-
 Here are some of my ideas
 
 * <a href="https://news.ycombinator.com/item?Shoot">https://news.ycombinator.com/item?Shoot</a> Yeah, I mean, this stuff I was thinking about it. If nothing else, it's not about being famous. I think it's always about being a beginner And you're talking to other people that are just also beginners OK, well, II never want to put myself up as an expert. Put it that way. Or I'm, I feel like I'm the least expert of all of them, right? Thank you. And that's older than me and everything. Yeah, and and. But I think if you even talk to them, they would also say they're not experts. Yeah. Yeah And so anybody who says that they're an expert is is baloney Do you feel like I'm staying on the next bird? No, I'm just giving you a point of view I mean, what's important to. because who are you trying to? Who's the keynote for other experts or new people? Well, this is the first time all super connectors unite. OK, right. Or now, are they people that want to be super connectors No, they're the ones who are already have a big network They're already super connectors, and they've been selected, right? OK, and what? And what do you think they're trying to do? Make more money, or or or make a new industry or new life They're the super connectors are there to meet other super connectors and to put their connections at service of startups, right? And in return, they just might meet cool, interesting people. for their own they all have their own critical asks. So they can also, you know, if they're looking for investors or whatever needs to know that everyone there is super well connected, right Yeah, right. And so you're right It's all the Kings and Queens getting together. And I just want to think if that's good or bad, and what happens. and then you can let me know. OK, OK, right. Fair enough. OK, OK, we have so much power in this room. Let's use it for the good and to shape our society, you know, think ofid=40059887
@@ -183,7 +176,6 @@ Here are some of my ideas
 ## 2024-02-01
 
 My Designed Life: Mental models
-
 Heritage Happenings
 
 * instagram for old people
@@ -229,33 +221,22 @@ Heritage Happenings
 * hackathon
 
 Energy prompt
-
 My Energy has a color which is dark purple, with shapes of very sharp triangles. The movement of the energy is very fast, the music style that would resemble it is heavy metal.
 ## 2023-08-03
 
 Going sailing with Gergana
-
 <a href="https://www.circunomics.com/">https://www.circunomics.com/</a> &gt;&gt; OK!
-
 Heart the idea.
-
 Observations
-
 You know I always look at the copyright date. If the date is not updated, the site has not been updated.
-
 CircaNomics copyright: 2020
-
 Also: Link to Instagram is broken.
-
 Therefore: Look hard for the something solid and real and actually happening now.
 ## 2023-07-15
 
 <a href="https://www.cosmicdesign.io/podcasts/alix-armour">https://www.cosmicdesign.io/podcasts/alix-armour</a>
-
 How Olive Stones &amp; Walnut Shells Can Change the Energy Game
-
 My daughter Alix explains how her company is helping transform waste products into useful commodities.
-
 Please have a look at or listen to this insightful and engaging podcast. Alix personifies her business, she has great energy!
 ## 2023-07-06
 
@@ -325,7 +306,6 @@ Compliance ~ being
 * Team members: receive extra career fulfillment - would not receive internally
 
 Numbers ~ Knowing
-
 <a href="https://twitter.com/G_S_Bhogal/status/1636876184863797248">https://twitter.com/G_S_Bhogal/status/1636876184863797248</a>
 <ol start="15">
 * Scoreboard Principle: Metrics motivate. Quantifying your progress on a task will push you to work harder, as it’ll become like a game in which you’re trying to increase your score. Find ways to number your progress, and you’ll become determined to make the numbers grow.
@@ -350,21 +330,13 @@ Design ~ Doing
 * chatGPT
 
 scale + wifi out of the box\f
-
 thre para
-
 Smart Scales
-
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8122302/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8122302/</a>
-
 <a href="https://www.cnn.com/cnn-underscored/reviews/best-smart-scale">https://www.cnn.com/cnn-underscored/reviews/best-smart-scale</a>
-
 WiFi 3D Vision
-
 <a href="https://www.discovermagazine.com/technology/wifi-signals-used-to-see-people-inside-rooms">https://www.discovermagazine.com/technology/wifi-signals-used-to-see-people-inside-rooms</a>
-
 <a href="https://www.popularmechanics.com/technology/security/a42575068/scientists-use-wifi-to-see-through-walls/">https://www.popularmechanics.com/technology/security/a42575068/scientists-use-wifi-to-see-through-walls/</a>
-
 Smart Water ~ Evan
 
 * <a href="https://www.moen.com/flo">https://www.moen.com/flo</a>
@@ -402,7 +374,6 @@ Smart Water ~ Evan
 ## 2023-02-03
 
 Family member last pass BTW, please try: LastPass &gt; Left menu &gt; "Emergency Access" &gt; "People Who Trust Me"
-
 Luca Turin
 
 * <a href="https://www.amazon.com/Emperor-Scent-Story-Perfume-Obsession/dp/0375759816">https://www.amazon.com/Emperor-Scent-Story-Perfume-Obsession/dp/0375759816</a>
@@ -467,9 +438,7 @@ Manattt ~ docs 1 &amp; 2 ~ Nov 4 comments? Exit Narrative Costa Rica Start refer
 ## 2022-09-28
 
 Health ~ Anemia
-
 Wedding
-
 Meeting with Vivian
 
 * <a href="https://manatt-my.sharepoint.com/personal/vredsar_manatt_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvredsar%5Fmanatt%5Fcom%2FDocuments%2FArmour%20Documents&amp;ga=1">https://manatt-my.sharepoint.com/personal/vredsar_manatt_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvredsar%5Fmanatt%5Fcom%2FDocuments%2FArmour%20Documents&amp;ga=1</a>
@@ -515,7 +484,6 @@ trickle down to production
 ## 2022-03-23
 
 Vivian
-
 Upcoming
 
 * February 16 - 26 ~ Costa Rica with Esteben
@@ -696,15 +664,10 @@ What to do with empty space? Photo poster
 ## Life ideas
 
 have: focus / desire for assembling people / project oriented / excellent multi-channel communications / sense of design flexibility / perseverance /
-
 needs developing: antenna
-
 Children ~ if the right magic happens, you will know and you will have. needs right person/right support large corporation - zooming up
-
 peeps to talk to? charlotte/arnaud ~ corinne ~ autonomy dude peeps look for 35-40 / established success the demand: ladies in Tech
-
 <a href="http://www.brille24.de/">http://www.brille24.de/</a> ~ web site should be flatter / full screen images nimblescooters.com - The World's Original Cargo Scooter <a href="http://www.joshfire.com/en/home.html">http://www.joshfire.com/en/home.html</a>
-
 <a href="http://www.cg-mobile.com/">http://www.cg-mobile.com/</a> ~ 10/19/2011 report <a href="https://www.igo3d.com/">https://www.igo3d.com/</a>
 ## Roxana Piffl
 
