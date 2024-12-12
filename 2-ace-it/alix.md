@@ -1,24 +1,26 @@
 # Alix
 
-* [https://sensay.io](https://sensay.io)
+* <a href="https://sensay.io">https://sensay.io</a>
 * minimise.today
-* [https://www.minimise.today/](https://www.minimise.today/)
+* <a href="https://www.minimise.today/">https://www.minimise.today/</a>
 * Add data to my sensay
 
-## 2024-08-03
+## 2024-12-11
+* Starters state their intent* Angels pay to sponsor the intent* Sponsored starters get x hours of funder time
 
+## <h2>
+
+2024-08-03</h2>
 Are there other sayings or aphorisms that are about apples?
-
 Some examples:
 
 * Pick out the bad apples
-* The Apple doesn’t fall far from the tree
-* Some apples fall on their own, some need a little jerk/help/ provocation
-* Is it a sin to take an Apple from the garden of Eden?
+* The Apple doesn’t fall far from the&nbsp;tree
+* Some apples fall on their own, some need a little jerk/help/&nbsp;provocation
+* Is it a sin to take an Apple from the garden&nbsp;of&nbsp;Eden?
 
 Results:
-
-### Gemeni: https://g.co/gemini/share/c5552a6f6498
+### Gemeni: <a href="https://g.co/gemini/share/c5552a6f6498">https://g.co/gemini/share/c5552a6f6498</a>
 
 Selected
 
@@ -26,7 +28,7 @@ Selected
 * Upset the apple cart
 * Compare apples and oranges:
 
-### Microsoft Copilot: https://copilot.microsoft.com/sl/c4nONHlEqn6
+### Microsoft Copilot: <a href="https://copilot.microsoft.com/sl/c4nONHlEqn6">https://copilot.microsoft.com/sl/c4nONHlEqn6</a>
 
 Selected
 
@@ -36,7 +38,7 @@ Selected
 * “Green Apple Quickstep” - Diarrhea
 * “Road Apple” - Horse manure
 
-### ChatGPT: https://chatgpt.com/share/37c0bc7f-3559-481a-818f-b3b2b967a51d
+### ChatGPT: <a href="https://chatgpt.com/share/37c0bc7f-3559-481a-818f-b3b2b967a51d">https://chatgpt.com/share/37c0bc7f-3559-481a-818f-b3b2b967a51d</a>
 
 Selected
 
@@ -45,11 +47,9 @@ Selected
 * How do you like them apples? – This phrase is used to boast about a success or taunt someone after a victory.
 * Apple-polisher – This refers to someone who flatters another person for personal gain.
 
-
-### Claude: https://claude.ai/chat/3fae907f-7d39-4706-9ea3-87197716d537
+### Claude: <a href="https://claude.ai/chat/3fae907f-7d39-4706-9ea3-87197716d537">https://claude.ai/chat/3fae907f-7d39-4706-9ea3-87197716d537</a>
 
 * "The sweetest apple has the sourest rind" - This proverb suggests that good things often have difficult exteriors or require effort to obtain.
-
 
 ## For Alix
 
@@ -61,11 +61,9 @@ I asked Gemini, Microsoft Copilot, ChatGPT, and Claude for sayings or aphorisms 
 * “Road Apple” - Horse manure
 * "The sweetest apple has the sourest rind" - This proverb suggests that good things often have difficult exteriors or require effort to obtain.
 
-
 ## 2024-08-01
 
 * therapist
-
 
 ## 2024-07-04
 
@@ -73,8 +71,6 @@ I asked Gemini, Microsoft Copilot, ChatGPT, and Claude for sayings or aphorisms 
 * credit card
 
 Testing testing 12 Testing testing 123.
-
-
 ## 2024-05-02
 
 * Shipping: you And Claudia work out the details. I'll pay
@@ -92,24 +88,21 @@ Testing testing 12 Testing testing 123.
 
 ### Links
 
-* [https://www.amazon.com/Superconnector-Networking-Building-Business-Relationships/dp/0738219967](https://www.amazon.com/Superconnector-Networking-Building-Business-Relationships/dp/0738219967)
-* [https://www.businessofbusiness.com/articles/who-the-real-superconnectors-are-and-why-you-should-become-one/](https://www.businessofbusiness.com/articles/who-the-real-superconnectors-are-and-why-you-should-become-one/)
-* [https://www.networkwise.com/superpowers-of-a-super-connector/](https://www.networkwise.com/superpowers-of-a-super-connector/)
-* [https://www.entrepreneur.com/starting-a-business/4-habits-of-a-super-connector/247896](https://www.entrepreneur.com/starting-a-business/4-habits-of-a-super-connector/247896)
-* [https://getdex.com/blog/super-connector/](https://getdex.com/blog/super-connector/)
-* [https://www.entrepreneur.com/starting-a-business/superconnectors-3-steps-to-becoming-a-networking-genius/308618](https://www.entrepreneur.com/starting-a-business/superconnectors-3-steps-to-becoming-a-networking-genius/308618)
+* <a href="https://www.amazon.com/Superconnector-Networking-Building-Business-Relationships/dp/0738219967">https://www.amazon.com/Superconnector-Networking-Building-Business-Relationships/dp/0738219967</a>
+* <a href="https://www.businessofbusiness.com/articles/who-the-real-superconnectors-are-and-why-you-should-become-one/">https://www.businessofbusiness.com/articles/who-the-real-superconnectors-are-and-why-you-should-become-one/</a>
+* <a href="https://www.networkwise.com/superpowers-of-a-super-connector/">https://www.networkwise.com/superpowers-of-a-super-connector/</a>
+* <a href="https://www.entrepreneur.com/starting-a-business/4-habits-of-a-super-connector/247896">https://www.entrepreneur.com/starting-a-business/4-habits-of-a-super-connector/247896</a>
+* <a href="https://getdex.com/blog/super-connector/">https://getdex.com/blog/super-connector/</a>
+* <a href="https://www.entrepreneur.com/starting-a-business/superconnectors-3-steps-to-becoming-a-networking-genius/308618">https://www.entrepreneur.com/starting-a-business/superconnectors-3-steps-to-becoming-a-networking-genius/308618</a>
 
 ### Opener
 
 I'm no expert. I'm a beginner.
-
 Here are some of my my theories
-
 I'm making up as I go along
-
 Here are some of my ideas
 
-* [https://news.ycombinator.com/item?Shoot](https://news.ycombinator.com/item?Shoot) Yeah, I mean, this stuff I was thinking about it. If nothing else, it's not about being famous. I think it's always about being a beginner And you're talking to other people that are just also beginners OK, well, II never want to put myself up as an expert. Put it that way. Or I'm, I feel like I'm the least expert of all of them, right? Thank you. And that's older than me and everything. Yeah, and and. But I think if you even talk to them, they would also say they're not experts. Yeah. Yeah And so anybody who says that they're an expert is is baloney Do you feel like I'm staying on the next bird? No, I'm just giving you a point of view I mean, what's important to. because who are you trying to? Who's the keynote for other experts or new people? Well, this is the first time all super connectors unite. OK, right. Or now, are they people that want to be super connectors No, they're the ones who are already have a big network They're already super connectors, and they've been selected, right? OK, and what? And what do you think they're trying to do? Make more money, or or or make a new industry or new life They're the super connectors are there to meet other super connectors and to put their connections at service of startups, right? And in return, they just might meet cool, interesting people. for their own they all have their own critical asks. So they can also, you know, if they're looking for investors or whatever needs to know that everyone there is super well connected, right Yeah, right. And so you're right It's all the Kings and Queens getting together. And I just want to think if that's good or bad, and what happens. and then you can let me know. OK, OK, right. Fair enough. OK, OK, we have so much power in this room. Let's use it for the good and to shape our society, you know, think ofid=40059887
+* <a href="https://news.ycombinator.com/item?Shoot">https://news.ycombinator.com/item?Shoot</a> Yeah, I mean, this stuff I was thinking about it. If nothing else, it's not about being famous. I think it's always about being a beginner And you're talking to other people that are just also beginners OK, well, II never want to put myself up as an expert. Put it that way. Or I'm, I feel like I'm the least expert of all of them, right? Thank you. And that's older than me and everything. Yeah, and and. But I think if you even talk to them, they would also say they're not experts. Yeah. Yeah And so anybody who says that they're an expert is is baloney Do you feel like I'm staying on the next bird? No, I'm just giving you a point of view I mean, what's important to. because who are you trying to? Who's the keynote for other experts or new people? Well, this is the first time all super connectors unite. OK, right. Or now, are they people that want to be super connectors No, they're the ones who are already have a big network They're already super connectors, and they've been selected, right? OK, and what? And what do you think they're trying to do? Make more money, or or or make a new industry or new life They're the super connectors are there to meet other super connectors and to put their connections at service of startups, right? And in return, they just might meet cool, interesting people. for their own they all have their own critical asks. So they can also, you know, if they're looking for investors or whatever needs to know that everyone there is super well connected, right Yeah, right. And so you're right It's all the Kings and Queens getting together. And I just want to think if that's good or bad, and what happens. and then you can let me know. OK, OK, right. Fair enough. OK, OK, we have so much power in this room. Let's use it for the good and to shape our society, you know, think ofid=40059887
 
 ## Get a platform / Generate content
 
@@ -146,11 +139,11 @@ Here are some of my ideas
 * We are a support group
 * We are a network of people who can help each other
 
-## [https://www.ted.com/](https://www.ted.com/)
+## <a href="https://www.ted.com/">https://www.ted.com/</a>
 
 ## 2024-04-04
 
-### [Recraft](https://invigorated-curiosity-028524.framer.app/)
+### <a href="https://invigorated-curiosity-028524.framer.app/">Recraft</a>
 
 * Schedule a call button: half covered
 * About in footer: link
@@ -159,7 +152,7 @@ Here are some of my ideas
 * Data driven design
 * Evidence based design
 * Authoritative design
-* Design for the ages \*
+* Design for the ages *
 
 ## Images / Videos
 
@@ -181,7 +174,6 @@ Here are some of my ideas
 ## 2024-02-01
 
 My Designed Life: Mental models
-
 Heritage Happenings
 
 * instagram for old people
@@ -193,7 +185,7 @@ Heritage Happenings
 
 ## 2024-01-19
 
-* Alix: web essentials < where??
+* Alix: web essentials &lt; where??
 * Alix: energy prompt ~ features/benefits ~ ECAT ~ links
 * Alix: Mood mirrors
 
@@ -212,7 +204,7 @@ Heritage Happenings
 * Hackathon
 * Mood Mirrors / energy prompt
 * Recraft
-* Will & Trust
+* Will &amp; Trust
 * aceit meeting / kayakomat
 * $15K distribution
 
@@ -227,48 +219,33 @@ Heritage Happenings
 * hackathon
 
 Energy prompt
-
 My Energy has a color which is dark purple, with shapes of very sharp triangles. The movement of the energy is very fast, the music style that would resemble it is heavy metal.
-
 ## 2023-08-03
 
 Going sailing with Gergana
-
-[https://www.circunomics.com/](https://www.circunomics.com/) >> OK!
-
+<a href="https://www.circunomics.com/">https://www.circunomics.com/</a> &gt;&gt; OK!
 Heart the idea.
-
 Observations
-
 You know I always look at the copyright date. If the date is not updated, the site has not been updated.
-
 CircaNomics copyright: 2020
-
 Also: Link to Instagram is broken.
-
 Therefore: Look hard for the something solid and real and actually happening now.
-
 ## 2023-07-15
 
-[https://www.cosmicdesign.io/podcasts/alix-armour](https://www.cosmicdesign.io/podcasts/alix-armour)
-
-How Olive Stones & Walnut Shells Can Change the Energy Game
-
+<a href="https://www.cosmicdesign.io/podcasts/alix-armour">https://www.cosmicdesign.io/podcasts/alix-armour</a>
+How Olive Stones &amp; Walnut Shells Can Change the Energy Game
 My daughter Alix explains how her company is helping transform waste products into useful commodities.
-
 Please have a look at or listen to this insightful and engaging podcast. Alix personifies her business, she has great energy!
-
 ## 2023-07-06
 
 * P65: who is selling? ~ dilution? ~ better reports ~
-* W&T: next steps?
+* W&amp;T: next steps?
 
 ## 2023-06-26
 
 * Will
 
 p65 call
-
 ## 2023-06-15
 
 * Will
@@ -280,8 +257,8 @@ p65 call
 * beach volleyball calendar
 * Simone ~ Notary
 * wegozero: awesome
-* H & C: more links, more facts or data
-* CR banking ~ Olga \* Opportunities
+* H &amp; C: more links, more facts or data
+* CR banking ~ Olga * Opportunities
 * ?? cargo bike
 * ann noca mobility
 * TVS
@@ -301,14 +278,16 @@ p65 call
 
 ??:
 
-* H&C
-* W&T
+* H&amp;C
+* W&amp;T
 
 ## 2023-03-28
 
-* [https://www.kate.tech/](https://www.kate.tech/) ~ COO job
+* <a href="https://www.kate.tech/">https://www.kate.tech/</a> ~ COO job
 * friend's name ~ floris ~
-    * blogs to HTML to GitHUB static sites!!!
+
+* blogs to HTML to GitHUB static sites!!!
+
 * Envolio ~
 * webcam easter
 * Paris
@@ -327,10 +306,10 @@ Compliance ~ being
 * Team members: receive extra career fulfillment - would not receive internally
 
 Numbers ~ Knowing
-
-[https://twitter.com/G\_S\_Bhogal/status/1636876184863797248](https://twitter.com/G_S_Bhogal/status/1636876184863797248)
-
-15.  Scoreboard Principle: Metrics motivate. Quantifying your progress on a task will push you to work harder, as it’ll become like a game in which you’re trying to increase your score. Find ways to number your progress, and you’ll become determined to make the numbers grow.
+<a href="https://twitter.com/G_S_Bhogal/status/1636876184863797248">https://twitter.com/G_S_Bhogal/status/1636876184863797248</a>
+<ol start="15">
+* Scoreboard Principle: Metrics motivate. Quantifying your progress on a task will push you to work harder, as it’ll become like a game in which you’re trying to increase your score. Find ways to number your progress, and you’ll become determined to make the numbers grow.
+</ol>
 
 * Really Useful. Much wanted. Allows accessing to others peoples stats. Enables comparisons
 * Goals ~ targets ~ metric: it's all about the numbers
@@ -345,40 +324,32 @@ Design ~ Doing
 
 ## 2023-03-06
 
-* [https://www.andersenshelling.com/services](https://www.andersenshelling.com/services)
+* <a href="https://www.andersenshelling.com/services">https://www.andersenshelling.com/services</a>
 * MS365
 * Manatt
 * chatGPT
 
-scale + wifi out of the box\\f
-
+scale + wifi out of the box\f
 thre para
-
 Smart Scales
-
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8122302/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8122302/)
-
-[https://www.cnn.com/cnn-underscored/reviews/best-smart-scale](https://www.cnn.com/cnn-underscored/reviews/best-smart-scale)
-
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8122302/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8122302/</a>
+<a href="https://www.cnn.com/cnn-underscored/reviews/best-smart-scale">https://www.cnn.com/cnn-underscored/reviews/best-smart-scale</a>
 WiFi 3D Vision
-
-[https://www.discovermagazine.com/technology/wifi-signals-used-to-see-people-inside-rooms](https://www.discovermagazine.com/technology/wifi-signals-used-to-see-people-inside-rooms)
-
-[https://www.popularmechanics.com/technology/security/a42575068/scientists-use-wifi-to-see-through-walls/](https://www.popularmechanics.com/technology/security/a42575068/scientists-use-wifi-to-see-through-walls/)
-
+<a href="https://www.discovermagazine.com/technology/wifi-signals-used-to-see-people-inside-rooms">https://www.discovermagazine.com/technology/wifi-signals-used-to-see-people-inside-rooms</a>
+<a href="https://www.popularmechanics.com/technology/security/a42575068/scientists-use-wifi-to-see-through-walls/">https://www.popularmechanics.com/technology/security/a42575068/scientists-use-wifi-to-see-through-walls/</a>
 Smart Water ~ Evan
 
-* [https://www.moen.com/flo](https://www.moen.com/flo)
+* <a href="https://www.moen.com/flo">https://www.moen.com/flo</a>
 
 ## 2023-02-28
 
-### H&S.com
+### H&amp;S.com
 
 * Stichting DIGI NL ??
 * Email ??
 * "Just another WP site"
 * WP Icon
-* Inst & Ln links
+* Inst &amp; Ln links
 * Testimonials
 
 ### PowerPoint
@@ -387,10 +358,10 @@ Smart Water ~ Evan
 * More links please
 * Shadow on last page
 
-### Enviolo & SDGs
+### Enviolo &amp; SDGs
 
-* [https://unglobalcompact.org/take-action/sdg-action-manager](https://unglobalcompact.org/take-action/sdg-action-manager)
-* [https://assets.ctfassets.net/l575jm7617lt/a9gp1qeOo4xSlVVsu0Xvg/e6cae6b05a66e222f00ca35361fd986d/sdg-am-technical-guide-en-us.pdf](https://assets.ctfassets.net/l575jm7617lt/a9gp1qeOo4xSlVVsu0Xvg/e6cae6b05a66e222f00ca35361fd986d/sdg-am-technical-guide-en-us.pdf)
+* <a href="https://unglobalcompact.org/take-action/sdg-action-manager">https://unglobalcompact.org/take-action/sdg-action-manager</a>
+* <a href="https://assets.ctfassets.net/l575jm7617lt/a9gp1qeOo4xSlVVsu0Xvg/e6cae6b05a66e222f00ca35361fd986d/sdg-am-technical-guide-en-us.pdf">https://assets.ctfassets.net/l575jm7617lt/a9gp1qeOo4xSlVVsu0Xvg/e6cae6b05a66e222f00ca35361fd986d/sdg-am-technical-guide-en-us.pdf</a>
 
 ### More
 
@@ -398,20 +369,19 @@ Smart Water ~ Evan
 * Perfume guy ?? arnaud poulain
 * DAF
 * Manatt fees ~ what did we do to get the $10K bump?
-* Walnuts & pistachios
+* Walnuts &amp; pistachios
 
 ## 2023-02-03
 
-Family member last pass BTW, please try: LastPass > Left menu > "Emergency Access" > "People Who Trust Me"
-
+Family member last pass BTW, please try: LastPass &gt; Left menu &gt; "Emergency Access" &gt; "People Who Trust Me"
 Luca Turin
 
-* [https://www.amazon.com/Emperor-Scent-Story-Perfume-Obsession/dp/0375759816](https://www.amazon.com/Emperor-Scent-Story-Perfume-Obsession/dp/0375759816)
-* [https://en.wikipedia.org/wiki/Luca\_Turin](https://en.wikipedia.org/wiki/Luca_Turin)
+* <a href="https://www.amazon.com/Emperor-Scent-Story-Perfume-Obsession/dp/0375759816">https://www.amazon.com/Emperor-Scent-Story-Perfume-Obsession/dp/0375759816</a>
+* <a href="https://en.wikipedia.org/wiki/Luca_Turin">https://en.wikipedia.org/wiki/Luca_Turin</a>
 
 ## 2023-02-02
 
-* Pack thinkpad & robot & photos
+* Pack thinkpad &amp; robot &amp; photos
 
 ## 2023-01-17
 
@@ -424,15 +394,14 @@ Luca Turin
 
 ## 2023-01-09
 
-family member last pass BTW, please try: LastPass > Left menu > "Emergency Access" > "People Who Trust Me"
-
+family member last pass BTW, please try: LastPass &gt; Left menu &gt; "Emergency Access" &gt; "People Who Trust Me"
 ## 2023-01-02
 
-* & ~ meaning ~ graphic ~ beauty
+* &amp; ~ meaning ~ graphic ~ beauty
 * Double barrel nice
-* Grow & Share
-* Design & Dazzle
-* Peace & Plenty
+* Grow &amp; Share
+* Design &amp; Dazzle
+* Peace &amp; Plenty
 * Trips ??
 * Crypto
 * Ronan Berder: Andrea ~ 7 seven kids?
@@ -441,25 +410,24 @@ family member last pass BTW, please try: LastPass > Left menu > "Emergency Acces
 
 * linked in #2
 * Family charity ~ fire management ~ Sustainable Agriculture
-* Blockchain & Crypto?
+* Blockchain &amp; Crypto?
 
 ## 2022-12-06
 
-* [https://www.carbonequity.com/](https://www.carbonequity.com/)
+* <a href="https://www.carbonequity.com/">https://www.carbonequity.com/</a>
 * Coffee husks
 * carbon credits
 
 ## 2022-11-01
 
 * NFT art vs Physical art
-* Web3.0 vs Govs & Banks & ISPs
+* Web3.0 vs Govs &amp; Banks &amp; ISPs
 * BlockChain is making money vs investing is making things
 * Sucks you in like a sect / become priests
 
 ## 2022-10-25
 
-Manattt ~ docs 1 & 2 ~ Nov 4 comments? Exit Narrative Costa Rica Start reference file / split journal Want Framework? Simone/neil safe box
-
+Manattt ~ docs 1 &amp; 2 ~ Nov 4 comments? Exit Narrative Costa Rica Start reference file / split journal Want Framework? Simone/neil safe box
 ## 2022-10-18
 
 * Exit Narrative
@@ -470,12 +438,10 @@ Manattt ~ docs 1 & 2 ~ Nov 4 comments? Exit Narrative Costa Rica Start reference
 ## 2022-09-28
 
 Health ~ Anemia
-
 Wedding
-
 Meeting with Vivian
 
-* [https://manatt-my.sharepoint.com/personal/vredsar\_manatt\_com/\_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvredsar%5Fmanatt%5Fcom%2FDocuments%2FArmour%20Documents&ga=1](https://manatt-my.sharepoint.com/personal/vredsar_manatt_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvredsar%5Fmanatt%5Fcom%2FDocuments%2FArmour%20Documents&ga=1)
+* <a href="https://manatt-my.sharepoint.com/personal/vredsar_manatt_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvredsar%5Fmanatt%5Fcom%2FDocuments%2FArmour%20Documents&amp;ga=1">https://manatt-my.sharepoint.com/personal/vredsar_manatt_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvredsar%5Fmanatt%5Fcom%2FDocuments%2FArmour%20Documents&amp;ga=1</a>
 * Awful form
 
 Document Styling
@@ -500,16 +466,14 @@ Document Styling
 
 * Cruise
 * Super73 funding
-* Manatt   \* shared folder
+* Manatt &nbsp; * shared folder
 
 ## 2022-06-20
 
 Is there a mid-year check-in for 2022?
-
 ## 2022-05-15
 
 trickle down to production
-
 ## 2022-05-11
 
 * Impact
@@ -520,7 +484,6 @@ trickle down to production
 ## 2022-03-23
 
 Vivian
-
 Upcoming
 
 * February 16 - 26 ~ Costa Rica with Esteben
@@ -528,7 +491,6 @@ Upcoming
 ## 2022-03-08
 
 Check is here ants smell cancer jewelry
-
 ## 2021-11-30
 
 * Wedding - housing
@@ -543,7 +505,7 @@ Check is here ants smell cancer jewelry
 * Ongoing and engaging dialog
 * Alix: my job description
 * Alix ~ coursera sdg
-* Alix ~ [https://docs.google.com/document/d/1orXUVjhOTnbjxvrcmwGE\_1JY6d9A7OpVCcBCGhgujXQ/edit](https://docs.google.com/document/d/1orXUVjhOTnbjxvrcmwGE_1JY6d9A7OpVCcBCGhgujXQ/edit)
+* Alix ~ <a href="https://docs.google.com/document/d/1orXUVjhOTnbjxvrcmwGE_1JY6d9A7OpVCcBCGhgujXQ/edit">https://docs.google.com/document/d/1orXUVjhOTnbjxvrcmwGE_1JY6d9A7OpVCcBCGhgujXQ/edit</a>
 * Wills
 
 ## Items that come to Daddy's mind when thinking about Alix
@@ -576,13 +538,12 @@ Check is here ants smell cancer jewelry
 ### 2021-05-24
 
 Alix: To agree on:
-
-1.  send email to lawyer(s)
-2.  Watches: decide to keep or sell. Will reply to Carol
-3.  Coins, need to organize them from storage, can’t help in the immediate
-
+<ol>
+* send email to lawyer(s)
+* Watches: decide to keep or sell. Will reply to Carol
+* Coins, need to organize them from storage, can’t help in the immediate
+</ol>
 Daddy: Thinking out loud Relationship with daughters is purely friendship ~ no obligations or expectations Hiring assistants to accomplish the tasks needed to be done Players will be mix of meatworld and online Effort will be open source and on GitHub
-
 ### 2021-05-06
 
 * Family becoming Boring
@@ -590,7 +551,7 @@ Daddy: Thinking out loud Relationship with daughters is purely friendship ~ no o
 * Items to Amsterdam
 * SDGs
 * Discussion Management
-* Wills&Trusts
+* Wills&amp;Trusts
 * Legacy Management
 * Catherine
 * Family photos ~ flickr etc
@@ -607,12 +568,12 @@ Daddy: Thinking out loud Relationship with daughters is purely friendship ~ no o
 * Healdsburg ~ GerryT ~ WolfH
 * Family ~ Projects
 * Taxes
-* Wills&Trusts
+* Wills&amp;Trusts
 * Sustainability
 * Sustainability
-* [https://ta.medium.com/awesome-list-of-united-nations-sustainable-development-goals-33ff192f0e85](https://ta.medium.com/awesome-list-of-united-nations-sustainable-development-goals-33ff192f0e85)
-* [https://theo-armour.github.io/sdg-2021/](https://theo-armour.github.io/sdg-2021/)
-* Book ~ [https://www.romankrznaric.com/good-ancestor](https://www.romankrznaric.com/good-ancestor)
+* <a href="https://ta.medium.com/awesome-list-of-united-nations-sustainable-development-goals-33ff192f0e85">https://ta.medium.com/awesome-list-of-united-nations-sustainable-development-goals-33ff192f0e85</a>
+* <a href="https://theo-armour.github.io/sdg-2021/">https://theo-armour.github.io/sdg-2021/</a>
+* Book ~ <a href="https://www.romankrznaric.com/good-ancestor">https://www.romankrznaric.com/good-ancestor</a>
 * Bunq ~ be careful
 * Have you met Ali Niknam?
 * Super73
@@ -623,20 +584,20 @@ Daddy: Thinking out loud Relationship with daughters is purely friendship ~ no o
 
 ### 2021-04-07
 
-#### Bunq
+<h4>Bunq</h4>
 
-* [https://www.bunq.com/bu16](https://www.bunq.com/bu16)
-* [https://www.bunq.com/press](https://www.bunq.com/press)
-* [https://www.crunchbase.com/person/ali-niknam](https://www.crunchbase.com/person/ali-niknam)
-* [https://siliconcanals.com/news/startups/dutch-challenger-bank-bunq-turns-5/](https://siliconcanals.com/news/startups/dutch-challenger-bank-bunq-turns-5/)
-* [https://nl.wikipedia.org/wiki/Ali\_Niknam](https://nl.wikipedia.org/wiki/Ali_Niknam)
+* <a href="https://www.bunq.com/bu16">https://www.bunq.com/bu16</a>
+* <a href="https://www.bunq.com/press">https://www.bunq.com/press</a>
+* <a href="https://www.crunchbase.com/person/ali-niknam">https://www.crunchbase.com/person/ali-niknam</a>
+* <a href="https://siliconcanals.com/news/startups/dutch-challenger-bank-bunq-turns-5/">https://siliconcanals.com/news/startups/dutch-challenger-bank-bunq-turns-5/</a>
+* <a href="https://nl.wikipedia.org/wiki/Ali_Niknam">https://nl.wikipedia.org/wiki/Ali_Niknam</a>
 
 ### 2020-10-12
 
 * Talk feedback
-* Super73 ~ how is it with partners? With Cash flow & funding? With Office?
+* Super73 ~ how is it with partners? With Cash flow &amp; funding? With Office?
 * Lawyers ~ loan OK. Wills and trusts TBD. Finish move first. Then write together.
-* Family: I see how strong Chinese and Jewish families are ay committing to things & I'm jealous
+* Family: I see how strong Chinese and Jewish families are ay committing to things &amp; I'm jealous
 * Where to communicate in writing that includes Isabelle???
 * Need multiple topics
 * Open source format / multiple owners
@@ -679,45 +640,36 @@ Make good use
 * Chocolate Covered
 * museum wax
 * Ritz? Old Ship?
-* [https://alixfa.weebly.com/](https://alixfa.weebly.com/) >> needs links
+* <a href="https://alixfa.weebly.com/">https://alixfa.weebly.com/</a> &gt;&gt; needs links
 
 ## Digital Marketing
 
-Leah Rosenthal, Director of Digital Marketing [leah@websightdesign.com](mailto:leah@websightdesign.com)
-
+Leah Rosenthal, Director of Digital Marketing <a href="mailto:leah@websightdesign.com">leah@websightdesign.com</a>
 ## Scout
 
-* [https://www.lithiumcycles.com/](https://www.lithiumcycles.com/)
-* [https://www.instagram.com/super73/](https://www.instagram.com/super73/)
-* [https://www.youtube.com/channel/UCEnVldVHyS4oA1TLae4XDYQ/videos](https://www.youtube.com/channel/UCEnVldVHyS4oA1TLae4XDYQ/videos)
+* <a href="https://www.lithiumcycles.com/">https://www.lithiumcycles.com/</a>
+* <a href="https://www.instagram.com/super73/">https://www.instagram.com/super73/</a>
+* <a href="https://www.youtube.com/channel/UCEnVldVHyS4oA1TLae4XDYQ/videos">https://www.youtube.com/channel/UCEnVldVHyS4oA1TLae4XDYQ/videos</a>
 
 ## Scout ideas
 
 What to do with empty space? Photo poster
-
 ## GoPro Fusion
 
-[https://shop.gopro.com/cameras/fusion/CHDHZ-101.html](https://shop.gopro.com/cameras/fusion/CHDHZ-101.html)
+<a href="https://shop.gopro.com/cameras/fusion/CHDHZ-101.html">https://shop.gopro.com/cameras/fusion/CHDHZ-101.html</a>
 
 * It's all about the software
 
-[https://www.facebook.com/alixa](https://www.facebook.com/alixa) [http://alixarmour.com](http://alixarmour.com) [http://akinalighting.com](http://akinalighting.com)
-
+<a href="https://www.facebook.com/alixa">https://www.facebook.com/alixa</a> <a href="http://alixarmour.com">http://alixarmour.com</a> <a href="http://akinalighting.com">http://akinalighting.com</a>
 ## Life ideas
 
 have: focus / desire for assembling people / project oriented / excellent multi-channel communications / sense of design flexibility / perseverance /
-
 needs developing: antenna
-
 Children ~ if the right magic happens, you will know and you will have. needs right person/right support large corporation - zooming up
-
 peeps to talk to? charlotte/arnaud ~ corinne ~ autonomy dude peeps look for 35-40 / established success the demand: ladies in Tech
-
-[http://www.brille24.de/](http://www.brille24.de/) ~ web site should be flatter / full screen images nimblescooters.com - The World's Original Cargo Scooter [http://www.joshfire.com/en/home.html](http://www.joshfire.com/en/home.html)
-
-[http://www.cg-mobile.com/](http://www.cg-mobile.com/) ~ 10/19/2011 report [https://www.igo3d.com/](https://www.igo3d.com/)
-
+<a href="http://www.brille24.de/">http://www.brille24.de/</a> ~ web site should be flatter / full screen images nimblescooters.com - The World's Original Cargo Scooter <a href="http://www.joshfire.com/en/home.html">http://www.joshfire.com/en/home.html</a>
+<a href="http://www.cg-mobile.com/">http://www.cg-mobile.com/</a> ~ 10/19/2011 report <a href="https://www.igo3d.com/">https://www.igo3d.com/</a>
 ## Roxana Piffl
 
-* [https://www.linkedin.com/in/roxana-piffl-4248a241](https://www.linkedin.com/in/roxana-piffl-4248a241)
-* [https://www.instagram.com/roxpiffl/?hl=en](https://www.instagram.com/roxpiffl/?hl=en)
+* <a href="https://www.linkedin.com/in/roxana-piffl-4248a241">https://www.linkedin.com/in/roxana-piffl-4248a241</a>
+* <a href="https://www.instagram.com/roxpiffl/?hl=en">https://www.instagram.com/roxpiffl/?hl=en</a>
