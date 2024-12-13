@@ -3,6 +3,26 @@
 * 415 271 4286
 * diana94133@pm.me
 
+
+## 2024-12-13
+
+A good job
+
+* earning ~ sufficient to live well
+* learning ~ skills that are useful in and outside the current job
+* searching ~ for ways to use the job to make the world a better place
+
+Simplicity
+
+
+
+History
+
+
+Virtue
+
+
+
 ## 2024-12-10
 
 Diana, I just sent you an email. I look forward to hearing from you. Theo
