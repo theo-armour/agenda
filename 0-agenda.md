@@ -10,6 +10,10 @@
 
 * ?
 * Donna: January tour
+* Mark Bell
+* Lemire
+
+* Cynthia: Christmas
 
 Emails
 
@@ -26,8 +30,10 @@ Tasks
 Text
 
 * Mike M
-* Lemire
-* Mark Bell
+* 
+
+* 
+
 * NV Amy: invite&nbsp;hello
 
 calls
