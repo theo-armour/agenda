@@ -9,12 +9,7 @@
 ## Today
 
 * ?
-* 
-* Woody
 * Donna: January tour
-* 
-
-* 
 
 Emails
 
