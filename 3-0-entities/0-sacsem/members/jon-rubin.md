@@ -5,6 +5,12 @@
 
 From Jeff Russell
 
+
+57 years friend of Jon.
+We both shared at our core the best of the 60s insights.
+
+I embodied that even later in life coming back to being a Yoga teacher
+
 Before Jon made his mark here in San Francisco, he was a character and a significant presence in our large counter-cultural family at Syracuse University.
 
 Jon touched a lot of lives. Over all the years, he kept in touch with many of us.
