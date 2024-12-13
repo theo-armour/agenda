@@ -7,6 +7,37 @@
 * https://www.sfheritage.org/staff-member/stephen-woody-labounty/
 * Phone: 415-441-3000 x15
 
+## 2024-12-12
+
+Hi Woody
+
+And, in return, I am sorry for my slow reply.
+
+Spec's
+I was hoping to attend my first SF Heritage Happy Hour at one of my old hangouts tonight. Fingers crossed: next time works
+
+I an leading a tour of the eight Glow SF installations this evening. I hope it helps inspire some of my fellow residents to consider helping with a modern illumination system for the Julia Morgan at Heritage on the Marina
+
+Collaboration
+>> We will be very happy to share and “report” on the anniversary event in March and I will try to squeeze in some of the great history
+
+Just give a holler and I can draft and prepare any texy or images you might need. I am very happy to help.
+
+Newsletter
+Here is a link to the December Heritage Happenings: https://heritage-happenings.github.io/happenings-issues/2024/2024-12-happenings-newsletter.pdf
+
+This is the monthly newsletter I edit and publish. Thinking out loud: should future issues include a box somewhere with some interesting aspect of San Francisco Heritage? An event past, present or future, perhaps?
+
+Roses of 3400 Laguna
+Here links to the papers I submitted to the Planning Commission and the Historic Commission for the Draft EIR for 3400 Laguna Street:
+
+The Roses of 3400 Laguna ~ https://heritage-happenings.github.io/pages/2024/eir/the-roses-of-3400-laguna.pdf
+Julia Morgan Building: Character Defining Features ~ https://heritage-happenings.github.io/pages/2024/eir/julia-morgan-building-character-defining-features.pdf
+Theo Armour: EIR Comments Cover Letter ~ https://heritage-happenings.github.io/pages/2024/eir/theo-armour-eir-comments-cover-letter.pdf
+
+
+
+
 ## Heritage Happy Hour:
 
 * 5-7 ~ December 12, 2024: Spec’s Twelve Adler Museum Cafe, 12 William Saroyan Place
