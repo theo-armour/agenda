@@ -30,10 +30,6 @@ Tasks
 Text
 
 * Mike M
-* 
-
-* 
-
 * NV Amy: invite&nbsp;hello
 
 calls
