@@ -42,7 +42,6 @@ calls
 * Outlook email replies
 * Steve Gordon: jon
 * SiSi: home help
-* Boxing Day
 * Tom Johnson: wine
 * Joel P:
 * Mary: HH+NV ~ hector ~ PPH
