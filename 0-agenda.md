@@ -4,13 +4,12 @@
 
 * ++
 * 2024-12-06:&nbsp;With deeper knowledge there may be deeper feelings
+* 2024-12-16: In this era, the more you know, the more you know&nbsp;
 
 <!-- this is a comment -->
 ## Today
 
 * ?
-* 
-
 * Mark Bell
 * Lemire
 
