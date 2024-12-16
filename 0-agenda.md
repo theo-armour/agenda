@@ -12,7 +12,6 @@
 * UCSF: checkin
 * Mark Bell
 * Lemire
-* Cynthia: Christmas
 
 Emails
 
