@@ -10,7 +10,8 @@
 ## Today
 
 * ?
-* Mark Bell
+* 
+
 * Lemire
 
 Emails
