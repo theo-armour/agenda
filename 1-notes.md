@@ -1,20 +1,14 @@
 # Notes
 
-+++Don't let your recap become a kneecap if you go yay I know right I I thirst for conversation that is not something that happened 50 years ago there are two kinds of residents have brain damage almost everybody's coming in is assisted living oh really right they're not that level yet or whatever we will join with somebody else we don't know who they're talking to yet so they've been reported from the consultants it will be definitely a nonprofit and we are changing I don't know hours
++++close-up of aDon't let your recap become a kneecap if you go yay I know right I I thirst for conversation that is not something that happened 50 years ago there are two kinds of residents have brain damage almost everybody's coming in is assisted living oh really right they're not that level yet or whatever we will join with somebody else we don't know who they're talking to yet so they've been reported from the consultants it will be definitely a nonprofit and we are changing I don't know hours
+
 Jeanine&nbsp;
-
 new text&nbsp;try
-
 Jon Rawls
-
 Om 415 751 9788
-
 Pmnr doctor&nbsp;
-
 Heather Brooke national Park service fort Mason Charles sowers sculptor&nbsp; San Francisco museum &amp; historical society&nbsp;
-
 Marty typewriter
-
 Power play San Francisco standard Annie gaus
 
 * EIR ~ residents points ~ van
