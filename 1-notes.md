@@ -1,21 +1,16 @@
 # Notes
 
-+++Dr HanNight vision deteriorating&nbsp;Eyelashes bother a bit&nbsp;Occasional lack of focus when looking at computer screen
-
++++Dr Han
+Night vision deteriorating&nbsp;
+Eyelashes bother a bit&nbsp;
+Occasional lack of focus when looking at computer screen
 Jeanine&nbsp;
-
 new text&nbsp;try
-
 Jon Rawls
-
 Om 415 751 9788
-
 Pmnr doctor&nbsp;
-
 Heather Brooke national Park service fort Mason Charles sowers sculptor&nbsp; San Francisco museum &amp; historical society&nbsp;
-
 Marty typewriter
-
 Power play San Francisco standard Annie gaus
 
 * EIR ~ residents points ~ van
