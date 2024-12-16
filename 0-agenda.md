@@ -24,7 +24,7 @@ Emails
 Tasks
 
 * ++
-* My Christmas party: mia?
+* 
 
 Text
 
