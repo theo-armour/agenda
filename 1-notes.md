@@ -1,7 +1,9 @@
 # Notes
 
-+++close-up of aDon't let your recap become a kneecap if you go yay I know right I I thirst for conversation that is not something that happened 50 years ago there are two kinds of residents have brain damage almost everybody's coming in is assisted living oh really right they're not that level yet or whatever we will join with somebody else we don't know who they're talking to yet so they've been reported from the consultants it will be definitely a nonprofit and we are changing I don't know hours
-
++++Dr Han
+Night vision deteriorating&nbsp;
+Eyelashes bother a bit&nbsp;
+Occasional lack of focus when looking at computer screen
 Jeanine&nbsp;
 new text&nbsp;try
 Jon Rawls
