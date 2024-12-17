@@ -1,30 +1,18 @@
 # Notes
 
-+++&nbsp;<span style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; white-space: pre;">"Grant, O Lord, that in all the joys of life we may never forget to be kind. Help us to be unselfish in friendship, thoughtful of those less happy than ourselves, and eager to bear the burdens of others; through Jesus Christ our Savior. Amen."</span><span style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; white-space: pre;">
+++<span style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; white-space: pre;">Grant, O Lord, that in all the joys of life we may never forget to be kind. Help us to be unselfish in friendship, thoughtful of those less happy than ourselves, and eager to bear the burdens of others; through Jesus Christ our Savior. Amen."</span><span style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; white-space: pre;">
 </span>
-
 Dr Han
-
 Night vision deteriorating&nbsp;
-
 Eyelashes bother a bit&nbsp;
-
 Occasional lack of focus when looking at computer screen
-
 Jeanine&nbsp;
-
 new text&nbsp;try
-
 Jon Rawls
-
 Om 415 751 9788
-
 Pmnr doctor&nbsp;
-
 Heather Brooke national Park service fort Mason Charles sowers sculptor&nbsp; San Francisco museum &amp; historical society&nbsp;
-
 Marty typewriter
-
 Power play San Francisco standard Annie gaus
 
 * EIR ~ residents points ~ van
