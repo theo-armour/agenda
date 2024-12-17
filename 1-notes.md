@@ -1,7 +1,7 @@
 # Notes
 
-++<span style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; white-space: pre;">Grant, O Lord, that in all the joys of life we may never forget to be kind. Help us to be unselfish in friendship, thoughtful of those less happy than ourselves, and eager to bear the burdens of others; through Jesus Christ our Savior. Amen."</span><span style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; white-space: pre;">
-</span>
++++Grant, O Lord, that in all the joys of life we may never forget to be kind. Help us to be unselfish in friendship, thoughtful of those less happy than ourselves, and eager to bear the burdens of others; through Jesus Christ our Savior. Amen.
+
 Dr Han
 Night vision deteriorating&nbsp;
 Eyelashes bother a bit&nbsp;
