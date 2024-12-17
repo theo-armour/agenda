@@ -82,7 +82,7 @@ Waiting
 
 * ?
 * Plateau chair
-* A: mike ~ closys ~ neutrogena shampoo ~ grab bar
+* A: mike ~ grab bar
 * Winter shoes
 * EyeBuyDirect: small spec
 
