@@ -6,6 +6,23 @@
 * https://www.linkedin.com/in/donnabooher/
 
 
+
+## 2024-12-17
+
+Hi Donna
+
+## Next Village Initiatives
+
+* Are there any new initiatives or outreach programs that you are working on that you would like to share with us?
+* HotM residents that are members of NV? enefits
+
+## NV & HotM Overlaps
+
+* Tours
+* Seminars & Performances
+* Newsletter & Writers group
+* Outings
+
 ## 2024-12-10
 
 Hi Donna
