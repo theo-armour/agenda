@@ -19,6 +19,7 @@ If Google CSV file fails to open in Outlook, probably because of Unicode charact
 SolutionL Use Excel to translate:
 
 View Unicode characters in Excel:
+
 1. Open Excel from your menu or Desktop. ...
 2. Navigate to Data → Get External Data → From Text. ...
 3. Navigate to the location of the CSV file you want to import.
