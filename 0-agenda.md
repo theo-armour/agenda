@@ -22,7 +22,6 @@ Emails
 Tasks
 
 * ++
-* 
 
 Text
 
@@ -49,7 +48,7 @@ calls
 Waiting
 
 * Ange: cookie images
-* Jeff Russell 530-277-8021
+* Jeff Russell 530-277-8021?
 * 
 
 ***
