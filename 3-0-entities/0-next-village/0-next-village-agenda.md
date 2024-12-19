@@ -1,6 +1,7 @@
 # Next Village Agenda
 
 * Events Coordinator
+* Tea Parties
 
 ## Agenda
 
