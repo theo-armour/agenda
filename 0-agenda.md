@@ -27,6 +27,7 @@ Tasks
 Text
 
 * Mike M
+Siaorsia?
 * NV Amy: invite&nbsp;hello
 
 calls
@@ -36,20 +37,20 @@ calls
 ## SOON
 
 * ++
-* <div style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;">hector: tank pictures
+* LED app
 * George Dicke?
 * Outlook email replies
 * Steve Gordon: jon
 * SiSi: home help
 * Tom Johnson: wine
 * Joel P:
-* Mary: HH+NV ~ hector ~ PPH
+* Mary: HH ~ hector ~ PPH
 
 Waiting
 
 * Ange: cookie images
 * Jeff Russell 530-277-8021
-* Peter Taylor
+* 
 
 ***
 
