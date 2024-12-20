@@ -49,7 +49,8 @@ calls
 
 Waiting
 
-* Ange: cookie images
+* 
+
 * Jeff Russell 530-277-8021?
 * 
 
