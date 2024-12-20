@@ -1,10 +1,9 @@
 # Next Village Agenda
 
-
-* Events Coordinator: who to contact
+* Events Coordinator
+* Tea Parties
 
 ## Agenda
-
 
 ## Questions
 
@@ -15,8 +14,8 @@
 
 ## 2024-11-24
 
-* Transport to storage & elsewhere: car or waymo
-* Bonded & insured
+* Transport to storage &amp; elsewhere: car or waymo
+* Bonded &amp; insured
 * Donna: lectures + lunches + tech
 * Diana Greer: message
 * Join WhatsApp
@@ -27,5 +26,3 @@
 * Julia Morgan building tours
 * What is NV seeking these days?
 * D2 in particular
-
-
