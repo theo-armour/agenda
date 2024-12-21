@@ -39,8 +39,6 @@ calls
 ## SOON
 
 * ++
-* 
-
 * George Dicke?
 * Outlook email replies
 * Steve Gordon: jon
