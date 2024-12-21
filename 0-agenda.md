@@ -11,8 +11,6 @@
 ## Today
 
 * ?
-* 
-
 * <a href="mailto:patricksinclair@yahoo.com">patricksinclair@yahoo.com</a>
 * Lemire
 
@@ -48,7 +46,7 @@ calls
 * SiSi: home help
 * Tom Johnson: wine
 * Joel P:
-* Mary: HH ~ hector ~ PPH
+* Mary: HH ~ Hector
 
 Waiting
 
@@ -102,7 +100,7 @@ Waiting
 **Health**
 
 -->
-<details open="">
+<details>
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
