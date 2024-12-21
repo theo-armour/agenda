@@ -23,17 +23,17 @@
 
 ## "Individual" here mean the organization
 
-Shining light retirement community
-5 stars
-example for others
-Shares stats, guidance and processes
-embraces diversity
-Shares and exchanges with communities of color, LGBT
-Digital embracing
-Accepts affluent and needy
-Encourages curiosity and learning
-Guidance in diet and fitness
-Wins beauty contests
+* Shining light retirement community
+* 5 stars
+* example for others
+* Shares stats, guidance and processes
+* embraces diversity
+* Shares and exchanges with communities of color, LGBT
+* Digital embracing
+* Accepts affluent and needy
+* Encourages curiosity and learning
+* Guidance in diet and fitness
+* Wins beauty contests
 
 ## Futures
 

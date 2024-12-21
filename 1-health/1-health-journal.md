@@ -1,10 +1,28 @@
 # Health Journal
 
-* Dr Kattah: 09/05 8:00
-* Dr Yoga: 09/12 3:00
-* Dr Fassett: 10/05 2:30 ~ Dermatology exam ~ 185 Berry Ste 1000
-* Dr Masato Nagao: 10/21 @ 1 pm ~ 415 353 2080 ~ 1500 Owens
 
+
+## 2024-12-17
+
+* Danial Ballarin: pickup completed hook & led
+
+## 2024-12-16
+
+* Dr Han: eyes OK
+
+## 2024-12-03
+
+* Genualdi: report
+
+## 2024-10
+
+* Dr Masato Nagao: 10/21 @ 1 pm ~ 415 353 2080 ~ 1500 Owens
+* Dr Fassett: 10/05 2:30 ~ Dermatology exam ~ 185 Berry Ste 1000
+
+## 2024-09
+
+* Dr Yoga: 09/12 3:00
+* Dr Kattah: 09/05 8:00
 
 ## 2024-08-09
 

@@ -2,10 +2,23 @@
 
 ## Agenda
 
+* Pharmerica ~ get registration number
+* Contact Deltsa Dental  ~ get benefits for codes
 
-### Dental ??
+## Dental codes for me:
 
-* https://www.blueshieldca.com/en/medicare/medicare-plan-types/dental/medicare-supplement-dental
+From Charlene at UCSF
+
+* D4277
+* D6010
+* D4341
+* D4910
+* D1206
+* D0120
+
+## Delta Dental
+
+* https://www1.deltadentalins.com/individuals-and-families/plans/delta-dental-ppo.html
 
 
 ## Medicare
@@ -20,7 +33,6 @@
 
 * https://www.blueshieldca.com/en/home
 * Blue Shield Confirmation #M89734327287328G
-
 * ID XEM909662185
 * Group #X0001002
 * Effective 02/01/2020
@@ -32,32 +44,33 @@
 ## Aetna Medicare / CVS Caremark ~ Part D?
 
 * Formerly SilverScript
-
-Member #G6C825534 ~ 1-866-552-6106
-
-https://www.caremark.com/ ~ payments 1 866 237 7373
+* Member #G6C825534 ~ 1-866-552-6106
+* https://www.caremark.com/ ~ payments 1 866 237 7373
 
 
 ### Member ID card
 
 CVS Caremark Prescription card
-RxBIN 004336
-RxPCN MEDDADV
-RxGRP RXCVSD
-Issuer 9151014609
-ID
-G6C825534
-Name
-NORMAN ARMOUR
+
+* RxBIN 004336
+* RxPCN MEDDADV
+* RxGRP RXCVSD
+* Issuer 9151014609
+* ID
+* G6C825534
+* Name
+* NORMAN ARMOUR
 
 Customer Care Representative:
-866-235-5660 (TTY: 711)
+
+* 866-235-5660 (TTY: 711)
 
 Submit paper claims to:
-Caremark
-PO Box 52136
-Phoenix, AZ 85072-2136
-caremark.com
+
+* Caremark
+* PO Box 52136
+* Phoenix, AZ 85072-2136
+* caremark.com
 
 ***
 

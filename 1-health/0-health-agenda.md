@@ -6,7 +6,6 @@
 * Senior Doc
 * 2024-11-26: Dr Genualdi: prepare report
 * Sports medicine reference
-* Daniel B: 17th
 * Colonoscopy report??
 
 ## Agenda
@@ -69,6 +68,7 @@ Martha Nkhoma
 ### PPH ~ Gary Richmond: msg
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">1.2 PPH</a>
+
 ## Lists
 
 ## Not to forget
