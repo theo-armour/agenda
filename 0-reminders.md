@@ -1,6 +1,7 @@
 # Reminders
 
 * ++
+* Read a book
 * squegg + Phone
 * Nap on the floor&nbsp;
 
@@ -15,7 +16,7 @@
 ## Fun
 
 * Drink a Mai Tai ~ French 75
-* Coding
+* Codingyy
 * Triage Raindrop.io
 * Triage Bookmarks
 
@@ -26,8 +27,9 @@
 
 ## Coding
 
-* Trayo: paragraph spacing
-* Win+V: clipboard history
+* 
+
+* Win + V: clipboard history
 * Delete old passwords
 * Bookmarks HTML to JSON
 * Harvest those bookmarks

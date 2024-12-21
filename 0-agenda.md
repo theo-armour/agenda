@@ -5,11 +5,13 @@
 * ++
 * 2024-12-06:&nbsp;With deeper knowledge there may be deeper feelings
 * 2024-12-16: In this era, the more you know, the more you know&nbsp;
+* 2024-12-21: spare the ink
 
 <!-- this is a comment -->
 ## Today
 
 * ?
+* Nocturnal carpel tunnel
 * <a href="mailto:patricksinclair@yahoo.com">patricksinclair@yahoo.com</a>
 * Lemire
 
@@ -71,17 +73,17 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* Printer canon cartridge returnled
+* Printer canon cartridge returned
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
-* A: mike ~ grab bar ~ diapers
+* A: mike ~&nbsp;
 * Sway: esomeprazole ~&nbsp;
 
 Waiting
