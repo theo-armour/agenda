@@ -21,13 +21,6 @@
 
 * Me: Willing to serve as a member of the executive committee but not as an officer
 
-## Health
-
-* He martha: forms ~ HH ~ PPH?
-* Heritage: fill in medical form
-* Dr Fassett: clinic
-* Martha: Dermatology clinic ~ PPH ~ HH Advisory
-*
 
 ## Strategic Plan
 
@@ -38,8 +31,6 @@
 
 ## Staff
 
-* Brittany: send
-* Call pharmerica
 * Fee schedule questions
 * Jon Casey: Type C Charges
 * Mary: Type A ~ Appendix H provisions ~ copy me on message to Christine
@@ -73,4 +64,4 @@
 * Organist: evensong
 * Patrick: Ange Appreciation documents
 * What demos could I give? What do I want to show? What might people want to see?
-* UCSF: dental clinic
+

@@ -4,7 +4,6 @@
 
 * ?
 * Senior Doc
-* 2024-11-26: Dr Genualdi: prepare report
 * Sports medicine reference
 * Colonoscopy report??
 
@@ -33,12 +32,9 @@
 * <a href="https://geriatrics.ucsf.edu/patient-care/ucsf/outpatient-geriatrics-consults#Integrative%20Aging%20Clinic">https://geriatrics.ucsf.edu/patient-care/ucsf/outpatient-geriatrics-consults#Integrative%20Aging%20Clinic</a>
 * Project Echo ~ tele precept ~ many aspects
 * CDC NIH: fall risk infographics&nbsp;&nbsp;
-* PPH: Talk to Breen
-* Genualdi: prepare report
 * List of medications
 * List of conditions
 * Kattah: questions: Miralax alternatives ~ statins ~ colonoscopy results
-* Brittany: pins &amp; needles:&nbsp;paresthesia
 * Statins?
 * Margaret Jacobs: <a href="https://www.alignmenthealthplan.com/">https://www.alignmenthealthplan.com/</a> ~ free lunch?
 
@@ -59,11 +55,7 @@
 ### Heritage
 
 See 1-heritage/health/0-health-agenda
-Martha Nkhoma
 
-* Follow-up on email of
-* Staffing hours &amp; levels
-* Anticipated costs
 
 ### PPH ~ Gary Richmond: msg
 
@@ -86,7 +78,6 @@ Martha Nkhoma
 
 ## Reminders
 
-* Ear wax clinic ~ In progress!!
 * Massage groin
 * Continue Kegel exercises
 * Use the tweezers!
