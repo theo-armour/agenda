@@ -27,8 +27,9 @@
 
 ## Coding
 
-* Trayo: paragraph spacing
-* Win+V: clipboard history
+* 
+
+* Win + V: clipboard history
 * Delete old passwords
 * Bookmarks HTML to JSON
 * Harvest those bookmarks
