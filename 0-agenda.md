@@ -13,8 +13,6 @@
 
 * ?
 
-
-
 ***
 
 <!--
@@ -63,6 +61,7 @@ Waiting
 <a href="" onclick="parent.location.hash="https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md"">0.1-notes</a>
 
 </details>
+
 ***
 
 <!--
@@ -72,7 +71,6 @@ Waiting
 -->
 
 <details>
-
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash="https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md"">1.0 Health Agenda</a>
 
@@ -106,6 +104,7 @@ Waiting
 -->
 
 <details>
+
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash="https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md"">1.0 simplicity</a>
 
@@ -122,7 +121,6 @@ Waiting
 -->
 
 <details>
-
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash="https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md"">2.0 ACE IT</a>
 
@@ -151,6 +149,7 @@ Waiting
  -->
 
 <details>
+
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash="https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md"">2.1 Family</a>
 
@@ -165,7 +164,6 @@ Waiting
 -->
 
 <details>
-
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash="https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md"">2.2 Peeps</a>
 
@@ -180,7 +178,6 @@ Waiting
 -->
 
 <details>
-
 <summary>Entities</summary>
 <!-- -->
 ## <a href="" onclick="parent.location.hash="https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md"">3.0 entities</a>
@@ -239,7 +236,6 @@ Waiting
 -->
 
 <details>
-
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash="https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md"">4.0 projects agenda</a>
 
