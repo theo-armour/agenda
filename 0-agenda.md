@@ -195,7 +195,7 @@ Waiting
 **Family**
 
  -->
-<details>
+<details open="">
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
@@ -280,7 +280,7 @@ Waiting
 **Projects**
 
 -->
-<details>
+<details open="">
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
