@@ -1,6 +1,10 @@
 # TheoMotto
 
+<<<<<<< HEAD
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">`Slogan `</a>
+=======
+## <a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&amp;quot;>Slogan</a>
+>>>>>>> 6309eb0b91bd66ea78725d37e54f50fd0226e427
 
 * ++
 * 2024-12-06: With deeper knowledge there may be deeper feelings
@@ -105,15 +109,15 @@ Waiting
 * Buy more: share paper
 * Netflix: ace-i
 
-## <code>&lt;a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&amp;quot;"&gt;</code>Alix <code>&lt;/a&gt;</code>
+## <a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&amp;quot;>Alix</a>
 
 * ++
 
-## <code>&lt;a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&amp;quot;"&gt;</code>Cynthia <code>&lt;/a&gt;</code>
+## <a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&amp;quot;>Cynthia</a>
 
 * ++
 
-## <code>&lt;a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&amp;quot;"&gt;</code>Eloise <code>&lt;/a&gt;</code>
+## <a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&amp;quot;>Eloise</a>
 
 * ++
 * Eloise: GitHub account + Coop
@@ -225,28 +229,28 @@ Waiting
 
 * ++
 
-## <code>&lt;a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&amp;quot;"&gt;</code>4.1 organizations <code>&lt;/a&gt;</code>
+## <a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&amp;quot;>4.1 organizations</a>
 
 * tess: kiosk software
 
-## <code>&lt;a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&amp;quot;"&gt;</code>repos <code>&lt;/a&gt;</code>
+## <a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&amp;quot;>repos</a>
 
 * ++
 
-## <code>&lt;a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&amp;quot;"&gt;</code>4.2 software <code>&lt;/a&gt;</code>
+## <a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&amp;quot;>4.2 software</a>
 
 * ++
 
-## <code>&lt;a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&amp;quot;"&gt;</code>4.3 hardware <code>&lt;/a&gt;</code>
+## <a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&amp;quot;>4.3 hardware</a>
 
 * ++
 
-## <code>&lt;a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&amp;quot;"&gt;</code>4.4 qdata apps journal <code>&lt;/a&gt;</code>
+## <a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&amp;quot;>4.4 qdata apps journal</a>
 
 * ++
 
 ***
 
-## <code>&lt;a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/0-reminders.md&amp;quot;"&gt;</code>Reminders <code>&lt;/a&gt;</code>
+## <a href="" onclick="parent.location.hash=&amp;quot;https://api.github.com/repos/theo-armour/agenda/contents/0-reminders.md&amp;quot;>Reminders</a>
 
 </details>
