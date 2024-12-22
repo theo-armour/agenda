@@ -3,66 +3,21 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2024-12-06:&nbsp;With deeper knowledge there may be deeper feelings
-* 2024-12-16: In this era, the more you know, the more you know&nbsp;
+* 2024-12-06: With deeper knowledge there may be deeper feelings
+* 2024-12-16: In this era, the more you know, the more you know the less you know
 * 2024-12-21: spare the ink
 
 <!-- this is a comment -->
 ## Today
 
 * ?
-* 
 * cottage: cheese
 * cottage: email
 * cottage: spreadsheet
 * HH: meeting
 * AudioPen: dowmloads
 * Boxing Day: message
-* <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=patricksinclair@yahoo.com" target="_blank">patricksinclair@yahoo.com</a>
-* Lemire
 
-Emails
-
-* Peyton: hello theater
-* Rob &amp; Peyton: Suno &amp; Kaiber / frank?
-* Breänna
-* Bob Hall
-
-Tasks
-
-* ++
-
-Text
-
-* Mike M
-* David Dwyer
-
-Siaorsia?
-
-* NV Amy: invite&nbsp;hello
-
-calls
-
-* Ombundsman: 415 751 9788
-
-## SOON
-
-* ++
-* George Dicke?
-* Outlook email replies
-* Steve Gordon: jon
-* SiSi: home help
-* Tom Johnson: wine
-* Joel P:
-* Mary: HH ~ Hector
-
-Waiting
-
-* 
-
-* Jeff Russell 530-277-8021?
-
-* 
 
 ***
 
