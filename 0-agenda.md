@@ -17,8 +17,6 @@
 * cottage: spreadsheet
 * HH: meeting
 * AudioPen: dowmloads
-* 
-
 * Boxing Day: message
 * <a href="mailto:patricksinclair@yahoo.com">patricksinclair@yahoo.com</a>
 * Lemire
