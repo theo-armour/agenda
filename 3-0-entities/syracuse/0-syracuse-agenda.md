@@ -1,4 +1,4 @@
-# Syracase Agenda
+# Syracuse Agenda
 
 ## Agenda
 
