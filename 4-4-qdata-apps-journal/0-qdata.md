@@ -2,6 +2,12 @@
 
 ## Agenda
 
+* Outlook email replies
+* AudioPen: Pens to Journal
+* Create topic folders
+
+Old
+
 * Check three.js examples page: Is it sill vanilla JavaScript? Ditto mrdoob.com
 * Inspirations: move to pages sections??
 * AudioPen: Pens to Journal

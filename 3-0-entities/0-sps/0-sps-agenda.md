@@ -1,8 +1,9 @@
 # Read Me
 
 * ++
-* SPS: RandyMor: ?
+* Bob Hall: class communications
 * Mike Marean: folding desk (??)
+* SPS: RandyMor: ?
 
 ## SPS / Paulies ~ <a href="https://sps.edu">https://sps.edu</a>
 

@@ -2,9 +2,9 @@
 
 ## Agenda
 
+* Joel P
 * Tiffany ~ Awesome disability
 * AweFou Joshua: email invite
-* Joel
 * Tiffany
 * Matt Chapman
 

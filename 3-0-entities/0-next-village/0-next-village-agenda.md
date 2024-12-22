@@ -5,6 +5,10 @@
 
 ## Agenda
 
+* Lemire
+* Siaorsia?
+* NV Amy: invite&nbsp;hello
+
 ## Questions
 
 * NxtVlg Business model

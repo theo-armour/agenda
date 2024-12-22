@@ -2,17 +2,12 @@
 
 ## Agenda
 
-* ? *What connections do I have with my family
-* What connections do I want to have with my family
-
-## Things to consider
-
-* Family land?
-* Iliad
-* Costa Rica 2024
-* Asilomar
-* Dawn of Everything
-* Genealogy
+* Peyton: hello theater
+* Rob &amp; Peyton: Suno &amp; Kaiber / frank?
+* Alex: Perry's?
+* Kathy Smith: basket
+* Bennet: HotM
+* Dan E: triads &amp; AI
 
 ## Tania
 
@@ -25,6 +20,20 @@
 ## Philip
 
 * Alex
+
+## Questions
+
+* What connections do I have with my family
+* What connections do I want to have with my family
+
+## Things to consider
+
+* Family land?
+* Iliad
+* Costa Rica 2024
+* Asilomar
+* Dawn of Everything
+* Genealogy
 
 ## email
 

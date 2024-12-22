@@ -2,6 +2,11 @@
 
 ## Agenda
 
+* Mary: HH ~ Hector ~ lights
+
+
+Old
+& Jacobs: secretary: Alex?
 * Fire alarm test: announce
 * Heritage: capital projects reports
 * borrow Jeannie's history and scan

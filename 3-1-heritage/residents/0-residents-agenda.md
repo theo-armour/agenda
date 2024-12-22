@@ -2,6 +2,8 @@
 
 ## Agenda
 
+* Tom Johnson: wine
+* SiSi: home help
 * Fred Burke: email
 * Tom Jones: architecture books
 * Rod D: meetup?

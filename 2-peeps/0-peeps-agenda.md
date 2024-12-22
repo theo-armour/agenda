@@ -4,7 +4,8 @@
 
 ## Peeps
 
-* Mike Marean
+* David Dwyer
+* George Dicke?
 * MichaelH: Doom
 * 2am
 * Tim Lattimore
