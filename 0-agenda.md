@@ -14,7 +14,7 @@
 * Cottage: work order
 * cottage: cheese
 * cottage: email
-* cttabe: spreadsheet
+* cottage: spreadsheet
 * HH: meeting
 * AudioPen: dowmloads
 * 
