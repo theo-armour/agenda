@@ -2,9 +2,9 @@
 
 * ?
 * PPH: using apps ~ fitbit? ~ mike should email patients
-* Genualdi: repor
+* Genualdi: report?
 * Talk to breen ???
-* Pneumonia vaccine ~ June 2024
+
 
 ## Pine Park Health ~ <a href="https://pineparkhealth.com">https://pineparkhealth.com</a>
 
@@ -40,6 +40,7 @@ Dr. Michael Genualdi, originally from New Jersey, is a dedicated physician and a
 * Clinical profile is a mess, out of date
 * Communication between PPH and my specialists seems non-existent
 * No connection to electronic health record (EHR) systems used by healthcare providers
+* No 
 
 ## Agenda
 
