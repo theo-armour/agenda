@@ -16,6 +16,7 @@
 * cottage: email
 * cttabe: spreadsheet
 * HH: meeting
+* AudioPen: dowmloads
 * 
 
 * Boxing Day: message
@@ -36,6 +37,7 @@ Tasks
 Text
 
 * Mike M
+* David Dwyer
 
 Siaorsia?
 
