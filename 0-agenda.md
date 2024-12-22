@@ -11,14 +11,9 @@
 ## Today
 
 * ?
-* cottage: cheese
+* Boxing Day Party: Message
 
-* cottage: email
-* cottage: spreadsheet
-* HH: meeting
-* AudioPen: dowmloads
-* Boxing Day: message
-
+[reminders]( ./0-reminders.md )
 
 ***
 
