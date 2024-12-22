@@ -13,9 +13,8 @@
 * ?
 * Boxing Day Party: Message
 
-[reminders]( ./0-reminders.md )
-
 ***
+
 
 <!--
 
