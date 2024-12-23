@@ -13,9 +13,6 @@
 * ?
 * Boxing Day Party: Message
 * * HH
-* 
-
-* 
 
 Soon
 * Blog posts on dining here
