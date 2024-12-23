@@ -11,4 +11,8 @@
 * Currently William Sonoma
 * Going to herman miller subsidiary wd Hoag?
 
-## lunches?
+## 2024-12-22
+
+Hi Saoirse. I very much enjoyed our walk by the bay back in November. I apologize for not following up sooner. I have just drafted a post I want to share. I wrote it with you or someone like you in mind.  I would love to hear your thoughts.
+
+
