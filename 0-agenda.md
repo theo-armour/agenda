@@ -16,7 +16,8 @@ Soon
 
 * Mia
 * NV: Blog posts on dining here
-* Diana Greer* HotM Activities: Helm Music
+* Diana Greer
+* HotM Activities: Helm Music
 * Eloise
 * SacSem
 * Le'mere
@@ -30,7 +31,7 @@ Soon* Cynthia* Tania
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
