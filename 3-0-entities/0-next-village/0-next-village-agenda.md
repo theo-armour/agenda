@@ -6,11 +6,14 @@
 ## Agenda
 
 * Lemire
+
+* Donna: update
+* Check NV Calendar
+* NV Amy: invite&nbsp;hello
+
+waiting
 * Saoirse
 * Blog posts on dining here
-* Donna: update
-* Check Calendar
-* NV Amy: invite&nbsp;hello
 
 ## Questions
 
