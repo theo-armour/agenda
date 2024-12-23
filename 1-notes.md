@@ -27,6 +27,6 @@ SPS
 * unselfish in friendship,* thoughtful of those less happy than ourselves,
 * and eager to bear the burdens of others;
 * through Jesus Christ our Savior. Amen.
-Heritage on the Marina
 
+Heritage on the Marina
 * Emergency #628 789 2218
