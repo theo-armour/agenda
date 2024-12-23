@@ -2,7 +2,9 @@
 
 ## Agenda
 
-* Ron & Michael invite
+* Ron &amp; Michael invite
+* Jon obit:to website
+* Jon: chronicle
 
 ## Agenda 2024-11-22
 
