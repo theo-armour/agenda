@@ -12,7 +12,8 @@
 
 * ?
 * Mia
-* Fomagerie Dylan
+* 
+
 * Diana Greer
 * HotM Activities: Helm Music
 * SacSem
@@ -60,7 +61,7 @@ Soon
 * Winter shoes
 * EyeBuyDirect: small spec
 * A: mike ~&nbsp;
-* Walgreens: eyeglass screwdriver
+* Walgreens: screwdriver
 * Sway: esomeprazole ~ wines&nbsp;
 
 Waiting
