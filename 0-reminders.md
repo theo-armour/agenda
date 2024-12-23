@@ -28,7 +28,6 @@
 ## Coding
 
 * 
-
 * Win + V: clipboard history
 * Delete old passwords
 * Bookmarks HTML to JSON
@@ -46,6 +45,7 @@
 
 ## Contemplation
 
+* _The Art of Thinking for yourself_: cheat sheet
 * John Rawls
 * Effective Altruism
 * Dawn of Everything ~ Graeber
