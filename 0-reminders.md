@@ -16,7 +16,6 @@
 ## Fun
 
 * Drink a Mai Tai ~ French 75
-* Codingyy
 * Triage Raindrop.io
 * Triage Bookmarks
 
@@ -27,8 +26,7 @@
 
 ## Coding
 
-* 
-
+* +++
 * Win + V: clipboard history
 * Delete old passwords
 * Bookmarks HTML to JSON
