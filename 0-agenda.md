@@ -131,16 +131,12 @@ Waiting
 **Family**
 
  -->
-<details>
+<details open="">
 
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
 * ++
-* Alex: Perry's?
-* Kathy Smith: basket
-* Bennet: HotM
-* Dan E: triads &amp; AI
 
 </details>
 <!--
@@ -186,7 +182,7 @@ Waiting
 **Heritage**
 
 -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
