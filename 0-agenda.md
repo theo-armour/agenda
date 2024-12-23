@@ -157,7 +157,7 @@ Waiting
 **Family**
 
  -->
-<details>
+<details open="">
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
@@ -182,7 +182,7 @@ Waiting
 **Entities**
 
 -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
