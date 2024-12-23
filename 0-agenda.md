@@ -12,10 +12,10 @@
 
 * ?
 * Mia
-* Fomagerie Dylan
 * Diana Greer
 * HotM Activities: Helm Music
 * SacSem
+* Safeway
 
 Soon
 
@@ -48,18 +48,20 @@ Soon
 
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
+* Safeway: wines ~ biscuits ~ olives ~ screwdrivers
 * Clean carpet
 * Printer canon cartridge returned
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
 * A: mike ~&nbsp;
+* Walgreens: screwdriver
 * Sway: esomeprazole ~ wines&nbsp;
 
 Waiting
@@ -158,7 +160,7 @@ Waiting
 **Family**
 
  -->
-<details>
+<details open="">
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
@@ -210,7 +212,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
@@ -239,7 +241,7 @@ Waiting
 **Projects**
 
 -->
-<details>
+<details open="">
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
