@@ -48,7 +48,7 @@ Soon
 
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
@@ -60,6 +60,7 @@ Soon
 * Winter shoes
 * EyeBuyDirect: small spec
 * A: mike ~&nbsp;
+* Walgreens: eyeglass screwdriver
 * Sway: esomeprazole ~ wines&nbsp;
 
 Waiting
