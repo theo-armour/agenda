@@ -12,16 +12,6 @@
 
 * ?
 * Boxing Day Party: Message
-* Next Village
-* Diana Greer
-* HH
-* HotM
-
-Soon
-
-* HotM Activities: Helm Music
-* Eloise
-* SacSem
 
 <a href="#0-reminders.md">reminders</a>
 ***
@@ -155,8 +145,8 @@ Waiting
 **Family**
 
  -->
-<details>
-<summary>Family</summary>
+<details open="">
+<summary>. Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
 * ++
