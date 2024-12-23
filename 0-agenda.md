@@ -54,6 +54,7 @@ Soon* Cynthia* Tania
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
+* simple modern: cleaning
 * Clean carpet
 * Printer canon cartridge returned
 * Plateau chair
@@ -183,7 +184,7 @@ Waiting
 **Entities**
 
 -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
