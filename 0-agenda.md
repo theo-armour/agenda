@@ -16,15 +16,16 @@ Soon
 
 * Mia
 * Fomagerie Dylan
-* NV: Blog posts on dining here
 * Diana Greer
 * HotM Activities: Helm Music
-* Eloise
 * SacSem
-* Le'mere
-* Centenary
+* 
 
 Soon* Cynthia* Tania
+* Eloise
+* Peyton
+* Le'mere
+* Centenary
 ***
 
 <!--
@@ -182,7 +183,7 @@ Waiting
 **Entities**
 
 -->
-<details>
+<details open="">
 
 <summary>Entities</summary>
 <!-- -->
