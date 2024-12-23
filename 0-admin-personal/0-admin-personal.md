@@ -3,8 +3,6 @@
 ## Agenda
 
 * ?
-* \_The Art of Thinking for yourself\_: cheat sheet
-
 
 ## 2024-06-28 + 7 days: What to do?
 

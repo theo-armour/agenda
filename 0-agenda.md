@@ -11,20 +11,21 @@
 ## Today
 
 * ?
+* Mia
+* Fomagerie Dylan
+* Diana Greer
+* HotM Activities: Helm Music
+* SacSem
 
 Soon
 
-* Mia
-* Fomagerie Dylan
-* NV: Blog posts on dining here
-* Diana Greer
-* HotM Activities: Helm Music
+* Cynthia
+* Tania
 * Eloise
-* SacSem
-* Le'mere
+* Peyton
+* NV: Le'mere
 * Centenary
 
-Soon* Cynthia* Tania
 ***
 
 <!--
@@ -157,7 +158,7 @@ Waiting
 **Family**
 
  -->
-<details open="">
+<details>
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 

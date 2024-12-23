@@ -44,6 +44,7 @@
 
 ## Contemplation
 
+* _The Art of Thinking for yourself_: cheat sheet
 * John Rawls
 * Effective Altruism
 * Dawn of Everything ~ Graeber
