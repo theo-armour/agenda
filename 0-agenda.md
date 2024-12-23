@@ -15,13 +15,16 @@
 Soon
 
 * Mia
+* Fomagerie Dylan
 * NV: Blog posts on dining here
-* Diana Greer* HotM Activities: Helm Music
+* Diana Greer
+* HotM Activities: Helm Music
 * Eloise
 * SacSem
 * Le'mere
 * Centenary
 
+Soon* Cynthia* Tania
 ***
 
 <!--
@@ -29,7 +32,7 @@ Soon
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
@@ -44,18 +47,19 @@ Soon
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
+* Clean carpet
 * Printer canon cartridge returned
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
 * A: mike ~&nbsp;
-* Sway: esomeprazole ~&nbsp;
+* Sway: esomeprazole ~ wines&nbsp;
 
 Waiting
 
@@ -153,7 +157,7 @@ Waiting
 **Family**
 
  -->
-<details>
+<details open="">
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
