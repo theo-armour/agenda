@@ -12,12 +12,13 @@
 
 * ?
 * Boxing Day Party: Message
-* * Boxing Day Party: Message
-* Next Village
-* Diana Greer
-* HH
+* * HH
 * HotM
+* 
 
+Soon
+* Blog posts on dining here
+* Diana Greer
 ***
 
 <!--
