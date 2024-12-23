@@ -4,11 +4,7 @@
 
 * ?
 * \_The Art of Thinking for yourself\_: cheat sheet
-* Move closet shelves
-* Add ACE phone numbers to MS & Google accounts
-* Update ICE
-* SSA: add Cynthia
-* Medicare: add Cynthia
+
 
 ## 2024-06-28 + 7 days: What to do?
 
