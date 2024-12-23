@@ -11,9 +11,6 @@
 ## Today
 
 * ?
-
-Soon
-
 * Mia
 * Fomagerie Dylan
 * Diana Greer
@@ -21,8 +18,8 @@ Soon
 * SacSem
 
 Soon
-* Cynthia* Tania
-
+* Cynthia
+* Tania
 * Eloise
 * Peyton
 * Le'mere
