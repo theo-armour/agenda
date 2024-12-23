@@ -3,8 +3,11 @@
 Martha Nkoma 2024-12-23
 
 * Pharmerica: registration number ~ meds I'm on
-* Pine Park ~ Senior Doc ~ UCSF?
+* Pine Park ~ Senior Doc ~ UCSF? ~ issues below
 * Stairs: set chairs landing place
+
+Plus
+
 * Medical form update
 * Pink Sheet review: with Cynthia
 * Clinics
