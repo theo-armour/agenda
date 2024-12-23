@@ -13,10 +13,11 @@
 * ?
 
 Soon
-* Blog posts on dining here
+* NV: Blog posts on dining here
 * Diana Greer* HotM Activities: Helm Music
 * Eloise
 * SacSem
+* Le'mere
 ***
 
 <!--
