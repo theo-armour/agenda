@@ -6,6 +6,7 @@
 
 More
 
+* Mary: talk at SacSem?
 * Mary: meeting: apt + HH + Hector
 * Hector: mtgs
 * Jon Casey Touchtown Czar?
@@ -15,7 +16,6 @@ More
 * Tess: Audiobook app
 * House Committee: Door openers for residents with issues
 
-
 ## Volunteers
 
 * David: Peritz: readable slides
@@ -24,7 +24,6 @@ More
 ## Residents Council
 
 * Me: Willing to serve as a member of the executive committee but not as an officer
-
 
 ## Strategic Plan
 
@@ -41,7 +40,6 @@ More
 * Mary: Type C: particulars
 
 *
-
 ## Men's Group
 
 * He Men's group: Lord's prayer
@@ -54,4 +52,3 @@ More
 * Organist: evensong
 * Patrick: Ange Appreciation documents
 * What demos could I give? What do I want to show? What might people want to see?
-
