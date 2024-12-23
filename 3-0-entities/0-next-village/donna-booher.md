@@ -9,12 +9,19 @@
 
 ## 2024-12-17
 
+Donna
+
+* Performances
+* Tours
+* Games + tea party
+* Residents out + members in
+
 Hi Donna
 
 ## Next Village Initiatives
 
 * Are there any new initiatives or outreach programs that you are working on that you would like to share with us?
-* HotM residents that are members of NV? enefits
+* HotM residents that are members of NV? benefits
 
 ## NV & HotM Overlaps
 

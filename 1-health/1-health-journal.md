@@ -9,6 +9,10 @@
 ## 2024-12-16
 
 * Dr Han: eyes OK
+* Night vision deteriorating&nbsp;
+* Eyelashes bother a bit&nbsp;
+* Occasional lack of focus when looking at computer screen
+* She said: cataract surgery in two years
 
 ## 2024-12-03
 

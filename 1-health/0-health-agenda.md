@@ -3,7 +3,8 @@
 ## Appointments
 
 * ?
-* Senior Doc
+* Daniel B: appointment
+* Senior Doc?
 * https://papa.com
 * Sports medicine reference
 * Colonoscopy report??
