@@ -2,6 +2,8 @@
 
 ## Agenda
 
+* Ron & Michael invite
+
 ## Agenda 2024-11-22
 
 * Dick spotswood: Jack Ohman credentials

@@ -30,7 +30,6 @@
 What are some good websites for identifying specific ai utilities
 
 
-
 In March of 1925, the San Francisco Ladies Protection and Relief Society held its first meeting of the Board of Directors om the premises of the Julia Morgan building
 
 In 2025 the Board of Directors will hold its four hundredth quarterly meeting on the premises. To celebrate, the Board is sponsoring a gala event for local dignitaries (including the esteemed residents ;-).

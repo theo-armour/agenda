@@ -12,6 +12,16 @@
 
 * ?
 * Boxing Day Party: Message
+* Next Village
+* Diana Greer
+* HH
+* HotM
+
+Soon
+
+* HotM Activities: Helm Music
+* Eloise
+* SacSem
 
 ***
 

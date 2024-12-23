@@ -2,10 +2,14 @@
 
 ## Agenda
 
+* Martha N: seen email agenda
+
+More
+
+* Mary: meeting: apt + HH + Hector
 * Hector: mtgs
-* Mary: meeting: apt +
 * Jon Casey Touchtown Czar?
-* SF:Historical Plan
+* SF: Historical Plan
 * Nail Salon on site? Mary will investigate this.
 * Emergency phone numbers
 * Tess: Audiobook app
@@ -36,20 +40,6 @@
 * Mary: Type A ~ Appendix H provisions ~ copy me on message to Christine
 * Mary: Type C: particulars
 
-## Residents
-
-* Doris: Art contest
-* Carm: nieces
-* Tom King: res manual stuff
-* Stela: hand warmers + knitting lessons
-* kPop exhibit
-* Peter Granucci: computer help
-* Anne Morris: Cookbook scans: cover scan
-* Eleanor B: Reminiscences
-* Anne Morris: Anne's Cookbook to Amy?
-* AnneM: Evanston house in Birth of a Nation
-* Patrick: use Front Office
-* Lillemor: Surströmming party
 *
 
 ## Men's Group

@@ -3,6 +3,9 @@
 * [https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md](https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md)
 * Eloise: Silver: send it? Address?
 
+## 2024-12-22
+
+* Coop paper summary
 
 ## 2024-11-17
 

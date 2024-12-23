@@ -9,6 +9,12 @@
 * Finish hand
 * Mariposa
 
+
+## 2024-12-27
+
+* Closet Shelves
+* Help me get ICE up to date
+
 ## 2024-12-1l?
 
 * BraceBridge

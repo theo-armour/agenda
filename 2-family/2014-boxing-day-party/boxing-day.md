@@ -16,4 +16,3 @@ Old People
 
 * "Working the room" is not what it used to be: mobility, hearing, holding drinks
 
-[party]( ./2024-12-16-boxing-day.md)

@@ -6,7 +6,10 @@
 ## Agenda
 
 * Lemire
-* Siaorsia?
+* Saoirse
+* Blog posts on dining here
+* Donna: update
+* Check Calendar
 * NV Amy: invite&nbsp;hello
 
 ## Questions

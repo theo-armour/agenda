@@ -6,8 +6,9 @@
 
 * David Dwyer
 * George Dicke?
-* MichaelH: Doom
+* MichaelHoward: Doom?
 * 2am
+* Cookie ~ bird?
 * Tim Lattimore
 * Christine &amp; Pam
 * Ronan: PLE ~ endiatx ~ jason ~ intro text

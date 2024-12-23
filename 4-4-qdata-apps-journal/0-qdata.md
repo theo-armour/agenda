@@ -2,9 +2,10 @@
 
 ## Agenda
 
+* Rejig Agenda into a tootoo
 * Outlook email replies
 * AudioPen: Pens to Journal
-* Create topic folders
+* Create topic folders (?)
 
 Old
 

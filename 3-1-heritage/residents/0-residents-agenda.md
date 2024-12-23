@@ -18,7 +18,24 @@
 
 * Margaret: [](https://www.dwt.com/-/media/files/news/2013/01/quoted-in-hipaa-can-pose-unique-challenges-for-ass/files/boh-jan-2013/fileattachment/boh-jan-2013.pdf)[https://www.dwt.com/-/media/files/news/2013/01/quoted-i good](https://www.dwt.com/-/media/files/news/2013/01/quoted-i good) n-hipaa-can-pose-unique-challenges-for-ass/files/boh-jan-2013/fileattachment/boh-jan-2013.pdf
 
-## Agenda
+
+
+## Residents
+
+* Doris: Art contest
+* Carm: nieces
+* Tom King: res manual stuff
+* Stela: hand warmers + knitting lessons
+* kPop exhibit
+* Peter Granucci: computer help
+* Anne Morris: Cookbook scans: cover scan
+* Eleanor B: Reminiscences
+* Anne Morris: Anne's Cookbook to Amy?
+* AnneM: Evanston house in Birth of a Nation
+* Patrick: use Front Office
+* Lillemor: Surströmming party
+
+## Agenda2
 
 * Amazon Customer service ~ 1-888-280-4331
 * Questionnaire for new residents: Maureen
