@@ -22,7 +22,7 @@ Soon
 * Le'mere
 * Centenary
 
-Soon* Cynthia
+Soon* Cynthia* Tania
 ***
 
 <!--
@@ -110,7 +110,7 @@ Waiting
 **Simplicity**
 
 -->
-<details>
+<details open="">
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
 
