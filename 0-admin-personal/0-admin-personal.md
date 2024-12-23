@@ -3,9 +3,13 @@
 ## Agenda
 
 * ?
-* \_The Art of Thinking for yourself\_: cheat sheet
+* Fromagerie Dylan: order cheeses for boxing day
+
+## More
+
+* _The Art of Thinking for yourself_: cheat sheet
 * Move closet shelves
-* Add ACE phone numbers to MS & Google accounts
+* Add ACE phone numbers to MS &amp; Google accounts
 * Update ICE
 * SSA: add Cynthia
 * Medicare: add Cynthia
