@@ -2,18 +2,20 @@
 
 ## Topics 2
 
-* AI energy usage
+* AI &amp; AI energy usage
 * Scott Alexander
 * Rio Vista city: California Forever: Solano County ~ Rio Vista ! 2 year EIR
 * Wallet Drawing
 * Finish hand
 * Mariposa
 
-
 ## 2024-12-27
 
-* Closet Shelves
-* Help me get ICE up to date
+* Help me get ICE up to date* Move closet shelves
+* Add ACE phone numbers to MS &amp; Google accounts
+* Update ICE
+* SSA: add Cynthia
+* Medicare: add Cynthia
 
 ## 2024-12-1l?
 
@@ -21,18 +23,16 @@
 * Money in
 * Mariposa
 * Buy More: hermeneutics
-* Richard and Kathy / Mark & Ling Shien
-* Party: Cynthia A, Smiths, Janine, Englehardts P & H, CynthiaM, Mia & Rob, Peter Taylor & ??
+* Richard and Kathy / Mark &amp; Ling Shien
+* Party: Cynthia A, Smiths, Janine, Englehardts P &amp; H, CynthiaM, Mia &amp; Rob, Peter Taylor &amp; ??
 * Pink sheet update with Martha
 * Pink sheet update with Martha
-
 
 ## 2024-12-02
 
 * Mexico
 * Shares: next time
 * Share room here?
-
 
 ## 2024-11-11
 
@@ -250,6 +250,7 @@ phone Isabelle
 ## 2023-06-15
 
 Cynthia in guestroom Lolo ~ logged into Netflix Alix ~ Munich cynthia is Social life ~ out of control
+
 My life
 
 * Cookie
@@ -295,7 +296,6 @@ More
 * Interviews
 * Arthritis ~ Acupuncture
 * Weekend in Healdsburg?
-
 * Robot hand
 * Jewels
 * Bring coins??
@@ -361,14 +361,11 @@ Wedding
 
 * Jaws popping
 * Wedding planning
-
 * Wine: budget
 * Invites: Spreadsheet
 * Meaning
 * Separation agreement
-
 * Storage
-
 * Coins
 * Portfolio
 * Microfilm
@@ -377,24 +374,20 @@ Wedding
 
 ## 2022-11-13
 
-* [X] Shoes
+<li class="task-list-item" style="list-style-type: none;"><input type="checkbox" disabled="" style="margin: 0px 0.35em 0.25em -1.6em; vertical-align: middle;" checked=""> Shoes
 * Yvonne &amp; Simone ~ treasures ~ saving both of us a ton of guilt
 * Hip
-
 * Elevated Risks for Years After a Hip Fracture
 * One-year mortality after hip fracture is 21% once the fracture is surgically addressed
 * all-cause mortality rate was doubled over the course of over 12 years in those who had a hip fracture
-
 * Tania
-
 * Will
-
 * Isabelle
-
 * Long term vision
 * Sophie &amp; Isa
 
 Cynthia ~ Eloise collaboration
+
 Zoom videos recorderd and transcribed with question
 ## 2021-10-08
 
@@ -412,6 +405,7 @@ Wine
 * Nicolas
 
 Cynthia and Kyle - written in the sky with 50 box kites
+
 Everybody help sand a salad bowl
 ## 2021-09-09 ~ call
 
@@ -453,7 +447,9 @@ I hope it goes OK. I hope Cynthia understand that I am trying to let go. I have 
 ## 2020-04-22 ~ Yoga 940
 
 xps 13 not a flip screen but has touch 1920 x 1080 10th Generation Intel® Core™ i7-10710U (12 MB Cache, 6 Core, up to 4.70 GHz) Intel® UHD Graphics with shared graphics memory 16 GB, LPDDR3, 2133 MHz, Integrated 512 GB M.2 PCIe NVMe Solid-State Drive
+
 Asus 360 screen 1920 x 1080 10th gen Intel Price is $1300 Nvidia MX250 512GB
+
 Acer Predator Has a real GTX not MX GPU DDR4
 ## 2020-03-02 ~ Graduation
 
@@ -479,9 +475,7 @@ Acer Predator Has a real GTX not MX GPU DDR4
 * Link to AV article
 * Wikipedia edits of interest
 * Paris list
-
 * Hotel de Fleurie
-
 * Updating ICE &amp; my data
 * Charitable donations
 
@@ -519,10 +513,8 @@ Nature, Choice and Social Power
 * Detroit
 * Butch
 * Conference summary
-
 * About large vc-funded companies creating issues for cities - both good and bad -
 * Left much on the table: for example: how can tech coding help build better cities
-
 * Yosemite
 * Missoula
 * Christmas
@@ -549,14 +541,10 @@ Law’s function is not only substantive but expressive, and of course in the re
 ## 2018-11-29 ~ C+K stop by in SF
 
 * Christmas plans
-
 * Planes, trains and cars
 * Uber all the way? ;-)
-
 * Dispersal of heirlooms
-
 * to storage first
-
 * Disposal of bikes / walker
 * Larry Schell contact
 * Alix news
@@ -584,15 +572,12 @@ A friend of a friend suggests that the benefits of autonomous vehicle may be qui
 ### Organizations
 
 * <a href="https://meridianmobility.tech/">https://meridianmobility.tech/</a>
-
 * Meridian was created by government and industry to focus on key areas of UK capability in the global Connected and Autonomous Vehicle (CAV) sector which is predicted to be worth £907 billion by 2035. These include advanced development and validation, connected environments, data and cyber security and new service development.
 
 ### Sources
 
 * <a href="https://www.reddit.com/r/SelfDrivingCars/">https://www.reddit.com/r/SelfDrivingCars/</a>
-
 * See right-side menu
-
 * <a href="https://www.reddit.com/r/Futurology/">https://www.reddit.com/r/Futurology/</a>
 * <a href="https://www.reddit.com/search?q=autonomous+vehicle">https://www.reddit.com/search?q=autonomous+vehicle</a>
 * <a href="https://readwrite.com/?s=vehicle">https://readwrite.com/?s=vehicle</a>
@@ -604,6 +589,7 @@ A friend of a friend suggests that the benefits of autonomous vehicle may be qui
 ## Links of possible interest
 
 <a href="https://docs.google.com/document/d/1GUfOr58BivJkmM57qMljQce07khRmLNtD5GqXSAUf1U/edit">https://docs.google.com/document/d/1GUfOr58BivJkmM57qMljQce07khRmLNtD5GqXSAUf1U/edit</a>
+
 One weird trick to end gerrymandering: cake-cutting game theory <a href="https://boingboing.net/2017/11/06/one-weird-trick-to-end-gerryma.html">https://boingboing.net/2017/11/06/one-weird-trick-to-end-gerryma.html</a>
 ## ucb-mph-strategy-pdf
 
@@ -624,8 +610,11 @@ To what extent is the UCB SPH complicit - a creator/promoter/supporter the curre
 ## Wicked problems
 
 <a href="https://en.wikipedia.org/wiki/Wicked_problem">https://en.wikipedia.org/wiki/Wicked_problem</a>
+
 contrast with
+
 <a href="https://en.wikipedia.org/wiki/Pattern_language">https://en.wikipedia.org/wiki/Pattern_language</a>
+
 The elements of the language are entities called patterns. Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.
 ## A Ladder Of Citizen Participation
 
@@ -643,9 +632,7 @@ Sherry R. Arnstein
 ### References
 
 * <a href="http://www.eltis.org/sites/eltis/files/trainingmaterials/challenge_participation_final.pdf">http://www.eltis.org/sites/eltis/files/trainingmaterials/challenge_participation_final.pdf</a>
-
 * Lengthy and many clickable links
-
 * <a href="https://en.wikipedia.org/wiki/Participation_(decision_making)">https://en.wikipedia.org/wiki/Participation_(decision_making</a>
 * <a href="http://www.citizenshandbook.org/arnsteinsladder.html">http://www.citizenshandbook.org/arnsteinsladder.html</a>
 * <a href="http://www.bangthetable.com/ladder-of-citizen-participation/">http://www.bangthetable.com/ladder-of-citizen-participation/</a>
@@ -662,8 +649,12 @@ Sherry R. Arnstein
 ## TO DENIGRATE, IGNORE, OR DISRUPT
 
 Racial Inequality in Health and the Impact of a Policy-induced Breakdown of African American Communities
+
 Arline T. Geronimus Department of Health Behavior and Health Education, University of Michigan <a href="https://en.wikipedia.org/wiki/Arline_Geronimus">https://en.wikipedia.org/wiki/Arline_Geronimus</a>
+
 <a href="https://www.ncbi.nlm.nih.gov/pubmed/1467758">https://www.ncbi.nlm.nih.gov/pubmed/1467758</a>
+
 <a href="http://guide.berkeley.edu/courses/cy_plan/">http://guide.berkeley.edu/courses/cy_plan/</a>
+
 <a href="https://www.law.berkeley.edu/php-programs/courses/coursePage.php?cID=20179&amp;termCode=D&amp;termYear=2017">https://www.law.berkeley.edu/php-programs/courses/coursePage.php?cID=20179&amp;termCode=D&amp;termYear=2017</a>
 ## <a href="http://bradmax25.blogspot.com/">http://bradmax25.blogspot.com/</a>
