@@ -15,6 +15,7 @@
 Soon
 
 * Mia
+* Fomagerie Dylan
 * NV: Blog posts on dining here
 * Diana Greer
 * HotM Activities: Helm Music
@@ -46,7 +47,7 @@ Soon* Cynthia* Tania
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
@@ -111,7 +112,7 @@ Waiting
 **Simplicity**
 
 -->
-<details open="">
+<details>
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
 
@@ -181,7 +182,7 @@ Waiting
 **Entities**
 
 -->
-<details>
+<details open="">
 
 <summary>Entities</summary>
 <!-- -->
