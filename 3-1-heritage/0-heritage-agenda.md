@@ -46,6 +46,7 @@ More
 
 ## Reminders
 
+* Front Hall: better seating and table
 * Strategic Plan: Community organization alternative
 * Cortez: lunch + interview
 * HH Patti G: 4th floor screen is a JM?
