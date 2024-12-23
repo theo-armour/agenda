@@ -1,5 +1,6 @@
 # Projects Agenda
 
+* Notsey: retrieve 2024 data from archive
 * Hover: joystick try
 * trmnl: update
 * Hover: joystick try
