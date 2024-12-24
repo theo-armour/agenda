@@ -13,6 +13,7 @@
 ## Today
 
 * ?
+* Ron &amp; Mike: 16th!
 * SacSem
 * Safeway
 * Mia
