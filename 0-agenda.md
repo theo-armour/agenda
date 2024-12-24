@@ -15,7 +15,6 @@
 * Mia
 * Diana Greer
 * HotM Activities: Helm Music
-* SacSem
 * Safeway
 
 Soon
