@@ -1,7 +1,7 @@
 # Dan Visnich
 
 * Born 1933
-* With Lind Muir
+* With Linda Muir
 * Blacklisted by house UnAmerican Activities Committee
 * https://www.google.com/search?q=daniel+%22visnich%22
 * https://www.youtube.com/watch?v=gFtGWcdpqfA

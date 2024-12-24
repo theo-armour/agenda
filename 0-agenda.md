@@ -11,15 +11,15 @@
 ## Today
 
 * ?
+* SacSem
+* Safeway
 * Mia
 * Diana Greer
 * HotM Activities: Helm Music
-* SacSem
-* Safeway
 
 Soon
 
-* Cynthia
+* Cynthia ~ LL Bean tote bag
 * Tania
 * Eloise
 * Peyton
@@ -54,7 +54,8 @@ Soon
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* Safeway: wines ~ biscuits ~ olives ~ screwdrivers
+* Safeway: wines ~ biscuits ~ olives
+* Sway: esomeprazole ~ wipes ~ screwdrivers
 * Clean carpet
 * Printer canon cartridge returned
 * Plateau chair
@@ -62,7 +63,6 @@ Soon
 * EyeBuyDirect: small spec
 * A: mike ~&nbsp;
 * Walgreens: screwdriver
-* Sway: esomeprazole ~ wines&nbsp;
 
 Waiting
 

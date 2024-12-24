@@ -3,11 +3,29 @@
 ## Agenda
 
 * Look at emails
-* Plan January 
+* Plan January
 
 ## Time tracker
 
 * https://onedrive.live.com/edit.aspx?resid=4348E1419F457EB2!1263675&cid=4348e1419f457eb2&CT=1731136952214&OR=ItemsView
+
+
+## 2024-12-23
+
+### Newsletter By and For Seniors
+
+* Who do we want as our target audience this post?
+* https://medium.com/crows-feet ?? Any others
+* Next Village?
+* Tough editorial standards
+* Missing humor, cartoons, puzzles, games, mazes
+* quotes? poems?
+* https://heritage-happenings.github.io/#blog/2024-12-22-lunch-with-legends.md
+
+
+### Wellness
+
+
 
 
 ## 2024-12-16

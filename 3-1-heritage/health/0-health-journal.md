@@ -1,5 +1,27 @@
 # Heritage Health Journal
 
+## 2024-12-23
+
+
+Martha Nkoma 2024-12-23
+
+* Pharmerica: registration number ~ meds I'm on
+* Pine Park ~ Senior Doc ~ UCSF? ~ issues below
+* Stairs: set chairs landing place
+
+Plus
+
+* Medical form update
+* Pink Sheet review: with Cynthia
+* Clinics
+* HH? ~ vada?
+
+Pine Park
+
+* No contract, no terms and conditions, no record of what I have signed up for
+* Elation sucks ~ no search, no family member, clinical history is a mess
+* No connection to my specialists
+
 
 ## 2024-08-06
 

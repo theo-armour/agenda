@@ -2,15 +2,22 @@
 
 ## Agenda
 
-* Ron &amp; Michael invite
-* Jon obit:to website
-* Jon: chronicle
+* JR celebration 1/5 ~ prepare a talk
+* Lunch at Sam's 1/14 at noon
+* Jon obits to website
+
+
+## 2024-12-23
+
+* Ron & Michael invite
+* Created pages for Ron, Mike.
+* Added Jon's obits
 
 ## Agenda 2024-11-22
 
 * Dick spotswood: Jack Ohman credentials
 * Jon: Description ~ subtitle: "The back room of the inner sanctum of political intrigue at the deepest levels…"
-* Jon: King's Afgani family
+* Jon: King's Afghani family
 * Jon: Marty photos: scan
 
 ## Email

@@ -11,11 +11,16 @@
 
 ## 2024-12-27
 
-* Help me get ICE up to date* Move closet shelves
+* Large tote bag ~ cork screw
+* Move closet shelves some more
+* Help me get ICE up to date
 * Add ACE phone numbers to MS &amp; Google accounts
-* Update ICE
 * SSA: add Cynthia
 * Medicare: add Cynthia
+
+## 2024-12-23
+
+
 
 ## 2024-12-1l?
 
@@ -25,8 +30,8 @@
 * Buy More: hermeneutics
 * Richard and Kathy / Mark &amp; Ling Shien
 * Party: Cynthia A, Smiths, Janine, Englehardts P &amp; H, CynthiaM, Mia &amp; Rob, Peter Taylor &amp; ??
-* Pink sheet update with Martha
-* Pink sheet update with Martha
+* Pink sheet update with Dr Genualdi
+
 
 ## 2024-12-02
 
