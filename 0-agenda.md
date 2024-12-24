@@ -48,13 +48,13 @@ Soon
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* Safeway: wines ~ biscuits ~ olives ~ screwdrivers
+* Safeway: biscuits ~ olives ~ plates ~ utensils
 * Clean carpet
 * Printer canon cartridge returned
 * Plateau chair
@@ -62,7 +62,6 @@ Soon
 * EyeBuyDirect: small spec
 * A: mike ~&nbsp;
 * Walgreens: screwdriver
-* Sway: esomeprazole ~ wines&nbsp;
 
 Waiting
 
