@@ -61,8 +61,9 @@ Soon
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* Safeway: wines&nbsp;~ biscuits ~ olives
-* Sway: esomeprazole ~ wipes ~ screwdrivers
+* Safeway: biscuits ~ olives
+* 
+
 * Clean carpet
 * Printer canon cartridge returned
 * Plateau chair
