@@ -6,6 +6,16 @@
 * Safeway: Wines
 * Dylan ~ La Fromagerie ~ https://lafromageriesf.com/ ~ +1415 374 7325
 
+## 2024-12-25
+
+Things to talk about
+
+* Remembering ~ Don't forget Hopjes ~ topic for a speech? Family memories
+* Gratitude
+* Forgetting
+* Writing
+
+
 ## 2024-12-23
 
 Cheese ~ ordered
