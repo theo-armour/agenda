@@ -16,7 +16,7 @@
 
 * Alix's speech
 * Bee?
-* Family ChaGPT
+* Family ChatGPT
 * Éloïse: silver mailing
 * Cynthia: Wallet drawing
 * Cynthia: Finish hand

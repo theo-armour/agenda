@@ -1,28 +1,47 @@
-# 2025-01 Happenings Agenda
+# _Heritage Happenings_ January Issue Agenda
 
-## Agenda
+## December Issue Review
 
-* Dates for 2025
-* Countries
-* Health topics
-* Jokes
-* Maria Church ~ Ombundsman: 415 751 9788
-* `<a href="mailto:patricksinclair@yahoo.com">`patricksinclair@yahoo.com `</a>`
+* Newsletter??
 
-## 2024-12-22 ~ January Heritage Happenings
+## Theme
 
-Message to committee members
+* **Around the World** Egypt
+* **Colors** ??
+* **Cameo** Sphynx? Nerfertiti
 
-Hello Heritage Happenings Editorial Committee Members
+## Events
 
-I hope you are all warming up your typing fingers. Holidays or not, the printing presses must roll!
+* MLK day January 20
+* Chinese New Year ~ January 29
 
-It's time for our monthly meeting. How about this Tuesday, December24 at 4pm in the McGinley Room?
+## Leadership
 
-By the way, here are Angie's countries of the month for the first quarter of 2025:
+* Angie:
+* Jon Casey:
+* Hector: Updates
+* Martha &amp; Vada: Health:
+* Brittany:
+* Roxanne:
+* Mary:
+* Health Agenda for the year: Healthy Eating
 
-January will be Egypt; February will be China and March will be Ireland.
+## Residents Council
 
-Cheers,
+* Margaret Jacobs: RC notes
 
-Theo
+## Content for January Issue
+
+* Bob Granucci Mia: Ducks #4
+* Doris: El Salvador Book Review
+* Jane: ??
+* Margaret Jacobs: ??
+* Margaret Johnson: Tanzania
+* Martha Nell: Cooby
+* Martha Nell: Library new acquisitions: none
+* Patrick: France story??
+* Sheila: ??
+* Trish:
+* Tucker: ??
+* Theo: ??
+* Tom King

@@ -1,5 +1,15 @@
 # ace-it journal
 
+
+## 2024-12-24
+
+* Cynthia ~ corkscrew + tote
+* Éloïse ~ coop synopsys
+* Me ~ gratitude: learning to write ~ learning to grow and nourish my thinking patterns
+* Alix: cofounder startup is a good idea
+* Isabelle: bouncing back from adversity
+
+
 ## 2024-10-31
 
 * Marie-so: wedding

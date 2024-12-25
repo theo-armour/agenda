@@ -74,7 +74,7 @@
 * Country: Italy
 * New Year's Day
 * Martin Luther King Day
-* Chinese New Year
+* Chinese New Year 
 
 ### February
 
