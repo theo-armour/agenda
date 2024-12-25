@@ -20,8 +20,6 @@
 * SacSem
 * Safeway
 * Mia
-* 
-
 * HotM Activities: Helm Music
 * Diane K
 
