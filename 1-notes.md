@@ -8,8 +8,6 @@ Martha Nkoma 2024-12-23
 
 Plus
 
-2409+48+0AA5R zip 95389
-
 * Medical form update
 * Pink Sheet review: with Cynthia
 * Clinics
