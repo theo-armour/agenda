@@ -16,11 +16,12 @@
 ## Today
 
 * ?
+* Cookie
+* 2am
 * Ron &amp; Mike: 16th!
 * SacSem
 * Safeway
 * Mia
-* Diana Greer
 * HotM Activities: Helm Music
 * Diane K
 
