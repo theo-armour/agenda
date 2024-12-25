@@ -8,6 +8,9 @@
 * 2024-12-21: spare the ink
 * 2024-12-23: "the summer before I knew I was happy" Did I invent this quote?
 * 2024-12-24: "basic maximum" Did I invent this quote?
+* 2024-12-24:&nbsp;Don't complain about something unless you have a solution to offer ~ https://substack.com/home/post/p-147703279
+* 2024-12-24:&nbsp;the best way to solve a problem is to get a good definition of it before jumping into a solution ~&nbsp;https://substack.com/home/post/p-147703279?
+* 
 
 <!-- this is a comment -->
 ## Today
