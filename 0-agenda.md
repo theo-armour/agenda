@@ -16,18 +16,15 @@
 ## Today
 
 * ?
-* Cooby
-* Ron &amp; Mike: 16th!
-* SacSem
 * Safeway
 * Mia
-* 
 
 Soon
 
-* Cynthia ~ LL Bean tote bag
-* 
-
+* Ron &amp; Mike: 16th!
+* TGD: temu ~ xr glasses
+* Cooby
+* SacSem
 * Eloise
 * Diane K
 * NV: Le'mere
