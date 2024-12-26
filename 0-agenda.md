@@ -17,21 +17,19 @@
 
 * ?
 * Cooby
-* 
 * Ron &amp; Mike: 16th!
 * SacSem
 * Safeway
 * Mia
-* HotM Activities: Helm Music
-* Diane K
+* 
 
 Soon
 
 * Cynthia ~ LL Bean tote bag
-* Tania
-* Eloise
 * 
 
+* Eloise
+* Diane K
 * NV: Le'mere
 * Centenary
 
