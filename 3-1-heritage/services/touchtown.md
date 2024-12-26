@@ -8,9 +8,9 @@ https://www.residentapps.com/home/residentapps/mobile/#/home
 
 Phone: To download the app, search for: Uniguest Community Apps ~ Touchtown Inc
 
-Login using:
+Uniguest Login:
 
-User name: hot:firstInitialLastname ~ example:  hotm.tarmour
+User name: hotm:firstInitialLastname ~ example:  hotm.tarmour ~ hotm.ktim
 
 Password: apartment number and 1 ~ example: 2271
 
