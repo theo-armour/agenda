@@ -16,13 +16,13 @@
 ## Today
 
 * ?
-* Coobyggest t
+* Cooby
+* 
 * Ron &amp; Mike: 16th!
 * SacSem
 * Safeway
 * Mia
-* 
-
+* HotM Activities: Helm Music
 * Diane K
 
 Soon
