@@ -30,7 +30,8 @@ Soon
 * Cynthia ~ LL Bean tote bag
 * Tania
 * Eloise
-* Peyton
+* 
+
 * NV: Le'mere
 * Centenary
 
