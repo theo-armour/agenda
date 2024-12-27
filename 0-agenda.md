@@ -22,7 +22,7 @@
 Soon
 
 * Ron &amp; Mike: 16th!
-* TGD: temu ~ xr glasses
+* TGD: temu ~ xr glasses ~ costco
 * Cooby
 * SacSem
 * Eloise
