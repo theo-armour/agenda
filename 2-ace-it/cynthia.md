@@ -17,6 +17,7 @@
 * Add ACE phone numbers to MS &amp; Google accounts
 * SSA: add Cynthia
 * Medicare: add Cynthia
+* Blue shield
 
 ## 2024-12-23
 
