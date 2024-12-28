@@ -53,8 +53,8 @@ Soon
 
 * ?
 * install printer cartridge
-* Safeway: biscuits ~ olives
-* Clean carpet
+* 
+
 * Printer canon cartridge returned
 * Plateau chair
 * Winter shoes
