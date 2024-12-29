@@ -24,7 +24,7 @@ Soon
 * Yvonne
 * Ron &amp; Mike: 16th!
 * SacSem
-* Eloise
+* Eloise ~&nbsp;
 * Diane K
 * NV: Le'mere
 * Centenary
@@ -76,8 +76,6 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a>
 
 </details>
-
-
 ***
 
 <!--
