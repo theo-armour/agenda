@@ -16,7 +16,7 @@
 ## Today
 
 * ?
-* Sarah: nieces ~ Jane: writing ~ Peyton students ~ energetic theater ~ retirement
+* 
 
 Soon
 
