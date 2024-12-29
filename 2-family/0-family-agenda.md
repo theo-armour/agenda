@@ -1,12 +1,13 @@
 # Family Agenda
 
-[alex]( ./2023-03-13-alex-paine.md )
+<a href="./2023-03-13-alex-paine.md">alex</a>
 ## Agenda
 
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 * Alex: Perry's?
-* Kathy Smith: basket
+* 
+
 * Bennet: HotM
 * Dan E: triads &amp; AI
 
