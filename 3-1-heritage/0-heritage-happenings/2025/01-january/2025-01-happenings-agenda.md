@@ -7,7 +7,7 @@
 ## Theme
 
 * **Around the World** Egypt
-* **Colors** ??
+* **Colors** red: #ce1126 ~ white: #ffffff ~ black: #000000 ~ gold: #c09300
 * **Cameo** Sphynx? Nerfertiti
 
 ## Events
@@ -33,7 +33,7 @@
 ## Content for January Issue
 
 * Bob Granucci Mia: Ducks #4
-* Doris: El Salvador Book Review
+* Doris: Cairo
 * Jane: ??
 * Margaret Jacobs: ??
 * Margaret Johnson: Tanzania
@@ -42,6 +42,6 @@
 * Patrick: France story??
 * Sheila: ??
 * Trish:
-* Tucker: ??
+* Tucker: Book reviews
 * Theo: ??
 * Tom King
