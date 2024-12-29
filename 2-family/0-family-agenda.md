@@ -6,8 +6,6 @@
 * Peyton: hello theater
 * Rob &amp; Peyton: Suno &amp; Kaiber / frank?
 * Alex: Perry's?
-* 
-
 * Bennet: HotM
 * Dan E: triads &amp; AI
 
