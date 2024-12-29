@@ -21,7 +21,8 @@
 Soon
 
 * Ron &amp; Mike: 16th!
-* Cooby
+* 
+
 * SacSem
 * Eloise
 * Diane K
