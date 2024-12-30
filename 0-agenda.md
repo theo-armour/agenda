@@ -23,8 +23,6 @@ Soon
 * Myint
 * Ron &amp; Mike: 16th!
 * SacSem
-* 
-
 * Diane K
 * NV: Le'mere
 * Centenary
@@ -36,7 +34,7 @@ Soon
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
