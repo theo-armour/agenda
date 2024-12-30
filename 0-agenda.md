@@ -21,7 +21,8 @@
 Soon
 
 * Myint
-* Yvonne
+* 
+
 * Ron &amp; Mike: 16th!
 * SacSem
 * Eloise ~&nbsp;
