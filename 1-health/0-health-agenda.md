@@ -3,12 +3,13 @@
 ## Appointments
 
 * ?
+* Genualdi: reade mesage
 * MarthaL Pharmerica details
 * Martha: PPH report
 * MarthaL
 * Daniel B: appointment
 * Senior Doc?
-* https://papa.com
+* <a href="https://papa.com">https://papa.com</a>
 * Sports medicine reference
 * Colonoscopy report??
 
