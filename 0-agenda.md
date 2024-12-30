@@ -49,7 +49,7 @@ Soon
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
@@ -61,7 +61,7 @@ Soon
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
-* A: mike ~&nbsp;
+* A: mike ~ miralax ~ citracel
 * Walgreens: screwdriver
 * Jeans ~ jacket
 
