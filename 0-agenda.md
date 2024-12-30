@@ -34,7 +34,7 @@ Soon
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
@@ -55,6 +55,7 @@ Soon
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
+* mug-cleaner
 * install printer cartridge
 * Printer canon cartridge returned
 * Plateau chair
@@ -62,6 +63,7 @@ Soon
 * EyeBuyDirect: small spec
 * A: mike ~&nbsp;
 * Walgreens: screwdriver
+* Jeans ~ jacket
 
 Waiting
 
