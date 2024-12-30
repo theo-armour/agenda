@@ -21,11 +21,10 @@
 Soon
 
 * Myint
-* 
-
 * Ron &amp; Mike: 16th!
 * SacSem
-* Eloise ~&nbsp;
+* 
+
 * Diane K
 * NV: Le'mere
 * Centenary
