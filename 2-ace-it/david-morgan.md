@@ -2,9 +2,11 @@
 
 birthday 2023-11-20
 
-Father Garth?
+Father Garth
 
 Mother Julie
+
+Sister
 
 763 218 0989
 

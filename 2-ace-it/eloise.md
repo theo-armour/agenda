@@ -6,11 +6,12 @@
 ## 2024-12-22
 
 * Coop paper summary
+* eloise.armour@gmail.com
 
 ## 2024-11-17
 
 * Dave
-* his family
+* His family
 * Politics: embrace the disruption ~ ethical logging
 
 ## 2024-07-12

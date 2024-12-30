@@ -24,6 +24,8 @@ Wildfire-Driven Forest Conversion in Western North American Landscapes
 * https://academic.oup.com/bioscience/article/70/8/659/5859066
 * https://research.fs.usda.gov/treesearch/60427
 * https://www.fs.usda.gov/rm/pubs_journals/2020/rmrs_2020_coop_j001.pdf
+* https://www.youtube.com/watch?v=bhgWBEATruY
+* https://www.frames.gov/catalog/62333
 
 Untrammeling the wilderness: restoring natural conditions through the return of human-ignited fire
 
@@ -39,6 +41,7 @@ Untrammeling the wilderness: restoring natural conditions through the return of 
 ## Jonathan Coop
 
 * CV not updated since 2020
+* https://www.swfireconsortium.org/
 * https://orcid.org/0000-0002-3930-340X
 * https://western.edu/people/jonathan-coop-phd/
 * https://www.westernforestecology.com/
