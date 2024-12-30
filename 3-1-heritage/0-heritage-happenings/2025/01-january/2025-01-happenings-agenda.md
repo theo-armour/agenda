@@ -14,6 +14,7 @@
 
 * MLK day January 20
 * Chinese New Year ~ January 29
+*
 
 ## Leadership
 
@@ -23,7 +24,7 @@
 * Martha &amp; Vada: Health:
 * Brittany:
 * Roxanne:
-* Mary:
+* Mary: One Pager!!!
 * Health Agenda for the year: Healthy Eating
 
 ## Residents Council
@@ -33,15 +34,23 @@
 ## Content for January Issue
 
 * Bob Granucci Mia: Ducks #4
-* Doris: Cairo
-* Jane: ??
+* [x] Doris: Cairo
+* Jane: USA trip
 * Margaret Jacobs: ??
-* Margaret Johnson: Tanzania
+* [x] Margaret Johnson: Tanzania
 * Martha Nell: Cooby
 * Martha Nell: Library new acquisitions: none
-* Patrick: France story??
+* [x] Patrick: France story??
 * Sheila: ??
 * Trish:
-* Tucker: Book reviews
-* Theo: ??
+* [x] Tucker: Book reviews
+* Theo: Editorial: Next Village events
+* Theo: Health topics
 * Tom King
+
+## Front Page
+
+* February will be China and March will be Ireland.
+* Chinese New Year
+* Egypt Helm Music
+* Next Village tour
