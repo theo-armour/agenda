@@ -1,6 +1,7 @@
 # Reminders
 
 * ++
+* Use the morning well: for techie things
 * Read a book
 * squegg + Phone
 * Nap on the floor&nbsp;
