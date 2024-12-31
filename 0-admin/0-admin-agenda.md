@@ -5,6 +5,7 @@
 ## Agenda
 
 * ?
+* January tax payments scheduled
 * Josh: stocks to children?
 
 Waiting
