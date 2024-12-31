@@ -16,6 +16,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Sunday, January 5 at 3 p.m. at the University Club: Celebrating the life and times of our beloved chair, the late Jon Rubin
 * Friday, December 20 at Perry's on Union: Sac Sem’s annual Holiday/Christmas/Hanukkah Lunch
 * Friday, December 13 at Perry's on Union: Celebrating the life and times of our beloved chair, the late Jon Rubin
 * Friday, December 6 at Perry's on Union: Janelle Kellman, candidate for the Democratic nomination for Lieutenant Governor of California

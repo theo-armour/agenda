@@ -3,7 +3,8 @@
 * https://obits.al.com/us/obituaries/sfgate/name/jon-rubin-obituary?id=57004260
 * https://www.legacy.com/us/obituaries/sfgate/name/jon-rubin-obituary?id=57004260
 * https://blog.bayareametro.gov/posts/mtc-mourns-passing-toasts-life-former-chairman-jon-rubin
-* https://blog.bayareametro.gov/posts/mtc-mourns-passing-toasts-life-former-chairman-jon-rubin
+* https://mtc.ca.gov/news/mtc-mourns-passing-toasts-life-former-chair-jon-rubin
+
 
 ## 2024-12-13
 
