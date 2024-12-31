@@ -15,9 +15,6 @@
 <!-- this is a comment -->
 ## Today
 
-* ?
-* 
-
 * HH: Martha Nell
 * HH: Tom
 * HH: Patrick
