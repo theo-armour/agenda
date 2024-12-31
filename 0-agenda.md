@@ -16,19 +16,17 @@
 ## Today
 
 * ?
-* SacSem
 * 
 
 * 
 
 Soon
 
-* 
-
 * Asus: del files ~ factory reset
 * aci-it: birthday call?
 * Myint
-* Ron &amp; Mike: 16th!
+* 
+
 * Diane K
 * NV: Le'mere
 * Centenary
