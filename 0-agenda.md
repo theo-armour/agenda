@@ -16,7 +16,8 @@
 ## Today
 
 * ?
-* HH
+* Cynthia: Bday
+* HH ~ Mary
 
 Soon
 
