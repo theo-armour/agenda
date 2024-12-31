@@ -16,17 +16,12 @@
 ## Today
 
 * ?
-* 
-
-* 
 
 Soon
 
 * Asus: del files ~ factory reset
 * aci-it: birthday call?
 * Myint
-* 
-
 * Diane K
 * NV: Le'mere
 * Centenary
@@ -59,14 +54,15 @@ Soon
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
-* mug-cleaner
+* 
+
 * Empty vacuum
 * install printer cartridge
 * Printer canon cartridge returned
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
-* A: mike ~ miralax ~ citracel
+* A: mike ~&nbsp;
 * Walgreens: screwdriver
 * Jeans ~ jacket
 
