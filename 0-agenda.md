@@ -17,7 +17,11 @@
 
 * ?
 * Cynthia: Bday
-* HH ~ Mary
+* HH: Mary
+* HH: Martha Nell
+* HH: Tom
+* HH: Patrick
+* HH: Roxana ~ Helm
 
 Soon
 
