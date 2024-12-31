@@ -17,14 +17,15 @@
 
 * ?
 * SacSem
-* Val &amp; tom: lunch: HH ~ homespun journalism ~ lost my phone
+* 
+
 * 
 
 Soon
 
 * 
 
-* Asua: del files ~ factory reset
+* Asus: del files ~ factory reset
 * aci-it: birthday call?
 * Myint
 * Ron &amp; Mike: 16th!
