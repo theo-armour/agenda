@@ -15,8 +15,10 @@
 <!-- this is a comment -->
 ## Today
 
-* ?
-* HH
+* HH: Martha Nell
+* HH: Tom
+* HH: Patrick
+* HH: Roxana ~ Helm
 
 Soon
 
@@ -34,7 +36,7 @@ Soon
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
@@ -61,7 +63,7 @@ Soon
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
-* A: mike ~&nbsp;
+* A: mike ~ corkscrew
 * Walgreens: screwdriver
 * Jeans ~ jacket
 
