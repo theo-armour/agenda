@@ -22,7 +22,8 @@
 
 Soon
 
-* Johnson: dominic article
+* 
+
 * Asua: del files ~ factory reset
 * aci-it: birthday call?
 * Myint
