@@ -39,14 +39,14 @@
 * Margaret Jacobs: ??
 * [x] Margaret Johnson: Tanzania
 * Martha Nell: Cooby
-* Martha Nell: Library new acquisitions: none
+* Martha Nell: Library new acquisitions:
 * [x] Patrick: France story??
 * Sheila: ??
 * Trish:
 * [x] Tucker: Book reviews
 * Theo: Editorial: Next Village events
 * Theo: Health topics
-* Tom King
+* [x] Tom King
 
 ## Front Page
 
@@ -54,3 +54,4 @@
 * Chinese New Year
 * Egypt Helm Music
 * Next Village tour
+
