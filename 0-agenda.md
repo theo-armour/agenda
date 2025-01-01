@@ -22,8 +22,6 @@
 
 Soon
 
-* 
-
 * Myint
 * Diane K
 * NV: Le'mere
