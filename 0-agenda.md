@@ -23,7 +23,7 @@
 
 Soon
 
-* Yvonne: ~ penance ~ MV volunteers
+* Yvonne: ~ penance ~ book ~ MV volunteers
 * Myint
 * Diane K
 * NV: margaret Jacobs
