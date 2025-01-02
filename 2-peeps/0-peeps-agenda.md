@@ -4,6 +4,9 @@
 
 ## Peeps
 
+* Shammah
+* Omar
+* Jose Leos
 * Terrence Deacon
 * Doug Dwyer
 * George Dicke?
