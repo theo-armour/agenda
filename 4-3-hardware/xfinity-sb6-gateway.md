@@ -7,5 +7,6 @@
 
 ## Admin
 
-http://10.0.0.1
-redbricks1
+* http://10.0.0.1
+* user: admin
+* pw: redbricks1
