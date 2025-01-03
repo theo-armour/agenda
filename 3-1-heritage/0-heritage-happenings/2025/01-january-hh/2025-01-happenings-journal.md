@@ -9,7 +9,8 @@
 * Health topics
 * Jokes
 * Maria Church ~ Ombundsman: 415 751 9788
-* `<a href="mailto:patricksinclair@yahoo.com">`patricksinclair@yahoo.com `</a>`
+* patricksinclair@yahoo.com
+
 
 ## 2024-12-22 ~ January Heritage Happenings
 
