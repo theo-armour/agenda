@@ -83,10 +83,10 @@ The public supplied ample proof of the Sasquatch with videos, fur samples, scat,
 Two men, aged 40 and 60, were found in the mountainous forests of Washington State lying dead days after reported missing by family. They were hunting for the fabled Bigfoot believed haunting the vicinity by many. The local sheriff attributes their deaths to climate change.
 *San Francisco Chronicle, 1/30/24*
 
-## Shiela
+## Sheila
 
 The Pyramids of Egypt
-By Shiela Moore
+By Sheila Moore
 
 I believe I've visited Egypt three times, and 2010 was the second time, but I'm not sure.  Each time I've visited, Egypt does seem to be more developed and prosperous.  I usually stay downtown in some cheap crummy rooming house, and take a local but to Giza, in the outskirts of Cairo, where the famous Pyramids are situated.
 
@@ -110,8 +110,13 @@ I believe I've visited Egypt three times, and 2010 was the second time, but I'm 
 
 
 ## Monthly Health Topics / Themes
+By Theo Armour
 
-As Anne Morris reminds us, "Growing old is not for sissies." Being one of the youngsters here, I like to think of this place as an elite school for learning how to grow old gracefully. And like any school, the curriculum is broad and deep. Here are some of the subjects we study:
+As Anne Morris reminds us, "Growing old is not for sissies." Bette Davis.
+
+Being one of the youngsters around here, I like to think of Heritage as an elite training school for learning to age gracefully. Like any school, the curriculum is broad and deep. Aging well takes into account wide range of topics.
+
+My niece Mia, is helping me with my studies. In her lesson plan, she divides the year into twelve monthly topics of wellness studies. Here are the subjects we will study:
 
 1. Exercise (Mental & Physical)
 2. Sleep
@@ -126,5 +131,23 @@ As Anne Morris reminds us, "Growing old is not for sissies." Being one of the yo
 11. Community Engagement
 12. Your Legacy
 
-Npbody wants to study everything all at once, my plan ids to focus on one subject each month. I'll be sharing what I learn with you in the newsletter. I hope you'll share your thoughts and experiences with me, too. Together, we can make this the best school ever!
+I will share my homework with you in the newsletter. I hope you'll share your thoughts and experiences with me, too.
+
+Also as part of my efforts I hope that Martha, Vada, Brittany, Jonathan, and others will help me with my studies so that I can include their thoughts and experiences in the newsletter.
+
+Practice what you preach
+Here is the tricky thing. In school you can turn in your homework and throw it out when you get your grade. But in the school of life, you have to live with the results of your actions. So, I am going to try to practice what I preach. I will share my experiences with you in the newsletter. I hope you'll share your thoughts and experiences with me, too.
+
+Why do you study all this stuff?
+One of the things I hear is that as you age life gets more complicated, but it also gets more boring. Residents ask "is playing Solitaire or reading a book again for the tench time the best I can do?" When I look at the list of topics, I think that there is a lot of interesting stuff to learn and think about. My goal is that each month, we can come up with interesting activities.
+
+Goals, Targets, and Indicators
+Speaking of goals, Having an objective, being able to say "I want..." is where it starts. If you don't want anything, aren't you just a bystander in life.
+
+
+
+Together, we can make this the best school ever!
+
+
+Nbody wants to study everything all at once, my plan ids to focus on one subject each month. I'll be sharing what I learn with you in the newsletter. I hope you'll share your thoughts and experiences with me, too. Together, we can make this the best school ever!
 
