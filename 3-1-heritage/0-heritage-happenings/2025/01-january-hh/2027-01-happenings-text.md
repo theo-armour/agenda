@@ -114,7 +114,7 @@ By Theo Armour
 
 As Anne Morris reminds us, "Growing old is not for sissies." Bette Davis.
 
-Being one of the youngsters around here, I like to think of Heritage as an elite training school for learning to age gracefully. Like any school, the curriculum is broad and deep. Aging well takes into account wide range of topics.
+Being one of the youngsters around here, I like to think of Heritage as an elite training school for learning to age gracefully. As with any good school, the curriculum is broad and deep. Aging well must take into account wide range of topics.
 
 My niece Mia, is helping me with my studies. In her lesson plan, she divides the year into twelve monthly topics of wellness studies. Here are the subjects we will study:
 
@@ -133,12 +133,17 @@ My niece Mia, is helping me with my studies. In her lesson plan, she divides the
 
 I will share my homework with you in the newsletter. I hope you'll share your thoughts and experiences with me, too.
 
-Also as part of my efforts I hope that Martha, Vada, Brittany, Jonathan, and others will help me with my studies so that I can include their thoughts and experiences in the newsletter.
+Also as part of my efforts I hope that Martha, Vada, Brittany, Jonathan, and others will help me with my studies so that I can include their thoughts and experiences in the newsletter.But the most important things is that I will try to practice what I preach. I will share my experiences with you in the newsletter. I hope you'll share your thoughts and experiences with me, too.
 
 Practice what you preach
 Here is the tricky thing. In school you can turn in your homework and throw it out when you get your grade. But in the school of life, you have to live with the results of your actions. So, I am going to try to practice what I preach. I will share my experiences with you in the newsletter. I hope you'll share your thoughts and experiences with me, too.
 
-Why do you study all this stuff?
+Why study all this stuff?
+I will be 78 this month. I older than the average life expectancy of 76 for males in the US. Obviously I am a success in the aging department. There are numerous residents here that are twenty years older than me. Even more successful. Why do we even need to consider all this stuff?
+
+
+
+
 One of the things I hear is that as you age life gets more complicated, but it also gets more boring. Residents ask "is playing Solitaire or reading a book again for the tench time the best I can do?" When I look at the list of topics, I think that there is a lot of interesting stuff to learn and think about. My goal is that each month, we can come up with interesting activities.
 
 Goals, Targets, and Indicators
@@ -150,4 +155,36 @@ Together, we can make this the best school ever!
 
 
 Nbody wants to study everything all at once, my plan ids to focus on one subject each month. I'll be sharing what I learn with you in the newsletter. I hope you'll share your thoughts and experiences with me, too. Together, we can make this the best school ever!
+
+## Martha Nell
+
+Library Corner  December 2024 new acquisitions
+
+Martha Nell Beatty
+
+Fairy  Tqle F 2023                                                                                                                                                     Stephen King
+
+A 17-year-ol inherits keys to a hidden, otherworldly realm and finds himself leading the battle between good and even.
+
+Sasaquatch: Legend Meets Science  NF  2007                                                                                         Jeff Meldrum
+
+A scientist with impeccable credentials reviews the mystery of an undiscovered North American primate.
+
+(Two men died recently as they searched for Sasaquatch)
+
+Hour Game (King & Maxwell series) F 2023                                                                                                David Baldacci
+
+Two secret service agents are hired to defend a man’s innocence in a burglary involving an aristocratic family.
+
+
+
+
+## Community Engagement
+
+When I’m walking around my Marina neighborhood I see many elderly people. Sadly, I don’t know any of them. When I’m listening to a concert or lecture in Friendship Hall, I see plenty of space for more attendees. So I have been wondering if there is a way of connecting the two groups. I have been thinking about a program where we could invite some of the elderly people in the neighborhood to attend some of our events. I have been talking to the staff about this idea, and they think it’s a good idea.
+
+I have also joined and met with Next Village SF, a neighborhood nonprofit providing services and support that help the elderly to live independently. We have organized a tour of the Julia Morgan building and campus on January 14 for members of the organization. While, they are here I wil enquire id they would be interested in attending some of our events.
+
+
+
 
