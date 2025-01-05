@@ -88,25 +88,25 @@ Two men, aged 40 and 60, were found in the mountainous forests of Washington Sta
 The Pyramids of Egypt
 By Sheila Moore
 
-I believe I've visited Egypt three times, and 2010 was the second time, but I'm not sure.  Each time I've visited, Egypt does seem to be more developed and prosperous.  I usually stay downtown in some cheap crummy rooming house, and take a local but to Giza, in the outskirts of Cairo, where the famous Pyramids are situated.
+I believe I've visited Egypt three times, and 2010 was the second time, but I'm not sure. Each time I've visited, Egypt does seem to be more developed and prosperous. I usually stay downtown in some cheap crummy rooming house, and take a local but to Giza, in the outskirts of Cairo, where the famous Pyramids are situated.
 
-(1)  This is the main Pyramid.  It's huge, and about 4,600 years old.
+(1) This is the main Pyramid. It's huge, and about 4,600 years old.
 
-(2)  The outer veneer or cover, has been worn off or weathered off, and the facade is of great blocks of granite.  Years ago, on a previous visit, I paid a man a tip to see him leap up the blocks to the top, and back again.  It's how he made a living.
+(2) The outer veneer or cover, has been worn off or weathered off, and the facade is of great blocks of granite. Years ago, on a previous visit, I paid a man a tip to see him leap up the blocks to the top, and back again. It's how he made a living.
 
-(3)  For a fee, a visitor can go inside the pyramid, and on one of my trips I did go inside - photos are following.  The Pyramids are huge, 4,600 years old, and one of the Seven Wonders Of The World.
+(3) For a fee, a visitor can go inside the pyramid, and on one of my trips I did go inside - photos are following. The Pyramids are huge, 4,600 years old, and one of the Seven Wonders Of The World.
 
-(4) Me on a camel.  But I soon found out the camel had a mind of its own and was strong and twisting around, so I didn't stay on it long.
+(4) Me on a camel. But I soon found out the camel had a mind of its own and was strong and twisting around, so I didn't stay on it long.
 
-(5)  Next I visited the Sphinx, which is a little downhill from the Pyramid.  The Sphinx has a feline body of a lion, with the face of Khufu, Cheops in Greek.  It is carved from a single stone.  French troops damaged the Sphinx' face by firing on it.
+(5) Next I visited the Sphinx, which is a little downhill from the Pyramid. The Sphinx has a feline body of a lion, with the face of Khufu, Cheops in Greek. It is carved from a single stone. French troops damaged the Sphinx' face by firing on it.
 
-(6)  Next I took a bus and stayed in Luxor for a few days, which has many ancient temples.  Then I took a local barge and crossed the Nile River, and walked to the Valley Of The Kings.  There were many tombs - here is the entrance to King Tutankhamun's Tomb ($20 entrance fee).
+(6) Next I took a bus and stayed in Luxor for a few days, which has many ancient temples. Then I took a local barge and crossed the Nile River, and walked to the Valley Of The Kings. There were many tombs - here is the entrance to King Tutankhamun's Tomb ($20 entrance fee).
 
-(7)  Inside the inner burial chamber of King Tutankhamun's tomb.  His tomb had several layers - one box inside another.  A golden gilded coffin enclosed his mummy.
+(7) Inside the inner burial chamber of King Tutankhamun's tomb. His tomb had several layers - one box inside another. A golden gilded coffin enclosed his mummy.
 
-(8)  The beautiful gilded mask covering the mummy of King Tutankhamun.
+(8) The beautiful gilded mask covering the mummy of King Tutankhamun.
 
-(9)  Full view of the inside coffin covering the mummy of King Tutankhamun.
+(9) Full view of the inside coffin covering the mummy of King Tutankhamun.
 
 
 ## Monthly Health Topics / Themes
@@ -158,21 +158,21 @@ Nbody wants to study everything all at once, my plan ids to focus on one subject
 
 ## Martha Nell
 
-Library Corner  December 2024 new acquisitions
+Library Corner December 2024 new acquisitions
 
 Martha Nell Beatty
 
-Fairy  Tqle F 2023                                                                                                                                                     Stephen King
+Fairy Tqle F 2023 Stephen King
 
 A 17-year-ol inherits keys to a hidden, otherworldly realm and finds himself leading the battle between good and even.
 
-Sasaquatch: Legend Meets Science  NF  2007                                                                                         Jeff Meldrum
+Sasaquatch: Legend Meets Science NF 2007 Jeff Meldrum
 
 A scientist with impeccable credentials reviews the mystery of an undiscovered North American primate.
 
 (Two men died recently as they searched for Sasaquatch)
 
-Hour Game (King & Maxwell series) F 2023                                                                                                David Baldacci
+Hour Game (King & Maxwell series) F 2023 David Baldacci
 
 Two secret service agents are hired to defend a man’s innocence in a burglary involving an aristocratic family.
 
@@ -187,4 +187,53 @@ I have also joined and met with Next Village SF, a neighborhood nonprofit provid
 
 
 
+## Mary
 
+Dear Residents,
+
+I hope this message finds you well and that you had a joyful and restful December, surrounded by loved ones. I know the holiday season can be busy, but I trust that you had moments of relaxation and reflection.
+
+As we close out 2024, I want to express my sincere gratitude for our dedicated team of leaders and staff, whose compassion and care for our residents continue to shine. We are proud to have completed a deficiency-free survey from the Department of Social Services, a significant achievement, especially given that Aging in Place is still a relatively new concept in California. We are honored to be at the forefront of this important movement. We are also making great strides with our new Yardi software, which will soon be fully implemented to support our finance, human resources, maintenance, and nursing departments. Additionally, we are on track to secure our land use permit, which we anticipate receiving by the end of the first quarter of this year. Finally, we are thrilled to share that our application for Landmark status for the Julia Morgan building has been approved. We expect to receive the formal designation from the new Mayor in the coming weeks. Finally, last week we sent out an email blast to residents and neighbors with an updated FAQ about our strategic plan. This can also be found on our website under the tab, “future plans.”
+
+Looking ahead to 2025, I am hopeful that we will continue to engage in respectful and meaningful conversations. It is a privilege to serve the Heritage community, and I deeply appreciate the active involvement of our residents.
+
+Here are a few important upcoming events:
+
+January 22, 2025, at 10:00 AM: We will hold a special financial meeting to address questions regarding our status as a 501(c)(3) private charity. Per your requests, we will have legal counsel and a tax accountant present. We will also provide an update on savings and expenses following the closure of the SNF (skilled nursing facility) on April 1, 2023. Board members have been invited to attend.
+February 12, 2025, at 10:00 AM: Our semiannual meeting will be held to discuss the 2025 budget, resident fee increases, and other community updates.
+March 27, 2025, from 2:00 to 4:00 PM: We will celebrate the 100th anniversary of the Julia Morgan building with a special event. This will be an opportunity to showcase our community to local residents and politicians and will also serve as a fundraising event.
+On behalf of our staff and myself, I wish you all a Happy New Year. May the year ahead bring you good health, happiness, and peace.
+
+Warm regards,
+
+
+
+Mary Linde
+
+Chief Executive Officer
+
+
+## Doris 2
+
+The Empress of The Nile by Lynne Olson
+By Doris Howard
+This biography deserves a more dignified title. It is a comprehensive history of the career of the French archeologist, Christiane Desroches-Noblecourt. She was an Egyptologist who did fieldwork, taught and was the director of Egyptian antiquities at the Louvre. This does not even begin to describe the breadth of her life's work. In the course of pursuing her extensive fieldwork, she interacted with Egyptian authorities , overcoming historical hostility toward the French because of past exploitation and acquisition of antiquities. As her career spanned the 20th century, she also had to overcome resistance to women from male peers and Egyptian authorities.
+In the 1950s, when Egypt was planning to build the Aswan Dam, it was Christiane who worked tirelessly to raise money to save the famed statues at Abu Simbel. Abu Simbel is a huge temple built thousands of years ago by Ramses II in his own honor. It was threatened with burial by the waters of the Nile River in 1960 when plans were underway to build the Aswan Dam. Christiane aroused Egyptians, Europeans and even Americans to the potential loss of the temple. she inspired hundreds to work toward saving Abu Simbel by taking it apart and rebuilding it on higher ground.
+Then she accomplished the same with the temples on the island of Philae. The primary temple was dedicated to the goddess Isis, the center of a Mediterranean-world-wide religion. Christiane wrote a dozen books about Egypt and its history. A half-dozen books we written about her. There was a film about her produced in the 1980s. Her final efforts were in fieldwork in the Valley of The Queens - the extensive grave sites of the wives and children of the pharaohs. Most attention had previously been paid to the Valley of the Kings by earlier (mostly male) Egyptologists. She was interested in the women. Despite the pillage and loss of mummies in early centuries. she found many valuable artifacts.
+The author goes far afield to describe events that Christiane overcame. Describing the efforts to save Abu Simbel, the author wrote about concurrent world events, e.g.; the political tension and distrust between Western powers and the Egyptian presidency of Gamal Abdel Nasser. Nasser was trying to maintain peaceful relations with Russia and President Kennedy distrusted his motives. However, Christiane called so widely for financial assistance that Jacqueline Kennedy convinced Jack Kennedy to request United States funds for the project. Christiane not only won over other Egyptologists and politicians, she was a legendary worker in the field, both in her design of projects but also in her excellent relations with Arab workers. She learned Arabic and worked beside those digging and carrying.
+This is a large, well-written biography pf a strong exciting woman in an exciting profession. This is a book for all, not only for those of us who love archaeology. It is a book for those of us who love history and politics too.
+
+
+
+## Tom2
+
+Training for the Holidays
+Tom King and Val Szigeti
+
+We took a train to Tahoe for Christmas.  What a glorious trip through the snowy mountains!
+The train was smoother and quieter than I had imagined, and all the Amtrak people were friendly and helpful in spite of this being one of their busiest days of the year.  Once the train got past Sacramento into Colfax, the scenery changed from Central Valley yuck to snowy Sierra wonder.
+OK, the train actually left from the Emeryville Amtrak Station, and then we got off in Truckee amidst huge snowflakes and holiday music in the square.  Our smiling daughter-in-law, Jennifer, ran to meet us and then chauffeured us from Truckee to their ski place in nearby Martis Camp, where we joined 11 people for the holidays, starting with a Christmas Eve feast.
+Christmas morning had us participating in a traditional Catalan opening of presents – five of the guests were relatives from Barcelona.  The tradition, based on an early pagan ritual, starts with a song and includes hitting a puppet-like log with sticks until it poops out the first present.
+Here’s a picture of some of the kids and the presents patiently awaiting them under the tree:
+After lunch, we walked around a small lake, played with the kids (and their new toys), and enjoyed the snowy vistas out the windows.
+Coming back had Tom driving a rented Jeep Wagoneer with 5 passengers through a snowstorm with chain controls on a busy and slippery I-80.  Where’s the train when you need it?

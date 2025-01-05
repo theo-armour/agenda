@@ -26,7 +26,8 @@
 ## Statistics
 
 * 299 members
-* 2473 service requests in 2024
+* 2800 service requests in 2024
+* 755 events
 * 200 + volunteers
 
 ## Insights
