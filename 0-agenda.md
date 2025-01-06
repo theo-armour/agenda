@@ -16,14 +16,12 @@
 ## Today
 
 * HH: Roxana ~ Helm
-* 
-
 * Mark Linton: AGI
 
 Soon
 
 * Myint
-* Diane K
+* Diane K &gt;&gt;&gt;
 * NV: margaret Jacobs
 * NV: Le'mere
 * Centenary
