@@ -76,7 +76,7 @@ Authors
 
 ## Heritage Happenings <month> Newsletter + Resident Directory: Print Ready
 
-Good morning, Front Office
+Good morning Front Office
 
 The Heritage Happenings <month> Newsletter is ready for printing. A print-ready copy is attached.
 
