@@ -154,7 +154,14 @@ Speaking of goals, Having an objective, being able to say "I want..." is where i
 Together, we can make this the best school ever!
 
 
-Nbody wants to study everything all at once, my plan ids to focus on one subject each month. I'll be sharing what I learn with you in the newsletter. I hope you'll share your thoughts and experiences with me, too. Together, we can make this the best school ever!
+
+The Art & Joys of Aging
+• Embracing the latest (expert) information on aging
+• Making the most of your longevity
+• Taking small steps to improve physical and mental health, connectedness, financial well-being, and overall quality of life.
+
+
+Nobody wants to study everything all at once, my plan ids to focus on one subject each month. I'll be sharing what I learn with you in the newsletter. I hope you'll share your thoughts and experiences with me, too. Together, we can make this the best school ever!
 
 ## Martha Nell
 
@@ -237,3 +244,6 @@ Christmas morning had us participating in a traditional Catalan opening of prese
 Here’s a picture of some of the kids and the presents patiently awaiting them under the tree:
 After lunch, we walked around a small lake, played with the kids (and their new toys), and enjoyed the snowy vistas out the windows.
 Coming back had Tom driving a rented Jeep Wagoneer with 5 passengers through a snowstorm with chain controls on a busy and slippery I-80.  Where’s the train when you need it?
+
+## Time to move
+
