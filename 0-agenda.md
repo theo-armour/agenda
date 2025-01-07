@@ -8,7 +8,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Jeff Russell
+* 
+
 * Diana Greer
 * Centenary: Roses photo
 * Roses: CalPoly, Bancroft, CA Historical&nbsp;
@@ -21,7 +22,7 @@ Soon
 
 * NV: use for volunteers
 * Taxes: IRS + FTB
-* NV: :argaret Jacobs
+* NV: Margaret Jacobs
 * NV: Le'mere
 * Mark Linton: AGI
 * Trish J
