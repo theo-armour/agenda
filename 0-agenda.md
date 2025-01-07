@@ -8,8 +8,6 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * Diana Greer
 * Centenary: Roses photo
 * Roses: CalPoly, Bancroft, CA Historical&nbsp;
@@ -20,12 +18,15 @@
 
 Soon
 
+* SacSem: ?
+* Trish J: msg
 * NV: use for volunteers
 * Taxes: IRS + FTB
 * NV: Margaret Jacobs
 * NV: Le'mere
 * Mark Linton: AGI
-* Trish J
+* 
+
 * Tiller
 
 ***
@@ -46,7 +47,7 @@ Soon
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
