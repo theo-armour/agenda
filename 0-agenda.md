@@ -3,8 +3,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 
-
 * 2025-01-06:&nbsp;There's no sense in being precise when you don't even know what you're talking about. -- John von Neumann
 
 <!-- this is a comment -->
@@ -16,7 +14,8 @@
 
 Soon
 
-* Myint
+* 
+
 * Diane K &gt;&gt;&gt;
 * NV: margaret Jacobs
 * NV: Le'mere
