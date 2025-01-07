@@ -14,15 +14,15 @@ Done:
 
 Heritage Happenings November Newsletter + Calendar + Resident Directory
 
+Dear <<First Name>>
 
 Click on the website link below to open your digital copy of:
 
 Heritage Happenings <month> Newsletter
 
-As part of the monthly Around the World program, Heritage Happenings visits <country>. The colors are <colors>. The masthead cameo mascot is <description>.
+As part of the monthly Around the World program, Heritage Happenings visits <country>. Our theme colors, as usual, follow the colors of the flag: <colors>. The masthead cameo mascot is <description>.
 
-The Heritage Happenings Calendar is now being edited and maintained by Margaret Jacobs.
-Click on the website link below to open your digital copy of:
+The Heritage Happenings Calendar is now being edited and maintained by Margaret Jacobs. Click on the website link below to open your digital copy of:
 
 Heritage Happenings <month> Calendar
 
