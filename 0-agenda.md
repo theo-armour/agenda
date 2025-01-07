@@ -8,7 +8,6 @@
 <!-- this is a comment -->
 ## Today
 
-* Mia
 * Jeff Russell
 * Diana Greer
 * Centenary
