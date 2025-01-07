@@ -8,7 +8,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Diana Greer
+* 
+
 * Centenary: Roses photo
 * Roses: CalPoly, Bancroft, CA Historical&nbsp;
 * Roses: Woody
