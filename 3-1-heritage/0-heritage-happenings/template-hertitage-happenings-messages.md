@@ -12,7 +12,7 @@ Done:
 
 ## Subscriber Messages
 
-Heritage Happenings November Newsletter + Calendar + Resident Directory
+Heritage Happenings Month Newsletter + Calendar + Resident Directory
 
 Dear <<First Name>>
 
