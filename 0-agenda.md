@@ -11,8 +11,9 @@
 * Jeff Russell
 * Diana Greer
 * Centenary
-* Marth N: meet
+* Martha N: meet
 * HH: staff etc
+* Kay N: Print Photo
 
 Soon
 
@@ -29,7 +30,7 @@ Soon
 **Admin**
 
 -->
-<details>
+<details open="">
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
