@@ -22,6 +22,7 @@ Soon
 * NV: Le'mere
 * Mark Linton: AGI
 * Trish J
+* Tiller
 
 ***
 
@@ -30,7 +31,7 @@ Soon
 **Admin**
 
 -->
-<details open="">
+<details>
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -41,21 +42,20 @@ Soon
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal.md&quot;">0 Admin Personal</a>
 
 * ?
 * Empty vacuum
-* install printer cartridge
-* Printer canon cartridge returned
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
 * A: mike ~ corkscrew
-* Walgreens: screwdriver
+* A: screwdriver
 * Jeans ~ jacket
+* Printer canon cartridge returned: box
 
 Waiting
 
