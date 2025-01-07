@@ -8,8 +8,7 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
+* Karen McNeil
 * Centenary: Roses photo
 * Roses: CalPoly, Bancroft, CA Historical&nbsp;
 * Roses: Woody
