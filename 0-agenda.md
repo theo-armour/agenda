@@ -10,15 +10,18 @@
 
 * Jeff Russell
 * Diana Greer
-* Centenary
+* Centenary: Roses photo
+* Roses: CalPoly, Bancroft, CA Historical&nbsp;
+* Roses: Woody
 * Martha N: meet
 * HH: staff etc
 * Kay N: Print Photo
 
 Soon
 
+* NV: use for volunteers
 * Taxes: IRS + FTB
-* NV: margaret Jacobs
+* NV: :argaret Jacobs
 * NV: Le'mere
 * Mark Linton: AGI
 * Trish J
