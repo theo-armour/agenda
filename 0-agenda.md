@@ -8,18 +8,16 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
-* 
+* Jeff Russell
+* Diana Greer
+* Centenary
+* Marth N: meet
 
 Soon
 
-* 
-
-* Diane K &gt;&gt;&gt;
+* Taxes: IRS + FTB
 * NV: margaret Jacobs
 * NV: Le'mere
-* Centenary
 * Mark Linton: AGI
 * 
 
