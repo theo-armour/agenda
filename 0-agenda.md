@@ -25,8 +25,8 @@ Soon
 * NV: Margaret Jacobs
 * NV: Le'mere
 * Mark Linton: AGI
-* 
-
+* Genualdi
+* Omar
 * Tiller
 
 ***
@@ -77,7 +77,7 @@ Waiting
 **Health**
 
 -->
-<details>
+<details open="">
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
