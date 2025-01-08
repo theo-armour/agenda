@@ -1,5 +1,45 @@
 # Centenary Journal
 
+## 2025-01-07
+
+##
+
+Request for Information: Julia Morgan: San Francisco Ladies Protection and Relief Society ~ 1923
+
+info@calhist.org
+Hello California Historical Society
+
+I am a resident of Heritage on the Marina opened as a home for destitute women in 1925 by the San Francisco Ladies Protection and Relief Society and designed by Julia Morgan in 1923.
+
+We are celebrating the centenary of the building this year. I understand that you may have documents relating to the Society and the to the project, perhaps correspondence, drawings, or other images that you might be able to share with us.
+
+If so, kindly guide me in the process of learning how to access the documents, having them reproduced and the charges for doing so.
+
+
+Hello CalPoly Archives
+
+I am a resident of Heritage on the Marina opened as a home for destitute woman in 1925 by the San Francisco Ladies Protection and Relief Society and designed by Julia Morgan in 1923.
+
+Looking at your Julia Morgan Online Exhibit, I see you have nine photos of the building. Thank you for making these so readily available.
+
+We are celebrating the centenary of the building this year. I am wondering if you might have any other documents relating to the project, perhaps correspondence, drawings, or other images that you might be able to share with us.
+
+I am also contacting the Design Archives at UC Berkeley and the California Historical Society to see if they might have any additional information.
+
+
+
+
+
+Hello Design Archives
+
+I am a resident of Heritage on the Marina opened as a home for destitute woman in 1925 by the San Francisco Ladies Protection and Relief Society and designed by Julia Morgan in 1923.
+
+Looking at the Project Index link from https://ced.berkeley.edu/collections/morgan-julia, I see project listed in row 63 of Sheet1 in the spreadsheet. I note that in the microfilm column "All" is stated.
+
+We are celebrating the centenary of the building this year. It would be awesome to be able to display reproductions of her drawings.
+
+Kindly guide me in the process of learning how to access the images, having them reproduced and the charges for doing so.
+
 
 ## 2024-11-13
 
