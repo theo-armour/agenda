@@ -9,14 +9,10 @@
 ## Today
 
 * Karen McNeil
-* Jenny: Allison
 * Centenary: Roses photo
-* 
-
 * Roses: Woody
 * Martha N: meet
 * HH: staff etc
-* 
 
 Soon
 
