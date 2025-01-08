@@ -11,7 +11,8 @@
 * Karen McNeil
 * Jenny: Allison
 * Centenary: Roses photo
-* Roses: CalPoly, Bancroft, CA Historical&nbsp;
+* 
+
 * Roses: Woody
 * Martha N: meet
 * HH: staff etc
