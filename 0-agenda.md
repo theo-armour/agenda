@@ -9,8 +9,6 @@
 ## Today
 
 * Karen McNeil
-* 
-
 * Roses: Woody
 * Martha N: meet
 * 
