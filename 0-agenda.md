@@ -26,6 +26,8 @@ Soon
 * Genualdi
 * Omar
 * Tiller
+* Jon Casey: IT guy ~ Find phone
+* Trish: HH
 
 ***
 
