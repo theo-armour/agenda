@@ -13,11 +13,12 @@
 
 * Roses: Woody
 * Martha N: meet
-* HH: staff etc
+* 
 
 Soon
 
-* SacSem: ? &gt;&gt;&gt;&gt;
+* 
+
 * Trish J: msg
 * NV: use for volunteers
 * Taxes: IRS + FTB
