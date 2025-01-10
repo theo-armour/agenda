@@ -31,6 +31,9 @@ Untrammeling the wilderness: restoring natural conditions through the return of 
 
 * https://link.springer.com/article/10.1186/s42408-024-00297-5
 
+### Clare Boerigter
+
+* https://firenetworks.org/untrammeling-the-wilderness/
 
 ## Western Colorado University
 
