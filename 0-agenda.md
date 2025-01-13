@@ -8,7 +8,9 @@
 <!-- this is a comment -->
 ## Today
 
-* MarkKaren McNeil
+* Mark D
+* Tom Mayer prep
+* Karen McNeil
 * Roses: Woody
 * Martha N: meet
 * Praveen: Remote Dir Activities
