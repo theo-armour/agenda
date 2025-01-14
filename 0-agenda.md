@@ -8,8 +8,6 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * PLE
 * Karen McNeil
 * Roses: Woody
@@ -21,16 +19,15 @@ Soon
 * Melissa: dining service comments
 * Trish J: msg
 * NV: use for volunteers
-* 
-
 * NV: Margaret Jacobs
 * NV: Le'mere
 * Mark Linton: AGI
 * Genualdi
 * Omar
 * Tiller
-* Jon Casey: IT guy ~ Find phone
+* Jon Casey: IT guy ~ Find phone TouchTown
 * Trish: HH
+* Archive
 
 ***
 
