@@ -16,6 +16,10 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday, January 17 at Perry on Union: Roundtable "Your predictions for next week?"; John W. Busterud has cancelled
+
+>This Friday, January 17 a clairvoyant roundtable: Your predictions for next week led by co-vice chair Jean MacCurdy. You will look into your crystal ball and reveal how the Federal cabinet will shape up, soothsay the executive orders that will be signed and divulge the ways that theLos Angeles fires continue to cause turmoil.
+
 * Friday, January 10 at Perry's on Union: Bob Powers, the General Manager of BART
 * Sunday, January 5 at 3 p.m. at the University Club: Celebrating the life and times of our beloved chair, the late Jon Rubin
 * Friday, December 20 at Perry's on Union: Sac Sem’s annual Holiday/Christmas/Hanukkah Lunch

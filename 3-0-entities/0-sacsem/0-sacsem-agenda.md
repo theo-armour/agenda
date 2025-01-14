@@ -6,6 +6,12 @@
 * Lunch at Sam's 1/14 at noon
 * Jon obits to website
 
+## 2025-01-13
+
+* SaxSem email
+* Mark DiCamillo
+* Mike & Ron lunch ~
+
 
 ## 2024-12-23
 

@@ -10,6 +10,16 @@
 * Mariposa
 
 
+## 2025-01-13
+
+* Halloween ~ boys ~ kathy & Richard
+* House ~ https://www.bishopsranch.org/? ~ $5,000
+* EOL ~ like it
+* Diana Greer
+* Archive
+
+
+
 ## 2025-01-06
 
 * Wallet
