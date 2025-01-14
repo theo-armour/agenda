@@ -8,7 +8,9 @@
 <!-- this is a comment -->
 ## Today
 
-* Karen McNeil
+* 
+
+* Food CommitteeKaren McNeil
 * Roses: Woody
 * Martha N: meet
 * Praveen: Remote Dir Activities
