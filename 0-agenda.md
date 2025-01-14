@@ -21,7 +21,8 @@ Soon
 * Melissa: dining service comments
 * Trish J: msg
 * NV: use for volunteers
-* Taxes: IRS + FTB
+* 
+
 * NV: Margaret Jacobs
 * NV: Le'mere
 * Mark Linton: AGI
