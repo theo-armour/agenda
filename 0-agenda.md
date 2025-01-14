@@ -18,7 +18,8 @@
 
 Soon
 
-* Melissa: dining service comments
+* 
+
 * Trish J: msg
 * NV: use for volunteers
 * NV: Margaret Jacobs
