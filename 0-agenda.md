@@ -10,7 +10,9 @@
 
 * 
 
-* Food CommitteeKaren McNeil
+* Food Committee
+* Mia
+* Karen McNeil
 * Roses: Woody
 * Martha N: meet
 * Praveen: Remote Dir Activities
