@@ -1,7 +1,7 @@
 # IRS
 
 * https://www.irs.gov/
-* https://www.irs.gov/your-account << works
+* https://www.irs.gov/your-account << works ~ uses id.me
 * https://sa.www4.irs.gov/secureaccess/ui/
 * Identity Protection PIN (IP PIN): 757868
 

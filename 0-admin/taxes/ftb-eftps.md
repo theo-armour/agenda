@@ -2,7 +2,7 @@
 
 ## EFTPS
 
-* https://www.eftps.gov/
+* https://www.eftps.gov/ > pay
 * PIN: 7774
 * Enrollment number is 030619347161221132.
 
