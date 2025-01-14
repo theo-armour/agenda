@@ -8,67 +8,33 @@
 
 ## 2025-01-13
 
-* SaxSem email
+* SaxSen email
 * Mark DiCamillo
-* Mike & Ron lunch ~
+* Mike & Ron lunch
 
+***
 
-## 2024-12-23
+Friday, January 17 at Perry on Union: Roundtable "Your predictions for next week?"; John W. Busterud has requested a raincheck
 
-* Ron & Michael invite
-* Created pages for Ron, Mike.
-* Added Jon's obits
+This Friday, January 17 a clairvoyant roundtable: Your predictions for next week led by co-vice chair Linda Muir. You will look into your crystal ball and reveal how the Federal cabinet will shape up, soothsay the executive orders that will be signed and divulge the ways that the Los Angeles fires continue to cause turmoil.
 
-## Agenda 2024-11-22
+***
 
-* Dick spotswood: Jack Ohman credentials
-* Jon: Description ~ subtitle: "The back room of the inner sanctum of political intrigue at the deepest levels…"
-* Jon: King's Afghani family
-* Jon: Marty photos: scan
+Hi Mark
 
-## Email
+May I invite you and Nancy to lunch with Marty and me at our house?
 
-* MikeFitz: Heritage SF / Woody LaBounty
+How about next week? Monday or Tuesday or Thursday? Around noon?
 
-## Website
+3400 Laguna Street, San Francisco CA 94123. Sadly no onsite parking.
 
-* Add Trip invite
-* Add description
-* Transfer all Spotswood emails
-* Take photos?
+Cheers,
 
-### Web sites of Interest
+Theo
 
-* <a href="https://neighborhoodsunitedsf.org">https://neighborhoodsunitedsf.org</a>
-* <a href="https://ourneighborhoodvoices.org">https://ourneighborhoodvoices.org</a> ~ not live
+❧ ❧ ❧
 
-### Clay Jackson
+Theo Armour
+415 828 0000
+t.armour@gmail.com
 
-* Download Dennis' CJ files
-* Clay tapes online
-* Clay tapes
-
-## Done
-
-### 2024-11-19
-
-* Dennis Wh: Zelle
-* Jean MacC: Friday?
-
-### 2024-10 ~ Marty Party
-
-* Marty Party: 10/23 @ 3-4
-* Spotswood: oct 18 email to sacsem
-* SacSem: CC to three: cancel
-
-### 2024-??
-
-* Constant Contact: Cancel contract
-* eastern time: 866-289-2101
-* ?
-
-## SacSem Reminders
-
-* Remember: dennis@triticum.com: Wednesday RSVP
-* Brian Chase: transcripts ~ videos
-* Member Trips to CA cities ~ easier for the aged

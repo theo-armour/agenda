@@ -16,9 +16,9 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
-* Friday, January 17 at Perry on Union: Roundtable "Your predictions for next week?"; John W. Busterud has cancelled
+* Friday, January 17 at Perry's on Union: Roundtable "Your predictions for next week?"; John W. Busterud has requested a raincheck.
 
->This Friday, January 17 a clairvoyant roundtable: Your predictions for next week led by co-vice chair Jean MacCurdy. You will look into your crystal ball and reveal how the Federal cabinet will shape up, soothsay the executive orders that will be signed and divulge the ways that theLos Angeles fires continue to cause turmoil.
+>This Friday, January 17 a clairvoyant roundtable: Your predictions for next week led by co-vice chair Linda Muir. You will look into your crystal ball and reveal how the Federal cabinet will shape up, soothsay the executive orders that will be signed, divulge the ways that the Los Angeles fires continue to cause turmoil and divine the date when we will hold a seminar in Greenland. John W. Busterud has requested a raincheck.
 
 * Friday, January 10 at Perry's on Union: Bob Powers, the General Manager of BART
 * Sunday, January 5 at 3 p.m. at the University Club: Celebrating the life and times of our beloved chair, the late Jon Rubin

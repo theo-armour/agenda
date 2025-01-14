@@ -8,25 +8,67 @@
 
 ## 2025-01-13
 
-* SaxSen email
+* SaxSem email
 * Mark DiCamillo
-* Mike & Ron lunch
+* Mike & Ron lunch ~
 
-Hi Mark
 
-May I invite you and Nancy to lunch with Marty and me at our house?
+## 2024-12-23
 
-How about next week? Monday or Tuesday or Thursday? Around noon?
+* Ron & Michael invite
+* Created pages for Ron, Mike.
+* Added Jon's obits
 
-3400 Laguna Street, San Francisco CA 94123. Sadly no onsite parking.
+## Agenda 2024-11-22
 
-Cheers,
+* Dick spotswood: Jack Ohman credentials
+* Jon: Description ~ subtitle: "The back room of the inner sanctum of political intrigue at the deepest levels…"
+* Jon: King's Afghani family
+* Jon: Marty photos: scan
 
-Theo
+## Email
 
-❧ ❧ ❧
+* MikeFitz: Heritage SF / Woody LaBounty
 
-Theo Armour
-415 828 0000
-t.armour@gmail.com
+## Website
 
+* Add Trip invite
+* Add description
+* Transfer all Spotswood emails
+* Take photos?
+
+### Web sites of Interest
+
+* <a href="https://neighborhoodsunitedsf.org">https://neighborhoodsunitedsf.org</a>
+* <a href="https://ourneighborhoodvoices.org">https://ourneighborhoodvoices.org</a> ~ not live
+
+### Clay Jackson
+
+* Download Dennis' CJ files
+* Clay tapes online
+* Clay tapes
+
+## Done
+
+### 2024-11-19
+
+* Dennis Wh: Zelle
+* Jean MacC: Friday?
+
+### 2024-10 ~ Marty Party
+
+* Marty Party: 10/23 @ 3-4
+* Spotswood: oct 18 email to sacsem
+* SacSem: CC to three: cancel
+
+### 2024-??
+
+* Constant Contact: Cancel contract
+* eastern time: 866-289-2101
+* ?
+
+## SacSem Reminders
+
+* Remember: dennis@triticum.com: Wednesday RSVP
+* Brian Chase: transcripts ~ videos
+* Member Trips to CA cities ~ easier for the aged
