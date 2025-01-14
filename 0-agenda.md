@@ -8,7 +8,8 @@
 <!-- this is a comment -->
 ## Today
 
-* PLE
+* 
+
 * Karen McNeil
 * Roses: Woody
 * Martha N: meet
