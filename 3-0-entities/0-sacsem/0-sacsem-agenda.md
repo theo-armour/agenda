@@ -6,6 +6,15 @@
 * Lunch at Sam's 1/14 at noon
 * Jon obits to website
 
+
+## 2025-01-15
+
+Mike & Ron
+
+* Richard Johns on the SF Historical Society
+* Pelle Bongo ~ https://www.pellebongo.com/
+* Woody LaBounty
+
 ## 2025-01-14
 
 * https://www.sf.gov/profile/kim-tavaglione

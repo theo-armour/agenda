@@ -1,5 +1,23 @@
 # Centenary Journal
 
+
+## 2025-01-15
+
+Hi Julia
+
+Thank you for your detailed and wonderful response! I particularly appreciate your taking the time to collect and send images of JM's blueprints for the building.
+
+Please do commence the process of having all the the images images scanned and sent to me. I can supply my credit card details for the payment and any other details you may need.
+
+Just from the images you prepared, I can see how much these drawings will help my research and with the process of preparing the centenary celebrations.
+
+I am looking forward to receiving the images and to working with you on this project.
+
+Cheers,
+
+Theo
+
+
 ## 2025-01-07
 
 ##
