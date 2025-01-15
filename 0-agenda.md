@@ -26,10 +26,13 @@ Soon
 * Mark Linton: AGI
 * Genualdi
 * Omar
+* Ronan
 * Tiller
-* Jon Casey: IT guy ~ Find phone TouchTown
+* Jon Casey: IT guy ~ Find phone ~ TouchTown
 * Trish: HH
 * Archive
+* Mia links
+* 
 
 ***
 
