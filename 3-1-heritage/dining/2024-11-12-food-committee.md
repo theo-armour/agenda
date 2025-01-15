@@ -1,5 +1,13 @@
-# 2024-11-12 Food Committee
+# Food Committee
 
+## 2025-01-14
+
+* Requested TouchTown Food Committee form
+* No eggs this week
+* Trial stopping lunch time desserts
+* Many more food comments ~ from kiosk
+
+## 2024-11-12 Food Committee
 
 
 Thailand
@@ -7,7 +15,7 @@ talk new residents
 Christmas Friendship Hall dinner
 
 kiosk
-angie reads all the comments: is this necesary?
+angie reads all the comments: is this necessary?
 
 salad: can ask for half
 
