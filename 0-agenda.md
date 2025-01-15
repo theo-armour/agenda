@@ -9,11 +9,9 @@
 ## Today
 
 * 
-* 
-
+* Bancroft Library
 * Karen McNeil
 * Roses: Woody
-* Martha N: meet
 * Praveen: Remote Dir Activities
 
 Soon
