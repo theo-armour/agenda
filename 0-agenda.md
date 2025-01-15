@@ -8,14 +8,15 @@
 <!-- this is a comment -->
 ## Today
 
+* 
+* Bancroft Library
 * Karen McNeil
 * Roses: Woody
-* Martha N: meet
 * Praveen: Remote Dir Activities
 
 Soon
 
-* Melissa: dining service comments
+* 
 * Trish J: msg
 * NV: use for volunteers
 * NV: Margaret Jacobs
@@ -23,10 +24,13 @@ Soon
 * Mark Linton: AGI
 * Genualdi
 * Omar
+* Ronan
 * Tiller
-* Jon Casey: IT guy ~ Find phone TouchTown
+* Jon Casey: IT guy ~ Find phone ~ TouchTown
 * Trish: HH
 * Archive
+* Mia links
+* 
 
 ***
 
