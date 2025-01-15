@@ -30,7 +30,8 @@ Soon
 * Trish: HH
 * Archive
 * Mia links
-* 
+* Mia
+* JM Tour
 
 ***
 
