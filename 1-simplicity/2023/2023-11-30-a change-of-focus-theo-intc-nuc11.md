@@ -23,7 +23,7 @@ And that in turn led me to another important insight: I am not an Englishman. So
 
 Elementary School Years
 
-* Drawing, drawin, drawing. Never a reprentation of something in yhe world. Always from my imagination.
+* Drawing, drawing, drawing. Never a representation of something in yhe world. Always from my imagination.
 * Camp Wintucket on Martha's Vineyard
 * On the beach: Building sand castles, things for balls to roll down,
 * In the garden: forts, treehouses,
@@ -68,7 +68,7 @@ At the same time started commissioning others to make things for me.
 Influences
 
 * Whole Earth Catalog
-* Byte Magazin
+* Byte Magazine
 
 Then in 1982, my wonderful Auntie B died and left me a good amount of money. I now had enough money to by an apartment. Which we did an I immediately started to redesign and rebuild it. I also started to commission furniture and other things. But the other aspect of Auntie's legacy were numerous pieces of furniture, paintings, jewelry and more each  of which was already well know to me as I visited her every year in her home in Princeton, New Jersey.
 
