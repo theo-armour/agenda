@@ -9,6 +9,25 @@
 
 ## 2025-01-15
 
+Hi Ron and Mike
+Sam's is just as tasty and friendly as ever! Yay!
+
+Our dialog was wonderful. I felt we could have continued for hours. Many thanks to both of you!
+
+Some takeaways:
+
+* What is a proper mission for SacSem in this era with this age group?
+* Be mindful that attracting good engaged speakers and a an active membership are two separate aspects
+* We represent a mixture of institutional and instrumental personas ~ https://en.wikipedia.org/wiki/Clarence_Edwin_AyresThere are opportunities for remixing the SacSem formula ~ North Beach Restaurant ~ meet twice a month ~ meet for dinners
+* Perhaps seeking out younger staff to elected officials might be invigorating
+
+A further thought after my nap:
+
+Much of my career was built upon dealing with people much younger than me ~ which helped keep me young and was fun, but that was the past,
+
+The interesting new career possibility is dealing with people older than me/us. What can be done to help older people maintain and develop their agency, usefulness and available wisdom?  In that sense, SacSem could be a useful venue to explore.
+
+
 Mike & Ron
 
 * Richard Johns on the SF Historical Society
