@@ -9,17 +9,14 @@
 ## Today
 
 * 
-* Bancroft Library
+* Bancroft Library: copyright
 * Karen McNeil
 * Roses: Woody
 * Praveen: Remote Dir Activities
 
 Soon
 
-* Marcia: Key photo
 * Stela: Kay Photo
-* 
-
 * NV: use for volunteers
 * NV: Margaret Jacobs
 * NV: Le'mere
