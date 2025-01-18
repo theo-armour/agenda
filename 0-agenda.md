@@ -62,8 +62,7 @@ Soon
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
-* A: mike ~ corkscrew
-* A: screwdriver
+* A: mike ~ Lamisil
 * Jeans ~ jacket
 * Printer canon cartridge returned: box
 
