@@ -8,7 +8,7 @@
 <!-- this is a comment -->
 ## Today
 
-* 
+* Sleep email
 * Bancroft Library: copyright
 * Karen McNeil
 * Roses: Woody
@@ -17,6 +17,7 @@
 Soon
 
 * Stela: Kay Photo
+* PLE: la peeps
 * NV: use for volunteers
 * NV: Margaret Jacobs
 * NV: Le'mere
