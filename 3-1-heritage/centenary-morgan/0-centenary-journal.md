@@ -1,5 +1,16 @@
 # Centenary Journal
 
+## 2025-01-17
+
+Plaque Test
+
+* Building design by Julia Morgan
+* Opened in 1925 as a refuge for destitute women
+* San Francisco Ladies Protection and Relief Society
+* Brickwork is earthquake-resistant by reinforced concrete
+* Rose decorative items offer a symbol of love and protection
+* Set back in garden offers views from three streets
+
 
 ## 2025-01-15
 
