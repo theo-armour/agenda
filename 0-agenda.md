@@ -17,7 +17,8 @@
 Soon
 
 * Stela: Wlker
-* Diana Geer
+* 
+
 * Elixabeth MacLeod: update
 * George Smart
 * Nieke
