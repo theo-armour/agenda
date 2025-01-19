@@ -17,11 +17,10 @@
 Soon
 
 * Stela: Wlker
-* 
-
-* Elixabeth MacLeod: update
+* Peter Otis
+* Elizabeth MacLeod: update
 * George Smart
-* Nieke
+* Nienke
 * PLE: la peeps
 * NV: use for volunteers
 * HH: meeting
