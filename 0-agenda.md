@@ -8,7 +8,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Sleep email
+* 
+
 * Bancroft Library: copyright ~ payment
 * Karen McNeil
 * Roses: Woody
@@ -18,9 +19,11 @@ Soon
 
 * Stela: Wlker
 * Peter Otis
+* Mark Bell
 * Elizabeth MacLeod: update
 * George Smart
 * Nienke
+* Carter
 * PLE: la peeps
 * NV: use for volunteers
 * HH: meeting
