@@ -11,7 +11,6 @@
 * George Smart
 * Roses: Woody
 * Mary: JM text
-* Carter: CV
 * 
 
 Soon
