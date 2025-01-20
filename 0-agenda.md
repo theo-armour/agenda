@@ -15,7 +15,8 @@
 
 Soon
 
-* HH: Meeting
+* 
+
 * Karen McNeil
 * Mark Bell
 * Praveen: Remote Dir Activities
