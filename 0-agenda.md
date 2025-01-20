@@ -20,7 +20,8 @@ Soon
 * Stela: Wlker
 * Peter Otis
 * Mark Bell
-* Elizabeth MacLeod: update
+* 
+
 * George Smart
 * Nienke
 * Carter
@@ -37,8 +38,7 @@ Soon
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
 * Trish: HH
 * Archive
-* 
-
+* domimicbookbinder@gmail.com
 * JM Tour
 * Trish J: msg
 
