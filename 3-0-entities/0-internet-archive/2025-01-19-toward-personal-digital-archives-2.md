@@ -1,11 +1,12 @@
-# Towards Personal Digital Archives
+# Toward Personal Digital Archives
 
+Theo Armour ~ 2025-01-19
 
 ## Introduction
 
-I am an older man who leads an interesting life with a unique family background. I like to think that, just as many of my ancestors have done, I’ve made a positive impact on the world.
+I am an older man who leads an interesting life with an interesting family background. I like to think that, just as many of my ancestors have done, I’ve made a positive impact on the world.
 
-For fifty years, I have collected documents, images, photos, slides and negatives, drawings, and objects that tell the story of my life and the lives of my ancestors.
+For fifty years, I have collected documents, images, photos, slides and negatives, drawings, and objects that tell the story of my life and the lives of my family.
 
 It is now time to get much of this material digitized and shared with people who will appreciate it—now and forever.
 
