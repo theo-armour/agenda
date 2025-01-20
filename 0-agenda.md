@@ -20,7 +20,8 @@ Soon
 * Karen McNeil
 * Mark Bell
 * Praveen: Remote Dir Activities
-* PLE: la peeps
+* 
+
 * NV: use for volunteers
 * HH: meeting
 * NV: Margaret Jacobs
