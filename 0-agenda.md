@@ -8,22 +8,21 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
+* George Smart
 * Bancroft Library: copyright ~ payment
-* Karen McNeil
 * Roses: Woody
-* Praveen: Remote Dir Activities
+* Mary: JM text
+* Carter: CV
+* Peter Otis
 
 Soon
 
-* 
-
-* Peter Otis
+* HH: Meeting
+* Karen McNeil
 * Mark Bell
-* George Smart
+* Praveen: Remote Dir Activities
+* Mary: ponds
 * Nienke
-* Carter
 * PLE: la peeps
 * NV: use for volunteers
 * HH: meeting
