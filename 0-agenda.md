@@ -17,7 +17,8 @@
 
 Soon
 
-* Stela: Wlker
+* 
+
 * Peter Otis
 * Mark Bell
 * George Smart
