@@ -11,17 +11,15 @@
 * George Smart
 * Roses: Woody
 * Mary: JM text
+* Mary: ponds
+* F*G: Nienke ~ inci
 * 
 
 Soon
 
-* 
-
 * Karen McNeil
 * Mark Bell
 * Praveen: Remote Dir Activities
-* Mary: ponds
-* Nienke
 * PLE: la peeps
 * NV: use for volunteers
 * HH: meeting
