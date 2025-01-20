@@ -9,7 +9,8 @@
 ## Today
 
 * George Smart
-* Bancroft Library: copyright ~ payment
+* 
+
 * Roses: Woody
 * Mary: JM text
 * Carter: CV
