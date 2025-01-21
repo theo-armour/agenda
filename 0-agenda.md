@@ -12,7 +12,8 @@
 * Roses: Woody
 * Mary: JM text
 * Mary: ponds
-* F*G: Nienke ~ invite colette
+* SPS
+* F&amp;G: Nienke ~ invite colette
 * 
 
 Soon
@@ -47,11 +48,14 @@ Soon
 **Admin**
 
 -->
-<details>
+<details open="">
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
+* Pay UCSF
+* Pay: Lawerence
+* 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/mia/0-mia-agenda.md&quot;">mia agenda</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
