@@ -12,7 +12,7 @@
 * Roses: Woody
 * Mary: JM text
 * Mary: ponds
-* F*G: Nienke ~ invite colette
+* F&amp;G: Nienke ~ invite colette
 * 
 
 Soon
