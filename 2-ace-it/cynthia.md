@@ -10,8 +10,9 @@
 * Mariposa
 
 
-## 2025-01-13
+## 2025-01-20
 
+* Chloe ~ dates?
 * Halloween ~ boys ~ kathy & Richard
 * House ~ https://www.bishopsranch.org/? ~ $5,000
 * EOL ~ like it
