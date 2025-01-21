@@ -8,14 +8,12 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
+* Peter
 * Mary: JM text
 * Mary: ponds
 * SPS
 * Roses: Woody ~ photos
 * F&amp;G: Nienke ~ invite colette
-* 
 
 Soon
 
