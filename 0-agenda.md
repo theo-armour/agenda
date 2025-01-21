@@ -8,11 +8,12 @@
 <!-- this is a comment -->
 ## Today
 
-* George Smart
-* Roses: Woody ~ photos
+* 
+
 * Mary: JM text
 * Mary: ponds
 * SPS
+* Roses: Woody ~ photos
 * F&amp;G: Nienke ~ invite colette
 * 
 
