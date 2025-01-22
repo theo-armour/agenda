@@ -12,9 +12,11 @@
 * Sacsem
 * Mary: JM text
 * Mary: ponds
-* Lolo: room
+* 
+
 * F&amp;G: Nienke ~ invite colette
 * NV Tour: script ~ handout
+* RC officers: update
 
 Soon
 
