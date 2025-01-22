@@ -10,6 +10,9 @@
 
 ## Mining Exchange Text
 
+180 words
+
+
 The Mining Exchange building was designed by architects James R. Miller and Timothy L. Pflueger in 1923. The exterior of this monumental banking hall is designed in the Wecclesiastical style featuring sculpted Greek and Roman-inspired terra cotta ornamentation, fluted columns, a tympanum decorated with figure relief, and oversized acroteria along its roofline. In its prime, the building was equipped with modern features such as public telephones and was linked to financial centers across the country by private telegraph lines. The Mining Exchange was the principal exchange house for the West that specialized in mining stocks. A product of the city's booming 1920s stock market, the building represented the San Francisco financial exchange culture of the time. In 1927, the name was changed to the Mining Exchange. By 1928, the building was occupied by The Curb Exchange, a securities exchange trading the unlisted stocks that operated in the open street.
 
 
