@@ -8,13 +8,12 @@
 <!-- this is a comment -->
 ## Today
 
-* George Smart
-* Roses: Woody
+* Peter&nbsp;
 * Mary: JM text
 * Mary: ponds
 * SPS
+* Roses: Woody ~ photos
 * F&amp;G: Nienke ~ invite colette
-* 
 
 Soon
 
@@ -24,6 +23,7 @@ Soon
 * 
 
 * NV: use for volunteers
+
 * HH: meeting
 * NV: Margaret Jacobs
 * NV: Le'mere
