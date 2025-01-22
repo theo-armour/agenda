@@ -14,15 +14,17 @@
 * Mary: ponds
 * Lolo: room
 * F&amp;G: Nienke ~ invite colette
+* NV Tour: script ~ handout
 
 Soon
 
+* EOL: prepare
 * Karen McNeil
 * Mark Bell
+* Diane Greer
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
-* 
-
+* Martha Nell: Perry
 * NV: Margaret Jacobs
 * NV: Le'mere
 * Mark Linton: AGI
@@ -32,7 +34,7 @@ Soon
 * Tiller
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
 * Trish: HH
-* Archive
+* IA: storage photos
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
 * JM Tour
 * Trish J: msg
