@@ -12,8 +12,7 @@
 * Sacsem
 * Mary: JM text
 * Mary: ponds
-* 
-
+* Lolo: room
 * F&amp;G: Nienke ~ invite colette
 
 Soon
@@ -21,9 +20,9 @@ Soon
 * Karen McNeil
 * Mark Bell
 * Praveen: Remote Dir Activities
-* 
 * NV: use for volunteers
-* HH: meeting
+* 
+
 * NV: Margaret Jacobs
 * NV: Le'mere
 * Mark Linton: AGI
