@@ -12,8 +12,7 @@
 * Sacsem
 * Mary: JM text
 * Mary: ponds
-* 
-
+* Lolo: room ~ confirmation?
 * F&amp;G: Nienke ~ invite colette
 * NV Tour: script ~ handout
 * RC officers: update
@@ -21,6 +20,7 @@
 Soon
 
 * EOL: prepare
+* Jonathen: Halloween
 * Karen McNeil
 * Mark Bell
 * Diane Greer
