@@ -8,11 +8,11 @@
 <!-- this is a comment -->
 ## Today
 
-* Mary: ponds
+* 
+
 * Lolo: room ~ confirmation?
 * F&amp;G: Nienke ~ invite colette
 * NV Tour: script ~ handout
-* Donna: helm invite
 
 Soon
 
