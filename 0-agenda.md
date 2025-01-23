@@ -8,7 +8,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Peter Otis:
+* 
+
 * Env des Arch: 510 642 5124
 * 
 * Sacsem
