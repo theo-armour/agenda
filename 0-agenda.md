@@ -9,7 +9,6 @@
 ## Today
 
 * 
-* Env des Arch: 510 642 5124
 * 
 
 * Mary: ponds
