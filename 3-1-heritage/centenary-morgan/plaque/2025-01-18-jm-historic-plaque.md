@@ -18,7 +18,7 @@ The Mining Exchange building was designed by architects James R. Miller and Timo
 
 ## Draft
 
-This building, commissioned by the San Francisco Ladies Protection and Relief Society, was designed by Pritzker Prize-winning architect Julia Morgan in 1923. It opened in 1925 to provide for "the care of elderly women and convalescent women and children.”
+This building, commissioned by the San Francisco Ladies Protection and Relief Society, was designed by AIA Gold medal prize-winning architect Julia Morgan in 1923. It opened in 1925 to provide for "the care of elderly women and convalescent women and children.”
 
 Designed in the style of a Tudor Revival mansion, the brick, terracotta and slate exterior is rendered earthquake-resistant by an internal structure constructed with reinforced concrete.
 
