@@ -10,7 +10,8 @@
 
 * 
 * Env des Arch: 510 642 5124
-* Sacsem
+* 
+
 * Mary: ponds
 * Lolo: room ~ confirmation?
 * F&amp;G: Nienke ~ invite colette
