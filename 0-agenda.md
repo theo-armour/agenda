@@ -8,9 +8,6 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-* 
-
 * Mary: ponds
 * Lolo: room ~ confirmation?
 * F&amp;G: Nienke ~ invite colette
@@ -24,7 +21,8 @@ Soon
 * Jonathen: Halloween
 * Karen McNeil
 * Mark Bell
-* Diane Greer
+* 
+
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
 * Martha Nell: Perry
