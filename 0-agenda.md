@@ -18,7 +18,6 @@
 * F&amp;G: Nienke ~ invite colette
 * NV Tour: script ~ handout
 * Donna: helm invite
-* 
 
 Soon
 
