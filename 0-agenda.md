@@ -21,8 +21,7 @@ Soon
 * Jonathen: Halloween
 * Karen McNeil
 * Mark Bell
-* 
-
+* PLE Ronan
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
 * Martha Nell: Perry
