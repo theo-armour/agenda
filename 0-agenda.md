@@ -11,14 +11,14 @@
 * 
 
 * Env des Arch: 510 642 5124
-* 
 * Sacsem
 * Mary: JM plaque text
 * Mary: ponds
 * Lolo: room ~ confirmation?
 * F&amp;G: Nienke ~ invite colette
 * NV Tour: script ~ handout
-* RC officers: update
+* Donna: helm invite
+* 
 
 Soon
 
