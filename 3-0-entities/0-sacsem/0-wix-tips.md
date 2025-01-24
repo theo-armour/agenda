@@ -16,6 +16,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday, January 24 at Perry's on Union: Sacramento Seminar Roundtable
 * Update #2: Friday, January 17 at Perry's on Union: Kim Tavaglione, Executive Director of the San Francisco Labor Council
 * Friday, January 17 at Perry's on Union: Roundtable "Your predictions for next week?"; John W. Busterud has requested a raincheck
 * Friday, January 10 at Perry's on Union: Bob Powers, the General Manager of BART
