@@ -1,4 +1,4 @@
-# Warren Perry, Architect
+# Warren Perry, Architect 1884-1980
 
 ## Links
 

@@ -1,34 +1,47 @@
 # Tour Text
 
+## Parlor
+
 Hello everyone! My name is Theo Armour
+
+
 
 Welcome to my first scripted organized tour of Heritage on the Marina.
 
+Wifi & contact info
+
+### Program
+
 Today I will start with a short history.
 
-Then we will go outside and I will show to the magic of the building. Even if you have walked by this building a thousand times. You will see things you have never seen
+Then we will go outside to the front and I will show to the magic of the building.
+
+Even if you have walked by this building a thousand times. You will see things you have never seen
 
 Then we will come back in and we will tour other parts of the premises and the gardens
 
 Finally we will come back here, perhaps for a coffee
 
-Bob Connolly Director of Marketing will say a few words on why this is a wonderful place to prow old.
+Bob Connolly Director of Marketing may say a few words on why this is a wonderful place to prow old.
 
-And I will stay for questions and answers
-
-
-So let's get going. First me, then the society then Julia Morgan
+And I will stay on for questions and answers
 
 
+So let's get going. First me, then the Society then Julia Morgan
+
+### Theo Armour
+
+Next Village member since last fall
 
 I have been researching and studying the premises ever since I moved here in 2020.
 
 In my younger days I lived for a decade in London while I studied and then practiced architecture.
 
-In london I was involved with over ninety property renovations incliding a listed building - mostly on brick buildings so I have some background on the topic.
+In london I was involved with over ninety property renovations including a listed building - mostly on brick buildings so I have some background on the topic.
 
+### San Francisco Ladies Protection and Relief Society
 
-Now I a brief history of the organization that owns this property.
+Now, a brief history of the organization that owns this property.
 
 The San Francisco Ladies Protection and Relief Society was founded in 1853. It's the second oldest operating charity in San Francisco.
 
@@ -84,7 +97,7 @@ But by the 1920 the Federal government had stopped subsidizing the orphanages an
 
 They asked Julia Morgan to design the building and she accepted the commission.
 
-Julia Morgan
+### Julia Morgan ~ 1872-1957
 
 Many of you will know Julia Morgan as the architect of Hearst Castle in San Simeon.
 
@@ -92,7 +105,7 @@ She was the first female architect in California
 
 She was the first women to graduate from the Ecole des Beaux Arts in Paris
 
-With over 770 buildings to her credit She was and is the most prolific architect in America.
+With over 700 buildings to her credit She was and is the most prolific architect in America.
 
 Frankly we don't know that much about here design intentions, she gave few interviews and left no diaries. Se said "My buildings will speak for themselves.?
 
@@ -104,7 +117,7 @@ Is that why there are no fake columns or coffered ceilings? No wooded paneling o
 
 The first thing you may notice is the simplicity of the decorations.
 
-## Reinforced concrete
+### Reinforced concrete
 
 You don't see any fake columns or coffered ceilings. There's no wooded paneling or mouldings. How come? Most building in the twenties were decorated with these things. But not this building. Why not?
 
@@ -118,7 +131,7 @@ And she used it here. The structure is evident in the building.
 
 The structure is speaking to you "This building is earthquake resistant".
 
-## Roses
+### Roses
 
 Now cast your eyes to the fireplace. You see four floral patterns in four squares. As we will see these flowers are roses.
 
@@ -132,9 +145,13 @@ Let us start the investigation. So let us now go back outside of the building. I
 
 ## Front of house
 
+
+
+## Front of house
+
 ### Three Roses
 
-Above the bay window you see two double windows.
+Above the bay window seconfd floor you see two double windows.
 
 In between the windows there is a panel. Terracotta a baked clay with decorations.
 
@@ -145,19 +162,84 @@ What is the style of the building? Elizabethan? Jacobean? We usually call it "Tu
 
 What does that mean?
 
+### Window Arches
+
+### Entrance + Bay
+
 ### Garden
 
 * On three streets
 * Original cast iron fence
 
-### Window Arches
+## Porter Garden
 
-### Entrance + Bay
+### Perry Building
+
+* Brutalist
+
+See
+* Hyatt Regency Embarcadero and Market
+* Transamerica Pyramid
+* Cathedral of Saint Mary of the Assumption
+* San Francisco Art Institute
+* Glen Park BART Station
+* Fountain in Justin Herman Plaza
+
+### Warren Perry, Architect 1884-1980
+
+* B.S., University of California, Berkeley (UCB), Berkeley, 1907.
+* First Class Honors, École nationale supérieure des beaux-arts, Paris, France, 1908-1910.
+* Dean, University of California, Berkeley (UCB), Department of Architecture, Berkeley, CA,1937-1954.
+* Saint Mary-the-Virgin Episcopal Church, San Francisco, CA
+* UCB Edwards Fields Track Stadium
+* UCB School of Law Building, Berkeley
+
+### Questions
+
+* Starts just as traditional as Julia
+* Why and did the transition to Brutalism?
+* Was he a follower of fashion or an instigator?
+* Was the resigning from UCB a factor?
+* How did he get the commission?
+* Why is the building named after him?
+* How did the Homage to Julia come about? ~ She was still alive when the building was built.
 
 
+## Friendship Hall
 
+### Gardner Dailey ~ Architect ~ 1895-1967
 
+* https://en.wikipedia.org/wiki/Gardner_Dailey
+* One of two figures who "introduced modern architecture to Northern California" ~ the other being William Wurster.
+* "The elder statesman of San Francisco architecture"
+* After being in ill health for months, committed suicide by jumping from the Golden Gate Bridge.
 
+## Courtyard
+
+### South Elevation ~ Brick Panels
+
+* Square and Diamond decorations of brick
+* In the drawings
+* Stained Glass: Chapel ~ 1957?
+
+### Corridor Columns
+
+* Corridor by Warren Perry
+* Columns with Ionic Capitals
+* Note the rose
+
+### Corridor Brickwork
+
+* Diamond shape brick work with four bricks standing out
+
+### Perry Building Courtyard
+
+* Diamond shape brick work with four bricks standing out
+
+## Chapel
+
+* Alter with roses
+* Stairs and closets: Trefoils as symbol of the Trinity
 
 
 ### Bob
