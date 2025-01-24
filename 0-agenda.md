@@ -10,15 +10,16 @@
 
 * 
 
-* Lolo: room ~ confirmation?
 * F&amp;G: Nienke ~ invite colette
 * NV Tour: script ~ handout
 
 Soon
 
+* IA: storage photos
+* Lolo: room ~ confirmation?
 * Alix P:
 * EOL: prepare
-* Jonathen: Halloween
+* Jonathan T: Halloween
 * Karen McNeil
 * Mark Bell
 * PLE Ronan
@@ -34,7 +35,6 @@ Soon
 * Tiller
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
 * Trish: HH
-* IA: storage photos
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
 * JM Tour
 * Trish J: msg
