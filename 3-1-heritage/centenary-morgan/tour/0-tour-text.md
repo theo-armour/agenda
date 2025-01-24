@@ -2,54 +2,65 @@
 
 ## Parlor
 
-Hello everyone! My name is Theo Armour
+Thank you Donna
+
+Hello everyone from Next Village! My name is Theo Armour
 
 
-
-Welcome to my first scripted organized tour of Heritage on the Marina.
+Welcome to my first organized tour of Heritage on the Marina.
 
 Wifi & contact info
 
+Simple questions any time. questions that require thinking during the Q&A
+
 ### Program
 
-Today I will start with a short history.
+Start with a short history.
 
-Then we will go outside to the front and I will show to the magic of the building.
+Then we will go outside to the front
 
-Even if you have walked by this building a thousand times. You will see things you have never seen
+Reveal to you magic of Julia Morgan's design powers.
 
-Then we will come back in and we will tour other parts of the premises and the gardens
+Even if you have walked by this building a thousand times.
 
-Finally we will come back here, perhaps for a coffee
+You will see things you have never seen before.
+
+Then back in and tour other parts of the premises and the gardens
+
+Finally we will come back here, perhaps for a coffee.
 
 Bob Connolly Director of Marketing may say a few words on why this is a wonderful place to grow old.
 
 And I will stay on for questions and answers
 
 
-So let's get going. First me, then the Society then Julia Morgan
+So let's get going. First about me, then the Society then Julia Morgan
 
 ### Theo Armour
 
 Next Village member since last fall
 
-I have been researching and studying the premises ever since I moved here in 2020.
+Researching and studying the premises ever since moving here in 2020.
 
-In my younger days I lived for a decade in London while I studied and then practiced architecture.
+In my younger days I lived for a decade in London while I studied architecture and then practiced architecture.
 
-In london I was involved with over ninety property renovations including a listed building - mostly on brick buildings so I have some background on the topic.
+In London I was involved with over ninety property renovations including a listed building - mostly on brick buildings
+
+so have some background on the topic.
 
 ### San Francisco Ladies Protection and Relief Society
 
-Now, a brief history of the organization that owns this property.
+Brief history of the organization that owns this property.
 
-The San Francisco Ladies Protection and Relief Society was founded in 1853. It's the second oldest operating charity in San Francisco.
+The San Francisco Ladies Protection and Relief Society was founded in 1853.
 
-In 1853, San Francisco consisted of a small settlement of square whitewashed “portable houses”.
+Second oldest operating charity in San Francisco.
 
-Looking out from the window of one of these makeshift homes on Second Street near Minna Street, was Mrs A B Eaton.
+Back in 1853, San Francisco consisted of a small settlement of square whitewashed “portable houses”.
 
-She was startled to see a bareheaded and breathless girl climbing the wooden steps to her house.
+Looking out from the window of one of these makeshift cabins on Second Street near Minna Street, was a Mrs Eaton.
+
+One day, Mrs Eaton was startled to see a bareheaded and breathless girl climbing the wooden steps to her house.
 
 Mrs Eaton opened the door and listened while the sobbing stranger poured out her sad story.
 
@@ -75,13 +86,13 @@ Alone and friendless, she wandered the streets in mounting panic.
 
 The city with all with its gambling dens, saloons and prostitutes was not a safe place for a single woman.
 
-So it was Mrs Eaton’s friendly face in the window that gave the girl the courage to ask for help.
+Mrs Eaton’s friendly face in the window that gave the girl the courage to ask for help.
 
 She asked Mrs Eaton to give her protection until they could trace her brother
 
 The girl had come to the right place - a place of kindness.
 
-Thus it was that soon after - on August 4, 1853 Mrs Eaton gathered a group of women from her church and several other churches
+Soon after - on August 4, 1853 Mrs Eaton gathered a group of women from her church and several other churches.
 
 The outgrowth of that meeting was the constitution of the San FranciscoLadies Protection and Relief Society.
 
@@ -89,11 +100,21 @@ Its object "to render protection and assistance to strangers, to sick and depend
 
 For the first 75 years of its existence the Society did just that and very successfully.
 
-By the time of the 1906 earthquake, the Society had a large building on the corner of Van Ness and California. By then it was a home for orphans and dependent children.
+By the time of the 1906 earthquake, the Society had a large building on the corner of Van Ness and Geary.
 
-The building was damaged in the earthquake. over 400 children were evacuated to the Presidio where that were housed in tents for over a year.
+Home for orphans and dependent children.
 
-But by the 1920 the Federal government had stopped subsidizing the orphanages and concentrated on foster care. It was then the society decided to build a new home concentrate on the needs of the convalescent and elderly women.
+The building was damaged in the earthquake.
+
+After the quake over 400 children and all the staff had to be evacuated to the Presidio
+
+where that were housed in tents for over a year.
+
+Just one of the many stories of the first 75 years of the Society.
+
+But by the 1920 the Federal government had stopped subsidizing the orphanages and concentrated on foster care.
+
+The society decided to build a new home concentrate on the needs of the convalescent and elderly women.
 
 They asked Julia Morgan to design the building and she accepted the commission.
 
@@ -101,66 +122,108 @@ They asked Julia Morgan to design the building and she accepted the commission.
 
 Many of you will know Julia Morgan as the architect of Hearst Castle in San Simeon.
 
-She was the first female architect in California
+First female architect in California
 
-She was the first women to graduate from the Ecole des Beaux Arts in Paris
+First women to graduate from the Ecole des Beaux Arts in Paris
 
 With over 700 buildings to her credit She was and is the most prolific architect in America.
 
-Frankly we don't know that much about here design intentions, she gave few interviews and left no diaries. Se said "My buildings will speak for themselves.?
+Even with all this work we know little about her design intentions, her philosopy of architecture
+
+She gave few interviews and left no diaries.
+
+Instead she said "My buildings will speak for themselves"
 
 Rather than talk about her life, I want to help this building speak to you.
 
-The budget was $150,000; Julia delivered a building that cost $140,000.
-
-Is that why there are no fake columns or coffered ceilings? No wooded paneling or mouldings?
-
-The first thing you may notice is the simplicity of the decorations.
 
 ### Reinforced concrete
 
-You don't see any fake columns or coffered ceilings. There's no wooded paneling or mouldings. How come? Most building in the twenties were decorated with these things. But not this building. Why not?
+The first thing to notice is the simplicity of the decorations.
 
-As you probably noticed when you came in this is a brick building. People love thr warmth of brick buildings. But not in earthquake country.
+You don't see any fake columns or coffered ceilings. There's no wooded paneling or mouldings. How come?
+
+Most building in the twenties were decorated with these things. But not this building. Why not?
+
+As you probably noticed when you came in this is a brick building. People love the warmth of brick buildings. But not in earthquake country.
 
 But Julia was famous for building earthquake resistant buildings.
 
 She was one of the first to use reinforced concrete in California.
 
+Reinforced concrete is a structure of steel bars embedded in concrete.
+
 And she used it here. The structure is evident in the building.
+
+The beams and columns are exposed.
 
 The structure is speaking to you "This building is earthquake resistant".
 
 ### Roses
 
-Now cast your eyes to the fireplace. You see four floral patterns in four squares. As we will see these flowers are roses.
+Now cast your eyes to the fireplace. You see
 
-And the two gold metal ties to either side are rosebuds. Unfortunately they originals were stripped away along with ties for all the windows here in the parlor.
+Floral patterns in four squares.
 
-Why the roses? It's a question I keep asking. In that era the decorations were often symbols of the intents and purposes of the building.
+As we tour you will see these flowers are roses.
 
-So let us now start to look at the building. What symbols can we find? How can they speak to us and what are they saying?
+And the two gold metal ties to either side are rosebuds.
 
-Let us start the investigation. So let us now go back outside of the building. I suggest we start near the left side gate at the front of the building.
+Unfortunately they originals were stripped away along with ties for all the windows here in the parlor.
+
+Why the roses? It's a question I keep asking.
+
+In that era the decorations were symbols of the intents and purposes of the building.
+
+So let us now start to look at the building. W
+
+hat symbols can we find? How can they speak to us and what are they saying?
+
+Let us start the investigation.
+
+Let us now go back outside of the building.
+
+We start near the left side gate at the front of the building.
 
 ## Front of house
 
 ### Three Roses
 
-Above the bay window seconfd floor you see two double windows.
+Above the bay window, on second floor you see two double windows.
 
-In between the windows there is a panel. Terracotta a baked clay with decorations.
+In between the windows there is a panel.
+
+a baked clay Terracotta with decorations.
 
 What are those decorations?
 
-What is the style of the building? Elizabethan? Jacobean? We usually call it "Tudor Revival". House of Lancaster and House of York. both used the rose as their symbol. one red one white.  later both combined into the Tudor Rose.
+What is the style of the building? Elizabethan? Jacobean? We usually call it "Tudor Revival".
 
+Tudor was the family name for the English King Henry VIII and Elizabeth I.
 
-What does that mean?
+Both used a rose on their coat of arms.
+
+War of the Roses in the 1400s was between the House of Lancaster and the House of York.
+
+Julia using a Tudor Rose as a symbol of the building is absolutely appropriate.
+
+But why three roses? Why accentuate the rose as a symbol?
+
+My conjecture:Roses are a symbol of love and caring.
+
+ou send roses to someone you love. Valentines day
+
+AAncient symbol: The symbol for the goddess of love, Aphrodite/Venus
+
+Three roses: Three words: I love you.
 
 ### Window Arches
 
+* Roses everywhere
+
 ### Entrance + Bay
+
+* Shields a symbol or protection
 
 ### Garden
 
