@@ -223,6 +223,10 @@ Three roses: Three words: I love you.
 
 ### Entrance + Bay
 
+* Plaque
+* Ionic columns ~ traditional ~ but not the roses
+* Corbels
+* Arches
 * Shields a symbol or protection
 
 ### Front Garden
@@ -251,13 +255,21 @@ Will talk more about the architect when we get to the Porter Garden
 
 ### Garden
 
-* Maintained by residents
+* Maintained by residents & professional staff
 * Tiles crafted by residents and baked here
 * Some adjacent properties belong to the Society
 
 ### Perry Building
 
-* Brutalist
+
+* Huge contrast with the Morgan building
+* But the the color is red brick
+* The construction is reinforced concrete
+
+
+Style
+
+* Brutalist ~ 1950s-1970s
 * The movie
 
 See
@@ -271,9 +283,12 @@ See
 
 ### Warren Perry, Architect 1884-1980
 
-* B.S., University of California, Berkeley (UCB), Berkeley, 1907.
-* First Class Honors, École nationale supérieure des beaux-arts, Paris, France, 1908-1910.
-* Dean, University of California, Berkeley (UCB), Department of Architecture, Berkeley, CA,1937-1954.
+* BS Berkeley, 1907.
+* École nationale supérieure des beaux-arts, Paris, France, 1908-1910.
+* Dean, UC Berkeley Department of Architecture, Berkeley, 1937-1954.
+
+Designed
+
 * Saint Mary-the-Virgin Episcopal Church, San Francisco, CA
 * UCB Edwards Fields Track Stadium
 * UCB School of Law Building, Berkeley
