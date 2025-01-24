@@ -371,25 +371,16 @@ if not
 
 * Moving here is one of the best decisions of ny life
 
-
 ### Centenary
 
 * 100 years since the opening this year
 
 ### Landmark Designation
 
-* March 27, Mayor Larie unveiling the plaque
+* March 27, Mayor Laurie unveiling the plaque
 * Big Party ~ already overflowing
 * I'm writing the text for the plaque
 
-
-### Call to action
-
-I hope you look at architecture in new ways.
-
-Buildings can speak to you if you listen.
-
-Even brutalist buildings can speak to you.
 
 ### Other buildings of the era
 
@@ -406,6 +397,14 @@ Even brutalist buildings can speak to you.
 * I am still adding to the knowledge
 * Open to suggestions. to your observations and to your questions
 
+### Call to action
+
+I hope you look at architecture in new ways.
+
+Buildings can speak to you if you listen.
+
+Even brutalist buildings can speak to you.
+
 ### Closing
 
 If you agree with me that you have been in a building with roses everywhere and that the rose is a symbol of love and caring.
@@ -413,6 +412,4 @@ If you agree with me that you have been in a building with roses everywhere and 
 And if you agree that the rose is an outward and visible symbol of an inward and spiritual grace.
 
 Then you must agree with me that this Julia Morgan Building is the loveliest building in San Francisco.
-
-
 
