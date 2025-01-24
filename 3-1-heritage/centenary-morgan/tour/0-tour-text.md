@@ -178,6 +178,7 @@ What does that mean?
 * Brutalist
 
 See
+
 * Hyatt Regency Embarcadero and Market
 * Transamerica Pyramid
 * Cathedral of Saint Mary of the Assumption
@@ -242,22 +243,38 @@ See
 * Stairs and closets: Trefoils as symbol of the Trinity
 
 
-### Bob
+## Parlor II
+
+### Bob Connolly
+
+
+if not
 
 * Moving here is one of the brest decisions of ny life
 
 
-## Closing
+### Centenary
 
-Landmark designation ~ I'm writing the text
+### Landmark Designation
 
-I hope you look at architecture in new ways. that building can speak to you if you listen. Even brutalist buildings can speak to you.
+* I'm writing the text
+
+### Call to action
+
+I hope you look at architecture in new ways.
+
+Buildings can speak to you if you listen.
+
+Even brutalist buildings can speak to you.
 
 * Much is conjecture
+* Work-in-progress
 * I am researching ~ drawings on the way
-* Open to suggestions
+* I am still using the knowledge that took decades to acquire
+* I am still adding to the knowledge
+* Open to suggestions. to your observations and to your questions
 
-
+### Closing
 
 If you agree with me that you have been in a building with roses everywhere and that the rose is a symbol of love and caring. And if you agree that the rose is a symbol of reality. an outward and visible sign of an inward and spiritual grace.
 Then you must agree with me that this Julia Morgan Building is the loveliest building in San Francisco.
