@@ -227,13 +227,14 @@ My conjecture:Roses are a symbol of love and caring.
 
 ou send roses to someone you love. Valentines day
 
-AAncient symbol: The symbol for the goddess of love, Aphrodite/Venus
+Ancient symbol: The symbol for the goddess of love, Aphrodite/Venus
 
 Three roses: Three words: I love you.
 
 ### Window Arches
 
 * Roses everywhere
+* Roundels
 
 ### Entrance + Bay
 
@@ -273,8 +274,8 @@ Will talk more about the architect when we get to the Porter Garden
 * Tiles crafted by residents and baked here
 * Some adjacent properties belong to the Society
 
-### Perry Building
 
+### Perry Building
 
 * Huge contrast with the Morgan building
 * But the the color is red brick
@@ -349,6 +350,10 @@ Designed
 ### Perry Building Courtyard
 
 * Diamond shape brick work with four bricks standing out
+
+### Towers
+
+* Bronze plaques
 
 ## Chapel
 
