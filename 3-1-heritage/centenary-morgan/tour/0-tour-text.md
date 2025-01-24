@@ -225,10 +225,26 @@ Three roses: Three words: I love you.
 
 * Shields a symbol or protection
 
-### Garden
+### Front Garden
 
-* Runs along three streets
-* Original cast iron fence
+Runs along three streets
+
+Only other mansion like this is the PU Club on Nob Hill
+
+One of the most exceptional front gardens in Northern San Francisco
+
+Original and rare: cast iron fence
+
+## Corridor
+
+New construction in 1954
+
+Will talk more about the architect when we get to the Porter Garden
+
+### Dining Room
+
+* Windows on two sides
+* Excellent light ventilation kept us safe during the pandemic
 
 
 ## Porter Garden
@@ -239,10 +255,10 @@ Three roses: Three words: I love you.
 * Tiles crafted by residents and baked here
 * Some adjacent properties belong to the Society
 
-
 ### Perry Building
 
 * Brutalist
+* The movie
 
 See
 
