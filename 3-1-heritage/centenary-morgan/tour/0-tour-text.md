@@ -161,23 +161,31 @@ The structure is speaking to you "This building is earthquake resistant".
 
 ### Roses
 
-Now cast your eyes to the fireplace. You see
+Now cast your eyes to the fireplace.
 
 Floral patterns in four squares.
+
+One set of flower petals inside another set
 
 As we tour you will see these flowers are roses.
 
 And the two gold metal ties to either side are rosebuds.
 
-Unfortunately they originals were stripped away along with ties for all the windows here in the parlor.
+These are replacements.
+
+Unfortunately the originals were stripped away
+
+Along with ties for all the windows here in the parlor.
 
 Why the roses? It's a question I keep asking.
 
 In that era the decorations were symbols of the intents and purposes of the building.
 
-So let us now start to look at the building. W
+So let us now start to look at the building.
 
-hat symbols can we find? How can they speak to us and what are they saying?
+What symbols can we find?
+
+How can they speak to us and what are they saying?
 
 Let us start the investigation.
 
@@ -186,6 +194,12 @@ Let us now go back outside of the building.
 We start near the left side gate at the front of the building.
 
 ## Front of house
+
+What were we looking at
+
+Brickwork, terracotta decorations, slate roof, windows with leaded glass windows
+
+What is the style of the building? Elizabethan? Jacobean? We usually call it "Tudor Revival".
 
 ### Three Roses
 
@@ -197,7 +211,7 @@ a baked clay Terracotta with decorations.
 
 What are those decorations?
 
-What is the style of the building? Elizabethan? Jacobean? We usually call it "Tudor Revival".
+If you google a photo of these images you will see that they are Tudor Roses.
 
 Tudor was the family name for the English King Henry VIII and Elizabeth I.
 
@@ -301,7 +315,7 @@ Designed
 * Was the resigning from UCB a factor?
 * How did he get the commission?
 * Why is the building named after him?
-* How did the Homage to Julia come about? ~ She was still alive when the building was built.
+* How did the Homage to Julia come about? She was still alive when the building was built.
 
 
 ## Friendship Hall
@@ -313,12 +327,13 @@ Designed
 * "The elder statesman of San Francisco architecture"
 * After being in ill health for months, committed suicide by jumping from the Golden Gate Bridge.
 
+
 ## Courtyard
 
 ### South Elevation ~ Brick Panels
 
-* Square and Diamond decorations of brick
-* In the drawings
+* Square and diamond decorations of brick
+* In Julia's drawings
 * Stained Glass: Chapel ~ 1957?
 
 ### Corridor Columns
