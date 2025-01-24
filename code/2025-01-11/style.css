@@ -2,7 +2,7 @@
 
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
 :root {
-	font-size: 100%;
+	font-size: 150%;
 	--mnu-width: 19rem;
 	--main-hue: 206;
 	/* 0 to 360 0=red 120=green 240=blue */

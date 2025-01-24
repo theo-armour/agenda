@@ -22,7 +22,7 @@ Then we will come back in and we will tour other parts of the premises and the g
 
 Finally we will come back here, perhaps for a coffee
 
-Bob Connolly Director of Marketing may say a few words on why this is a wonderful place to prow old.
+Bob Connolly Director of Marketing may say a few words on why this is a wonderful place to grow old.
 
 And I will stay on for questions and answers
 
@@ -145,10 +145,6 @@ Let us start the investigation. So let us now go back outside of the building. I
 
 ## Front of house
 
-
-
-## Front of house
-
 ### Three Roses
 
 Above the bay window seconfd floor you see two double windows.
@@ -168,10 +164,18 @@ What does that mean?
 
 ### Garden
 
-* On three streets
+* Runs along three streets
 * Original cast iron fence
 
+
 ## Porter Garden
+
+### Garden
+
+* Maintained by residents
+* Tiles crafted by residents and baked here
+* Some adjacent properties belong to the Society
+
 
 ### Perry Building
 
@@ -247,17 +251,23 @@ See
 
 ### Bob Connolly
 
+(415) 202-0300
 
 if not
 
-* Moving here is one of the brest decisions of ny life
+* Moving here is one of the best decisions of ny life
 
 
 ### Centenary
 
+* 100 years since the opening this year
+
 ### Landmark Designation
 
-* I'm writing the text
+* March 27, Mayor Larie unveiling the plaque
+* Big Party ~ already overflowing
+* I'm writing the text for the plaque
+
 
 ### Call to action
 
@@ -266,6 +276,14 @@ I hope you look at architecture in new ways.
 Buildings can speak to you if you listen.
 
 Even brutalist buildings can speak to you.
+
+### Other buildings of the era
+
+* Similar: Moscone Recreation Center ~ PGE ~ Stable: all brick
+* Different but not modern: Galileo High School ~ Palace of fine Arts ~ Fort Mason ~ Harbor Masters
+* But Marina Style takes over
+
+### My work
 
 * Much is conjecture
 * Work-in-progress
@@ -276,7 +294,10 @@ Even brutalist buildings can speak to you.
 
 ### Closing
 
-If you agree with me that you have been in a building with roses everywhere and that the rose is a symbol of love and caring. And if you agree that the rose is a symbol of reality. an outward and visible sign of an inward and spiritual grace.
+If you agree with me that you have been in a building with roses everywhere and that the rose is a symbol of love and caring.
+
+And if you agree that the rose is an outward and visible symbol of an inward and spiritual grace.
+
 Then you must agree with me that this Julia Morgan Building is the loveliest building in San Francisco.
 
 
