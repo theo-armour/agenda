@@ -277,12 +277,29 @@ Will talk more about the architect when we get to the Porter Garden
 
 ### Perry Building
 
+* Early fifties, Society agrees to merge with Crocker Old People's Home
+* They appointment of Warren Perry as architect
+
+
+### Warren Perry, Architect 1884-1980
+
+* BS Berkeley, 1907.
+* École nationale supérieure des beaux-arts, Paris, France, 1908-1910.
+* Dean, UC Berkeley Department of Architecture, Berkeley, 1937-1954.
+
+### Designed
+
+* Saint Mary-the-Virgin Episcopal Church, San Francisco, CA
+* UCB Edwards Fields Track Stadium
+* UCB School of Law Building, Berkeley
+
+### Design
+
 * Huge contrast with the Morgan building
 * But the the color is red brick
 * The construction is reinforced concrete
 
-
-Style
+### Style
 
 * Brutalist ~ 1950s-1970s
 * The movie
@@ -296,18 +313,6 @@ See
 * Glen Park BART Station
 * Fountain in Justin Herman Plaza
 
-### Warren Perry, Architect 1884-1980
-
-* BS Berkeley, 1907.
-* École nationale supérieure des beaux-arts, Paris, France, 1908-1910.
-* Dean, UC Berkeley Department of Architecture, Berkeley, 1937-1954.
-
-Designed
-
-* Saint Mary-the-Virgin Episcopal Church, San Francisco, CA
-* UCB Edwards Fields Track Stadium
-* UCB School of Law Building, Berkeley
-
 ### Questions
 
 * Starts just as traditional as Julia
@@ -318,8 +323,11 @@ Designed
 * Why is the building named after him?
 * How did the Homage to Julia come about? She was still alive when the building was built.
 
+Now back inside to look at a sixties project. the Health Center
 
 ## Friendship Hall
+
+Where we gather
 
 ### Gardner Dailey ~ Architect ~ 1895-1967
 
