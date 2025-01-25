@@ -11,9 +11,8 @@
 * F&amp;G: Nienke ~ invite colette
 * Trish: HH
 * EOL: prepare
-* 
-
 * HH: Mary
+* Patrick:
 * Mia: Sleep
 
 Soon
