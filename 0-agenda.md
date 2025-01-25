@@ -8,7 +8,8 @@
 <!-- this is a comment -->
 ## Today
 
-* F&amp;G: Nienke ~ invite colette
+* 
+
 * Trish: HH
 * EOL: prepare
 * Mark Bell
