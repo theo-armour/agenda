@@ -8,7 +8,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Trish: HH
+* 
+
 * EOL: prepare
 * Mia: Sleep
 
