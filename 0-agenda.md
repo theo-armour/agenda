@@ -23,6 +23,10 @@ Soon
 * Karen McNeil
 * Mark Bell
 * PLE Ronan
+* Mike Marean
+
+Whenever
+
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
 * Martha Nell: Perry
@@ -34,11 +38,9 @@ Soon
 * Tiller
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
-* 
-
 * Trish J: msg
 * Mike Warner
-* Mike Marean
+* 
 
 ***
 
