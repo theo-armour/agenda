@@ -11,9 +11,10 @@
 * F&amp;G: Nienke ~ invite colette
 * Trish: HH
 * EOL: prepare
-* HH: Angie
-* HH: execs
+* 
+
 * HH: Mary
+* Mia: Sleep
 
 Soon
 
@@ -24,6 +25,8 @@ Soon
 * Mark Bell
 * PLE Ronan
 * Mike Marean
+* David M: gear
+* Woody: references
 
 Whenever
 
@@ -55,7 +58,7 @@ Whenever
 
 * ?
 * Pay UCSF
-* Pay: Lawerence
+* Pay: Lawrence
 * 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/mia/0-mia-agenda.md&quot;">mia agenda</a>
