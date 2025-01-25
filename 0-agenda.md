@@ -8,11 +8,8 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * Trish: HH
 * EOL: prepare
-* Mark Bell
 * Mia: Sleep
 
 Soon
