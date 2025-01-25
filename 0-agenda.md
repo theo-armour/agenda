@@ -13,8 +13,6 @@
 Soon
 
 * IA: storage photos
-* 
-
 * Alix P:
 * EOL: prepare
 * Jonathan T: Halloween
@@ -26,7 +24,6 @@ Soon
 * Martha Nell: Perry
 * NV: Margaret Jacobs
 * NV: Le'mere
-* Mark Linton: AGI
 * Genualdi
 * Omar
 * Ronan
