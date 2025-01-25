@@ -8,14 +8,13 @@
 <!-- this is a comment -->
 ## Today
 
-* 
 * F&amp;G: Nienke ~ invite colette
-* 
 
 Soon
 
 * IA: storage photos
-* Lolo: room ~ confirmation?
+* 
+
 * Alix P:
 * EOL: prepare
 * Jonathan T: Halloween
