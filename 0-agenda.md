@@ -8,38 +8,38 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
-* F&amp;G: Nienke ~ invite colette
-* NV Tour: script ~ handout
+* EOL: prepare
+* Mia: Sleep
 
 Soon
 
 * IA: storage photos
-* Lolo: room ~ confirmation?
 * Alix P:
-* EOL: prepare
 * Jonathan T: Halloween
 * Karen McNeil
 * Mark Bell
 * PLE Ronan
+* Mike Marean
+* David M: gear
+* Woody: references
+
+Whenever
+
+* Renew passport
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
 * Martha Nell: Perry
 * NV: Margaret Jacobs
 * NV: Le'mere
-* Mark Linton: AGI
 * Genualdi
 * Omar
 * Ronan
 * Tiller
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
-* Trish: HH
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
-* JM Tour
 * Trish J: msg
 * Mike Warner
-* Mike Marean
+* 
 
 ***
 
@@ -54,7 +54,7 @@ Soon
 
 * ?
 * Pay UCSF
-* Pay: Lawerence
+* Pay: Lawrence
 * 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/mia/0-mia-agenda.md&quot;">mia agenda</a>
