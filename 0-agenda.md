@@ -25,6 +25,7 @@ Soon
 
 Whenever
 
+* Renew passport
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
 * Martha Nell: Perry
