@@ -8,8 +8,6 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * EOL: prepare
 * Mia: Sleep
 
