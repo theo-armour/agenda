@@ -29,6 +29,7 @@ Soon
 
 Whenever
 
+* Morgan: camera + NUC + monitors
 * Renew passport
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
