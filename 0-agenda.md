@@ -8,15 +8,14 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
+* Hres: Helm
 * Mia: Sleep
 
 Soon
 
 * Gukhui:&nbsp;
 * 2 am
-* hristine
+* Christine
 * IA: storage photos
 * Alix P:
 * Jonathan T: Halloween
