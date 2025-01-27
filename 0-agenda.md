@@ -12,6 +12,7 @@
 * HH: masthead
 * HH: text in
 * Helm: intro
+* ace-it: tasks
 
 Soon
 
@@ -28,8 +29,9 @@ Soon
 
 Whenever
 
+* Bancroft: documentalist
 * Donna: Janet Crane contacts
-* NV: linda Gaklliher: wait for reply
+* NV: linda Galliher: wait for reply
 * David Morgan: camera + NUC + monitors
 * Renew passport
 * Praveen: Remote Dir Activities
