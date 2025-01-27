@@ -2,7 +2,7 @@
 
 ## Links
 
-* [https://www.instagram.com/alixinou/](https://www.instagram.com/alixinou/)
+* https://www.instagram.com/alixinou/
 * [https://www.instagram.com/alixarmour/](https://www.instagram.com/alixarmour/)
 * [https://www.instagram.com/cbarmour/](https://www.instagram.com/cbarmour/)
 * [https://www.instagram.com/eloeezy/](https://www.instagram.com/eloeezy/)
@@ -10,6 +10,15 @@
 * [https://www.instagram.com/armour.theo/](https://www.instagram.com/armour.theo/)
 
 ## Agenda
+
+## 2025-01-26
+
+* Check ms365 family sharing
+* Share my links
+* Share my basic ICE
+* Content sharing consideratio
+* Responsibilities
+
 
 
 ## Old

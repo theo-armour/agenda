@@ -1,6 +1,15 @@
 # ace-it journal
 
 
+
+## 2025-01-26
+
+EOL was good
+
+* my data: too much, complicated, unfocused
+* It's all there, online, accessible
+* But requires skill, patience, and time to access
+
 ## 2024-12-24
 
 * Cynthia ~ corkscrew + tote

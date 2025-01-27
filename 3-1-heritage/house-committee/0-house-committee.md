@@ -1,8 +1,10 @@
 # House Committee
 
+* Large Screen Friendship Hall
+* Better WiFi: Friendship Hall
 * Chair sliders?
 * Charter?
-* Paper for Eleanor
+* Diesel Tank: Bollards
 * Wash the screens
 * Jane: Gazebo: raise handrail 
 * Jane ~ Hanging planters
