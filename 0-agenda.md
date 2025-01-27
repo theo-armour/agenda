@@ -17,7 +17,7 @@
 Soon
 
 * IA: storage photos
-* Bancrioft: copyright
+* Bancroft: copyright
 * Alix P:
 * Jonathan T: Halloween
 * Karen McNeil
@@ -31,7 +31,7 @@ Whenever
 
 * Bancroft: documentalist
 * Donna: Janet Crane contacts
-* NV: linda Galliher: wait for reply
+* NV: Linda Galliher: wait for reply
 * David Morgan: camera + NUC + monitors
 * Renew passport
 * Praveen: Remote Dir Activities
