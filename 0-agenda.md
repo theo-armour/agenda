@@ -15,12 +15,8 @@
 
 Soon
 
-* 
-
-* Donna: Janet Crane contacts
 * IA: storage photos
-* 
-
+* Bancrioft: copyright
 * Alix P:
 * Jonathan T: Halloween
 * Karen McNeil
@@ -32,6 +28,7 @@ Soon
 
 Whenever
 
+* Donna: Janet Crane contacts
 * NV: linda Gaklliher: wait for reply
 * David Morgan: camera + NUC + monitors
 * Renew passport
