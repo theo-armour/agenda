@@ -9,7 +9,8 @@
 ## Today
 
 * Archie: goggles
-* HH: masthead
+* 
+
 * HH: text in
 * Helm: intro
 * ace-it: tasks
