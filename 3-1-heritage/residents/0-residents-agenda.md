@@ -20,7 +20,7 @@
 
 
 
-## Residents
+## Residents 2
 
 * Doris: Art contest
 * Carm: nieces
@@ -35,7 +35,7 @@
 * Patrick: use Front Office
 * Lillemor: Surströmming party
 
-## Agenda2
+## Agenda 2
 
 * Amazon Customer service ~ 1-888-280-4331
 * Questionnaire for new residents: Maureen

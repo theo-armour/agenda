@@ -1,6 +1,14 @@
 # Gukhui Noh Agenda
 
 
+## 2025-01-26
+
+The recent message I sent you was late night writing with alcohol after a long day.
+
+I don't think it was a message I would send with a clear head in the morning. ;-)
+
+I hope I did not offend you in any way. You are a good person and I am glad to know you.
+
 
 
 ## 2025-01-24
