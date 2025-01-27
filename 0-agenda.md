@@ -8,21 +8,19 @@
 <!-- this is a comment -->
 ## Today
 
-* Hres: Helm
 * Mia: Sleep
+* 2 am
+* 
 
 Soon
 
-* Archie: googles
-* Gukhui:&nbsp;
-* 2 am
-* Christine
 * IA: storage photos
+* Archie: goggles
 * Alix P:
 * Jonathan T: Halloween
 * Karen McNeil
-* Mark Bell
 * PLE Ronan
+* PeterO:&nbsp;
 * Mike Marean
 * David M: gear
 * Woody: references
@@ -44,6 +42,7 @@ Whenever
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
 * Trish J: msg
 * Mike Warner
+* Diana Greer: working together
 
 ***
 
