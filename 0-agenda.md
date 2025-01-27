@@ -8,21 +8,19 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
+* Archie: goggles
 * Mia: Sleep
-
-Soon
-
-* Archie: googles
 * Gukhui:&nbsp;
 * 2 am
 * Christine
+
+Soon
+
+* Maureen / Lillemor
 * IA: storage photos
 * Alix P:
 * Jonathan T: Halloween
 * Karen McNeil
-* Mark Bell
 * PLE Ronan
 * Mike Marean
 * David M: gear
