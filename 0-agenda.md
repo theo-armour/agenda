@@ -8,16 +8,19 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
-* 
+* Archie: goggles
+* HH: masthead
+* HH: text in
+* Helm: intro
 
 Soon
 
-* NV: linda +&nbsp;
+* 
+
 * Donna: Janet Crane contacts
 * IA: storage photos
-* Archie: goggles
+* 
+
 * Alix P:
 * Jonathan T: Halloween
 * Karen McNeil
@@ -29,7 +32,8 @@ Soon
 
 Whenever
 
-* Morgan: camera + NUC + monitors
+* NV: linda Gaklliher: wait for reply
+* David Morgan: camera + NUC + monitors
 * Renew passport
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
