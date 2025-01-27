@@ -10,7 +10,8 @@
 
 * Archie: goggles
 * Mia: Sleep
-* Gukhui:&nbsp;
+* 
+
 * 2 am
 * Christine
 
