@@ -13,8 +13,7 @@
 * 
 
 * HH: text in
-* Helm: intro
-* ace-it: tasks
+* 
 
 Soon
 
