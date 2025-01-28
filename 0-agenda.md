@@ -9,9 +9,6 @@
 <!-- this is a comment -->
 ## Today
 
-* Archie: goggles
-* 
-
 * HH: text in
 * 
 
@@ -24,7 +21,8 @@ Soon
 * Karen McNeil
 * PLE Ronan
 * PeterO:&nbsp;
-* Mike Marean
+* 
+
 * David M: gear
 * Woody: references
 
