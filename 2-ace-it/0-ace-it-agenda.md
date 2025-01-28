@@ -16,8 +16,8 @@
 * Check ms365 family sharing
 * Share my links
 * Share my basic ICE
-* Content sharing consideratio
-* Responsibilities
+* Content sharing technical considerations
+* Itemize & Discuss responsibilities
 
 
 
