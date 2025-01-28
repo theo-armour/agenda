@@ -4,6 +4,7 @@
 
 * ++
 * 2025-01-06:&nbsp;There's no sense in being precise when you don't even know what you're talking about. -- John von Neumann
+* 2025-01-27 constraints drive innovation
 
 <!-- this is a comment -->
 ## Today
