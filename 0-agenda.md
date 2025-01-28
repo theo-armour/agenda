@@ -21,9 +21,6 @@ Soon
 * Karen McNeil
 * PLE Ronan
 * PeterO:&nbsp;
-* 
-
-* David M: gear
 * Woody: references
 
 Whenever
