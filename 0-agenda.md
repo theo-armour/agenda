@@ -10,6 +10,7 @@
 ## Today
 
 * HH: text in
+* HH: to midge
 * Hfo: lolo room extend
 * Tania: phone call
 * 
