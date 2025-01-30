@@ -10,8 +10,10 @@
 ## Today
 
 * HH: text in
-* HH: to midge
+* HH: food comment TT
+* HH: editorial: activities
 * Hfo: lolo room extend
+* HHcfo: billing split + eaf + email
 * 
 
 * 
