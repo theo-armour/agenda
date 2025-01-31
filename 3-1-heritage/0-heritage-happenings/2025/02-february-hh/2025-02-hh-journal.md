@@ -7,6 +7,37 @@
 * Linda Galliher:
 *
 
+## 2025-01-30
+
+Draft: February Issue: Heritage Happenings
+
+* Committee
+* Mary
+* Patti
+* FO
+* Cooby
+* Mia
+* Trish
+* Katie
+
+Hello Heritage Happenings Editorial Committee Members & Friends
+
+The goal is to get this issue of the Heritage Happenings by Friday 31 January.
+
+But the draft has been not an easy one to put together. Obviously, it was that pesky "boy wonder" who was the problem. ;-)
+
+So you are receiving this draft rather later than you would like.
+
+Fingers crossed: you don't find too many errors.
+
+We can always push the printing date back until Monday.
+
+Margaret: The editorial is from your Residents Council notes.
+
+Tom: Your article will go out in the March issue. I hope you are okay with that.
+
+
+
 
 
 ## 2025-01-25 ~ February Issue: Heritage Happenings

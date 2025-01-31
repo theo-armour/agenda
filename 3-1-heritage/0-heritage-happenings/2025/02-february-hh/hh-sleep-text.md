@@ -1,5 +1,9 @@
 # Sleep
 
+## First page
+
+The text is intended to kind of look like Chinese calligraphy. Again, I tried AI but it took too long. Luckily I found and downloaded a free font that achieves the effect. The name of the font is, heh heh, “Wonton”. And fonts that look Chinese are called “chop suey” fonts.
+The primary focus of this newsletter is to help us older people to continue to be active writers. It’s not the readership that counts, it’s the “writership”! And your job, as our reader, is to spot the issues and naïve biases and report where we are being naughty or something. Even better, send a letter to the editor or submit an article of your own. And try to make us smile. ;-)
 
 ## Betty D
 
