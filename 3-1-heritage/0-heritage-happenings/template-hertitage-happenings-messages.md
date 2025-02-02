@@ -12,7 +12,10 @@ Done:
 
 ## Subscriber Messages
 
-Heritage Happenings Month Newsletter + Calendar + Resident Directory
+
+Heritage Happenings February Newsletter + Calendar + Resident Directory
+
+親愛的 Theo
 
 Dear <<First Name>>
 
