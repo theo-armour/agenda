@@ -18,7 +18,8 @@
 * Hfo: lolo room extend
 * 
 
-* HH: three copies&nbsp;one of them since you can&nbsp;choose&nbsp;hey Mira&nbsp;call Tanya armor Becker on her mobile phone&nbsp;yes&nbsp;hello how are you doing&nbsp;okay&nbsp;talk to you later bye love you
+* 
+
 * HHcfo: billing split + eaf + email
 
 Soon
