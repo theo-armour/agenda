@@ -16,8 +16,7 @@
 * HH: BoD
 * HH: staff
 * Hfo: lolo room extend
-* 
-
+* George Smart
 * 
 
 * HHcfo: billing split + eaf + email
@@ -36,7 +35,7 @@ Soon
 Whenever
 
 * Bancroft: documentalist
-* Donna: Janet Crane contacts
+* Donna: Janet Crane contacts ~ talkers
 * NV: Linda Galliher: wait for reply
 * David Morgan: camera + NUC + monitors
 * Renew passport
