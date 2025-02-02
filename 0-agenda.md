@@ -11,12 +11,13 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
+* Journal files
+* February want to do
 * HH: BoD
 * HH: staff
 * Hfo: lolo room extend
-* Patrick lunch
+* 
+
 * HH: three copies&nbsp;one of them since you can&nbsp;choose&nbsp;hey Mira&nbsp;call Tanya armor Becker on her mobile phone&nbsp;yes&nbsp;hello how are you doing&nbsp;okay&nbsp;talk to you later bye love you
 * HHcfo: billing split + eaf + email
 
