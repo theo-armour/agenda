@@ -11,13 +11,8 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * Hfo: lolo room extend
 * HHcfo: billing split + eaf + email
-* 
-
-*
 
 Soon
 
