@@ -11,9 +11,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Tania
-* Til
-* Jay
+* 
+
 * HH: BoD
 * HH: staff
 * Hfo: lolo room extend
