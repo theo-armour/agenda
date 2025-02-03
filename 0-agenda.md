@@ -11,9 +11,8 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
-* Hfo: lolo room extend
+* Email replies
+* Hfo: pickup + lolo room extend
 * Safeway: Champagne ~ Esomeprazole ~ bleach
 * February agenda to calendar
 * Collect old un-responded messages
