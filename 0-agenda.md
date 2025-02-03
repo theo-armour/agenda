@@ -37,6 +37,7 @@ Soon
 * PLE Ronan
 * PeterO:&nbsp;
 * Woody: references
+* Research the use of colors in highlighting
 
 Whenever
 
