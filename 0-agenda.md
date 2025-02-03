@@ -25,6 +25,7 @@
 
 Soon
 
+* Stucky Library
 * George Smart
 * HH: qr codes
 * HHcfo: billing split + eaf + email
