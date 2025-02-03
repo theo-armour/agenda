@@ -11,9 +11,8 @@
 <!-- this is a comment -->
 ## Today
 
+* Safeway: Champagne ~ Esomeprazole ~ bleach
 * February agenda to calendar
-* Collect old un-responded messages
-* February want to do
 * HH: BoD
 * HH: staff
 * Hfo: lolo room extend
@@ -23,6 +22,8 @@
 
 Soon
 
+* Collect old un-responded messages
+* February want to do
 * Open birthday messages
 * tidy desk
 * Return book
