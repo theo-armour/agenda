@@ -17,8 +17,7 @@
 * HH: staff
 * Hfo: lolo room extend
 * George Smart
-* 
-
+* HH: qr codes
 * HHcfo: billing split + eaf + email
 
 Soon
