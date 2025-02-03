@@ -11,7 +11,8 @@
 <!-- this is a comment -->
 ## Today
 
-* HH: new + ombundsman
+* 
+
 * Hfo: lolo room extend
 * Safeway: Champagne ~ Esomeprazole ~ bleach
 * February agenda to calendar
