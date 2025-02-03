@@ -16,12 +16,13 @@
 * HH: BoD
 * HH: staff
 * Hfo: lolo room extend
-* George Smart
-* HH: qr codes
-* HHcfo: billing split + eaf + email
+* 
 
 Soon
 
+* George Smart
+* HH: qr codes
+* HHcfo: billing split + eaf + email
 * Collect old un-responded messages
 * February want to do
 * Open birthday messages
