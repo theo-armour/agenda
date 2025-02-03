@@ -12,7 +12,7 @@
 ## Today
 
 * February agenda to calendar
-* Collect old unresponded messages&nbsp;hey Google&nbsp;hey Matt&nbsp;hey Google&nbsp;can you open the applaud app and start recording
+* Collect old un-responded messages
 * February want to do
 * HH: BoD
 * HH: staff
