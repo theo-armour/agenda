@@ -17,20 +17,18 @@
 * Hfo: lolo room extend
 * Safeway: Champagne ~ Esomeprazole ~ bleach
 * February agenda to calendar
-* 
+* Collect old un-responded messages
+* Open birthday messages
+* tidy desk
+* Return book
+* return photos
 
 Soon
 
 * George Smart
 * HH: qr codes
 * HHcfo: billing split + eaf + email
-* Collect old un-responded messages
-* 
 
-* Open birthday messages
-* tidy desk
-* Return book
-* return photos
 * IA: storage photos
 * Bancroft: copyright
 * Alix P:
