@@ -11,16 +11,22 @@
 <!-- this is a comment -->
 ## Today
 
-* HH: text in
-* HH: food comment TT
-* HH: editorial: activities
+* February agenda to calendar
+* Collect old un-responded messages
+* February want to do
+* HH: BoD
+* HH: staff
 * Hfo: lolo room extend
+* George Smart
+* HH: qr codes
 * HHcfo: billing split + eaf + email
-* 
-* 
 
 Soon
 
+* Open birthday messages
+* tidy desk
+* Return book
+* * return photos
 * IA: storage photos
 * Bancroft: copyright
 * Alix P:
@@ -33,10 +39,10 @@ Soon
 Whenever
 
 * Bancroft: documentalist
-* Donna: Janet Crane contacts
+* Donna: Janet Crane contacts ~ talkers
 * NV: Linda Galliher: wait for reply
 * David Morgan: camera + NUC + monitors
-* Renew passport
+* ** Renew passport
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
 * Martha Nell: Perry
@@ -65,6 +71,8 @@ Whenever
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
+* Bean&nbsp;
+* MagSafe round charger
 * Pay UCSF
 * Pay: Lawrence
 * 
@@ -268,7 +276,7 @@ Waiting
 **Projects**
 
 -->
-<details open="">
+<details>
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
