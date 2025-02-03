@@ -26,7 +26,7 @@ Soon
 * Open birthday messages
 * tidy desk
 * Return book
-* * return photos
+* return photos
 * IA: storage photos
 * Bancroft: copyright
 * Alix P:
