@@ -12,7 +12,8 @@
 ## Today
 
 * Email replies
-* Hfo: pickup + lolo room extend
+* 
+
 * Safeway: Champagne ~ Esomeprazole ~ bleach
 * Collect old un-responded messages
 * Open birthday messages
