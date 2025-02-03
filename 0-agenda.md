@@ -14,7 +14,8 @@
 * Email replies
 * Hfo: pickup + lolo room extend
 * Safeway: Champagne ~ Esomeprazole ~ bleach
-* February agenda to calendar
+* 
+
 * Collect old un-responded messages
 * Open birthday messages
 * tidy desk
