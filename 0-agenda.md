@@ -38,7 +38,7 @@ Whenever
 * Donna: Janet Crane contacts ~ talkers
 * NV: Linda Galliher: wait for reply
 * David Morgan: camera + NUC + monitors
-* Renew passport
+* ** Renew passport
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
 * Martha Nell: Perry
@@ -271,7 +271,7 @@ Waiting
 **Projects**
 
 -->
-<details open="">
+<details>
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
