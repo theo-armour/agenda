@@ -11,7 +11,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Journal files
+* 
+
 * February want to do
 * HH: BoD
 * HH: staff
