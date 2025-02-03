@@ -23,6 +23,10 @@
 
 Soon
 
+* Open birthday messages
+* tidy desk
+* Return book
+* * return photos
 * IA: storage photos
 * Bancroft: copyright
 * Alix P:
@@ -67,6 +71,7 @@ Whenever
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
+* Bean&nbsp;
 * MagSafe round charger
 * Pay UCSF
 * Pay: Lawrence
