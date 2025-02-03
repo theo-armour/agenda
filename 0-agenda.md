@@ -12,8 +12,6 @@
 ## Today
 
 * Email replies
-* 
-
 * Safeway: Champagne ~ Esomeprazole ~ bleach
 * Collect old un-responded messages
 * Open birthday messages
