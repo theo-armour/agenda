@@ -12,15 +12,15 @@
 ## Today
 
 * Email replies
-* Safeway: Champagne ~ Esomeprazole ~ bleach
 * Collect old un-responded messages
 * Open birthday messages
-* tidy desk
-* Return book
-* return photos
+* Tania
+* Return Sean's book
+* 
 
 Soon
 
+* Safeway: bleach
 * Stucky Library
 * George Smart
 * HH: qr codes
@@ -38,9 +38,10 @@ Soon
 
 Whenever
 
+* John Choate
 * Bancroft: documentalist
 * Donna: Janet Crane contacts ~ talkers
-* NV: Linda Galliher: wait for reply
+* NV: Linda Galliher: accept LinkedIn
 * David Morgan: camera + NUC + monitors
 * ** Renew passport
 * Praveen: Remote Dir Activities
