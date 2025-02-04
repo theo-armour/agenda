@@ -5,7 +5,7 @@
 ## Peeps
 
 * Shammah
-* Omar
+* Omar Woodworth
 * Jose Leos
 * Terrence Deacon
 * Doug Dwyer
@@ -211,9 +211,7 @@
 ## 2020-07-26
 
 Sometime in the 17th of August I will move from where I've been living for 20 years into an independent living facility.
-
 This will be a self-inflicted game changer
-
 I will move from
 
 * Living by myself to living with 200
@@ -230,11 +228,8 @@ I could have chosen a bigger space, I chose smallest. Live like a nun. Bare mini
 * A bed, a chair, a desk, computer and wifi
 
 if I can live with Justice, this would be wonderful. if I cannot then well let's move me up to a larger space.
-
 more fun to start small and then move up instead of starting so much smaller and then having to go to even smaller
-
 This should significantly decrease my cost of living
-
 Currently
 
 * ~$4.000 per month for housing
