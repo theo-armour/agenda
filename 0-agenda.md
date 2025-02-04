@@ -41,7 +41,7 @@ Whenever
 * John Choate
 * Bancroft: documentalist
 * Donna: Janet Crane contacts ~ talkers
-* NV: Linda Galliher: wait for reply
+* NV: Linda Galliher: accept LinkedIn
 * David Morgan: camera + NUC + monitors
 * ** Renew passport
 * Praveen: Remote Dir Activities
