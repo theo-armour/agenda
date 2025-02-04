@@ -13,14 +13,12 @@
 
 * Email replies
 * Collect old un-responded messages
-* 
-
 * Tania: concierge in Durham
 * Return Sean's book
 
 Soon
 
-* Carter or Tyler
+* Carter or Tyler?
 * Safeway: bleach
 * Stucky Library
 * George Smart
