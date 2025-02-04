@@ -71,8 +71,9 @@ Whenever
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
-* Bean&nbsp;
-* MagSafe round charger
+* Bean shirts
+* 
+
 * Pay UCSF
 * Pay: Lawrence
 * 
@@ -207,7 +208,7 @@ Waiting
 **Peeps**
 
 -->
-<details>
+<details open="">
 
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.2 Peeps</a>
