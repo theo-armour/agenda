@@ -38,6 +38,7 @@ Soon
 
 Whenever
 
+* John Choate
 * Bancroft: documentalist
 * Donna: Janet Crane contacts ~ talkers
 * NV: Linda Galliher: wait for reply
