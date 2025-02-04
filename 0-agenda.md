@@ -13,7 +13,8 @@
 
 * Email replies
 * Collect old un-responded messages
-* Open birthday messages
+* 
+
 * Tania: concierge in Durham
 * Return Sean's book
 
