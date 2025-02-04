@@ -12,15 +12,16 @@
 ## Today
 
 * Email replies
-* Safeway: Champagne ~ Esomeprazole ~ bleach
 * Collect old un-responded messages
 * Open birthday messages
-* tidy desk
-* Return book
+* 
+
+* Return Sean's book
 * 
 
 Soon
 
+* Safeway: bleach
 * Stucky Library
 * George Smart
 * HH: qr codes
