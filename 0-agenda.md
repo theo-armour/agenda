@@ -17,7 +17,7 @@
 * Open birthday messages
 * tidy desk
 * Return book
-* return photos
+* 
 
 Soon
 
