@@ -10,7 +10,7 @@
 <!-- this is a comment -->
 ## Today
 
-* SacSem: wix + lunch + McCurdy
+* SacSem: lunch + McCurdy
 * HH: JM drawings to repos
 * Lillemor &amp; Carl
 * MaryL: ID
@@ -27,8 +27,6 @@ Soon
 * Leah
 * Ann Seymour
 * Dr Lea: Appointment
-* 
-
 * Carter or Tyler?
 * Safeway: bleach
 * George Smart
