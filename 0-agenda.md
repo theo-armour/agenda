@@ -10,7 +10,8 @@
 <!-- this is a comment -->
 ## Today
 
-* SacSem: lunch + McCurdy
+* 
+
 * HH: JM drawings to repos
 * Lillemor &amp; Carl
 * MaryL: ID
