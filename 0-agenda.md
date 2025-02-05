@@ -23,6 +23,7 @@
 
 Soon
 
+* Kay tim: Turntable + codes + concierge
 * Carter or Tyler?
 * Safeway: bleach
 * Stucky Library
