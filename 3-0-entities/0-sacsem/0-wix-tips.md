@@ -16,6 +16,8 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday, February 7 at Perry's on Union: Anna Luisa Vallejo Barba, Consul General of Mexico
+* Friday, January 31 at Perry's on Union: Sacramento Seminar Roundtable
 * Friday, January 24 at Perry's on Union: Sacramento Seminar Roundtable
 * Update #2: Friday, January 17 at Perry's on Union: Kim Tavaglione, Executive Director of the San Francisco Labor Council
 * Friday, January 17 at Perry's on Union: Roundtable "Your predictions for next week?"; John W. Busterud has requested a raincheck

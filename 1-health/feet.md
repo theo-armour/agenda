@@ -2,7 +2,6 @@
 
 ## Agenda
 
-## Dr Maureen Lea DPM ~ 415-567-3136
 
 Next appointment: ?
 
@@ -35,6 +34,16 @@ Next appointment: ?
 * Or formula 7
 
 ## Ingrown Toenails
+
+### 2025-02-05
+
+* Get a brace!!
+* https://en.wikipedia.org/wiki/Nail_brace
+* https://www.perplexity.ai/search/what-can-you-do-about-toenails-oGracCEOTmKKdFpWE2dzEQ
+
+
+### 2022?
+
 A single hangnail can become a significant quality of life issue
 
 By using nail file instead of scissors in order to trim the nails in a straighter fashion, I have need able to reduce the problem down to a single toenail.
