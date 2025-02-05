@@ -16,7 +16,8 @@
 * Fiscal Minutes
 * TomK: Stucky Library
 * SF Planning
-* 
+* Kay tim: Turntable + codes + concierge
+* HH: meeting
 
 Soon
 
@@ -24,7 +25,8 @@ Soon
 * Leah
 * Ann Seymour
 * Dr Lea: Appointment
-* Kay tim: Turntable + codes + concierge
+* 
+
 * Carter or Tyler?
 * Safeway: bleach
 * George Smart
