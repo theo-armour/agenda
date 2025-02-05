@@ -12,9 +12,17 @@
 ## Today
 
 * Email replies
+* SacSem
+* Lillemor &amp; Carl
+* MaryL
+* Fiscal Minutes
+* SF Planniing
 * Collect old un-responded messages
 * Tania: concierge in Durham
 * Return Sean's book
+* Leah
+* Ann Seymour
+* 
 
 Soon
 
