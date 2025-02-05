@@ -6,18 +6,24 @@
 * 2025-01-06:&nbsp;There's no sense in being precise when you don't even know what you're talking about. -- John von Neumann
 * 2025-01-27 constraints drive innovation
 * 2025-02-01 ~ me: the past is just as unpredictable as the future
-* 
 
 <!-- this is a comment -->
 ## Today
 
-* Email replies
+* SacSem
+* Lillemor &amp; Carl
+* MaryL
+* Fiscal Minutes
+* SF Planniing
 * Collect old un-responded messages
 * Tania: concierge in Durham
-* Return Sean's book
+* Leah
+* Ann Seymour
+* 
 
 Soon
 
+* Kay tim: Turntable + codes + concierge
 * Carter or Tyler?
 * Safeway: bleach
 * Stucky Library
