@@ -17,7 +17,8 @@
 * Kay tim: Turntable + codes + concierge
 * TomK: Stucky Library
 
-* Bancroft: copyright
+* 
+
 * MaryL: ID
 * Mary: Fountain
 * Lillemor &amp; Carl
