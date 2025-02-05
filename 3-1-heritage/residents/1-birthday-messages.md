@@ -4,6 +4,12 @@
 
 * https://imperfecttaylor.com/short-funny-quotes-about-aging/
 
+## 2025-02-04
+
+* Cheers to the best year yet
+* Peace & Serinity
+* May your days be filled with laughter and joy.
+* There you go again...Making the world better by simply being you.
 ## 2024-07-15 Perplexity
 
 Here are some thoughtful and nice things you can say in an email to someone on their birthday:
