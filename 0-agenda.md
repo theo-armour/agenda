@@ -10,17 +10,18 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * HH: JM drawings to repos
-* Lillemor &amp; Carl
-* MaryL: ID
-* Fiscal Minutes
-* TomK: Stucky Library
-* SF Planning
+* Tania
 * Kay tim: Turntable + codes + concierge
-* HH: meeting
+* TomK: Stucky Library
+
 * Bancroft: copyright
+* MaryL: ID
+* Mary: Fountain
+* Lillemor &amp; Carl
+* Fiscal Minutes
+* SF Planning
+* HH: meeting
 
 Soon
 
