@@ -10,7 +10,8 @@
 <!-- this is a comment -->
 ## Today
 
-* HH: JM drawings to repos
+* 
+
 * Tania
 * Kay tim: Turntable + codes + concierge
 * TomK: Stucky Library
