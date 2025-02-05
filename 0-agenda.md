@@ -10,7 +10,8 @@
 <!-- this is a comment -->
 ## Today
 
-* SacSem
+* SacSem: wix + lunch + McCurdy
+* HH: JM drawings to repos
 * Lillemor &amp; Carl
 * MaryL: ID
 * Fiscal Minutes
@@ -18,6 +19,7 @@
 * SF Planning
 * Kay tim: Turntable + codes + concierge
 * HH: meeting
+* Bancroft: copyright
 
 Soon
 
@@ -33,7 +35,7 @@ Soon
 * HH: qr codes
 * HHcfo: billing split + eaf + email
 * IA: storage photos
-* Bancroft: copyright
+
 * Alix P:
 * Jonathan T: Halloween
 * Karen McNeil
