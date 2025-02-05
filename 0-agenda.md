@@ -13,7 +13,8 @@
 * Kay tim: Turntable + codes + concierge
 * TomK: Stucky Library
 
-* MaryL: ID
+* 
+
 * Mary: Fountain
 * Lillemor &amp; Carl
 * Michelle
