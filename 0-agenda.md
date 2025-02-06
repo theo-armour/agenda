@@ -17,7 +17,7 @@
 * Michelle
 * Fiscal Minutes
 * SF Planning
-* HH: meeting
+* HH: meeting date
 
 Soon
 
