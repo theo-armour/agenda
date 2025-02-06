@@ -17,9 +17,7 @@
 * Fiscal Minutes
 * SF Planning
 * HH: meeting date
-* Feb birthdays
-* Gukhui
-* Carter or Tyler?
+* 
 
 Soon
 
