@@ -49,8 +49,7 @@ Whenever
 * Donna: Janet Crane contacts ~ talkers
 * NV: Linda Galliher: accept LinkedIn
 * David Morgan: camera + NUC + monitors
-* 
-
+* Tom King's SFLP scans
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
 * Martha Nell: Perry
