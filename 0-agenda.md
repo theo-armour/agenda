@@ -10,7 +10,7 @@
 <!-- this is a comment -->
 ## Today
 
-* Kay tim: Turntable + codes + concierge
+* Kay Tim: Turntable + codes + concierge
 * TomK: Stucky Library
 * Mary: Fountain
 * Lillemor &amp; Carl
@@ -28,7 +28,7 @@ Soon
 * Alix P:
 * Jonathan T: Halloween
 * Karen McNeil
-* PLE Ronan
+* PLE: Ronan ~ calendar
 * PeterO:&nbsp;
 * Woody: references
 * George Smart
