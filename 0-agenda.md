@@ -10,11 +10,9 @@
 <!-- this is a comment -->
 ## Today
 
-* Kay Tim: Turntable + codes + concierge
+* Kay Tim: Turntable + concierge
 * TomK: Stucky Library
 * Mary: Fountain
-* 
-
 * Fiscal Minutes
 * SF Planning
 * HH: meeting date
