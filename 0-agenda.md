@@ -14,22 +14,14 @@
 * TomK: Stucky Library
 * Mary: Fountain
 * Lillemor &amp; Carl
-* Michelle
 * Fiscal Minutes
 * SF Planning
 * HH: meeting date
+* Feb birthdays
+* Carter or Tyler?
 
 Soon
 
-* Tania: concierge in Durham
-* Leah
-* Ann Seymour
-* Dr Lea: Appointment
-* Carter or Tyler?
-* Safeway: bleach
-* George Smart
-* HH: qr codes
-* HHcfo: billing split + eaf + email
 * IA: storage photos
 
 * Alix P:
@@ -38,7 +30,14 @@ Soon
 * PLE Ronan
 * PeterO:&nbsp;
 * Woody: references
-* 
+* George Smart
+* Tania: concierge in Durham
+* Leah
+* Ann Seymour
+* Dr Lea: Appointment
+* Safeway: bleach
+* HH: qr codes
+* HHcfo: billing split + eaf + email
 
 Whenever
 
