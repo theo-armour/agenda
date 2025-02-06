@@ -13,7 +13,8 @@
 * Kay Tim: Turntable + codes + concierge
 * TomK: Stucky Library
 * Mary: Fountain
-* Lillemor &amp; Carl
+* 
+
 * Fiscal Minutes
 * SF Planning
 * HH: meeting date
