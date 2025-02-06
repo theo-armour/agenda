@@ -18,6 +18,7 @@
 * SF Planning
 * HH: meeting date
 * Feb birthdays
+* Gukhui
 * Carter or Tyler?
 
 Soon
@@ -31,6 +32,7 @@ Soon
 * PeterO:&nbsp;
 * Woody: references
 * George Smart
+* Jason Carman
 * Tania: concierge in Durham
 * Leah
 * Ann Seymour
@@ -38,6 +40,7 @@ Soon
 * Safeway: bleach
 * HH: qr codes
 * HHcfo: billing split + eaf + email
+* ** Renew passport
 
 Whenever
 
@@ -46,7 +49,8 @@ Whenever
 * Donna: Janet Crane contacts ~ talkers
 * NV: Linda Galliher: accept LinkedIn
 * David Morgan: camera + NUC + monitors
-* ** Renew passport
+* 
+
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
 * Martha Nell: Perry
