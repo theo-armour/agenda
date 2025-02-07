@@ -1,5 +1,6 @@
 # Residents
 
+
 ## Agenda
 
 * Tom Johnson: wine

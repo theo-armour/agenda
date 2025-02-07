@@ -9,6 +9,7 @@ Competition ~ none Of these seemed to say that they can use the phone or talk to
 * https://www.kickstarter.com/projects/halliday-ai-glasses/halliday-proactive-ai-glasses-with-invisible-display
 * https://www.kickstarter.com/projects/looktech/looktech-smart-ai-glasses-and-hands-free-hd-camera
 * https://www.kickstarter.com/projects/loomos/loomos-ai-glasses
+* https://www.evenrealities.com/
 
 ## On/Off
 

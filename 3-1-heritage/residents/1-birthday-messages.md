@@ -1,7 +1,11 @@
 # Birthday Messages
 
-* "Age is merely the number of years the world has been enjoying you."
 
+## 2025-02-06
+
+* Suggestion: Use the identical message to send to each resident for one year, then update the message so it is not repeated.
+* Calendar updated until May 2025
+* "Age is merely the number of years the world has been enjoying you."
 * https://imperfecttaylor.com/short-funny-quotes-about-aging/
 
 ## 2025-02-04
@@ -9,7 +13,7 @@
 * Cheers to the best year yet
 * Peace & Serinity
 * May your days be filled with laughter and joy.
-* There you go again...Making the world better by simply being you.
+*Yvonee:  There you go again...Making the world better by simply being you.
 ## 2024-07-15 Perplexity
 
 Here are some thoughtful and nice things you can say in an email to someone on their birthday:
