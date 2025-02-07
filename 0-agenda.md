@@ -10,8 +10,9 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
+* Tania
+* Alix P:
+* Jonathan T: Halloween
 * Mary: Fountain
 
 * HH: meeting date
@@ -23,12 +24,13 @@
 Soon
 
 * IA: storage photos
+* Dr Lea: Appointment
+* ** Renew passport
 * Fiscal Minutes
 * SF Planning
 * Kay Tim: Turntable + concierge
 * TomK: Stucky Library
-* Alix P:
-* Jonathan T: Halloween
+
 * Karen McNeil
 * PLE: Ronan ~ calendar
 * PeterO:&nbsp;
@@ -38,11 +40,11 @@ Soon
 * Tania: concierge in Durham
 * Leah
 * Ann Seymour
-* Dr Lea: Appointment
-* Safeway: bleach
+
+* 
+
 * HH: qr codes
 * HHcfo: billing split + eaf + email
-* ** Renew passport
 
 Whenever
 
