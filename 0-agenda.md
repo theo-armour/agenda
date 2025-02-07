@@ -40,15 +40,13 @@ Soon
 * Tania: concierge in Durham
 * Leah
 * Ann Seymour
-
-* 
-
 * HH: qr codes
 * HHcfo: billing split + eaf + email
 
 Whenever
 
-* John Choate
+* 
+
 * Bancroft: documentalist
 * Donna: Janet Crane contacts ~ talkers
 * NV: Linda Galliher: accept LinkedIn
