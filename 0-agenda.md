@@ -12,7 +12,8 @@
 
 * 
 
-* Mary: Fountain
+* 
+
 * HH: meeting date
 * Trish J: msg
 * Mia: health + ireland emails
@@ -22,6 +23,7 @@
 
 Soon
 
+* Mary: Fountain
 * IA: storage photos
 * Dr Lea: Appointment
 * ** Renew passport ~ taxes&nbsp;
