@@ -66,6 +66,8 @@ Whenever
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
 * Mike Warner
 * Diana Greer: working together
+* James Scanlon ~ stairs tracking
+* Otter: watch appm
 
 ***
 
