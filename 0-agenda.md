@@ -10,8 +10,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Alix P:
-* Jonathan T: Halloween
+* 
+
 * Mary: Fountain
 * HH: meeting date
 * Trish J: msg
