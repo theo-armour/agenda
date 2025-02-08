@@ -10,7 +10,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Tania
+* 
+
 * Alix P:
 * Jonathan T: Halloween
 * Mary: Fountain
@@ -46,6 +47,7 @@ Soon
 
 Whenever
 
+* .
 * 
 
 * Bancroft: documentalist
