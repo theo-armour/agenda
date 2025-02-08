@@ -19,6 +19,10 @@
 * Mia: health + ireland emails
 * Leonore: Message
 * ace-it: ICE
+* Kay Tim: Turntable
+* TomK: Stucky Library
+* Donna: Janet Crane contacts ~ talkers
+* NV: Linda Galliher: accept LinkedI
 * 
 
 Soon
@@ -29,8 +33,6 @@ Soon
 * ** Renew passport ~ taxes&nbsp;
 * Fiscal Minutes
 * SF Planning
-* Kay Tim: Turntable + concierge
-* TomK: Stucky Library
 * Karen McNeil
 * PLE: Ronan ~ calendar
 * PeterO:&nbsp;
@@ -46,8 +48,8 @@ Soon
 Whenever
 
 * Bancroft: documentalist
-* Donna: Janet Crane contacts ~ talkers
-* NV: Linda Galliher: accept LinkedIn
+* 
+
 * David Morgan: camera + NUC + monitors
 * Tom King's SFLP scans
 * Praveen: Remote Dir Activities
