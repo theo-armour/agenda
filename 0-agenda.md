@@ -16,9 +16,6 @@
 * Leonore: Message
 * ace-it: ICE
 * Kay Tim: Turntable
-* TomK: Stucky Library
-* 
-
 * 
 
 Soon
