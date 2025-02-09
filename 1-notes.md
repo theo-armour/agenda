@@ -4,9 +4,9 @@
 
 * +++
 
-How how can you love it if you don't know it okay&nbsp;
+How can you love it if you don't know it?
 415 987 8034
-The the best way to go to sleep is to have a clear conscience&nbsp;
+The thbest way to go to sleep is to have a clear conscience&nbsp;
 
 Nob Hill gazette
 
@@ -18,7 +18,7 @@ SPS
 * Help us to be:
 * unselfish in friendship,
 * thoughtful of those less happy than ourselves,
-* and eager to bear the burdens of others;
+* and eager to bear the burdens of others,
 * through Jesus Christ our Savior. Amen.
 
 Heritage on the Marina
