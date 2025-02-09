@@ -10,10 +10,6 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
-* 
-
 * HH: meeting date
 * Trish J: msg
 * Mia: health + ireland emails
@@ -21,8 +17,8 @@
 * ace-it: ICE
 * Kay Tim: Turntable
 * TomK: Stucky Library
-* Donna: Janet Crane contacts ~ talkers
-* NV: Linda Galliher: accept LinkedI
+* 
+
 * 
 
 Soon
