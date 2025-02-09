@@ -6,7 +6,7 @@
 
 How can you love it if you don't know it?
 415 987 8034
-The thbest way to go to sleep is to have a clear conscience&nbsp;
+The best way to go to sleep is to have a clear conscience&nbsp;
 
 Nob Hill gazette
 
