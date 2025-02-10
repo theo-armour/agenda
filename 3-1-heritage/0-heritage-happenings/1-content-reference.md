@@ -26,6 +26,31 @@
 * Aging Mastery Program by the National Council on Aging
 * https://www.ncoa.org/article/aging-mastery-program-core-curriculum/
 
+
+1. January ~ Exercise (Mental & Physical)
+2. February ~ Sleep
+3. March ~ Eating Well & Hydration
+4. Healthy Relationships (with Yourself & Others)
+5. Socializing
+6. Hobbies, Passions, Inspiration
+7. Financial Fitness
+8. Advanced Planning
+9. Fall Prevention
+10. Medication Management
+11. Community Engagement
+12. Your Legacy
+
+
+## Around the World 2025
+
+* January ~ Egypt
+* February ~ China
+* March ~ Ireland
+* April ~ Hawaii
+* May ~ Mexico
+
+
+
 ## Around the World 2024
 
 * January-Italy
@@ -74,7 +99,7 @@
 * Country: Italy
 * New Year's Day
 * Martin Luther King Day
-* Chinese New Year 
+* Chinese New Year
 
 ### February
 
