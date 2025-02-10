@@ -13,7 +13,8 @@
 * Superbowl??
 * HH: meeting date
 * Trish J: msg
-* Mia: health + ireland emails
+* 
+
 * ace-it: ICE
 * Kay Tim: Turntable
 * Kyle: bday
