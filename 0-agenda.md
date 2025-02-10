@@ -10,11 +10,9 @@
 <!-- this is a comment -->
 ## Today
 
-* Superbowl??
 * HH: meeting date
 * Trish J: msg
-* 
-
+* Kyle: bday
 * ace-it: ICE
 * Kay Tim: Turntable
 * 
