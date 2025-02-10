@@ -10,16 +10,17 @@
 <!-- this is a comment -->
 ## Today
 
+* Superbowl??
 * HH: meeting date
 * Trish J: msg
 * Mia: health + ireland emails
-* Leonore: Message
 * ace-it: ICE
 * Kay Tim: Turntable
 * Kyle: bday
 
 Soon
 
+* **Trade in phone**
 * Mary: Fountain
 * IA: storage photos
 * Dr Lea: Appointment
@@ -44,6 +45,7 @@ Whenever
 * 
 
 * David Morgan: camera + NUC + monitors
+
 * Tom King's SFLP scans
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
