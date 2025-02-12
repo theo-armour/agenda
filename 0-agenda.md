@@ -13,10 +13,8 @@
 * HH: meeting date
 * Laura: Donna
 * Gukhui
-* 
-
+* Praveen: Leonor
 * Sacsem ~ Friday + web + Marty
-* Leonor
 * Carolyn P&amp;T
 * Daniella: Bob
 * Trish J: msg
