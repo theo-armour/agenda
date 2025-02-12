@@ -11,6 +11,12 @@
 ## Today
 
 * HH: meeting date
+* Laura: Donna
+* Gukhui
+* Praveen: Leonor
+* Sacsem ~ Friday + web + Marty
+* Carolyn P&amp;T
+* Daniella: Bob
 * Trish J: msg
 * Kyle: bday
 * ace-it: ICE
