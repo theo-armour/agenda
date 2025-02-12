@@ -11,11 +11,13 @@
 ## Today
 
 * HH: meeting date
+* Leaders: Agendas out
+* Laura: Donna
 * Plaque
 * Sacsem ~ Friday + web + Marty
 * Leonor
-* 
-
+* Carolyn P&amp;T
+* Daniella: Bob
 * Trish J: msg
 * Kyle: bday
 * ace-it: ICE
