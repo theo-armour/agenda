@@ -12,7 +12,10 @@
 
 * HH: meeting date
 * Plaque
-* Sacsem ~ Friday + web
+* Sacsem ~ Friday + web + Marty
+* Leonor
+* 
+
 * Trish J: msg
 * Kyle: bday
 * ace-it: ICE
