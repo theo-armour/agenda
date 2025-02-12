@@ -19,8 +19,6 @@
 
 Soon
 
-* 
-
 * Mary: Fountain
 * IA: storage photos
 * Dr Lea: Appointment
