@@ -1,7 +1,11 @@
 # Leonor Perez
 
+
 To Whom it May Concern,
 
+RE: Leonor Perez
+
+Leonor Perez has been my apartment cleaner ever since I moved to Heritage on the Marina in August 2020. I am writing to recommend her for any position she may seek. Leonor is a dedicated and hardworking individual. She has also become a friend od mine. I have observed her work ethic and interpersonal skills, and I am confident that she will be an asset to any organization. I have outlined some of her key qualities below.
 
 
 ## Reliability and Punctuality
@@ -26,9 +30,11 @@ Working in a retirement community involves interacting with elderly residents wh
 
 ## Friendly Communication and Interpersonal Skills
 
-Leonor able to listen, respond appropriately, and resolve any issues that arise. She contributes to a harmonious working environment and resident satisfaction.
+Leonor is able to listen, respond appropriately, and resolve any issues that arise. She contributes to a harmonious working environment and resident satisfaction.
 
 Leonor performs her duties effectively and contributes positively to the community's overall well-being.
+
+***
 
 Leonor is a valuable asset at Heritage on the Marina, and I highly recommend her for any position she may seek.
 
