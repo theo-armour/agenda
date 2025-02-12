@@ -11,10 +11,10 @@
 ## Today
 
 * HH: meeting date
+* Laura: Donna
+* Gukhui
 * 
 
-* Laura: Donna
-* Plaque
 * Sacsem ~ Friday + web + Marty
 * Leonor
 * Carolyn P&amp;T
