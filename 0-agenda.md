@@ -10,11 +10,10 @@
 <!-- this is a comment -->
 ## Today
 
+* Hres: msg on irl
 * HH: meeting date
 * Gukhui
 * Carolyn P&amp;T
-* 
-
 * Trish J: msg
 * Kyle: bday
 * ace-it: ICE
@@ -44,7 +43,8 @@ Soon
 Whenever
 
 * Bancroft: documentalist
-* 
+* List of San Franciscofor newbs
+* List of one-handed things
 * David Morgan: camera + NUC + monitors
 * Tom King's SFLP scans
 * Praveen: Remote Dir Activities
