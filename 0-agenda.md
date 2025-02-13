@@ -13,7 +13,8 @@
 * HH: meeting date
 * Laura: Donna
 * Gukhui
-* Sacsem ~ Friday + web + Marty
+* 
+
 * Carolyn P&amp;T
 * Daniella: Bob
 * Trish J: msg
