@@ -3,7 +3,7 @@
 <a href="https://theo-armour.github.io/agenda/code/2025-01-11/#README.md">https://theo-armour.github.io/agenda/code/2025-01-11</a>
 
 * +++
-* Sheila California the lady is Minerva&nbsp;
+* Seal of California the lady is Minerva&nbsp;
 * 
 
 How can you love it if you don't know it?
