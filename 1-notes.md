@@ -3,15 +3,19 @@
 <a href="https://theo-armour.github.io/agenda/code/2025-01-11/#README.md">https://theo-armour.github.io/agenda/code/2025-01-11</a>
 
 * +++
+* Seal of California the lady is Minerva&nbsp;
+* 
 
 How can you love it if you don't know it?
+
 415 987 8034
+
 The best way to go to sleep is to have a clear conscience&nbsp;
-
 Nob Hill gazette
-
 Karl Happ the happiest day of my life was the day I bought my boat, the second happiest day was the day I sold my boat yeah&nbsp;
+
 Lagcadio hearn Japan
+
 SPS
 
 * Grant, O Lord, that in all the joys of life
