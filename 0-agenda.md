@@ -13,15 +13,13 @@
 * HH: meeting date
 * Laura: Donna
 * Gukhui
-* 
-
 * Carolyn P&amp;T
 * Daniella: Bob
 * Trish J: msg
 * Kyle: bday
 * ace-it: ICE
 * Kay Tim: Turntable
-* Praveen: Leonor letter
+* 
 
 Soon
 
