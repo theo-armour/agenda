@@ -11,8 +11,6 @@
 ## Today
 
 * HH: meeting date
-* 
-
 * Gukhui
 * Carolyn P&amp;T
 * Daniella: Bob
