@@ -10,14 +10,16 @@
 <!-- this is a comment -->
 ## Today
 
+* Three women dressed as flapers
+* Hres: msg on irl
 * HH: meeting date
 * Gukhui
 * Carolyn P&amp;T
-* Daniella: Bob
 * Trish J: msg
 * Kyle: bday
 * ace-it: ICE
 * Kay Tim: Turntable
+* SacSem: Card authorization
 * 
 
 Soon
@@ -43,10 +45,9 @@ Soon
 Whenever
 
 * Bancroft: documentalist
-* 
-
+* List of San Franciscofor newbs
+* List of one-handed things
 * David Morgan: camera + NUC + monitors
-
 * Tom King's SFLP scans
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
