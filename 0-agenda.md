@@ -27,6 +27,10 @@ Weekend
 * Trish J: msg
 * Kyle: bday
 * Gukhui
+* David Morgan: camera + NUC + monitors
+* PLE: Ronan ~ calendar
+* Omar
+* PeterO:&nbsp;
 
 Soon
 
@@ -37,8 +41,7 @@ Soon
 * Fiscal Minutes
 * SF Planning
 * Karen McNeil
-* PLE: Ronan ~ calendar
-* PeterO:&nbsp;
+
 * Woody: references
 * George Smart
 * Jason Carman
@@ -52,8 +55,8 @@ Whenever
 
 * Bancroft: documentalist
 * List of San Francisco for newbs
-* List of one-handed things
-* David Morgan: camera + NUC + monitors
+* List of one-handed things for Til
+
 * Tom King's SFLP scans
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
@@ -61,7 +64,6 @@ Whenever
 * NV: Margaret Jacobs
 * NV: Le'mere
 * Genualdi
-* Omar
 * Ronan
 * Tiller
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
@@ -69,7 +71,7 @@ Whenever
 * Mike Warner
 * Diana Greer: working together
 * James Scanlon ~ stairs tracking
-* Otter: watch appm
+* Otter: watch app
 
 ***
 
