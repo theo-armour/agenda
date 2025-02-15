@@ -20,7 +20,8 @@
 
 Weekend
 * Tania ~ no answer
-* Gukhui
+* 
+
 * Pack TV
 * Switch CPUs
 * Pack small monitor
