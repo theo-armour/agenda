@@ -11,8 +11,7 @@
 ## Today
 
 * Three women dressed as flappers
-* 
-
+* Laundry
 * HH: meeting date
 * Gukhui
 * Carolyn P&amp;T
