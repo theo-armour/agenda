@@ -11,7 +11,8 @@
 ## Today
 
 * Three women dressed as flappers
-* Hres: msg on irl
+* 
+
 * HH: meeting date
 * Gukhui
 * Carolyn P&amp;T
