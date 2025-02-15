@@ -20,8 +20,6 @@
 * Kyle: bday
 * ace-it: ICE
 * Kay Tim: Turntable
-* SacSem: Card authorization
-* 
 
 Soon
 
