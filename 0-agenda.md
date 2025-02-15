@@ -19,18 +19,24 @@
 * Kay Tim: Turntable
 
 Weekend
-* Laundry
 * Tania
 * Margaret Johnson
+* Gukhui
+* Pack TV
+* Switch CPUs
+* Pack small monitor
+
+* Laundry
 * ** Renew passport ~ taxes&nbsp;
 * ace-it: ICE
 * Trish J: msg
 * Kyle: bday
-* Gukhui
 * David Morgan: camera + NUC + monitors
 * PLE: Ronan ~ calendar
 * Omar
 * PeterO:&nbsp;
+* Tania: concierge in Durham
+* Taxes
 
 Soon
 
@@ -45,7 +51,7 @@ Soon
 * Woody: references
 * George Smart
 * Jason Carman
-* Tania: concierge in Durham
+
 * Leah
 * Ann Seymour
 * HH: qr codes
@@ -80,13 +86,12 @@ Whenever
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
-* Lamasil
 * Bean shirts
 * Traveling round charger ~ for when? ;-)&nbsp;
 * Pay UCSF
