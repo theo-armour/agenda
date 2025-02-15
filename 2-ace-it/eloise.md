@@ -1,7 +1,14 @@
 # Eloise
 
 * [https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md](https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md)
-* Eloise: Silver: send it? Address?
+
+
+## 2025-02-15
+
+* ICE
+* MS 365 ~ subscriptions
+* John Choate
+* Furniture
 
 ## 2024-12-22
 

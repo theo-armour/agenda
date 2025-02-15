@@ -11,7 +11,7 @@
 ## Today
 
 * Three women dressed as flappers
-* 
+*
 
 * HH: meeting date
 * Gukhui
@@ -44,7 +44,7 @@ Soon
 Whenever
 
 * Bancroft: documentalist
-* List of San Franciscofor newbs
+* List of San Francisco for newbs
 * List of one-handed things
 * David Morgan: camera + NUC + monitors
 * Tom King's SFLP scans

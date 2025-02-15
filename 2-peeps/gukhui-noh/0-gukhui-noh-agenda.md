@@ -1,6 +1,23 @@
 # Gukhui Noh Agenda
 
 
+
+## 2025-02-15
+
+Unsubscribing
+By error I have several Substack logins. The one that is the official me is "@theoarmour". If you see any other of my logins, please ignore them.
+
+Windproof Rudder Subscriptions
+I see you have 453 subscribers! Bravo!
+
+Plans for the Future
+What's cookieing?
+
+Me: First of Several New Articles
+https://en.wikipedia.org/wiki/San_Francisco_Ladies_Protection_and_Relief_Society
+
+WIP
+
 ## 2025-01-26
 
 The recent message I sent you was late night writing with alcohol after a long day.
