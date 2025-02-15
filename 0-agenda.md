@@ -20,7 +20,6 @@
 
 Weekend
 * Tania ~ no answer
-* Margaret Johnson
 * Gukhui
 * Pack TV
 * Switch CPUs
