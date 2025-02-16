@@ -11,26 +11,23 @@
 ## Today
 
 * Three women dressed as flappers
+
 * HH: meeting date
+
 * Carolyn P&amp;T
+
 * Kay Tim: Turntable
 
 Weekend
-
-* Tania ~ no answer
-* Pack TV
 * Switch CPUs
 * Pack small monitor
-* Laundry
 * ** Renew passport ~ taxes&nbsp;
 * ace-it: ICE
 * Trish J: msg
 * Kyle: bday
 * David Morgan: camera + NUC + monitors
 * PLE: Ronan ~ calendar
-* Omar
 * PeterO:&nbsp;
-* Tania: concierge in Durham
 * Taxes
 
 Soon
@@ -38,12 +35,15 @@ Soon
 * Mary: Fountain
 * IA: storage photos
 * Dr Lea: Appointment
+
 * Fiscal Minutes
 * SF Planning
 * Karen McNeil
+
 * Woody: references
 * George Smart
 * Jason Carman
+
 * Leah
 * Ann Seymour
 * HH: qr codes
@@ -52,8 +52,10 @@ Soon
 Whenever
 
 * Bancroft: documentalist
+* Tania: concierge in Durham
 * List of San Francisco for newbs
 * List of one-handed things for Til
+
 * Tom King's SFLP scans
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
@@ -86,7 +88,7 @@ Whenever
 * Bean shirts
 * Traveling round charger ~ for when? ;-)&nbsp;
 * Pay UCSF
-*
+* 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/mia/0-mia-agenda.md&quot;">mia agenda</a>
 
