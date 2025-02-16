@@ -19,12 +19,11 @@
 * Kay Tim: Turntable
 
 Weekend
-* Tania ~ no answer
-* Pack TV
 * Switch CPUs
 * Pack small monitor
 
-* Laundry
+* 
+
 * ** Renew passport ~ taxes&nbsp;
 * ace-it: ICE
 * Trish J: msg
@@ -33,7 +32,8 @@ Weekend
 * PLE: Ronan ~ calendar
 * Omar
 * PeterO:&nbsp;
-* Tania: concierge in Durham
+* 
+
 * Taxes
 
 Soon
@@ -58,6 +58,7 @@ Soon
 Whenever
 
 * Bancroft: documentalist
+* Tania: concierge in Durham
 * List of San Francisco for newbs
 * List of one-handed things for Til
 
