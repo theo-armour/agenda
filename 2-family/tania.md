@@ -1,6 +1,20 @@
 # Tania
 
 
+## 2025-02-15
+
+patient Advocates durham NC
+
+* https://www.cms.gov/medical-bill-rights/help/guides/patient-advocate
+https://www.everybodyneedsanurse.com/
+* https://www.solace.health/
+* https://www.patientadvocate.org/
+https://gnanow.org/advocates/cheryl-scharoun.html
+* https://www.linkedin.com/in/jeff-goll-0b757627/
+* https://carolinaadvocacygroup.com/resources/patient-advocacy/
+* https://carolinaadvocacygroup.com/resources/patient-advocacy/
+* https://www.zoominfo.com/p/Vickie-Beard/2054927183
+
 ## 2022-08-23
 
 * Knee issues
