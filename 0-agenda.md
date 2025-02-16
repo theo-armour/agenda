@@ -29,11 +29,7 @@ Weekend
 * Kyle: bday
 * David Morgan: camera + NUC + monitors
 * PLE: Ronan ~ calendar
-* 
-
 * PeterO:&nbsp;
-* 
-
 * Taxes
 
 Soon
