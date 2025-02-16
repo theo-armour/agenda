@@ -21,7 +21,6 @@
 Weekend
 * Switch CPUs
 * Pack small monitor
-
 * 
 
 * ** Renew passport ~ taxes&nbsp;
@@ -30,7 +29,8 @@ Weekend
 * Kyle: bday
 * David Morgan: camera + NUC + monitors
 * PLE: Ronan ~ calendar
-* Omar
+* 
+
 * PeterO:&nbsp;
 * 
 
