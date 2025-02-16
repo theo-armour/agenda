@@ -21,8 +21,6 @@
 Weekend
 * Switch CPUs
 * Pack small monitor
-* 
-
 * ** Renew passport ~ taxes&nbsp;
 * ace-it: ICE
 * Trish J: msg
