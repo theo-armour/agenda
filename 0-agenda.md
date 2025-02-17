@@ -50,7 +50,7 @@ Whenever
 * Bancroft: documentalist
 * Tania: concierge in Durham
 * List of San Francisco for newbs
-* List of one-handed things for Til
+* List of one-handed things for T
 * Tom King's SFLP scans
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
