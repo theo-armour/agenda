@@ -3,7 +3,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2025-01-06: There's no sense in being precise when you don't even know what you're talking about. -- John von Neumann
+* 2025-01-06:&nbsp;There's no sense in being precise when you don't even know what you're talking about. -- John von Neumann
 * 2025-01-27 constraints drive innovation
 * 2025-02-01 ~ me: the past is just as unpredictable as the future
 
@@ -16,15 +16,21 @@
 * Kay Tim: Turntable
 
 Weekend
+
+* Tania ~ no answer
+* Pack TV
 * Switch CPUs
 * Pack small monitor
+* Laundry
 * ** Renew passport ~ taxes&nbsp;
 * ace-it: ICE
 * Trish J: msg
 * Kyle: bday
 * David Morgan: camera + NUC + monitors
 * PLE: Ronan ~ calendar
+* Omar
 * PeterO:&nbsp;
+* Tania: concierge in Durham
 * Taxes
 
 Soon
@@ -32,15 +38,12 @@ Soon
 * Mary: Fountain
 * IA: storage photos
 * Dr Lea: Appointment
-
 * Fiscal Minutes
 * SF Planning
 * Karen McNeil
-
 * Woody: references
 * George Smart
 * Jason Carman
-
 * Leah
 * Ann Seymour
 * HH: qr codes
@@ -49,10 +52,8 @@ Soon
 Whenever
 
 * Bancroft: documentalist
-* Tania: concierge in Durham
 * List of San Francisco for newbs
 * List of one-handed things for Til
-
 * Tom King's SFLP scans
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
@@ -85,7 +86,7 @@ Whenever
 * Bean shirts
 * Traveling round charger ~ for when? ;-)&nbsp;
 * Pay UCSF
-* 
+*
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/mia/0-mia-agenda.md&quot;">mia agenda</a>
 
