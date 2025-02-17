@@ -3,7 +3,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2025-01-06: There's no sense in being precise when you don't even know what you're talking about. -- John von Neumann
+* 2025-01-06:&nbsp;There's no sense in being precise when you don't even know what you're talking about. -- John von Neumann
 * 2025-01-27 constraints drive innovation
 * 2025-02-01 ~ me: the past is just as unpredictable as the future
 
@@ -17,14 +17,14 @@
 
 Weekend
 
-* 
-
+* NUC: files transfer
+* Supernote: resey
+* Acer: reset + transfer
 * Pack small monitor
 * ** Renew passport ~ taxes&nbsp;
 * ace-it: ICE
 * Trish J: msg
 * Kyle: bday
-* David Morgan: camera + NUC + monitors
 * PLE: Ronan ~ calendar
 * PeterO:&nbsp;
 * Taxes
@@ -80,6 +80,8 @@ Whenever
 
 * ?
 * Bean shirts
+* Techline ~
+
 * Traveling round charger ~ for when? ;-)&nbsp;
 * Pay UCSF
 * 
