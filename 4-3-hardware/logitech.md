@@ -7,7 +7,6 @@ tags #hw #hardware
 * https://www.logitech.com/en-us/products/keyboards/mx-keys-mini.920-010474.html
 * https://hub.sync.logitech.com/mx-keys-mini
 * fn-esc to switch between media and function keys
-
 * https://support.logi.com/hc/en-us/articles/4418699283607-Logi-Options
 
 ### Lessons Learned
@@ -29,9 +28,11 @@ https://www.logitech.com/en-us/software/logi-options-plus.html
 ### Options+ Flow
 
 * No Android
-
+Oh, can you hear me now? Yes you can testing testing 123. Oh boy, we're talking. 
 ## Bolt
 
 * https://www.logitech.com/en-us/products/mice/logi-bolt-usb-receiver.956-000007.html
 
+## Brio
 
+* https://support.logi.com/hc/en-gb/articles/360024329253-Getting-started-BRIO-4K-Pro-Webcam
