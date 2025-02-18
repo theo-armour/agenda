@@ -5,8 +5,9 @@
 * ++
 * 
 
-* 2025-01-27 constraints drive innovation
-* 2025-02-01 ~ me: the past is just as unpredictable as the future
+* 
+
+* 
 
 <!-- this is a comment -->
 ## Today
