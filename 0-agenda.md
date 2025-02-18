@@ -7,19 +7,19 @@
 <!-- this is a comment -->
 ## Today
 
-* 
+* NUC: files transfer
 
 Weekend
 
 * Nick's diner?
-* NUC: files transfer
+
 * Acer: reset + transfer
 * Pack small monitor
 * ** Renew passport ~ taxes&nbsp;
 
 ### Heritage Centenary
 
-* Woody repreint
+* Woody reprint
 * Mary: Fountain
 * Three women dressed as flappers
 * Carolyn P&amp;T
