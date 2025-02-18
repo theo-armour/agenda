@@ -3,35 +3,30 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 
-
-* 
-
-* 
 
 <!-- this is a comment -->
 ## Today
 
 * Three women dressed as flappers
-* HH: meeting date
 * Carolyn P&amp;T
-* Kay Tim: Turntable
+* Supernote: reset
+* HH: agenda + r1 doc&nbsp;
 
 Weekend
 
+* Nick's diner?
 * NUC: files transfer
-* Supernote: rese
+
 * Acer: reset + transfer
 * Pack small monitor
 * ** Renew passport ~ taxes&nbsp;
+
+Soon
+
 * ace-it: ICE
 * Kyle: bday
 * PLE: Ronan ~ calendar
 * PeterO:&nbsp;
-* Taxes
-
-Soon
-
 * Mary: Fountain
 * IA: storage photos
 * Dr Lea: Appointment
@@ -48,7 +43,8 @@ Soon
 
 Whenever
 
-* Bancroft: documentalist
+* Kay Tim: Turntable
+* Avery + Bancroft: documentalist
 * Tania: concierge in Durham
 * List of San Francisco for newbs
 * List of one-handed things for T
