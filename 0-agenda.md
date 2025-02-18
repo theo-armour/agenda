@@ -7,11 +7,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Three women dressed as flappers
-* Carolyn P&amp;T
 * Supernote: reset
 * HH: agenda + r1 doc&nbsp;
-* Hcen: woody repreint
 
 Weekend
 
@@ -22,24 +19,37 @@ Weekend
 * Pack small monitor
 * ** Renew passport ~ taxes&nbsp;
 
+Centenary
+* Hcen: woody repreint
+* Mary: Fountain
+* Three women dressed as flappers
+* Carolyn P&amp;T
+* SF Planning
+* Karen McNeil
+
 Soon
 
 * ace-it: ICE
 * Kyle: bday
 * PLE: Ronan ~ calendar
 * PeterO:&nbsp;
-* Mary: Fountain
+
+Heritage Happenings
+* HH: qr codes
+
+* Martha Nell: Perry
+* 
+
+* 
+
 * IA: storage photos
 * Dr Lea: Appointment
 * Fiscal Minutes
-* SF Planning
-* Karen McNeil
-* Woody: references
-* George Smart
+* George Smart: woody
 * Jason Carman
 * Leah
 * Ann Seymour
-* HH: qr codes
+
 * HHcfo: billing split + eaf + email
 
 Whenever
@@ -52,7 +62,6 @@ Whenever
 * Tom King's SFLP scans
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
-* Martha Nell: Perry
 * NV: Margaret Jacobs
 * NV: Le'mere
 * Genualdi
@@ -254,7 +263,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agrichardenda</a>
