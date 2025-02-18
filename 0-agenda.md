@@ -23,8 +23,6 @@ Weekend
 * Pack small monitor
 * ** Renew passport ~ taxes&nbsp;
 * ace-it: ICE
-* 
-
 * Kyle: bday
 * PLE: Ronan ~ calendar
 * PeterO:&nbsp;
