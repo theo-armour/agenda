@@ -8,7 +8,6 @@
 ## Today
 
 * Supernote: reset
-* HH: agenda + r1 doc&nbsp;
 
 Weekend
 
@@ -19,7 +18,7 @@ Weekend
 * Pack small monitor
 * ** Renew passport ~ taxes&nbsp;
 
-Centenary
+### Heritage Centenary
 * Hcen: woody repreint
 * Mary: Fountain
 * Three women dressed as flappers
@@ -27,20 +26,17 @@ Centenary
 * SF Planning
 * Karen McNeil
 
-Soon
-
-* ace-it: ICE
-* Kyle: bday
-* PLE: Ronan ~ calendar
-* PeterO:&nbsp;
-
 Heritage Happenings
 * HH: qr codes
 
 * Martha Nell: Perry
-* 
+* HH: agenda + r1 doc&nbsp;
 
-* 
+Soon
+* ace-it: ICE
+* Kyle: bday
+* PLE: Ronan ~ calendar
+* PeterO:&nbsp;
 
 * IA: storage photos
 * Dr Lea: Appointment
