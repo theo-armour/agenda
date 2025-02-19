@@ -35,6 +35,7 @@ Heritage Happenings
 
 Soon
 
+* Jack O: tallk at H +Guestroom?
 * ValS: activity in HH, RC + Yvone &amp; Gene
 * ace-it: ICE
 * Kyle: bday
