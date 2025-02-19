@@ -30,7 +30,7 @@ Heritage Happenings
 
 * HH: qr codes
 * Martha Nell: Perry
-* HH: agenda + r1 doc&nbsp;
+* 
 
 Soon
 
