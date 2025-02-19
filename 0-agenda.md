@@ -8,11 +8,14 @@
 ## Today
 
 * NUC: files transfer
+* Pack small monitor
+* Carolyn P&amp;T
+* 
 
 Weekend
 
 * Acer: reset + transfer
-* Pack small monitor
+
 * ** Renew passport ~ taxes&nbsp;
 
 ### Heritage Centenary
@@ -20,7 +23,7 @@ Weekend
 * Woody reprint
 * Mary: Fountain
 * Three women dressed as flappers
-* Carolyn P&amp;T
+
 * SF Planning
 * Karen McNeil
 
