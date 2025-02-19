@@ -2,7 +2,9 @@
 
 ## Agenda
 
-* Martha N:&nbsp;
+* Bob: Scanning space
+* Bob: apt
+* 
 
 More
 
