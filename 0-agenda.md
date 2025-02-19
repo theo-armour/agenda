@@ -3,6 +3,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
+* 2025-02-19: A woman before having a child: How can you love it if you don't know it?
 
 <!-- this is a comment -->
 ## Today
