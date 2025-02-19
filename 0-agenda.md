@@ -11,7 +11,7 @@
 * NUC: files transfer
 * Pack small monitor
 * Carolyn P&amp;T
-* Download stories &amp; photos
+* HH Download stories &amp; photos
 * 
 
 Weekend
@@ -30,7 +30,6 @@ Weekend
 Heritage Happenings
 
 * HH: qr codes
-* 
 
 * 
 
