@@ -11,6 +11,18 @@
 
 ## Agenda
 
+
+## 2025-02-visit
+
+* https://www.moonrakerpacifica.com/
+* https://www.nicksrestaurant.net/
+
+or
+
+Muir Beach
+
+* https://www.pelicaninn.com/eat/
+
 ## 2025-01-26
 
 * Check ms365 family sharing
