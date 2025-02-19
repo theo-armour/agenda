@@ -11,8 +11,6 @@
 
 Weekend
 
-* Nick's diner?
-
 * Acer: reset + transfer
 * Pack small monitor
 * ** Renew passport ~ taxes&nbsp;
