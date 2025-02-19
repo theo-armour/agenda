@@ -29,11 +29,12 @@ Weekend
 Heritage Happenings
 
 * HH: qr codes
-* Martha Nell: Perry
+* Download stories &amp; photos
 * 
 
 Soon
 
+* ValS: activity in HH, RC + Yvone &amp; Gene
 * ace-it: ICE
 * Kyle: bday
 * PLE: Ronan ~ calendar
