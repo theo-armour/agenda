@@ -3,57 +3,59 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2025-01-06:&nbsp;There's no sense in being precise when you don't even know what you're talking about. -- John von Neumann
-* 2025-01-27 constraints drive innovation
-* 2025-02-01 ~ me: the past is just as unpredictable as the future
 
 <!-- this is a comment -->
 ## Today
 
-* Three women dressed as flappers
-* HH: meeting date
-* Carolyn P&amp;T
-* Kay Tim: Turntable
+* NUC: files transfer
 
 Weekend
 
-* NUC: files transfer
-* Supernote: rese
 * Acer: reset + transfer
 * Pack small monitor
 * ** Renew passport ~ taxes&nbsp;
+
+### Heritage Centenary
+
+* Woody reprint
+* Mary: Fountain
+* Three women dressed as flappers
+* Carolyn P&amp;T
+* SF Planning
+* Karen McNeil
+
+Heritage Happenings
+
+* HH: qr codes
+* Download stories &amp; photos
+* 
+
+Soon
+
+* ValS: activity in HH, RC + Yvone &amp; Gene
 * ace-it: ICE
 * Kyle: bday
 * PLE: Ronan ~ calendar
 * PeterO:&nbsp;
-* Taxes
-
-Soon
-
-* Mary: Fountain
 * IA: storage photos
 * Dr Lea: Appointment
 * Fiscal Minutes
-* SF Planning
-* Karen McNeil
-* Woody: references
-* George Smart
+* George Smart: woody
 * Jason Carman
 * Leah
 * Ann Seymour
-* HH: qr codes
 * HHcfo: billing split + eaf + email
 
 Whenever
 
-* Bancroft: documentalist
+* Kay Tim: Turntable
+* Avery + Bancroft: documentalist
 * Tania: concierge in Durham
 * List of San Francisco for newbs
 * List of one-handed things for T
 * Tom King's SFLP scans
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
-* Martha Nell: Perry
 * NV: Margaret Jacobs
 * NV: Le'mere
 * Genualdi
@@ -73,7 +75,7 @@ Whenever
 **Admin**
 
 -->
-<details open="">
+<details>
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
@@ -235,10 +237,10 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agrichardenda</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
 
 * ++
 
@@ -277,7 +279,7 @@ Waiting
 **Projects**
 
 -->
-<details>
+<details open="">
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
