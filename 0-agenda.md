@@ -32,6 +32,7 @@ Heritage Happenings
 
 Soon
 
+* UCSF patient advocate
 * Jack O: tallk at H +Guestroom?
 * ValS: activity in HH, RC + Yvone &amp; Gene
 * ace-it: ICE
