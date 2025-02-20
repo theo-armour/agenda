@@ -8,28 +8,27 @@
 <!-- this is a comment -->
 ## Today
 
-* Pack small monitor
-* Carolyn P&amp;T
+* Pilar LaValley
+* Woody reprint
 * HH Download stories &amp; photos
+* CET: agenda
 * 
 
 Weekend
 
-* 
 * ** Renew passport ~ taxes&nbsp;
 
 ### Heritage Centenary
 
-* Woody reprint
+* 
+
 * Mary: Fountain
 * Three women dressed as flappers
-* SF Planning
 * Karen McNeil
 
 Heritage Happenings
 
 * HH: qr codes
-* 
 
 Soon
 
@@ -69,7 +68,7 @@ Whenever
 * Diana Greer: working together
 * James Scanlon ~ stairs tracking
 * Otter: watch app
-* Adel: SFPL &gt; documentalist + lunch
+* Adele: SFPL &gt; documentalist + lunch
 
 ***
 
