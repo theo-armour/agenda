@@ -3,16 +3,19 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
+* 2025-02-19: A woman before having a child: How can you love it if you don't know it?
 
 <!-- this is a comment -->
 ## Today
 
-* NUC: files transfer
+* Pack small monitor
+* Carolyn P&amp;T
+* HH Download stories &amp; photos
+* 
 
 Weekend
 
-* Acer: reset + transfer
-* Pack small monitor
+* 
 * ** Renew passport ~ taxes&nbsp;
 
 ### Heritage Centenary
@@ -20,18 +23,17 @@ Weekend
 * Woody reprint
 * Mary: Fountain
 * Three women dressed as flappers
-* Carolyn P&amp;T
 * SF Planning
 * Karen McNeil
 
 Heritage Happenings
 
 * HH: qr codes
-* Download stories &amp; photos
 * 
 
 Soon
 
+* Jack O: tallk at H +Guestroom?
 * ValS: activity in HH, RC + Yvone &amp; Gene
 * ace-it: ICE
 * Kyle: bday
@@ -48,7 +50,7 @@ Soon
 
 Whenever
 
-* Kay Tim: Turntable
+* Kay Tim: Turntable ~ advocate-community-appss
 * Avery + Bancroft: documentalist
 * Tania: concierge in Durham
 * List of San Francisco for newbs
@@ -67,6 +69,7 @@ Whenever
 * Diana Greer: working together
 * James Scanlon ~ stairs tracking
 * Otter: watch app
+* Adel: SFPL &gt; documentalist + lunch
 
 ***
 
