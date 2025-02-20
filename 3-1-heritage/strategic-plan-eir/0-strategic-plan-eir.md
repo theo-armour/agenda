@@ -9,7 +9,6 @@
 
 ## Landmark Resolution
 
-
 * Notice of Hearing ~ https://sfplanning.org/sites/default/files/agendas/2024-10/20241016_hpc%20%28ID%201475462%29.pdf
 * https://citypln-m-extnl.sfgov.org/Commissions/HPC/10_16_2024/Commission%20Packet/2024-001869DES.pdf
 * https://sfplanning.org/environmental-review-documents

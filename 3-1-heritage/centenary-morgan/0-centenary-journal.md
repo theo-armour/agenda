@@ -5,6 +5,22 @@
 
 Julia Morgan Building Centenary Celebration
 
+Hi Carolyn
+
+Thank you for securing the landmark designation for the Julia Morgan Building. It's a timely and well-deserved recognition.
+
+I hope you've received your invitation to the Heritage on the Marina event celebrating the Julia Morgan Building Centenary, and noticed that you'll be speaking about the historic landmark designation. ;-)
+
+I’m scheduled to speak right after you on a few of Julia Morgan’s design elements. It would be great to discuss how we can cover our topics with minimal overlap and maximum impact.
+
+Would you be open to meeting here for lunch, or perhaps we could have a Zoom call or phone chat?
+
+Cheers,
+
+Theo
+
+
+
 ## 2025-01-17
 
 Plaque Test
