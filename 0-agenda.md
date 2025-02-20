@@ -8,9 +8,10 @@
 <!-- this is a comment -->
 ## Today
 
-* Pack small monitor
-* Carolyn P&amp;T
+* Pilar LaValley
+* Woody reprint
 * HH Download stories &amp; photos
+* CET: agenda
 * 
 
 Weekend
@@ -20,12 +21,11 @@ Weekend
 
 ### Heritage Centenary
 
-* Woody reprint
+* 
+
 * Mary: Fountain
 * Three women dressed as flappers
-* SF Planning
 * Karen McNeil
-* Pillar&nbsp;
 
 Heritage Happenings
 
