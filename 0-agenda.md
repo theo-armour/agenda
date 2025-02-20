@@ -35,7 +35,7 @@ Weekend
 * HHcfo: billing split + eaf + email
 * Praveen: Remote Dir Activities
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
-* 
+* ??
 
 Soon
 
@@ -53,7 +53,6 @@ Soon
 * Jason Carman
 * Leah
 * Ann Seymour
-* 
 
 Whenever
 
@@ -82,13 +81,12 @@ Whenever
 **Admin**
 
 -->
-<details>
+<details open="">
 <summary>Admin</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
 * Bean shirts
-* Techline 5' ~ USB mouse
 * Traveling round charger ~ for when? ;-)&nbsp;
 * Pay UCSF
 * 
