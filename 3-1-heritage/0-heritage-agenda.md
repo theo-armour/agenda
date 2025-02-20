@@ -2,7 +2,6 @@
 
 ## Agenda
 
-* Bob: Scanning space
 * Bob: apt
 * 
 
