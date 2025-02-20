@@ -50,7 +50,7 @@ Soon
 
 Whenever
 
-* Kay Tim: Turntable
+* Kay Tim: Turntable ~ advocate-community-appss
 * Avery + Bancroft: documentalist
 * Tania: concierge in Durham
 * List of San Francisco for newbs
