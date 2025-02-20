@@ -12,7 +12,6 @@
 
 * HH Download stories &amp; photos
 * CET: agenda
-* 
 
 Weekend
 
@@ -30,7 +29,9 @@ Weekend
 
 ### Heritage Happenings
 
-* HH: qr codes
+* HH: qr codes ~ scan peeps ~ sflp
+
+### Heritage
 
 Soon
 
@@ -57,7 +58,8 @@ Whenever
 * Tania: concierge in Durham
 * List of San Francisco for newbs
 * List of one-handed things for T
-* Tom King's SFLP scans
+* 
+
 * Praveen: Remote Dir Activities
 * NV: use for volunteers
 * NV: Margaret Jacobs
