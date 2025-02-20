@@ -1,5 +1,10 @@
 # Centenary Journal
 
+
+## Hi Carolyn
+
+Julia Morgan Building Centenary Celebration
+
 ## 2025-01-17
 
 Plaque Test
@@ -31,8 +36,6 @@ Theo
 
 ## 2025-01-07
 
-##
-
 Request for Information: Julia Morgan: San Francisco Ladies Protection and Relief Society ~ 1923
 
 info@calhist.org
@@ -54,9 +57,6 @@ Looking at your Julia Morgan Online Exhibit, I see you have nine photos of the b
 We are celebrating the centenary of the building this year. I am wondering if you might have any other documents relating to the project, perhaps correspondence, drawings, or other images that you might be able to share with us.
 
 I am also contacting the Design Archives at UC Berkeley and the California Historical Society to see if they might have any additional information.
-
-
-
 
 
 Hello Design Archives

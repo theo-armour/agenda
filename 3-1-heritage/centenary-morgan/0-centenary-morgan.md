@@ -3,10 +3,12 @@
 
 ## Agenda
 
-* Next meeting 8 January
-* HerCen Melissa: Invite text
-* Adele: SFPL
-* Dec 6: A3 SF
+* Woody
+* Carolyn
+* Historic listing details
+* Planning lady
+
+
 
 ## Party invites
 

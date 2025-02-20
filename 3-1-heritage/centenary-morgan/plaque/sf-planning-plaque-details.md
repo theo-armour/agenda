@@ -6,15 +6,10 @@ S.F. Planning:
 
 Information on the plaque manufacturer:
 
-
-
-South Bay Bronze
-
-Gilbert Hernandez
-
-408.947.0607
-
-gilh4130@gmail.com
+* South Bay Bronze
+* Gilbert Hernandez
+* 408.947.0607
+* gilh4130@gmail.com
 
 We suggest paying for a bronze plaque, as it holds up better over time. The aluminum plaques with bronze colored coating discolors quickly so we do not suggest using that.
 

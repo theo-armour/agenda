@@ -2,10 +2,16 @@
 
 ## Agenda
 
-* JR celebration 1/5 ~ prepare a talk
-* Lunch at Sam's 1/14 at noon
-* Jon obits to website
+* Mission and Vision?
+* My usefulness
+* Perry's vs North Beach Restaurant?
 
+### https://sacsem.net
+
+* Greg Rifken: Bio
+* Jon obits: adding links
+* Links page: past speakers + links of interest
+* More mobile friendly
 
 ## 2025-01-15
 
