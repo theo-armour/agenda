@@ -8,7 +8,8 @@
 <!-- this is a comment -->
 ## Today
 
-* NUC: files transfer
+* 
+
 * Pack small monitor
 * Carolyn P&amp;T
 * HH Download stories &amp; photos
