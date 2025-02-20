@@ -8,8 +8,6 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * Pack small monitor
 * Carolyn P&amp;T
 * HH Download stories &amp; photos
@@ -17,7 +15,8 @@
 
 Weekend
 
-* Acer: reset + transfer
+* 
+
 * ** Renew passport ~ taxes&nbsp;
 
 ### Heritage Centenary
