@@ -16,7 +16,6 @@
 
 Weekend
 
-* 
 * ** Renew passport ~ taxes&nbsp;
 
 ### Heritage Centenary
@@ -30,7 +29,6 @@ Weekend
 Heritage Happenings
 
 * HH: qr codes
-* 
 
 Soon
 
@@ -70,7 +68,7 @@ Whenever
 * Diana Greer: working together
 * James Scanlon ~ stairs tracking
 * Otter: watch app
-* Adel: SFPL &gt; documentalist + lunch
+* Adele: SFPL &gt; documentalist + lunch
 
 ***
 
