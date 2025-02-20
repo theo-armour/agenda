@@ -8,8 +8,7 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
+* Tania + Margaret Johnson
 * HH Download stories &amp; photos
 * CET: agenda
 
@@ -33,6 +32,11 @@ Weekend
 
 ### Heritage
 
+* HHcfo: billing split + eaf + email
+* Praveen: Remote Dir Activities
+* Jon Casey: IT guy ~ Find phone ~ TouchTown
+* 
+
 Soon
 
 * UCSF patient advocate
@@ -49,7 +53,7 @@ Soon
 * Jason Carman
 * Leah
 * Ann Seymour
-* HHcfo: billing split + eaf + email
+* 
 
 Whenever
 
@@ -58,16 +62,12 @@ Whenever
 * Tania: concierge in Durham
 * List of San Francisco for newbs
 * List of one-handed things for T
-* 
-
-* Praveen: Remote Dir Activities
 * NV: use for volunteers
 * NV: Margaret Jacobs
 * NV: Le'mere
 * Genualdi
 * Ronan
 * Tiller
-* Jon Casey: IT guy ~ Find phone ~ TouchTown
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
 * Mike Warner
 * Diana Greer: working together
