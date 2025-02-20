@@ -25,6 +25,7 @@ Weekend
 * Three women dressed as flappers
 * SF Planning
 * Karen McNeil
+* Pillar&nbsp;
 
 Heritage Happenings
 
