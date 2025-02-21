@@ -11,8 +11,10 @@
 * Tania + Margaret Johnson
 * HH Download stories &amp; photos
 * CET: agenda
-* Safeway: wine + nuts
+* 
+
 * Alix: my thoughts
+* NUC: pack up
 
 Weekend
 
