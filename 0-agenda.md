@@ -11,10 +11,8 @@
 * Tania + Margaret Johnson
 * HH Download stories &amp; photos
 * CET: agenda
-* 
-
 * Alix: my thoughts
-* NUC: pack up
+* Accessible walks SF
 
 Weekend
 
