@@ -1,7 +1,40 @@
 # Centenary Journal
 
 
-## Hi Carolyn
+## 2025-02-20 ~ Woody & Kerri
+
+Hello Woody & Kerri
+
+It was a delight meeting up with you both last week. Fingers crossed: many more similar meetups to come.
+
+Thank you for preparing the four page selection from the January SF Heritage News publication.
+
+Our CEO, Mary Linde very much appreciates your effort and would like to make it available as a reprint for our March centenary celebration as well as for distribution in the packet prepared for prospective residents.
+
+Before proceeding with the current document, may ask for it to be even better and more useful?
+
+Some suggestions
+
+Content and Format
+
+* Front page might include a "splash screen"
+* Text something like "Heritage on the Marina, Century Celebration, Julia Morgan Building, 1925-2025"
+* See attached mockup (actual reprint to follow SF Heritage house style) 
+* Would be nice to include link and phone numbers for  both organizations somewhere on the front page, perhaps QR codes as well.
+
+Rights
+
+* The reprint will be available as a PDF file
+* Heritage on the Marina will have the right to republish the document at will
+
+I look forward to you comments and suggestions for a great reprint and a showpiece for the celebration.
+
+
+
+
+
+
+## 2025-02-19
 
 Julia Morgan Building Centenary Celebration
 
