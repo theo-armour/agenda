@@ -12,7 +12,8 @@
 
 * HH Download stories &amp; photos
 * wikipedia:SFLPRS
-* ChatGPT tricks
+* 
+
 * Assemble shelf
 
 Weekend
