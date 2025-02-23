@@ -10,9 +10,8 @@
 
 * Tania + Margaret Johnson
 * HH Download stories &amp; photos
-* 
-
 * Accessible walks SF
+* wikipedia:SFLPRS
 
 Weekend
 
