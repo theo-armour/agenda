@@ -11,10 +11,9 @@
 * 
 
 * HH Download stories &amp; photos
+* wikipedia:SFLPRS
 * 
 
-* wikipedia:SFLPRS
-* Sora flics
 * ChatGPT tricks
 
 Weekend
