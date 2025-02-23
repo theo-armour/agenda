@@ -1,21 +1,17 @@
 # 3.1 Heritage Happenings
 
 * Maria Church Ombundsman: email?
-* HH: future: I build web pages, somebody else turns them into paper&nbsp;
+* HH: future: I build web pages, somebody else turns them into paper ~ starts January 2026
 
 ## Template
 
 <a href="https://onedrive.live.com/personal/5e22d509523afc95/_layouts/15/Doc.aspx?resid=5E22D509523AFC95!s5b6a4833fa8e41c3a8a97e89fb094d04&amp;cid=5e22d509523afc95&amp;migratedtospo=true&amp;app=Word">https://onedrive.live.com/personal/5e22d509523afc95/_layouts/15/Doc.aspx?resid=5E22D509523AFC95!s5b6a4833fa8e41c3a8a97e89fb094d04&amp;cid=5e22d509523afc95&amp;migratedtospo=true&amp;app=Word</a>
-
 ## Heritage Happenings Submissions Guidelines
 
-
 Link: <a href="https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q">https://1drv.ms/w/s!ArJ-RZ9B4UhDsJUYvnH9pEv7t3oouQ?e=Hhwl5q</a>
-
 ## Heritage Happenings Reference Manual &amp; Style Guide
 
 Link: <a href="https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc">https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc</a>
-
 ## Subscriptions
 
 * ?
@@ -30,8 +26,6 @@ Link: <a href="https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc">http
 * Testing of prints
 
 ## Calendar
-
-
 
 ## Other Publications
 
@@ -49,7 +43,6 @@ Link: <a href="https://1drv.ms/w/s!ArJ-RZ9B4UhDroAVZCC7-FKqT9eyqw?e=ebjwZc">http
 ### Residents Manual
 
 * Theo dreaming about this
-
 
 ## Residents Directory
 
