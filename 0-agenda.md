@@ -8,12 +8,8 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * HH Download stories &amp; photos
 * wikipedia:SFLPRS
-* 
-
 * Assemble shelf
 
 Weekend
