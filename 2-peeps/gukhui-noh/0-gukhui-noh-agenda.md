@@ -1,6 +1,29 @@
 # Gukhui Noh Agenda
 
 
+## 2025-02-23
+
+I'm sure that what I an going to say is nor something you wan to hear. 
+
+You must learn to speak English in a way that is a beautiful as the way you write English.
+
+This is particularly important if you plan to be in places where English is frequently a second language.
+
+If Eliza Doolittle can do it, so can you!
+
+***
+
+I understand that what I'm about to say might not be what you want to hear, but it's important: 
+strive to speak English as beautifully as you write it. 
+
+This is especially crucial if you plan to be in places where English is often a second language. 
+
+Remember, if Eliza Doolittle can do it, so can you!
+
+* https://lessaccent.com/
+* https://accentadvisor.com/
+* https://www.vocalimage.app/en/tests/4-accent/
+
 
 ## 2025-02-15
 
