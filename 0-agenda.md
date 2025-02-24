@@ -10,7 +10,6 @@
 
 * HH Download stories &amp; photos
 * wikipedia:SFLPRS
-* 
 
 Weekend
 
