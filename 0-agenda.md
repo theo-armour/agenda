@@ -28,6 +28,7 @@ Weekend
 ### Heritage Happenings
 
 * HH: Page for committee book
+* HH: meeting dates for the year
 
 ### Heritage
 
