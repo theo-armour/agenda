@@ -37,8 +37,6 @@ Weekend
 Soon
 
 * UCSF patient advocate
-* 
-
 * Jack O: talk at H + Guestroom?
 * ValS: activity in HH, RC + Yvone &amp; Gene
 * ace-it: ICE
