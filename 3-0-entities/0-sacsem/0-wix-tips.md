@@ -4,11 +4,9 @@
 
 * spotswood@comcast.net
 * https://Sacsem.net ~ pw: California
-* https://manage.wix.com/dashboard/b2537da6-a144-4436-bf40-8f3b36dcd723/home
-
+* [https://manage.wix.com/dashboard/b2537da6-a144-4436-bf40-8f3b36dcd723/home]()
 
 Wix dashboard > blog > posts > click "Create New Post" (at top right)
-
 
 ## Add Link
 
@@ -16,6 +14,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday. February 28 at North Beach Restaurant: Sacramento Seminar Roundtable
 * Friday, February 14 at North Beach Restaurant: Jack Ohman, Pulitzer Award winning cartoonist
 * Friday, February 7 at Perry's on Union: Anna Luisa Vallejo Barba, Consul General of Mexico
 * Friday, January 31 at Perry's on Union: Sacramento Seminar Roundtable
