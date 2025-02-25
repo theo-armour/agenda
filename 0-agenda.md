@@ -10,7 +10,6 @@
 
 * HH Download stories &amp; photos
 * wikipedia:SFLPRS
-* Assemble shelf
 
 Weekend
 
@@ -32,6 +31,7 @@ Weekend
 * HHcfo: billing split + eaf + email
 * Praveen: Remote Dir Activities
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
+* Dining: Granola
 * ??
 
 Soon
