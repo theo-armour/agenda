@@ -9,6 +9,7 @@
 ## Today
 
 * HH Download stories &amp; photos
+* Patti: text
 * Pam Tudor
 * Corwin
 * Lolo: address
