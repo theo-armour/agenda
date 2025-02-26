@@ -11,6 +11,7 @@
 * Country: Ireland
 * Health: diet
 * Laura Burges
+* Job Opening: Scanner Operator
 
 ## Editorial
 
@@ -36,7 +37,7 @@ Hex triplet #169B62 #FFFFFF #FF883E
 * Martha Nell: Praveen
 * Martha Nell: Library Corner
 * Patrick: fathet
-* Sheila: 
+* Sheila:
 * Trish: ??
 * Tucker: James Joyce
 * Theo: Front page
