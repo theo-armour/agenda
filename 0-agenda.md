@@ -8,8 +8,6 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * Patti: text
 * Pam Tudor
 * Corwin
