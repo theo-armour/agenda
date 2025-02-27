@@ -3,7 +3,7 @@
 <a href="https://theo-armour.github.io/agenda/code/2025-01-11/#README.md">https://theo-armour.github.io/agenda/code/2025-01-11</a>
 
 * +++
-
+* 619 m 1442 f
 * Searching for sugar Man the best movie ever made
 * Nancy T: Seal of California the lady is Minerva&nbsp;
 * One of our elders responded to the question are you having guests for dinner The server asked Bob responded: if that's what we're serving that's what I'll have; 
