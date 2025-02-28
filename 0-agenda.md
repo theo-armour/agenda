@@ -5,6 +5,7 @@
 * ++
 * 2025-02-27:&nbsp;I have yet to meet a person who has had&nbsp;as interesting a life as I have had.&nbsp;Perhaps this is because I've had so many failures.&nbsp;These ask that you start doing something new and different and interesting&nbsp;to you.&nbsp;Perhaps it's been interesting only because I made it interesting.&nbsp;And maybe it's only interesting to me, but that seems to be enough for me.
 * 2025-02-19: A woman before having a child: How can you love it if you don't know it?
+* 2025-02-28: A perfectionist that meets deadlines ~ welcome to inner turmoil
 
 <!-- this is a comment -->
 ## Today
@@ -44,6 +45,7 @@ Weekend
 
 Soon
 
+* John Choate
 * Kathy Paver: follow up
 * NV Myra: answer questions,
 * UCSF patient advocate
