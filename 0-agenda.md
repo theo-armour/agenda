@@ -43,7 +43,7 @@ Weekend
 Soon
 
 * Kathy Paver: follow up
-* Myra: answer questions,
+* NV Myra: answer questions,
 * UCSF patient advocate
 * Jack O: talk at H + Guestroom?
 * ValS: activity in HH, RC + Yvonne &amp; Gene
