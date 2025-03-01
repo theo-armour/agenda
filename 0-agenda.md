@@ -11,12 +11,10 @@
 ## Today
 
 * Very busy month coining up: taxes ~ centenary ~ hh
-* 
-
 * Pam Tudor
 * Corwin
 * Lolo: address
-* wikipedia:SFLPRS
+* Gerge: beads
 
 Weekend
 
