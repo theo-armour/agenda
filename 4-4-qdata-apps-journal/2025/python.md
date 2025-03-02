@@ -14,6 +14,7 @@ Require the user to input a password on first use and retain the password locall
 https://www.perplexity.ai/search/create-a-python-script-that-re-5vqfddQ4SfiG2E573cebuA
 
 ## Perplexity
+
 import pandas as pd
 import smtplib
 from email.mime.text import MIMEText
