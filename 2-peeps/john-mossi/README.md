@@ -1,5 +1,17 @@
 # JM Read Me
 
+## Jesuit Links
+
+* https://ds.bc.edu/jesuit-online-bibliography/
+* https://jesuitonlinenecrology.bc.edu/pages/praxis
+* https://jesuitica.be/
+
+## Online vision
+
+* Jesuit priests have simple, free, effective ways of preserving their thoughts
+* The thoughts of ordinary people in daily ministry is as important to preserve as the thoughts of the geniuses and the fools
+
+
 ## Class of '52 Homily
 
 * Remember the path
@@ -7,7 +19,7 @@
 * Now steer the course
 
 
-## 3rd Sunday January 22
+## 3rd Sunday January 2022
 
 Summary with a contemporary spin
 
