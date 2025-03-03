@@ -7,15 +7,18 @@
 ## Agenda
 
 * ?
+* Securest place for files
+* PC manager
+* Fin Win Utils
 * Upgrade to bc5  
-* https://markdown-it.github.io/ could be better than showdown ~ let's explore it  
-* [https://meco.app/?utm\_campaign=39ye](https://meco.app/?utm_campaign=39ye)
+* <a href="https://markdown-it.github.io/">https://markdown-it.github.io/</a> could be better than showdown ~&nbsp;let's explore it  
+* <a href="https://meco.app/?utm_campaign=39ye">https://meco.app/?utm_campaign=39ye</a>
 * Want: instant dictation
 * TL;DV?
 * Want
 * Where to archive photos ~ AI ~ Floris
 * Fastmail?
-* [https://sunshine.com/contacts/](https://sunshine.com/contacts/)
+* <a href="https://sunshine.com/contacts/">https://sunshine.com/contacts/</a>
 * Look into AI coach
 * Heritage: calendar
 * Birthdays: in both my calendars
