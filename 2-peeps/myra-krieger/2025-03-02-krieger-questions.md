@@ -237,22 +237,29 @@ My marriage was a bust, though we are very good friends
 
 ### If there was another career that you might have chosen – what was it?  Why?
 
-
+Perhaps having fewer careers might have been interesting  
 
 ## 13. Do you do any volunteerism? If so, please describe.  
 
-Much and many
+Much and many, latest one:
 
 ### Heritage on the Marina
 
 * Edit and publish the 20 page monthly newsletter
 * Edit and publish the Resident Directory
 * Create content for the centenary celebration
-* Create an update the Wikipedia entries
+* Create and update the Wikipedia entries
+  * https://en.wikipedia.org/wiki/San_Francisco_Ladies_Protection_and_Relief_Society
+  * https://en.wikipedia.org/wiki/Julia_Morgan_Building
+* Resident techie
+* Helping Residents Council
+* https://heritage-happenings.github.io/
 
 ### Any political activism?
 
-SacSem and Next Village see also #15
+see also #15 SacSem and Next Village
+
+Stuff with schools I went to
 
 ## 14. Do you have any thoughts on elderhood?  Seniors?  Growing Older?  What are they?
 
