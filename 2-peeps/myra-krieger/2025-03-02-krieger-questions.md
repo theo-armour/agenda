@@ -39,12 +39,12 @@ Yes
 * Tania, sister, 1942
 * Bee Hovey, stepbrother, 1942
 * Tommy Hovey, stepbrother, 1944
-* Abby
+* Abby Paine, stepsister, 1945
 * Me
-* Alix Paine
-* Nancy Hovey
-* Allison
-* Courtney
+* Alix Paine, stepsister, 1947
+* Nancy Hovey, stepsister, 1950
+* Allison Armour, sister, 1951
+* Courtney Koudachev Armour, half sister, 1954
 
 ## 4. What was the occupation of your father? 
 
