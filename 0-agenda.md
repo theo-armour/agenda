@@ -12,7 +12,8 @@
 ## Today
 
 * Very busy month coining up: taxes ~ centenary ~ hh
-* Alix P
+* 
+
 * Margaret: Calendar
 * Pam Tudor
 * Corwin
