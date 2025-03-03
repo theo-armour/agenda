@@ -5,6 +5,7 @@
 ## Agenda
 
 * ?
+* Security: set up ms vault all devices
 * Josh: stocks to children?
 
 Waiting
