@@ -1,4 +1,4 @@
-# 2025-03-02 Krieger Questions
+# 2025-03-02 Myra Krieger Questions
 
 ## 1. What is your date of birth?
 
@@ -116,6 +116,8 @@ My stepmother told me to.
 
 ### Extracurricular activities?  
 
+Not really
+
 ### Any foreign language?  
 
 * French
@@ -147,7 +149,7 @@ All of them because none of them were any fun
 ### Wide or slim circle of friends?  
 
 * One friend from ages about nine to twelve
-* A few friends while in bosarding school
+* A few friends while in boarding school
 * Quite a few friends in my PG year after high school
 
 ### Any particular achievements… awards, recognitions etc.  
@@ -208,13 +210,13 @@ _A series of failures may culminate in the best possible result._
 
 ### Your setbacks?  
 
-I have been involved in at least 20 different startup failures or near failures. 
+I have been involved in at least 20 different startup that were failures or near failures
 
 My marriage was a bust, though we are very good friends 
 
 ### Extreme challenges?
 
-* Living life is a partial paraplegic and amputee
+* Living life as a partial paraplegic and amputee
 * Growing up taking so long 
 
 ## 11. Do you have a general philosophy or “wise words” that you try to live by?
@@ -227,10 +229,11 @@ My marriage was a bust, though we are very good friends
 * Selling Encyclopedia's door to door
 * Stocking shelves at Sears and Roebuck 
 * Working at a rubber factory
-* Architectural draftsman. 
+* Architectural draftsman
 * Computer dealer
 * Teaching Computer Aided Design
 * Computer demo jock
+* Father and husband
 
 ### If there was another career that you might have chosen – what was it?  Why?
 
@@ -263,9 +266,12 @@ SacSem and Next Village see also #15
 
 ### Vocations? 
 
+* Helping to change the world 
+* Giving parties
+
 ### Hobbies? 
 
-* Conserving nature.Conserving nature. And smelling the roses
+* Observing nature. Conserving nature. And smelling the roses
 * Flying drones
 * Photography
 * Using AI to create videos for the art gallery
