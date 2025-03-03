@@ -4,7 +4,8 @@
 
 * ++
 * 2025-03-02:&nbsp;prefer positioning over predicting ~&nbsp;Positioning &gt; Prediction
-* 2025-02-28: A perfectionist that meets deadlines ~ welcome to inner turmoil
+* 
+
 * 
 
 * 
@@ -38,6 +39,7 @@ Weekend
 
 ### Heritage Happenings
 
+* HH: Tom to look at style guide and charter
 * HH: Page for committee book
 * HH: meeting dates for the year
 
