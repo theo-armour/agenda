@@ -48,7 +48,8 @@ Soon
 
 * John Choate
 * Kathy Paver: follow up
-* NV Myra: answer questions,
+* 
+
 * UCSF patient advocate
 * Jack O: talk at H + Guestroom?
 * ValS: activity in HH, RC + Yvonne &amp; Gene
