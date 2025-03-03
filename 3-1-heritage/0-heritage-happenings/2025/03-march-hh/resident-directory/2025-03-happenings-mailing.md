@@ -11,7 +11,7 @@
 
 <p><i>Heritage Happenings</i> Calendar is edited and maintained by Margaret Jacobs. Click on the website link below to open your digital copy of:
 <br>
-<a href="" ><i>Heritage Happenings</i> February Calendar</a></p>
+<a href="Can't enjoyed the show without a program!" ><i>Heritage Happenings</i> March Calendar</a></p>
 
 <p>The Resident Directory has also been updated this month. Please check that your contact information is correct.
 <br>
