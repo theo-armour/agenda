@@ -1,8 +1,11 @@
 # 0-2024-taxes-agenda
 
+## Agenda
+
+* HRB: appointment
+* List of files to download
 * Add link to IRS and FTB 1040-ES forms!!
-* Check January 15th 2025 FTB payment
-* 11,600 per month
+* 
 
 ## IRS
 
@@ -27,3 +30,9 @@ Payments
 * FTB ~ 2024 estimated Taxes #1 ~ 2024-04-15: $4,149 ~ 4,000 paid 2024-04-24
 * FTB ~ 2024 estimated Taxes #2 ~ 2024-06-17: $5,532 ~ $5,532 paid 2024-06-17 ~ # 8610335462
 * FTB ~ 2024 estimated Taxes #3 ~ 2025-01-15: $4,148 ~ confirmation 6289509271
+
+## Done
+
+* Check January 15th 2025 FTB payment
+* 11,600 per month
+*
