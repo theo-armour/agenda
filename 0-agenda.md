@@ -42,6 +42,7 @@ Weekend
 
 ### Heritage
 
+* What could be the next scientific discovery to disprove current thinking?
 * HHcfo: billing split + eaf + email
 * Praveen: Remote Dir Activities
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
