@@ -48,18 +48,14 @@ Soon
 
 * John Choate
 * Kathy Paver: follow up
-* 
-
 * UCSF patient advocate
 * Jack O: talk at H + Guestroom?
 * ValS: activity in HH, RC + Yvonne &amp; Gene
 * ace-it: ICE
-* Kyle: bday
 * PLE: Ronan ~ calendar
 * PeterO:&nbsp;
 * IA: storage photos
 * Dr Lea: Appointment
-* Fiscal Minutes
 * George Smart: woody
 * Jason Carman
 * Leah WSD
