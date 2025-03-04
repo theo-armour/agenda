@@ -5,6 +5,7 @@
 * ++
 * 2025-03-03~ minimize the losses
 * 2025-03-02:&nbsp;prefer positioning over predicting ~&nbsp;Positioning &gt; Prediction
+* 2025-03-04:&nbsp;my Inspirations need inflection points,&nbsp;the when and how they came about,&nbsp;what inspired the inspiration?
 
 <!-- this is a comment -->
 ## Today
