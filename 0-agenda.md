@@ -14,6 +14,7 @@
 ## Today
 
 * SacSem: wix
+* v4127: update payment
 * Pack up 3D projector
 * Empty vacuum
 * Scrub coffee mug
