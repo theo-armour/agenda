@@ -3,6 +3,9 @@
 <a href="https://theo-armour.github.io/agenda/code/2025-01-11/#README.md">https://theo-armour.github.io/agenda/code/2025-01-</a>
 
 * +++
+* Blow the conch shell Hawaii Bob&nbsp;
+* 
+
 * Cats and dogs playing a March madness basketball game&nbsp;
 * Boys club question in the style of Ogden Nash understandable by a 10-year-old
 * To eire is human
@@ -10,6 +13,7 @@
 * 
 
 Escort&nbsp; committee
+
 * Searching for sugar Man the best movie ever made
 * Nancy T: Seal of California the lady is Minerva&nbsp;
 * One of our elders responded to the question are you having guests for dinner The server asked Bob responded: if that's what we're serving that's what I'll have; 
