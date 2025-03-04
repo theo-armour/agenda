@@ -14,7 +14,6 @@
 * Scrub coffee mug
 * 
 
-* Lolo: address
 * Pilar LaValley
 * **Renew passport**
 * Taxes
