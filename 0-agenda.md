@@ -19,8 +19,6 @@
 * Pam Tudor
 * Corwin
 * Lolo: address
-* Taxes: agenda
-* 
 
 Weekend
 
