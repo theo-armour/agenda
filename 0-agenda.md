@@ -13,7 +13,8 @@
 * Boys club question in the style of Ogden Nash understandable by a 10-year-old
 * SacSem: wix
 * v4127: update payment
-* Empty vacuum
+* 
+
 * Scrub coffee mug
 * Very busy month coining up: taxes ~ centenary ~ hh
 * Pam Tudor
@@ -42,7 +43,6 @@ Weekend
 
 ### Heritage
 
-* What could be the next scientific discovery to disprove current thinking?
 * HHcfo: billing split + eaf + email
 * Praveen: Remote Dir Activities
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
