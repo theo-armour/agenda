@@ -14,7 +14,6 @@
 * Scrub coffee mug
 * 
 
-* Mary: order plaque
 * Lolo: address
 * Pilar LaValley
 * **Renew passport**
