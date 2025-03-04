@@ -5,31 +5,25 @@
 * ++
 * 2025-03-03~ minimize the losses
 * 2025-03-02:&nbsp;prefer positioning over predicting ~&nbsp;Positioning &gt; Prediction
-* 
 
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * SacSem: wix
 * Scrub coffee mug
-* Very busy month coining up: taxes ~ centenary ~ hh
-* Pam Tudor
-* Corwin
+* Carolyn K
+* Mary: order plaque
+
 * Lolo: address
-
-Weekend
-
-* ** Renew passport ~ taxes&nbsp;
+* Pilar LaValley
+* **Renew passport**
+* Taxes
 
 ### Heritage Centenary
 
-* Carolyn K?
-* John Mossi
+* Pam Tudor
 * Woody?
 * Mary: Fountain
-* Pilar LaValley
 * Three women dressed as flappers
 * Karen McNeil
 
@@ -50,6 +44,8 @@ Weekend
 Soon
 
 * John Choate
+* Corwin
+* John Mossi
 * Kathy Paver: follow up
 * UCSF patient advocate
 * Jack O: talk at H + Guestroom?
