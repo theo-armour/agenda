@@ -13,6 +13,7 @@
 <!-- this is a comment -->
 ## Today
 
+* SacSem: wix
 * Pack up 3D projector
 * Empty vacuum
 * Scrub coffee mug
