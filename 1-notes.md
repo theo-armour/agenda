@@ -3,9 +3,12 @@
 <a href="https://theo-armour.github.io/agenda/code/2025-01-11/#README.md">https://theo-armour.github.io/agenda/code/2025-01-</a>
 
 * +++
+* Cats and dogs playing a March madness basketball game&nbsp;
+* Boys club question in the style of Ogden Nash understandable by a 10-year-old
 * To eire is human
-* 19 m 1442 f
+* 619 m 1442 f
 * 
+
 Escort&nbsp; committee
 * Searching for sugar Man the best movie ever made
 * Nancy T: Seal of California the lady is Minerva&nbsp;
