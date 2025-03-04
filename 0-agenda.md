@@ -8,6 +8,7 @@
 <!-- this is a comment -->
 ## Today
 
+* Boys club question in the style of Ogden Nash understandable by a 10-year-old
 * SacSem: wix
 * v4127: update payment
 * Pack up 3D projector
