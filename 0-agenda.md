@@ -11,7 +11,8 @@
 * Boys club question in the style of Ogden Nash understandable by a 10-year-old
 * SacSem: wix
 * v4127: update payment
-* Pack up 3D projector
+* 
+
 * Empty vacuum
 * Scrub coffee mug
 * Very busy month coining up: taxes ~ centenary ~ hh
