@@ -298,6 +298,7 @@ Waiting
 * Three women dressed as flappers
 * Karen McNeil
 * Woody?
+* rsvp: invite
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan-journal.md&quot;">centenary morgan journal</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan.md&quot;">centenary-morgan </a>
