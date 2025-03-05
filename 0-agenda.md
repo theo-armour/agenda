@@ -67,7 +67,7 @@ Whenever
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>0 Admin</summary>
 
