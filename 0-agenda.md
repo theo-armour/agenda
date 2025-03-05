@@ -11,6 +11,7 @@
 ## Today
 
 * Santani
+* Irving
 * Centenary: my notes
 * Carolyn
 * Jock rot
@@ -68,7 +69,7 @@ Whenever
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>0 Admin</summary>
 
