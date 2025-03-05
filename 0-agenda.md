@@ -91,15 +91,12 @@ Whenever
 **Admin**
 
 -->
-<details open="">
+<details>
 <summary>0 Admin</summary>
 
 * ?
-* Safeway: wipes + wine
-* A: Coffee mug
-* Bean shirts
-* Traveling round charger ~ for when? ;-)&nbsp;
 * Pay UCSF
+* Passport Renew: photo
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
 
@@ -116,6 +113,10 @@ Whenever
 <!-- -->
 
 * ?
+* Safeway: wipes + wine
+* A: Coffee mug
+* Bean shirts
+* Traveling round charger ~ for when? ;-)&nbsp;
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
