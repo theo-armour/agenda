@@ -10,9 +10,7 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
-* Santaini
+* Santani
 * Centenary: my notes
 * Carolyn
 * Jock rot
@@ -20,9 +18,10 @@
 * **Renew passport**
 * Taxes
 * Woody?
-* Myra: colin _ edits
+* Myra: colin + edits
 * HH: schedule msg
-* Massage the Calendar
+* 
+
 * Kay + MJ
 
 Soon
@@ -232,7 +231,7 @@ Waiting
 **Entities**
 
 -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
