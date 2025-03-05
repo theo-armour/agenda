@@ -114,14 +114,12 @@ Whenever
 
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
 
 * ?
-* 
-
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
