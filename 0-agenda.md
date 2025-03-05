@@ -93,7 +93,7 @@ Whenever
 -->
 <details open="">
 
-<summary>Admin</summary>
+<summary>0 Admin</summary>
 
 * ?
 * Safeway: wipes + wine
@@ -104,7 +104,7 @@ Whenever
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-agenda.md&quot;">0 Admin Agenda</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/mia/0-mia-agenda.md&quot;">mia agenda</a>
 
