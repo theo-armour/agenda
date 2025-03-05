@@ -67,7 +67,7 @@ Whenever
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>0 Admin</summary>
 
@@ -230,7 +230,7 @@ Waiting
 **Entities**
 
 -->
-<details>
+<details open="">
 
 <summary>Entities</summary>
 <!-- -->
