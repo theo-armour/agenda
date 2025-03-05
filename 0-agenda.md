@@ -96,6 +96,7 @@ Whenever
 <summary>0 Admin</summary>
 
 * ?
+* File for admin tips
 * Pay UCSF
 * Passport Renew: photo
 
