@@ -40,9 +40,6 @@
 
 Soon
 
-* https://en.wikipedia.org/wiki/Heat_death_of_the_universe
-* https://en.wikipedia.org/wiki/Ultimate_fate_of_the_universe
-* https://en.wikipedia.org/wiki/Entropy
 * John Choate
 * Corwin
 * John Mossi
