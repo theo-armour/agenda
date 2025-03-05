@@ -283,7 +283,7 @@ Waiting
 * ++
 * Look at scanning
 
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage Happenings</summary>
 
