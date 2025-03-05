@@ -10,10 +10,8 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
-* Santaini
-
+* Santani
+* Irving
 * Centenary: my notes
 * Carolyn
 * Jock rot
@@ -21,31 +19,9 @@
 * **Renew passport**
 * Taxes
 * Woody?
-* Myra" colin _ edits
+* Myra: colin + edits
 * HH: schedule msg
-* Massage the Calendar
-
-### Heritage Centenary
-
-* Pam Tudor
-* Mary: Fountain
-* Three women dressed as flappers
-* Karen McNeil
-
-### Heritage Happenings
-
-* Woody?
-* HH: Tom to look at style guide and charter
-* HH: Page for committee book
-* HH: meeting dates for the year
-
-### Heritage
-
-* HHcfo: billing split + eaf + email
-* Praveen: Remote Dir Activities
-* Jon Casey: IT guy ~ Find phone ~ TouchTown
-* Dining: Granola
-* ??
+* Kay + MJ
 
 Soon
 
@@ -55,7 +31,6 @@ Soon
 * Kathy Paver: follow up
 * UCSF patient advocate
 * Jack O: talk at H + Guestroom?
-* ValS: activity in HH, RC + Yvonne &amp; Gene
 * ace-it: ICE
 * PLE: Ronan ~ calendar
 * PeterO:&nbsp;
@@ -68,7 +43,6 @@ Soon
 
 Whenever
 
-* Kay Tim: Turntable ~ advocate
 * Avery + Bancroft: documentalist
 * Tania: concierge in Durham
 * List of San Francisco for newbs
@@ -93,7 +67,7 @@ Whenever
 **Admin**
 
 -->
-<details open="">
+<details>
 <summary>0 Admin</summary>
 
 * ?
@@ -103,9 +77,9 @@ Whenever
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda ZZZ</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/mia/passport.md&quot;">passport</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/passport.md&quot;">passport</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/mia/0-mia-agenda.md&quot;">mia agenda</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
@@ -211,7 +185,7 @@ Waiting
 **Family**
 
  -->
-<details>
+<details open="">
 
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
@@ -242,6 +216,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
 
 * ?
+* SacSem: wix
 
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-agenda.md&quot;">awesome</a>
@@ -265,13 +240,52 @@ Waiting
 <details open="">
 <!-- -->
 <summary>Heritage</summary>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
 
 * ++
+* Look at scanning
+* ValS: activity in HH, RC + Yvonne &amp; Gene
+* HHcfo: billing split + eaf + email
+* Praveen: Remote Dir Activities
+* Jon Casey: IT guy ~ Find phone ~ TouchTown
+* Dining: Granola
+* Kay Tim: Turntable ~ advocate
+* ??
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/2024/12-december/2024-12-happenings-agenda.md&quot;">december</a>
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings</a>
+<details open="">
+<!-- -->
+<summary>Heritage Happenings</summary>
+
+* April agenda
+* HH: Tom to look at style guide and charter
+* HH: Page for committee book
+* HH: agenda &amp; meeting dates for the year
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-journal.md&quot;">heritage happenings journal</a>
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings agenda</a>
+</details>
+<!-- 
+**Heritage Centenary**
+-->
+<details open="">
+<!-- -->
+<summary>JMB Centenary</summary>
+
+* Pam Tudor
+* Mary: Fountain
+* Three women dressed as flappers
+* Karen McNeil
+* Woody?
+* rsvp: invite
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan-journal.md&quot;">centenary morgan journal</a>
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan.md&quot;">centenary-morgan </a>
+***
+
+</details>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/activities/0-activities-agenda.md&quot;">activities</a>
 
