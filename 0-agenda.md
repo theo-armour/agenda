@@ -10,7 +10,8 @@
 <!-- this is a comment -->
 ## Today
 
-* SacSem: wix
+* 
+
 * Santaini
 * Centenary: my notes
 * Carolyn
