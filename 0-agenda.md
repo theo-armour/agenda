@@ -10,8 +10,8 @@
 <!-- this is a comment -->
 ## Today
 
-* SacSem: wix
-* Santaini
+* Santani
+* Irving
 * Centenary: my notes
 * Carolyn
 * Jock rot
@@ -19,9 +19,8 @@
 * **Renew passport**
 * Taxes
 * Woody?
-* Myra: colin _ edits
+* Myra: colin + edits
 * HH: schedule msg
-* Massage the Calendar
 * Kay + MJ
 
 Soon
@@ -231,7 +230,7 @@ Waiting
 **Entities**
 
 -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
@@ -259,7 +258,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
@@ -299,6 +298,7 @@ Waiting
 * Three women dressed as flappers
 * Karen McNeil
 * Woody?
+* rsvp: invite
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan-journal.md&quot;">centenary morgan journal</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan.md&quot;">centenary-morgan </a>
