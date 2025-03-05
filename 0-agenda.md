@@ -96,8 +96,8 @@ Whenever
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda</a>
 
 * ?
-* Safeway: wioes + wine
-* Coffee mug
+* Safeway: wipes + wine
+* A: Coffee mug
 * Bean shirts
 * Traveling round charger ~ for when? ;-)&nbsp;
 * Pay UCSF
