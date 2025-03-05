@@ -12,13 +12,15 @@
 
 * SacSem: wix
 * Carolyn
-* Scrub coffee mug
+* 
+
 * Pilar LaValley
 * **Renew passport**
 * Taxes
 * Woody?
 * Myra" colin _ edits
 * HH: schedule msg
+* Massage the Calendar
 
 ### Heritage Centenary
 
