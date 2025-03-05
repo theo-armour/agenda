@@ -21,8 +21,6 @@
 * Woody?
 * Myra: colin + edits
 * HH: schedule msg
-* 
-
 * Kay + MJ
 
 Soon
