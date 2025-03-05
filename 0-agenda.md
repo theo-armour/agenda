@@ -12,8 +12,6 @@
 
 * SacSem: wix
 * Scrub coffee mug
-* 
-
 * Pilar LaValley
 * **Renew passport**
 * Taxes
