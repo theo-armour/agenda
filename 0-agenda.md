@@ -281,14 +281,15 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
 
 * ++
+* Look at scanning
 
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage Happenings</summary>
 
 * HH: Tom to look at style guide and charter
 * HH: Page for committee book
-* HH: meeting dates for the year
+* HH: agenda &amp; meeting dates for the year
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-journal.md&quot;">heritage happenings journal</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings agenda</a>
