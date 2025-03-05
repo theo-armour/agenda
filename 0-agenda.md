@@ -286,9 +286,7 @@ Waiting
 
 <details>
 <!-- -->
-<summary>Heritage</summary>
-
-### Heritage Happenings
+<summary>Heritage Happenings</summary>
 
 * HH: Tom to look at style guide and charter
 * HH: Page for committee book
