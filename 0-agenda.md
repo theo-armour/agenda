@@ -23,14 +23,6 @@
 * HH: schedule msg
 * Massage the Calendar
 
-### Heritage Centenary
-
-* Pam Tudor
-* Mary: Fountain
-* Three women dressed as flappers
-* Karen McNeil
-* Woody?
-
 ### Heritage
 
 * HHcfo: billing split + eaf + email
@@ -273,6 +265,28 @@ Waiting
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings agenda</a>
 </details>
+
+<!-- 
+**Heritage Centenary**
+-->
+
+<details open="">
+<!-- -->
+<summary>JMB Centenary</summary>
+
+### Heritage Centenary
+
+* Pam Tudor
+* Mary: Fountain
+* Three women dressed as flappers
+* Karen McNeil
+* Woody?
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan-journal.md&quot;">centenary morgan journal</a>
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan.md&quot;">centenary-morgan </a>
+</details>
+
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/activities/0-activities-agenda.md&quot;">activities</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/admin-town-hall/0-admin-town-hall-agenda.md&quot;">admin town hall</a>
