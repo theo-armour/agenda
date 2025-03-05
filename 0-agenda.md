@@ -19,17 +19,10 @@
 * **Renew passport**
 * Taxes
 * Woody?
-* Myra" colin _ edits
+* Myra: colin _ edits
 * HH: schedule msg
 * Massage the Calendar
-
-### Heritage
-
-* HHcfo: billing split + eaf + email
-* Praveen: Remote Dir Activities
-* Jon Casey: IT guy ~ Find phone ~ TouchTown
-* Dining: Granola
-* ??
+* Kay + MJ
 
 Soon
 
@@ -39,7 +32,6 @@ Soon
 * Kathy Paver: follow up
 * UCSF patient advocate
 * Jack O: talk at H + Guestroom?
-* ValS: activity in HH, RC + Yvonne &amp; Gene
 * ace-it: ICE
 * PLE: Ronan ~ calendar
 * PeterO:&nbsp;
@@ -52,7 +44,7 @@ Soon
 
 Whenever
 
-* Kay Tim: Turntable ~ advocate
+
 * Avery + Bancroft: documentalist
 * Tania: concierge in Durham
 * List of San Francisco for newbs
@@ -249,10 +241,21 @@ Waiting
 <details open="">
 <!-- -->
 <summary>Heritage</summary>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
 
 * ++
 * Look at scanning
+* ValS: activity in HH, RC + Yvonne &amp; Gene
+* HHcfo: billing split + eaf + email
+* Praveen: Remote Dir Activities
+* Jon Casey: IT guy ~ Find phone ~ TouchTown
+* Dining: Granola
+* Kay Tim: Turntable ~ advocate
+* ??
+
+
+## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
+
+
 
 <details open="">
 <!-- -->
@@ -274,8 +277,6 @@ Waiting
 <details open="">
 <!-- -->
 <summary>JMB Centenary</summary>
-
-### Heritage Centenary
 
 * Pam Tudor
 * Mary: Fountain
