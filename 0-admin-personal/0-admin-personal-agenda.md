@@ -1,6 +1,4 @@
-# 0 Admin Personal
-
-## Agenda
+# 0 Admin Personal Agenda
 
 * ?
 
