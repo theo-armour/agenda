@@ -1,7 +1,6 @@
 # 0 Admin Personal Journal
 
-
-
+##&nbsp;
 ## 2024-06-28 + 7 days: What to do?
 
 * What do I want to learn
