@@ -91,7 +91,7 @@ Whenever
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>0 Admin</summary>
 
@@ -111,7 +111,7 @@ Whenever
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
@@ -124,7 +124,7 @@ Whenever
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
-* A: mike ~ Lamisil
+* A: mike
 * Jeans ~ jacket
 * Printer canon cartridge returned: box
 
