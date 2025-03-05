@@ -2,8 +2,8 @@
 
 ## 2025-03-05
 
+* Scrub coffee mug
 * Empty vacuum
-* 
 
 ## 2024-06-28 + 7 days: What to do?
 
