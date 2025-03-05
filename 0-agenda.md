@@ -237,7 +237,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
@@ -257,6 +257,7 @@ Waiting
 <!-- -->
 <summary>Heritage Happenings</summary>
 
+* April agenda
 * HH: Tom to look at style guide and charter
 * HH: Page for committee book
 * HH: agenda &amp; meeting dates for the year
