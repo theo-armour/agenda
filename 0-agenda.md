@@ -12,8 +12,6 @@
 
 * Santani
 * Carolyn
-* 
-
 * Pilar LaValley
 * **Renew passport**
 * Taxes
