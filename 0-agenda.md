@@ -40,7 +40,8 @@ Whenever
 
 * Avery + Bancroft: documentalist
 * Tania: concierge in Durham
-* List of San Francisco for newbs
+* 
+
 * List of one-handed things for T
 * NV: use for volunteers
 * NV: Margaret Jacobs
