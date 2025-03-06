@@ -3,6 +3,7 @@
 ## 2025-03-05
 
 * Irving invite
+* Centenary: my notes
 
 ## 2024-10
 
@@ -30,7 +31,6 @@ Marty Party
 * Centenary: Laura  ~ Wednesday
 * Officers?
 * Heritage Happenings
-
 * Sort Heritage files
 * Joe Morris: Grass-fed beef for Heritage
 * Ayon: residents folder OneDrive
@@ -38,24 +38,26 @@ Marty Party
 * Xfinity: Demian: upload speeds
 * Martha N: small charges
 
-
 ## 2024-09-03
+
 EIR ~ residents points ~ van
+
 Me: side of house ~ walkability ~ parking ~ generator noise
+
 Centenary: Laura ~ Wednesday
+
 Officers?
+
 Heritage Happenings
-
-
 ## 2023-11-14
 
 Jeff
 
-*   Donations
-*   Delay?
-*   Inform family?
-*   Parlor
-*   Cottage Door
+* Donations
+* Delay?
+* Inform family?
+* Parlor
+* Cottage Door
 
 ## Audubon Ibis
 
@@ -63,8 +65,7 @@ Jeff
 
 ## Handyman
 
-*   [https://thumbtack.com](https://thumbtack.com)
-
+* <a href="https://thumbtack.com">https://thumbtack.com</a>
 
 ## 2023 Things
 
@@ -72,14 +73,14 @@ See 0-residents-to-do.md
 
 * Mary ~ Dom story
 * Dom ~ chromecast
-* Doris ~ out & about
+* Doris ~ out &amp; about
 * Richard Wesson
 * Gardner Reply
-* Mary ~ Update hh logo & terms ~
+* Mary ~ Update hh logo &amp; terms ~
 * Update Patrick's Welcome page
 * Morrison ~ Compass resources
-* https://www.compass-usa.com/
-* https://www.morrisonliving.com/
+* <a href="https://www.compass-usa.com/">https://www.compass-usa.com/</a>
+* <a href="https://www.morrisonliving.com/">https://www.morrisonliving.com/</a>
 * Boat trip with Tim
 * Stephen share Google docs
 * Erin ~ nutrients for back page
@@ -91,19 +92,17 @@ See 0-residents-to-do.md
 
 ## What goes here
 
-*   Things that are personal to me
-*   Xmas Party: Otstott
-*   Guestroom: Isabelle
-*   Cottage uses
-*   Xmas Party: Nienke
-
+* Things that are personal to me
+* Xmas Party: Otstott
+* Guestroom: Isabelle
+* Cottage uses
+* Xmas Party: Nienke
 
 ## 2023-04-24
 
 * Question for board members
 
 Done
-
 ## 2023
 
 * accounts Monthly withdrawals

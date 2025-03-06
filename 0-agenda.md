@@ -10,12 +10,6 @@
 <!-- this is a comment -->
 ## Today
 
-* Santani
-* 
-
-* Centenary: my notes
-* Carolyn
-* Jock rot
 * Pilar LaValley
 * **Renew passport**
 * Taxes
@@ -46,7 +40,8 @@ Whenever
 
 * Avery + Bancroft: documentalist
 * Tania: concierge in Durham
-* List of San Francisco for newbs
+* 
+
 * List of one-handed things for T
 * NV: use for volunteers
 * NV: Margaret Jacobs
@@ -68,13 +63,13 @@ Whenever
 **Admin**
 
 -->
-<details>
+<details open="">
 <summary>0 Admin</summary>
 
 * ?
 * File for admin tips
 * Pay UCSF
-* Passport Renew: photo
+* Passport Renew: Pocket 3 photo
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
 
@@ -125,6 +120,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
 * ++
+* Jock rot ~ got it ~ trying lamasil
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a>
@@ -238,7 +234,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
@@ -275,7 +271,6 @@ Waiting
 <!-- -->
 <summary>JMB Centenary</summary>
 
-* Pam Tudor
 * Mary: Fountain
 * Three women dressed as flappers
 * Karen McNeil
