@@ -11,8 +11,6 @@
 ## Today
 
 * Santani
-* 
-
 * Pilar LaValley
 * **Renew passport**
 * Taxes
