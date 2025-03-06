@@ -11,7 +11,8 @@
 ## Today
 
 * Santani
-* Irving
+* 
+
 * Centenary: my notes
 * Carolyn
 * Jock rot
@@ -237,7 +238,7 @@ Waiting
 **Heritage**
 
 -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
