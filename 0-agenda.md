@@ -272,7 +272,6 @@ Waiting
 <!-- -->
 <summary>JMB Centenary</summary>
 
-* Pam Tudor
 * Mary: Fountain
 * Three women dressed as flappers
 * Karen McNeil
