@@ -11,8 +11,6 @@
 ## Today
 
 * Santani
-* 
-
 * Carolyn
 * Jock rot
 * Pilar LaValley
