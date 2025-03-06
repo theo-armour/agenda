@@ -10,8 +10,6 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * Pilar LaValley
 * **Renew passport**
 * Taxes
