@@ -70,7 +70,7 @@ Whenever
 * ?
 * File for admin tips
 * Pay UCSF
-* Passport Renew: photo
+* Passport Renew: Pocket 3 photo
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
 
@@ -116,7 +116,7 @@ Waiting
 **Health**
 
 -->
-<details open="">
+<details>
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
