@@ -28,6 +28,7 @@ Feiyu Pocket 3: Cordless Detachable Gimbal Camera
 ## Support
 
 * http://cdn1.feiyu-tech.com/dl/manual/feiyu_pocket_3_manual_en.pdf
+* https://cdn1.feiyu-tech.com/dl/manual/feiyu_pocket_3_rh_manual_en.pdf
 
 ## Product
 

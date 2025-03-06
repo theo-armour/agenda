@@ -3,7 +3,13 @@
 * https://people.csail.mit.edu/santani/index.html
 * https://www.linkedin.com/in/santani-teng-220ab31a7/
 * https://www.ski.org/directory/santani-teng
+* https://www.ski.org/labs/teng-lab
 
+
+## Publications
+
+* Looks definitive ~ https://www.ski.org/publications/touch-text-spatiotemporal-evolution-braille-letter-representations-blind-readers
+* exploring things ~ https://www.ski.org/publications/object-recognition-echoes-quantifying-crossmodal-transfer-three-dimensional-shape
 
 ## Agenda Items
 
