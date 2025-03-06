@@ -12,7 +12,8 @@
 
 * Santani
 * Carolyn
-* Jock rot
+* 
+
 * Pilar LaValley
 * **Renew passport**
 * Taxes
