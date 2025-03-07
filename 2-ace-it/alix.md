@@ -3,7 +3,15 @@
 * <a href="https://sensay.io">https://sensay.io</a>
 * minimise.today
 * <a href="https://www.minimise.today/">https://www.minimise.today/</a>
-* Add data to my sensay
+* https://www.nowos.com/
+
+## 2025-03-06
+
+* Nowos ~ web site & LI ~ need updates
+* Spain
+* My life is in good shape
+* I'm happy
+
 
 ## 2024-12-11
 
