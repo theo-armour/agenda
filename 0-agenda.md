@@ -11,12 +11,11 @@
 ## Today
 
 * Pilar LaValley
-* **Renew passport**
+* **Renew passport \&gt; blue shirt**
 * Taxes
 * Woody?
 * Myra: colin + edits
 * HH: schedule msg
-* 
 
 Soon
 
