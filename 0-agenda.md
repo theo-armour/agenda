@@ -86,7 +86,8 @@ Whenever
 <!-- -->
 
 * ?
-* Safeway: wipes + wine
+* 
+
 * A: Coffee mug
 * Bean shirts
 * Traveling round charger ~ for when? ;-)&nbsp;
