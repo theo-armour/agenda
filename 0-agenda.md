@@ -86,9 +86,6 @@ Whenever
 <!-- -->
 
 * ?
-* 
-
-* A: Coffee mug
 * Bean shirts
 * Traveling round charger ~ for when? ;-)&nbsp;
 * Plateau chair
