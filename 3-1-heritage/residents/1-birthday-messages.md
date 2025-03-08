@@ -11,35 +11,42 @@
 ## 2025-02-04
 
 * Cheers to the best year yet
-* Peace & Serinity
+* Peace & Serenity
 * May your days be filled with laughter and joy.
-*Yvonee:  There you go again...Making the world better by simply being you.
+*Yvonne:  There you go again...Making the world better by simply being you.
+
 ## 2024-07-15 Perplexity
 
 Here are some thoughtful and nice things you can say in an email to someone on their birthday:
 
 ### Simple and Sweet Messages
+
 * "Happy Birthday, [Name]! I hope your day is filled with joy and celebration."
 * "Wishing you all the best on your special day. Enjoy every moment!"
 * "Hope your birthday is as wonderful and special as you are."
 
 ### Personalized Messages
+
 * "Happy Birthday, [Name]! Your dedication and hard work inspire everyone around you. Have a fantastic day!"
 * "On your birthday, I want to thank you for being such a great friend/colleague. Your kindness and support mean the world to me. Enjoy your day!"
 
 ### Inspirational Messages
+
 * "Happy Birthday, [Name]! Reflect on all your achievements and get excited for the future. You have so much potential and I can't wait to see what you accomplish next."
 * "Wishing you a birthday filled with dreams and aspirations. Remember, you have the strength to achieve anything you set your mind to."
 
 ### Humorous Messages
+
 * "Happy Birthday, [Name]! I’d sing you a birthday song, but I’ve been told birthdays are supposed to be enjoyable. Have a great day!"
 * "I came for the free cake. Hanging out with such an awesome person is just a bonus. Happy birthday!"
 
 ### For Close Friends and Family
+
 * "Happy Birthday to my favorite person in the world! Coffee/drinks are on me!"
 * "Mom/Dad/Sibling, you’ve always been there for me with sound advice and enthusiastic encouragement. I look forward to spending more time together this year. Happy birthday!"
 
 ### For Significant Others
+
 * "Happy Birthday to the best partner ever! You make every day fun, interesting, and filled with love. Here’s to continuing the adventure!"
 * "Happy birthday, [Name]. I’m so grateful you’re in my life. I can’t wait for everything the next year will bring, beginning with celebrating your special day with you!"
 
