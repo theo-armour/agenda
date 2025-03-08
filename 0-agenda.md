@@ -11,12 +11,11 @@
 ## Today
 
 * Pilar LaValley
-* **Renew passport**
-* Taxes
-* Woody?
+* Kerri &amp; Woody: draft reprint
 * Myra: colin + edits
+* Taxes
 * HH: schedule msg
-* Kay + MJ
+* **Renew passport \&gt; blue shirt**
 
 Soon
 
@@ -127,7 +126,9 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
 * ++
+* UCSF: Dental appointment
 * Jock rot ~ got it ~ trying lamasil
+* Delta Dental: codes
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
 
@@ -258,6 +259,8 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
+* McGley Computer: W10??
+* HH: Randy Gridley thanks
 * Look at scanning
 * ValS: activity in HH, RC + Yvonne &amp; Gene
 * HHcfo: billing split + eaf + email
