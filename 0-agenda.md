@@ -64,6 +64,8 @@ Whenever
 <summary>0 Admin</summary>
 
 * ?
+* Amazon Library?
+* Josh: reply
 * File for admin tips
 * Pay UCSF
 * Passport Renew: Pocket 3 photo
@@ -78,7 +80,7 @@ Whenever
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
