@@ -10,12 +10,12 @@
 <!-- this is a comment -->
 ## Today
 
-* Pilar LaValley
+* 
+
 * Kerri &amp; Woody: draft reprint
 * Myra: colin + edits
 * Taxes
 * HH: schedule msg
-* **Renew passport \&gt; blue shirt**
 
 Soon
 
@@ -87,11 +87,12 @@ Whenever
 
 * ?
 * Bean shirts
+* A: mike
 * Traveling round charger ~ for when? ;-)&nbsp;
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small spec
-* A: mike
+
 * Jeans ~ jacket
 * Printer canon cartridge returned: box
 
