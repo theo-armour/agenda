@@ -85,13 +85,13 @@ Whenever
 <!-- -->
 
 * ?
+* A: diapers ~ citracel w/ sugar
 * Bean shirts
 * A: mike
-* Traveling round charger ~ for when? ;-)&nbsp;
+* Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
 * Plateau chair
 * Winter shoes
-* EyeBuyDirect: small spec
-
+* EyeBuyDirect: small s
 * Jeans ~ jacket
 * Printer canon cartridge returned: box
 
