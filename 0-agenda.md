@@ -4,8 +4,8 @@
 
 * ++
 * 2025-03-09 ~ farnum:&nbsp;Be among the best. Pretend you're not. Work harder than everyone else.
-* 2025-03-03~ minimize the losses
-* 2025-03-02:&nbsp;prefer positioning over predicting ~&nbsp;Positioning &gt; Prediction
+* 
+
 * 2025-03-04:&nbsp;my Inspirations need inflection points,&nbsp;the when and how they came about,&nbsp;what inspired the inspiration?
 
 <!-- this is a comment -->
