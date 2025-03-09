@@ -10,8 +10,6 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
 * Kerri &amp; Woody: draft reprint
 * Myra: colin + edits
 * Taxes
@@ -19,6 +17,7 @@
 
 Soon
 
+* Pilar LaValley: send
 * John Choate
 * Corwin
 * John Mossi
