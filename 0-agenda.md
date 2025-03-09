@@ -11,7 +11,7 @@
 * Kerri &amp; Woody: draft reprint
 * Myra: colin + edits
 * Taxes
-* HH: schedule msg
+* HH: schedule msg + mia
 
 Soon
 
