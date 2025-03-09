@@ -2,8 +2,8 @@
 
 ## Casting from PC
 
-* Turn off  then turn on
-*Remote ? "source" button -> "Wireless" > wait for the PC to connect
+* Turn off then turn on
+* Remote ? "source" button -> "Wireless" > wait for the PC to connect
 * PC ? settings > Bluetooth & devices > Devices > Add  device > Wireless display
 
 

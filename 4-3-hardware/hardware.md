@@ -1,7 +1,5 @@
 # Hardware
 
-
-
 ## Samsung Chromebook
 
 How to adjust the keyboard backlighting on Chromebooks |
