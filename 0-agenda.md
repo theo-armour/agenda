@@ -3,17 +3,14 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2025-03-03~ minimize the losses
-* 2025-03-02:&nbsp;prefer positioning over predicting ~&nbsp;Positioning &gt; Prediction
-* 2025-03-04:&nbsp;my Inspirations need inflection points,&nbsp;the when and how they came about,&nbsp;what inspired the inspiration?
+* 2025-03-09 ~ Sarnum:&nbsp;Be among the best. Pretend you're not. Work harder than everyone else.
 
 <!-- this is a comment -->
 ## Today
 
-* Kerri &amp; Woody: draft reprint
 * Myra: colin + edits
 * Taxes
-* HH: schedule msg
+* HH: schedule msg + mia
 
 Soon
 
