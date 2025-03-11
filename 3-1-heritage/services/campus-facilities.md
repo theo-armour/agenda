@@ -23,7 +23,7 @@
 ### Maintenance
 
 * https://theheritagesf.theworxhub.com/public/request/new
-* Floor-to-ceiling pole just inside shower door - maybe even two
+* Floor-to-ceiling pole just inside shower door- maybe even two
 * Better shower non-slip
 * Drawings on view
 * Rubber things for door

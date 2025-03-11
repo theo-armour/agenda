@@ -3,8 +3,6 @@
 <a href="https://theo-armour.github.io/agenda/code/2025-01-11/#README.md">https://theo-armour.github.io/agenda/code/2025-01-</a>
 
 * +++<div style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; line-height: 20px; white-space: pre;">
-* 
-
 * <em style="font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; white-space: pre;">Laura Burges<span style="color: #0451a5;"></span></em><span style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; white-space: pre;"> ~ </span><span style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; white-space: pre;">Wisdom Stories of Tibet: Tales of Magic, Adventure, and Bravery</span>
 * <span style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; white-space: pre;">June's cousin and advocate</span><em style="font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; white-space: pre;"> </em>
 * <em style="font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; white-space: pre;">Zen buddhist teacher and advocate</em>
@@ -17,7 +15,9 @@
 * I'm here to move fast and break things. The last time that happened it was my femur
 * Blow the conch shell Hawaii Bob&nbsp;
 * 
+
 * Cats and dogs playing a March madness basketball game&nbsp;
+
 * Boys club question in the style of Ogden Nash understandable by a 10-year-old
 * To eire is human
 * 619 m 1442 f

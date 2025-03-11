@@ -26,7 +26,6 @@ Questions
 ## Kitchen
 
 Kevin:
-
 * More fiber
 * All-bran
 * How much olive oil

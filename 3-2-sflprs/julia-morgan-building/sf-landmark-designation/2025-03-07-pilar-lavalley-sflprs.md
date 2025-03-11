@@ -29,9 +29,9 @@ Dear Ms LaValley,
 
 I am writing regarding San Francisco Designated Landmark 320, associated with the property at 3400 Laguna Street.
 
-First, I would like to express my gratitude to the San Francisco Planning Department for designating the Julia Morgan Building as a Designated Landmark. This recognition highlights both the property’s significance and the important work of the San Francisco Ladies Protection and Relief Society.
+Firstly, I would like to express my gratitude to the San Francisco Planning Department for designating the Julia Morgan Building as a Designated Landmark. This recognition highlights both the property’s significance and the important work of the San Francisco Ladies Protection and Relief Society.
 
-Second, may I request that the text on the Planning Department’s website be updated to reflect the correct name of the organization. Currently, the text displayed at:
+Secondly, I request that the text on the Planning Department’s website be updated to reflect the correct name of the organization. Currently, the text displayed at:
 
 https://sfplanning.org/project/designated-landmarks-and-landmark-districts#designated-landmarks
 
@@ -42,7 +42,7 @@ reads:
 Please note the following corrections:
 
 The society is not "former" but remains active.
-The correct legal name of the organization is the "San Francisco Ladies Protection and Relief Society." (EIN 94-1156611)
+The correct legal name of the organization is the "San Francisco Ladies Protection and Relief Society."
 
 Could you please advise on who I might contact to request these updates? I would be happy to provide any additional information or assistance needed.
 

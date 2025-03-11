@@ -35,7 +35,6 @@ Oh, can you hear me now? Yes you can testing testing 123. Oh boy, we're talking.
 
 * https://www.logitech.com/en-us/products/mice/logi-bolt-usb-receiver.956-000007.html
 
-## Brio 4K Pro
+## Brio
 
 * https://support.logi.com/hc/en-gb/articles/360024329253-Getting-started-BRIO-4K-Pro-Webcam
-* https://www.logitech.com/assets/66128/logitech-4k-pro-webcam-qsg.pdf
