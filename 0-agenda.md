@@ -8,16 +8,15 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
+* Laura
+* Carolyn K
+* Food Committee
 * Naine
 * Gukhui
 * Josh
-* Pam Tudor
-* Ala &amp; Jeff
-* Carolyn K
-* Laura
-* Food Committee
+* 
+
+* Alan &amp; Jeff
 * Myra: colin + edits
 * Taxes
 * Dr Lea: Appointment
