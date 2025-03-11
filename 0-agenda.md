@@ -16,7 +16,8 @@
 
 Soon
 
-* Pilar LaValley: send
+* 
+
 * John Choate
 * Corwin
 * John Mossi
