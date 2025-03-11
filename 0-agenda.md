@@ -8,7 +8,7 @@
 <!-- this is a comment -->
 ## Today
 
-* Josh
+* wixJosh
 * Carolyn K
 * Laura
 * Food Committee
