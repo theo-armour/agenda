@@ -8,15 +8,16 @@
 <!-- this is a comment -->
 ## Today
 
+* Josh
 * Carolyn K
+* Laura
 * Food Committee
 * Myra: colin + edits
 * Taxes
+* Dr Lea: Appointment
 * HH: schedule msg + mia
 
 Soon
-
-* 
 
 * John Choate
 * Corwin
@@ -28,7 +29,8 @@ Soon
 * PLE: Ronan ~ calendar
 * PeterO:&nbsp;
 * IA: storage photos
-* Dr Lea: Appointment
+* 
+
 * George Smart: woody
 * Jason Carman
 * Leah WSD
