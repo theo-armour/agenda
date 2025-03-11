@@ -12,6 +12,7 @@
 * Naine
 * Gukhui
 * Josh
+* Pam Tudor
 * Carolyn K
 * Laura
 * Food Committee
