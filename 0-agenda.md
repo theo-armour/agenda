@@ -9,8 +9,8 @@
 ## Today
 
 * Laura
-* Carolyn K
-* Food Committee
+* 
+
 * Naine
 * Gukhui
 * Josh
