@@ -8,11 +8,6 @@
 <!-- this is a comment -->
 ## Today
 
-* Laura
-* 
-
-* Naine
-* Gukhui
 * Josh
 * Alan &amp; Jeff
 * Myra: colin + edits
