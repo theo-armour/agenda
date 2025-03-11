@@ -8,7 +8,8 @@
 <!-- this is a comment -->
 ## Today
 
-* wix
+* 
+
 * Naine
 * Gukhui
 * Josh
