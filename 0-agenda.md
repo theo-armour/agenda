@@ -8,7 +8,10 @@
 <!-- this is a comment -->
 ## Today
 
-* wixJosh
+* wix
+* Naine
+* Gukhui
+* Josh
 * Carolyn K
 * Laura
 * Food Committee
