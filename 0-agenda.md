@@ -14,8 +14,6 @@
 * Naine
 * Gukhui
 * Josh
-* 
-
 * Alan &amp; Jeff
 * Myra: colin + edits
 * Taxes
