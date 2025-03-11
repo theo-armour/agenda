@@ -13,6 +13,7 @@
 * Gukhui
 * Josh
 * Pam Tudor
+* Ala &amp; Jeff
 * Carolyn K
 * Laura
 * Food Committee
