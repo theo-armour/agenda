@@ -11,3 +11,10 @@ Anything - shortages - we should be mentioning in the newsletter?
 Tofu scramble
 
 Chair sliders
+
+hh ask for specials request 
+
+pat day mom
+
+summer menu
+
