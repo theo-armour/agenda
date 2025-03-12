@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20in"
+   height="20in"
+   viewBox="0 0 508 508"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="jmb-plaque-01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     inkscape:zoom="0.27253074"
+     inkscape:cx="1520.9294"
+     inkscape:cy="1183.3528"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="2509"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="2234.6103"
+       y="286.20625"
+       width="1853.002"
+       height="1482.4016"
+       id="rect10" />
+    <rect
+       x="2175.9013"
+       y="407.29351"
+       width="1001.7219"
+       height="121.08726"
+       id="rect9" />
+    <rect
+       x="2370.3748"
+       y="436.64799"
+       width="1280.5895"
+       height="341.24591"
+       id="rect8" />
+    <rect
+       x="2307.9965"
+       y="733.86217"
+       width="1115.4705"
+       height="297.21418"
+       id="rect7" />
+    <rect
+       x="484.34903"
+       y="2157.5548"
+       width="2729.9673"
+       height="220.15865"
+       id="rect5" />
+    <rect
+       x="418.30144"
+       y="1093.4546"
+       width="2256.6263"
+       height="818.25633"
+       id="rect3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.632;stroke-dasharray:none"
+       id="path1"
+       cx="254.11601"
+       cy="254.11601"
+       r="228.60001" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.7112;stroke-dasharray:none"
+       id="path2"
+       sodipodi:type="arc"
+       sodipodi:cx="253.99998"
+       sodipodi:cy="266.33838"
+       sodipodi:rx="190.13837"
+       sodipodi:ry="202.47673"
+       sodipodi:start="3.3859387"
+       sodipodi:end="6.2831853"
+       sodipodi:arc-type="slice"
+       d="M 69.50954,217.35482 A 190.13837,202.47673 0 0 1 277.17202,65.370879 190.13837,202.47673 0 0 1 444.13835,266.33838 H 253.99998 Z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.635;stroke-dasharray:none"
+       id="text3"
+       transform="translate(0,-11.650062)"><textPath
+         xlink:href="#path2"
+         id="textPath5"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.635"
+           id="tspan4">San Francisco Landmark</tspan></textPath></text>
+    <path
+       style="fill:none;stroke:none;stroke-width:2.61883;stroke-dasharray:none;stroke-opacity:1"
+       id="path5"
+       sodipodi:type="arc"
+       sodipodi:cx="254"
+       sodipodi:cy="-254"
+       sodipodi:rx="222.25"
+       sodipodi:ry="222.25"
+       sodipodi:start="3.1415927"
+       sodipodi:end="6.2831853"
+       sodipodi:arc-type="slice"
+       d="M 31.75,-254 A 222.25,222.25 0 0 1 254,-476.25 222.25,222.25 0 0 1 476.25,-254 H 254 Z"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       id="text5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2777px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;fill:#000000;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="2.3739114"
+       inkscape:transform-center-y="135.66934"
+       transform="matrix(0.9363277,-0.23765922,0.22909068,0.97134859,-42.149389,70.816314)"><textPath
+         xlink:href="#path5"
+         id="textPath6"><tspan
+           id="tspan5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2777px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0;stroke-dasharray:none">Historic Preservation Commission</tspan></textPath></text>
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.7921;stroke-dasharray:none;stroke-opacity:1"
+       id="path6"
+       cx="254"
+       cy="254"
+       rx="190.10396"
+       ry="190.10394" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-501.9235,-118.4423)"
+       id="text7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect7);fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="507.91406"
+       y="0"><tspan
+         x="2730.8173"
+         y="801.98202"
+         id="tspan1">No 320
+</tspan><tspan
+         x="2466.5125"
+         y="895.3154"
+         id="tspan2">Julia Morgan Building</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text8"
+       style="fill:#000000;text-orientation:auto;stroke-width:0;stroke:#000000;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-size:96px;text-align:center;writing-mode:lr-tb;direction:ltr;stroke-dasharray:none;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-opacity:1;fill-opacity:1;white-space:pre;shape-inside:url(#rect8)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-454.35242,16.504255)"
+       id="text9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="2357.3252"
+         y="465.68211"
+         id="tspan3">3400 Laguna Street</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text10"
+       style="fill:#000000;text-orientation:auto;stroke-width:0;stroke:#000000;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-size:74.66666667px;text-align:center;writing-mode:lr-tb;direction:ltr;stroke-dasharray:none;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-opacity:1;fill-opacity:1;white-space:pre;shape-inside:url(#rect10)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:679.84;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       x="660.17017"
+       y="103.87972"
+       id="text11"
+       transform="translate(-403.86882,64.075347)"><tspan
+         x="660.17017"
+         y="103.87972"
+         id="tspan6">Commissioned by San Francisco Ladies Protection
+</tspan><tspan
+         x="660.17017"
+         y="119.75472"
+         id="tspan7">and Relief Society and opened in 1925, this Jacobean
+</tspan><tspan
+         x="660.17017"
+         y="135.62972"
+         id="tspan8">Revival building was designed by
+</tspan><tspan
+         x="660.17017"
+         y="151.50472"
+         id="tspan9">AIA Gold Medal architect Julia Morgan,
+</tspan><tspan
+         x="660.17017"
+         y="167.37972"
+         id="tspan10">An earthquake resilient reinforced concrete structure
+</tspan><tspan
+         x="660.17017"
+         y="183.25472"
+         id="tspan11">showcases a blend of brick, terracotta, and slate, adorned
+</tspan><tspan
+         x="660.17017"
+         y="199.12972"
+         id="tspan12">with Tudor roses—symbols of love and protection.
+</tspan><tspan
+         x="660.17017"
+         y="215.00472"
+         id="tspan13">Today, as Heritage on the Marina, the premises serves 
+</tspan><tspan
+         x="660.17017"
+         y="230.87972"
+         id="tspan14">as a retirement community. With expansive gardens and 
+</tspan><tspan
+         x="660.17017"
+         y="246.75472"
+         id="tspan15">timeless design, it continues to embodies an historic legacy 
+</tspan><tspan
+         x="660.17017"
+         y="262.62972"
+         id="tspan16">of charity and architectural significance, offering a serene
+</tspan><tspan
+         x="660.17017"
+         y="278.50472"
+         id="tspan17"> and graceful setting for residents and team members.</tspan></text>
+  </g>
+</svg>
