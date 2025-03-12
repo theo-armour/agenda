@@ -8,6 +8,7 @@
 <!-- this is a comment -->
 ## Today
 
+* Allison
 * Carolyn: thanks
 * Try projector
 * Josh + ACE
