@@ -9,8 +9,8 @@
 ## Today
 
 * Allison
-* H GENDA
-MIA
+* HH agenda
+* MIA
 * Try projector
 * Josh + ACE
 * 
