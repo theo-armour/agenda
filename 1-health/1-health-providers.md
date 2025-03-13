@@ -50,9 +50,6 @@ See opthalmology.md
 
 ## Orthopedics
 
-
-
-
 ## UCSF Surgery
 
 * Hip surgeon?

@@ -1,6 +1,26 @@
 # Josh
 
 
+## 2025-03-12
+
+Josh
+
+Current Chaos & Disruption
+If you read what "we" read it's full of bad news
+
+But if you read the conservative press it's mostly good news
+
+The disruptions are targeted at college educated and people who own shares.
+
+The disruptions are not targeted at the working class. Yet.
+
+Framework: Goals ~ Spending ~ Investments
+I don't anticipate any significant changes in the next year, but can reduce spending as and when the market tanks.
+
+So: "Anyone can steer the ship, but a leader must chart the course." Keep at it!
+
+
+
 ## Questions for January 2024
 
 
