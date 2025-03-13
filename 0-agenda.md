@@ -9,7 +9,8 @@
 ## Today
 
 * Allison
-* Carolyn: thanks
+* 
+
 * Try projector
 * Josh + ACE
 * Alan &amp; Jeff
