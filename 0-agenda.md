@@ -9,20 +9,18 @@
 ## Today
 
 * Allison
-* 
-
 * MIA
+* Leadership notes
 * Try projector
-* Myra: colin + edits
-* HH agenda
+* Myra: colin photo + edits
 * Taxes
-* 
-
 * HH: schedule msg + mia
 
 Soon
 
-* Leadership notes
+* HH agenda
+* 
+
 * John Choate
 * Corwin
 * John Mossi
