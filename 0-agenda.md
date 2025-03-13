@@ -9,14 +9,15 @@
 ## Today
 
 * Allison
-* HH agenda
-* MIA
-* Try projector
 * 
 
+* MIA
+* Try projector
 * Myra: colin + edits
+* HH agenda
 * Taxes
-* Dr Lea: Appointment
+* 
+
 * HH: schedule msg + mia
 
 Soon
