@@ -19,8 +19,6 @@
 Soon
 
 * HH agenda
-* 
-
 * John Choate
 * Corwin
 * John Mossi
