@@ -13,7 +13,8 @@
 MIA
 * Try projector
 * Josh + ACE
-* Alan &amp; Jeff
+* 
+
 * Myra: colin + edits
 * Taxes
 * Dr Lea: Appointment
