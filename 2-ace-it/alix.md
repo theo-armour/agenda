@@ -1,9 +1,17 @@
 # Alix
 
-* <a href="https://sensay.io">https://sensay.io</a>
-* minimise.today
-* <a href="https://www.minimise.today/">https://www.minimise.today/</a>
+* https://sensay.io
+* https://minimise.today
+* https://www.minimise.today/
 * https://www.nowos.com/
+* https://www.wegozero.co/
+* https://www.superconnectors.io/
+
+## 2025-03-13
+
+* Josh
+* April Dates?
+
 
 ## 2025-03-06
 

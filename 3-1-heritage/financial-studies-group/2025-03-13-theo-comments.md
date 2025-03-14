@@ -2,20 +2,24 @@
 
 Generally
 
-* Date: iy's March
+* Date: is March
 * "Annual" column is a duplicate of the YTD budget column.
 
 In other circumstances
 
 * Curious presentation: Income statement with expenses as negative numbers. Normally there would be a separate expense statement.
 * The report period is defined as "month". Normally the period is defined by the audience: operations: monthly, directors: quarterly, shareholders: annually. We meet semi-annually...
-* Random category importance: some have seven digits while others have just two digits. 
+* Random category importance: some have seven digits while others have just two digits.
 * Difficulty is arriving at the cost of individual services. What does transport by the van cost? How much do we spend on food? TouchTown?
+
+financial
+
+questions
 
 
 Page 2: November date
 
-Page 3: 
+Page 3:
 
 * PTD = "Period to Date"
 * Many items are not known to us: example: Types A, C, Private Patient?
@@ -23,7 +27,7 @@ Page 3:
 
 Page 4
 
-* High variances 
+* High variances
 * IT support $200K
 * Housekeeping $2.3M???
 
