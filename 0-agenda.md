@@ -11,18 +11,19 @@
 
 * Allison
 * MIA
-* Carolyn k: Verplanke + my paper
 * Leadership notes
 * Try projector
 * Myra: colin photo + edits
 * Taxes
 * HH: schedule msg + mia
-* Dr Kattah: thanks
+* 
 
 Soon
 
-* HH agenda
+* Dr Kattah: thanks
 * John Choate
+* HH agenda
+
 * Corwin
 * John Mossi
 * Kathy Paver: follow up
