@@ -9,13 +9,15 @@
 <!-- this is a comment -->
 ## Today
 
-* Allison
-* Alix
-* Leadership notes
 * Try projector
 * Myra: colin photo + edits
 * Taxes
-* HH: schedule msg + mia + trish
+* HH: schedule msg + agenda
+
+Monday
+* Allison
+* Alix
+* Leadership notes
 
 Soon
 
