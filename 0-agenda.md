@@ -10,8 +10,7 @@
 ## Today
 
 * Allison
-* 
-
+* Alix
 * Leadership notes
 * Try projector
 * Myra: colin photo + edits
