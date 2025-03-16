@@ -9,7 +9,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Try projector
+* 
+
 * Myra: colin photo + edits
 * Taxes
 * HH: schedule msg + agenda
