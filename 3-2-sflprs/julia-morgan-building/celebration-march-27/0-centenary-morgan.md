@@ -10,6 +10,13 @@ Michele Diaz <michele.diaz@ucsf.edu>,
 Cindy Barton <cfb756@gmail.com>,
 Martha Nell Beatty <marthanellbeatty@hotmail.com>
 
+## 2025-03-15
+
+* Guest List
+* Photographer
+* Reporter
+
+
 ## Agenda
 
 * Woody
