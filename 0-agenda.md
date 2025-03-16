@@ -11,7 +11,7 @@
 
 * 
 
-* Myra: colin photo + edits
+* Myra: world changing edits edits
 * Taxes
 * HH: schedule msg + agenda
 
