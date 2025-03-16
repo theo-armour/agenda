@@ -6,7 +6,7 @@
 * squegg + Phone
 * Nap on the floor&nbsp;
 
-## Avoidd thing over there ~
+## Avoid thing over there ~
 
 * ??
 * HH outlook account

@@ -9,21 +9,22 @@
 <!-- this is a comment -->
 ## Today
 
-* Allison
-* MIA
-* Leadership notes
-* Try projector
-* Myra: colin photo + edits
-* Taxes
-* HH: schedule msg + mia
 * 
+
+* Myra: world changing edits edits
+* Taxes
+* HH: schedule msg + agenda
+
+Monday
+* Allison
+* Alix
+* Leadership notes
 
 Soon
 
 * Dr Kattah: thanks
 * John Choate
-* HH agenda
-
+* Kay Tim: visit
 * Corwin
 * John Mossi
 * Kathy Paver: follow up
