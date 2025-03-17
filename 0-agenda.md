@@ -20,6 +20,7 @@ Monday
 * Allison
 * Alix
 * Leadership notes
+* John Choate
 
 Soon
 
