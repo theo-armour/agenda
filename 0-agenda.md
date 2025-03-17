@@ -9,7 +9,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Text to Socal bronze
+* 
+
 * Myra: world changing edits edits
 * Taxes
 * HH: schedule msg + agenda
