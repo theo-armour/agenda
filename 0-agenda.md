@@ -95,7 +95,7 @@ Whenever
 <!-- -->
 
 * ?
-* brshes ~ toothpaste
+* brshes ~ toothpaste ~ hydrogen peroxide ~ colgate optic white
 * Bean shirts
 * A: mike
 * Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
