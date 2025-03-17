@@ -9,9 +9,8 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
-* Myra: world changing edits edits
+* Mary: JMB plaque text
+* Myra: world changing edits
 * Taxes
 * HH: schedule msg + agenda
 
