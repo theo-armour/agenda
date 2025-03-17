@@ -9,8 +9,7 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-
+* Pilar
 * Myra: world changing edits
 * Taxes
 * HH: schedule msg + agenda
@@ -19,7 +18,7 @@ Monday
 
 * Allison
 * Alix
-* Leadership notes
+* Ana: Leadership notes
 * John Choate
 
 Soon
