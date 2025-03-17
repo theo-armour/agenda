@@ -1,20 +1,4 @@
-# 2025-01-22-jm-plaque-text
-
-* Brian ~ 218@fastsigns.com
-
-# radius 19.5" ~ https://www.english-heritage.org.uk/visit/blue-plaques/about-blue-plaques/changing-face-of-blue-plaques
-## Request for Quote: San Francisco Landmark Plaque
-
-This is a request for a quote for a new San Francisco landmark designation plaque. The plaque will be placed on the facade of the building.
-
-Typical sizes and materials are unknown to me, perhaps you can help.
-
-I would appreciate a ball park figure and estimated delivery time. 
-
-The details are as follows:
-
-
-## Image of a Typical San Francisco Landmark Plaque
+# Julia Morgan Building Plaque Text
 
 ## Outer Ring Text
 
@@ -48,4 +32,4 @@ and graceful setting for residents and team members.
 
 * Text on left: Designated
 * Center: Seal of the City and County of San Francisco
-* Text on right: December 17, 2024
+* Text on right: December 19, 2024
