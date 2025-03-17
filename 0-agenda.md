@@ -9,7 +9,7 @@
 <!-- this is a comment -->
 ## Today
 
-* 
+* Text to Socal bronze
 * Myra: world changing edits edits
 * Taxes
 * HH: schedule msg + agenda
@@ -64,7 +64,7 @@ Whenever
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>0 Admin</summary>
 
@@ -95,7 +95,7 @@ Whenever
 <!-- -->
 
 * ?
-* brshes ~ toothpaste ~ hydrogen peroxide ~ colgate optic white
+* brushes ~ toothpaste ~ hydrogen peroxide ~ colgate optic white
 * Bean shirts
 * A: mike
 * Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
