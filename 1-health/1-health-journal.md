@@ -1,6 +1,12 @@
 # Health Journal
 
 
+## 2025-03-18 Amanda
+
+* UCSF sports med connection
+* Fall
+* Night Splint working
+* Stop the pills
 
 ## 2024-12-17
 
@@ -9,8 +15,8 @@
 ## 2024-12-16
 
 * Dr Han: eyes OK
-* Night vision deteriorating&nbsp;
-* Eyelashes bother a bit&nbsp;
+* Night vision deteriorating
+* Eyelashes bother a bit
 * Occasional lack of focus when looking at computer screen
 * She said: cataract surgery in two years
 

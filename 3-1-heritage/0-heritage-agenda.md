@@ -1,9 +1,13 @@
 # 3.0 Heritage Agenda
 
+## Continuing Care Contract Statutes
+
+* https://www.cdss.ca.gov/
+* https://www.cdss.ca.gov/Portals/9/CCLD/Continuing%20Care%20Contract%20Statutes%20June%201,%202023.pdf
+
 ## Agenda
 
 * Bob: apt
-* 
 
 More
 
