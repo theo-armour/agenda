@@ -10,7 +10,8 @@
 ## Today
 
 * Pilar
-* Myra: world changing edits
+* 
+
 * Taxes
 * HH: schedule msg + agenda
 
@@ -85,13 +86,13 @@ Whenever
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
 
 * ?
-* brushes ~ toothpaste ~ hydrogen peroxide ~ colgate optic white
+* brushes ~ toothpaste ~ hydrogen peroxide ~ Colgate optic white
 * Bean shirts
 * A: mike
 * Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
