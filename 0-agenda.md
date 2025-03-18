@@ -10,8 +10,6 @@
 ## Today
 
 * Pilar
-* 
-
 * Taxes
 * HH: schedule msg + agenda
 
@@ -25,7 +23,6 @@ Monday
 Soon
 
 * Dr Kattah: thanks
-* John Choate
 * Kay Tim: visit
 * Corwin
 * John Mossi
