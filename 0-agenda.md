@@ -9,7 +9,8 @@
 <!-- this is a comment -->
 ## Today
 
-* SacSem
+* 
+
 * Taxes
 * HH: schedule msg + agenda
 
