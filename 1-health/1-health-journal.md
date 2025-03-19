@@ -3,10 +3,12 @@
 
 ## 2025-03-18 Amanda
 
-* UCSF sports med connection
 * Fall
+* UTI ~ UCSF ~ Urology ~ Marshall L. Stoller, MD
+* UCSF sports med connection
 * Night Splint working
-* Stop the pills
+* Stop the statin pill delivery
+* Hook ~ not so much
 
 ## 2024-12-17
 

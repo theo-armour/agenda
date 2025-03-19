@@ -1,4 +1,4 @@
-# Bladder
+# Urology ~ Bladder
 
 ## Bacteria
 
@@ -17,3 +17,7 @@ Have 4 hours after:
 * Antacid
 * Calcium
 * Yoghurt
+
+## Urology
+
+* Marshall L. Stoller, MD ~ UCXF

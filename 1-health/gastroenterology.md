@@ -38,7 +38,12 @@ Jeopardy
 
 https://www.ucsfhealth.org/list-of-clinics/gastroenterology
 
-### Kattah, Michael George, MD, PhD ~ Gastroenterology UCSF
+### Colon Surgery
+
+* UCSF General Surgery ~ 415 353 2161 ~ Diana
+* Angela Laffen, van Loon, Erin van Blarigan
+
+### Kattah, Michael George, MD, PhD ~ 
 
 * <a href="https://www.ucsfhealth.org/providers/dr-michael-kattah">https://www.ucsfhealth.org/providers/dr-michael-kattah</a>
 * <a href="https://profiles.ucsf.edu/michael.kattah">https://profiles.ucsf.edu/michael.kattah</a>

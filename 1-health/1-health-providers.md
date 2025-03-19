@@ -28,7 +28,7 @@ See PPH
 * Non HIPPA-needed communications
 * Web site updates ~ Android app
 
-## UCSF Dental
+## Dental
 
 * see dentistry
 
@@ -36,21 +36,21 @@ See PPH
 
 * Sciatica ~ See 2020 Notes
 
-## UCSF Dermatology
+## Dermatology
 
 See dentistry.md
 
-## UCSF Gastroenterology
+## Gastroenterology
 
 See gastroenterology.md
 
-## UCSF Ophthalmology
+## Ophthalmology
 
 See opthalmology.md
 
 ## Orthopedics
 
-## UCSF Surgery
+### UCSF Surgery
 
 * Hip surgeon?
 
@@ -76,11 +76,11 @@ See opthalmology.md
 
 * 1480 Sutter Street, San Francisco CA 94109 ~ 415 567 3136
 
+## Urology 
 
-## Colon Surgery
+* See urology-bladder.md
+* Marshall L. Stoller, MD
 
-* UCSF General Surgery ~ 415 353 2161 ~ Diana
-* Angela Laffen, van Loon, Erin van Blarigan
 
 ## Alternatives Geriatrics
 
