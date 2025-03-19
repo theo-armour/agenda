@@ -4,12 +4,10 @@
 
 * +++
 * John Choate
-* Eloise+Corwin+three joints
+* Eloise+Corwin+three joints+pge bldg
 * <div style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; line-height: 20px; white-space: pre;">Man on sofa reading financial times jane standing
-
 * I will never be a consumer - is that my epidot
 * 
-
 * I'm here to move fast and break things. The last time that happened it was my femur
 * Blow the conch shell Hawaii Bob
 * Boys club question in the style of Ogden Nash understandable by a 10-year-old
@@ -36,9 +34,7 @@ Escort&nbsp; committee
 * unselfish in friendship,
 * %
 * 
-
 * &nbsp;of those less happy than ourselves,
-
 * and eager to bear the burdens of others,
 * through Jesus Christ our Savior. Amen.
 
