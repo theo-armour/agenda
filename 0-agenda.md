@@ -19,9 +19,6 @@ Monday
 * Allison
 * Alix
 * Ana: Leadership notes
-* John Choate
-
-Soon
 
 * Dr Kattah: thanks
 * Kay Tim: visit
