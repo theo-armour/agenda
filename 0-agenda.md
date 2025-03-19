@@ -21,7 +21,7 @@ Monday
 * Ana: Leadership notes
 * Dr Kattah: thanks
 * Kay Tim: visit
-* Corwin
+* John Choaate: Eloise + Corwin
 * John Mossi
 * Kathy Paver: follow up
 * UCSF patient advocate
