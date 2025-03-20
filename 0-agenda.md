@@ -9,7 +9,8 @@
 <!-- this is a comment -->
 ## Today
 
-* Pilar
+* 
+
 * Taxes
 * HH: schedule msg + agenda
 
@@ -18,13 +19,9 @@ Monday
 * Allison
 * Alix
 * Ana: Leadership notes
-* John Choate
-
-Soon
-
 * Dr Kattah: thanks
 * Kay Tim: visit
-* Corwin
+* John Choaate: Eloise + Corwin
 * John Mossi
 * Kathy Paver: follow up
 * UCSF patient advocate
