@@ -14,6 +14,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday, March 21 at North Beach Restaurant: Sacramento Seminar Roundtable
 * Friday, March 14 at North Beach Restaurant: Carl Nolte, veteran San Francisco Chronicle columnist
 * Friday, March 7 at North Beach Restaurant: Sacramento Seminar Roundtable
 * Friday, February 28 at North Beach Restaurant: Sacramento Seminar Roundtable
