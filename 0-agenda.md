@@ -9,8 +9,6 @@
 <!-- this is a comment -->
 ## Today
 
-* 
-* Dr Kattah: thanks + GitHub ~ zoom
 * PPH: meds + TD vaccine due + urology
 * Plaque: Al&nbsp;
 * Plaque: signage
@@ -21,6 +19,7 @@
 * Taxes
 * Alix
 
+* Dr Kattah: thanks + GitHub ~ zoom
 Monday
 
 * Allison
