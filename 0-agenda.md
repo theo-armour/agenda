@@ -9,17 +9,16 @@
 <!-- this is a comment -->
 ## Today
 
-* 
+* Dr Kattah: thanks
+* Josh
 * Taxes
+* Alix
 * HH: schedule msg + agenda
 
 Monday
 
 * Allison
-* Alix
-* 
 
-* Dr Kattah: thanks
 * Kay Tim: visit
 * John Choaate: Eloise + Corwin
 * John Mossi
