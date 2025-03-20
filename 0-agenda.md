@@ -19,11 +19,10 @@ Monday
 
 * Allison
 
-* Kay Tim: visit
+* Margaret Johnson
 * John Choaate: Eloise + Corwin
 * John Mossi
-* Kathy Paver: follow up
-* UCSF patient advocate
+
 * Jack O: talk at H + Guestroom?
 * ace-it: ICE
 * PLE: Ronan ~ calendar
@@ -38,6 +37,8 @@ Whenever
 
 * Avery + Bancroft: documentalist
 * Tania: concierge in Durham
+* UCSF patient advocate
+* Kathy Paver: follow up
 * List of one-handed things for T
 * NV: use for volunteers
 * NV: Margaret Jacobs
