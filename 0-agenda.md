@@ -15,7 +15,8 @@
 
 * Sora
 * Plaque: signage
-* Colin: mag-safe holder
+* 
+
 * Aselya: kay
 * Myra
 * Speech
@@ -23,6 +24,8 @@
 
 Soon
 
+* Mark Carranza
+* Joel P
 * Pharmerica
 * John Choate: Eloise + Corwin
 * Gukhui: Camino
