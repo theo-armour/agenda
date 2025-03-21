@@ -3,26 +3,32 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
+* plank ~ eating ~ flying drone ~ Interval ~ standing on one foot
 * 2025-03-13 ~ Farnum ~&nbsp;The person who experiences the consequences should make the decision."
 * 2025-03-09 ~ Farnum:&nbsp;Be among the best. Pretend you're not. Work harder than everyone else.
 
 <!-- this is a comment -->
 ## Today
 
-* Dr Kattah: thanks
+* PPH: meds + TD vaccine due + urology
+* Scales: connected
+* Sora
+* Plaque: signage
+* Colin: mag-safe holder
+* Aselya: kay
+* Myra
+* Speech
 * Josh
 * Taxes
 * Alix
-* HH: schedule msg + agenda
 
+* Dr Kattah: thanks + GitHub ~ zoom
 Monday
 
 * Allison
-
 * Margaret Johnson
-* John Choaate: Eloise + Corwin
+* John Choate: Eloise + Corwin
 * John Mossi
-
 * Jack O: talk at H + Guestroom?
 * ace-it: ICE
 * PLE: Ronan ~ calendar
@@ -91,7 +97,7 @@ Whenever
 <!-- -->
 
 * ?
-* brushes ~ toothpaste ~ hydrogen peroxide ~ Colgate optic white
+* Safeway: brushes ~ toothpaste ~ hydrogen peroxide
 * Bean shirts
 * A: mike
 * Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
@@ -203,7 +209,7 @@ Waiting
 **Family**
 
  -->
-<details open="">
+<details>
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
@@ -326,7 +332,7 @@ Waiting
 **Projects**
 
 -->
-<details open="">
+<details>
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
