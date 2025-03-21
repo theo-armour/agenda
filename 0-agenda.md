@@ -11,8 +11,8 @@
 ## Today
 
 * PPH: meds + TD vaccine due + urology
-* 
-
+* Scales: connected
+* Sora
 * Plaque: signage
 * Colin: mag-safe holder
 * Aselya: kay
