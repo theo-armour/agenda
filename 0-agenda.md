@@ -87,13 +87,14 @@ Whenever
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
 
 * ?
-* brushes ~ toothpaste ~ hydrogen peroxide ~ Colgate optic white
+* 
+
 * Bean shirts
 * A: mike
 * Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
