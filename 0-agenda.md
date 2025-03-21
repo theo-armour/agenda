@@ -87,14 +87,13 @@ Whenever
 
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
 
 * ?
-* 
-
+* Safeway: brushes ~ toothpaste ~ hydrogen peroxide
 * Bean shirts
 * A: mike
 * Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
