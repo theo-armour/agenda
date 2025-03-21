@@ -11,6 +11,7 @@
 ## Today
 
 * PPH: meds + TD vaccine due + urology
+* Edit Video
 * Scales: connected
 * Sora
 * Plaque: signage
