@@ -11,9 +11,11 @@
 ## Today
 
 * PPH: meds + TD vaccine due + urology
-* Plaque: Al&nbsp;
+* 
+
 * Plaque: signage
 * Colin: mag-safe holder
+* Aselya: kay
 * Myra
 * Speech
 * Josh
