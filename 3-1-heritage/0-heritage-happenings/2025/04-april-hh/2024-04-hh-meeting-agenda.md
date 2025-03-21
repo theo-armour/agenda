@@ -40,7 +40,9 @@ Activities
 
 ## Content for April Issue
 
+* Bledsoe: Hawaii
 * Doris:
+* Fred: lonliness
 * Jane:
 * Margaret Jacobs: Notes on Gallery Exhibit >> perhaps Cindy
 * Margaret Missiaen: Pride of Madeira
