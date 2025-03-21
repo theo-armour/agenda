@@ -8,43 +8,50 @@
 * 2025-03-09 ~ Farnum:&nbsp;Be among the best. Pretend you're not. Work harder than everyone else.
 
 <!-- this is a comment -->
+* Scales: connected
+
 ## Today
 
-* PPH: meds + TD vaccine due + urology
-* Edit Bos Video
-* Scales: connected
 * Sora
 * Plaque: signage
 * Colin: mag-safe holder
 * Aselya: kay
-* Invites
 * Myra
 * Speech
+* Jennifer
+
+Soon
+
+* John Choate: Eloise + Corwin
+* Gukhui: Camino
+* Invites
+* PPH: meds + TD vaccine due + urology
+* Edit BoS video
 * Josh
 * Taxes
 * Alix
 * Dr Kattah: thanks + GitHub ~ zoom
-
 * Allison
 * Margaret Johnson
-* John Choate: Eloise + Corwin
-* John Mossi
+
+Whenever
+
+* Olga:
+* Alex, Peter
 * Jack O: talk at H + Guestroom?
 * ace-it: ICE
 * PLE: Ronan ~ calendar
-* PeterO:&nbsp;
+* PeterO:
 * IA: storage photos
 * George Smart: woody
 * Jason Carman
 * Leah WSD
 * Ann Seymour
-
-Whenever
-
 * Avery + Bancroft: documentalist
 * Tania: concierge in Durham
 * UCSF patient advocate
 * Kathy Paver: follow up
+* John Mossi
 * List of one-handed things for T
 * NV: use for volunteers
 * NV: Margaret Jacobs
