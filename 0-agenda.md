@@ -13,25 +13,23 @@
 
 ## Today
 
-* Sora
 * Plaque: signage
-* 
-
 * Aselya: kay
 * Myra
 * Speech
-* 
+* Sora
 
 Soon
 
 * Mark Carranza
+* Edit BoS video
 * Joel P
 * Pharmerica
 * John Choate: Eloise + Corwin
 * Gukhui: Camino
 * Invites
 * PPH: meds + TD vaccine due + urology
-* Edit BoS video
+
 * Josh
 * Taxes
 * Alix
