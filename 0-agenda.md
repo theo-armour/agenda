@@ -17,6 +17,7 @@
 * Plaque: signage
 * Colin: mag-safe holder
 * Aselya: kay
+* Invites
 * Myra
 * Speech
 * Josh
