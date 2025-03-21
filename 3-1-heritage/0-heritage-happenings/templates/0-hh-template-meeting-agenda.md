@@ -1,4 +1,6 @@
-# _Heritage Happenings_ January Issue Agenda
+# _Heritage Happenings_ <<month>> Issue Agenda
+
+4:30 McGinley Room ~ 10 days before publication
 
 ## Month Issue Review
 
@@ -10,6 +12,7 @@
 * **Colors**
 * **Cameo**
 * **Health Topic**
+* **Publication Date**: <<date>>
 
 ## Events
 
@@ -30,13 +33,14 @@
 
 * Margaret Jacobs: RC notes
 
-## Content for January Issue
+## Content for <<month>> Issue
 
 * Bob Granucci:
 * Doris:
 * Jane:
 * Margaret Jacobs:
 * Margaret Johnson:
+* Margaret Missiaen:
 * Martha Nell:
 * Martha Nell:
 * Patrick:

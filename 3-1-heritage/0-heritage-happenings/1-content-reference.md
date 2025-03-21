@@ -116,14 +116,18 @@ Health & Wellness Topic of the Month
 
 ### April
 
+* Publishing date: April 1 or April 4
 * April Fools Day
 * National Poetry Month
 * Easter
 * Passover
 * Earth Day
+* 2025-04-17 ~ May HH Committee Meeting May
+* 2025-04-30 ~ May Publishing
 
 ### May
 
+* 2025-05-20 ~ HH Committee Meeting June Issue
 * Cinco de Mayo Mariachi Band
 * Song Request: "El Mariachi Loco" is the one who dances ~ musicians have to dance: "El Son de la Negra"?
 * Big guitar Guiteron ~ https://en.wikipedia.org/wiki/Guitarr%C3%B3n_mexicano
