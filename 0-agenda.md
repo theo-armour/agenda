@@ -12,7 +12,6 @@
 * PPH: meds + TD vaccine due + urology
 * Plaque: Al&nbsp;
 * Plaque: signage
-* HH: schedule msg + agenda
 * Myra
 * Speech
 * Josh
