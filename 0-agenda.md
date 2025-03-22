@@ -13,11 +13,10 @@
 
 ## Today
 
-* 
-
 * Myra
 * Speech&nbsp;
 * Sora
+* Al Sterling: rose notches
 
 Soon
 
@@ -27,7 +26,8 @@ Soon
 * Joel P
 * Pharmerica
 * John Choate: Eloise + Corwin
-* Gukhui: Camino
+* Gukhui: Camino ~ strava
+
 * Invites
 * PPH: meds + TD vaccine due + urology
 * Josh
