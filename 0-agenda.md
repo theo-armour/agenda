@@ -13,7 +13,8 @@
 
 ## Today
 
-* Aselya: kay
+* 
+
 * Myra
 * Speech&nbsp;
 * Sora
