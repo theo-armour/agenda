@@ -13,16 +13,15 @@
 
 ## Today
 
-* 
-
 * Aselya: kay
 * Myra
-* SpeechHi&nbsp;
+* Speech&nbsp;
 * Sora
 
 Soon
 
 * Mark Carranza
+* Margaret Johnson
 * Edit BoS video
 * Joel P
 * Pharmerica
