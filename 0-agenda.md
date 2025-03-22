@@ -13,21 +13,23 @@
 
 ## Today
 
-* Sora
-* Plaque: signage
-* Colin: mag-safe holder
-* Aselya: kay
-* Myra
-* Speech
 * 
+
+* Myra
+* Speech&nbsp;
+* Sora
 
 Soon
 
+* Mark Carranza
+* Margaret Johnson
+* Edit BoS video
+* Joel P
+* Pharmerica
 * John Choate: Eloise + Corwin
 * Gukhui: Camino
 * Invites
 * PPH: meds + TD vaccine due + urology
-* Edit BoS video
 * Josh
 * Taxes
 * Alix
