@@ -1,4 +1,4 @@
-# SFLPRA Board of Directors
+# SFLPRS Board of Directors
 
 * Laura: Falls infographic? staff? residents?
 * Building committee

@@ -1,10 +1,4 @@
-# 2025-03-18 speech theo 2
-
-Here's a revised version of the speech, condensed to approximately 600 words while maintaining the key points and humor:
-
----
-
-# 2025-03-18
+# 2025-03-21 3
 
 Mayor Lurie, Supervisor Sherrill, Members of the Board of Directors, distinguished residents and team members, and fellow citizens,
 

@@ -43,7 +43,7 @@ Depending on the results, I may need help in preparing exhibition panels and/or 
 
 ## Goals
 
-My personal gosals go beyond the March celbration and include the folowing
+My personal goals go beyond the March celbration and include the folowing
 
 * Goal: Discover evidence that the Morgan Building was intended by Julia Morgan to be "The loveliest building in San Francisco", IE, that that roses we see are intended to be symbols of love
 * Goal: Entry to National Registry of historic Places
