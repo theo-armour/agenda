@@ -16,22 +16,23 @@
 * Speech: practice&nbsp;
 * 
 
-Soon
+Monday
 
 * Al Sterling: rose notches
 * Josh: replicas by Wednesday&nbsp;
 * Pharmerica
 * John Choate: Eloise + Corwin
-* Invites
+* Invites: kerri
 * PPH: meds + TD vaccine due + urology
+* Slides
+
+Whenever
+
 * Josh
 * Taxes
 * Alix P
 * Dr Kattah: thanks + GitHub ~ zoom
 * Allison
-
-Whenever
-
 * Olga:
 * Joel P
 * Alex, Peter
@@ -53,7 +54,6 @@ Whenever
 * NV: use for volunteers
 * NV: Margaret Jacobs
 * NV: Le'mere
-* Genualdi
 * Ronan
 * Tiller
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
