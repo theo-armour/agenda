@@ -15,7 +15,8 @@
 
 * Speech: practice&nbsp;
 * Mark Carranza
-* Mia &amp; Trish
+* 
+
 * 
 
 Soon
