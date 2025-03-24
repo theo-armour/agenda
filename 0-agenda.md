@@ -14,8 +14,8 @@
 ## Today
 
 * Speech: practice&nbsp;
-* Myra
-* Gukhui: Camino ~ strava
+* 
+
 * Mark Carranza
 * Mia * Trish
 
