@@ -24,7 +24,9 @@ But she rarely spoke about her work or gave interviews.
 
 As she said: "My buildings will be my legacy... they will speak for me long after I'm gone."
 
-As a phenomenal "Building whisperers", what is Julia telling us? What secrets is the building whispering as we walk by?
+As a phenomenal "Building whisperers", what is Julia telling us? 
+
+What secrets is the building whispering as we walk by?
 
 The style is Tudor Revival, constructed with brick, terracotta, and slate. 
 
@@ -60,11 +62,11 @@ The rose is an ancient symbol of love.
 
 What do you send to someone you love on Valentines Day? A dozen roses.
 
-In designing this home for women in need, Julia Morgan wrapped them—and us—in a quiet message of safety, comfort, and love.”
+In designing this home for women in need, Julia Morgan wrapped them — and us — in a quiet message of safety, comfort, and love.
 
 The panels with three roses? 
 
-Three roses stand for the three words "I love you."
+Three roses often stands for three words "I love you."
 
 Guess what? It works.
 
