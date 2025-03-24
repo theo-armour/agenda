@@ -14,9 +14,6 @@
 ## Today
 
 * Speech: practice&nbsp;
-* Mark Carranza
-* 
-
 * 
 
 Soon
