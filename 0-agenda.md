@@ -13,16 +13,17 @@
 
 ## Today
 
-* Myra
 * Speech&nbsp;
+* Myra
 * Gukhui: Camino ~ strava
-* Al Sterling: rose notches
+* Mark Carranza
+* 
 
 Soon
 
-* Mark Carranza
-* Margaret Johnson: 27th
 * 
+
+* Al Sterling: rose notches
 * Joel P
 * Pharmerica
 * John Choate: Eloise + Corwin
