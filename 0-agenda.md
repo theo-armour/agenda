@@ -14,28 +14,28 @@
 ## Today
 
 * Speech: practice&nbsp;
-* 
-
 * Mark Carranza
-* Mia * Trish
+* Mia &amp; Trish
+* Mary: BoS video
 
 Soon
 
 * Al Sterling: rose notches
-* Joel P
+* Josh: replicas by Wednesday&nbsp;
 * Pharmerica
 * John Choate: Eloise + Corwin
 * Invites
 * PPH: meds + TD vaccine due + urology
 * Josh
 * Taxes
-* Alix
+* Alix P
 * Dr Kattah: thanks + GitHub ~ zoom
 * Allison
 
 Whenever
 
 * Olga:
+* Joel P
 * Alex, Peter
 * Jack O: talk at H + Guestroom?
 * ace-it: ICE
@@ -97,7 +97,7 @@ Whenever
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
