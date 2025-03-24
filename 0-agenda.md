@@ -16,7 +16,7 @@
 * Speech: practice&nbsp;
 * Mark Carranza
 * Mia &amp; Trish
-* Mary: BoS video
+* 
 
 Soon
 
@@ -103,7 +103,7 @@ Whenever
 <!-- -->
 
 * ?
-* Safeway: brushes ~ toothpaste ~ hydrogen peroxide
+* Safeway: brushes ~ toothpaste ~ hydrogen peroxide ~ esomeprazole
 * Bean shirts
 * A: mike
 * Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
