@@ -13,22 +13,18 @@
 
 ## Today
 
-* Speech&nbsp;
+* Speech: practice&nbsp;
 * Myra
 * Gukhui: Camino ~ strava
 * Mark Carranza
-* 
+* Mia * Trish
 
 Soon
-
-* 
 
 * Al Sterling: rose notches
 * Joel P
 * Pharmerica
 * John Choate: Eloise + Corwin
-* 
-
 * Invites
 * PPH: meds + TD vaccine due + urology
 * Josh
@@ -36,7 +32,6 @@ Soon
 * Alix
 * Dr Kattah: thanks + GitHub ~ zoom
 * Allison
-* Margaret Johnson
 
 Whenever
 
