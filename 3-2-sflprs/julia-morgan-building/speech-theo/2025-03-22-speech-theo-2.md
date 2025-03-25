@@ -1,74 +1,78 @@
 # 2025-03-22 2
 
-Mayor Lurie, Supervisor Sherrill, members of the Board of Directors, distinguished residents and team members, and fellow citizens,
+Salutations Mayor Lurie. 
 
-You've likely passed by this building countless times. You may have even entered it. But have you ever truly looked at it?
+Greetings Supervisor Sherrill
 
-My goal today is to reveal to you the secrets of the Julia Morgan Building.
+Howdy Board of Directors, distinguished residents, team members, and fellow citizens,
 
-It's a story with a rich history. 
+You have walked past or even inside this building countless times. 
+
+But have you ever - truly - looked at it?
+
+My goal today is to reveal to you the secrets of this Julia Morgan Building.
+
+Before we explore the architecture, let’s step back into history
 
 Two years ago, we celebrated in this parlor, the 170th anniversary of the San Francisco Ladies Protection and Relief Society — the second oldest charitable organization in the city.
 
-Today, we gather to honor the Society's enduring gift to the city. 
+Today, we convene to honor the Society's enduring gift to the city. 
 
 We celebrate the 100th anniversary of the Julia Morgan Building, 
 
-Not surprisingly, the Society has a history of employing the most illustrious architects of their day. 
+Not surprisingly, the Society has a history of employing the most illustrious architects of the day. 
 
-In 1922, they commissioned Julia Morgan to design a building to serve as a home for the elderly and infirm.
+In 1922, the Society commissioned Julia Morgan to design a building to serve as a home for the elderly and infirm.
 
-Julia Morgan, famous as the designer of Hearst Castle at San Simeón, designed over 750 projects.
-
-But she rarely spoke about her work or gave interviews.
+Julia Morgan — best known for Hearst Castle — designed hundreds of buildings, yet she rarely spoke of her work
 
 As she said: "My buildings will be my legacy... they will speak for me long after I'm gone."
 
-As a phenomenal "Building whisperers", what is Julia telling us? 
+As a phenomenal "Building whisperer", what is Julia telling us? 
 
-What secrets is the building whispering as we walk by?
+What secrets is this mansion whispering as we walk by?
 
-The style is Tudor Revival, constructed with brick, terracotta, and slate. 
+The style is Tudor Revival, constructed with brick, terracotta, and slate - just like the sixteen hundreds
 
-The decorations here are more than just aesthetic; they carry meaning. 
+The decorations therefore are more than just aesthetic; they carry historic meaning. 
 
-In the past, such decorations were symbols that spoke to people.
+Such decorations are symbols that speak to people.
 
 Let's take a closer look.
 
-Just above the outside front door, there are two shields. Unadorned. Just shields.
+Just above the front door, there are two shields. Unadorned. Just shields.
 
-Why do you carry a shield? To protect yourself, of course.
+Well, why do you carry a shield? To protect yourself, of course.
 
-What is the name of the organization that built this building? The San Francisco Ladies Protection and Relief Society.
+What is the name of the organization that built this building? 
 
-We protect you!
+The shields are whispering "The San Francisco Ladies Protection and Relief Society."
 
-The largest decorations are the two large terracotta panels on the second floor. 
+The largest decorations are two large terracotta panels on both wings of the second floor. 
 
-Each contains three images of a flower - the Tudor rose.
+Each contains three images of a special flower - the Tudor rose.
 
 This rose symbolizes the end of the War of the Roses, uniting the Houses of York and Lancaster.
 
-Looking around, you can see these roses in at least twenty different places.
+Looking around, you can see these roses repeated in at least twenty different ways.
 
-Even indoors.
+After you’ve soaked in the exterior details, step inside…
 
 There are four on the fireplace in the parlor and four more roses on the altar in the chapel.
 
-So why does Julia obsess on the rose? 
+So why does Julia obsess on the rose? What is she whispering?
 
 The rose is an ancient symbol of love.
 
-What do you send to someone you love on Valentines Day? A dozen roses.
+What do you send to someone you love on Valentines Day? A dozen roses!
 
 In designing this home for women in need, Julia Morgan wrapped them — and us — in a quiet message of safety, comfort, and love.
 
-The panels with three roses? 
+The panels with three roses?
 
-Three roses often stands for three words "I love you."
+Three roses often stands for three words "I love you"
 
-Guess what? It works.
+And indeed, these words resonate to this day
 
 Go up to the art gallery on the second floor.
 
@@ -82,7 +86,9 @@ Julia still speaks to us.
 
 You are in a building surrounded by symbols of love.
 
-You are in one of the loveliest building in San Francisco
+Not just on the front facade but on every wall
+
+Julia is whispering, "You are standing in one of the loveliest buildings in San Francisco"
 
 Let us return the compliment.
 
