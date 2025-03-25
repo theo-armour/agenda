@@ -13,7 +13,7 @@
 
 * Alix Visit
 * Josh Talk
-* Semior Beat
+* Senior Beat
 
 ## 2025-02-17
 
@@ -24,7 +24,6 @@
 ## 2025-01-20
 
 * Chloe ~ dates?
-
 * House ~ https://www.bishopsranch.org/? ~ $5,000
 * EOL ~ like it
 * Diana Greer
