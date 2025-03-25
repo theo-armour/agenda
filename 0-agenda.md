@@ -16,11 +16,8 @@
 * Speech: practice&nbsp;
 * PPH: meds + TD vaccine due + urology
 * PPH Amanda: notes
-* 
-* Josh: replicas by Wednesday&nbsp;
 * Pharmerica
 * Invites: kerri
-* 
 
 Whenever
 
