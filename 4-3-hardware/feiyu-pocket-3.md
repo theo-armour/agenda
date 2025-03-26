@@ -1,5 +1,11 @@
 # FeiYu Pocket 3
 
+## Tips
+
+* Photo or Vido: swipe from roght to left
+
+## Links
+
 * https://www.feiyu-tech.com/feiyu-pocket-3/
 * videos ~ https://www.feiyu-tech.com/play/147.html
 * product ~ https://store.feiyu-tech.com/collections/gimbal/products/feiyu-pocket-3
