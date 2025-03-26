@@ -14,10 +14,9 @@
 ## Today
 
 * Speech: practice&nbsp;
-* 
-
+* sam
 * Pharmerica
-* Invites: kerri
+* 
 
 Whenever
 
@@ -99,7 +98,8 @@ Whenever
 * ?
 * Safeway: brushes ~ toothpaste ~ hydrogen peroxide ~ esomeprazole
 * Bean shirts
-* A: mike
+* 
+
 * Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
 * Plateau chair
 * Winter shoes
