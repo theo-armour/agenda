@@ -14,7 +14,8 @@
 ## Today
 
 * Speech: practice&nbsp;
-* sam
+* sacsem
+* Randy:
 * Pharmerica
 * 
 
