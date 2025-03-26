@@ -90,16 +90,15 @@ Whenever
 
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
 
 * ?
+* Magsafe walker holder
 * Safeway: brushes ~ toothpaste ~ hydrogen peroxide ~ esomeprazole
 * Bean shirts
-* 
-
 * Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
 * Plateau chair
 * Winter shoes
