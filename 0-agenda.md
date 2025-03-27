@@ -19,6 +19,7 @@
 
 Whenever
 
+* Katie Morris: email
 * MJa: RN ~ chair lifts ~ electric chairs
 * Al Sterling: rose notches
 * John Choate: Eloise + Corwin
