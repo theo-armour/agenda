@@ -1,5 +1,19 @@
 # Plaque Journal
 
+
+## Recipients
+
+* Supervisor Sherrill
+* Dignitary or their representative
+* Carolyn Kiernat??
+* Randy Gridley
+* Mary Linde
+* Margaret Johnson
+* Theo Armour
+* Selected Team Member (Angie)
+
+If the plaque is given to a representative, we will ask that a photo be taken with the plaque and the recipient and shared with us for publication in our newsletter.
+
 ## South Bay Bronze
 
 * Gilbert Hernandez

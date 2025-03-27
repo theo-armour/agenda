@@ -5,7 +5,6 @@ Salutations Mayor Lurie.
 Greetings Supervisor Sherrill
 
 
-
 Welcome Randy
 
 Howdy Board of Directors, distinguished residents, team members, and fellow citizens,
