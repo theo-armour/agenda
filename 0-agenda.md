@@ -15,7 +15,6 @@
 
 * Speech: practice&nbsp;
 * Pharmerica
-* Feiyu: test
 * 
 
 Whenever
