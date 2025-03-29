@@ -2,7 +2,8 @@
 
 ## Tips
 
-* Photo or Vido: swipe from roght to left
+* Photo or Video: swipe from right to left
+* View on PC: USB to computer, select PCCAM, use PC Camera app
 
 ## Links
 
