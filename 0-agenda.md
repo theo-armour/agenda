@@ -19,6 +19,8 @@
 
 Whenever
 
+* Alix: storage lady
+* Cynthia: safe deposit box
 * Katie Morris: email
 * MJa: RN ~ chair lifts ~ electric chairs
 * Al Sterling: rose notches
