@@ -11,7 +11,7 @@
 * 2x HDMI, 1x VGA, 1x Audio In, 1x Audio Out ??
 * 100x100mm VESA Mountable
 * 3 Year Warranty
-* https://www.uhale.zeasn.tv
+* https://uhale.zeasn.tv
 * https://uhalephoto.com/downloadPage
 * https://www.amazon.com/dp/B0CY8FJCFN
 
