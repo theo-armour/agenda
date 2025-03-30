@@ -28,6 +28,7 @@
 ## Coding
 
 * +++
+* Reddit account fix
 * Win + V: clipboard history
 * Delete old passwords
 * Bookmarks HTML to JSON
