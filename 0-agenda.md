@@ -98,10 +98,10 @@ Whenever
 <!-- -->
 
 * ?
-* Magsafe walker holder
-* Safeway: brushes ~ toothpaste ~ hydrogen peroxide ~ esomeprazole
+* LL Bean ~ shirts ~ blanket
+* Safeway: hydrogen peroxide
 * Bean shirts
-* Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
+* Magsafe walker holder ~ Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small s
