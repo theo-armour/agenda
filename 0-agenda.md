@@ -15,7 +15,6 @@
 
 * Speech: practice&nbsp;
 * Pharmerica
-* 
 
 Whenever
 
