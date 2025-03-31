@@ -6,7 +6,8 @@
 
 ## Today
 
-* HH Angie: check
+* 
+
 * Martha Nel: jpg?
 * NV: Laura
 * SacSem: wix
