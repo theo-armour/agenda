@@ -11,20 +11,20 @@
 * Cynthia: safe deposit box
 * CenCel: list of tasks completed
 * Katie Morris: email
+* HH Angie: check
+* Martha Nel: jpg?
+* NV: Laura
 Whenever
 
 * MJa: RN ~ chair lifts ~ electric chairs
 * Al Sterling: rose notches
 * John Choate: Eloise + Corwin
-* 
-
 * Alix P
 * Allison
 * Olga:
 * Joel P
 * Alex, Peter
 * Jack O: talk at H + Guestroom?
-* ace-it: ICE
 * PLE: Ronan ~ calendar
 * PeterO:
 * IA: storage photos
@@ -34,7 +34,6 @@ Whenever
 * Ann Seymour
 * Avery + Bancroft: documentalist
 * Tania: concierge in Durham
-* UCSF patient advocate
 * Kathy Paver: follow up
 * John Mossi
 * List of one-handed things for T
@@ -57,11 +56,13 @@ Whenever
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>0 Admin</summary>
 
 * ?
+* Josh
+* Taxes
 * Pharmerica
 * Amazon Library? Look for Amazon household ~ some books can be shared
 * Josh: reply
@@ -119,13 +120,14 @@ Waiting
 **Health**
 
 -->
-<details open="">
+<details>
 
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
 * ++
-* Amanad: + PT
+* UCSF patient advocate
+* Amanda: CVS + PT
 * Dr Kattah: thanks + GitHub ~ zoom
 * <a href="https://www.ucsfhealth.org/services/case-management-and-social-work">https://www.ucsfhealth.org/services/case-management-and-social-work</a>
 * UCSF: Dental appointment
