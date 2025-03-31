@@ -9,8 +9,8 @@
 * Printer
 * Martha Nel: jpg?
 * SacSem: wix
-* Mary: plaques
-* Mary: scans
+* 
+
 * PLE: Alix
 * Alix: storage lady
 * Cynthia: safe deposit box
