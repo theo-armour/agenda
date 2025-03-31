@@ -16,7 +16,8 @@
 * Alix: storage lady
 * Cynthia: safe deposit box
 * CenCel: list of tasks completed
-* Katie Morris: email
+* 
+
 Whenever
 
 * 
