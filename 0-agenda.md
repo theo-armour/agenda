@@ -28,12 +28,10 @@ Whenever
 * Jack O: talk at H + Guestroom?
 * PLE: Ronan ~ calendar
 * Peter Otis + Bob Hall:
-* IA: storage photos
 * George Smart: woody
 * Jason Carman
 * Leah WSD
 * Ann Seymour
-* Avery + Bancroft: documentalist
 * Tania: concierge in Durham
 * Kathy Paver: follow up
 * John Mossi
@@ -41,9 +39,7 @@ Whenever
 * Ronan
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
 * Mike Warner
-* Diana Greer: working together
 * James Scanlon ~ stairs tracking
-* Adele: SFPL &gt; documentalist + lunch
 
 ***
 
@@ -162,6 +158,10 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
 
 * +
+* IA: storage photos
+* Avery + Bancroft: documentalist
+* Diana Greer: working together
+* Adele: SFPL &gt; documentalist + lunch
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/nicole-smith/0-nicole-agenda.md&quot;">nicole agenda</a>
 
