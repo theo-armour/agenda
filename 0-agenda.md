@@ -16,10 +16,9 @@ Whenever
 * MJa: RN ~ chair lifts ~ electric chairs
 * Al Sterling: rose notches
 * John Choate: Eloise + Corwin
-* Josh
-* Taxes
+* 
+
 * Alix P
-* Dr Kattah: thanks + GitHub ~ zoom
 * Allison
 * Olga:
 * Joel P
@@ -58,7 +57,7 @@ Whenever
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>0 Admin</summary>
 
@@ -120,12 +119,14 @@ Waiting
 **Health**
 
 -->
-<details>
+<details open="">
 
 <summary>Health</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
 * ++
+* Amanad: + PT
+* Dr Kattah: thanks + GitHub ~ zoom
 * <a href="https://www.ucsfhealth.org/services/case-management-and-social-work">https://www.ucsfhealth.org/services/case-management-and-social-work</a>
 * UCSF: Dental appointment
 * Jock rot ~ got it ~ trying lamasil
