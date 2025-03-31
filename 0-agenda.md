@@ -5,10 +5,6 @@
 * ++
 
 ## Today
-
-* Speech: practice&nbsp;
-* 
-
 Whenever
 
 * Alix: storage lady
@@ -59,12 +55,13 @@ Whenever
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>0 Admin</summary>
 
 * ?
-* Amazon Library?
+* Pharmerica
+* Amazon Library? Look for Amazon household ~ some books can be shared
 * Josh: reply
 * File for admin tips
 * Pay UCSF
