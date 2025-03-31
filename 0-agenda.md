@@ -48,7 +48,7 @@ Whenever
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>0 Admin</summary>
 
@@ -235,7 +235,7 @@ Waiting
 **Entities**
 
 -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
@@ -267,19 +267,18 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
 * ++
 * McGley Computer: W10??
 * HH: Randy Gridley thanks
-* Look at scanning
-* ValS: activity in HH, RC + Yvonne &amp; Gene
+* 
+
 * HHcfo: billing split + eaf + email
 * Praveen: Remote Dir Activities
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
-* Dining: Granola
 * Kay Tim: Turntable ~ advocate
 * ??
 
