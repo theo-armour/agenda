@@ -55,7 +55,7 @@ Whenever
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>0 Admin</summary>
 
@@ -179,7 +179,7 @@ Waiting
 * ++
 * Alix: shipper
 * Alix: PLE
-* Alix Safe deposit box
+* Cynthia: Safe deposit box
 * Eames visit
 * Bolinas
 * Buy more: share paper
