@@ -15,6 +15,7 @@
 * Alix: storage lady
 * Cynthia: safe deposit box
 * CenCel: list of tasks completed
+* Halliday: responsemax&nbsp; or Lura (
 Whenever
 
 * 
