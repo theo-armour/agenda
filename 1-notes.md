@@ -3,7 +3,6 @@
 <a href="https://theo-armour.github.io/agenda/code/2025-01-11/#README.md">https://theo-armour.github.io/agenda/code/2025-01-</a>
 
 * +++
-* kJ%RT9ygtz6!%4#j
 * John Choate
 * Eloise+Corwin+three joints+pge bldg+cv
 * <div style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; line-height: 20px; white-space: pre;">Man on sofa reading financial times jane standing

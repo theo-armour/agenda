@@ -7,6 +7,7 @@
 * Josh: stocks to children?
 
 Waiting
+
 ## DWA + Pershing
 
 * Josh: estimated payments

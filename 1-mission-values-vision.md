@@ -1,4 +1,4 @@
-# 1 Mission ~ Vision ~ Values
+# 1 Theo ~ Mission ~ Vision ~ Values
 
 
 ## Mission

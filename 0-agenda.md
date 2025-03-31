@@ -5,7 +5,7 @@
 * ++
 * plank ~ eating ~ flying drone ~ Interval ~ standing on one foot
 * 2025-03-13 ~ Farnum ~&nbsp;The person who experiences the consequences should make the decision."
-* 2025-03-09 ~ Farnum:&nbsp;Be among the best. Pretend you're not. Work harder than everyone else.
+
 
 <!-- this is a comment -->
 
