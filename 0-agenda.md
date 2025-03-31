@@ -6,17 +6,17 @@
 
 ## Today
 
-* PLE: Alix
-* Alix: storage lady
-* Cynthia: safe deposit box
-* CenCel: list of tasks completed
-* Katie Morris: email
 * HH Angie: check
 * Martha Nel: jpg?
 * NV: Laura
 * SacSem: wix
 * Mary: plaques
 * Mary: scans
+* PLE: Alix
+* Alix: storage lady
+* Cynthia: safe deposit box
+* CenCel: list of tasks completed
+* Katie Morris: email
 Whenever
 
 * 
@@ -209,7 +209,13 @@ Waiting
 **Peeps**
 
 -->
-<details open="">
+<details>
+</details><details>
+* Olga:
+* Jason Carman
+* Ann Seymour
+* Ronan
+* Mike Warner
 
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.2 Peeps</a>
