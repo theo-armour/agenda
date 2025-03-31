@@ -39,12 +39,10 @@ Whenever
 * John Mossi
 * List of one-handed things for T
 * Ronan
-* Tiller
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
 * Mike Warner
 * Diana Greer: working together
 * James Scanlon ~ stairs tracking
-* Otter: watch app
 * Adele: SFPL &gt; documentalist + lunch
 
 ***
@@ -61,6 +59,7 @@ Whenever
 * ?
 * Josh
 * Taxes
+* Tiller
 * Pharmerica
 * Amazon Library? Look for Amazon household ~ some books can be shared
 * Josh: reply
@@ -338,7 +337,7 @@ Waiting
 **Projects**
 
 -->
-<details>
+<details open="">
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
