@@ -21,11 +21,8 @@ Whenever
 
 * Al Sterling: rose notches
 * John Choate: Eloise + Corwin
-* Alix P
-* Allison
-* PLE: Ronan ~ calendar
-* Alex, Peter
-* Tania: concierge in Durham
+* 
+
 * Olga:
 * Joel P
 
@@ -36,9 +33,6 @@ Whenever
 * Jason Carman
 * Leah WSD
 * Ann Seymour
-
-* 
-
 * Ronan
 * Mike Warner
 
@@ -212,7 +206,7 @@ Waiting
 **Family**
 
  -->
-<details>
+<details open="">
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
@@ -291,6 +285,9 @@ Residents Council
 * MJa: RN ~ chair lifts ~ electric chairs
 
 Residents
+* Kathy Paver: follow up
+* John Mossi
+* List of one-handed things for T
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-journal.md&quot;">3.1 heritage journal</a>
 
