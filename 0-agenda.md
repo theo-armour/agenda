@@ -17,7 +17,8 @@
 * SacSem: wix
 Whenever
 
-* MJa: RN ~ chair lifts ~ electric chairs
+* 
+
 * Al Sterling: rose notches
 * John Choate: Eloise + Corwin
 * Alix P
@@ -279,6 +280,10 @@ Waiting
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
 * Kay Tim: Turntable ~ advocate
 * ??
+
+Residents Council
+* MJa: RN ~ chair lifts ~ electric chairs
+* 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-journal.md&quot;">3.1 heritage journal</a>
 
