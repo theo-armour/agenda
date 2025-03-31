@@ -54,7 +54,7 @@ Whenever
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>0 Admin</summary>
 
@@ -247,6 +247,7 @@ Waiting
 * NV: use for volunteers
 * NV: Margaret Jacobs
 * NV: Le'mere
+* NV: Laura Burges
 
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-agenda.md&quot;">awesome</a>
