@@ -5,18 +5,22 @@ Close up of King Kalakaua blowing on a conch shell
 write the words "Heritage Happenings" in a tiki bar font on two lines, right justified, text only, no background
 
 colors" #EBA030
+
+## Snippets
+
+* Wade Watch
+* [x] New peeps
+* Granola
+
+
+## Leadership
+
+* Sharepoint
+* Please use t.armour@gmail.com for all correspondence.
+
 ##  check
 
-* Please use t.armour@gmail.com for all correspondence.
-* Add QR Codes
-* wikipedia entries
-* Emergency contact info
-* Granola
-* Linda Hanley number
-* Jay address
-* Til address
-* New peeps
-
+* Angie: dates
 
 ## Trish and Mia
 
@@ -53,5 +57,5 @@ This should be a block buster article
 * Dignitaries: images + quotes
 * Proclamations: images
 * Celebration: images
-* What else could there be
+* What else could there be?
 
