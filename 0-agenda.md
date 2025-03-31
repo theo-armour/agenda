@@ -15,9 +15,9 @@
 * Martha Nel: jpg?
 * NV: Laura
 * SacSem: wix
+* Mary: plaques
+* Mary: scans
 Whenever
-
-* 
 
 * Al Sterling: rose notches
 * John Choate: Eloise + Corwin
@@ -42,7 +42,7 @@ Whenever
 * List of one-handed things for T
 * Ronan
 * Mike Warner
-* James Scanlon ~ stairs tracking
+* 
 
 ***
 
@@ -214,7 +214,7 @@ Waiting
 **Family**
 
  -->
-<details open="">
+<details>
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
@@ -347,7 +347,7 @@ Residents Council
 **Projects**
 
 -->
-<details>
+<details open="">
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
