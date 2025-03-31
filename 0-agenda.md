@@ -19,17 +19,17 @@
 * Mary: scans
 Whenever
 
-* Al Sterling: rose notches
-* John Choate: Eloise + Corwin
 * 
 
-* Olga:
+* 
+
 * Joel P
 
 * Jack O: talk at H + Guestroom?
 
 * Peter Otis + Bob Hall:
 * George Smart: woody
+* Olga:
 * Jason Carman
 * Leah WSD
 * Ann Seymour
@@ -206,7 +206,7 @@ Waiting
 **Family**
 
  -->
-<details open="">
+<details>
 <summary>Family</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
@@ -216,6 +216,7 @@ Waiting
 * PLE: Ronan ~ calendar
 * Alex, Peter
 * Tania: concierge in Durham
+* John Choate: Eloise + Corwin
 
 </details>
 <!--
@@ -312,6 +313,7 @@ Residents
 <!-- -->
 <summary>JMB Centenary</summary>
 
+* Al Sterling: rose notches
 * Mary: Fountain
 * Three women dressed as flappers
 * Karen McNeil
