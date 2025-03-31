@@ -21,21 +21,6 @@ Whenever
 
 * 
 
-* 
-
-* Joel P
-
-* Jack O: talk at H + Guestroom?
-
-* Peter Otis + Bob Hall:
-* George Smart: woody
-* Olga:
-* Jason Carman
-* Leah WSD
-* Ann Seymour
-* Ronan
-* Mike Warner
-
 ***
 
 <!--
@@ -224,7 +209,7 @@ Waiting
 **Peeps**
 
 -->
-<details>
+<details open="">
 
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.2 Peeps</a>
@@ -237,7 +222,7 @@ Waiting
 **Entities**
 
 -->
-<details>
+<details open="">
 
 <summary>Entities</summary>
 <!-- -->
@@ -245,6 +230,11 @@ Waiting
 
 * ?
 * SacSem: wix
+* Joel P
+* Jack O: talk at H + Guestroom?
+* Peter Otis + Bob Hall:
+* George Smart: woody
+* Leah WSD
 * NV: use for volunteers
 * NV: Margaret Jacobs
 * NV: Le'mere
