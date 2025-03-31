@@ -3,12 +3,6 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* plank ~ eating ~ flying drone ~ Interval ~ standing on one foot
-* 
-
-<!-- this is a comment -->
-
-* 
 
 ## Today
 
