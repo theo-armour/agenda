@@ -5,10 +5,12 @@
 * ++
 
 ## Today
-Whenever
 
+* PLE: Alix
 * Alix: storage lady
 * Cynthia: safe deposit box
+Whenever
+
 * Katie Morris: email
 * MJa: RN ~ chair lifts ~ electric chairs
 * Al Sterling: rose notches
