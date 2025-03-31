@@ -9,7 +9,8 @@
 * 
 
 * Martha Nel: jpg?
-* NV: Laura
+* 
+
 * SacSem: wix
 * Mary: plaques
 * Mary: scans
