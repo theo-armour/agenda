@@ -6,8 +6,7 @@
 
 ## Today
 
-* 
-
+* Printer
 * Martha Nel: jpg?
 * SacSem: wix
 * Mary: plaques
@@ -16,8 +15,6 @@
 * Alix: storage lady
 * Cynthia: safe deposit box
 * CenCel: list of tasks completed
-* 
-
 Whenever
 
 * 
