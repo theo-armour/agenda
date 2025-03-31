@@ -14,6 +14,7 @@
 * HH Angie: check
 * Martha Nel: jpg?
 * NV: Laura
+* SacSem: wix
 Whenever
 
 * MJa: RN ~ chair lifts ~ electric chairs
@@ -26,7 +27,7 @@ Whenever
 * Alex, Peter
 * Jack O: talk at H + Guestroom?
 * PLE: Ronan ~ calendar
-* PeterO:
+* Peter Otis + Bob Hall:
 * IA: storage photos
 * George Smart: woody
 * Jason Carman
@@ -37,9 +38,6 @@ Whenever
 * Kathy Paver: follow up
 * John Mossi
 * List of one-handed things for T
-* NV: use for volunteers
-* NV: Margaret Jacobs
-* NV: Le'mere
 * Ronan
 * Tiller
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
@@ -238,7 +236,7 @@ Waiting
 **Entities**
 
 -->
-<details>
+<details open="">
 
 <summary>Entities</summary>
 <!-- -->
@@ -246,6 +244,9 @@ Waiting
 
 * ?
 * SacSem: wix
+* NV: use for volunteers
+* NV: Margaret Jacobs
+* NV: Le'mere
 
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-agenda.md&quot;">awesome</a>
@@ -336,7 +337,7 @@ Waiting
 **Projects**
 
 -->
-<details open="">
+<details>
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
