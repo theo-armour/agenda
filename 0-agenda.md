@@ -9,8 +9,6 @@
 * 
 
 * Martha Nel: jpg?
-* 
-
 * SacSem: wix
 * Mary: plaques
 * Mary: scans
@@ -267,7 +265,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
@@ -278,6 +276,7 @@ Waiting
 * Praveen: Remote Dir Activities
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
 * Kay Tim: Turntable ~ advocate
+* Activities: zen + NV
 * ??
 
 Residents Council
