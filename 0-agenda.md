@@ -9,9 +9,10 @@
 * PLE: Alix
 * Alix: storage lady
 * Cynthia: safe deposit box
+* CenCel: list of tasks completed
+* Katie Morris: email
 Whenever
 
-* Katie Morris: email
 * MJa: RN ~ chair lifts ~ electric chairs
 * Al Sterling: rose notches
 * John Choate: Eloise + Corwin
@@ -173,17 +174,20 @@ Waiting
 **ACE IT**
 
 -->
-<details open="">
+<details>
 
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
 * ++
+* ICE: ms365
 * Alix: shipper
 * Alix: PLE
+* Alix: volleyball
 * Cynthia: Safe deposit box
-* Eames visit
-* Bolinas
+* AC: Kathy birthday
+* AC: Eames visit
+* AC: Bolinas
 * Buy more: share paper
 * Netflix: ace-i
 
