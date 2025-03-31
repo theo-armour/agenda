@@ -9,13 +9,11 @@
 * Printer
 * Martha Nel: jpg?
 * SacSem: wix
-* 
-
 * PLE: Alix
 * Alix: storage lady
 * Cynthia: safe deposit box
 * CenCel: list of tasks completed
-* Halliday: responsemax&nbsp; or Lura (
+* Halliday: responses
 Whenever
 
 * 
