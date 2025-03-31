@@ -37,12 +37,10 @@ Whenever
 * Leah WSD
 * Ann Seymour
 
-* Kathy Paver: follow up
-* John Mossi
-* List of one-handed things for T
+* 
+
 * Ronan
 * Mike Warner
-* 
 
 ***
 
@@ -231,7 +229,7 @@ Waiting
 **Peeps**
 
 -->
-<details open="">
+<details>
 
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.2 Peeps</a>
@@ -276,7 +274,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
@@ -291,7 +289,8 @@ Waiting
 
 Residents Council
 * MJa: RN ~ chair lifts ~ electric chairs
-* 
+
+Residents
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-journal.md&quot;">3.1 heritage journal</a>
 
@@ -353,6 +352,7 @@ Residents Council
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * +++
+* James Scanlon ~ stairs tracking
 * Otter: watch app
 * Split up AutiHotKey files
 * Windows backup &amp; restore setup??
