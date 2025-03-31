@@ -7,7 +7,7 @@
 ## Today
 
 * Speech: practice&nbsp;
-* Pharmerica
+* 
 
 Whenever
 
@@ -84,7 +84,7 @@ Whenever
 
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
