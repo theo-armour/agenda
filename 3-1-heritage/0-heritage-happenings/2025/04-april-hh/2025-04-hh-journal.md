@@ -1,5 +1,10 @@
 # 2025-04 HH Journal
 
+Close up of King Kalakaua blowing on a conch shell
+
+write the words "Heritage Happenings" in a tiki bar font on two lines, right justified, text only, no background
+
+colors" #EBA030
 ##  check
 
 * Please use t.armour@gmail.com for all correspondence.
