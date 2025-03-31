@@ -156,7 +156,7 @@ Waiting
 **Simplicity**
 
 -->
-<details open="">
+<details>
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
 
@@ -219,6 +219,11 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
 * ++
+* Alix P
+* Allison
+* PLE: Ronan ~ calendar
+* Alex, Peter
+* Tania: concierge in Durham
 
 </details>
 <!--
@@ -226,7 +231,7 @@ Waiting
 **Peeps**
 
 -->
-<details>
+<details open="">
 
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.2 Peeps</a>
