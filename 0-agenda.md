@@ -48,7 +48,7 @@ Whenever
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>0 Admin</summary>
 
@@ -267,15 +267,13 @@ Waiting
 **Heritage**
 
 -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
 * ++
-* McGley Computer: W10??
+* McGliney Computer: W10??
 * HH: Randy Gridley thanks
-* 
-
 * HHcfo: billing split + eaf + email
 * Praveen: Remote Dir Activities
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
