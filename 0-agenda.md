@@ -6,9 +6,6 @@
 
 ## Today
 
-* 
-
-* 
 * PLE: Alix
 * Alix: storage lady
 * Cynthia: safe deposit box
@@ -265,7 +262,7 @@ Waiting
 **Heritage**
 
 -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
