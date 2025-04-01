@@ -6,49 +6,18 @@
 
 ## Today
 
+* Printer
+* 
+
+* SacSem: wix
 * PLE: Alix
 * Alix: storage lady
 * Cynthia: safe deposit box
+* CenCel: list of tasks completed
+* Halliday: responses
 Whenever
 
-* Katie Morris: email
-* MJa: RN ~ chair lifts ~ electric chairs
-* Al Sterling: rose notches
-* John Choate: Eloise + Corwin
-* Josh
-* Taxes
-* Alix P
-* Dr Kattah: thanks + GitHub ~ zoom
-* Allison
-* Olga:
-* Joel P
-* Alex, Peter
-* Jack O: talk at H + Guestroom?
-* ace-it: ICE
-* PLE: Ronan ~ calendar
-* PeterO:
-* IA: storage photos
-* George Smart: woody
-* Jason Carman
-* Leah WSD
-* Ann Seymour
-* Avery + Bancroft: documentalist
-* Tania: concierge in Durham
-* UCSF patient advocate
-* Kathy Paver: follow up
-* John Mossi
-* List of one-handed things for T
-* NV: use for volunteers
-* NV: Margaret Jacobs
-* NV: Le'mere
-* Ronan
-* Tiller
-* <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
-* Mike Warner
-* Diana Greer: working together
-* James Scanlon ~ stairs tracking
-* Otter: watch app
-* Adele: SFPL &gt; documentalist + lunch
+* Kattah
 
 ***
 
@@ -62,6 +31,9 @@ Whenever
 <summary>0 Admin</summary>
 
 * ?
+* Josh
+* Taxes
+* Tiller
 * Pharmerica
 * Amazon Library? Look for Amazon household ~ some books can be shared
 * Josh: reply
@@ -125,6 +97,9 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
 * ++
+* UCSF patient advocate
+* Amanda: CVS + PT
+* Dr Kattah: thanks + GitHub ~ zoom
 * <a href="https://www.ucsfhealth.org/services/case-management-and-social-work">https://www.ucsfhealth.org/services/case-management-and-social-work</a>
 * UCSF: Dental appointment
 * Jock rot ~ got it ~ trying lamasil
@@ -161,6 +136,11 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
 
 * +
+* <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
+* IA: storage photos
+* Avery + Bancroft: documentalist
+* Diana Greer: working together
+* Adele: SFPL &gt; documentalist + lunch
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/nicole-smith/0-nicole-agenda.md&quot;">nicole agenda</a>
 
@@ -173,17 +153,20 @@ Waiting
 **ACE IT**
 
 -->
-<details open="">
+<details>
 
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
 * ++
+* ICE: ms365
 * Alix: shipper
 * Alix: PLE
+* Alix: volleyball
 * Cynthia: Safe deposit box
-* Eames visit
-* Bolinas
+* AC: Kathy birthday
+* AC: Eames visit
+* AC: Bolinas
 * Buy more: share paper
 * Netflix: ace-i
 
@@ -211,6 +194,12 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
 
 * ++
+* Alix P
+* Allison
+* PLE: Ronan ~ calendar
+* Alex, Peter
+* Tania: concierge in Durham
+* John Choate: Eloise + Corwin
 
 </details>
 <!--
@@ -219,6 +208,12 @@ Waiting
 
 -->
 <details>
+</details><details>
+* Olga:
+* Jason Carman
+* Ann Seymour
+* Ronan
+* Mike Warner
 
 <summary>Peeps</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.2 Peeps</a>
@@ -239,6 +234,15 @@ Waiting
 
 * ?
 * SacSem: wix
+* Joel P
+* Jack O: talk at H + Guestroom?
+* Peter Otis + Bob Hall:
+* George Smart: woody
+* Leah WSD
+* NV: use for volunteers
+* NV: Margaret Jacobs
+* NV: Le'mere
+* NV: Laura Burges
 
 <!-- -->
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-agenda.md&quot;">awesome</a>
@@ -259,21 +263,27 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
 * ++
-* McGley Computer: W10??
+* McGliney Computer: W10??
 * HH: Randy Gridley thanks
-* Look at scanning
-* ValS: activity in HH, RC + Yvonne &amp; Gene
 * HHcfo: billing split + eaf + email
 * Praveen: Remote Dir Activities
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
-* Dining: Granola
 * Kay Tim: Turntable ~ advocate
+* Activities: zen + NV
 * ??
+
+Residents Council
+* MJa: RN ~ chair lifts ~ electric chairs
+
+Residents
+* Kathy Paver: follow up
+* John Mossi
+* List of one-handed things for T
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-journal.md&quot;">3.1 heritage journal</a>
 
@@ -298,6 +308,7 @@ Waiting
 <!-- -->
 <summary>JMB Centenary</summary>
 
+* Al Sterling: rose notches
 * Mary: Fountain
 * Three women dressed as flappers
 * Karen McNeil
@@ -329,12 +340,14 @@ Waiting
 **Projects**
 
 -->
-<details open="">
+<details>
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * +++
+* James Scanlon ~ stairs tracking
+* Otter: watch app
 * Split up AutiHotKey files
 * Windows backup &amp; restore setup??
 
