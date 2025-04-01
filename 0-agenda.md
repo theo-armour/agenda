@@ -7,7 +7,8 @@
 ## Today
 
 * Printer
-* Martha Nel: jpg?
+* 
+
 * SacSem: wix
 * PLE: Alix
 * Alix: storage lady
@@ -16,7 +17,7 @@
 * Halliday: responses
 Whenever
 
-* 
+* Kattah
 
 ***
 
