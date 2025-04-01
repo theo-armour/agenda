@@ -6,12 +6,28 @@ write the words "Heritage Happenings" in a tiki bar font on two lines, right jus
 
 colors" #EBA030
 
+## Articles To D
+
+* Thoo: GA
+* Theo: Health
+* Theo: editorial
+* Fred:
+* Patrick:
+* Plaque
+* Leadership
+* Trish: Hawaii
+* Praveen
+* Lib Corner
+* Tucker: fools
+* Mia: health
+
+
 ## Snippets
 
+* Writers Workshop
 * Wade Watch
 * [x] New peeps
 * Granola
-
 
 ## Leadership
 
@@ -21,6 +37,30 @@ colors" #EBA030
 ##  check
 
 * Angie: dates
+
+April Heritage Happenings
+
+Hi Angie and Sylvie
+
+
+Please confirm the following dates for the April Heritage Happenings:
+
+April: Country of the Month: Hawaii
+May Country of the Month: Mexico
+
+April Dates
+•	Birthday Dinner	4/11
+•	Hawaiian Dinner	4/17
+•	Easter Dinner	4/20
+
+I will also be adding a snippet about the Dining Room Special Request form.
+
+Is there anything else you would like me to add?
+
+Cheers,
+
+Theo
+
 
 ## Trish and Mia
 
