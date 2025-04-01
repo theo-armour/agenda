@@ -6,15 +6,13 @@
 
 ## Today
 
-* Printer
-* 
-
+* DG Lai
 * SacSem: wix
 * PLE: Alix
 * Alix: storage lady
 * Cynthia: safe deposit box
 * CenCel: list of tasks completed
-* Halliday: responses
+* awesome: zelle?
 Whenever
 
 * Kattah
