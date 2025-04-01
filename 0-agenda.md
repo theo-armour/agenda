@@ -11,11 +11,12 @@
 * PLE: Alix
 * Alix: storage lady
 * Cynthia: safe deposit box
-* CenCel: list of tasks completed
 * awesome: zelle?
 Whenever
 
 * Kattah
+* ACE: Agnes
+* CenCel: list of tasks completed
 
 ***
 
