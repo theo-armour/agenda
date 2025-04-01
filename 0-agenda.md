@@ -12,8 +12,7 @@
 * Alix: storage lady
 * Cynthia: safe deposit box
 * CenCel: list of tasks completed
-* 
-
+* awesome: zelle?
 Whenever
 
 * Kattah
