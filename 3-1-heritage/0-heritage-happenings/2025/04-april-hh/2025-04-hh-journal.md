@@ -8,17 +8,17 @@ colors" #EBA030
 
 ## Articles To D
 
-* Thoo: GA
+* [x] Theo: GA
 * Theo: Health
 * Theo: editorial
-* Fred:
-* Patrick:
+* [*] Fred:
+* [x] Patrick:
 * Plaque
 * Leadership
-* Trish: Hawaii
-* Praveen
-* Lib Corner
-* Tucker: fools
+* [x] Trish: Hawaii
+* [x] Praveen
+* [x] Lib Corner
+* [x] Tucker: fools
 * Mia: health
 
 

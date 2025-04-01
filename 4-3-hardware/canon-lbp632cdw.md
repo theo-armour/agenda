@@ -2,6 +2,8 @@
 
 Serial number: NTDA117219
 
+Network ID: LBP632C
+
 http://10.0.0.183/ ~ pin 1818 ~ no name needed ~ can take a while to find the printer
 
 Use "C" to clear the last character ~ *not* the back arrow button
