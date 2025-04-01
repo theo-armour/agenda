@@ -7,8 +7,6 @@
 ## Today
 
 * DG Lai
-* 
-
 * SacSem: wix
 * PLE: Alix
 * Alix: storage lady
