@@ -12,7 +12,8 @@
 * Alix: storage lady
 * Cynthia: safe deposit box
 * CenCel: list of tasks completed
-* Halliday: responses
+* 
+
 Whenever
 
 * Kattah
