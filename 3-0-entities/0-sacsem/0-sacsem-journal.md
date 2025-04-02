@@ -1,5 +1,31 @@
 # SacSem Journal
 
+## 2025-04-01
+
+Hi Dennis
+
+I shall return this Friday. 
+
+Presentations
+I will try again to project the presentation. Fingers crossed: it works.
+
+Relying on the North Beach Restaurant (NBR) admin WiFi connection was a mistake. Their security kicked in and the connection from computer to projector was locked out. This time: old-school, everything by cable.
+
+Presentation Management
+Relying on people like me is not good practice. Any facility we use must be in charge of their own AudioVisual setup. Fifty inch TVs are a few hundred dollars. Who do I go to in SacSem in order to get the ball rolling? I have the email address of NBR's owner.
+
+Seating
+The current U-shape table configuration is a problem waiting to happen. The seats are close together. The seating points toward speedy virus transmissions and people falling when going to pee.
+
+The U-shape also means you only talk to the two people next to you. Small, scattered tables enable easy conversation among five or more people.
+
+Website, Online Payments and so forth
+https://sacsem.net still links to PayPal. We should think about updating this and updating the site, including dropping departed people. Who can we muster up to consider things like this?
+
+Cheers,
+
+Theo
+
 ## 2024-09-26 Front Office
 
 Hello Front Office, Patti and Cortez
