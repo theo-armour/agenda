@@ -42,7 +42,6 @@ April Heritage Happenings
 
 Hi Angie and Sylvie
 
-
 Please confirm the following dates for the April Heritage Happenings:
 
 April: Country of the Month: Hawaii
