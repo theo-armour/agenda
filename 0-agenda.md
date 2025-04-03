@@ -6,8 +6,8 @@
 
 ## Today
 
-* 
-
+* HH: Health folder
+* Mia + Trish
 * Alix: storage lady
 * Cynthia: safe deposit box
 * awesome: zelle?
