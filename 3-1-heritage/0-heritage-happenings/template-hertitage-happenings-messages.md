@@ -15,7 +15,7 @@ Done:
 
 Heritage Happenings February Newsletter + Calendar + Resident Directory
 
-親愛的 Theo
+<<Greetings>> Theo
 
 Dear <<First Name>>
 
