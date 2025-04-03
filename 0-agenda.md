@@ -6,8 +6,6 @@
 
 ## Today
 
-* 
-
 * Alix: storage lady
 * Cynthia: safe deposit box
 * awesome: zelle?
