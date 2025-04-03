@@ -6,8 +6,8 @@
 
 ## Today
 
-* PLE: Alix
-* Amy: word doc
+* 
+
 * Alix: storage lady
 * Cynthia: safe deposit box
 * awesome: zelle?
@@ -17,6 +17,7 @@ Whenever
 * Kattah
 * ACE: Agnes
 * CenCel: list of tasks completed
+* Emergency plan: digital + email
 
 ***
 
