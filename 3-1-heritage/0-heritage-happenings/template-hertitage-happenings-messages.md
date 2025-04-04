@@ -13,7 +13,7 @@ Done:
 ## Subscriber Messages
 
 
-Heritage Happenings February Newsletter + Calendar + Resident Directory
+Heritage Happenings <<month>> Newsletter + Calendar + Resident Directory
 
 <<Greetings>> Theo
 
