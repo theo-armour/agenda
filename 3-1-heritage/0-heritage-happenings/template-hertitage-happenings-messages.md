@@ -40,12 +40,17 @@ Theo
 
 Editor and Designer, Heritage Happenings
 
-❧ ❧ ❧
+~ ❧ ~
 
 Theo Armour
 Apartment 227 C
 415 828 0000
 t.armour@gmail.com
+
+Margaret Jacobs
+415 351 2452
+mej1928@gmail.com
+
 
 ***
 
