@@ -62,7 +62,6 @@ Whenever
 <!-- -->
 
 * ?
-* Shampoo
 * LL Bean ~ shirts ~ blanket
 * Safeway: hydrogen peroxide
 * Magsafe walker holder ~ Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
