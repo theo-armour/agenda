@@ -15,6 +15,8 @@
 Whenever
 
 * H: communications committee
+* Alix: duties
+* Vish: prescita eyes
 * Kattah
 * Aselya: suno
 * ACE: Agnes
