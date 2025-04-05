@@ -67,6 +67,7 @@ Whenever
 <!-- -->
 
 * ?
+* Shampoo
 * LL Bean ~ shirts ~ blanket
 * Safeway: hydrogen peroxide
 * Bean shirts
@@ -214,7 +215,6 @@ Waiting
 
 -->
 <details>
-</details><details>
 
 * Olga:
 * Jason Carman
