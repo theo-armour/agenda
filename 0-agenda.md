@@ -7,16 +7,16 @@
 
 ## Today
 
-* HH: Health folder
-* 
-
+* HH: creat a Health folder
 * Alix: storage lady
 * Cynthia: safe deposit box
 * awesome: zelle?
 
 Whenever
 
+* H: communications committee
 * Kattah
+* Aselya: suno
 * ACE: Agnes
 * CenCel: list of tasks completed
 * Emergency plan: digital + email
