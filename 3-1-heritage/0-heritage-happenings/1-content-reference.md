@@ -49,6 +49,8 @@ Health & Wellness Topic of the Month
 * March ~ Ireland
 * April ~ Hawaii
 * May ~ Mexico
+* June ~ ?
+* July ~ France
 
 
 

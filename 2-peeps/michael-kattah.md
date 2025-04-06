@@ -7,6 +7,33 @@
 * https://www.ucsfhealth.org/providers/dr-michael-kattah
 
 
+## 2025-04-05
+
+Hi Dr Kattah
+
+Some thoughts from way back when:
+
+Endiatx
+
+The world’s first low-cost, disposable, remote-controlled, high-quality endoscopy pill.
+
+We talked of this start-up but I don't know if I ever sent you a link: https://endiatx.com/
+
+GitHub
+
+If you ever have to do more stuff on GitHub here are some suggestions to help people find you:
+
+* Star and follow others - and yourself - on GitHub
+* Add link to images or posters to your readme files on GitHub
+* Add tags to your repos on GitHub
+* Add links to the relevant published articles to the readme on GitHub
+* Add links to GitHub in your X or LinkedIn
+
+And I like - and mostly follow - these thoughts
+
+https://tom.preston-werner.com/2010/08/23/readme-driven-development
+
+
 ## 2025-03-31
 
 ChatGPT 03-mini  says:
