@@ -7,20 +7,14 @@
 
 ## Today
 
-* HH: create a Health folder
 * Alix: storage lady
 * Cynthia: safe deposit box
-* awesome: zelle?
 
 Whenever
 
+* Doris, Tony, Martha Nell: BoD
 * H: communications committee
-* Kattah
-* 
-
-* CenCel: list of tasks completed
-* Emergency plan: digital + email
-* Create HH blog
+* Donna: zen center
 
 ***
 
@@ -53,7 +47,7 @@ Whenever
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
@@ -93,7 +87,6 @@ Waiting
 * ++
 * UCSF patient advocate
 * Amanda: CVS + PT
-* Dr Kattah: thanks + GitHub ~ zoom
 * <a href="https://www.ucsfhealth.org/services/case-management-and-social-work">https://www.ucsfhealth.org/services/case-management-and-social-work</a>
 * UCSF: Dental appointment
 * Jock rot ~ got it ~ trying lamasil
@@ -210,12 +203,14 @@ Waiting
 **Entities**
 
 -->
-<details>
+<details open="">
 <summary>Entities</summary>
 <!-- -->
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
 
 * ?
+* SacSem: nbr owner
+* awesome: zelle?
 * SacSem: wix
 * Joel P
 * Jack O: talk at H + Guestroom?
@@ -251,6 +246,9 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
+* Scans
+* Create HH blog
+* Emergency plan: get digital + email
 * McGliney Computer: W10??
 * HH: Randy Gridley thanks
 * HHcfo: billing split + eaf + email
