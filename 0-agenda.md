@@ -14,8 +14,6 @@ Whenever
 
 * Doris, Tony, Martha Nell: BoD
 * H: communications committee
-* 
-
 * Donna: zen center
 
 ***
