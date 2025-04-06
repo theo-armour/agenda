@@ -7,11 +7,8 @@
 
 ## Today
 
-* 
-
 * Alix: storage lady
 * Cynthia: safe deposit box
-* awesome: zelle?
 
 Whenever
 
@@ -190,7 +187,7 @@ Waiting
 **Peeps**
 
 -->
-<details>
+<details open="">
 
 * Olga:
 * Jason Carman
@@ -250,6 +247,7 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
+* Emergency plan: get digital + email
 * McGliney Computer: W10??
 * HH: Randy Gridley thanks
 * HHcfo: billing split + eaf + email
