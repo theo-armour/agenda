@@ -15,8 +15,6 @@
 Whenever
 
 * H: communications committee
-* 
-
 * Kattah
 * Aselya: suno
 * ACE: Agnes
