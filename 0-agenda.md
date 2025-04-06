@@ -16,8 +16,8 @@ Whenever
 
 * H: communications committee
 * Alix: duties
-* Vish: prescita eyes
-* Myra: questions
+* 
+
 * Kattah
 * Aselya: suno
 * ACE: Agnes
@@ -64,7 +64,7 @@ Whenever
 * ?
 * LL Bean ~ shirts ~ blanket
 * Safeway: hydrogen peroxide
-* Magsafe walker holder ~&nbsp; ~ for when? ;-)&nbsp;
+* Magsafe walker holder ~ for when? ;-)&nbsp;
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small s
