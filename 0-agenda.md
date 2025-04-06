@@ -91,7 +91,6 @@ Waiting
 * ++
 * UCSF patient advocate
 * Amanda: CVS + PT
-* Dr Kattah: thanks + GitHub ~ zoom
 * <a href="https://www.ucsfhealth.org/services/case-management-and-social-work">https://www.ucsfhealth.org/services/case-management-and-social-work</a>
 * UCSF: Dental appointment
 * Jock rot ~ got it ~ trying lamasil
