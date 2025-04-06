@@ -7,7 +7,8 @@
 
 ## Today
 
-* HH: create a Health folder
+* 
+
 * Alix: storage lady
 * Cynthia: safe deposit box
 * awesome: zelle?
@@ -16,7 +17,8 @@ Whenever
 
 * Doris, Tony, Martha Nell: BoD
 * H: communications committee
-* Emergency plan: digital + email
+* 
+
 * Create HH blog
 * Donna: zen center
 
@@ -243,7 +245,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
