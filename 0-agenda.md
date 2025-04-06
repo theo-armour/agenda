@@ -3,7 +3,7 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2025-04-06 ~&nbsp;
+* 2025-04-06 ~ It's difficult to imagine being any happier ~ is there a peak happiness state?
 * 2025-04-04: slashdot:&nbsp;Successful and fortunate crime is called virtue. - Seneca
 
 ## Today
