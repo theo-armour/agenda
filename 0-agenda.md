@@ -64,7 +64,7 @@ Whenever
 * ?
 * LL Bean ~ shirts ~ blanket
 * Safeway: hydrogen peroxide
-* Magsafe walker holder ~ Traveling Magsafe charging stand ~ for when? ;-)&nbsp;
+* Magsafe walker holder ~&nbsp; ~ for when? ;-)&nbsp;
 * Plateau chair
 * Winter shoes
 * EyeBuyDirect: small s
