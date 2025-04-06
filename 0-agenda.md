@@ -14,7 +14,8 @@ Whenever
 
 * Doris, Tony, Martha Nell: BoD
 * H: communications committee
-* LD: piedmont gardens
+* 
+
 * Donna: zen center
 
 ***
@@ -246,6 +247,7 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
+* Scans
 * Create HH blog
 * Emergency plan: get digital + email
 * McGliney Computer: W10??
