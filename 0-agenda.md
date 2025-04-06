@@ -16,7 +16,6 @@ Whenever
 * H: communications committee
 * 
 
-* Create HH blog
 * Donna: zen center
 
 ***
@@ -187,7 +186,7 @@ Waiting
 **Peeps**
 
 -->
-<details open="">
+<details>
 
 * Olga:
 * Jason Carman
@@ -206,12 +205,13 @@ Waiting
 **Entities**
 
 -->
-<details>
+<details open="">
 <summary>Entities</summary>
 <!-- -->
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
 
 * ?
+* awesome: zelle?
 * SacSem: wix
 * Joel P
 * Jack O: talk at H + Guestroom?
@@ -247,6 +247,7 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
+* Create HH blog
 * Emergency plan: get digital + email
 * McGliney Computer: W10??
 * HH: Randy Gridley thanks
