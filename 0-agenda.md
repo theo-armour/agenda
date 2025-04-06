@@ -16,8 +16,8 @@ Whenever
 
 * H: communications committee
 * Kattah
-* Aselya: suno
-* ACE: Agnes
+* 
+
 * CenCel: list of tasks completed
 * Emergency plan: digital + email
 * Create HH blog
@@ -59,6 +59,7 @@ Whenever
 <!-- -->
 
 * ?
+* ACE: Agnes
 * LL Bean ~ shirts ~ blanket
 * Safeway: hydrogen peroxide
 * Magsafe walker holder ~ for when? ;-)&nbsp;
