@@ -16,9 +16,9 @@ Whenever
 
 * H: communications committee
 * Kattah
+
 * 
 
-* CenCel: list of tasks completed
 * Emergency plan: digital + email
 * Create HH blog
 
