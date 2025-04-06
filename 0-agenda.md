@@ -16,8 +16,6 @@ Whenever
 
 * H: communications committee
 * Alix: duties
-* 
-
 * Kattah
 * Aselya: suno
 * ACE: Agnes
