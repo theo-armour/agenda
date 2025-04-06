@@ -14,11 +14,9 @@
 
 Whenever
 
+* Doris, Tony, Martha Nell: BoD
 * H: communications committee
 * Kattah
-
-* 
-
 * Emergency plan: digital + email
 * Create HH blog
 
