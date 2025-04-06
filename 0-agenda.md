@@ -16,10 +16,9 @@ Whenever
 
 * Doris, Tony, Martha Nell: BoD
 * H: communications committee
-* 
-
 * Emergency plan: digital + email
 * Create HH blog
+* Donna: zen center
 
 ***
 
@@ -52,7 +51,7 @@ Whenever
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
