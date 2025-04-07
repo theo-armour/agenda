@@ -13,10 +13,12 @@
 
 Whenever
 
-* 180: lubricant
+* 
+
 * Hstratplan: Laura
 * Doris, Tony, Martha Nell: BoD
-* H: communications committee
+* 
+
 * Donna: zen center
 
 ***
