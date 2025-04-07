@@ -13,8 +13,6 @@
 
 Whenever
 
-* 
-
 * Doris, Tony, Martha Nell: BoD
 * Donna: zen center
 
@@ -33,7 +31,8 @@ Whenever
 * Taxes
 * Tiller
 * Pharmerica
-* Amazon Library? Look for Amazon household ~ some books can be shared
+* 
+
 * Josh: reply
 * File for admin tips
 * Pay UCSF
