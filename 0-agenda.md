@@ -13,12 +13,8 @@
 
 Whenever
 
-* 
-
-* Hstratplan: Laura
+* Hstratplan: Laura &gt;&gt; send Monday&nbsp;
 * Doris, Tony, Martha Nell: BoD
-* 
-
 * Donna: zen center
 
 ***
@@ -234,10 +230,11 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
 
 * ?
-* SacSem: nbr owner
+* SacSem: nbr owner &lt;&lt; scree
 * awesome: zelle?
 * SacSem: wix
 * Joel P
+* Peer Wedvick
 * Jack O: talk at H + Guestroom?
 * Peter Otis + Bob Hall:
 * George Smart: woody
