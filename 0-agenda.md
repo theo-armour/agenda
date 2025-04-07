@@ -204,7 +204,7 @@ Waiting
 **Peeps**
 
 -->
-<details open="">
+<details>
 
 * Olga:
 * Jason Carman
