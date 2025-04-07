@@ -204,7 +204,7 @@ Waiting
 **Peeps**
 
 -->
-<details>
+<details open="">
 
 * Olga:
 * Jason Carman
@@ -223,7 +223,7 @@ Waiting
 **Entities**
 
 -->
-<details open="">
+<details>
 
 <summary>Entities</summary>
 <!-- -->
