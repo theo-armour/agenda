@@ -1,4 +1,3 @@
-
 # Dining Food Services ~ Morrison
 
 * Sylvie ~ dining service paper > and compass...
@@ -18,6 +17,10 @@ Questions
 ## Secret Menu
 
 * Nuts
+* Siracha
+* Granola
+* Cottage cheese
+* Scrambled tofu
 
 ## Dining Room
 
@@ -47,21 +50,22 @@ Kevin:
 
 ## Breakfast
 
-Every day: Mixed fruit with four prunes + two coffees
+Every day: Mixed fruit with six prunes + two coffees
 
-Sunday: Corned beef hash with poached egg on top and marinara sauce on top
-Monday: Twe eggs Benedict
+Monday: Twe eggs Benedict / Denver scramble
 Tuesday: Bagel and Salmon + 1 sausage
-Wednesday: Two slices quiche
-Thursday:  Tofu scramble with cheddar cheese, veggies and marinara sauce
+Wednesday: Salmon + 1 sausage
+Thursday: Two slices quiche
 Friday: Croissant Sandwich
-Saturday: Two scrambled eggs with cheddar cheese, veggies
+Saturday:  Tofu scramble with cheddar cheese, veggies and marinara sauce
+Sunday: Corned beef hash + Two scrambled eggs with cheddar cheese, veggies
 
 ***
 
 ## Sunday 11
 
 ### Lunch
+
 Soup
 Salad
 Tenderloin + extra sauc
@@ -71,6 +75,7 @@ Creamed Spinach
 Flourless Hazelnut Cake!!!
 
 ### Dinner
+
 Soup
 Roast Beef Sandwich
 Mac & Cheese
