@@ -11,6 +11,7 @@
 * 
 
 * email marco
+* link to photos
 * CenCel: add sponsors
 * Donna: zen center
 
