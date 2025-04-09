@@ -11,11 +11,11 @@
 * 
 
 * email marco
-* CenCel: add photos
+* 
+
 * CenCel: add sponsors
-* CenCel: add links
-* CenCel: AI edit
-* CenCel:: Alternate editorial
+* 
+
 * Donna: zen center
 
 Whenever
