@@ -131,7 +131,7 @@ Waiting
 **ACE IT**
 
 -->
-<details open="">
+<details>
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
 
@@ -244,7 +244,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
@@ -274,7 +274,7 @@ Residents
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-journal.md&quot;">3.1 heritage journal</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
 
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage Happenings</summary>
 
@@ -290,7 +290,7 @@ Residents
 <!-- 
 **Heritage Centenary**
 -->
-<details open="">
+<details>
 <!-- -->
 <summary>JMB Centenary</summary>
 
