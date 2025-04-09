@@ -18,6 +18,7 @@ Whenever
 
 * Doris, Tony, Martha Nell: BoD
 * Bells: AC?
+* Mia: $$
 
 ***
 
@@ -244,7 +245,7 @@ Waiting
 **Heritage**
 
 -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
