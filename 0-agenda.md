@@ -8,9 +8,8 @@
 
 ## Today
 
-* email&nbsp;Randy + Carolyn ~ Laura
-* email melissa
-* email tom &amp; Sabrina
+* 
+
 * email marco
 * CenCel: add photos
 * CenCel: add sponsors
