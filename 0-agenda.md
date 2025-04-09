@@ -8,8 +8,7 @@
 
 ## Today
 
-* 
-
+* sacsem
 * email marco
 * link to photos
 * CenCel: add sponsors
