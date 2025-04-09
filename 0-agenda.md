@@ -11,11 +11,7 @@
 * 
 
 * email marco
-* 
-
 * CenCel: add sponsors
-* 
-
 * Donna: zen center
 
 Whenever
