@@ -6,12 +6,12 @@
 ## Need
 
 * [x] Mary's speech
-* Randy + Carolyn ~ Laura ~ Supe + Stefani?
+* Randy + Carolyn ~ Laura
 * Sponsor logos
 * [x] Scans of proclamations and resolutions
 * [x] Images of cookies
 * [x] Photos from Marco
-* Drawing from Ann's grandfather
+* [x]Drawing from Ann's grandfather
 * [x] Plaque cropped image
 
 ## Mary
