@@ -10,7 +10,6 @@
 
 * email marco
 * link to photos
-* 
 
 Whenever
 
