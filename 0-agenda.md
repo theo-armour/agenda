@@ -8,6 +8,9 @@
 
 ## Today
 
+* 
+
+* Mary: Life plan"?
 * email marco
 * link to photos
 
