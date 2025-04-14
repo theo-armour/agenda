@@ -9,8 +9,10 @@
 ## Today
 
 * IRS: postpone tax return
-* SF Planners: recommendation
 * CenCel: send
+* Mary: Scans
+* 
+
 * Mary: Life plan
 * email marco
 * link to photos
