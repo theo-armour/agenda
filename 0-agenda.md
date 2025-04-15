@@ -8,12 +8,8 @@
 
 ## Today
 
-* 
-
 * CenCel: send
 * Mary: Scans
-* 
-
 * Mary: Life plan
 * email marco
 * link to photos
