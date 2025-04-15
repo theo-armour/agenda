@@ -1,15 +1,22 @@
 # 2025-04-10
 
-## Letter in Favor of the expansion project. 
+
+These are the rules:
+
+Subject line MUST SAY:  3400 Laguna Street Project
+Email goes to: Jeffrey.horn@sfgov.org
+Email also gets copied to (in same email):  commissions.secretary@sfgov.org
+
+## Letter in Favor of the expansion project.
 
 Date:
 
 
 My name is:
 
-I live at Heritage on the Marina at 3400 Laguna Street, San Francisco. 
+I live at Heritage on the Marina at 3400 Laguna Street, San Francisco.
 
-I have been a resident for   years. 
+I have been a resident for   years.
 
 I am in favor of the expansion project.
 
@@ -21,7 +28,7 @@ Name:
 
 Apartment:
 
-## Covering message. 
+## Covering message.
 
 Dear Resident,
 
@@ -33,4 +40,4 @@ Feel free to add any comments you would like to make.
 
 If you would like a paper copy, please ask Tony, Margaret, or me for one.
 
-We will forward your message to the appropriate city commissioners and planners. 
+We will forward your message to the appropriate city commissioners and planners.
