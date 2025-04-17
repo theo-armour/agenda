@@ -265,11 +265,12 @@ Waiting
 **Heritage**
 
 -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
 * ++
+* Fred: Elenker
 * Scans
 * Create HH blog
 * Emergency plan: get digital + email
@@ -295,7 +296,7 @@ Residents
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-journal.md&quot;">3.1 heritage journal</a>
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage Happenings</summary>
 
@@ -311,7 +312,7 @@ Residents
 <!-- 
 **Heritage Centenary**
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>JMB Centenary</summary>
 
