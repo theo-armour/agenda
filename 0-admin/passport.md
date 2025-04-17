@@ -3,7 +3,7 @@
 ## 2025-03 
 
 * Passport is here
-* Card not yet
+* Card is here
 
 ## 2025-03-08
 
