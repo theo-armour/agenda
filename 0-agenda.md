@@ -21,6 +21,7 @@ Whenever
 
 * Doris, Tony, Martha Nell: BoD
 * Bells: AC?
+* ResDir
 
 ***
 
@@ -285,7 +286,7 @@ Waiting
 * Activities: zen + NV
 * ??
 
-Platform* NDA* Strategic Plan* Two way reporting#experience* Bod past ~ sec RCResidents Council
+Platform* NDA* Strategic Plan ~ architecture experience* Two way reporting#experience* Bod past ~ sec RCResidents Council
 
 * MJa: RN ~ chair lifts ~ electric chairs
 
