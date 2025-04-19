@@ -16,7 +16,7 @@ Whenever
 
 * Doris, Tony, Martha Nell: BoD
 * Bells: AC?
-* Mia: $$
+* 
 
 ***
 
