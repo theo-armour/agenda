@@ -14,6 +14,8 @@
 * Fred: walker 11am
 * Remote Desktop: Ports? ~ Damon
 * Bod: Platform infographic
+* MyRa: OK
+* Dennis W: Leo Dick
 
 Whenever
 
@@ -283,7 +285,7 @@ Waiting
 * Activities: zen + NV
 * ??
 
-Residents Council
+Platform* NDA* Strategic Plan* Two way reporting#experience* Bod past ~ sec RCResidents Council
 
 * MJa: RN ~ chair lifts ~ electric chairs
 
