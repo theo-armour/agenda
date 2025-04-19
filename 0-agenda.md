@@ -10,13 +10,13 @@
 
 * CenCel: send
 * Fred: walker 11am
-* 
+* Remote Desktop: Ports? ~ Damon
+* Bod: Platform infographic
 
 Whenever
 
 * Doris, Tony, Martha Nell: BoD
 * Bells: AC?
-* 
 
 ***
 
@@ -263,7 +263,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
