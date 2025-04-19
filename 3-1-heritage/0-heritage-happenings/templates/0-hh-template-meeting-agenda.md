@@ -8,7 +8,7 @@
 
 ## Theme
 
-* **Around the World**
+* **Around the World**:
 * **Colors**
 * **Cameo**
 * **Health Topic**
@@ -21,7 +21,7 @@
 ## Leadership
 
 * Angie:
-* Jon Casey:
+* Jon:
 * Hector: Updates
 * Martha &amp; Vada:
 * Brittany:
@@ -35,33 +35,43 @@
 
 ## Content for <<month>> Issue
 
-* Bob Granucci:
+* Bob G:
 * Doris:
 * Jane:
 * Margaret Jacobs:
 * Margaret Johnson:
 * Margaret Missiaen:
 * Martha Nell:
-* Martha Nell:
+* Mia:
+* Pam:
 * Patrick:
 * Sheila:
 * Trish:
 * Tucker:
 * Theo:
-* Theo:
 * Tom King
+* Val
 
 ## Front Page
 
 * ++
+* Country of the Month
+* Events of Interest
+* New Residents
 
 ## Health Topic
 
 ## Country of the Month
 
+* What aspects of the country are we highlighting?
+
+## View from the Garden
+
+## Library Corner & Book Reviews
+
 ## Miscellany
 
 ## Humor
 
-## Book Reviews
+
 
