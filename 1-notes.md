@@ -3,6 +3,11 @@
 <a href="https://theo-armour.github.io/agenda/code/2025-01-11/#README.md">https://theo-armour.github.io/agenda/code/2025-01-</a>
 
 * +++
+So I'm just speaking and I'm using the new g Port facility just to talk new line&nbsp;
+&nbsp;And it handled a command as well as just talk so I can start this paragraph and I want to talk about open Socrates at Agnes call Lord&nbsp;
+&nbsp;For sure we don't ask the deep questions and we live in 15 minutes chunks but that's half the point it's in those 15-minute chunks when we are conscious that we are happy or we had good sex or had a great sip of wine that's half the happiness we have is in those little 15-minute chunks now there's a much longer thing when we sent back on on recent life and other things where we have much longer term gratitude but so much of that long-term gratitude is made up as a collection of 15-minute chunks so I think we always have to be conscious of the short and long aspects of our life&nbsp;
+&nbsp;The other aspect that I was thinking about this morning is that pretty much life is a bunch of nonsense we do it only because all the other animals do it and because somehow things would just want a complexify on their own&nbsp;
+So life is a joke so life is a joke and a scribing meaning to it is a futile effort asscribing meaning is meaningless
 
 * Funginail . Tolnaftate
 * When are we going to become users
