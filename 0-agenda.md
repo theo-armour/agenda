@@ -8,12 +8,7 @@
 ## Today
 
 * CenCel: send
-* mmm
-* Fred: walker 11am
-* Remote Desktop: Ports? ~ Damon
-* Bod: Platform infographic
-* MyRa: OK
-* Dennis W: Leo Dick
+* Bod: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
 
 Whenever
 
@@ -22,6 +17,9 @@ Whenever
 * ResDir
 * Kathy: wheels ~ basket
 * John Choate: Eloise ~ Corwin
+* LD
+* Tania
+* Residents: commission
 
 ***
 
