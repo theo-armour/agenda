@@ -7,11 +7,21 @@
 ## Julia Morgan Building ~ Centenary Celebration ~ 03-27-2025
 
 Hello Residents,
+Hello Heritage family and friends,
 
-On March 27th we celebrated the 100th anniversary of the Julia Morgan Building. It was a wonderful event. In order to commemorate the day, we have put together a special edition of the Heritage Happenings newsletter. 
+On March 27th we celebrated the 100th anniversary of the Julia Morgan Building. To commemorate this milestone, we present you with a special edition of the Heritage Happenings.
 
-Click on this link to view the newsletter: 
-[Heritage Happenings - Julia Morgan Building 100th Anniversary](https://heritage-happenings.github.io/history/documents/2025-03-27-julia-morgan-building-centenary-celebration/2025-03-27-julia-morgan-building-centenary-celebration.pdf)
+You can view the special edition by clicking on the link below:
+
+Heritage Happenings - Julia Morgan Building Centenary Celebration
+
+Cheers,
+
+Theo
+
+
+https://heritage-happenings.github.io/history/documents/2025-03-27-julia-morgan-building-centenary-celebration/2025-03-27-julia-morgan-building-centenary-celebration.pdf
+
 
 
 ## Need
