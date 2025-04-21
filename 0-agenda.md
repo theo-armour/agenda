@@ -7,7 +7,8 @@
 
 ## Today
 
-* CenCel: send
+* 
+
 * Bod: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
 
 Whenever
