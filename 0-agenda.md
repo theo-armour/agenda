@@ -7,8 +7,6 @@
 
 ## Today
 
-* 
-
 * Bod: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
 
 Whenever
@@ -62,6 +60,7 @@ Whenever
 <!-- -->
 
 * ?
+* Tom King book 2
 * more
 * Closys ~ Lamasil ~ eneloop aaa
 * ACE: Agnes
