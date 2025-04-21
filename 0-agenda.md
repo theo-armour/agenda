@@ -19,7 +19,6 @@ Whenever
 * ResDir
 * 
 
-* LD
 * Tania
 * Residents: commission report
 
