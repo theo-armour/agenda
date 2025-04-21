@@ -62,7 +62,8 @@ Whenever
 * ?
 * Tom King book 2
 * more
-* Closys ~ Lamasil ~ eneloop aaa
+* 
+
 * ACE: Agnes
 * LL Bean ~ shirts ~ blanket
 * Safeway: hydrogen peroxide
