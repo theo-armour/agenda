@@ -17,8 +17,6 @@ Whenever
 * Doris, Tony, Martha Nell: BoD
 * Bells: AC?
 * ResDir
-* 
-
 * Tania
 * Residents: commission report
 
