@@ -61,19 +61,13 @@ Whenever
 
 * ?
 * Tom King book 2
-* more
-* 
-
 * ACE: Agnes
 * LL Bean ~ shirts ~ blanket
 * Safeway: hydrogen peroxide
-* Magsafe walker holder ~ for when? ;-)&nbsp;
-* Plateau chair &lt;&lt; stool??
 * Winter shoes
 * EyeBuyDirect: small s
 * Jeans ~ jacket
 * Closet step ladder
-* Printer canon cartridge returned: box
 
 Waiting
 
