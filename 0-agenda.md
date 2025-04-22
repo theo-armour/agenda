@@ -7,15 +7,15 @@
 
 ## Today
 
-* Mia
+* 
+
 * BoD: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
 * Kathy: wheels ~ basket
 * John Choate: Eloise ~ Corwin
 * Donna
-* 
-
 * Granola
 * Peer Wedvick
+* Elenker
 
 Whenever
 
