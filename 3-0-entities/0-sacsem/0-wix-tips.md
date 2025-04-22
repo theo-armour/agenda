@@ -14,7 +14,8 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
-* Friday, April 11 at North Beach Restaurant: Stephen Sherrill, San Francisco's newest member of its Board of Supervisors
+* 
+* Friday, April 25 at Jackson's Bar & Grill in Santa Rosa: Chris Rogers, California State Assemblymember from the 2nd District
 * Friday, April 4 at North Beach Restaurant: Bebo White on “Cryptocurrency: It’s Promise, Pitfalls, and Potential.”
 * Friday, March 30 at North Beach Restaurant: Ming Chi Scott Lai, Director-General of the Taipei (Republic of China) Economic & Cultural Office in San Francisco
 * Friday, March 21 at North Beach Restaurant: Sacramento Seminar Roundtable

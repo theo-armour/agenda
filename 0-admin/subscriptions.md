@@ -17,38 +17,6 @@
 * https://www.economist.com/
 * Subscription canceled 2024-07-09
 
-## https://dictanote.co ~ Dictanote
-
-* https://forum.dictanote.co/
-
-### Voice In
-
-* https://dictanote.co/voicein/
-* support@dictanote.co
-* one year $60 2025-07-10
-
-### Dictanote ~ https://dictanote.co/
-
-* Dictanote is a modern notes app with built-in speech-to-text integration, making it easy for you to voice type your notes in 50+ languages.
-* Opens in Browser
-* Canceled monthly plan 2024-07-09
-
-
-## Speechnotes
-
-* https://speechnotes.co/
-* https://github.com/speechnotes/speechnotes-website
-* license is valid till June 6, 2025
-
-
-## Aquavoice
-
-* https://withaqua.com/home?uuid=e628269f-028d-4c37-85da-e9023b278cc1
-* Extension only Half works in Gmail in chatGBT
-* Love the text editing, but only works in a few places or needs lots of copy paste
-
-
-
 ## TopHatch
 
 * https://concepts.app/

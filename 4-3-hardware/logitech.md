@@ -22,6 +22,8 @@ tags #hw #hardware
 * https://support.logi.com/hc/en-us/articles/5127047425303-Getting-Started-LIFT-Vertical-Ergonomic-Mouse
 
 
+
+
 ## Logi Options Plus
 
 https://www.logitech.com/en-us/software/logi-options-plus.html
@@ -29,11 +31,11 @@ https://www.logitech.com/en-us/software/logi-options-plus.html
 ### Options+ Flow
 
 * No Android
-Oh, can you hear me now? Yes you can testing testing 123. Oh boy, we're talking. 
 
 ## Bolt
 
 * https://www.logitech.com/en-us/products/mice/logi-bolt-usb-receiver.956-000007.html
+* To connect: Use logi+ >> add device
 
 ## Brio 4K Pro
 
