@@ -186,8 +186,9 @@ Waiting
 **Peeps**
 
 -->
-<details>
+<details open="">
 
+* LD Kirshenbaum: late June
 * Olga:
 * Jason Carman
 * Ann Seymour
