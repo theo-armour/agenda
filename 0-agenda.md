@@ -7,7 +7,7 @@
 
 ## Today
 
-* Bod: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
+* BoD: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
 * Kathy: wheels ~ basket
 * John Choate: Eloise ~ Corwin
 
@@ -18,7 +18,7 @@ Whenever
 * ResDir
 * Tania
 * Residents: commission report
-* SacSem: Leo&nbsp;
+* SacSem: Leo ~ cancel
 
 ***
 
