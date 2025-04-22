@@ -3,6 +3,9 @@
 <a href="https://theo-armour.github.io/agenda/code/2025-01-11/#README.md">https://theo-armour.github.io/agenda/code/2025-01-</a>
 
 * +++
+* Priest mother's Day
+* It depends on which window you look out
+* 
 When are we going to become users
 * John Choate
 * Eloise+Corwin+three joints+pge bldg+cv
@@ -10,7 +13,6 @@ When are we going to become users
 * I will never be a consumer - is that my epigraph
 * Boys club question in the style of Ogden Nash understandable by a 10-year-old
 * 619 m 1442 f
-
 * Searching for sugar Man the best movie ever made
 * Nancy T: Seal of California the lady is Minerva&nbsp;
 * How can you love it if you don't know it?
@@ -26,9 +28,7 @@ When are we going to become users
 * unselfish in friendship,
 * %
 * 
-
 * &nbsp;of those less happy than ourselves,
-
 * and eager to bear the burdens of others,
 * through Jesus Christ our Savior. Amen.
 
