@@ -12,9 +12,10 @@
 * Kathy: wheels ~ basket
 * John Choate: Eloise ~ Corwin
 * Donna
-* Dolomite
-* Granola
 * 
+
+* Granola
+* Peer Wedvick
 
 Whenever
 
