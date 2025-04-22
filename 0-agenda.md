@@ -11,6 +11,10 @@
 * BoD: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
 * Kathy: wheels ~ basket
 * John Choate: Eloise ~ Corwin
+* Donna
+* Dolomite
+* Granola
+* 
 
 Whenever
 
