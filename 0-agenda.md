@@ -15,7 +15,8 @@
 
 * Donna
 * Granola
-* Peer Wedvick
+* 
+
 * Elenker
 
 Whenever
