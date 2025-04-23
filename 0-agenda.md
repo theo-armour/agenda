@@ -10,8 +10,6 @@
 * 
 
 * BoD: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
-* 
-
 * Donna
 * Granola
 * Elenker
@@ -22,7 +20,7 @@ Whenever
 * Bells: AC?
 * Tania
 * Residents: commission report
-* SacSem: Leo ~ cancel
+* 
 
 ***
 
