@@ -9,21 +9,19 @@
 
 * 
 
-* BoD: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
-* Kathy: wheels ~ basket
-* Donna
-* Granola
-* Elenker
-
 Whenever
 
-* Doris, Tony, Martha Nell: BoD
+* Granola
+* RC: nomination talk
+* HH: may events?
 * Bells: AC?
-* 
-
 * Tania
 * Residents: commission report
-* SacSem: Leo ~ cancel
+* He: Donations?
+* Desk
+* Scans
+* ResDir
+* Mark: msth
 
 ***
 
