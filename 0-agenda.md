@@ -20,6 +20,7 @@ Whenever
 * Bells: AC?
 * Tania
 * Residents: commission report
+* He: Donations?
 
 ***
 
