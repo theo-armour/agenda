@@ -12,7 +12,7 @@
 * BoD: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
 * Donna
 * Granola
-* Elenker
+* 
 
 Whenever
 
@@ -20,7 +20,6 @@ Whenever
 * Bells: AC?
 * Tania
 * Residents: commission report
-* 
 
 ***
 
