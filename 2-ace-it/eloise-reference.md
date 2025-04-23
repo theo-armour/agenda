@@ -7,8 +7,12 @@
 * arcGIS
 * Later ~ Python, SQL, JavaScript, HTML, CSS
 
-## Articles
+## Links
 
+* https://www.linkedin.com/in/eloise-armour-b84bb1ab/
+* https://sjma.org/eloise-armour/
+* https://www.instagram.com/eloeezy/
+* 2022 resume in reference folder
 
 ### Fire_Regime_Departure wiki
 

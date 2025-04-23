@@ -10,6 +10,23 @@
 * John Choate
 * Furniture
 
+## 2025-04-22
+
+Hi John and Eloise
+
+This message is to introduce the two of you.
+
+There may be some overlap in your interests and I thought you might like to connect.
+
+It's about creating strategies for preventing bad things from happening in enduring, ecosystemic and econocic ways.
+
+And you are both the hot stuff in your fields. ;-)
+
+Cheers,
+
+Theo
+
+
 ## 2024-12-22
 
 * Coop paper summary
