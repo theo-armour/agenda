@@ -7,17 +7,21 @@
 
 ## Today
 
-* Donna
+* 
 
 Whenever
 
 * Granola
 * RC: nomination talk
-* HH: may events
+* HH: may events?
 * Bells: AC?
 * Tania
 * Residents: commission report
 * He: Donations?
+* Desk
+* Scans
+* ResDir
+* Mark: msth
 
 ***
 
