@@ -19,8 +19,6 @@ Whenever
 
 * Doris, Tony, Martha Nell: BoD
 * Bells: AC?
-* 
-
 * Tania
 * Residents: commission report
 * SacSem: Leo ~ cancel
