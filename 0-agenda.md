@@ -10,7 +10,8 @@
 * 
 
 * BoD: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
-* Kathy: wheels ~ basket
+* 
+
 * Donna
 * Granola
 * Elenker
