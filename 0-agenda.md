@@ -7,16 +7,12 @@
 
 ## Today
 
-* 
-
-* BoD: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
 * Donna
-* Granola
 
 Whenever
 
-* 
-
+* Granola
+* RC: nomination talk
 * HH: may events
 * Bells: AC?
 * Tania
