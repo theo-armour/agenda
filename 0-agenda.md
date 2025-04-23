@@ -11,7 +11,8 @@
 
 * BoD: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
 * Kathy: wheels ~ basket
-* John Choate: Eloise ~ Corwin
+* 
+
 * Donna
 * Granola
 * Peer Wedvick
@@ -211,7 +212,7 @@ Waiting
 **Peeps**
 
 -->
-<details open="">
+<details>
 
 * LD Kirshenbaum: late June
 * Olga:
