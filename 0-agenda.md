@@ -12,11 +12,11 @@
 * BoD: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
 * Donna
 * Granola
-* 
 
 Whenever
 
 * Doris, Tony, Martha Nell: BoD
+* HH: may events
 * Bells: AC?
 * Tania
 * Residents: commission report
