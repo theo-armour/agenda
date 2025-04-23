@@ -11,19 +11,16 @@
 
 * BoD: Platform infographic: platform ~ experience ~ qualifications ~ deliverables
 * Kathy: wheels ~ basket
-* 
-
 * Donna
 * Granola
-* 
-
 * Elenker
 
 Whenever
 
 * Doris, Tony, Martha Nell: BoD
 * Bells: AC?
-* ResDir
+* 
+
 * Tania
 * Residents: commission report
 * SacSem: Leo ~ cancel
