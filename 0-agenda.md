@@ -10,14 +10,11 @@
 * Whenever
 * Granola
 * RC: nomination talk
-* 
-
 * Bells: AC?
 * Residents: commission report
 * He: Donations?
 * Desk
 * Scans
-* ResDir
 * Mark: msth
 
 ***
