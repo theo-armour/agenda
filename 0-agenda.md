@@ -18,8 +18,6 @@
 * Bells: AC?
 * Residents: commission report
 * He: Donations?
-* 
-
 * Scans
 * SPS: reunion
 * Leading Age: Jeannee intro?
@@ -61,6 +59,7 @@
 <!-- -->
 
 * ?
+* mousewash ~ miralax
 * Foam Roller
 * Go Litely walker
 * Tom King book 2
