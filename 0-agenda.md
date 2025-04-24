@@ -16,7 +16,9 @@
 * Desk
 * Scans
 * SPS: reunion
-* 
+* Leading Age: Jeannee intro?
+* Zaha Hadid: Peak Competition
+* HH: message
 
 ***
 
@@ -62,9 +64,8 @@
 * Go Litely walker
 * Tom King book 2
 * ACE: Agnes
-* LL Bean ~ shirts ~ blanket
-* Safeway: hydrogen peroxide
-* Winter shoes
+* LL Bean ~ blanket
+* Safeway:&nbsp;
 * EyeBuyDirect: small s
 * Jeans ~ jacket
 * Closet step ladder
