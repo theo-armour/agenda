@@ -10,9 +10,9 @@
 * Whenever
 * Granola
 * RC: nomination talk
-* HH: may events?
+* 
+
 * Bells: AC?
-* Tania
 * Residents: commission report
 * He: Donations?
 * Desk
