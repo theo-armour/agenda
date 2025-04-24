@@ -15,7 +15,7 @@
 * He: Donations?
 * Desk
 * Scans
-* 
+* SPS: reunion
 
 ***
 
@@ -53,7 +53,7 @@
 
 * ?
 * Foam Roller
-* Go Lotely walker
+* Go Litely walker
 * Tom King book 2
 * ACE: Agnes
 * LL Bean ~ shirts ~ blanket
