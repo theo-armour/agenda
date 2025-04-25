@@ -12,6 +12,16 @@
 ## 2025-04-25 questions
 
 * Aging cohort
-* Newsletter gatherings 
-* Living monk style. 
+* Newsletter gatherings
+* Living monk style.
 
+* aarc ~ older adults planet fitness
+* human good org
+
+
+* Heritage member for decades
+* 800 members
+
+Tom
+
+* no profit merge
