@@ -1,31 +1,53 @@
 # 2025-04-23 Nomination
 
-Qualifications
+Thank you for the nomination to the Board of Directors of the San Francisco Ladies Protection and Relief Society.
 
-All of you know me and who I am. I know all of you by name and and where you live and more. I have helped many of you with all sorts of technical issues.
+A few words about me - in three parts:
 
-I have served of seven boards in three countries 
+## First: My Qualifications
 
-Solon, CAD-Asia, HKSAP, PGC, gbXML, WSD, GGTC
+I am friendly and easy to talk to.
 
-As editor of Heritage Happenings, I am very familiar with how this place operates. As a an architect I am familiar with the issues of maintaining a campus
+All of you know me and who I am. 
 
-Methods / Guidelines
+I know all of you by name and and where you live and more. 
 
-I will sign the NDA and follow the guidelines.
+I have helped many of you solve all sorts of technical issues.
 
-Nonetheless, please note that my personal preference is always to be as open as possible. 
+But there is more to me than that.
 
-As most of you know, my door is always open — both literally in my apartment and figuratively with my words and thoughts.
+Over the last 50 years have served on seven boards of directors in three countries 
 
-I will share with you my observations of Board matters - but only after having been given the opportunity to discuss them with the Board first.
+As editor of Heritage Happenings, I am very familiar with how this place operates. 
 
-At the same time I hope that you will be open with me and share your thoughts and ideas. I will be open to your suggestions and ideas.
+As a an architect I am familiar with the issues of maintaining a campus
 
-I am your representative. My duty is to present all aspects of the issues to the Board.
 
-Platform
+## Second: My Guiding Principles
 
-* Use my architectural background to help guid the Strategic Plan and the Campus Master Plan.
-* Use me technical background to help with the IT issues and communications issues.
-* Use my heart and soul to guide the Society in offering protection and relief to residents in the future 
+I will sign the NDA and comply with all Board guidelines.
+
+Yet my instinct is for openness. 
+
+My door — both literal and metaphorical — remains open. 
+
+Unless I am sleeping or napping my apartment door is open.
+
+I welcome your questions and ideas at any time. 
+
+I will brief you on Board matters once they have been appropriately discussed internally, 
+
+Representing you means bringing every perspective to the table.
+
+
+## Third: My Platform
+
+What will I do as a member of the board of directors?
+
+I will Use my architectural background to shape the Strategic Plan and the ensure the Julia Morgan Building in remains good shape.
+
+I will use my computer and technical background to help with the information technology issues and communications issues.
+
+Finally, I will use my heart and soul to ensure the Society continues to offer protection and relief to every resident — today and into the future.
+
+I look forward to serving you.

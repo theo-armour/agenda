@@ -9,6 +9,11 @@
 * Member, Advisory Board ~ The Asia Foundation ~ Peace Corps
 * https://engie-energyaccess.com/
 
+
+## Links of interest
+
+https://www.perplexity.ai/search/open-source-agricultural-hardw-Mm7BXsEURQu3kRDQQYuQmQ
+
 ## Allen Wheelis
 
 * https://en.wikipedia.org/wiki/Allen_Wheelis
