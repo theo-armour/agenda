@@ -21,8 +21,9 @@
 * Scans
 * SPS: reunion
 * Leading Age: Jeannee intro?
-* Zaha Hadid: Peak Competition
+* Zaha Hadid: Peak Competition ~ Mag Godfrey
 * HH: message
+* Leading Age: Jeannee
 
 ***
 
