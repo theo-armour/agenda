@@ -11,13 +11,14 @@
 * Desk
 * kay: record
 * Greg R: Alix
+* Dancing Queen
+* Cuffee mug: clean
 * 
 
 ## Whenever
 
 * Granola
-* 
-
+* Mia
 * Bells: AC?
 * Residents: commission report
 * He: Donations?
@@ -27,7 +28,6 @@
 
 * Zaha Hadid: Peak Competition ~ Mag Godfrey
 * HH: message
-* Leading Age: Jeannee
 
 ***
 
