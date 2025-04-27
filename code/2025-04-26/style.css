@@ -5,7 +5,7 @@
 :root {
   font-size: 100%;
   --mnu-width: 19rem;
-  --main-hue: 10;
+  --main-hue: 206;
   /* 0 to 360 10=red 120=green 240=blue */
   --margin: 0.5rem;
   --saturation: 89%;

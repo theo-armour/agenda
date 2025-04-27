@@ -32,10 +32,8 @@ async function fetchGitHubRepoContents ( user, repo ) {
     folderContents.className = 'folder-contents';
 
     const trees = items.filter( item => item.type === 'tree' )
-      //.filter( item => filterFolders.includes( item ) );
     const blobs = items.filter( item => item.type === 'blob' );
 
-    //console.log( "trees", trees );
     trees.forEach( item => {
       const details = document.createElement( 'details' );
       const summary = document.createElement( 'summary' );
@@ -74,7 +72,7 @@ async function fetchGitHubRepoContents ( user, repo ) {
     return pathParts.length === 1;
   } );
 
-  topLevelItems = topLevelItems.filter( item => ( item.type === 'blob' && ignoreFiles.includes( item.path ) === false ) || filterFolders.includes( item.path ) );
+  topLevelItems = topLevelItems.filter( item => ( item.type === 'blob' && ignoreFiles.includes( item.path ) === false ) || !filterFolders.includes( item.path ) );
   div.appendChild( createTree( topLevelItems, '' ) );
 
   //console.log( "topLevelItems", topLevelItems );
