@@ -64,10 +64,9 @@
 <!-- -->
 
 * ?
+* Foam Roller
 * 
 
-* Foam Roller
-* Go Litely walker
 * Tom King book 2
 * ACE: Agnes
 * LL Bean ~ blanket
