@@ -1,6 +1,7 @@
 # Residents Read Me
 
-Every message is its own text file ~ makes it easier to find
+* Drafts of messages to residents
+* Every message is its own text file ~ makes it easier to find
 
 
 ## Agenda
