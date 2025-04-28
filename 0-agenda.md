@@ -12,6 +12,7 @@
 * Cuffee mug: clean
 * Mia
 * Hector Gonzalez
+* DonnaContinue discussions when appropriate
 
 ## Whenever
 
@@ -254,14 +255,12 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
-* 
-
 * Scans
 * Create HH blog
 * Emergency plan: get digital + email
 * McGliney Computer: W10??
 * HH: Randy Gridley thanks
-* HHcfo: billing split + eaf + email
+* HH cfo: billing split + eaf + email
 * Praveen: Remote Dir Activities
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
 * Kay Tim: Turntable ~ advocate
