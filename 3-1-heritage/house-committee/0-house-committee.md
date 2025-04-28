@@ -1,5 +1,6 @@
 # House Committee
 
+
 ## Items
 
 * Large Screen Friendship Hall
@@ -15,3 +16,9 @@
 ## Keyless Entry
 
 * Carm ~ keyless entry for those that want it or need it
+
+## 2025-04-28
+
+Power washer is rated at 3000 PSI
+
+* Hydrotek ProLine 3000 PSI

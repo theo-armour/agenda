@@ -1,5 +1,14 @@
 # 3.1 Residents Council
 
+## 2025-04-28
+
+* Share the NDA
+* Create Board Resident Liaison Committee
+* Write the questions
+* Detailed agenda
+
+## 2024
+
 * Pam F: food committee notes
 * RC agenda
 * RC minutes
@@ -13,7 +22,7 @@
 * Building Committee
 * Residents Survey
 * Emergency number: response to Til
-* Action Item: Doors: Cottage ~ Fransico ~ HC
+* Action Item: Doors: Cottage ~ Francisco ~ HC
 * Residents: Three action items
 * Patrick: TV instructions
 * action item: tp
