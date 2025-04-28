@@ -9,23 +9,19 @@
 
 * ??
 * Desk
-* x
 * Greg R: Alix
-* Dancing Queen
 * Cuffee mug: clean
-* 
 
 ## Whenever
 
 * Granola
 * Mia
-* Bells: AC?
+* 
+
 * Residents: commission report
 * He: Donations?
 * Scans
 * SPS: reunion
-* 
-
 * Zaha Hadid: Peak Competition ~ Mag Godfrey
 * HH: message
 
