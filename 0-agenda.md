@@ -12,6 +12,7 @@
 * Greg R: Alix
 * Cuffee mug: clean
 * Mia
+* Hector Gonzalez
 
 ## Whenever
 
