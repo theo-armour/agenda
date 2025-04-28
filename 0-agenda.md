@@ -9,8 +9,6 @@
 
 * ??
 * Desk
-* 
-
 * Cuffee mug: clean
 * Mia
 * Hector Gonzalez
@@ -251,7 +249,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
