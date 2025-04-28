@@ -9,7 +9,7 @@
 
 * ??
 * Desk
-* kay: record
+* x
 * Greg R: Alix
 * Dancing Queen
 * Cuffee mug: clean
