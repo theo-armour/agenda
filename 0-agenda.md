@@ -11,13 +11,11 @@
 * Desk
 * Greg R: Alix
 * Cuffee mug: clean
+* Mia
 
 ## Whenever
 
 * Granola
-* Mia
-* 
-
 * Residents: commission report
 * He: Donations?
 * Scans
@@ -65,7 +63,8 @@
 <!-- -->
 
 * ?
-* mousewash ~ miralax
+* 
+
 * Foam Roller
 * Go Litely walker
 * Tom King book 2
