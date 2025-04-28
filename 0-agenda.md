@@ -254,7 +254,8 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
-* Fred: Elenker
+* 
+
 * Scans
 * Create HH blog
 * Emergency plan: get digital + email
