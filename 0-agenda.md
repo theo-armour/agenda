@@ -58,7 +58,7 @@
 
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
@@ -211,7 +211,7 @@ Waiting
 **Peeps**
 
 -->
-<details>
+<details open="">
 
 * LD Kirshenbaum: late June
 * Olga:
