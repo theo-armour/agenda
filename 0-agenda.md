@@ -19,7 +19,7 @@
 * Scans
 * SPS: reunion
 * Zaha Hadid: Peak Competition ~ Mag Godfrey
-* Mary CC print
+* Mary CC print ~ plaque
 
 ***
 
