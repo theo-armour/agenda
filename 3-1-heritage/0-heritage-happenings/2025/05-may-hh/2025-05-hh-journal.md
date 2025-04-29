@@ -21,6 +21,9 @@
 * Scans
 * EOL
 * Leadership
+* Commission report
+* Board of Directors 
+* NDA that few of us have read
 
 
 ## 2025-04-18
