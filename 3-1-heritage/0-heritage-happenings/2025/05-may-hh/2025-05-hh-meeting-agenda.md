@@ -67,7 +67,7 @@
 
 ## Health Topic
 
-* Socializing: Wil talk to Mia
+* Socializing: Will talk to Mia
 
 ## Country of the Month
 
