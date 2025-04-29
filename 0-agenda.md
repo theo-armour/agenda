@@ -10,7 +10,6 @@
 * ??
 * Desk
 * Cuffee mug: clean
-* 
 
 ## Whenever
 
@@ -20,7 +19,7 @@
 * Scans
 * SPS: reunion
 * Zaha Hadid: Peak Competition ~ Mag Godfrey
-* HH: message
+* Mary CC print
 
 ***
 
