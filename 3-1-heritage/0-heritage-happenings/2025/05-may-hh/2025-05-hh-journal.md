@@ -10,12 +10,12 @@
 * [x] Tom King: racing
 * [x] Pam: Kitties
 * [x] Val: population
-* [] Val: Pronouns
+* [x] Val: Pronouns
 
 ## 2025-04-28
 
 * Mia Message
-* Message Katie
+* Message Katie Morris
 * Stephen / Donna description
 * Carl W: info
 * Scans
