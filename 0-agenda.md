@@ -10,8 +10,6 @@
 * ??
 * Desk
 * Cuffee mug: clean
-* Mia
-* Hector Gonzalez
 
 ## Whenever
 
@@ -21,7 +19,7 @@
 * Scans
 * SPS: reunion
 * Zaha Hadid: Peak Competition ~ Mag Godfrey
-* HH: message
+* Mary CC print
 
 ***
 
@@ -254,13 +252,12 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
-* Fred: Elenker
 * Scans
 * Create HH blog
 * Emergency plan: get digital + email
 * McGliney Computer: W10??
 * HH: Randy Gridley thanks
-* HHcfo: billing split + eaf + email
+* HH cfo: billing split + eaf + email
 * Praveen: Remote Dir Activities
 * Jon Casey: IT guy ~ Find phone ~ TouchTown
 * Kay Tim: Turntable ~ advocate
@@ -280,7 +277,7 @@ Residents
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-journal.md&quot;">3.1 heritage journal</a>
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
 
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage Happenings</summary>
 
