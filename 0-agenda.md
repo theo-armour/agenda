@@ -10,9 +10,7 @@
 * ??
 * Desk
 * Cuffee mug: clean
-* Mia
-* Hector Gonzalez
-* DonnaContinue discussions when appropriate
+* 
 
 ## Whenever
 
