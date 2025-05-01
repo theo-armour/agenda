@@ -1,9 +1,17 @@
 # 1.0 Health Agenda Read Me
 
+## Agenda 2025-04-29
+
+* AI PPH website
+* UCSF sports medicine doctors
+* https://profiles.ucsf.edu/lee.tan ~ neurological
+* https://profiles.ucsf.edu/alekos.theologis ~ orthopedic 
+* Brine at talk
+
 ## Appointments
 
 * ?
-* Genualdi: reade mesage
+* Genualdi: read mesage
 * MarthaL Pharmerica details
 * Martha: PPH report
 * MarthaL
@@ -13,7 +21,7 @@
 * Sports medicine reference
 * Colonoscopy report??
 
-## Agenda
+## Agenda 2024
 
 * ++
 * Dr Yun

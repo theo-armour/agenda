@@ -14,7 +14,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
-* 
+* Friday, May 2 at North Beach Restaurant: Paul Goldsmith: Prague Spring 1968: The Soviets invade Czechoslovakia
 * Friday, April 25 at Jackson's Bar & Grill in Santa Rosa: Chris Rogers, California State Assemblymember from the 2nd District
 * Friday, April 4 at North Beach Restaurant: Bebo White on “Cryptocurrency: It’s Promise, Pitfalls, and Potential.”
 * Friday, March 30 at North Beach Restaurant: Ming Chi Scott Lai, Director-General of the Taipei (Republic of China) Economic & Cultural Office in San Francisco
