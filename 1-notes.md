@@ -1,12 +1,12 @@
 # Notes
 
 <a href="https://theo-armour.github.io/agenda/code/2025-01-">https://theo-armour.github.io/agenda/code/2025-01-</a>
-
-+++DA CmDIOS, My Darlin'Surely, we all remember those delightful wordsplayed and sung so well by des paul and Mary ford." VIA Con Dios, my darlin'," go with God mysweetheart go with me into EternityThen there was the preppy laguna Brasswith Herbs Alpert's joyful trumpets accompanied bycheering crowds at n bullfight, a mariachi cole.bration. One didn't have to even cross the borderMexico was already here. As the Kingston Triosaid,"You want green peppers? I'll give yougreen peppers, Gringo, unless you are in aTijuana jail and ain't got no bail."So, 50 years ago, charmly 2 In newlyarrived in .g, took it up on ourselves to sighup for a ten-day spring vacation to Old Mexico,to experience enchantment first hand.first stop, Acapulco. Wow, those young menreally did dive off some very high cliffs alright,downpour, down into the forming sea below.But we had to put on our suits and ran downto the golden sandy beach. The water was warne,the beggars not plentiful, no surf, just relaxing.After dinner we returned to our room nationthere to comin son incomesewer pipes on the beach, explaining three someAlso in Acapulco not far away was acolleague of ours with his wife. They returned
++++Gray kitty and fancy
+DA CmDIOS, My Darlin'Surely, we all remember those delightful wordsplayed and sung so well by des paul and Mary ford." VIA Con Dios, my darlin'," go with God mysweetheart go with me into EternityThen there was the preppy laguna Brasswith Herbs Alpert's joyful trumpets accompanied bycheering crowds at n bullfight, a mariachi cole.bration. One didn't have to even cross the borderMexico was already here. As the Kingston Triosaid,"You want green peppers? I'll give yougreen peppers, Gringo, unless you are in aTijuana jail and ain't got no bail."So, 50 years ago, charmly 2 In newlyarrived in .g, took it up on ourselves to sighup for a ten-day spring vacation to Old Mexico,to experience enchantment first hand.first stop, Acapulco. Wow, those young menreally did dive off some very high cliffs alright,downpour, down into the forming sea below.But we had to put on our suits and ran downto the golden sandy beach. The water was warne,the beggars not plentiful, no surf, just relaxing.After dinner we returned to our room nationthere to comin son incomesewer pipes on the beach, explaining three someAlso in Acapulco not far away was acolleague of ours with his wife. They returned
 
 * Priest mother's Da
-Bob bbardell@comcast.net
 
+Bob <a href="mailto:bbardell@comcast.net">bbardell@comcast.net</a>
 * It depends on whlich window@ you look out
 * 
 
@@ -33,7 +33,9 @@ When are we going to become users
 * unselfish in friendship,
 * %
 * 
+
 * &nbsp;of those less happy than ourselves,
+
 * and eager to bear the burdens of others,
 * through Jesus Christ our Savior. Amen.
 
