@@ -8,8 +8,8 @@
 ## Today
 
 * ??
+* SacSem: Presentation prep
 * Desk
-* 
 
 ## Whenever
 
