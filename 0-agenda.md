@@ -8,12 +8,7 @@
 ## Today
 
 * ??
-* 
-
-* 
-
 * Desk
-* 
 
 ## Whenever
 
