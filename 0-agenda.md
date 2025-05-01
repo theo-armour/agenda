@@ -8,8 +8,8 @@
 ## Today
 
 * ??
-* wix
-* van
+* 
+
 * katie
 * Desk
 * 
