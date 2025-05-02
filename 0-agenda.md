@@ -188,13 +188,16 @@ Waiting
 **Peeps**
 
 -->
-<details open="">
+<details>
 
-* LD Kirshenbaum: late June
+* LD Kirshenbaum: late June ~ zarina
+* Hector
+* Quncicy &amp; Adam
+* 2an
 * Olga:
 * Jason Carman
 * Ann Seymour
-* Ronan
+* Ronan ~ ple
 * Mike Warner
 
 <summary>Peeps</summary>
