@@ -250,7 +250,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
@@ -284,7 +284,7 @@ Residents
 <!-- -->
 <summary>Heritage Happenings</summary>
 
-* April agenda
+* May: post-mortem
 * HH: Tom to look at style guide and charter
 * HH: Page for committee book
 * HH: agenda &amp; meeting dates for the year
