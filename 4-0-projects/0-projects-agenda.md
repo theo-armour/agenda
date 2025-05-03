@@ -4,8 +4,6 @@
 * Notsey: fix masthead link so that it points to the file in use and not the notes file.
 * Start a personal timeline ~ use MarkWhen format
 * Update Wix user name
-* 
-
 * Sensay ~ audiopen ~ seo
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
 * SquareSpace: broken links
@@ -19,8 +17,6 @@
 * Add that translates HTML bookmark files to JSO or CSV
 * Add gbxml files
 * Update Markdown note apps
-* 
-
 * WSL: ubuntu
 * LinkedIn: my bio
 
