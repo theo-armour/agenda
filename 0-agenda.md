@@ -24,8 +24,6 @@
 * Alix: furniture
 * Ron Boring: dates
 * Heritage: triage
-* 
-
 * Mohammed: cat&nbsp;
 
 ***
@@ -35,10 +33,12 @@
 **Admin**
 
 -->
-<details>
+<details open="">
 <summary>0 Admin</summary>
 
 * ?
+* Kaiber: cancel
+* Boost: cancel
 * Josh
 * Taxes
 * Tiller
