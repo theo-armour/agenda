@@ -9,6 +9,7 @@
 ## Avoid thing over there ~
 
 * ??
+* Move from Bing to Chrome
 * HH outlook account
 * New Teodoro with voice
 * Restart backing up
