@@ -17,7 +17,10 @@
 
 ## Whenever
 
-* 
+* Adele: SFPL &gt; documentalist + lunch
+* <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
+* Alix: furniture
+* Ron Boring: dates
 
 ***
 
@@ -129,16 +132,15 @@ Waiting
 **Simplicity**
 
 -->
-<details>
+<details open="">
 <summary>Simplicity</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
 
-* +
-* <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
+* ++
 * IA: storage photos
 * Avery + Bancroft: documentalist
 * Diana Greer: working together
-* Adele: SFPL &gt; documentalist + lunch
+* 
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/nicole-smith/0-nicole-agenda.md&quot;">nicole agenda</a>
 
