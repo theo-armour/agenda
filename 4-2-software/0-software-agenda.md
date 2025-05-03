@@ -16,7 +16,7 @@
 * Want: instant dictation
 * TL;DV?
 * Want
-* Where to archive photos ~ AI ~ Floris
+* Where to archive photos ~ AI
 * Fastmail?
 * <a href="https://sunshine.com/contacts/">https://sunshine.com/contacts/</a>
 * Look into AI coach
