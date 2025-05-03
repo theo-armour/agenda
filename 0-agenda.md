@@ -19,7 +19,6 @@
 * He: Donations?
 * Scans
 * SPS: reunion
-* Zaha Hadid: Peak Competition ~ Meg Godfrey
 * Mary: CC print ~ plaque
 
 ***
@@ -354,12 +353,13 @@ Residents
 **Projects**
 
 -->
-<details>
+<details open="">
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
 * +++
+* Zaha Hadid: Peak Competition ~ Meg Godfrey
 * Split up AutoHotKey files
 * Windows backup &amp; restore setup??
 
