@@ -21,6 +21,7 @@
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
 * Alix: furniture
 * Ron Boring: dates
+* Paul Goldsmith / Jason: thanks
 
 ***
 
@@ -356,7 +357,7 @@ Residents
 **Projects**
 
 -->
-<details open="">
+<details>
 
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
