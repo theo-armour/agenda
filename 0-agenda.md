@@ -10,15 +10,19 @@
 * ??
 * SPS: reunion
 * Granola
-* Desk
+* 
+
 * 2am
 * Q&amp;A: Singalong
 * Santani
-* 
+* Keys work order
 
 * Saturday things
+* process mug top
+* trim hairs
+* new trash bag
 * Tidy closet
-* Keys work order
+* Desk
 
 ## Whenever
 
@@ -27,7 +31,7 @@
 * Alix: furniture
 * Ron Boring: dates
 * Heritage: triage
-* TDT Vaccine&nbsp; appointment
+* TDT Vaccine appointment
 * Old walker to PT?
 * Pharmerica: 888 588 1633 ~ option 3
 * Journey: reverse seat ~ review ~ 800 958 8324
