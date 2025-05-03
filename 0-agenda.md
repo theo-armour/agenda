@@ -13,14 +13,11 @@
 * Desk
 * 2am
 * Q&amp;A
+* Santani
 
 ## Whenever
 
 * 
-
-* Residents: commission report
-* He: Donations?
-* Mary: CC print ~ plaque
 
 ***
 
@@ -272,7 +269,7 @@ Waiting
 **Heritage**
 
 -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
