@@ -7,6 +7,7 @@
 ## Agenda
 
 * ?
+* Move from Bing to Chrome
 * Split up AutoHotKey files
 * Securest place for files
 * PC manager
