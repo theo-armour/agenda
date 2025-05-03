@@ -14,6 +14,7 @@
 * 2am
 * Q&amp;A
 * Santani
+* Pharmerica
 
 ## Whenever
 
@@ -23,6 +24,8 @@
 * Ron Boring: dates
 * Paul Goldsmith / Jason: thanks
 * Heritage: triage
+* Kainer: cancel
+* Boost: cancel
 
 ***
 
@@ -90,6 +93,8 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
 
 * ++
+* Descibe PT need
+* PPH: AI critique
 * UCSF patient advocate
 * Amanda: CVS + PT
 * <a href="https://www.ucsfhealth.org/services/case-management-and-social-work">https://www.ucsfhealth.org/services/case-management-and-social-work</a>
