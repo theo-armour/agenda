@@ -2,6 +2,11 @@
 
 ## Agenda
 
+* Hover: joystick try
+* trmnl: update ~ use for checklists
+* Trmnl: dev access
+* Tricycle ~ Barry to fix
+* Ham Radio: take notes
 * Phone:
 * Watch: learn
 * Connect Meta glasses?
@@ -16,7 +21,6 @@
 * Build hand
 
 ## Acquisitions
-
 
 Done
 
