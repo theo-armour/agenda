@@ -24,8 +24,9 @@
 * Ron Boring: dates
 * Paul Goldsmith / Jason: thanks
 * Heritage: triage
-* Kainer: cancel
+* Kaiber: cancel
 * Boost: cancel
+* Mohammed: cat&nbsp;
 
 ***
 
@@ -354,7 +355,7 @@ Residents
 **Projects**
 
 -->
-<details open="">
+<details>
 <summary>Projects</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
 
