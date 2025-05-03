@@ -1,16 +1,16 @@
 # Projects Agenda
 
 * Notsey: retrieve 2024 data from archive
-* 
-
 * Notsey: fix masthead link so that it points to the file in use and not the notes file.
 * Start a personal timeline ~ use MarkWhen format
 * Update Wix user name
-* Trmnl: dev access
+* 
+
 * Sensay ~ audiopen ~ seo
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
 * SquareSpace: broken links
-* Tricycle ~ Barry to fix
+* 
+
 * Coding triad
 * About Theo: use AI
 * Time to Fidget app
