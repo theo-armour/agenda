@@ -372,6 +372,9 @@ Residents
 * ++
 * Hover: joystick try
 * trmnl: update ~ use for checklists
+* Trmnl: dev access
+* Tricycle ~ Barry to fix
+* Ham Radio: take notes
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
 
