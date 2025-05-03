@@ -14,8 +14,8 @@
 * 2am
 * Q&amp;A: Singalong
 * Santani
-* Standing desk
-* Squegg
+* 
+
 * Saturday things
 * Tidy closet
 * Keys work order
