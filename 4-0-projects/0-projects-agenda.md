@@ -9,8 +9,6 @@
 * Sensay ~ audiopen ~ seo
 * <a href="https://www.sfcivictech.org/">https://www.sfcivictech.org/</a>
 * SquareSpace: broken links
-* 
-
 * Coding triad
 * About Theo: use AI
 * Time to Fidget app
@@ -20,9 +18,9 @@
 * Create text-to voice app that barks out u-instructions every xx minutes&nbsp;
 * Add that translates HTML bookmark files to JSO or CSV
 * Add gbxml files
-* Rejig monitor stand
 * Update Markdown note apps
-* Ham Radio: take notes
+* 
+
 * WSL: ubuntu
 * LinkedIn: my bio
 
