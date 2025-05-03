@@ -7,6 +7,7 @@
 ## Agenda
 
 * ?
+* Windows backup &amp; restore setup??
 * Move from Bing to Chrome
 * Split up AutoHotKey files
 * Securest place for files
