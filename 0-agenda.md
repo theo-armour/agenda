@@ -12,7 +12,7 @@
 * Granola
 * Desk
 * 2am
-* Q&amp;A
+* Q&amp;A: Singalong
 * Santani
 * Pharmerica
 * 
@@ -35,7 +35,7 @@
 **Admin**
 
 -->
-<details>
+<details open="">
 <summary>0 Admin</summary>
 
 * ?
@@ -364,6 +364,7 @@ Residents
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations</a>
 
 * Tess: kiosk software
+* Corridor Display: Mohaned
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">repos</a>
 
