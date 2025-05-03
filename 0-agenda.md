@@ -8,7 +8,8 @@
 ## Today
 
 * ??
-* SacSem: Presentation prep
+* 
+
 * Desk
 
 ## Whenever
@@ -28,7 +29,7 @@
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>0 Admin</summary>
 
@@ -55,7 +56,7 @@
 
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
