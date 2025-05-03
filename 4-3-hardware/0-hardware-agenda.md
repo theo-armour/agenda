@@ -2,6 +2,8 @@
 
 ## Agenda
 
+* James Scanlon ~ olga ~ stairs tracking
+* Otter: watch app
 * Hover: joystick try
 * trmnl: update ~ use for checklists
 * Trmnl: dev access
