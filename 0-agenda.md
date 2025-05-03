@@ -352,12 +352,12 @@ Residents
 * +++
 * James Scanlon ~ olga ~ stairs tracking
 * Otter: watch app
-* Split up AutiHotKey files
+* Split up AutoHotKey files
 * Windows backup &amp; restore setup??
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations</a>
 
-* tess: kiosk software
+* Tess: kiosk software
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">repos</a>
 
@@ -370,6 +370,8 @@ Residents
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
 
 * ++
+* Hover: joystick try
+* trmnl: update ~ use for checklists
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
 
