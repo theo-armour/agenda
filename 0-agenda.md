@@ -27,6 +27,8 @@
 * Mohammed: cat&nbsp;
 * TDT Vaccine&nbsp; appointment
 * Old walker to PT?
+* 
+
 * Tidy closet
 * Journey: reverse seat ~ review ~ 800 958 8324
 
@@ -67,8 +69,7 @@
 <!-- -->
 
 * ?
-* Foam Roller
-* 
+* Foam Roller ~ USB-C w/watts ~ highr heel lift?
 * Tom King book 2
 * ACE: Agnes
 * LL Bean ~ blanket
@@ -370,6 +371,8 @@ Residents
 
 * Tess: kiosk software
 * Corridor Display: Mohaned
+* Audiometer settings
+* Single tap audio notes
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">repos</a>
 
