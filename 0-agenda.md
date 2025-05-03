@@ -14,8 +14,10 @@
 * 2am
 * Q&amp;A: Singalong
 * Santani
-* Pharmerica
-* 
+* Standing desk
+* Squegg
+* Saturday things
+* Tidy closet
 
 ## Whenever
 
@@ -24,12 +26,9 @@
 * Alix: furniture
 * Ron Boring: dates
 * Heritage: triage
-* Mohammed: cat&nbsp;
 * TDT Vaccine&nbsp; appointment
 * Old walker to PT?
-* 
-
-* Tidy closet
+* Pharmerica: 888 588 1633 ~ option 3
 * Journey: reverse seat ~ review ~ 800 958 8324
 
 ***
