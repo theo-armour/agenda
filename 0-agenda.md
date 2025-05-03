@@ -26,6 +26,9 @@
 * Heritage: triage
 * Mohammed: cat&nbsp;
 * TDT Vaccine&nbsp; appointment
+* Old walker to PT?
+* Tidy closet
+* Journey: reverse seat ~ review ~ 800 958 8324
 
 ***
 
@@ -46,6 +49,7 @@
 * Pharmerica
 * File for admin tips
 * Renew Drivers License?
+* 
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
 
@@ -57,7 +61,7 @@
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
