@@ -8,15 +8,18 @@
 ## Today
 
 * ??
+* SPS: reunion
+* Granola
 * Desk
+* 2am
+* Q&amp;A
 
 ## Whenever
 
-* Granola
+* 
+
 * Residents: commission report
 * He: Donations?
-* Scans
-* SPS: reunion
 * Mary: CC print ~ plaque
 
 ***
@@ -274,6 +277,9 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
+* Residents: commission report
+* He: Donations?
+* Mary: CC print ~ plaque
 * Scans
 * Create HH blog
 * Emergency plan: get digital + email
