@@ -37,6 +37,7 @@
 
 ## Projects
 
+* Zaha Hadid: Peak Competition ~ Meg Godfrey
 * NYT: my ten best list of aphorisms&nbsp;
 * habits
 * "Design Positive impact AI models"
