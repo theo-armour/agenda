@@ -230,6 +230,7 @@ Waiting
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
 
 * ?
+* SF heritage: donation ~&nbsp;https://www.sfheritage.org/splendid-25/
 * SacSem: nbr owner &lt;&lt; scree
 * awesome: zelle?
 * SacSem: wix
