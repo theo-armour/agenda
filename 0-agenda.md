@@ -201,9 +201,9 @@ Waiting
 **Peeps**
 
 -->
-<details>
+<details open="">
 
-* LD Kirshenbaum: late June ~ zarina
+* John Choate: wal image ~ PGE no pbli rosLD Kirshenbaum: late June ~ zarina
 * Hector
 * Quncicy &amp; Adam
 * 2an
@@ -224,7 +224,7 @@ Waiting
 **Entities**
 
 -->
-<details>
+<details open="">
 <summary>Entities</summary>
 <!-- -->
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
