@@ -20,7 +20,7 @@
 * Scans
 * SPS: reunion
 * Zaha Hadid: Peak Competition ~ Meg Godfrey
-* Mary CC print ~ plaque
+* Mary: CC print ~ plaque
 
 ***
 
@@ -29,7 +29,7 @@
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>0 Admin</summary>
 
@@ -38,7 +38,6 @@
 * Taxes
 * Tiller
 * Pharmerica
-* Josh: reply
 * File for admin tips
 * Renew Drivers License?
 
