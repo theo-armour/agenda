@@ -5,6 +5,7 @@
 * 2025-04-06 ~ It's difficult to imagine being any happier ~ is there a peak happiness state?
 * 2025-04-04: slashdot:&nbsp;Successful and fortunate crime is called virtue. - Seneca
 * 2025-05-04 ~ Parrish: Clear Thinking: “One reason the best in the world make consistently good decisions is they rarely find themselves forced into a decision by circumstances.”
+* 2025-05-04 ~ Don't accept criticism from somebody with you wouldn't want advice from ~ or other way around&nbsp;
 
 ## Today
 
