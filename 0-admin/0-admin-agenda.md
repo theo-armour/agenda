@@ -7,7 +7,6 @@
 * Josh: stocks to children?
 
 Waiting
-
 ## DWA + Pershing
 
 * Josh: estimated payments
@@ -20,6 +19,7 @@ Done
 * Party when??
 * Josh: ray-ban stream?
 
+Chase* Check subscriptions*loan pay back
 ## IRS
 
 * IRS: estimated taxes
