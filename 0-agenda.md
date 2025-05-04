@@ -18,9 +18,7 @@
 * Keys:work order
 * Saturday things
 * process mug top
-* trim hairs
-* 
-
+* trim hais
 * Tidy closet
 * Desk
 
