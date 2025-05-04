@@ -1,11 +1,12 @@
 # Notes
 
 <a href="https://theo-armour.github.io/agenda/code/2025-01-">https://theo-armour.github.io/agenda/code/2025-01-</a>
-
-+++Gray kitty and fancy
-
++++
+Granola photo . Guests for lunch
 Secret menu hand wipes available&nbsp;Photo of food display&nbsp;
+
 Don't accept criticism from somebody with you wouldn't want advice from other way aroundSecret menu hand wipes available Photo of food display&nbsp;
+
 Don't accept criticism from somebody with you wouldn't want advice from other way around&nbsp;
 
 * Priest mother's Da
@@ -38,7 +39,9 @@ When are we going to become users
 * unselfish in friendship,
 * %
 * 
+
 * &nbsp;of those less happy than ourselves,
+
 * and eager to bear the burdens of others,
 * through Jesus Christ our Savior. Amen.
 
