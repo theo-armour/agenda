@@ -2,11 +2,10 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * ++
-* 2025-04-06 ~ It's difficult to imagine being any happier ~ is there a peak happiness state?
-* 
-
 * 2025-05-04 ~ Parrish: Clear Thinking: “One reason the best in the world make consistently good decisions is they rarely find themselves forced into a decision by circumstances.”
 * 2025-05-04 ~ Don't accept criticism from somebody with you wouldn't want advice from ~ or other way around&nbsp;
+* 2025-05-04 ~ NYT ~&nbsp;People crave meaningful connection
+* 2025-05-04 ~ Lauren Jackson: Believing ~ religion offers people three B’s: beliefs about the world, behaviors to follow and belonging in a community or culture.
 
 ## Today
 
@@ -16,11 +15,12 @@
 * 2am
 * Q&amp;A: Singalong
 * Santani
-* Keys work order
+* Keys:work order
 * Saturday things
 * process mug top
 * trim hairs
-* new trash bag
+* 
+
 * Tidy closet
 * Desk
 
