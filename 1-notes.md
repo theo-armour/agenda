@@ -3,7 +3,7 @@
 <a href="https://theo-armour.github.io/agenda/code/2025-01-">https://theo-armour.github.io/agenda/code/2025-01-</a>
 
 +++
-Out and about to Air museum&nbsp;
+Out and about to Air museum&nbsp;Individual film festival
 
 Granola photo . Guests for lunch
 
