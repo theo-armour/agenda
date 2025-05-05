@@ -11,9 +11,9 @@ Granola photo . Guests for lunch
 Secret menu hand wipes available&nbsp;Photo of food display&nbsp;
 Don't accept criticism from somebody with you wouldn't want advice from other way aroundSecret menu hand wipes available Photo of food display&nbsp;
 
-* Priest mother's Da
+* Priest mother's Day
 
-Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
+* Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)*&nbsp;https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php
 
 * It depends on which window@ you look out
 * 
