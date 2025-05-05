@@ -1,21 +1,21 @@
 # Notes
 
 [https://theo-armour.github.io/agenda/code/2025-01-](https://theo-armour.github.io/agenda/code/2025-01-)
-
 Piano needs tuning tell Cortez&nbsp;
+
 +++
-
 Out and about to Air museum&nbsp;Individual film festival
-Granola photo . Guests for lunch
-Secret menu hand wipes available&nbsp;Photo of food display&nbsp;
 
+Granola photo . Guests for lunch
+
+Secret menu hand wipes available&nbsp;Photo of food display&nbsp;
 Don't accept criticism from somebody with you wouldn't want advice from other way aroundSecret menu hand wipes available Photo of food display&nbsp;
 
 * Priest mother's Da
 
 Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
 
-* It depends on whlich window@ you look out
+* It depends on which window@ you look out
 * 
 
 When are we going to become users
@@ -41,9 +41,7 @@ When are we going to become users
 * unselfish in friendship,
 * %
 * 
-
 * &nbsp;of those less happy than ourselves,
-
 * and eager to bear the burdens of others,
 * through Jesus Christ our Savior. Amen.
 
