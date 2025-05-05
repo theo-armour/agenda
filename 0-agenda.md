@@ -38,7 +38,7 @@
 **Admin**
 
 -->
-<details open="">
+<details>
 <summary>0 Admin</summary>
 
 * ?
@@ -202,7 +202,8 @@ Waiting
 -->
 <details open="">
 
-* John Choate: wal image ~ PGE no pbli rosLD Kirshenbaum: late June ~ zarina
+* John Choate: wall image ~ PGE no public ros ~ planter
+* LD Kirshenbaum: late June ~ zarina
 * Hector
 * Quncicy &amp; Adam
 * 2an
@@ -223,7 +224,7 @@ Waiting
 **Entities**
 
 -->
-<details open="">
+<details>
 <summary>Entities</summary>
 <!-- -->
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
