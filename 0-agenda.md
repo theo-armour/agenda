@@ -17,9 +17,6 @@
 * Santani
 * Keys:work order
 * Saturday things
-* 
-
-* Tidy closet
 * Desk
 
 ## Whenever
