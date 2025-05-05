@@ -1,12 +1,15 @@
 # Notes
 
 <a href="https://theo-armour.github.io/agenda/code/2025-01-">https://theo-armour.github.io/agenda/code/2025-01-</a>
+Piano needs tuning tell Cortez&nbsp;
 
-+++Gray kitty and fancy
++++
+Out and about to Air museum&nbsp;Individual film festival
+
+Granola photo . Guests for lunch
 
 Secret menu hand wipes available&nbsp;Photo of food display&nbsp;
 Don't accept criticism from somebody with you wouldn't want advice from other way aroundSecret menu hand wipes available Photo of food display&nbsp;
-Don't accept criticism from somebody with you wouldn't want advice from other way around&nbsp;
 
 * Priest mother's Da
 
