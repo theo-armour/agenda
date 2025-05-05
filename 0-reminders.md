@@ -44,6 +44,7 @@
 * Libby does audiobooks
 * Plain JS
 * The successful how-to
+* Reading: I F Stone: socrates &gt; Doris
 
 ## Contemplation
 
