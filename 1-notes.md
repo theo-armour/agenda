@@ -1,7 +1,5 @@
 # Notes
 
-[https://theo-armour.github.io/agenda/code/2025-01-](https://theo-armour.github.io/agenda/code/2025-01-)
-
 Piano needs tuning tell Cortez&nbsp;
 +++
 
