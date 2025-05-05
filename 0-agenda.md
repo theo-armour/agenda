@@ -27,7 +27,8 @@
 * Heritage: triage
 * TDT Vaccine appointment
 * Old walker to PT?
-* Pharmerica: 888 588 1633 ~ option 3
+* 
+
 * Journey: reverse seat ~ review ~ 800 958 8324
 
 ***
