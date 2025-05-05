@@ -18,8 +18,6 @@
 * Keys:work order
 * Saturday things
 * process mug top
-* 
-
 * Tidy closet
 * Desk
 
