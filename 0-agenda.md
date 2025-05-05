@@ -200,7 +200,7 @@ Waiting
 **Peeps**
 
 -->
-<details open="">
+<details>
 
 * John Choate: wall image ~ PGE no public ros ~ planter
 * LD Kirshenbaum: late June ~ zarina
