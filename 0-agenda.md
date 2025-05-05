@@ -27,8 +27,7 @@
 * Heritage: triage
 * TDT Vaccine appointment
 * Old walker to PT?
-* 
-
+* Medbridge exercises / Carolyn
 * Journey: reverse seat ~ review ~ 800 958 8324
 
 ***
