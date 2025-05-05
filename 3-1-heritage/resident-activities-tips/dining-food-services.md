@@ -17,10 +17,12 @@ Questions
 ## Secret Menu
 
 * Nuts
-* Siracha
+* Siracha, hot sauce, ketchup, mustard, mayo, relish
 * Granola
 * Cottage cheese
 * Scrambled tofu
+* Wipes
+* Juices ~ Arnold Palmer, lemonade, iced tea, ginger ale
 
 ## Dining Room
 
