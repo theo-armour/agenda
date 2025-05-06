@@ -2,8 +2,11 @@
 
 ## Agenda
 
-* Move to Heritage supplier?
+testing 12 tes tests the quick brown f
 
+## Pharmerica
+
+* Pharmerica: 888 588 1633 ~ option 3: representative
 
 ## 180 medical
 

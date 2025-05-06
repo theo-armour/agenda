@@ -2,11 +2,12 @@
 
 ## Agenda 2025-04-29
 
-* AI PPH website
-* UCSF sports medicine doctors
+* PPH: make sure all meds are cancelled
+* PPH: AI on website
+* PPH: UCSF sports medicine doctors
 * https://profiles.ucsf.edu/lee.tan ~ neurological
 * https://profiles.ucsf.edu/alekos.theologis ~ orthopedic 
-* Brine at talk
+* Brine at upcoming talk
 
 ## Appointments
 
@@ -14,7 +15,6 @@
 * Genualdi: read mesage
 * MarthaL Pharmerica details
 * Martha: PPH report
-* MarthaL
 * Daniel B: appointment
 * Senior Doc?
 * <a href="https://papa.com">https://papa.com</a>

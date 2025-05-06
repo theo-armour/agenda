@@ -129,12 +129,15 @@ Health & Wellness Topic of the Month
 
 ### May
 
-* 2025-05-20 ~ HH Committee Meeting June Issue
 * Cinco de Mayo Mariachi Band
+* https://www.instagram.com/mariachisanfrancisco.ca/
+* https://linktr.ee/mariachisanfrancisco
+* https://www.yelp.com/biz/mariachi-mi-mexico-san-francisco-2
 * Song Request: "El Mariachi Loco" is the one who dances ~ musicians have to dance: "El Son de la Negra"?
 * Big guitar Guiteron ~ https://en.wikipedia.org/wiki/Guitarr%C3%B3n_mexicano
 * Small guitar Vihuela ~ https://en.wikipedia.org/wiki/Mexcican_vihuela
 * https://en.wikipedia.org/wiki/Mariachi
+* my way
 * La Bamba
 * Guantanamara
 * La Cucaracha
@@ -169,8 +172,8 @@ Health & Wellness Topic of the Month
 ### October
 
 * International Shakeout day: third Thursday
-* 10/1 Elderly day
-* Octoberfest
+* 10/1 Elderly Day
+* Oktoberfest
 * Columbus Day
 * Indigenous People's Day
 * Halloween
