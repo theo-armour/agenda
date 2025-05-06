@@ -201,11 +201,10 @@ Waiting
 -->
 <details open="">
 
+* Paul Goldsmith
 * John Choate: wall image ~ PGE no public ros ~ planter
 * LD Kirshenbaum: late June ~ zarina
 * Hector
-* Quncicy &amp; Adam
-* 2an
 * Olga:
 * Jason Carman
 * Ann Seymour
