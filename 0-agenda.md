@@ -13,7 +13,7 @@
 * Granola
 * Santani
 * Keys: work order
-* katie text to NV writing class
+* katie M: send text + NV writing class
 * PT: carolyn
 
 ## Whenever
