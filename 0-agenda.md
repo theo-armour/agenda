@@ -10,14 +10,13 @@
 ## Today
 
 * ??
-* SPS: reunion
+* SPS: reunion draft
 * Granola
-* 
-
 * Q&amp;A: Singalong
 * Santani
 * Keys: work order
-* 
+* BoD: Election Handout
+* PT: carolyn
 
 ## Whenever
 
@@ -200,7 +199,7 @@ Waiting
 **Peeps**
 
 -->
-<details>
+<details open="">
 
 * John Choate: wall image ~ PGE no public ros ~ planter
 * LD Kirshenbaum: late June ~ zarina
