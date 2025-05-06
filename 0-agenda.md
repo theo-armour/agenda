@@ -13,8 +13,7 @@
 * Granola
 * Santani
 * Keys: work order
-* 
-
+* katie text to NV writing class
 * PT: carolyn
 
 ## Whenever
@@ -26,6 +25,7 @@
 * Heritage: triage
 * TDT Vaccine appointment
 * Old walker to PT?
+* Next Village: Introduce KatieM
 * Medbridge exercises / Carolyn
 * Journey: reverse seat ~ review ~ 800 958 8324
 
