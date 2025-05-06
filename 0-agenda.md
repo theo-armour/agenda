@@ -10,10 +10,9 @@
 ## Today
 
 * ??
-* SPS: reunion draft
-* Granola
 * 
 
+* Granola
 * Santani
 * Keys: work order
 * BoD: Election Handout
