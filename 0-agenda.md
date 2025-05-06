@@ -12,7 +12,8 @@
 * ??
 * SPS: reunion draft
 * Granola
-* Q&amp;A: Singalong
+* 
+
 * Santani
 * Keys: work order
 * BoD: Election Handout
