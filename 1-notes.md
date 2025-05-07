@@ -7,8 +7,7 @@
 * Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
 * [https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php](https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php)
 * It depends on which window@ you look out
-
-* <div style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; line-height: 20px; white-space: pre;">Man on sofa reading financial times jane standing
+* Man on sofa reading financial times jane standing
 * I will never be a consumer - is that my epigraph
 * 619 m 1442 f
 * Nancy T: Seal of California the lady is Minerva&nbsp;
