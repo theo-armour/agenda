@@ -264,11 +264,15 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
 * ++
+* Out and about to Air museum&nbsp;
+* Individual film festival
+* Granola photo . Guests for lunch
+* hand wipes available Photo of food display&nbsp;
 * Residents: commission report
 * He: Donations?
 * Mary: CC print ~ plaque
