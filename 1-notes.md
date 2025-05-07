@@ -1,7 +1,6 @@
 # Notes
 
-+++
-
+* +++
 * Kay's friend Tony knows western artists
 * Priest mother's Day
 * Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
