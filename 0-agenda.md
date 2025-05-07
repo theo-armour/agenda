@@ -15,7 +15,8 @@
 * Santani
 * Keys: work order
 * katie M: send text + NV writing class
-* PT: carolynPiano needs tuning tell Cortez&nbsp;
+* PT: carolyn
+* Piano needs tuning tell Cortez&nbsp;
 * 
 
 ## Whenever
