@@ -1,29 +1,14 @@
 # Notes
 
-Piano needs tuning tell Cortez&nbsp;
-+++
-
-Out and about to Air museum&nbsp;Individual film festival
-Granola photo . Guests for lunch
-Secret menu hand wipes available&nbsp;Photo of food display&nbsp;
-
-Don't accept criticism from somebody with you wouldn't want advice from other way around* Secret menu hand wipes available Photo of food display&nbsp;
-
+* +++
+* Kay's friend Tony knows western artists
 * Priest mother's Day
 * Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
 * [https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php](https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php)
 * It depends on which window@ you look out
-* 
-
-When are we going to become users
-
-* John Choate
-* Eloise+Corwin+three joints+pge bldg+cv
-* <div style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; line-height: 20px; white-space: pre;">Man on sofa reading financial times jane standing
+* Man on sofa reading financial times jane standing
 * I will never be a consumer - is that my epigraph
-* Boys club question in the style of Ogden Nash understandable by a 10-year-old
 * 619 m 1442 f
-* Searching for sugar Man the best movie ever made
 * Nancy T: Seal of California the lady is Minerva&nbsp;
 * How can you love it if you don't know it?
 * John G 415 987 8034
@@ -34,13 +19,8 @@ When are we going to become users
 
 * Grant, O Lord, that in all the joys of life
 * we may never forget to be kind.
-* Help us to be:
-* unselfish in friendship,
-* %
-* 
-
-* &nbsp;of those less happy than ourselves,
-
+* Help us to be unselfish in friendship,
+* Mindful of those less happy than ourselves,
 * and eager to bear the burdens of others,
 * through Jesus Christ our Savior. Amen.
 
