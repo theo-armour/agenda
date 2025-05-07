@@ -7,17 +7,10 @@
 * Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
 * [https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php](https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php)
 * It depends on which window@ you look out
-* 
 
-When are we going to become users
-
-* John Choate
-* Eloise+Corwin+three joints+pge bldg+cv
 * <div style="background-color: rgb(255, 255, 255); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 15px; line-height: 20px; white-space: pre;">Man on sofa reading financial times jane standing
 * I will never be a consumer - is that my epigraph
-* Boys club question in the style of Ogden Nash understandable by a 10-year-old
 * 619 m 1442 f
-* Searching for sugar Man the best movie ever made
 * Nancy T: Seal of California the lady is Minerva&nbsp;
 * How can you love it if you don't know it?
 * John G 415 987 8034
