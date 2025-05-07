@@ -14,7 +14,8 @@
 * Santani
 * Keys: work order
 * katie M: send text + NV writing class
-* PT: carolyn
+* PT: carolynPiano needs tuning tell Cortez&nbsp;
+* 
 
 ## Whenever
 
@@ -200,7 +201,7 @@ Waiting
 **Peeps**
 
 -->
-<details open="">
+<details>
 
 * Paul Goldsmith
 * John Choate: wall image ~ PGE no public ros ~ planter
