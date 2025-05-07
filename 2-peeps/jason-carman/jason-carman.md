@@ -13,6 +13,14 @@ Jason
 * https://www.instagram.com/jasonjoyride/
 
 
+## 2025-05-06
+
+* John Speed Orr
+* Dollars & Donuts
+* Dylan Chapgier
+
+
+
 ## 2024-02-15 Endiatx ~ makes robot pills for telemedicine
 
 Hi Jason.
