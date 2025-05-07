@@ -10,7 +10,7 @@
 ## Today
 
 * ??
-* Granola
+* Granola recipe
 * Santani
 * Keys: work order
 * katie M: send text + NV writing class
