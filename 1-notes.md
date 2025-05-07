@@ -1,14 +1,8 @@
 # Notes
 
-Piano needs tuning tell Cortez&nbsp;
 +++
 
-Out and about to Air museum&nbsp;Individual film festival
-Granola photo . Guests for lunch
-Secret menu hand wipes available&nbsp;Photo of food display&nbsp;
-
-Don't accept criticism from somebody with you wouldn't want advice from other way around* Secret menu hand wipes available Photo of food display&nbsp;
-
+* Kay's friend Tony knows western artists
 * Priest mother's Day
 * Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
 * [https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php](https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php)
@@ -34,13 +28,8 @@ When are we going to become users
 
 * Grant, O Lord, that in all the joys of life
 * we may never forget to be kind.
-* Help us to be:
-* unselfish in friendship,
-* %
-* 
-
-* &nbsp;of those less happy than ourselves,
-
+* Help us to be unselfish in friendship,
+* Mindful of those less happy than ourselves,
 * and eager to bear the burdens of others,
 * through Jesus Christ our Savior. Amen.
 
