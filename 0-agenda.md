@@ -11,13 +11,13 @@
 ## Today
 
 * ??
-* Santani
-* PT: Old walker to PT handle instructions
 * 
+
+* PT: Old walker to PT handle instructions
 
 ## Whenever
 
-* Scans to PDF
+* Hector: Scans to PDF
 * krea
 * He Vivien: payers
 * MarthaN: medications message draft
