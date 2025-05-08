@@ -23,6 +23,16 @@
 * info@nextvillagesf.org
 * Phone Tree: 415-301-3742
 
+## Writing Group
+
+* Wednesdays 1:00 to 2:00
+* Meeting Link: https://us02web.zoom.us/j/82383945456?pwd=Zll4TE4wbFQxZFdYYUFaT05kS3Y1Zz09
+* Meeting ID: 82383945456 
+* Meeting Password: 951696 
+* Dial-in number: 669-900-6833 
+* 
+Andy Hamner
+
 ## Statistics
 
 * 299 members
@@ -38,6 +48,8 @@
 
 
 ## Jacqueline Jones: Executive Director
+
+* jjones@nextvillagesf.org or 415/888-2868. 
 
 
 ## Admin

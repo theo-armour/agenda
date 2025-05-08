@@ -1,19 +1,59 @@
-**Transcription of the text in the image:**
+# Heritage on the Marina Granola
 
-Heritage House Recipe Granola
+Findings by Theo Armour ~ 2025-05-07
 
-- Flax Seed — 1 cup
-- Cashews — 3 cup
-- Almonds — 2 cup
-- Pumpkin Seeds — 2 cup
-- Sesame Seeds — 2 cup
-- Sunflower Seeds — 3 cup
-- Walnuts — 2 cup
-- Oats — 1 tub, 32oz
-- Canola Oil — 1 cup
-- Brown Sugar — 1/2 cup
-- Syrup, Maple — 1 TB
-- Cinnamon — 1 TB
-- Nutmeg — 1 TB
+## Ingredients
 
-\#5 yield
+* 1 cup Flax Seed
+* 3 cup Cashews 
+* 2 cup Almonds
+* 2 cup Pumpkin Seeds
+* 2 cup Sesame Seeds
+* 3 cup Sunflower Seeds
+* 2 cup Walnuts
+* 32 oz Oats
+* 1 cup Canola Oil
+* 1/2 cup Brown Sugar
+* 1 tbsp Syrup, Maple
+* 1 tbsp Cinnamon
+* 1 tbsp Nutmeg
+
+## Yield
+
+60 2oz servings
+
+## RecipeCard ~ https://recipecard.io/recipe-nutrition-analyzer/
+
+* 256 Calories
+* 8g Protein
+* 17g Total Fat
+* 19g Carbs
+* 4g Fiber
+
+
+## Happy Forks ~ https://happyforks.com/analyzer/result
+
+* 259 Calories
+* 8.9g Protein
+* 20.9g Total Fat
+* 18.4g Carbs
+* 4.8g Fiber
+
+
+## VeryWellFit ~ https://www.verywellfit.com/recipe-nutrition-analyzer-4157076
+
+* 381 Calories
+* 12g Protein
+* 18g Total Fat
+* 48g Carbs
+* 9g Fiber
+
+
+## Perplexity ~ https://www.perplexity.ai/search/nutrient-information-for-this-AbMzYYTUTaK3FgqkA5FQFQ?0=r
+
+* 169 Calories 
+* 4.4g Protein
+* 12.5g Fat
+* 11.2g Carbohydrates
+* 2.5g Fiber
+
