@@ -17,7 +17,8 @@
 
 ## Whenever
 
-* Hector: Scans to PDF
+* Hector: Olga
+* Scans to PDF
 * krea
 * He Vivien: payers
 * MarthaN: medications message draft
