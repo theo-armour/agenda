@@ -12,7 +12,7 @@
 
 * ??
 * PT: Old walker to PT handle instructions
-* Paul Goldsmith:&nbsp;
+* 
 
 ## Whenever
 
