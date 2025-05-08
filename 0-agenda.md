@@ -37,7 +37,7 @@
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>0 Admin</summary>
 
@@ -66,13 +66,14 @@
 
 </details>
 <!-- *** -->
-<details>
+<details open="">
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
 
 * ?
-* Foam Roller ~ USB-C w/watts ~ highr heel lift?
+* esomaprazole
+* Foam Roller ~ USB-C w/watts ~ higher heel lift?
 * Tom King book 2
 * ACE: Agnes
 * LL Bean ~ blanket
