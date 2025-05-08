@@ -15,15 +15,13 @@
 * Granola recipe
 * Santani
 * Keys: work order
-* 
-
 * PT: carolyn
 * Piano needs tuning tell Cortez&nbsp;
-* 
 
 ## Whenever
 
 * Scans to PDF
+* krea
 * MarthaN: medications message draft
 * Adele: SFPL &gt; documentalist + lunch
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
