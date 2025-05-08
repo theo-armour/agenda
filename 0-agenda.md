@@ -6,20 +6,24 @@
 * 2025-05-04 ~ Don't accept criticism from somebody with you wouldn't want advice from ~ or other way around&nbsp;
 * 2025-05-04 ~ NYT ~&nbsp;People crave meaningful connection
 * 2025-05-04 ~ Lauren Jackson: Believing ~ religion offers people three B’s: beliefs about the world, behaviors to follow and belonging in a community or culture.
+* 2025-05-07 ~ Theo: "Consider the consequences rather than suffering the consequences.&nbsp;
 
 ## Today
 
 * ??
-* Granola
+* Granola recipe
 * Santani
+
+* PT: carolyn / Medbridge exercises
+* PT: Old walker to PT?
 * Keys: work order
-* katie M: send text + NV writing class
-* PT: carolynPiano needs tuning tell Cortez&nbsp;
-* 
+* Piano needs tuning tell Cortez&nbsp;
 
 ## Whenever
 
 * Scans to PDF
+* krea
+* He Vivien: payers
 * MarthaN: medications message draft
 * Adele: SFPL &gt; documentalist + lunch
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
@@ -27,9 +31,9 @@
 * Ron Boring: dates
 * Heritage: triage
 * TDT Vaccine appointment
-* Old walker to PT?
+
 * Next Village: Introduce KatieM
-* Medbridge exercises / Carolyn
+
 * Journey: reverse seat ~ review ~ 800 958 8324
 
 ***
