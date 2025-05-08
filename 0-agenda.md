@@ -12,11 +12,9 @@
 
 * ??
 * Santani
-* 
-
 * PT: Old walker to PT?
 * Keys: work order
-* Piano needs tuning tell Cortez&nbsp;
+* 
 
 ## Whenever
 
