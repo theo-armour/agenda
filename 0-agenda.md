@@ -13,14 +13,16 @@
 * ??
 * 
 
+* He Vivien: payers
 * PT: Old walker to PT handle instructions
+* Paul Goldsmith:&nbsp;
 
 ## Whenever
 
-* Hector: Olga
+* Hector: minimise
 * Scans to PDF
 * krea
-* He Vivien: payers
+
 * MarthaN: medications message draft
 * Adele: SFPL &gt; documentalist + lunch
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
