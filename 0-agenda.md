@@ -11,18 +11,19 @@
 ## Today
 
 * ??
-* 
-
 * Granola recipe
 * Santani
+
+* PT: carolyn / Medbridge exercises
+* PT: Old walker to PT?
 * Keys: work order
-* PT: carolyn
 * Piano needs tuning tell Cortez&nbsp;
 
 ## Whenever
 
 * Scans to PDF
 * krea
+* He Vivien: payers
 * MarthaN: medications message draft
 * Adele: SFPL &gt; documentalist + lunch
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
@@ -30,9 +31,9 @@
 * Ron Boring: dates
 * Heritage: triage
 * TDT Vaccine appointment
-* Old walker to PT?
+
 * Next Village: Introduce KatieM
-* Medbridge exercises / Carolyn
+
 * Journey: reverse seat ~ review ~ 800 958 8324
 
 ***
