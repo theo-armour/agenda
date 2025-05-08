@@ -47,7 +47,6 @@
 * Josh
 * Taxes
 * Tiller
-* Pharmerica
 * File for admin tips
 * Renew Drivers License?
 * 
@@ -72,8 +71,9 @@
 <!-- -->
 
 * ?
-* esomaprazole
+* Esomaprazole
 * Foam Roller ~ USB-C w/watts ~ higher heel lift?
+* shampoo
 * Tom King book 2
 * ACE: Agnes
 * LL Bean ~ blanket
