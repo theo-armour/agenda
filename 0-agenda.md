@@ -11,7 +11,6 @@
 ## Today
 
 * ??
-* Granola recipe
 * Santani
 
 * PT: carolyn / Medbridge exercises
