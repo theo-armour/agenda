@@ -15,7 +15,8 @@
 * Granola recipe
 * Santani
 * Keys: work order
-* katie M: send text + NV writing class
+* 
+
 * PT: carolyn
 * Piano needs tuning tell Cortez&nbsp;
 * 
