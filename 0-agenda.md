@@ -12,7 +12,7 @@
 
 * ??
 * Santani
-* PT: Old walker to PT?
+* PT: Old walker to PT handle instructions
 * 
 
 ## Whenever
@@ -282,7 +282,7 @@ Waiting
 **Heritage**
 
 -->
-<details open="">
+<details>
 <!-- -->
 <summary>Heritage</summary>
 
