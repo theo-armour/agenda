@@ -11,9 +11,6 @@
 ## Today
 
 * ??
-* 
-
-* He Vivien: payers
 * PT: Old walker to PT handle instructions
 * Paul Goldsmith:&nbsp;
 
