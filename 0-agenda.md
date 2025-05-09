@@ -14,14 +14,18 @@
 * Phyllis: sps
 * sps65: phullis
 * sps65: me
-* PT: Old walker to PT handle instructions
+* TooToo
+* Scans to PDF
+* krea
+* 
+
 * 
 
 ## Whenever
 
 * Hector: minimise
-* Scans to PDF
-* krea
+* 
+
 * MarthaN: medications message draft
 * Adele: SFPL &gt; documentalist + lunch
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
