@@ -7,11 +7,13 @@
 * 2025-05-04 ~ NYT ~&nbsp;People crave meaningful connection
 * 2025-05-04 ~ Lauren Jackson: Believing ~ religion offers people three B’s: beliefs about the world, behaviors to follow and belonging in a community or culture.
 * 2025-05-07 ~ Theo: "Consider the consequences rather than suffering the consequences.&nbsp;
-* 
 
 ## Today
 
 * ??
+* Phyllis: sps
+* sps65: phullis
+* sps65: me
 * PT: Old walker to PT handle instructions
 * 
 
