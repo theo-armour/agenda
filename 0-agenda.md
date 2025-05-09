@@ -17,20 +17,23 @@
 * TooToo
 * Scans to PDF
 * krea
-* 
-
+* marJo: dinner
+* UCSF: call
+* Ron &amp; Bebo: June1
+* Paul Goldsmith
 * 
 
 ## Whenever
 
 * Hector: minimise
+* Mia:
 * 
 
+* AEP
 * MarthaN: medications message draft
 * Adele: SFPL &gt; documentalist + lunch
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com" target="_blank">domimicbookbinder@gmail.com</a>
 * Alix: furniture
-* Ron Boring: dates
 * Heritage: triage
 * TDT Vaccine appointment
 * Next Village: Introduce KatieM
@@ -47,6 +50,10 @@
 <summary>0 Admin</summary>
 
 * ?
+* Boost: account number ~ cancel autopay
+* Boost: target: 2675 Geary Blvd, San Francisco, CA 94118 ~ (415) 796-5280
+* Job description: need a personal assistant
+* DonnaB: vet Job DescriptionHi Art&nbsp;
 * Kaiber: cancel
 * Boost: cancel
 * Josh
