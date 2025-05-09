@@ -2,9 +2,8 @@
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
 
 * +++
-* 
-
 * 2025-05-07 ~ Theo: "Consider the consequences rather than suffering the consequences.&nbsp;
+* 2025-05-09 ~ ??&nbsp;If you're going to praise something, tell people why.&nbsp;
 
 ## Today
 
