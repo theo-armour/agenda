@@ -18,7 +18,7 @@ Jason
 * John Speed Orr
 * Dollars & Donuts
 * Dylan Chapgier
-
+https://www.jettisoncreative.com
 
 
 ## 2024-02-15 Endiatx ~ makes robot pills for telemedicine
