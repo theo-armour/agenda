@@ -12,14 +12,14 @@
 
 * ??
 * Phyllis: sps
-* sps65: phullis
+* sps65: phyllis
 * sps65: me
 * TooToo
 * Scans to PDF
 * krea
 * marJo: dinner
 * UCSF: call
-* Ron &amp; Bebo: June1
+* Ron &amp; Bebo: June 1
 * Paul Goldsmith
 * 
 
