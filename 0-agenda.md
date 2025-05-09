@@ -26,7 +26,6 @@
 ## Whenever
 
 * Hector: minimise
-* Mia:
 * 
 
 * AEP
