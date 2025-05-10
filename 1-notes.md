@@ -3,8 +3,8 @@
 * +++
 * Kay's friend Tony knows western artists
 * Priest mother's Day
-* Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
-* [https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php](https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php)
+* Bob <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=bbardell@comcast.net" target="_blank">bbardell@comcast.net</a>
+* <a href="https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php">https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php</a>
 * It depends on which window@ you look out
 * Man on sofa reading financial times jane standing
 * I will never be a consumer - is that my epigraph
