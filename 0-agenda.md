@@ -73,9 +73,7 @@
 <!-- -->
 
 * ?
-* The accidental Tourist
-* 
-
+* The accidental Tourist ~ book of the month in HH
 * shampoo
 * Tom King book 2
 * ACE: Agnes
