@@ -8,9 +8,7 @@
 ## Today
 
 * ??
-* 
-
-* sps65: phyllis
+* HotM: shirlety reply
 * sps65: me
 * TooToo
 * Scans to PDF
@@ -21,6 +19,7 @@
 ## Whenever
 
 * Hector: minimise
+* Laura Burges
 * AEP
 * MarthaN: medications message draft
 * Adele: SFPL &gt; documentalist + lunch
