@@ -20,17 +20,14 @@
 ## Whenever
 
 * Hector: minimise
-* 
-
 * AEP
-
 * MarthaN: medications message draft
 * Adele: SFPL &gt; documentalist + lunch
 * [domimicbookbinder@gmail.com](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com)
 * Alix: furniture
 * Heritage: triage
 * TDT Vaccine appointment
-* Next Village: Introduce KatieM
+* Next Village: Introduce KatieMhe accidental Tourist ~ book of the month in HH
 * Journey: reverse seat ~ review ~ 800 958 8324
 
 ***
@@ -73,7 +70,7 @@
 <!-- -->
 
 * ?
-* The accidental Tourist ~ book of the month in HH
+* Dog Tags
 * shampoo
 * Tom King book 2
 * ACE: Agnes
