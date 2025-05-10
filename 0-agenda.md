@@ -74,8 +74,8 @@
 
 * ?
 * The accidental Tourist
-* Assisted living to birthday dinner
-* Foam Roller ~ USB-C w/watts ~ higher heel lift?
+* 
+
 * shampoo
 * Tom King book 2
 * ACE: Agnes
