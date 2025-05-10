@@ -14,12 +14,8 @@
 * TooToo
 * Scans to PDF
 * krea
-* 
-
-* UCSF: call
 * Ron &amp; Bebo: June 1
 * Paul Goldsmith
-* 
 
 ## Whenever
 
@@ -44,7 +40,7 @@
 **Admin**
 
 -->
-<details open="">
+<details>
 <summary>0 Admin</summary>
 
 * ?
