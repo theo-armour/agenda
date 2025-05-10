@@ -64,7 +64,7 @@
 [0.1 2024 taxes]()
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
