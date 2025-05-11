@@ -1,5 +1,5 @@
 <span style="font-size: 19.5px;">TheoMotto</span>
-## [Slogan]()
+## Slogan
 
 * +++
 * 2025-05-07 ~ Theo: "Consider the consequences rather than suffering the consequences.&nbsp;
@@ -53,7 +53,6 @@
 * Tiller
 * File for admin tips
 * Renew Drivers License?
-* 
 
 ## [0 Admin Journal]()
 
