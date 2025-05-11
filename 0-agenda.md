@@ -5,6 +5,7 @@
 * 2025-05-07 ~ Theo: "Consider the consequences rather than suffering the consequences.&nbsp;
 * 2025-05-09 ~ ??&nbsp;If you're going to praise something, tell people why.&nbsp;
 * 2025-05-11 ~ John Kenneth Galbraith on being open-minded: “Faced with the choice between changing one’s mind and proving that there is no need to do so, almost everyone gets busy on the proof.” ~ Agnes: get refuted instead
+* 2025-05-11 ~ Theo:&nbsp;
 
 ## Today
 
