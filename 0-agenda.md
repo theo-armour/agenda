@@ -23,7 +23,7 @@
 * AEP
 * MarthaN: medications message draft
 * Adele: SFPL &gt; documentalist + lunch
-* <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com">domimicbookbinder@gmail.com</a>
+* [domimicbookbinder@gmail.com](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com)
 * Alix: furniture
 * Heritage: triage
 * TDT Vaccine appointment
@@ -114,7 +114,7 @@ Waiting
 * PPH: AI critique
 * UCSF patient advocate
 * Amanda: CVS + PT
-* <a href="https://www.ucsfhealth.org/services/case-management-and-social-work">https://www.ucsfhealth.org/services/case-management-and-social-work</a>
+* [https://www.ucsfhealth.org/services/case-management-and-social-work](https://www.ucsfhealth.org/services/case-management-and-social-work)
 * UCSF: Dental appointment
 * Jock rot ~ got it ~ trying lamasil
 * Delta Dental: codes
@@ -153,7 +153,8 @@ Waiting
 * IA: storage photos
 * Avery + Bancroft: documentalist
 * Diana Greer: working together
-* 
+
+*
 
 [nicole agenda]()
 
@@ -202,7 +203,7 @@ Waiting
 
 **Family**
 
- -->
+-->
 <details>
 <summary>Family</summary>
 ## [2.1 Family]()
@@ -251,7 +252,7 @@ Waiting
 ## [3.0 entities]()
 
 * ?
-* SF heritage: donation ~&nbsp;<a href="https://www.sfheritage.org/splendid-25/">https://www.sfheritage.org/splendid-25/</a>
+* SF heritage: donation ~&nbsp;[https://www.sfheritage.org/splendid-25/](https://www.sfheritage.org/splendid-25/)
 * SacSem: nbr owner &lt;&lt; scree
 * awesome: zelle?
 * SacSem: wix
@@ -335,7 +336,7 @@ Residents
 [heritage happenings agenda]()
 
 </details>
-<!-- 
+<!--
 **Heritage Centenary**
 -->
 <details>
