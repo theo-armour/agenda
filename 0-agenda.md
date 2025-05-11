@@ -4,11 +4,13 @@
 * +++
 * 2025-05-07 ~ Theo: "Consider the consequences rather than suffering the consequences.&nbsp;
 * 2025-05-09 ~ ??&nbsp;If you're going to praise something, tell people why.&nbsp;
+* 2025-05-11 ~ John Kenneth Galbraith on being open-minded: “Faced with the choice between changing one’s mind and proving that there is no need to do so, almost everyone gets busy on the proof.” ~ Agnes: get refuted instead
 
 ## Today
 
 * ??
-* HotM: shirlety reply
+* 
+
 * sps65: me
 * TooToo
 * Scans to PDF
@@ -38,7 +40,6 @@
 
 -->
 <details>
-
 <summary>0 Admin</summary>
 
 * ?
@@ -59,13 +60,9 @@
 ## [0 Admin Agenda ZZZ]()
 
 [passport]()
-
 [mia agenda]()
-
 [0.1 will &amp; trust]()
-
 [0.1 2024 taxes]()
-
 </details>
 <!-- *** -->
 <details>
@@ -91,11 +88,8 @@ Waiting
 ## [0 Admin Personal Journal]()
 
 [0.1-schedule-days-of-week]()
-
 [0.1-schedule-daily]()
-
 [0.1-notes]()
-
 </details>
 ***
 
@@ -105,7 +99,6 @@ Waiting
 
 -->
 <details>
-
 <summary>Health</summary>
 ## [1.0 Health Agenda]()
 
@@ -120,25 +113,15 @@ Waiting
 * Delta Dental: codes
 
 [dentistry]()
-
 [dermatology]()
-
 [gastroenterology]()
-
 [ophthalmology]()
-
 [pph]()
-
 [1.1 Health History]()
-
 [1.1 Health Insurance]()
-
 [1.1 Health Journal]()
-
 [1.1 Health Providers]()
-
 [1.1 Health Reference]()
-
 </details>
 <!--
 
@@ -146,6 +129,7 @@ Waiting
 
 -->
 <details>
+
 <summary>Simplicity</summary>
 ## [1.0 simplicity]()
 
@@ -155,12 +139,10 @@ Waiting
 * Diana Greer: working together
 
 *
-
 [nicole agenda]()
-
 [1.1 archiving]()
-
 [1.2 claudia]()
+
 </details>
 <!--
 
@@ -168,7 +150,6 @@ Waiting
 
 -->
 <details>
-
 <summary>ACE IT</summary>
 ## [2.0 ACE IT]()
 
@@ -205,6 +186,7 @@ Waiting
 
 -->
 <details>
+
 <summary>Family</summary>
 ## [2.1 Family]()
 
@@ -246,7 +228,6 @@ Waiting
 
 -->
 <details>
-
 <summary>Entities</summary>
 <!-- -->
 ## [3.0 entities]()
@@ -321,8 +302,8 @@ Residents
 * List of one-handed things for T
 
 [3.1 heritage journal]()
-
 [3.1 heritage agenda]()
+
 <details open="">
 <!-- -->
 <summary>Heritage Happenings</summary>
@@ -333,8 +314,8 @@ Residents
 * HH: agenda &amp; meeting dates for the year
 
 [heritage happenings journal]()
-[heritage happenings agenda]()
 
+[heritage happenings agenda]()
 </details>
 <!--
 **Heritage Centenary**
@@ -351,21 +332,34 @@ Residents
 * rsvp: invite
 
 [centenary morgan journal]()
+
 [centenary-morgan ]()
 ***
 
 </details>
+
 [activities]()
+
 [admin town hall]()
+
 [bod sflprs]()
+
 [centenary-morgan ]()
+
 [health]()
+
 [out and about]()
+
 [resident council]()
+
 [residents]()
+
 [services]()
+
 [staff]()
+
 [strategic plan ~ eir]()
+
 </details>
 <!-- -->
 ***
@@ -376,7 +370,6 @@ Residents
 
 -->
 <details>
-
 <summary>Projects</summary>
 ## [4.0 projects agenda]()
 
