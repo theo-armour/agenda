@@ -95,7 +95,7 @@ Waiting
 **Heritage**
 
 -->
-<details>
+<details open="">
 <!-- -->
 <summary>Heritage</summary>
 
