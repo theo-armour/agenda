@@ -11,11 +11,7 @@
 
 * ??
 * sps65: me
-* TooToo
-* 
-
 * krea
-* Ron &amp; Bebo: June 1
 * Paul Goldsmith
 
 ## Whenever
