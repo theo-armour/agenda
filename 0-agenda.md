@@ -37,7 +37,7 @@
 **Admin**
 
 -->
-<details open="">
+<details>
 
 <summary>0 Admin</summary>
 
@@ -45,16 +45,13 @@
 * Boost: account number ~ cancel autopay
 * Boost: target: 2675 Geary Blvd, San Francisco, CA 94118 ~ (415) 796-5280
 * Job description: need a personal assistant
-* DonnaB: vet Job DescriptionHi Art&nbsp;
-* 
-
+* DonnaB: vet Job Description
 * Boost: cancel
 * Josh
 * Taxes
 * Tiller
 * File for admin tips
-* Renew Drivers License?
-* 
+* Drivers License: expires 2028
 
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
 
