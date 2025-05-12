@@ -18,6 +18,7 @@
 ## Whenever
 
 * Hector: minimise
+* Sacsem
 * Laura Burges
 * AEP
 * MarthaN: medications message draft
@@ -68,7 +69,7 @@
 <!-- -->
 
 * ?
-* Dog Tags
+* Dog Tags ~ ninite
 * shampoo ~ diapers
 * Tom King book 2
 * ACE: Agnes
