@@ -1,11 +1,12 @@
 <span style="font-size: 19.5px;">TheoMotto</span>
-## [Slogan]()
+## Slogan
 
 * +++
 * 2025-05-07 ~ Theo: "Consider the consequences rather than suffering the consequences.&nbsp;
 * 2025-05-09 ~ ??&nbsp;If you're going to praise something, tell people why.&nbsp;
 * 2025-05-11 ~ John Kenneth Galbraith on being open-minded: “Faced with the choice between changing one’s mind and proving that there is no need to do so, almost everyone gets busy on the proof.” ~ Agnes: get refuted instead
 * 2025-05-11 ~ Theo:&nbsp;You can be as judgmental about the past as you want, but you won't change it.&nbsp;Judging your future could make huge differences.&nbsp;
+* 
 
 ## Today
 
@@ -50,7 +51,6 @@
 * Tiller
 * File for admin tips
 * Renew Drivers License?
-* 
 
 ## [0 Admin Journal]()
 
@@ -69,11 +69,10 @@
 
 * ?
 * Dog Tags
-* A: diapers ~ shampoo
+* shampoo ~ diapers
 * Tom King book 2
 * ACE: Agnes
 * LL Bean ~ blanket
-* Safeway:&nbsp;
 * EyeBuyDirect: small s
 * Jeans ~ jacket
 * Closet step ladder
@@ -95,7 +94,7 @@ Waiting
 **Health**
 
 -->
-<details>
+<details open="">
 <summary>Health</summary>
 ## [1.0 Health Agenda]()
 
@@ -134,8 +133,8 @@ Waiting
 * IA: storage photos
 * Avery + Bancroft: documentalist
 * Diana Greer: working together
-* 
 
+*
 [nicole agenda]()
 [1.1 archiving]()
 [1.2 claudia]()
@@ -181,7 +180,7 @@ Waiting
 
 **Family**
 
- -->
+-->
 <details>
 
 <summary>Family</summary>
@@ -314,7 +313,7 @@ Residents
 
 [heritage happenings agenda]()
 </details>
-<!-- 
+<!--
 **Heritage Centenary**
 -->
 <details>
