@@ -10,6 +10,7 @@
 ## Today
 
 * ??
+* try
 * sps65: me
 * krea
 * Paul Goldsmith
