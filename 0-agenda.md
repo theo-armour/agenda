@@ -17,7 +17,7 @@
 ## Whenever
 
 * +++
-* SavSem: wix
+* Savcem: wix
 * Hector: minimise
 * Laura Burges
 * AEP
@@ -165,7 +165,7 @@ Waiting
 **ACE IT**
 
 -->
-<details>
+<details open="">
 
 <summary>ACE IT</summary>
 ## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
