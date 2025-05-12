@@ -16,6 +16,8 @@
 * Savcem: wix
 * Hector: minimise
 * Laura Burges
+* Wine
+* MS Mouse
 
 ## Whenever
 
