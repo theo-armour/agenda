@@ -96,7 +96,95 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a>
 
 </details>
+
 ***
+
+<!--
+
+**Heritage**
+
+-->
+<details>
+<!-- -->
+<summary>Heritage</summary>
+
+* ++
+* Out and about to Air museum&nbsp;
+* Individual film festival
+* Granola photo . Guests for lunch
+* hand wipes available Photo of food display&nbsp;
+* Residents: commission report
+* He: Donations?
+* Mary: CC print ~ plaque
+* Scans
+* Create HH blog
+* Emergency plan: get digital + email
+* McGliney Computer: W10??
+* HH: Randy Gridley thanks
+* HH cfo: billing split + eaf + email
+* Praveen: Remote Dir Activities
+* Jon Casey: IT guy ~ Find phone ~ TouchTown
+* Kay Tim: Turntable ~ advocate
+* Activities: zen + NV
+* ??
+
+Platform* NDA* Strategic Plan ~ architecture experience* Two way reporting#experience* Bod past ~ sec RCResidents Council
+
+* MJa: RN ~ chair lifts ~ electric chairs
+
+Residents
+
+* Kathy Paver: follow up
+* John Mossi
+* List of one-handed things for T
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-journal.md&quot;">3.1 heritage journal</a>
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
+<details open="">
+<!-- -->
+<summary>Heritage Happenings</summary>
+
+* May: post-mortem
+* HH: Tom to look at style guide and charter
+* HH: Page for committee book
+* HH: agenda &amp; meeting dates for the year
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-journal.md&quot;">heritage happenings journal</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings agenda</a>
+
+</details>
+<!-- 
+**Heritage Centenary**
+-->
+<details>
+<!-- -->
+<summary>JMB Centenary</summary>
+
+* Al Sterling: rose notches
+* Mary: Fountain
+* Three women dressed as flappers
+* Karen McNeil
+* Woody?
+* rsvp: invite
+
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan-journal.md&quot;">centenary morgan journal</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan.md&quot;">centenary-morgan </a>
+***
+
+</details>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/activities/0-activities-agenda.md&quot;">activities</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/admin-town-hall/0-admin-town-hall-agenda.md&quot;">admin town hall</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/board-of-directors-sflprs/0-bod-sflprs-agenda.md&quot;">bod sflprs</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan.md&quot;">centenary-morgan </a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/health/0-health-agenda.md&quot;">health</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/out-and-about/0-out-and-about.md&quot;">out and about</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/resident-council/0-resident-council.md&quot;">resident council</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/residents/0-residents-agenda.md&quot;">residents</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/services/0-services.md&quot;">services</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/staff-directory/1-staff-agenda.md&quot;">staff</a>
+<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/strategic-plan-eir/0-strategic-plan-eir.md&quot;">strategic plan ~ eir</a>
+</details>
 
 <!--
 
@@ -279,92 +367,8 @@ Waiting
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-tgd/0-tgd-agenda.md&quot;">tgd</a>
 <!-- -->
 </details>
-<!--
 
-**Heritage**
 
--->
-<details>
-<!-- -->
-<summary>Heritage</summary>
-
-* ++
-* Out and about to Air museum&nbsp;
-* Individual film festival
-* Granola photo . Guests for lunch
-* hand wipes available Photo of food display&nbsp;
-* Residents: commission report
-* He: Donations?
-* Mary: CC print ~ plaque
-* Scans
-* Create HH blog
-* Emergency plan: get digital + email
-* McGliney Computer: W10??
-* HH: Randy Gridley thanks
-* HH cfo: billing split + eaf + email
-* Praveen: Remote Dir Activities
-* Jon Casey: IT guy ~ Find phone ~ TouchTown
-* Kay Tim: Turntable ~ advocate
-* Activities: zen + NV
-* ??
-
-Platform* NDA* Strategic Plan ~ architecture experience* Two way reporting#experience* Bod past ~ sec RCResidents Council
-
-* MJa: RN ~ chair lifts ~ electric chairs
-
-Residents
-
-* Kathy Paver: follow up
-* John Mossi
-* List of one-handed things for T
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-journal.md&quot;">3.1 heritage journal</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
-<details open="">
-<!-- -->
-<summary>Heritage Happenings</summary>
-
-* May: post-mortem
-* HH: Tom to look at style guide and charter
-* HH: Page for committee book
-* HH: agenda &amp; meeting dates for the year
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-journal.md&quot;">heritage happenings journal</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings agenda</a>
-
-</details>
-<!-- 
-**Heritage Centenary**
--->
-<details>
-<!-- -->
-<summary>JMB Centenary</summary>
-
-* Al Sterling: rose notches
-* Mary: Fountain
-* Three women dressed as flappers
-* Karen McNeil
-* Woody?
-* rsvp: invite
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan-journal.md&quot;">centenary morgan journal</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan.md&quot;">centenary-morgan </a>
-***
-
-</details>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/activities/0-activities-agenda.md&quot;">activities</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/admin-town-hall/0-admin-town-hall-agenda.md&quot;">admin town hall</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/board-of-directors-sflprs/0-bod-sflprs-agenda.md&quot;">bod sflprs</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan.md&quot;">centenary-morgan </a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/health/0-health-agenda.md&quot;">health</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/out-and-about/0-out-and-about.md&quot;">out and about</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/resident-council/0-resident-council.md&quot;">resident council</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/residents/0-residents-agenda.md&quot;">residents</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/services/0-services.md&quot;">services</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/staff-directory/1-staff-agenda.md&quot;">staff</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/strategic-plan-eir/0-strategic-plan-eir.md&quot;">strategic plan ~ eir</a>
-</details>
 <!-- -->
 ***
 
