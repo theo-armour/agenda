@@ -17,7 +17,8 @@
 ## Whenever
 
 * +++
-* SavSem: wixHector: minimise
+* SavSem: wix
+* Hector: minimise
 * Laura Burges
 * AEP
 * MarthaN: medications message draft
@@ -70,7 +71,7 @@
 
 * ?
 * Dog Tags
-* shampoo
+* shampoo ~&nbsp;
 * Tom King book 2
 * ACE: Agnes
 * LL Bean ~ blanket
