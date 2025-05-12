@@ -37,7 +37,7 @@
 **Admin**
 
 -->
-<details>
+<details open="">
 
 <summary>0 Admin</summary>
 
@@ -46,7 +46,8 @@
 * Boost: target: 2675 Geary Blvd, San Francisco, CA 94118 ~ (415) 796-5280
 * Job description: need a personal assistant
 * DonnaB: vet Job DescriptionHi Art&nbsp;
-* Kaiber: cancel
+* 
+
 * Boost: cancel
 * Josh
 * Taxes
@@ -69,7 +70,7 @@
 
 </details>
 <!-- *** -->
-<details open="">
+<details>
 <!-- -->
 <summary>Personal</summary>
 <!-- -->
