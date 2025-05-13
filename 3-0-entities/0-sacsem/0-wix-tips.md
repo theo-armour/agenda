@@ -14,6 +14,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday, May 16, 2025 at North Beach Restaurant: Saikat Chakrabarti, the progressive challenger to Representative Nancy Pelosi
 * Friday, May 9 at North Beach Restaurant: Sacramento Seminar Roundtable
 * Friday, May 2 at North Beach Restaurant: Paul Goldsmith: Prague Spring 1968: The Soviets invade Czechoslovakia
 * Friday, April 25 at Jackson's Bar & Grill in Santa Rosa: Chris Rogers, California State Assemblymember from the 2nd District
