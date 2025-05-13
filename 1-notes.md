@@ -1,5 +1,5 @@
 Notes
-+++
++++https://www.linkedin.com/in/theoa/
 
 Kay's friend Tony knows western artists
 Priest mother's Day
