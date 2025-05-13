@@ -16,7 +16,6 @@
 * Savcem: wix
 * Hector: minimise
 * Laura Burges
-* 
 
 ## Whenever
 
