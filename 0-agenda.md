@@ -13,8 +13,7 @@
 * sps65: me
 * krea
 * Paul Goldsmith
-* 
-
+* Samsung: $900
 * Hector: minimise
 * Laura Burges
 
