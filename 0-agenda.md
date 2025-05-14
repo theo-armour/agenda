@@ -15,7 +15,7 @@
 * Paul Goldsmith
 * Samsung: $900 &gt; UPS
 * Hector: minimise
-* Laura Burges
+* 
 
 ## Whenever
 
