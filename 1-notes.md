@@ -1,5 +1,7 @@
 Notes
-+++[https://www.linkedin.com/in/theoa/](https://www.linkedin.com/in/theoa/)https://pushme-pullyou.github.io/tootoo-2025/
++++[https://www.linkedin.com/in/theoa/](https://www.linkedin.com/in/theoa/)
+
+https://pushme-pullyou.github.io/tootoo-2025/
 
 Kay's friend Tony knows western artists
 Priest mother's Day
