@@ -1,5 +1,6 @@
 Notes
-+++[https://www.linkedin.com/in/theoa/](https://www.linkedin.com/in/theoa/)
++++
+[https://www.linkedin.com/in/theoa/](https://www.linkedin.com/in/theoa/)
 
 https://pushme-pullyou.github.io/tootoo-2025/
 
