@@ -11,12 +11,12 @@
 
 * ??
 * sps65: me
-* krea
-* Paul Goldsmith
 * 
 
+* Krea
+* Paul Goldsmith
+* Samsung: $900 &gt; UPS
 * Hector: minimise
-* Laura Burges
 
 ## Whenever
 
@@ -28,7 +28,7 @@
 * Alix: furniture
 * Heritage: triage
 * TDT Vaccine appointment
-* Next Village: Introduce KatieMhe accidental Tourist ~ book of the month in HH
+* Next Village: Introduce Katie
 * Journey: reverse seat ~ review ~ 800 958 8324
 
 ***
@@ -101,6 +101,7 @@ Waiting
 <summary>Heritage</summary>
 
 * ++
+* 238 &amp; 240
 * Out and about to Air museum&nbsp;
 * Individual film festival
 * Granola photo . Guests for lunch
@@ -137,6 +138,7 @@ Residents
 <!-- -->
 <summary>Heritage Happenings</summary>
 
+* Book club: The accidental Tourist ~ book of the month in HH
 * May: post-mortem
 * HH: Tom to look at style guide and charter
 * HH: Page for committee book

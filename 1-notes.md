@@ -1,10 +1,13 @@
 Notes
-+++https://www.linkedin.com/in/theoa/
++++
+[https://www.linkedin.com/in/theoa/](https://www.linkedin.com/in/theoa/)
+
+https://pushme-pullyou.github.io/tootoo-2025/
 
 Kay's friend Tony knows western artists
 Priest mother's Day
-Bob <a href="mailto:bbardell@comcast.net">bbardell@comcast.net</a>
-<a href="https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php">https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php</a>
+Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
+[https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php](https://www.sfgate.com/magazine/article/The-Marina-Mystery-A-bar-stool-historian-gets-2716782.php)
 It depends on which window@ you look out
 Man on sofa reading financial times jane standing
 I will never be a consumer - is that my epigraph
