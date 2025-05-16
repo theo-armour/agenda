@@ -42,6 +42,8 @@
 <summary>0 Admin</summary>
 
 * ?
+* Samsung
+* Andrea
 * Boost: account number ~ cancel autopay
 * Boost: target: 2675 Geary Blvd, San Francisco, CA 94118 ~ (415) 796-5280
 * Job description: need a personal assistant
