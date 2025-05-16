@@ -38,7 +38,7 @@
 **Admin**
 
 -->
-<details>
+<details open="">
 <summary>0 Admin</summary>
 
 * ?
@@ -70,7 +70,7 @@
 
 * ?
 * Dog Tags
-* shampoo ~&nbsp;
+* shampoo ~ Eucerin ~ ninite
 * Tom King book 2
 * ACE: Agnes
 * LL Bean ~ blanket
