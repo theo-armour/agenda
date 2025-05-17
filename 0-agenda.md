@@ -1,5 +1,5 @@
 <span style="font-size: 19.5px;">TheoMotto</span>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md&quot;">Slogan</a>
+## [Slogan]()
 
 * +++
 * 2025-05-07 ~ Theo: "Consider the consequences rather than suffering the consequences.&nbsp;
@@ -10,6 +10,8 @@
 ## Today
 
 * ??
+* 
+
 * Mia:
 * Drew:
 * Tony : Myra
@@ -29,7 +31,7 @@
 * AEP
 * MarthaN: medications message draft
 * Adele: SFPL &gt; documentalist + lunch
-* <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com">domimicbookbinder@gmail.com</a>
+* [domimicbookbinder@gmail.com](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com)
 * Alix: furniture
 * Heritage: triage
 * TDT Vaccine appointment
@@ -44,7 +46,6 @@
 
 -->
 <details>
-
 <summary>0 Admin</summary>
 
 * ?
@@ -61,18 +62,14 @@
 * File for admin tips
 * Drivers License: expires 2028
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-journal.md&quot;">0 Admin Journal</a>
+## [0 Admin Journal]()
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/0-admin-agenda.md&quot;">0 Admin Agenda ZZZ</a>
+## [0 Admin Agenda ZZZ]()
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/passport.md&quot;">passport</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/mia/0-mia-agenda.md&quot;">mia agenda</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/will-trust/0-will-trust-agenda.md&quot;">0.1 will &amp; trust</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin/taxes/0-2024-taxes-agenda.md&quot;">0.1 2024 taxes</a>
-
+[passport]()
+[mia agenda]()
+[0.1 will &amp; trust]()
+[0.1 2024 taxes]()
 </details>
 <!-- *** -->
 <details>
@@ -95,14 +92,11 @@ Waiting
 
 * ++
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-admin-personal/0-admin-personal-journal.md&quot;">0 Admin Personal Journal</a>
+## [0 Admin Personal Journal]()
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-weekly.md&quot;">0.1-schedule-days-of-week</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-schedule-daily.md&quot;">0.1-schedule-daily</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-notes.md&quot;">0.1-notes</a>
-
+[0.1-schedule-days-of-week]()
+[0.1-schedule-daily]()
+[0.1-notes]()
 </details>
 ***
 
@@ -146,9 +140,9 @@ Residents
 * John Mossi
 * List of one-handed things for T
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-journal.md&quot;">3.1 heritage journal</a>
+[3.1 heritage journal]()
+[3.1 heritage agenda]()
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-agenda.md&quot;">3.1 heritage agenda</a>
 <details open="">
 <!-- -->
 <summary>Heritage Happenings</summary>
@@ -159,9 +153,9 @@ Residents
 * HH: Page for committee book
 * HH: agenda &amp; meeting dates for the year
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-journal.md&quot;">heritage happenings journal</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/0-heritage-happenings/0-heritage-happenings-agenda.md&quot;">heritage happenings agenda</a>
+[heritage happenings journal]()
 
+[heritage happenings agenda]()
 </details>
 <!-- 
 **Heritage Centenary**
@@ -177,22 +171,35 @@ Residents
 * Woody?
 * rsvp: invite
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan-journal.md&quot;">centenary morgan journal</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan.md&quot;">centenary-morgan </a>
+[centenary morgan journal]()
+
+[centenary-morgan ]()
 ***
 
 </details>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/activities/0-activities-agenda.md&quot;">activities</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/admin-town-hall/0-admin-town-hall-agenda.md&quot;">admin town hall</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/board-of-directors-sflprs/0-bod-sflprs-agenda.md&quot;">bod sflprs</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/centenary-morgan/0-centenary-morgan.md&quot;">centenary-morgan </a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/health/0-health-agenda.md&quot;">health</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/out-and-about/0-out-and-about.md&quot;">out and about</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/resident-council/0-resident-council.md&quot;">resident council</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/residents/0-residents-agenda.md&quot;">residents</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/services/0-services.md&quot;">services</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/staff-directory/1-staff-agenda.md&quot;">staff</a>
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-1-heritage/strategic-plan-eir/0-strategic-plan-eir.md&quot;">strategic plan ~ eir</a>
+
+[activities]()
+
+[admin town hall]()
+
+[bod sflprs]()
+
+[centenary-morgan ]()
+
+[health]()
+
+[out and about]()
+
+[resident council]()
+
+[residents]()
+
+[services]()
+
+[staff]()
+
+[strategic plan ~ eir]()
+
 </details>
 <!--
 
@@ -200,40 +207,29 @@ Residents
 
 -->
 <details>
-
 <summary>Health</summary>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/0-health-agenda.md&quot;">1.0 Health Agenda</a>
+## [1.0 Health Agenda]()
 
 * ++
 * Descibe PT need
 * PPH: AI critique
 * UCSF patient advocate
 * Amanda: CVS + PT
-* <a href="https://www.ucsfhealth.org/services/case-management-and-social-work">https://www.ucsfhealth.org/services/case-management-and-social-work</a>
+* [https://www.ucsfhealth.org/services/case-management-and-social-work](https://www.ucsfhealth.org/services/case-management-and-social-work)
 * UCSF: Dental appointment
 * Jock rot ~ got it ~ trying lamasil
 * Delta Dental: codes
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dentistry.md&quot;">dentistry</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/dermatology.md&quot;">dermatology</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/gastroenterology.md&quot;">gastroenterology</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/ophthalmology.md&quot;">ophthalmology</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">pph</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-history.md&quot;">1.1 Health History</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-insurance.md&quot;">1.1 Health Insurance</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-journal.md&quot;">1.1 Health Journal</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-providers.md&quot;">1.1 Health Providers</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/1-health-reference.md&quot;">1.1 Health Reference</a>
-
+[dentistry]()
+[dermatology]()
+[gastroenterology]()
+[ophthalmology]()
+[pph]()
+[1.1 Health History]()
+[1.1 Health Insurance]()
+[1.1 Health Journal]()
+[1.1 Health Providers]()
+[1.1 Health Reference]()
 </details>
 <!--
 
@@ -241,8 +237,9 @@ Residents
 
 -->
 <details>
+
 <summary>Simplicity</summary>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/0-simplicity-agenda.md&quot;">1.0 simplicity</a>
+## [1.0 simplicity]()
 
 * ++
 * IA: storage photos
@@ -250,11 +247,10 @@ Residents
 * Diana Greer: working together
 * 
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/nicole-smith/0-nicole-agenda.md&quot;">nicole agenda</a>
+[nicole agenda]()
+[1.1 archiving]()
+[1.2 claudia]()
 
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/archiving/0-archiving-agenda.md&quot;">1.1 archiving</a>
-
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-simplicity/claudia/0-archiving-agenda.md&quot;">1.2 claudia</a>
 </details>
 <!--
 
@@ -262,9 +258,8 @@ Residents
 
 -->
 <details>
-
 <summary>ACE IT</summary>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/0-ace-it-agenda.md&quot;">2.0 ACE IT</a>
+## [2.0 ACE IT]()
 
 * ++
 * ICE: ms365
@@ -279,15 +274,15 @@ Residents
 * Buy more: share paper
 * Netflix: ace-i
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/alix.md&quot;">Alix</a>
+## [Alix]()
 
 * ++
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/cynthia.md&quot;">Cynthia</a>
+## [Cynthia]()
 
 * ++
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-ace-it/eloise.md&quot;">Eloise</a>
+## [Eloise]()
 
 * ++
 * Eloise: GitHub account + Coop
@@ -299,8 +294,9 @@ Residents
 
  -->
 <details>
+
 <summary>Family</summary>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-family/0-family-agenda.md&quot;">2.1 Family</a>
+## [2.1 Family]()
 
 * ++
 * Alix P
@@ -329,7 +325,7 @@ Residents
 * Mike Warner
 
 <summary>Peeps</summary>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/2-peeps/0-peeps-agenda.md&quot;">2.2 Peeps</a>
+## [2.2 Peeps]()
 
 </details>
 ***
@@ -340,13 +336,12 @@ Residents
 
 -->
 <details>
-
 <summary>Entities</summary>
 <!-- -->
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-entities-agenda.md&quot;">3.0 entities</a>
+## [3.0 entities]()
 
 * ?
-* SF heritage: donation ~&nbsp;<a href="https://www.sfheritage.org/splendid-25/">https://www.sfheritage.org/splendid-25/</a>
+* SF heritage: donation ~&nbsp;[https://www.sfheritage.org/splendid-25/](https://www.sfheritage.org/splendid-25/)
 * SacSem: nbr owner &lt;&lt; scree
 * awesome: zelle?
 * SacSem: wix
@@ -362,17 +357,17 @@ Residents
 * NV: Laura Burges
 
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-awesome-foundation/0-awesome-agenda.md&quot;">awesome</a>
+[awesome]()
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-next-village/0-next-village-agenda.md&quot;">next village</a>
+[next village]()
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sacsem/0-sacsem-agenda.md&quot;">sacsem</a>
+[sacsem]()
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sensay/0-sensay-agenda.md&quot;">sensay</a>
+[sensay]()
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-sps/0-sps-agenda.md&quot;">sps</a>
+[sps]()
 <!-- -->
-<a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/3-0-entities/0-tgd/0-tgd-agenda.md&quot;">tgd</a>
+[tgd]()
 <!-- -->
 </details>
 <!-- -->
@@ -384,38 +379,37 @@ Residents
 
 -->
 <details open="">
-
 <summary>Projects</summary>
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-0-projects/0-projects-agenda.md&quot;">4.0 projects agenda</a>
+## [4.0 projects agenda]()
 
 * +++
-* Windsurf ~&nbsp;<a href="https://windsurf.com/">https://windsurf.com/</a>
+* Windsurf ~&nbsp;[https://windsurf.com/](https://windsurf.com/)
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">4.1 organizations</a>
+## [4.1 organizations]()
 
 * Tess: kiosk software
 * Corridor Display: Mohaned
 * Audiometer settings
 * Single tap audio notes
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-1-organizations-repos/0-organizations-repos.md&quot;">repos</a>
+## [repos]()
 
 * ++
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-2-software/0-software-agenda.md&quot;">4.2 software</a>
+## [4.2 software]()
 
 * ++
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-3-hardware/0-hardware-agenda.md&quot;">4.3 hardware</a>
+## [4.3 hardware]()
 
 * ++
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/4-4-qdata-apps-journal/0-qdata.md&quot;">4.4 qdata apps journal</a>
+## [4.4 qdata apps journal]()
 
 * ++
 
 ***
 
-## <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/0-reminders.md&quot;">Reminders</a>
+## [Reminders]()
 
 </details>
