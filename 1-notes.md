@@ -1,5 +1,5 @@
 Notes
-+++Thinking about the future offers more opportunities than thinking about the past&nbsp;
++++Thinking about the future offers more opportunities than thinking about the past. You can change the future but it's difficult to change the past.&nbsp;
 
 Bid interview questions from residents&nbsp;
 <a href="https://www.linkedin.com/in/theoa/">https://www.linkedin.com/in/theoa/</a>
