@@ -10,7 +10,6 @@
 ## Today
 
 * ??
-
 * Tony : Myra
 
 ## Whenever
@@ -26,7 +25,7 @@
 * Bassem Kaabeche
 * AEP
 * MarthaN: medications message draft
-* Adele: SFPL &gt; documentalist + lunch
+* Andrea SFPL &gt; documentalist + lunch
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com">domimicbookbinder@gmail.com</a>
 * Alix: furniture
 * Heritage: triage
