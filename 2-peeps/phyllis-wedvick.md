@@ -1,5 +1,23 @@
 # Phyllis Wedvick
 
+## 2025-05-18
+
+>> Well--are you ever lonely?
+
+Yes.
+
+And it's the loneliness in the middle of a crowd, loneliness.
+
+I live with 75 others and have three meals a day with them. And almost as many staff to chat with as I walk up and down the halls, getting my steps in.  All our friends, some closer than others.
+
+Nonetheless, there's nobody here I can talk to about linear algebra, JavaScript, artificial intelligence, and other STEM topics.
+
+There are very few that could talk about economics, political science, historiography, medicine and in any depth. 
+
+Of course I do have these online, but there's nothing better than a good face-to-face discussion that can go on for hours, floating from topic to topic, with somebody who knows what they're talking about. 
+
+So it goes
+
 ## 2025-05-17
 
 Prompt: The future is bleak when I am awake at 4:30 in the morning.  My mind is spinning and worrying about rent and a home.
