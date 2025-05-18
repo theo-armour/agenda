@@ -10,12 +10,8 @@
 ## Today
 
 * ??
-* 
-* Mia: $$$
 
-* Drew:
 * Tony : Myra
-* 
 
 ## Whenever
 
