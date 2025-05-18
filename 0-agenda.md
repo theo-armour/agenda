@@ -11,7 +11,8 @@
 
 * ??
 * 
-* Mia:
+* Mia: $$$
+
 * Drew:
 * Tony : Myra
 * Laura Burges:
