@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="en">
 
 <head>
@@ -7,15 +7,18 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=contain">
 	<meta name="description"
-		content="File wrangler. Default index.html file. Opens HTML or Markdown files. Passes location.hash.">
+		content="File wrangler: Opens HTML or Markdown files. Passes location.hash.">
 	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
-	<meta name="version" content="2025-05-18">
+	<meta name="version" content="2023-12-30">
+	<meta name="author" content="Theo Armour">
+	<meta name="creator" content="https://github.com/pushme-pullyou/assets/tree/main/templates-folder">
+
 
 	<style>
-		/* Copyright 2025 Theo Armour. MIT License */
+		/* Copyright 2023 Theo Armour. MIT License */
 
 		:root {
-			font: 100% monospace;
+			font: 150% monospace;
 		}
 
 		* {
@@ -28,7 +31,7 @@
 		}
 
 		a {
-			color: crimson;
+			color: #880000;
 			text-decoration: none;
 		}
 
@@ -62,6 +65,7 @@
 
 		img {
 			max-width: 100%;
+			vertical-align: middle;
 		}
 
 		pre {
@@ -81,7 +85,7 @@
 		}
 
 		::-webkit-scrollbar-thumb {
-			background: crimson;
+			background: #880000;
 		}
 
 		/* read me footer */
@@ -97,6 +101,7 @@
 			resize: both;
 			width: 100%;
 		}
+
 	</style>
 
 </head>
@@ -109,7 +114,6 @@
 	<div id=divContent></div>
 
 	<script>
-
 
 		defaultFile = "README.md";
 
@@ -128,14 +132,13 @@
 
 			window.addEventListener( "hashchange", onHashChange, false );
 
-			// if ( location.protocol === "https:" ) {
+			if ( location.protocol === "https:" ) {
 
-			// 	window.history.pushState( "", "", "./" + location.hash );
+				window.history.pushState( "", "", "./" + location.hash );
 
-			// }
+			}
 
 		}
-
 
 		function onHashChange () {
 
