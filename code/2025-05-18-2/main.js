@@ -10,7 +10,7 @@ const COR = {
     repo: "agenda",
     branch: "main",
 
-    urlSource: "https://github.com/theo-armour/angenda/",
+    urlSource: "https://github.com/theo-armour/agenda/",
     urlPathContent: "https://theo-armour.github.io/agenda/",
     urlPushPath: "https://theo-armour.github.io/agenda/",
 
