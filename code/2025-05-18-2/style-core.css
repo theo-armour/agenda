@@ -172,7 +172,7 @@ div div>.folder-contents>details>summary {
 div div>.folder-contents>details>summary:hover {
   background: linear-gradient(135deg, #ffe0e0 0%, var(--color-2-text) 300%);
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
 /* First level of nesting */
