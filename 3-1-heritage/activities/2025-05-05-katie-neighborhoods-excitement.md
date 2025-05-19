@@ -69,5 +69,4 @@ Eleanor: first friend same coat
 Martha Nell. jimmy observing her across the street. called false alarm. lurking. phone calls.
 disappeard. several months
 
-Anne: barney bernstein. lamb chops with hats, panties did not know to do. Angel food cake
-
+Anne: barney bernstein. lamb chops with hats, panties did not know to do. Angel food 
