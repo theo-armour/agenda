@@ -11,8 +11,6 @@
 
 * ??
 * Mia: Jane standing
-* 
-
 * Samsung: $900 &gt; UPS
 * Paul Goldsmith
 * Alex: lunch
@@ -23,7 +21,6 @@
 * Hector: minimise
 * Bassem Kaabeche
 * sps65: me
-* 
 * Larry Albukerk
 * Krea
 * AEP
