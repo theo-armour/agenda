@@ -10,10 +10,8 @@
 ## Today
 
 * ??
-* 
-
 * Samsung: $900 &gt; UPS
-* Paul Goldsmith
+
 * 
 
 ## Whenever
@@ -22,6 +20,7 @@
 * Drew
 * Hector: minimise
 * 
+* Paul Goldsmith
 
 * sps65: me
 * Larry Albukerk
