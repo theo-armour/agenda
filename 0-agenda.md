@@ -10,22 +10,25 @@
 ## Today
 
 * ??
-* Mia: Jane standing
-* Tony : Myra
 * Samsung: $900 &gt; UPS
-* Paul Goldsmith
-* Alex: lunch
+
+* Ninke
+* Bob Leff
 
 ## Whenever
 
 * +++
+* Drew
 * Hector: minimise
-* Bassem Kaabeche
+* 
+* Paul Goldsmith
+
 * sps65: me
-* Mary: Leading Age
 * Larry Albukerk
 * Krea
 * AEP
+* Cynthia M
+* Asol: Bellfriends
 * MarthaN: medications message draft
 * Andrea SFPL &gt; documentalist + lunch
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com">domimicbookbinder@gmail.com</a>
