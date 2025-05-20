@@ -13,7 +13,7 @@
 * Mia: Jane standing
 * Samsung: $900 &gt; UPS
 * Paul Goldsmith
-* Alex: lunch
+* 
 
 ## Whenever
 
