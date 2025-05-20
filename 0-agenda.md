@@ -18,8 +18,10 @@
 ## Whenever
 
 * +++
+* Drew
 * Hector: minimise
-* Bassem Kaabeche
+* 
+
 * sps65: me
 * Larry Albukerk
 * Krea
