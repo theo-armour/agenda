@@ -5,14 +5,14 @@ const COR = {
 
     // Used by GFO ~ github file open
     defaultFile: "0-agenda.md",
-    pathContent: "../../",
+    pathContent: "../../../",
 
     // Used by GTV ~ github tree view
     user: "theo-armour",
     repo: "agenda",
     branch: "main",
 
-    urlSource: "https://github.com/theo-armour/agenda/",
+    urlSource: "https://github.com/theo-armour/agenda/blob/main/",
     urlPathContent: "https://theo-armour.github.io/agenda/",
     urlPathApps: "https://theo-armour.github.io/agenda/",
     urlPushPath: "https://theo-armour.github.io/agenda/",
