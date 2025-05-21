@@ -12,7 +12,8 @@
 * ??
 * Samsung: $900 &gt; UPS
 
-* Ninke
+* 
+
 * Bob Leff
 * SacSem
 
