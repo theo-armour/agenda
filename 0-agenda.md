@@ -13,13 +13,13 @@
 * Samsung: $900 &gt; UPS
 
 * Ronan
-* 
-
+* Dan Thomson
 * SacSem
 
 ## Whenever
 
 * +++
+* Personal Assistant
 * Bob Leff
 * Myra reply
 * Drew
@@ -30,7 +30,7 @@
 * Krea: Liam
 * AEP
 * Cynthia M
-* Asol: Bellfriends
+* Asol: Bell friends
 * MarthaN: medications message draft
 * Andrea SFPL &gt; documentalist + lunch
 * <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=domimicbookbinder@gmail.com">domimicbookbinder@gmail.com</a>
