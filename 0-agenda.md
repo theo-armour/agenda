@@ -12,22 +12,22 @@
 * ??
 * Samsung: $900 &gt; UPS
 
+* Ronan
 * 
 
-* Bob Leff
 * SacSem
 
 ## Whenever
 
 * +++
+* Bob Leff
+* Myra reply
 * Drew
 * Hector: minimise
-* 
 * Paul Goldsmith
-
 * sps65: me
 * Larry Albukerk
-* Krea
+* Krea: Liam
 * AEP
 * Cynthia M
 * Asol: Bellfriends
