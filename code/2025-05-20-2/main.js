@@ -1,6 +1,8 @@
 
 const COR = {
 
+    version: "2025-05-20-2",
+
     // Used by GFO ~ github file open
     defaultFile: "0-agenda.md",
     pathContent: "../../",
@@ -12,7 +14,13 @@ const COR = {
 
     urlSource: "https://github.com/theo-armour/agenda/",
     urlPathContent: "https://theo-armour.github.io/agenda/",
+    urlPathApps: "https://theo-armour.github.io/agenda/",
     urlPushPath: "https://theo-armour.github.io/agenda/",
+
+    iconExternalLink: "<img src='https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg' width=16 >",
+ 	iconGitHub: `<img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg">`,
+	iconInfo: `<img class=infoImg src="https://pushme-pullyou.github.io/assets/svg/noun_Information_585560.svg">`,
+	iconRepo: "❦",
 
     menuTitle: "Theo Agenda",
     
@@ -26,13 +34,16 @@ const COR = {
 if (location.protocol === "https:") {
 
     COR.pathContent = COR.urlPathContent;
+    COR.pathApps = COR.urlPathApps + COR.version + "/";
 
 } else {
 
-    // COR.pathContent unchanged
+    COR.pathContent = "../../";
+    COR.pathApps = "./";
 
 }
 
+//console.log( "COR.pathApps", COR.pathApps);
 /* 0 to 360 10=red 120=green 240=blue */
 let r = document.querySelector(':root');
 r.style.setProperty('--main-hue', '240');
