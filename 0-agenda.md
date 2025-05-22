@@ -168,7 +168,7 @@ Residents
 [heritage happenings agenda]()
 
 </details>
-<!-- 
+<!--
 **Heritage Centenary**
 -->
 <details>
@@ -253,7 +253,7 @@ Residents
 * IA: storage photos
 * Avery + Bancroft: documentalist
 * Diana Greer: working together
-* 
+*
 
 [nicole agenda]()
 
@@ -302,7 +302,7 @@ Residents
 
 **Family**
 
- -->
+-->
 <details>
 <summary>Family</summary>
 ## [2.1 Family]()
