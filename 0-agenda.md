@@ -11,9 +11,8 @@
 
 * ??
 * Samsung: $900 &gt; UPS
-* Ronan
+* Drew: Ronan
 * Dan ThomsonL Karen
-* 
 * SacSem: none
 
 ## Whenever
