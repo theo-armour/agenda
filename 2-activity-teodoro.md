@@ -14,7 +14,7 @@
 
 * No more than three items per day
 * Setting deadlines and priorities
-  * Example: ## Heritage day
+* Example: ## Heritage day
 
 ## After breakfast
 
@@ -102,7 +102,7 @@ Things to do of an evening
 * left foot
 * right foot
 * update messages
- eating chart
+eating chart
 
 ## The items / things I do
 
@@ -182,6 +182,7 @@ Objectives
 * Local files in Dropbox
 * Synced to Dropbox Web
 * Synced to GitHub repo with Pages enabled
+
 
 
 ***
