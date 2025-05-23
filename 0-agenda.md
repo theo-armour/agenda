@@ -11,8 +11,7 @@
 
 * ??
 * F: application 
-* Samsung: $900 &gt; UPS
-* Drew: Ronan
+
 * Dan Thomson: Karen
 * SacSem: none
 * Alex: lunch
