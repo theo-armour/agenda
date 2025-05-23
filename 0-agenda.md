@@ -10,7 +10,7 @@
 ## Today
 
 * ??
-F: 
+* F: application 
 * Samsung: $900 &gt; UPS
 * Drew: Ronan
 * Dan ThomsonL Karen
