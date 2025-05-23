@@ -10,7 +10,7 @@
 ## Today
 
 * ??
-*
+* Safeway: Olive oil
 
 * F: application 
 
