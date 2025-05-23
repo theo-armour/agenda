@@ -12,8 +12,7 @@
 * ??
 * Safeway: Olive oil ~ tiny Siracha
 
-* Finc: application 
-
+* F.inc: application 
 * Dan Thomson: Karen
 * SacSem: none
 * Alex: lunch
@@ -21,7 +20,7 @@
 ## Whenever
 
 * +++
-* nancy pelosi ~&nbsp;(415) 556-4862
+* nancy pelosi ~ (415) 556-4862
 * Personal Assistant
 * Bob Leff
 * Myra reply
