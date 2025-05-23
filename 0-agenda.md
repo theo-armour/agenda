@@ -14,7 +14,7 @@
 * Drew: Ronan
 * Dan ThomsonL Karen
 * SacSem: none
-Alex: lunch
+* Alex: lunch
 
 ## Whenever
 
