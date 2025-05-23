@@ -10,6 +10,7 @@
 ## Today
 
 * ??
+F: 
 * Samsung: $900 &gt; UPS
 * Drew: Ronan
 * Dan ThomsonL Karen
