@@ -12,7 +12,7 @@
 * ??
 * Safeway: Olive oil ~ tiny Siracha
 
-* Fin: application 
+* Finc: application 
 
 * Dan Thomson: Karen
 * SacSem: none
