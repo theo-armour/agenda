@@ -10,7 +10,7 @@
 ## Today
 
 * ??
-* Safeway: Olive oil
+* Safeway: Olive oil ~ tiny Siracha
 
 * F: application 
 
