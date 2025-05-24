@@ -14,8 +14,7 @@
 
 ## Whenever
 
-* +++* 2025-05-11 ~ John Kenneth Galbraith on being open-minded: “Faced with the choice between changing one’s mind and proving that there is no need to do so, almost everyone gets busy on the proof.” ~ Agnes: get refuted instead
-* 2025-05-11 ~ Theo: You can be as judgmental about the past as you want, but you won't change it. Judging your future could make huge differences.
+* +++* F.inc: application 
 * nancy pelosi ~ (415) 556-4862
 * Personal Assistant
 * Bob Leff
