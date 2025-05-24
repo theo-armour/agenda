@@ -7,14 +7,15 @@
 ## Today
 
 * ??
-
+* Drew
 * Dan Thomson: Karen
 * SacSem: none
 
 
 ## Whenever
 
-* +++* Alex: lunch
+* +++
+* Alex: lunch
 * F.inc: application 
 * nancy pelosi ~ (415) 556-4862
 * Personal Assistant
