@@ -126,7 +126,7 @@ Waiting
 
 * ++
 * 238 &amp; 240
-* Out and about to Air museum&nbsp;
+* Out and about to Air museum
 * Individual film festival
 * Granola photo . Guests for lunch
 * hand wipes available Photo of food display&nbsp;
