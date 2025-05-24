@@ -11,7 +11,7 @@
 ## Today
 
 * ??
-* Safeway: Olive oil ~ tiny Siracha
+* 
 
 * F.inc: application 
 * Dan Thomson: Karen
