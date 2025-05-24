@@ -2,9 +2,6 @@
 ## 
 
 * +++
-
-
-
 * 2025-05-23 Agnes p76 ~ Socrates is relentlessly consistent in prioritizing definition over praise. 
 
 ## Today
