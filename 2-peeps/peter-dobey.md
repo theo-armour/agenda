@@ -8,6 +8,11 @@ https://us04web.zoom.us/j/77291689901?pwd=dHhvWE92c0VIQ1hobVJpRS8zQVdlQT09
 Meeting ID: 772 9168 9901
 Passcode: 8
 
+## 2025-05-24
+
+https://kaiber.ai/memory/4c6e9cf5-de43-4986-ae93-4727951c1539
+
+This is extremely dangerous. Having me alone is extremely dangerous. Someone must be in the house at once and we must get me medicated. You guys are flagrantly risking my livelihood and existence with your naive stubbornness. I am going to be be dead soon. I cannot make this more clear. You need to assist with the psychiatrist appointment tomorrow and you need to have some one living with me. This has been an emergency for a long time and you are risking human life imminently.
 
 ## 2024-02-08
 
