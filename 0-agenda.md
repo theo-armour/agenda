@@ -19,6 +19,8 @@
 ## Whenever
 
 * +++
+* Tania
+* Cynthia M
 * Alex: lunch
 * F.inc: application 
 * Nancy Pelosi ~ (415) 556-4862
@@ -32,7 +34,6 @@
 * Larry Albukerk
 * Krea: Liam
 * AEP
-* Cynthia M
 * Asol: Bell friends
 * MarthaN: medications message draft
 * Andrea SFPL &gt; documentalist + lunch
