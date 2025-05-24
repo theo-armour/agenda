@@ -37,7 +37,7 @@
 * Asol: Bell friends
 * MarthaN: medications message draft
 * Andrea SFPL &gt; documentalist + lunch
-* domimicbookbinder@gmail.com</a>
+* domimicbookbinder@gmail.com
 * Alix: furniture
 * Heritage: triage
 * TDT Vaccine appointment
