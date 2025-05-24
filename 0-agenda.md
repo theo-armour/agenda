@@ -15,7 +15,7 @@
 * Dan Thomson: Karen
 * Rob: lunabill
 * SacSem: none
-* file folders ~ three hole punch
+* file folders ~ three-hole punch
 
 
 ## Whenever
