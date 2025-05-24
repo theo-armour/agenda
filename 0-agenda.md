@@ -10,11 +10,12 @@
 
 * Dan Thomson: Karen
 * SacSem: none
-* Alex: lunch
+
 
 ## Whenever
 
-* +++* F.inc: application 
+* +++* Alex: lunch
+* F.inc: application 
 * nancy pelosi ~ (415) 556-4862
 * Personal Assistant
 * Bob Leff
