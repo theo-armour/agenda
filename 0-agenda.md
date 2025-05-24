@@ -4,7 +4,8 @@
 ## Slogans
 
 * +++
-* 2025-05-23 Agnes p76 ~ Socrates is relentlessly consistent in prioritizing definition over praise. 
+* 2025-05-23 Agnes p76 ~ Socrates is relentlessly consistent in prioritizing 8 2025-05-24definition over praise. 
+
 
 ## Today
 
