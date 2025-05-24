@@ -7,7 +7,8 @@
 ## Today
 
 * ??
-* Drew
+* Drew:
+* Myra
 * Dan Thomson: Karen
 * SacSem: none
 
