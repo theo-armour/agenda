@@ -11,8 +11,6 @@
 ## Today
 
 * ??
-*
-
 * F.inc: application 
 * Dan Thomson: Karen
 * SacSem: none
