@@ -11,7 +11,7 @@
 ## Today
 
 * ??
-* 
+*
 
 * F.inc: application 
 * Dan Thomson: Karen
