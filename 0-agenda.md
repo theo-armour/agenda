@@ -2,24 +2,25 @@
 ## [Slogan]()
 
 * +++
-* 2025-05-07 ~ Theo: "Consider the consequences rather than suffering the consequences.&nbsp;
-* 2025-05-09 ~ ??&nbsp;If you're going to praise something, tell people why.&nbsp;
+* 2025-05-07 ~ Theo: "Consider the consequences rather than suffering the consequences.
+* 2025-05-09 ~ ?? If you're going to praise something, tell people why.&nbsp;
 * 2025-05-11 ~ John Kenneth Galbraith on being open-minded: “Faced with the choice between changing one’s mind and proving that there is no need to do so, almost everyone gets busy on the proof.” ~ Agnes: get refuted instead
-* 2025-05-11 ~ Theo:&nbsp;You can be as judgmental about the past as you want, but you won't change it.&nbsp;Judging your future could make huge differences.&nbsp;
+* 2025-05-11 ~ Theo:&nbsp;You can be as judgmental about the past as you want, but you won't change it.Judging your future could make huge differences.&nbsp;
 
 ## Today
 
 * ??
-* Samsung: $900 &gt; UPS
-* Drew: Ronan
-* Dan ThomsonL Karen
+* Safeway: Olive oil ~ tiny Siracha
+
+* F.inc: application 
+* Dan Thomson: Karen
 * SacSem: none
-Alex: lunch
+* Alex: lunch
 
 ## Whenever
 
 * +++
-* nancy pelosi ~&nbsp;(415) 556-4862
+* nancy pelosi ~ (415) 556-4862
 * Personal Assistant
 * Bob Leff
 * Myra reply
