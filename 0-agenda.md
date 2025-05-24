@@ -1,5 +1,5 @@
 <span style="font-size: 19.5px;">TheoMotto</span>
-## [Slogan]()
+## https://theo-armour.github.io/qdata/apps/trayo/2025-05-12/trayo.html#https://api.github.com/repos/theo-armour/pages/contents/00-snippets/1-slogan-of-the-day.md
 
 * +++
 * 2025-05-07 ~ Theo: "Consider the consequences rather than suffering the consequences.
