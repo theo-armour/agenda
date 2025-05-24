@@ -18,7 +18,7 @@
 * +++
 * Alex: lunch
 * F.inc: application 
-* nancy pelosi ~ (415) 556-4862
+* Nancy pelosi ~ (415) 556-4862
 * Personal Assistant
 * Bob Leff
 * Myra reply
