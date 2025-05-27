@@ -12,7 +12,7 @@
 * ??
 * Drew:
 * Myra
-* Dan Thomson: Karen
+* Dan Thomson: Kar
 * SacSem: none
 
 
