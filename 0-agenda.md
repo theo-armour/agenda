@@ -11,7 +11,7 @@
 
 * ??
 * Drew:
-* Myra
+* 
 * Dan Thomson: Kar
 * SacSem: none
 
