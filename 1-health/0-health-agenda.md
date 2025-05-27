@@ -1,5 +1,13 @@
 # 1.0 Health Agenda Read Me
 
+
+## 2025-05-27
+
+* Ketoconazole Shampoo 2%
+* Description of What I'm looking for in a sports medicine referral. 
+* AI on the PPH website
+
+
 ## Agenda 2025-04-29
 
 * PPH: make sure all meds are cancelled
@@ -69,6 +77,7 @@
 ### Heritage
 
 See 1-heritage/health/0-health-agenda
+
 ### PPH ~ Gary Richmond: msg
 
 <a href="" onclick="parent.location.hash=&quot;https://api.github.com/repos/theo-armour/agenda/contents/1-health/2-pph.md&quot;">1.2 PPH</a>
