@@ -29,7 +29,6 @@
 * Larry Albukerk
 * Krea: Liam
 * AEP
-* Asol: Bell friends
 * MarthaN: medications message draft
 * Andrea SFPL &gt; documentalist + lunch
 * domimicbookbinder@gmail.com
@@ -39,8 +38,7 @@
 * Next Village: Introduce Katie Morris
 
 Waiting
-
-
+* Asol: Bell friends
 
 ***
 
