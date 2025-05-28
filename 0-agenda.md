@@ -19,7 +19,7 @@
 ## Whenever
 
 * +++
-* F.inc: application 
+* F.inc: application * Andrea SFPL &gt; documentalist + lunch
 * Tania
 * Cynthia M
 * Alex: lunch
@@ -30,7 +30,6 @@
 * Krea: Liam
 * AEP
 * MarthaN: medications message draft
-* Andrea SFPL &gt; documentalist + lunch
 * domimicbookbinder@gmail.com
 * Alix: furniture
 * Heritage: triage
