@@ -20,8 +20,6 @@
 
 * +++
 * F.inc: application 
-* Andrea SFPL &gt; documentalist + lunch
-
 * Tania
 * Cynthia M
 * Alex: lunch
@@ -41,6 +39,7 @@
 Emails
 * Next Village: Introduce Katie Morris
 * MarthaN: medications message draft
+* Andrea SFPL &gt; documentalist + lunch
 
 Waiting
 * Asol: Bell friends
