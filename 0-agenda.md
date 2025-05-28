@@ -10,7 +10,9 @@
 ## Today
 
 * ??
-
+* Personal Assistant
+* Bob Leff
+* Hector: minimise
 
 
 ## Whenever
@@ -21,9 +23,6 @@
 * Alex: lunch
 * F.inc: application 
 * Nancy Pelosi ~ (415) 556-4862
-* Personal Assistant
-* Bob Leff
-* Hector: minimise
 * Paul Goldsmith
 * sps65: me
 * Larry Albukerk
