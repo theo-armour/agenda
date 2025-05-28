@@ -19,7 +19,8 @@
 ## Whenever
 
 * +++
-* F.inc: application * Andrea SFPL &gt; documentalist + lunch
+* F.inc: application 
+* Andrea SFPL &gt; documentalist + lunch
 * Tania
 * Cynthia M
 * Alex: lunch
