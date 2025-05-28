@@ -13,6 +13,7 @@
 * Personal Assistant
 * Bob Leff
 * Hector: minimise
+* Journey: reverse seat ~ review ~ 800 958 8324
 
 
 ## Whenever
@@ -36,7 +37,7 @@
 * Heritage: triage
 * TDT Vaccine appointment
 * Next Village: Introduce Katie Morris
-* Journey: reverse seat ~ review ~ 800 958 8324
+
 
 ***
 
