@@ -23,8 +23,6 @@
 * Nancy Pelosi ~ (415) 556-4862
 * Personal Assistant
 * Bob Leff
-* Myra reply
-* Drew
 * Hector: minimise
 * Paul Goldsmith
 * sps65: me
