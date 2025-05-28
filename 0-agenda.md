@@ -11,11 +11,7 @@
 
 * ??
 * Drew:
-*
-
 * SacSem: none
-
-
 
 ## Whenever
 
