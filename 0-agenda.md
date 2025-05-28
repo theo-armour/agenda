@@ -10,7 +10,8 @@
 ## Today
 
 * ??
-FS
+FSG: my comments
+* HH: covr
 * Personal Assistant
 * Bob Leff
 * Hector: minimise
