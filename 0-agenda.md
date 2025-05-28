@@ -10,36 +10,39 @@
 ## Today
 
 * ??
-* Drew:
+* Personal Assistant
+* Bob Leff
+* Hector: minimise
+* Journey: reverse seat ~ review ~ 800 958 8324
 
 
 ## Whenever
 
 * +++
+* F.inc: application 
 * Tania
 * Cynthia M
 * Alex: lunch
-* F.inc: application 
 * Nancy Pelosi ~ (415) 556-4862
-* Personal Assistant
-* Bob Leff
-* Myra reply
-* Drew
-* Hector: minimise
 * Paul Goldsmith
 * sps65: me
 * Larry Albukerk
 * Krea: Liam
 * AEP
-* Asol: Bell friends
-* MarthaN: medications message draft
-* Andrea SFPL &gt; documentalist + lunch
 * domimicbookbinder@gmail.com
 * Alix: furniture
 * Heritage: triage
 * TDT Vaccine appointment
+
+
+
+Emails
 * Next Village: Introduce Katie Morris
-* Journey: reverse seat ~ review ~ 800 958 8324
+* MarthaN: medications message draft
+* Andrea SFPL &gt; documentalist + lunch
+
+Waiting
+* Asol: Bell friends
 
 ***
 
