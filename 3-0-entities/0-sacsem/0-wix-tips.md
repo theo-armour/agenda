@@ -4,7 +4,7 @@
 
 * spotswood@comcast.net
 * https://Sacsem.net ~ pw: California
-* [https://manage.wix.com/dashboard/b2537da6-a144-4436-bf40-8f3b36dcd723/home]()
+* https://manage.wix.com/dashboard/b2537da6-a144-4436-bf40-8f3b36dcd723/home
 
 Wix dashboard > blog > posts > click "Create New Post" (at top right)
 
@@ -14,6 +14,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday, May 30, 2025 at North Beach Restaurant: Danny Sauter, District 3 Member of the Board of Supervisors
 * Friday, May 16, 2025 at North Beach Restaurant: Saikat Chakrabarti, the progressive challenger to Representative Nancy Pelosi
 * Friday, May 9 at North Beach Restaurant: Sacramento Seminar Roundtable
 * Friday, May 2 at North Beach Restaurant: Paul Goldsmith: Prague Spring 1968: The Soviets invade Czechoslovakia
