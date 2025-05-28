@@ -10,9 +10,9 @@
 ## Today
 
 * ??
-*
+* Drrew
 
-FSG: my comments
+* FSG: my comments
 * HH: cover
 * Personal Assistant
 * Bob Leff
