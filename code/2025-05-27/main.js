@@ -22,9 +22,9 @@ const COR = {
 
     urlBaseAPI: "https://api.github.com/repos/theo-armour/agenda/contents/",
     urlSource: "https://github.com/theo-armour/agenda/tree/main/",
-    urlPathApps: "https://theo-armour.github.io/agenda/tootoo/",
+    urlPathApps: "https://theo-armour.github.io/agenda/code/",
     urlPathContent: "https://theo-armour.github.io/agenda/",
-    urlPushPath: "https://theo-armour.github.io/agenda/tootoo/",
+    urlPushPath: "https://theo-armour.github.io/agenda/",
 
     iconExternalLink: "<img src='https://pushme-pullyou.github.io/assets/svg/icon-external-link.svg' width=16 >",
  	iconGitHub: `<img src="https://pushme-pullyou.github.io/assets/svg/mark-github.svg">`,
