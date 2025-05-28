@@ -6,7 +6,15 @@
 * Security: set up ms vault all devices
 * Josh: stocks to children?
 
+
+## Goodwill
+
+* SF – Fillmore
+* 1669 Fillmore St. San Francisco, CA 94115
+* 415-354-8570
+
 Waiting
+
 ## DWA + Pershing
 
 * Josh: estimated payments

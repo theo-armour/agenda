@@ -1,5 +1,35 @@
 # Phyllis Wedvick
 
+
+## 2025-05-27
+
+Were you able to get to Avenidas today? I hope so. 
+
+What do you like to do when you're there? 
+
+***
+
+I'm always amazed at the brain. Thoughts just keep coming in, day in and day out, year in and year out. You can't stop them. They are incessant. And you have little or no control over them. 
+
+Well, I have learned that if a bad thought comes into your brain, you can tell it to go away. Not always, of course. 
+
+The result is that, for me anyway, every day is different. Even if I stick to a schedule, every day is not quite the same as the day before. 
+
+Anyway, today was rather nice for me. I caught up on email and sent out several emails of introduction, one of which has already worked. Connecting people always feels satisfying. 
+
+I also completed, or fixed, or kind of finalized the program that I'm working on. and installed it on a bunch of websites and they seem to be working. 
+
+and I've just finished doing my 5,000 steps which even included two little short trips outdoors. and I didn't eat too much, so the weight should be good when I check in the morning. 
+
+I think I check or record or keep track of a bunch of little things in my life. And so it's always possible to find some happiness somewhere in what I did during the day. 
+
+And maybe that's part of a little sort of life rules thing that I like to think about: Look for something beautiful. 
+
+I hope your day went well. 
+
+
+
+
 ## 2025-05-18
 
 >> Well--are you ever lonely?
