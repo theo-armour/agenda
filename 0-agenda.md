@@ -11,7 +11,7 @@
 
 * ??
 FSG: my comments
-* HH: covr
+* HH: cover
 * Personal Assistant
 * Bob Leff
 * Hector: minimise
