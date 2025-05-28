@@ -17,12 +17,12 @@ const COR = {
     pathApps: "./",
     pathContent: "../../",
 
-    filterFolders: [], //[ "code"],
+    filterFolders: [], //[ "tootoo"],
     ignoreFiles: [], //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html" ],
 
     urlBaseAPI: "https://api.github.com/repos/theo-armour/agenda/contents/",
     urlSource: "https://github.com/theo-armour/agenda/tree/main/",
-    urlPathApps: "https://theo-armour.github.io/agenda/code/",
+    urlPathApps: "https://theo-armour.github.io/agenda/tootoo/",
     urlPathContent: "https://theo-armour.github.io/agenda/",
     urlPushPath: "https://theo-armour.github.io/agenda/",
 
