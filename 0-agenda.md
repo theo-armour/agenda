@@ -10,7 +10,7 @@
 ## Today
 
 * ??
-* Drew
+
 
 * FSG: my comments
 * HH: cover
