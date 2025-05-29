@@ -10,9 +10,8 @@
 ## Today
 
 * ??
-* Drew
 
-* FSG: my comments
+
 * HH: cover
 * Personal Assistant
 * Bob Leff
