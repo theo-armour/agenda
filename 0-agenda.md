@@ -10,8 +10,6 @@
 ## Today
 
 * ??
-
-
 * FSG: my comments
 * HH: cover
 * Personal Assistant
