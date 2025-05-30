@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-* Leadung Age
+* Leading Age
 * Personal Assistant
 * Bob Leff
 * Hector: minimise
