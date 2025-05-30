@@ -10,8 +10,6 @@
 ## Today
 
 * ??
-
-
 * HH: cover
 * Personal Assistant
 * Bob Leff
