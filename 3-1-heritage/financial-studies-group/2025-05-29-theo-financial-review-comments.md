@@ -1,12 +1,16 @@
 # Theo Armour ~ Comments on Financial Review
 
-## May 2025 Financial Narrative 
+## May 2025 Financial Narrative
+audit approved
+
+revenue issues
+
 
 ### Page 3
 
 **Heritage continues to lose residents through their passing and a move out, putting more pressure on sales.**
 
-I remember Mary saying that on average about 10% of CCRC residents die or move every year. Are you allowing for the transitions of seven or eight residents per year? 
+I remember Mary saying that on average about 10% of CCRC residents die or move every year. Are you allowing for the transitions of seven or eight residents per year?
 
 ### Page 4
 
@@ -26,15 +30,15 @@ I would prefer to see positive and negative variances with  plus and minus signs
 
 **Guest Room**
 
-Guest room numbers seem low. The Guest room is quite well used in my opinion. 
+Guest room numbers seem low. The Guest room is quite well used in my opinion.
 
 ### Page 6
 
 **Large and small numbers**
 
-This page suffers! 
+This page suffers!
 
-Large and small numbers in financial reports cause confusion because of the challenges they present in scale recognition, interpretation, and comparison. 
+Large and small numbers in financial reports cause confusion because of the challenges they present in scale recognition, interpretation, and comparison.
 
 Cognitive Overload: The human brain struggles to compare numbers that differ by several orders of magnitude. When reports mix large and small numbers, it becomes harder to spot relationships, patterns, or errors, increasing the risk of oversight or misinterpretation.
 
@@ -48,7 +52,7 @@ I would like to more of a breakdown of the large items are an aggregate of small
 
 **Paper Shredding**
 
-Does that include the garbage sorting that occurs every night? 
+Does that include the garbage sorting that occurs every night?
 
 ### Page 8
 
