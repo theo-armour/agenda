@@ -10,7 +10,7 @@
 ## Today
 
 * ??
-* HH: cover
+
 * Personal Assistant
 * Bob Leff
 * Hector: minimise
