@@ -10,7 +10,6 @@
 ## Today
 
 * ??
-
 * Personal Assistant
 * Bob Leff
 * Hector: minimise
