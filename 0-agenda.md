@@ -11,7 +11,8 @@
 ## Today
 
 * ?
-Cancel 
+* Cancel Otter
+* tak on 
 
 * Plaud to OneDrive
 * Leading Age
