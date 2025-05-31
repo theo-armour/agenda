@@ -11,7 +11,7 @@
 ## Today
 
 * ?
-Drew;? 
+Drew: what? 
 * Cancel Otter
 * tako on Plaud 
 
