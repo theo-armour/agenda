@@ -12,7 +12,7 @@
 
 * ?
 * Cancel Otter
-* tak on 
+* tako on Plaud 
 
 * Plaud to OneDrive
 * Leading Age
