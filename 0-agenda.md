@@ -13,6 +13,7 @@
 * ?
 * Yvonne uestions
 * Alex
+* D
 * Drew: what? 
 * Cancel Otter
 * tako on Plaud 
