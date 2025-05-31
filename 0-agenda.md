@@ -12,7 +12,7 @@
 
 * ?
 * Alex
-Drew: what? 
+* Drew: what? 
 * Cancel Otter
 * tako on Plaud 
 * Plaud to OneDrive
