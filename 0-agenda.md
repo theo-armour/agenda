@@ -11,10 +11,10 @@
 ## Today
 
 * ?
+* Alex
 Drew: what? 
 * Cancel Otter
 * tako on Plaud 
-
 * Plaud to OneDrive
 * Leading Age
 * Personal Assistant
