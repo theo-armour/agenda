@@ -13,7 +13,7 @@
 * ?
 * Yvonne uestions
 * Alex
-* Dan T: Karen
+* Dan T: Kare
 * Drew: what? 
 * Cancel Otter
 * tako on Plaud 
