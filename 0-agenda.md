@@ -11,8 +11,8 @@
 ## Today
 
 * ?
-* Yvonne uestions
-* Alex
+
+
 * Dan T: Kare
 * Drew: what? 
 * Cancel Otter
