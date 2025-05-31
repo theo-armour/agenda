@@ -11,7 +11,7 @@
 ## Today
 
 * ?
-POST: tape
+* POST: tape
 
 * Dan T: Karen
 * tako on Plaud 
