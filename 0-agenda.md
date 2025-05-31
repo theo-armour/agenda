@@ -6,7 +6,7 @@
 * +++
 * 2025-05-23 Agnes p76 ~ Socrates is relentlessly consistent in prioritizing definition over praise. 
 * 2025-05-24 slashdot: No amount of careful planning will ever replace dumb luck.
-* 2025-05-30 Oppong ~ As Author Nassim Taleb says, “Invest in preparedness, not in prediction.”
+* 2025-05-30 Oppong ~ As Author Nassim Taleb says, “Invest in preparedness, not in prediction.” 
 
 ## Today
 
