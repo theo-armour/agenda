@@ -11,9 +11,9 @@
 ## Today
 
 * ?
-* Alex
-* Drew: what? 
-* Cancel Otter
+* POST: tape
+
+* Dan T: Karen
 * tako on Plaud 
 * Plaud to OneDrive
 * Leading Age
@@ -30,7 +30,6 @@
 * F.inc: application 
 * Tania
 * Cynthia M
-* Alex: lunch
 * Nancy Pelosi ~ (415) 556-4862
 * Paul Goldsmith
 * sps65: me
