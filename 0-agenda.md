@@ -14,7 +14,7 @@
 
 
 * Dan T: Karen
-* Drew: what? 
+
 * tako on Plaud 
 * Plaud to OneDrive
 * Leading Age
