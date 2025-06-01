@@ -29,7 +29,7 @@
 ## Whenever
 
 * +++
-* 
+* French Cheese & Wine tasting
 * F.inc: application 
 * Tania
 * Cynthia M
