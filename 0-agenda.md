@@ -11,8 +11,8 @@
 ## Today
 
 * ?
-* D
-* Bookmarks: triage unsorted
+
+
 * Asol: links
 
 * TT: to all repos
