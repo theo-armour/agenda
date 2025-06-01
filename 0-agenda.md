@@ -11,7 +11,7 @@
 ## Today
 
 * ?
-* Del 200 emails
+* D
 * Bookmarks: triage unsorted
 * Asol: links
 
