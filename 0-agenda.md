@@ -11,7 +11,9 @@
 ## Today
 
 * ?
-TT: to all repos
+* De
+
+* TT: to all repos
 * Dan T: Karen
 * Plaud to OneDrive
 * Leading Age
