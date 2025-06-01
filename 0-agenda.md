@@ -11,10 +11,12 @@
 ## Today
 
 * ?
-* POST: tape
 
+
+* Asol: links
+
+* TT: to all repos
 * Dan T: Karen
-* tako on Plaud 
 * Plaud to OneDrive
 * Leading Age
 * Personal Assistant
@@ -27,6 +29,7 @@
 ## Whenever
 
 * +++
+* French Cheese & Wine tasting
 * F.inc: application 
 * Tania
 * Cynthia M
