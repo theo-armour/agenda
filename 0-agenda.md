@@ -11,7 +11,7 @@
 ## Today
 
 * ?
-* De
+* Del 200 emails
 
 * TT: to all repos
 * Dan T: Karen
