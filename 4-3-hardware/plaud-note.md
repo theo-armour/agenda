@@ -21,4 +21,4 @@
 
 ## 2025-05-31
 
-* Nothing shows up in UDisc mode. / Access via USB 
+* Nothing shows up in UDisc mode/access via USB 
