@@ -12,10 +12,6 @@
 ## Today
 
 * ?
-
-
-* Asol: links
-* TT: to all repos
 * Dan T: Karen
 * Plaud to OneDrive
 * Leading Age
