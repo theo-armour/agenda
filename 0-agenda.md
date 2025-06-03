@@ -15,7 +15,7 @@
 * Somoma books
 
 * SacSem
-* Better micro
+* Better microphone
 * FO: Calendars
 * Dan T: Karen
 * Bebo & Ron
