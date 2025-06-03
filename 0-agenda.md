@@ -26,7 +26,7 @@
 ## Whenever
 
 * +++
-* Board of S
+* Board of Supervisors: 17 Jone @ 3
 * French Cheese & Wine tasting
 * F.inc: application 
 * Tania
