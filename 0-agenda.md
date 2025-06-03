@@ -15,6 +15,7 @@
 * FO: Calendars
 * Dan T: Karen
 * Bebo & Ron
+* French Cheese & Wine tasting
 * Leading Age
 * Personal Assistant
 * Bob Leff
