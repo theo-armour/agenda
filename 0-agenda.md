@@ -12,7 +12,7 @@
 ## Today
 
 * ?
-* Sac
+* SacSem
 
 * FO: Calendars
 * Dan T: Karen
