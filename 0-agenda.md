@@ -13,7 +13,7 @@
 
 * ?
 * Dan T: Karen
-* Plaud to OneDrive
+
 * Leading Age
 * Personal Assistant
 * Bob Leff
