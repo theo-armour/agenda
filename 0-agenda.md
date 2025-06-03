@@ -12,7 +12,7 @@
 ## Today
 
 * ?
-* Somoma book
+* Somoma books
 
 * SacSem
 
