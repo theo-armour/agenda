@@ -13,7 +13,8 @@
 
 * ?
 * Stephen: conflict
-* A: 
+* A: diapers
+* Claire W: meeting
 * Dan T: Karen
 * Bebo
 * Leading Age
