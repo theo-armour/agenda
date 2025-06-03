@@ -12,7 +12,8 @@
 ## Today
 
 * ?
-* Stephen: conflict
+
+
 * A: diapers
 * Claire W: consultation
 * Dan T: Karen
