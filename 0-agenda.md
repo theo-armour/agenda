@@ -12,7 +12,8 @@
 ## Today
 
 * ?
-* A: diapers
+
+
 * Claire W: consultation
 * Dan T: Karen
 * Bebo & Ron
