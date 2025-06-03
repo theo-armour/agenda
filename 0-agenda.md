@@ -12,6 +12,8 @@
 ## Today
 
 * ?
+* Somoma book
+
 * SacSem
 
 * FO: Calendars
