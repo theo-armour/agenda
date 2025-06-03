@@ -12,7 +12,7 @@
 ## Today
 
 * ?
-Ste
+* Stephen: conflict
 * Dan T: Karen
 * Bebo
 * Leading Age
