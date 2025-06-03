@@ -12,8 +12,6 @@
 ## Today
 
 * ?
-
-
 * Claire W: consultation
 * Dan T: Karen
 * Bebo & Ron
