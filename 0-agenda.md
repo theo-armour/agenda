@@ -12,7 +12,7 @@
 ## Today
 
 * ?
-* FCalendars
+* FO: Calendars
 * Dan T: Karen
 * Bebo & Ron
 * Leading Age
