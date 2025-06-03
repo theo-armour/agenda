@@ -26,6 +26,7 @@
 ## Whenever
 
 * +++
+* Board of S
 * French Cheese & Wine tasting
 * F.inc: application 
 * Tania
