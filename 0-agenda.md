@@ -12,12 +12,10 @@
 ## Today
 
 * ?
-
-
 * A: diapers
 * Claire W: consultation
 * Dan T: Karen
-* Bebo
+* Bebo & Ron
 * Leading Age
 * Personal Assistant
 * Bob Leff
