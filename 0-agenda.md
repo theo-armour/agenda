@@ -12,8 +12,14 @@
 ## Today
 
 * ?
+* Somoma books
+
+* SacSem
+* Better microphone for Friendship Hall
+* FO: Calendars
 * Dan T: Karen
-* Plaud to OneDrive
+* Bebo & Ron
+* French Cheese & Wine tasting
 * Leading Age
 * Personal Assistant
 * Bob Leff
@@ -25,7 +31,8 @@
 ## Whenever
 
 * +++
-* French Cheese & Wine tasting
+* Board of Supervisors: 17 Jone @ 3
+
 * F.inc: application 
 * Tania
 * Cynthia M
