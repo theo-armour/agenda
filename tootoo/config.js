@@ -10,7 +10,7 @@ const CONFIG = {
     defaultFile: "README.md",
     defaultFileEdit: "@@README.md",
 
-    filterFolders: [], //[ "tootoo"],
+    filterFolders: [ ".vscode", "archive", "tootoo"],
     ignoreFiles: [], //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html" ],
 
 }
