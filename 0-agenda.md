@@ -12,7 +12,6 @@
 ## Today
 
 * ?
-
 * Better microphone for Friendship Hall
 * FO: Calendars
 * Dan T: Karen
