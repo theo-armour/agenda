@@ -12,8 +12,7 @@
 ## Today
 
 * ?
-* Somoma books
-* SacSem
+
 * Better microphone for Friendship Hall
 * FO: Calendars
 * Dan T: Karen
