@@ -1,5 +1,26 @@
 # Phyllis Wedvick
 
+## 2025-06-03
+
+There are 75 residents here. Probably at least 30 of them have hearing loss issues. Remember, the average age is over 90. 
+
+Today we had a woman come in and conduct a hearing loss support group meeting. As far as I'm concerned, she was a total loss, a wipeout, a fail. She actually knew almost nothing about the clinical condition of hearing or the technology tools available. All she wanted was people to talk about their hearing loss issues. 
+
+I am conflicted. We could have had dozens of people here, but I'm glad they didn't come. They would have learned nothing.But that is speaking with the the bias of a being a comparatively younger "techie". 
+
+On the other hand, these people have allowed themselves to go deaf without seeking help. What she was offering was an opportunity to discuss the personal issues of hearing loss. Not my cup of tea, but what certainly a number of my fellow residents should be considering. 
+
+How do these people allow themselves to be difficult to communicate with when there are readily available tools to help them? 
+
+***
+
+How about a San Francisco visit next Monday or Tuesday? Or possibly Thursday?
+
+
+
+
+
+
 
 ## 2025-05-27
 
