@@ -11,8 +11,8 @@
 
 ## Today
 
-* ?
-* Better microphone for Friendship Hall
+* ?*
+** Better microphone for Friendship Hall
 * FO: Calendars
 * Dan T: Karen
 * Bebo & Ron
