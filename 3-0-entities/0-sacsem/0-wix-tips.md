@@ -14,6 +14,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday, June 6, 2025 at North Beach Restaurant: Jennifer Yan (First Vice Chair) and Jay Donde (Vice Chair of Political Affairs), San Francisco County Republican Central Committee
 * Friday, May 30, 2025 at North Beach Restaurant: Danny Sauter, District 3 Member of the Board of Supervisors
 * Friday, May 16, 2025 at North Beach Restaurant: Saikat Chakrabarti, the progressive challenger to Representative Nancy Pelosi
 * Friday, May 9 at North Beach Restaurant: Sacramento Seminar Roundtable
