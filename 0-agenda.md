@@ -16,7 +16,6 @@
 * Dan T: Karen
 * Bebo & Ron
 * French Cheese & Wine tasting
-
 * Personal Assistant
 * Bob Leff
 * Hector: minimise
