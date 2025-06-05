@@ -1,5 +1,17 @@
 # Eastern Bank
 
+* https://www.easternbank.com/
+
+
+>>You go to www.easternbank.com under login you select Eastern Portfolio
+
+* https://www.cambridgetrust.com/wealth-management-login/
+* Total Wealth Portal
+
+## 2025-06-05
+
+Hovey: $1,622,223
+Patch: $623,553
 
 ## 2024-03-01
 
