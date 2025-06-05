@@ -1,5 +1,38 @@
 # Phyllis Wedvick
 
+
+## 2025-06-04
+
+I'm thinking that grieving must be very, very hard. It's been decades since I've lost anybody close. My wife and I split up around 25 years ago, but we've been on reasonably good terms with each other ever since. 
+
+So there you are, stuck with all these thoughts, and there's nothing, zero, nada you can do about the circumstances that happened that is causing those thoughts.
+
+What I am very familiar with, however, is ruminating over the same thoughts over and over again. 
+
+I spent much of my teens and twenties ruminating and being depressed and being lonely and not knowing what to do about it.
+
+I'm trying to think of something that would be helpful to say, but all I can say is I've been there. 
+
+Actually, I guess I could also add that I'm no longer there. But even then, I do understand that while you're down, you never know how you're not going to be down. 
+
+And even more bizarre since I live with a lot of old people. Guess what? Death happens quite frequently. On average, 10% of us die every year and there are 75 people living here. Of course, it's not anybody like a spouse, but nonetheless, people that you know and are very fond of. 
+
+So I think one way I process it is that in my brain, they're still alive. I could eat something and say, "Oh, that's what Eleanor likes." or walk past a restaurant that is Bernie's favorite. Something like: what is remembered lives. 
+
+I think the main thing is having things to do, places to go, and most important, people to talk to. 
+
+One of my favorite things to do when I'm lonely is to go to a bar and sit at the bar. Unlike most bars around the world, in an American bar, if you're sitting, you can talk to the person next to you. It took me a long time to figure it out and to overcome my inability to talk to strangers. 
+
+And, BTW, bartenders are like free analysts.
+
+But now you could drop me in almost any American city, and by the end of the evening, I would have a nice new friend. 
+
+I'm just saying, because it took a hell of a long time to get there. ;-)
+
+
+
+
+
 ## 2025-06-03
 
 There are 75 residents here. Probably at least 30 of them have hearing loss issues. Remember, the average age is over 90. 

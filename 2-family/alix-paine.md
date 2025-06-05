@@ -4,6 +4,29 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-06-04
+
+When I go out for a walk, I bring my headphones so I can make a call. I often say, well, I will call Tania on my way out and then I will call Alix on my way back. 
+
+And then because I'm enjoying the walk, I do neither. 
+
+I'm going to try another gambit, which is I'm tending to write thoughtful emails while I'm winding down and getting ready to go to bed. 
+
+I started doing this because One of my St. Paul's classmates died a few weeks ago, and I've been in touch with his wife. I've never met, but I've ended up emailing once or twice a day ever since. 
+
+She's completely broken up and disconsolate and unhappy and lonely. The main word there is "completely".  
+
+She cannot seem to get outside of herself and observe herself in the state she is in. She can say "this sucks", but I don't think she can say "the life I'm in sucks". 
+
+And it's being a good learning experience for me. and I've been trying to practice the idea that there shall be no "mansplaining". There shall be no advice giving, unless asked for (And it hasn't). There shall be no deep or extensive questioning. 
+
+Just exchanging thoughts and feelings and observations day by day. 
+
+
+
+
+
+
 
 ## 2025-02-21
 
