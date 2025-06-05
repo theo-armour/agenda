@@ -4,13 +4,17 @@ const CONFIG = {
     repo: "agenda",
     branch: "main",
 
-    menuTitle: "Theo Agenda",
-    menuTitleEdit: "Agenda Edit",
+    filterFolders: [ ".vscode", "archive", "tootoo"],
+    ignoreFiles: [], //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html" ],
 
     defaultFile: "README.md",
     defaultFileEdit: "@@README.md",
 
-    filterFolders: [ ".vscode", "archive", "tootoo"],
-    ignoreFiles: [], //[ "404.html", "favicon.ico", "index.html", "LICENSE", "readme.html" ],
+    menuTitle: "Theo Agenda",
+    menuTitleEdit: "Agenda Edit",
+
+    /* 0 to 360 10=red 120=green 240=blue */
+    mainHue: 120,
+    baseMenuWidth: 15,
 
 }
