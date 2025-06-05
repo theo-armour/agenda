@@ -12,7 +12,6 @@
 ## Today
 
 * ?*
-
 * FO: Calendars
 * Dan T: Karen
 * Bebo & Ron
@@ -43,6 +42,7 @@
 * Alix: furniture
 * Heritage: triage
 * TDT Vaccine appointment
+** Better microphone for Friendship Hall
 
 
 
