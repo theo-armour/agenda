@@ -11,13 +11,13 @@
 
 ## Today
 
-* ?*
-** Better microphone for Friendship Hall
+* ?
 * FO: Calendars
+* BobC: Resident Manual
+
 * Dan T: Karen
 * Bebo & Ron
 * French Cheese & Wine tasting
-* Leading Age
 * Personal Assistant
 * Bob Leff
 * Hector: minimise
@@ -43,6 +43,7 @@
 * Alix: furniture
 * Heritage: triage
 * TDT Vaccine appointment
+** Better microphone for Friendship Hall
 
 
 
