@@ -1,5 +1,14 @@
 # Phyllis Wedvick
 
+## 2025-06-05
+
+So today I did a lot of programming. Though I did do some admin in the morning. 
+
+The nice thing was that I overdrew my bank account. I haven't done this for years, and it wasn't much. So the easiest thing to do was to go to the bank, take some money out from a credit card and pay it into the checking account. 
+
+Well, one of my quite elderly fellow residents here has had a stroke and now he gets around by an electric wheelchair. I invited him to come along with me on the walk down to the bank. To my surprise, he agreed. and he had a lovely time getting out of the house.
+
+
 
 ## 2025-06-04
 
