@@ -4,6 +4,42 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-06-06
+
+
+What would you call it when people spend decades of their lives working on something? For most people, this is probably most evident in the way they evolve and configure their domiciles.
+
+Cynie could turn any place - From Ankara to Miami - into a home we all knew the moment we walked in.
+
+But I'm also thinking of people that write or paint or do some ongoing creative activity from time to time over a long period of time.
+
+Anyway, I have bits of software that I've been working on for many years. Well, one piece that I know goes back to at least 2011 is what I've been working on recently. The nature and scope of the project is immaterial. 
+
+The project will never be finished. And that is one of my things: Set goals that will last longer than my life, so that I don't have any my goals finished and I have to get depressed. And at the end of life, you get depressed if you didn't finish the goal, or if you finished the goal and had nothing more to do. 
+
+Anyway, one of my software projects that I've been working on, I've recently been obsessing over for the past couple of weeks. It's actually behaving and turning into the thing I think it should be. This involves software that I use every day. And so any improvements or changes in that can disrupt my whole life. 
+
+So here I am with "Visions of sugar plums". The project I'm working on is just advancing head over heels into exactly the way I wanted to advance. 
+
+Are my intuitions deceiving me? And/or: even if it all works as advertised, will I be any happier?
+
+***
+
+<a few minutes later>
+
+I don't think it makes any difference to Consider if I'll be happier or not. Of course, I will be happy sometimes and unhappy at others. 
+
+The skill to develop is an ability to find joy and delight, at least a smidgen, in almost any place or any circumstance. 
+
+
+## 2025-06-05
+
+So today I did a lot of programming. Though I did do some admin in the morning.
+
+The nice thing was that I overdrew my bank account. I haven't done this for years, and it wasn't much. So the easiest thing to do was to go to the bank, take some money out from a credit card and pay it into the checking account.
+
+Well, one of my quite elderly fellow residents here has had a stroke and now he gets around by an electric wheelchair. I invited him to come along with me on the walk down to the bank. To my surprise, he agreed. and he had a lovely time getting out of the house.
+
 ## 2025-06-04
 
 When I go out for a walk, I bring my headphones so I can make a call. I often say, well, I will call Tania on my way out and then I will call Alix on my way back. 

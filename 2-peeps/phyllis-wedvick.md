@@ -1,5 +1,29 @@
 # Phyllis Wedvick
 
+
+## 2025-06-07
+
+I am happy to hear that you got out of the house and had a busy day.
+
+>>  I have to find myself again.
+
+A most positive and forward-thinking thought! Let that search begin.
+
+## 2025-06-06
+
+You are being very quiet. I would like to be able to say "I hope you're doing okay", but I'm sure that's not actually the way things are for you today. 
+
+I'm at a bit of a loss as to what to say or do. In the past, I've been talking about my day and things that I'm doing and thinking about. But that doesn't seem to be fair or equal if the things I'm doing are any fun, which in my life they are. 
+
+This is so hard. 
+
+For you, of course, for me on how to be helpful or useful.
+
+I do hope that you have been getting out, getting some fresh air, and have been to Avenidas. and I hope that you have some plans for the weekend. 
+
+And did you know that today was National Donut Day? And that our dining room had a zillion donuts. And me trying to avoid carbs and sugars and lose weight and things like that consumed a scrumptious diet-busting artisan donut covered in a maple syrup glaze. 
+
+
 ## 2025-06-05
 
 So today I did a lot of programming. Though I did do some admin in the morning. 
