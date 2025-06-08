@@ -12,6 +12,8 @@
 ## Today
 
 * ?
+* HH: first post
+* HH: post format template 
 * FO: Calendars
 * BobC: Resident Manual
 * Dan T: Karen
