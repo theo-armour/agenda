@@ -13,7 +13,7 @@
 
 * ?
 * HH: first post
-* HH 
+* HH: post format template 
 * FO: Calendars
 * BobC: Resident Manual
 * Dan T: Karen
