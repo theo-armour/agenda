@@ -48,6 +48,13 @@ OMG. I've been such a silly billy: creating an iframe for the content when there
 
 How long have I been doing this silliness. And why?
 
+It looks like the process cam from Trayo. It uses iframes to hold notesy. Notesy is used because it opens many file types.
+
+But actually we don't need all types of files, because all we need is markedown as text. 
+
+As they say, back to the drawing board. 
+
+
 ### 2025-06-06
 
 I've run scripts like this one countless times without issue. I am an experienced developer working with the console window open. It is is used interchangeably on GitHub and locally using "--allow-file-access-from-files". 

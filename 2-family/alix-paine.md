@@ -4,6 +4,19 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-06-08
+
+Some days are better. Some days are worse.
+
+Today, I had a better and worse day, and I'm not sure which it was. 
+
+There's a part of the software I'm working on that is quite complex. I just tonight realized that there is a much simpler way of handling things. The realization happened after working on the complicated way for weeks. And a part of this code has been lurking in my software, perhaps, for years. 
+
+Now, should I be angry with myself for having spent so many months and hours doing the wrong thing? Or should I be totally pleased with myself for finding the right thing? 
+
+Well, I won't try the new easy way until tomorrow. Maybe it it will have complications too. Anyway, the questions remains: how did I allow my brain to play such a trick on me?
+
+
 ## 2025-06-06
 
 
