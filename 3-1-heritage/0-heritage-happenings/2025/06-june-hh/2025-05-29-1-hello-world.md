@@ -19,6 +19,7 @@ Over the past four years, I've been committed to bringing you Heritage Happening
 * To maintain quality, I've been investing my own funds to hire my niece for editorial assistance
 
 I'm grateful for the opportunity to serve our community this way, but I believe it's time to explore options that will help us sustain and improve our newsletter for years to come.
+
 ## Present
 
 * Now I feel it's time for a change
