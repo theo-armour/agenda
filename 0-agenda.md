@@ -13,7 +13,6 @@
 
 * ?
 * HH: first post
-
 * FO: Calendars
 * BobC: Resident Manual
 * Dan T: Karen
@@ -30,7 +29,6 @@
 
 * +++
 * Board of Supervisors: 17 Jone @ 3
-
 * F.inc: application 
 * Tania
 * Cynthia M
