@@ -4,7 +4,25 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+
 ## 2025-06-08
+
+Alex Paine came over for lunch today. 
+
+He has made a significant recovery from where he was a year ago. I guess some good evidence is that his company, Websight Design, is profitable again. It's not a great metric, but just an indication that he can again cope with at least some of the normal stresses of life. 
+
+Also, he and Marissa have established some kind of truce and are doing what they should do: trying to be parents.
+
+In the middle of lunch, My Alix phoned from France. It was Isabelle's sister Sophie's 80th birthday Party. Alix went around the table - and I remembered and shouted out everybody's name! There must be a few brain cells left in here. ;-)
+
+So all in all a lunch that pointed back into so many past circumstances. In many ways I am glad that I'm not "back there". My life today is as interesting as it has ever been. I feel that my values, my ethics, my sensibilities are ever deepening. And very different from those in the past.
+
+And I am thinking of you. You are facing imminent changes. Sometimes clarity. Sometimes I know not what but some kind of non-clarity that I cannot comprehend,
+
+Anyway. It's time for me to go and do that thing which is also not really comprehensible - enter the mind-state of a night's sleep. ;-)
+
+
+## 2025-06-07
 
 Some days are better. Some days are worse.
 

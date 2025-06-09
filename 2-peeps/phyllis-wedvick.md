@@ -1,5 +1,36 @@
 # Phyllis Wedvick
 
+## 2025-06-08
+
+>> Having dinner at the Dempsey's house gave me a happy break from worry 
+
+Yup! Being with people you can talk to makes such a difference. With Peer gone, there's no one to talk to. Therefore anguish sets in.
+
+I've learned to live by myself - and to enjoy it. But it took me forever to learn how to be my own best friend. 
+
+Of course it helps having 75 people living in my house along with 70 or so staff. And everybody is on a first name basis. And if any goes, they get replaced. ;-)
+
+>> I am also mentally tired from all.  
+
+I hear you. Living the same scenes over and over again is toatally draining and wearisome. 
+
+Have you figured out what stage you are in?
+
+https://en.wikipedia.org/wiki/Five_stages_of_grief
+
+>> What do you do when you program?
+
+;-) 
+
+It's like asking a chef, "what do you cook?"
+
+I should have something to click on soon.
+
+Here is an old one:
+
+https://www.ladybug.tools/spider-gbxml-tools/spider-gbxml-viewer/v-0-17-08/app-viewer/spider-gbxml-viewer.html
+
+
 ## 2025-06-07 2
 
 >> It's not easy or clear, 
@@ -13,10 +44,6 @@ There's a part of the software I'm working on that is quite complex. I just toni
 Now, should I be angry with myself for having spent so many months and hours doing the wrong thing? Or should I be totally pleased with myself for finding the right thing? 
 
 Well, I won't try the new easy way until tomorrow. Maybe it it will have complications too. Anyway, the questions remains: how did I allow my brain to play such a trick on me?
-
-
-
-
 
 
 ## 2025-06-07
