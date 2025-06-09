@@ -3,7 +3,7 @@
 ## June
 
 * [x] Doris ~ Art for elders
-* Focus Group
+* [x] Focus Group
 * Last of the elevator
 * Soft Opening
 * Food
