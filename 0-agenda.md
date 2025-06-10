@@ -22,7 +22,7 @@
 
 * Hector: minimise
 * Journey: reverse seat ~ review ~ 800 958 8324
-* Bob: no flora's
+
 
 
 ## Whenever
