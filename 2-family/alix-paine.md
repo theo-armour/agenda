@@ -4,6 +4,23 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-06-10
+
+One of the things I find fascinating is that I can look back on my day and find multiple points in the day that, if I think about it, I could write for pages and pages about it. 
+
+This is in total contrast to the first (30?) years of my life, which seemed to me to be totally boring. And, of course, I was bored - and being boring being bored in a bored life. 
+
+And things did happen today. I got a website out that I've been working on. I did some pretty amazing stuff using artificial intelligence and running some new software. 
+
+But the fun thing to talk about is something that just doesn't happen. 
+
+One of my residents down the hall is 101. Her name is Enid. Her son came along with his wife. They are conspiracy theorists and woo-woo and crystals and all that good, wonderful Marin County stuff. He was involved with Est and all the Werner Erhard stuff, and much more. 
+
+The fun thing was that Donna, the wife, is one of the most stunning, beautiful mid-70s women I've ever been in the presence of. Think of a surfer chick grown into an elder classic beauty. Old people's hair that still has tinges of blonde. Wrinkles that smile. A smile that radiates happiness. 
+
+It reminds me of what some old Chinese gentleman told me back in Hong Kong a long time ago. When a beautiful woman walks into the room, the room goes calm. 
+
+
 
 ## 2025-06-08
 

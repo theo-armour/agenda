@@ -1,5 +1,30 @@
 # Phyllis Wedvick
 
+## 2025-06-09
+
+>> Now, research demonstrates that grief is not linear.
+
+I very much agree and understand.
+
+What I find at least somewhat plausible is that she identified different aspects that do seem to occur with many people in no particular order or strength. And yes there are certainly more than five. And fatigue seems very relevant.
+
+The interesting thing is trying to identify the aspects that one is going through oneself and how they manifest and repeat.
+
+A lot of the aspects involve ruminating - going over the same thoughts over and over again. And a good practice is trying to identify what is being repeated and trying to break out of that pattern. But I am out of my depth here. And I'm sure you with the help of Kara are way deeper into matters like these.
+
+And no matter what, the grief still keeps on coming on.
+
+Peer: very, very few people ever seem to ask: why? It's much easier just to roll with the program. Do what the good "whoever" suggests.
+
+>> I am giving myself a break today.
+
+Yay!
+
+
+
+
+
+
 ## 2025-06-08
 
 >> Having dinner at the Dempsey's house gave me a happy break from worry 
