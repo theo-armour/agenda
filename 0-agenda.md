@@ -13,7 +13,7 @@
 
 * ?
 * Bassem Kaabeche
-* HH: first post
+
 * FO: Calendars
 * BobC: Resident Manual
 * Dan T: Karen
