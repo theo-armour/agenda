@@ -4,6 +4,28 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-06-11
+
+So what am I going to write about tonight? I have already written to Phyllis. She is the lady who was married to one of my St. Paul's classmates. Peer Wedvick who died a few weeks ago. I've never met her, but they lived in Palo Alto. I got involved, so I've been sending her messages every evening for the past few weeks. She's grieving hard, and it's nobody else, and is like so many old people worried about money. Yes, she would like a handout from me. No, I will never give her one. 
+
+So I've never met this person. Never even talked to her over the phone. But what I'm liking is that I get to write about something that's on my brain. 
+
+And, particularly, that made me think about doing the same communication thing with you, writing about something that's on my brain. 
+
+And of course, I've just discovered the thing I'm going to write about is alcohol. No, I'm not. That's too complicated. 
+
+I can just say "goodnight" and that's enough?
+
+Actually, the real thing is that I'm involved with the whole complicated AI thing, and it's blasting my brain, and I'm not sure what to do about it. 
+
+ox ox
+
+Theo
+
+
+
+
+
 ## 2025-06-10
 
 One of the things I find fascinating is that I can look back on my day and find multiple points in the day that, if I think about it, I could write for pages and pages about it. 

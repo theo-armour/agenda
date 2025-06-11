@@ -1,5 +1,49 @@
 # Phyllis Wedvick
 
+
+## 2025-06-10
+
+Hello, Theo,
+
+I just returned from The Stanford Theatre where I watched two silent films starring Reginald Denny, listened to a conversation between David Packard and Denny's granddaughter, and a short documentary.  All week the theatre will have silent films in the evening.  A welcome distraction.
+
+Tomorrow when I talk to my counselor in Minnesota at the National Marrow Donor Program, I will explain how odd it seems that Peer is gone.  Today, I did not cry but did sense detachment.  Something was off.
+
+Recovery will be difficult.  Now it seems that I will have to purchase a new Mac as mine is faltering at 7 years old.
+
+I am tired and it is 1:37am.  Time for sleep, I hope.
+
+Phyllis
+
+***
+
+>> Reginald Denny
+
+https://en.wikipedia.org/wiki/Reginald_Denny_(actor)
+
+Extensive career
+
+I've seen him. "Batman" and "Around the world in 80 days."
+
+But he doesn't ring a bell in my brain. But from the Wikipedia entry, it looks like he was an interesting person. After all, he was involved with remote control airplane drones. What is the war thing of the day. 
+
+Anyway, the main thing with me is that I don't really go to movies anymore. 
+
+Why should I be sitting silently next to somebody I would rather be talking to? 
+
+>>I will explain how odd it seems that Peer is gone.
+
+He is not gone. You brain is full of living thoughts about him. Deep down your brain is telling you that Peer wants a PB&J or that the temperature is wrong or whatever he expressed he needed. Just because he is dead, does not mean your "muscle memory" understands this.
+
+For all intents and purposes, my mother is still alive in my brain, but actually she died in a car accident in 1983.
+
+And that's what I'm finding with all the people that have died since I moved into my wrinkly home. As much as possible, treat people as if they're still living. It can't hurt you. It's not likely to bother them. 
+
+
+
+
+
+
 ## 2025-06-09
 
 >> Now, research demonstrates that grief is not linear.
