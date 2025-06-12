@@ -1,5 +1,27 @@
 # Phyllis Wedvick
 
+## 2025-06-11
+
+Hi Phyllis
+
+I hope you had a good chat with the counselor in Minnesota and gained a better understanding of what Peer was prepared for and what he did and did not share with you.
+
+And the past is what it is, immutable apart from our acceptance and understanding of it.
+
+My daughter Cynthia returned from France last night. She took part in her aunt's 80th birthday and is staying a couple of nights, cat-sitting in our cousin's place in Oakland. 
+
+She came over for dinner tonight and we met at Green's restaurant in Fort Mason, the vegetarian restaurant. We had a lovely meal and even better conversation. 
+
+One issue of discussion was particularly interesting. I'm finding that there are new ways of writing software with AI. I'm using the new, but I don't yet know how to explain what I'm doing. It's so strange or wrong or whacky that I can't find the words to explain this strange abstraction that is occurring. It's like using buildings to create blueprints. Or poems to create math equations.  
+
+Anyway, I'm obsessed over all this stuff. And I think it's kind of wonderful that I can be 78 and obsessed about anything. 
+
+Cheers,
+
+Theo
+
+
+
 
 ## 2025-06-10
 

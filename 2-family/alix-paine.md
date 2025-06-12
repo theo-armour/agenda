@@ -4,7 +4,28 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+
 ## 2025-06-11
+
+Hi Alix
+
+
+And the past is what it is, immutable apart from our acceptance and understanding of it.
+
+My daughter Cynthia returned from France last night. She took part in her aunt's 80th birthday and is staying a couple of nights, cat-sitting in Mia's place in Oakland. 
+
+She came over for dinner tonight and we met at Green's restaurant in Fort Mason, a classic vegetarian restaurant. We had a lovely meal and even better conversation. 
+
+One issue of discussion was particularly interesting. I'm finding that there are new ways of writing software with AI. I'm using the new, but I don't yet know how to explain what I'm doing. It's so strange or wrong or whacky that I can't find the words to explain this strange abstraction that is occurring. It's like using buildings to create blueprints. Or poems to create math equations.  
+
+Anyway, I'm obsessed over all this stuff. And I think it's kind of wonderful that I can be 78 and obsessed about anything. 
+
+ox ox
+
+Theo
+
+
+## 2025-06-10
 
 So what am I going to write about tonight? I have already written to Phyllis. She is the lady who was married to one of my St. Paul's classmates. Peer Wedvick who died a few weeks ago. I've never met her, but they lived in Palo Alto. I got involved, so I've been sending her messages every evening for the past few weeks. She's grieving hard, and it's nobody else, and is like so many old people worried about money. Yes, she would like a handout from me. No, I will never give her one. 
 
