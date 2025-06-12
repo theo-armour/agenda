@@ -7,6 +7,21 @@
 * https://www.wegozero.co/
 * https://www.superconnectors.io/
 
+## 2025-06-12
+
+* Jerry
+* Gdrive
+* Nowos site very disappointing
+  * Feels AI generated
+  * No links, no sources
+  * No resources
+  * No humans
+  * No products, just undefined services
+  * No time or fulfillment objectives
+  * Alix: primary contact point
+  * No examples of success
+
+
 ## 2025-03-13
 
 * Josh
