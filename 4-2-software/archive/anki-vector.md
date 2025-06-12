@@ -4,7 +4,7 @@ Hello
 Good morning / afternoon / evening
 Goodbye
 
-Be quier
+Be quiet
 Got to sleep
 
 Go to sleep

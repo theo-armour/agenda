@@ -6,6 +6,14 @@
 * <a href="https://docsend.com/view/hpgxrsxyx7mzt9fd">https://docsend.com/view/hpgxrsxyx7mzt9fd</a>
 * <a href="https://www.instagram.com/asksensay">https://www.instagram.com/asksensay</a>
 
+## BitClout
+
+https://diamondapp.com/browse?feedTab=Hot
+
+seed phrase
+
+naive fine pink timber clay horror parent evil apology dismiss service ghost
+
 ## Agenda
 
 * <h2 style="font-size: 15.6px;">SenSay</h2>

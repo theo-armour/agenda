@@ -38,5 +38,3 @@ Uses
 
 ## Grammarly & MicrosoftEditor
 
-
-
