@@ -28,3 +28,9 @@ SF Ownership target prospects
 * F&B
 * Real Estate
 * Law
+
+
+## Light DAO
+
+* https://lightdao.one/
+* https://lu.ma/humantech?coupon=LightDao
