@@ -12,6 +12,8 @@
 ## Today
 
 * ?
+* Lorenzo ~ spek
+
 * xfinit/myremote
 * Bassem Kaabeche
 * FO: Calendars
