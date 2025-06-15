@@ -12,7 +12,7 @@
 ## Today
 
 * ?
-* Lorenzo ~ spek
+* Lorenzo ~ spek here ~ architecural
 
 * xfinit/myremote
 * Bassem Kaabeche
