@@ -12,7 +12,7 @@
 ## Today
 
 * ?
-* HH: 
+* HH: addresses to contacts
 * HH: first email
 * $350 to Chase / Fromage?
 * SFLP: Frank/Randy: 5 points
