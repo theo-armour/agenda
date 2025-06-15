@@ -13,6 +13,7 @@
 * $350 to Chase / Fromage?
 
 more
+
 * Espoir
 * Lorenzo ~ speak here ~ architectural ~ photo
 * Dan T: Karen ~ nytimes / avatar
