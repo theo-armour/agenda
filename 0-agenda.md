@@ -17,6 +17,7 @@ more
 * Lorenzo ~ speak here ~ architectural ~ photo
 * Dan T: Karen ~ nytimes / avatar
 * SFLP: Frank/Randy: 5 points
+* LD: thanks
 
 ## Whenever
 
