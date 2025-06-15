@@ -1,5 +1,9 @@
 # Heritage Happenings Agenda
 
+## Agenda Open
+
+* Martha: draft letter for clinic from PCO on meds they can provide
+
 ## June
 
 * [x] Doris ~ Art for elders
@@ -20,4 +24,3 @@
 
 ## Whenever
 
-* Martha: draft letter for clinic from PCO on meds they can provide

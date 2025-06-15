@@ -12,50 +12,40 @@
 ## Today
 
 * ?
-* Lorenzo ~ spek here ~ architectural ~ photo
+* HH: first email 
+* Vish: future
+* $350 to Chase / Fromage?
+* SFLP: Frank/Randy: 5 points
 
-* xfinit/myremote
-* Bassem Kaabeche
-* FO: Calendars
-* BobC: Resident Manual
-* Dan T: Karen ~ nytomes / avatar
-* Bebo & Ron
-* French Cheese & Wine tasting
-* Personal Assistant
-* Hector: minimise
-* Journey: reverse seat ~ review ~ 800 958 8324
-
+more
+* Espoir
+* Lorenzo ~ speak here ~ architectural ~ photo
+* Dan T: Karen ~ nytimes / avatar
 
 
 ## Whenever
 
 * +++
-* NextDoor
-* Board of Supervisors: 17 Jone @ 3
+* xfinit/myremote
+* Personal Assistant
+* Journey: reverse seat ~ review ~ 800 958 8324
 * F.inc: application 
+* sps65: me
 * Tania
 * Cynthia M
+* Alix: furniture
 * Nancy Pelosi ~ (415) 556-4862
 * Paul Goldsmith
-* sps65: me
-* Larry Albukerk
 * Krea: Liam
 * AEP
-* domimicbookbinder@gmail.com
-* Alix: furniture
-* Heritage: triage
 * TDT Vaccine appointment
-** Better microphone for Friendship Hall
-
 
 
 Emails
 * Next Village: Introduce Katie Morris
-* MarthaN: medications message draft
+
 * Andrea SFPL &gt; documentalist + lunch
 
-Waiting
-* Asol: Bell friends
 
 ***
 

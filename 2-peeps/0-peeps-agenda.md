@@ -2,8 +2,13 @@
 
 ## Agenda
 
+* Bassem Kaabeche
+* Hector: minimise
+
 ## Peeps
 
+* domimicbookbinder@gmail.com
+* Bebo & Ron
 * Shammah
 * Omar Woodworth
 * Jose Leos

@@ -7,9 +7,17 @@
 
 ## Agenda
 
+* MarthaN: medications message draft
+* Better microphone for Friendship Hall
+* Heritage: triage
+* NextDoor: Larry Albukerk
+* Board of Supervisors: 17 June @ 3
+* FO: Calendars
+* French Cheese & Wine tasting
 * Bob: apt
+* BobC: Resident Manual
 
-More
+### More
 
 * Mary: talk at SacSem?
 * Mary: meeting: apt + HH + Hector
