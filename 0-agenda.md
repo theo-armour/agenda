@@ -16,7 +16,7 @@ xfinit/myremote
 * Bassem Kaabeche
 * FO: Calendars
 * BobC: Resident Manual
-* Dan T: Karen ~ nytomes
+* Dan T: Karen ~ nytomes / avatar
 * Bebo & Ron
 * French Cheese & Wine tasting
 * Personal Assistant
