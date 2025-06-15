@@ -12,7 +12,7 @@
 ## Today
 
 * ?
-xfinit/myremote
+* xfinit/myremote
 * Bassem Kaabeche
 * FO: Calendars
 * BobC: Resident Manual
