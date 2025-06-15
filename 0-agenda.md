@@ -12,10 +12,13 @@
 ## Today
 
 * ?
+* Lorenzo ~ spek here ~ architectural ~ photo
+
+* xfinit/myremote
 * Bassem Kaabeche
 * FO: Calendars
 * BobC: Resident Manual
-* Dan T: Karen
+* Dan T: Karen ~ nytomes / avatar
 * Bebo & Ron
 * French Cheese & Wine tasting
 * Personal Assistant
