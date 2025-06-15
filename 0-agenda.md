@@ -21,6 +21,7 @@ more
 * Dan T: Karen ~ nytimes / avatar
 * SFLP: Frank/Randy: 5 points ~ sf needs attractive affordable elder care
 * LD: thanks
+* https://www.xfinity.com/support/articles/remote-controls
 
 ## Whenever
 
