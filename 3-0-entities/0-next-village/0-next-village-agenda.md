@@ -1,5 +1,7 @@
 # Next Village Agenda
 
+Emails
+* Next Village: Introduce Katie Morris
 * Events Coordinator
 * Tea Parties
 * See also: https://www.papa.com/

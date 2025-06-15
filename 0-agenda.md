@@ -11,37 +11,30 @@
 * HH: addresses to contacts
 * HH: first email
 * $350 to Chase / Fromage?
-
+* TDT Vaccine appointment
 more
 
+* Tania
+* Cynthia M
 * Espoir
 * Lorenzo ~ speak here ~ architectural ~ photo
 * Dan T: Karen ~ nytimes / avatar
-* SFLP: Frank/Randy: 5 points
+* SFLP: Frank/Randy: 5 points ~ sf needs attractive affordable elder care
 * LD: thanks
 
 ## Whenever
 
 * +++
-* xfinit/myremote
 * Personal Assistant
-* Journey: reverse seat ~ review ~ 800 958 8324
-* F.inc: application 
-* sps65: me
-* Tania
-* Cynthia M
 * Alix: furniture
-* Nancy Pelosi ~ (415) 556-4862
 * Paul Goldsmith
-* Krea: Liam
-* AEP
-* TDT Vaccine appointment
-
-
-Emails
-* Next Village: Introduce Katie Morris
-
+* Krea: Liam ~ Absolom??
 * Andrea SFPL &gt; documentalist + lunch
+* Nancy Pelosi ~ (415) 556-4862
+
+
+
+
 
 
 ***

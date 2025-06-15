@@ -1,6 +1,7 @@
 # Read Me
 
 * ++
+* Send Photo me
 * Bob Hall: class communications
 * Mike Marean: folding desk (??)
 * SPS: RandyMor: ?
