@@ -1,5 +1,68 @@
 # Phyllis Wedvick
 
+
+## 2025-06-14
+
+At least I had a $400 gift card from AT&T and some cash.  The other MacBook Air essentially died.
+
+Today is full of tears and sadness.  I have Peer's glasses and wallet on his bureau.  He will of course not need them.  
+
+Theo, it is too easy to argue with the person you love.  The pettiness I sometimes displayed upsets me when I remember.
+
+So-I do hope that you are having a good day.  
+
+***
+
+Hi Phyllis
+
+
+>> I have Peer's glasses and wallet on his bureau. He will of course not need them.  
+
+Ah, yes, the reminders. What to do about all the reminders? The clothes in the closet, the papers in the drawers, a favorite snack hidden in a drawer.
+
+Do you have two bedrooms? Could you take in a roommate? And then you'd have to clean up the whole place, which would take care of much of the reminders. 
+
+***
+
+I had a curious day. In the morning, working on AI. 
+
+In the afternoon, I went to an assisted living place for the 90th birthday of a person of a friend He has dementia and it's very difficult. Even sillier, his daughter is on the wagon, so there was no booze there. And the food was full of carbs and sugars and things, and not terribly good for me, even though it was too delicious. 
+
+***
+
+But the good thing was that this evening I walked about two miles. 
+
+
+
+## 2025-06-13
+
+
+My computer is not working.  I am using Peer's ancient MacBook Pro but will purchase a new computer today.  I can still receive email.
+
+Is all well?  I did not know that Green's was still open.  I remember going when it first opened.
+
+***
+
+Hi Phyllis
+
+>> will purchase a new computer today.
+
+Bravo! The people I live with, mostly women who are in their 90s or 100s and who are competent, all are daily computer users.
+
+Most of them say they hate computers. Nonetheless, they can't stop playing solitaire. 
+
+For me, a computer is almost like a magic wand. I can make a computer make almost anything happen. 
+
+By the way, I also just bought a computer today. A second-hand, renewed iPad for $150 including tax from Amazon. I am not an Apple user, but I am building a website for residents and many residents are Apple users. So I better be able to have a system where I can test the website I'm making and to see if it works on Apple products. 
+
+Cheers,
+
+Theo
+
+
+  
+
+
 ## 2025-06-11
 
 Hi Phyllis

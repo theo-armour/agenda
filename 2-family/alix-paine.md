@@ -5,6 +5,44 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-06-14
+
+Hi Alix
+
+Today I went to the 90th birthday party of a friend who has severe memory loss. He is and always was extremely curious, asking lots of questions. Of course, he cannot now remember any of the answers. So he lives in a perpetual "Groundhog Day". 
+
+Anyway, I live in a world of old people. I think, for the most part, for most people, life kind of sucks. They are trapped in these old bodies with all sorts of terrible conditions. For the most part, they do their best to ignore all the issues. They watch TV, they read books, they play solitaire on the computer. Anything not to have to think. 
+
+The interesting thing is I get to watch all of this. 
+
+Geraldine died yesterday, so this means that her son Paul won't be coming around, and I won't be able to talk to him about how his day trading went at the opening bell. 
+
+And much much more
+
+In essence, I live in an observation post. I can observe aging firsthand. And it ain't cute. I can't count anybody over the age of 88 here that has any sort of agency or usefulness. It's not that I don't like them. Heck, Margaret Johnson, one of my best friends, is 101.
+
+So I'm just thinking in my brain that my highest ideal age would be 88. I wonder: could I make that happen?
+
+## 2025-06-13
+
+Hi Alix
+
+So today I had lunch with a political group that meets every week. 
+
+Today our speaker was my local District 2 Supervisor, Stephen Sherrill. 
+
+Well, it turns out that his wife's brother dated Leah Englehart. And his children are in the same preschool as Bennett's and Rob's children.
+
+Other connections occurred as well, but I've never had such a close connection with an elected political official. 
+
+I will be seeing Stephen again next week. I've been asked to speak at the Board of Supervisors next meeting, where we will ask to go ahead with our new strategic plan to rebuild the campus. 
+
+I don't think I've ever before been as connected to my local political landscape as I am here and now. 
+
+
+ox ox
+
+
 ## 2025-06-11
 
 Hi Alix
