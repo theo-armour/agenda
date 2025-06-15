@@ -4,7 +4,7 @@
 ## Slogans
 
 * +++
-* 2025-05-30 Oppong ~ As Author Nassim Taleb says, “Invest in preparedness, not in prediction.” 
+
 * 2025-06-01: https://fs.blog/brain-food/june-1-2025/ ~ Don’t let your worst moments become your story.
 
 ## Today
