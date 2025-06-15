@@ -5,23 +5,19 @@
 
 * +++
 
-
-* 2025-05-30 Oppong ~ As Author Nassim Taleb says, “Invest in preparedness, not in prediction.” 
-* 2025-06-01: https://fs.blog/brain-food/june-1-2025/ ~ Don’t let your worst moments become your story.
-
 ## Today
 
 * ?
-* HH: first email 
-* Vish: future
+* HH: addresses to contacts
+* HH: first email
 * $350 to Chase / Fromage?
-* SFLP: Frank/Randy: 5 points
 
 more
 * Espoir
 * Lorenzo ~ speak here ~ architectural ~ photo
 * Dan T: Karen ~ nytimes / avatar
-
+* SFLP: Frank/Randy: 5 points
+* LD: thanks
 
 ## Whenever
 
