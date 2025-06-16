@@ -17,7 +17,7 @@
 * Hector: lights
 * Espoir
 * LD: thanks
-* PPH: STherapy order
+* PPH: Speech Therapy order
 
 more
 
