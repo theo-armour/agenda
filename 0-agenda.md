@@ -22,7 +22,7 @@
 more
 
 * +++
-* LD: thanks
+* LD: thank
 * Ace-it: google 
 * Tania
 * Cynthia M
