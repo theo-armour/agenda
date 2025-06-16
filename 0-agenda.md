@@ -27,7 +27,7 @@ more
 * Cynthia M
 * Lorenzo ~ speak here ~ architectural ~ photo
 * Dan T: Karen ~ nytimes / avatar
- 
+
  https://www.xfinity.com/support/articles/remote-controls
 
 ## Whenever
