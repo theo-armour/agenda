@@ -16,6 +16,7 @@
 * TDT Vaccine appointment
 * Hector: lights
 * Espoir
+* LD: thanks
 
 more
 
@@ -27,8 +28,7 @@ more
 * Lorenzo ~ speak here ~ architectural ~ photo
 * Dan T: Karen ~ nytimes / avatar
  attractive affordable elder care
-* LD: thanks
-* https://www.xfinity.com/support/articles/remote-controls
+ https://www.xfinity.com/support/articles/remote-controls
 
 ## Whenever
 
