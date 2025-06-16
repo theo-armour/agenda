@@ -1,4 +1,4 @@
-# TheoMotto</span>
+# TheoMotto
 
 
 ## Slogans
