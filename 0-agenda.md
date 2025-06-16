@@ -15,6 +15,7 @@
 * HH: Val reply
 * TDT Vaccine appointment
 * Hector: lights
+* Espoir
 
 more
 
@@ -23,7 +24,6 @@ more
 * Ace-it: google 
 * Tania
 * Cynthia M
-* Espoir
 * Lorenzo ~ speak here ~ architectural ~ photo
 * Dan T: Karen ~ nytimes / avatar
  attractive affordable elder care
