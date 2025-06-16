@@ -4,6 +4,7 @@
 ## Slogans
 
 * +++
+* 2025-06-15 ~ Theo: Don't rush into the day. Let the day unfold. Start with second-order thinking, not first. 
 
 ## Today
 
