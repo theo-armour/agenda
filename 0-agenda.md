@@ -16,8 +16,8 @@
 * Hector: lights
 * Espoir
 * Tania
-
-
+* Lorenzo ~ speak here ~ architectural ~ photo
+* Dan T: Karen ~ nytimes / avatar
 
 more
 
@@ -25,8 +25,6 @@ more
 * PPH: Speech Therapy order
 * Ace-it: google 
 * Cynthia M
-* Lorenzo ~ speak here ~ architectural ~ photo
-* Dan T: Karen ~ nytimes / avatar
 
 ## Whenever
 
@@ -37,10 +35,6 @@ more
 * Krea: Liam ~ Absolom??
 * Andrea SFPL &gt; documentalist + lunch
 * Nancy Pelosi ~ (415) 556-4862
-
-
-
-
 
 
 ***
