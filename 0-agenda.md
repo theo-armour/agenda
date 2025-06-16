@@ -4,16 +4,19 @@
 ## Slogans
 
 * +++
+* 2025-06-15 ~ Theo: Don't rush into the day. Let the day unfold. Start with second-order thinking, not first. 
 
 ## Today
 
 * ?
-* HH: addresses to contacts
 * HH: first email
-* $350 to Chase / Fromage?
 * TDT Vaccine appointment
 more
 
+* +++
+* LD: thanks
+
+* Ace-it: google 
 * Tania
 * Cynthia M
 * Espoir
@@ -21,6 +24,7 @@ more
 * Dan T: Karen ~ nytimes / avatar
 * SFLP: Frank/Randy: 5 points ~ sf needs attractive affordable elder care
 * LD: thanks
+* https://www.xfinity.com/support/articles/remote-controls
 
 ## Whenever
 
