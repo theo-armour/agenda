@@ -10,7 +10,8 @@
 ## Today
 
 * ?
-* SFLP: Frank/Randy: 5 points ~ sf needs attractive affordable elder care
+
+
 * HH: first email
 * HH: Val reply
 * TDT Vaccine appointment
