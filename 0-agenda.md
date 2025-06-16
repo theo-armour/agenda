@@ -15,13 +15,15 @@
 * TDT Vaccine appointment
 * Hector: lights
 * Espoir
+* Tania
+
+
 
 more
 
 * +++
 * PPH: Speech Therapy order
 * Ace-it: google 
-* Tania
 * Cynthia M
 * Lorenzo ~ speak here ~ architectural ~ photo
 * Dan T: Karen ~ nytimes / avatar
