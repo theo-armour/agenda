@@ -5,6 +5,21 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-06-15
+
+
+My day was a bit unusual. I text chatted with my daughters. Here is what I said: Being a father is one of the best things I've ever done. Perhaps the best thing.
+
+My friend Vish Ratnaswamy joined me for the Father's Day celebration in the dining room. He is a Caltech graduate in his 30s. Smart but conflicted. Among other things, for several years he has been teaching foster kids math and science. He applied for a grant from Caltech and just received $65,000 to fulfill his dream of doing something more long-term and constructive with the kids he is helping. We talked about how to maximize the benefits. How to create long-term solutions that go beyond this sum of money. After lunch, I had to go to the bank, and then after, we stopped at my favorite French cheese store and had three cheeses and a glass of wine. 
+
+Then I came home and had a nap. 
+
+Cheers,
+
+Theo
+
+
+
 ## 2025-06-14
 
 Hi Alix

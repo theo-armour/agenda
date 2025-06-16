@@ -1,5 +1,30 @@
 # Phyllis Wedvick
 
+## 2025-06-15
+
+My day was mixed.  Loneliness and rumination led to tears again. The more that I learn about transplants means that I know why Peer should not have tried.  I will never have an answer as to what he was thinking.  From January onwards, Peer did not live in the present.  He lived in his imaginary life with a transplant.  I am sad and angry at the same time.
+
+Now--perhaps sleep.
+
+Happy Father's Day to you.
+
+***
+
+My day was a bit unusual. I text chatted with my daughters. My friend Vish Ratnaswamy joined me for the Father's Day celebration in the dining room. He is a Caltech graduate in his 30s. Smart but conflicted. Among other things, for several years he has been teaching foster kids math and science. He applied for a grant from Caltech and just received $65,000 to fulfill his dream of doing something more long-term and constructive with the kids he is helping. We talked about how to maximize the benefits. How to create long-term solutions that go beyond this sum of money. After lunch, I had to go to the bank, and then after, we stopped at my favorite French cheese store and had three cheeses and a glass of wine. 
+
+Then I came home and had a nap. 
+
+>>  He lived in his imaginary life with a transplant.
+
+I can quite believe this. And I can believe sometimes he would feel that life would be beautiful afterwards, and then sometimes he would feel that "this is the way I will die." and all of this compounded by what happens to a brain that's on serious medications.  
+
+>> Loneliness and rumination led to tears again
+
+Old age and solitude do not mix well. Study after study — will tell just you what you already know.
+
+My solution was to find a group of people to live with. I now have 75 friends, and I always will, if any of them died, they get replaced. 
+
+
 
 ## 2025-06-14
 
