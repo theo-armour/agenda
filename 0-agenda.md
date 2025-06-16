@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-* SFLP: 3hat message
+* SFLP: Frank/Randy: 5 points ~ sf needs
 * HH: first email
 * HH: Val reply
 * TDT Vaccine appointment
@@ -26,7 +26,7 @@ more
 * Espoir
 * Lorenzo ~ speak here ~ architectural ~ photo
 * Dan T: Karen ~ nytimes / avatar
-* SFLP: Frank/Randy: 5 points ~ sf needs attractive affordable elder care
+ attractive affordable elder care
 * LD: thanks
 * https://www.xfinity.com/support/articles/remote-controls
 
