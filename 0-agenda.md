@@ -10,7 +10,10 @@
 
 * ?
 * HH: first email
+* HH: Val reply
 * TDT Vaccine appointment
+* Hector: lights
+
 more
 
 * +++
