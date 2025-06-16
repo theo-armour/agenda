@@ -1,6 +1,6 @@
 # Family Agenda
 
-`<a href="./2023-03-13-alex-paine.md">`alex`</a>`
+
 
 ## Healdsburg in October 
 
