@@ -8,9 +8,7 @@
 ## Today
 
 * ?
-
 * HH: first email
-
 * TDT Vaccine appointment
 more
 
