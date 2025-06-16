@@ -15,7 +15,6 @@
 * TDT Vaccine appointment
 * Hector: lights
 
-
 * Tania
 * Lorenzo ~ speak here ~ architectural ~ photo
 * Dan T: Karen ~ nytimes / avatar
