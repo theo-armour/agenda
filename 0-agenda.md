@@ -10,7 +10,8 @@
 ## Today
 
 * ?
-* LD: thanks
+
+
 * HH: first email
 * HH: Val reply
 * TDT Vaccine appointment
