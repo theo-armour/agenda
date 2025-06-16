@@ -12,7 +12,6 @@
 * ?
 * HH: first email
 * HH: Val reply
-* TDT Vaccine appointment
 * Hector: lights
 
 * Tania
@@ -22,6 +21,7 @@
 more
 
 * +++
+* TDT Vaccine appointment
 * PPH: Speech Therapy order
 * Ace-it: google 
 * Cynthia M
