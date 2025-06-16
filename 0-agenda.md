@@ -10,7 +10,7 @@
 * ?
 * HH: addresses to contacts
 * HH: first email
-* $350 to Chase / Fromage?
+
 * TDT Vaccine appointment
 more
 
