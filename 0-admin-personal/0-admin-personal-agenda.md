@@ -1,10 +1,8 @@
 # 0 Admin Personal Agenda
 
 * ?
-* xfinit/myremote
-* A: diapers ~ snacks
 * * Journey: reverse seat ~ review ~ 800 958 8324
-
+* Dog Tags?
 
 ## 2024-06-28 + 7 days: What to do?
 
