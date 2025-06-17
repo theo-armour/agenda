@@ -15,7 +15,6 @@
 * Hector: lights
 
 * Tania
-
 * Dan T: Karen ~ nytimes / avatar
 
 more
