@@ -11,7 +11,9 @@
 
 * ?
 * Hector: lights
+* Hector: M
 * Dan T: Karen ~ nytimes / avatar
+
 
 more
 
