@@ -32,7 +32,7 @@ more
 * Alix: furniture
 * Paul Goldsmith
 * Krea: Liam ~ Absolom??
-* Andrea SFPL &gt; documentalist + lunch
+* Andrea SFPL: documentalist + lunch
 * Nancy Pelosi ~ (415) 556-4862
 
 
