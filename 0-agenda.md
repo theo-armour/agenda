@@ -226,5 +226,5 @@ Residents
 * NV: use for volunteers
 * NV: Margaret Jacobs
 * NV: Le'mere
-* NV: Laura Burges
+*
 
