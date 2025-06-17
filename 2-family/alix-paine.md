@@ -5,6 +5,18 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-06-16
+
+Today, fingers crossed, I finally stopped obsessing about writing software and started back on a more normal life. I had two outdoor walks and was more careful about what I ate. I got through a lot of emails, phoned Tania and got a lot of stuff done. 
+
+The trick was that coming upstairs after breakfast was not just about starting automatically to keep on with the things I was doing last night, but to stop, think, prepare and reflect upon what I should be doing today, not just jumping in.
+
+***
+
+We are in the process of adding some new units to the property and we are seeking planning permission and other matters that need clearing up through the San Francisco Board of Supervisors. Tomorrow I will be appearing before the Board of Supervisors and giving a two or three minute talk. Today I presented my draft to the CEO and the board of directors and they liked what I wrote. ;-)
+
+
+
 ## 2025-06-15
 
 

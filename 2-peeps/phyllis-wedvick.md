@@ -1,5 +1,31 @@
 # Phyllis Wedvick
 
+## 2025-06-16
+
+Yes, his brain on medications was not normal by any means.  
+
+I am suffering from grief and now what seems to be depression, which I know well.  It is difficult for me to write.
+
+Yes, old age is now a challenge that is present.
+
+***
+
+Today, fingers crossed,  I finally stopped obsessing about writing software and started back on a more normal life. I had two outdoor walks and was more careful about what I ate. I got through a lot of emails, phoned my sister and got a lot of stuff done. 
+
+The trick was that coming upstairs after breakfast was not just about starting automatically to keep on with the things I was doing last night, but to stop, think, prepare and reflect upon what I should be doing today, not just jumping in.
+
+We are in the process of adding some new units to the property and we are seeking planning permission and other matters that need clearing up through the San Francisco Board of Supervisors. Tomorrow I will be appearing before the Board of Supervisors and giving a two or three minute talk. Today I presented my draft to the CEO and the board of directors and they liked what I wrote. ;-)
+
+>> I am suffering from grief and now what seems to be depression, which I know well. 
+
+Yes, without people to talk to, it is so easy fall into difficult moods. Having people to talk to, even strangers, is so helpful. It often starts with finding the motivation to get out of the house, but even that can be hard. Does binge-watching help?
+
+
+
+
+
+
+
 ## 2025-06-15
 
 My day was mixed.  Loneliness and rumination led to tears again. The more that I learn about transplants means that I know why Peer should not have tried.  I will never have an answer as to what he was thinking.  From January onwards, Peer did not live in the present.  He lived in his imaginary life with a transplant.  I am sad and angry at the same time.
