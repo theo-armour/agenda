@@ -197,8 +197,6 @@ Residents
 
 **Peeps**
 
-
-
 * Paul Goldsmith
 * John Choate: wall image ~ PGE no public ros ~ planter
 * LD Kirshenbaum: late June ~ zarina
@@ -226,5 +224,5 @@ Residents
 * NV: use for volunteers
 * NV: Margaret Jacobs
 * NV: Le'mere
-*
+* NV: Laura Burges
 
