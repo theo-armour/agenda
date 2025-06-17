@@ -10,8 +10,11 @@
 ## Today
 
 * ?
+* SFLP: BoS speach
 * Hector: lights
+* Hector: Minimise
 * Dan T: Karen ~ nytimes / avatar
+
 
 more
 
@@ -197,16 +200,12 @@ Residents
 
 **Peeps**
 
-
-
 * Paul Goldsmith
 * John Choate: wall image ~ PGE no public ros ~ planter
-* LD Kirshenbaum: late June ~ zarina
 * Hector
 * Olga:
 * Jason Carman
 * Ann Seymour
-* Ronan ~ ple
 * Mike Warner
 
 
