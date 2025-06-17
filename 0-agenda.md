@@ -10,18 +10,13 @@
 ## Today
 
 * ?
-* John Maeck
-
-* HH: first email
-* HH: Val reply
 * Hector: lights
-
-* Tania
 * Dan T: Karen ~ nytimes / avatar
 
 more
 
 * +++
+* John Maeck
 * Notsey on phone
 * TDT Vaccine appointment
 * PPH: Speech Therapy order
