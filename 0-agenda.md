@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-* 
+* SFLP: BoS speach
 * Hector: lights
 * Hector: Minimise
 * Dan T: Karen ~ nytimes / avatar
