@@ -1,5 +1,12 @@
 # Espoir
 
+* Hoperiops@gmail.com
+* Espoir Byamung
+
+## 2025-06-16
+
+Hi Espoir, On Tuesday, I will be attending the Founder's Inc event "Realtime AI Meetup". I hope to see you there!
+
 ## Heycontent
 
 * Influencer incubation app

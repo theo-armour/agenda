@@ -2,6 +2,10 @@
 
 ## Agenda
 
+*  https://www.xfinity.com/support/articles/remote-controls
+
+## Old
+
 * James Scanlon ~ olga ~ stairs tracking
 * Otter: watch app
 * Hover: joystick try
