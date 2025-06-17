@@ -12,8 +12,7 @@
 * ?
 * John Maeck
 
-* HH: first email
-* HH: Val reply
+
 * Hector: lights
 
 * Tania
