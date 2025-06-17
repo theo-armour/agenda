@@ -12,9 +12,6 @@
 * ?
 * John Maeck
 * Hector: lights
-
-
-
 * Dan T: Karen ~ nytimes / avatar
 
 more
