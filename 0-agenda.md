@@ -10,8 +10,9 @@
 ## Today
 
 * ?
+* 
 * Hector: lights
-* Hector: M
+* Hector: Minimise
 * Dan T: Karen ~ nytimes / avatar
 
 
