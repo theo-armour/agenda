@@ -10,13 +10,13 @@
 ## Today
 
 * ?
-* John Maeck
 * Hector: lights
 * Dan T: Karen ~ nytimes / avatar
 
 more
 
 * +++
+* John Maeck
 * Notsey on phone
 * TDT Vaccine appointment
 * PPH: Speech Therapy order
