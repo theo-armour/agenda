@@ -10,7 +10,7 @@
 ## Today
 
 * ?
-John
+John Maeck
 
 * HH: first email
 * HH: Val reply
