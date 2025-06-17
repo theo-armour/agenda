@@ -199,7 +199,7 @@ Residents
 
 * Paul Goldsmith
 * John Choate: wall image ~ PGE no public ros ~ planter
-* LD Kirshenbaum: late June ~ zarina
+
 * Hector
 * Olga:
 * Jason Carman
