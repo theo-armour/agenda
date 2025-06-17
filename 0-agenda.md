@@ -204,7 +204,7 @@ Residents
 * Olga:
 * Jason Carman
 * Ann Seymour
-* Ronan ~ ple
+
 * Mike Warner
 
 
