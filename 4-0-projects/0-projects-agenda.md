@@ -2,6 +2,11 @@
 
 ## Agenda
 
+* https://windsurf.com/
+* Tess: kiosk software
+* Corridor Display: Mohammed
+* Audiometer settings
+* Single tap audio notes
 
 
 ## Old

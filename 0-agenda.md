@@ -33,95 +33,11 @@ more
 * Andrea SFPL: documentalist + lunch
 * Nancy Pelosi ~ (415) 556-4862
 
-
 ***
 
-<!--
-
-**Admin**
-
--->
-<details>
-
-<summary>0 Admin</summary>
-
-* ?
-* Samsung
-* Andrea
-* Boost: account number ~ cancel autopay
-* Boost: target: 2675 Geary Blvd, San Francisco, CA 94118 ~ (415) 796-5280
-* Job description: need a personal assistant
-* DonnaB: vet Job Description
-* Boost: cancel
-* Josh
-* Taxes
-* Tiller
-* File for admin tips
-* Drivers License: expires 2028
-
-## [0 Admin Journal]()
-
-## [0 Admin Agenda ZZZ]()
-
-[passport]()
-
-[mia agenda]()
-
-[0.1 will &amp; trust]()
-
-[0.1 2024 taxes]()
-
-</details>
-<!-- *** -->
-<details>
-<!-- -->
-<summary>Personal</summary>
-<!-- -->
-
-* ?
-
-* Dog Tags ~
-* shampoo ~ Eucerin ~ ninite
-* Tom King book 2
-* ACE: Agnes
-* LL Bean ~ blanket
-* Safeway:&nbsp;
-* EyeBuyDirect: small s
-* Jeans ~ jacket
-* Closet step ladder
-
-Waiting
-
-* ++
-00
-
-## [0 Admin Personal Journal]()
-
-[0.1-schedule-days-of-week]()
-
-[0.1-schedule-daily]()
-
-[0.1-notes]()
-
-</details>
-***
-
-<!--
-
-**Heritage**
-
--->
-<details>
-<!-- -->
-<summary>Heritage</summary>
-
-* ++
 * 238 &amp; 240
-* Out and about to Air museum
-* Individual film festival
 * Granola photo . Guests for lunch
 * hand wipes available Photo of food display&nbsp;
-* Residents: commission report
 * He: Donations?
 * Mary: CC print ~ plaque
 * Scans
@@ -136,8 +52,11 @@ Waiting
 * Activities: zen + NV
 * ??
 
-Platform* NDA* Strategic Plan ~ architecture experience* Two way reporting#experience* Bod past ~ sec RCResidents Council
-
+Platform
+* NDA
+* Strategic Plan ~ architecture experience
+* Two way reporting#experience
+* Bod past ~ sec RCResidents Council
 * MJa: RN ~ chair lifts ~ electric chairs
 
 Residents
@@ -159,15 +78,7 @@ Residents
 * HH: Page for committee book
 * HH: agenda &amp; meeting dates for the year
 
-[heritage happenings journal]()
-[heritage happenings agenda]()
 
-</details>
-<!--
-**Heritage Centenary**
--->
-<details>
-<!-- -->
 <summary>JMB Centenary</summary>
 
 * Al Sterling: rose notches
@@ -177,29 +88,7 @@ Residents
 * Woody?
 * rsvp: invite
 
-[centenary morgan journal]()
-[centenary-morgan ]()
-***
 
-</details>
-[activities]()
-[admin town hall]()
-[bod sflprs]()
-[centenary-morgan ]()
-[health]()
-[out and about]()
-[resident council]()
-[residents]()
-[services]()
-[staff]()
-[strategic plan ~ eir]()
-</details>
-<!--
-
-**Health**
-
--->
-<details>
 
 <summary>Health</summary>
 ## [1.0 Health Agenda]()
@@ -297,11 +186,6 @@ Residents
 
 **Family**
 
--->
-<details>
-<summary>Family</summary>
-## [2.1 Family]()
-
 * ++
 * Alix P
 * Allison
@@ -310,13 +194,10 @@ Residents
 * Tania: concierge in Durham
 * John Choate: Eloise + Corwin
 
-</details>
-<!--
 
 **Peeps**
 
--->
-<details>
+
 
 * Paul Goldsmith
 * John Choate: wall image ~ PGE no public ros ~ planter
@@ -328,21 +209,7 @@ Residents
 * Ronan ~ ple
 * Mike Warner
 
-<summary>Peeps</summary>
-## [2.2 Peeps]()
 
-</details>
-***
-
-<!--
-
-**Entities**
-
--->
-<details>
-
-<summary>Entities</summary>
-<!-- -->
 ## [3.0 entities]()
 
 * ?
@@ -361,61 +228,3 @@ Residents
 * NV: Le'mere
 * NV: Laura Burges
 
-<!-- -->
-[awesome]()
-<!-- -->
-[next village]()
-<!-- -->
-[sacsem]()
-<!-- -->
-[sensay]()
-<!-- -->
-[sps]()
-<!-- -->
-[tgd]()
-<!-- -->
-</details>
-<!-- -->
-***
-
-<!--
-
-**Projects**
-
--->
-<details open="">
-
-<summary>Projects</summary>
-## [4.0 projects agenda]()
-
-* +++
-* Windsurf ~&nbsp;<a href="https://windsurf.com/">https://windsurf.com/</a>
-
-## [4.1 organizations]()
-
-* Tess: kiosk software
-* Corridor Display: Mohaned
-* Audiometer settings
-* Single tap audio notes
-
-## [repos]()
-
-* ++
-
-## [4.2 software]()
-
-* ++
-
-## [4.3 hardware]()
-
-* ++
-
-## [4.4 qdata apps journal]()
-
-* ++
-
-***
-
-## [Reminders]()
-
-</details>
