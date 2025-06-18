@@ -2,7 +2,6 @@
 
 ## Agenda
 
-* Bassem Kaabeche
 * Hector: minimise
 * Paul Goldsmith
 * John Choate: wall image ~ PGE no public ros ~ planter

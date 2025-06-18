@@ -1,5 +1,42 @@
 # Phyllis Wedvick
 
+
+## 2025-06-17
+
+No, I don't think that the problem is not talking to people.  The problem lies in the complexity of the situation with the transplant.  Peer was on a mission from the beginning of the year to find a way to slow down the lymphoma.  He grasped at the transplant idea for many reasons but did not share his thoughts or feelings with me.
+
+For the process to take me by surprise and place me in a fight for his survival for over 5 weeks was not what I expected.  Peer may be free of the threat of his demise but I am on the edge of exhaustion combined with grief.  To lose a partner this way is far worse than you can imagine.  Divorce is not the same even though divorce had terrible consequences for me.
+
+Depression can be severe.  I know what happens because of previous experience with its symptoms.  Today tested my strength.
+
+***
+>> Depression can be severe.
+
+I understand this though do not "know" this. I have had periods of depression but I have always recovered.  I would say that a real depression is a depression where you don't know whether you'll ever come out. I've not had anything like that for decades. What I do know is that depression is as debilitating as physical pain.
+
+>>No, I don't think that the problem is not talking to people.
+
+Ah! New insight: I think, from time to time, we are reading the same words in two different ways. You bring up a topic because there is a problem involved. And I look at the same event and try to think of solutions.
+
+You are grieving for your late husband. And that's a real problem. At the same time I think: but that's not the main thing. Maybe the main thing is there's nobody to talk to morning, noon and night. And something could be done about that.There could be a solution
+
+>>To lose a partner this way is far worse than you can imagine.
+
+Holding a child who is beside herself or injured or even merely "misbehaving" can bang on your brain very hard. My uncle was killed in WWII and my grandparents never fully recovered. 
+
+Putting it another way, I don't think there is a maximum joy or pain benchmark. We've all been hurt.
+
+***
+
+Two nice events today:
+
+Lunch with Laura Burgess. She is a Buddhist "personage" at the San Francisco Zen Center and cousin to one of my fellow residents. She writes books about Buddhism for children that are fun. I invited her to speak to my residents, and she was very successful. Also, I organized a tour for our residents to go and visit the Zen Center and she officiated at the tour. Anyway, anytime you have lunch and talk about the meaning of life is a good lunch?
+
+Then this afternoon, a bunch of us, including admins, our CEO, layers, consultants, attended the San Francisco Board of Supervisors meeting. The Supervisors voted on our planning permission for our plan to add 23 apartments to the campus. I had two minutes to speak. Looking back on it, I think my words were a bit lightweight. Not to worry, the supervisors voted on a number of different aspects and our side won.
+
+There was a meeting this evening that I wanted to attend, the demo day for a tech incubator. The premises are just a 10-minute walk from here, and I hope to be an advisor, but we got home too late from the meeting for me to be able to do that.  
+
+
 ## 2025-06-16
 
 Yes, his brain on medications was not normal by any means.  
