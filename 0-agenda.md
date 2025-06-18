@@ -10,14 +10,15 @@
 ## Today
 
 * ?
-* Hector: lights
-* Hector: Minimise
+* Lorenzo: email
+* Hector A: lights
+* Hector G: Minimise
 * Dan T: Karen ~ nytimes / avatar
 * Ace-it: google 
 more
 
 * +++
-* Lorenzo: email
+
 * John Maeck
 * Notsey on phone
 * TDT Vaccine appointment
