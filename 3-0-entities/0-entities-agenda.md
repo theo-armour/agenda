@@ -3,6 +3,20 @@
 ## Agenda
 
 * ?
+* SF heritage: donation ~&nbsp;<a href="https://www.sfheritage.org/splendid-25/">https://www.sfheritage.org/splendid-25/</a>
+* SacSem: nbr owner &lt;&lt; scree
+* awesome: zelle?
+* SacSem: wix
+* Joel P
+* Peer Wedvick
+* Jack O: talk at H + Guestroom?
+* Peter Otis + Bob Hall:
+* George Smart: woody
+* Leah WSD
+* NV: use for volunteers
+* NV: Margaret Jacobs
+* NV: Le'mere
+* NV: Laura Burges
 * set up&nbsp;
 * diaconal hermeneutic: deacon forum
 * Adesk: Val, jessica, brad, Jerry

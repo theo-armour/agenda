@@ -1,6 +1,11 @@
 # Family Agenda
 
-
+* Alix P
+* Allison
+* PLE: Ronan ~ calendar
+* Alex, Peter
+* Tania: concierge in Durham
+* John Choate: Eloise + Corwin
 
 ## Healdsburg in October 
 

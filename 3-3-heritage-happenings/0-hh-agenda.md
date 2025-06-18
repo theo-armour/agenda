@@ -2,6 +2,14 @@
 
 ## Agenda Open
 
+* https://news.ycombinator.com/item?id=44299354 ~ hamburder menu
+* Create HH blog
+* Book club: The accidental Tourist ~ book of the month in HH
+* May: post-mortem
+* HH: Tom to look at style guide and charter
+* HH: Page for committee book
+* HH: agenda &amp; meeting dates for the year
+
 * Martha: draft letter for clinic from PCO on meds they can provide
 
 ## June

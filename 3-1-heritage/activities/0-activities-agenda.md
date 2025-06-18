@@ -1,5 +1,6 @@
 # Activities
 
+* Activities: zen + NV
 * Activity descriptions
 * Amazon for the aged ~ designated shopper Karina Margaret
 

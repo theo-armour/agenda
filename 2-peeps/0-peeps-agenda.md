@@ -4,6 +4,13 @@
 
 * Bassem Kaabeche
 * Hector: minimise
+* Paul Goldsmith
+* John Choate: wall image ~ PGE no public ros ~ planter
+* Hector
+* Olga:
+* Jason Carman
+* Ann Seymour
+* Mike Warner
 
 ## Peeps
 

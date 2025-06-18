@@ -1,6 +1,14 @@
 # 1.0 Health Agenda Read Me
 
 
+* Descibe PT need
+* PPH: AI critique
+* UCSF patient advocate
+* Amanda: CVS + PT
+* https://www.ucsfhealth.org/services/case-management-and-social-work"
+* UCSF: Dental appointment
+* Jock rot ~ got it ~ trying lamasil
+* Delta Dental: codes
 ## 2025-05-27
 
 * Ketoconazole Shampoo 2%

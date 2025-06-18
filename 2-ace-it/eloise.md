@@ -1,6 +1,6 @@
 # Eloise
 
-* [https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md](https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md)
+* https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md
 
 
 ## 2025-02-15
@@ -9,6 +9,8 @@
 * MS 365 ~ subscriptions
 * John Choate
 * Furniture
+* Eloise: GitHub account * Jonathan D Coop
+
 
 ## 2025-04-22
 

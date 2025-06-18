@@ -12,6 +12,17 @@
 ## Agenda
 
 * ace-it@gmail.com
+* ICE: ms365
+* Alix: shipper
+* Alix: storage lady
+* Alix: PLE
+* Alix: volleyball
+* Cynthia: Safe deposit box
+* AC: Kathy birthday
+* AC: Eames visit
+* AC: Bolinas
+* Buy more: share paper
+* Netflix: ace-i
 
 ## 2025-02-visit
 
