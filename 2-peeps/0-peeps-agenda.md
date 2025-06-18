@@ -2,6 +2,10 @@
 
 ## Agenda
 
+* Paul Goldsmith
+* Krea: Liam ~ Absolom??
+* Andrea SFPL: documentalist + lunch
+* Nancy Pelosi ~ (415) 556-4862
 * Hector: minimise
 * Paul Goldsmith
 * John Choate: wall image ~ PGE no public ros ~ planter

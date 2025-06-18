@@ -30,13 +30,6 @@ more
 * +++
 * Personal Assistant
 * Alix: furniture
-* Paul Goldsmith
-* Krea: Liam ~ Absolom??
-* Andrea SFPL: documentalist + lunch
-* Nancy Pelosi ~ (415) 556-4862
-
-***
-
 
 
 
