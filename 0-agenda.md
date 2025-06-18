@@ -13,7 +13,7 @@
 * Hector: lights
 * Hector: Minimise
 * Dan T: Karen ~ nytimes / avatar
-
+* Ace-it: google 
 more
 
 * +++
@@ -21,7 +21,6 @@ more
 * Notsey on phone
 * TDT Vaccine appointment
 * PPH: Speech Therapy order
-* Ace-it: google 
 * Cynthia M
 
 ## Whenever
