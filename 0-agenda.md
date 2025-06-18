@@ -17,7 +17,7 @@
 more
 
 * +++
-
+* Lorenzo: email
 * John Maeck
 * Notsey on phone
 * TDT Vaccine appointment
