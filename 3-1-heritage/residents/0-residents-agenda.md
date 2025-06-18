@@ -3,6 +3,10 @@
 
 ## Agenda
 
+* Kay Tim: Turntable ~ advocate
+* Kathy Paver: follow up
+* John Mossi
+* List of one-handed things for T
 * Tom Johnson: wine
 * SiSi: home help
 * Fred Burke: email
