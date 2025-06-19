@@ -11,7 +11,7 @@
 * ?
 * Hector A: lights
 * Hector G: Minimise
-* Dan T: Karen ~ nytimes / avatar
+* Dan T: Karen ~ nytimes / avatar* Pay Mia
 
 more
 
@@ -29,4 +29,4 @@ more
 
 * +++
 * Nancy: ntrogman@icloud.com
-* Pay Mia
+
