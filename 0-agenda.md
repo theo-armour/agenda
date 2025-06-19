@@ -12,10 +12,11 @@
 * Hector A: lights
 * Hector G: Minimise
 * Dan T: Karen ~ nytimes / avatar
-* Ace-it: google 
+
 more
 
 * +++
+* Ace-it: google 
 * F: application
 * John Maeck
 * Notsey on phone
