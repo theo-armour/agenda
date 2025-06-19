@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-* Res: 
+* Res:
 * Randy Gridley: chat
 * Hector A: lights
 * Hector G: Minimise
