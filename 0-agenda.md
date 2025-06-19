@@ -12,7 +12,7 @@
 * Jay& Doris: Bday cards
 * Hector G: Minimise
 * Dan T: Karen ~ nytimes / avatar
-* Pay Mia
+
 * Laundry
 
 more
