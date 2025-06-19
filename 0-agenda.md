@@ -31,7 +31,7 @@ more
 ## Whenever
 
 * +++
-Pha
+* Pharmerica
 * Stop markdown lint from doubling URLs
 * Nancy: ntrogman@icloud.com
 
