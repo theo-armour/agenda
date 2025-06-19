@@ -15,10 +15,10 @@
 * Hector G: Minimise
 * Dan T: Karen ~ nytimes / avatar
 * Ace-it: google 
-
 more
 
 * +++
+* F: application
 * John Maeck
 * Notsey on phone
 * TDT Vaccine appointment
