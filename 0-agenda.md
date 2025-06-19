@@ -11,8 +11,7 @@
 * ?
 * Jay& Doris: Bday cards
 
-* Randy: Prep
-* Hector A: lights
+
 * Hector G: Minimise
 * Dan T: Karen ~ nytimes / avatar
 * Pay Mia
