@@ -18,8 +18,9 @@
 more
 
 * +++
+* Laundry
+* Drew
 * HH: Jane
-* Ace-it: google 
 * F: application
 * John Maeck
 * Notsey on phone

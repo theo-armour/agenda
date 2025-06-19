@@ -9,7 +9,6 @@
 * HH: Tom to look at style guide and charter
 * HH: Page for committee book
 * HH: agenda &amp; meeting dates for the year
-
 * Martha: draft letter for clinic from PCO on meds they can provide
 
 ## June

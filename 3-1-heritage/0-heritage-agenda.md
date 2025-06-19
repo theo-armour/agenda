@@ -7,6 +7,7 @@
 
 ## Agenda
 
+* CTO: my donations
 * MarthaN: medications message draft
 * Better microphone for Friendship Hall
 * Heritage: triage
@@ -14,7 +15,7 @@
 * Board of Supervisors: 17 June @ 3
 * FO: Calendars
 * French Cheese & Wine tasting
-* Bob: apt
+* BobC: apt
 * BobC: Resident Manual
 
 ### More
@@ -22,7 +23,7 @@
 * Mary: talk at SacSem?
 * Mary: meeting: apt + HH + Hector
 * Hector: mtgs
-* Jon Casey Touchtown Czar?
+* Jon Casey: Touchtown Czar?
 * SF: Historical Plan
 * Nail Salon on site? Mary will investigate this.
 * Emergency phone numbers

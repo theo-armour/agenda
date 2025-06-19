@@ -1,9 +1,10 @@
 # Reminders
 
 * Amazon Customer Service ~ 1-888-280-4331
-* Passport valid until March 20 2025
+
 * USPS: mail forwarding until August 5 2022
 * registered: [cowaymega](https://cowaymega.com/account/login) ~ 20% discount ~ code?
+* Drivers License: expires 2028
 * DMV ~ new ID ~ start online
 * Real ID ~ Appointment DMV
 
@@ -11,7 +12,7 @@ Doc with all my details
 
 * https://docs.google.com/document/d/1g2_VeWNsI8UhOdVZiPS1D_1DLcUcKeEh7D8tpZP4OGE/edit#
 
-
+* Passport valid until ?? // March 20 2025
 ## Handles
 
 * https://youtube.com/@TheoArmour

@@ -3,19 +3,18 @@
 ## Agenda
 
 * ?
-* Personal Assistant
-* Samsung
-* Boost: account number ~ cancel autopay
-* Boost: target: 2675 Geary Blvd, San Francisco, CA 94118 ~ (415) 796-5280
-* Job description: need a personal assistant
-* DonnaB: vet Job Description
-* Boost: cancel
-* Josh
 * Taxes
 * Tiller
+* Personal Assistant
+* Boost: account number ~ cancel autopay
+* Boost: target: 2675 Geary Blvd, San Francisco, CA 94118 ~ (415) 796-5280
+* Boost: cancel
+* Samsung
+* Job description: need a personal assistant
+* DonnaB: vet Job Description
 * File for admin tips
-* Drivers License: expires 2028
-* Security: set up ms vault all devices
+
+* Security: set up ms vault all devices?
 * Josh: stocks to children?
 
 
@@ -39,7 +38,11 @@ Done
 * Party when??
 * Josh: ray-ban stream?
 
-Chase* Check subscriptions*loan pay back
+## Chase
+
+* Check subscriptions
+*loan pay back
+
 ## IRS
 
 * IRS: estimated taxes

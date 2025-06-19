@@ -2,23 +2,22 @@
 
 ## Agenda
 
+* John Maeck
+* Andrea SFPL: documentalist + lunch
 * Paul Goldsmith
 * Krea: Liam ~ Absolom??
-* Andrea SFPL: documentalist + lunch
 * Nancy Pelosi ~ (415) 556-4862
-* Hector: minimise
-* Paul Goldsmith
 * John Choate: wall image ~ PGE no public ros ~ planter
 * Hector
 * Olga:
 * Jason Carman
 * Ann Seymour
 * Mike Warner
+* domimicbookbinder@gmail.com
+* Bebo & Ron
 
 ## Peeps
 
-* domimicbookbinder@gmail.com
-* Bebo & Ron
 * Shammah
 * Omar Woodworth
 * Jose Leos

@@ -11,7 +11,9 @@
 
 ## Agenda
 
-* ace-it@gmail.com
+* Draft a strategy
+  * Videos to YouTube
+  * ace-it@gmail.com
 * ICE: ms365
 * Alix: shipper
 * Alix: storage lady

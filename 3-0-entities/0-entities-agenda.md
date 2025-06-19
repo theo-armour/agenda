@@ -3,6 +3,11 @@
 ## Agenda
 
 * ?
+* Leading Age: Join CA
+* F: application
+* Hector A: lights
+* Hector G: Minimise
+* Dan T: Karen ~ nytimes / avatar
 * SF heritage: donation ~&nbsp;<a href="https://www.sfheritage.org/splendid-25/">https://www.sfheritage.org/splendid-25/</a>
 * SacSem: nbr owner &lt;&lt; scree
 * awesome: zelle?
