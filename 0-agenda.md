@@ -10,7 +10,7 @@
 
 * ?
 * Res:
-* Randy Gridley: chat
+
 * Hector A: lights
 * Hector G: Minimise
 * Dan T: Karen ~ nytimes / avatar
