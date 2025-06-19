@@ -10,16 +10,15 @@
 ## Today
 
 * ?
-* Randy Gridley: chat
 * Lorenzo: email
 * Hector A: lights
 * Hector G: Minimise
 * Dan T: Karen ~ nytimes / avatar
 * Ace-it: google 
-
 more
 
 * +++
+* F
 * John Maeck
 * Notsey on phone
 * TDT Vaccine appointment
