@@ -1,6 +1,5 @@
 # TheoMotto
 
-
 ## Slogans
 
 * +++
@@ -10,8 +9,8 @@
 ## Today
 
 * ?
+* Res: 
 * Randy Gridley: chat
-* Lorenzo: email
 * Hector A: lights
 * Hector G: Minimise
 * Dan T: Karen ~ nytimes / avatar
@@ -30,10 +29,5 @@ more
 ## Whenever
 
 * +++
-* Personal Assistant
-* Alix: furniture
-
-
-
-
-
+* Nancy: ntrogman@icloud.com
+* Pay Mia

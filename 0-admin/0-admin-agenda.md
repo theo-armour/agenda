@@ -3,6 +3,7 @@
 ## Agenda
 
 * ?
+* Personal Assistant
 * Samsung
 * Boost: account number ~ cancel autopay
 * Boost: target: 2675 Geary Blvd, San Francisco, CA 94118 ~ (415) 796-5280

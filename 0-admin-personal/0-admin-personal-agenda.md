@@ -1,6 +1,7 @@
 # 0 Admin Personal Agenda
 
 * ?
+* A: toothpicks
 * Journey: reverse seat ~ review ~ 800 958 8324
 * Dog Tags?
 * Tom King book 2

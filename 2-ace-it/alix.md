@@ -9,7 +9,8 @@
 
 ## 2025-06-12
 
-* Jerry
+* Alix: furniture
+* Jerry ~ magnus ~ nelle ~ boris
 * Gdrive
 * Nowos site very disappointing
   * Feels AI generated
