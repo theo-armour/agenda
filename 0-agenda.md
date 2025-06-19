@@ -16,7 +16,7 @@
 * Hector G: Minimise
 * Dan T: Karen ~ nytimes / avatar
 * Pay Mia
- La
+* Laundry
 
 more
 
