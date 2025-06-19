@@ -1,5 +1,61 @@
 # Phyllis Wedvick
 
+## 2025-06-18
+
+
+I don't think that I will have the words to explain how I am.  I don't have a solution for myself.  What I will say is that Peer jumped into the transplant process without considering the risks.  He and I would have shared more and lived together more if he had not had the transplant.  This thought does not want to be muted.
+
+I am going to empty the storage unit and give away most of the books to the library for its sale.  I can't afford the storage unit and maybe it is best to let go of items.  I will be 77 next week and as poor as I have always been.  The charity case is probably how friends would describe me.
+
+Yes, my mood is bleak.  This is depression and grief.
+
+***
+
+>>Yes, my mood is bleak.  This is depression and grief.
+
+I hear you. If I were in your situation, I would be beside myself. A past that turned out sad. A future that is not bright. Not a happy place.
+
+It's not easy to reconcile your position with mine. In recent months, I have been telling people that I have been the most at ease with my life I as I have ever been. (This does not make my life easy, pain free or even simple. It's just a state of mind.)
+
+Anyway, I am reading your message and considering it. I try to not offer advice. I think advice that is given because it has been asked for can be genuine. Unasked for advice that is given freely says more about the advisor than the advisee. So, I just do my best in my messages to you to observe and comment. 
+
+And adding comment is critical I think. I ain't no shrink. It's not about "tell me more". I write to you because I find the dialog challenging. And the challenge is to read your words very carefully and the come up with observations that are meaningful and resonates with you.
+
+So here is this evening's pontification, er, words-of-wisdom. ;-)
+
+>> He and I would have shared more and lived together more if he had not had the transplant.  This thought does not want to be muted.
+
+This all sounds like one is able to change the past.
+
+>> Yes, my mood is bleak. This is depression and grief.
+
+This sounds all fixed and final — this sound like a future that cannot be changed.
+
+Would it not be somehow possible to reverse the scenarios??
+
+Past: Peer was great and then he lost it.
+Future: Phyllis was lost and found again
+
+I offer these words not as a cure or a fix but only as a possible nudge. 
+
+***
+
+I think I've had too much to drink. Because:
+
+All of this brings up a vision:
+
+We are in a tennis match. 
+
+The tennis ball is volleyed back and forth between: 
+
+* The Court of Despair
+* and the Court of Joy 
+
+
+
+
+
+
 
 ## 2025-06-17
 

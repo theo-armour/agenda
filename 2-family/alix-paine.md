@@ -4,6 +4,87 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-06-19
+
+Hi Alix
+
+The reason I'm writing you every day is because of another woman. 
+
+She is the wife of a classmate who died a few weeks ago. Through one of Class of '65 mailing lists I set up, she sent a message to the class, and me being the mailing list master, responded. 
+
+We have corresponded every day ever since. 
+
+I've never met this person. I've never even talked to this person on the phone. I know almost nothing about them. Yet, for some strange reason, it's interesting to write them an email every day. 
+
+But as I was doing this, it began to dawn on me that I have no reason to write this person, and I could care less in some ways. And if I could write a message to anybody at any time about some esoteric things like this, it would be Alix. 
+
+So here I am writing to two women every night. 
+
+And yet the interesting thing is that there are two very different stories. 
+
+She appears to be physically capable of doing almost anything she wants to do, but cannot because she is grieving so hard.
+
+And you seem to be less capable of doing almost anything, but would like to.
+
+In other words, I'm writing to two different people with two different motivations. 
+
+And I am enjoying both.
+
+One is talking to a real person with imaginary problems.
+
+The other is talking to an imaginary person (you in a sense in relation to me) with real problems.
+
+
+Therefore: I do not "need" a response from you for any of my messages. 
+
+You have let me know that you can read my messages and that they are not just going into the "ether". And that is good enough for me. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 2025-06-18
+
+Hi Alix
+
+Oh! I am happy you are getting my messages and taking them in. I'm not sure why I'm doing them, but I do feel happy doing them.
+
+Two nice events today:
+
+Lunch with Laura Burgess. She is a Buddhist "personage" at the San Francisco Zen Center and cousin to one of my fellow residents. She writes books about Buddhism for children that are fun. I invited her to speak to my fellow residents, and she was very successful. Also, I organized a tour for our residents to go and visit the Zen Center and she officiated at the tour. Anyway, anytime you have lunch and talk about the meaning of life is a good lunch. Life is a game, BTW.
+
+Then this afternoon, a bunch of us, including admins, our CEO, layers, consultants, attended the San Francisco Board of Supervisors meeting. The Supervisors voted on our planning permission for our plan to add 23 apartments to the campus. I had two minutes to speak. Looking back on it, I think my words were a bit lightweight. Not to worry, the supervisors voted on a number of different aspects and our side won.
+
+There was a meeting this evening that I wanted to attend, the demo day for a tech incubator. The premises are just a 10-minute walk from here, and I hope to be an advisor, but we got home too late from the meeting for me to be able to do that.  
+
+Wednesday: Nothing on the calendar. I can do whatever I want. Yippee!
+
+ox ox
+
+Theo
+
+***
+
+Hi Alix
+
+>>  2 weeks now at Templeton. Relaxing ~ but need to make friends
+
+People who babble make friends faster than people who are silent!
+
+Even when you can't find the word you are looking for. ;-)
+
+ox ox
+
+Theo
+
 
 ## 2025-06-16
 
