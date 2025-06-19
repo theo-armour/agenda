@@ -34,6 +34,6 @@ more
 ## Whenever
 
 * +++
-* Stop markdown lint from doublinf URLs
+* Stop markdown lint from doubling URLs
 * Nancy: ntrogman@icloud.com
 
