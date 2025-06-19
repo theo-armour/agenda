@@ -9,7 +9,7 @@
 ## Today
 
 * ?
-Jay& Doris: Bday cards
+* Jay& Doris: Bday cards
 
 * Randy: Prep
 * Hector A: lights
