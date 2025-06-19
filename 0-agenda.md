@@ -24,7 +24,7 @@ more
 * TDT Vaccine appointment
 * PPH: Speech Therapy order
 * Cynthia M
-* CTI
+* CTO: my donations
 
 ## Whenever
 
