@@ -9,6 +9,8 @@
 ## Today
 
 * ?
+
+
 * Randy: Prep
 * Hector A: lights
 * Hector G: Minimise
