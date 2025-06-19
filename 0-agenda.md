@@ -11,7 +11,8 @@
 * ?
 * Hector A: lights
 * Hector G: Minimise
-* Dan T: Karen ~ nytimes / avatar* Pay Mia
+* Dan T: Karen ~ nytimes / avatar
+* Pay Mia
 
 more
 
