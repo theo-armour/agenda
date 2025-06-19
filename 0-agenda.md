@@ -18,7 +18,7 @@
 more
 
 * +++
-* F
+* F: application
 * John Maeck
 * Notsey on phone
 * TDT Vaccine appointment
