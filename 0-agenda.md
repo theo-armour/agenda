@@ -10,13 +10,8 @@
 
 * ?
 * Jay& Doris: Bday cards
-
-* Randy: Prep
-* Hector A: lights
-* Hector G: Minimise
 * Dan T: Karen ~ nytimes / avatar
-* Pay Mia
-* Laundry
+
 
 more
 
@@ -35,6 +30,7 @@ more
 ## Whenever
 
 * +++
+* Pharmerica
 * Stop markdown lint from doubling URLs
 * Nancy: ntrogman@icloud.com
 
