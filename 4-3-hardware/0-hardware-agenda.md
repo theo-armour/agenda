@@ -7,19 +7,17 @@
 ## Old
 
 * James Scanlon ~ olga ~ stairs tracking
+* Watch: learn 
 * Otter: watch app
 * Hover: joystick try
-* trmnl: update ~ use for checklists
+* Rrmnl: update ~ use for checklists
 * Trmnl: dev access
 * Tricycle ~ Barry to fix
 * Ham Radio: take notes
 * Phone:
-* Watch: learn
 * Connect Meta glasses?
 * Soundcore: Answer phone
 * Better Brother scanner?
-* pcStick: fix
-* pcMele: ??
 * Dronatella ~ front Elevation ~ roses
 * Squegg Video
 * Play with camera
@@ -30,6 +28,9 @@
 
 Done
 
+
+* pcStick: fix
+* pcMele: ??
 * SuperHexa: check for update
 * All-in-one ~ Kickstarter pledged ~ link
 * New keyboard?
