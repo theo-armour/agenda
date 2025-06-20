@@ -11,7 +11,7 @@
 * ?
 * Jay& Doris: Bday cards
 * Dan T: Karen ~ nytimes / avatar
-* Laundry
+
 
 more
 
