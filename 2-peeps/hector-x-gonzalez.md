@@ -23,6 +23,38 @@ startup
 * https://www.linkedin.com/in/hecglez/
 * https://www.instagram.com/hectorial/
 
+## 2025-06-19
+
+Hi Hector
+
+Hi Hector
+
+Oops, looks like I let our communication drop by the wayside. Anyway, time to restart.
+
+Minimise
+I had a long chat with Alix about introducing you to Minimise. She kept saying she is too busy and would not budge. I understand (somewhat), making a real and viable introduction can take a fair amount of effort. 
+
+The person to contact is Stefan de Linde. https://www.linkedin.com/in/s-de-linde/. I follow him on LinkedIn but we have never connected. You could certainly say that you learned about Minimise through Alix.
+
+Skip & X.company
+I go back and forth on exoskeletons. I want one. No, I should keep exercising my legs. No, I want one. Repeat.
+
+There have been several players in this field. I put my name down to be a guinea pig, but never got accepted. 
+
+I almost bought this one: https://www.kickstarter.com/projects/dnsys/dnsys-x1-exoskeleton-unleash-superhuman-athletic-potential
+
+Anyway, I had never heard of Skip and like all the other X things, there are too many amazing things happening all around us for us to keep track of
+
+Cycling
+Have you been back in San Francisco. Did you ever bring a bike and have a good ride?
+
+Dylan
+I saw he had appendicitis or something. Do you know how he is doing?
+
+Next Visit
+Do stop by! 
+
+
 
 ## 2025-05-08
 
