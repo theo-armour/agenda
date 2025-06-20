@@ -4,6 +4,29 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+
+## 2025-06-20
+
+Hello Alix
+
+OMG, it's 12:05. I have just spent an hour of my life crafting a reply to a message from a severely depressed widow.
+
+Here's the thing. If she (Phyllis) were sending me jolly messages, I probably would not be replying. 
+
+Anyway, I don't know if it is easy for you to read stuff or not. But if it is easy enough, then I could tune you into my "As the world turns" soap opera daily messages.
+
+Anyway, today was quite interesting. Among the good events was I had dinner with my friend Aaron. Aaron is betwixt and between all sorts of things. His brother has made a fortune. And they are very close. Here is the short version of the dialog:
+
+My advice to him was to stop being a salaryman and go help his brother build an extended family, a dynasty - perhaps a family office like the Rockefellers.
+
+He has been trying to learn how to live a hardscrabble life by himself. My advice to work with this brother and build something amazing seemed to resonate. 
+
+
+
+
+
+
+
 ## 2025-06-19
 
 Hi Alix

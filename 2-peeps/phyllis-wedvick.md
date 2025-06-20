@@ -1,5 +1,61 @@
 # Phyllis Wedvick
 
+
+## 2025-06-19
+
+I spoke to my regular doctor today.  I will need treatment for depression.  It will be important to function.
+
+As much as I enjoy reading your messages, mine are probably too dark.  Right now, I have a sense of being abandoned.  Perhaps it is my fault.
+
+***
+
+>> I will need treatment for depression.
+
+Yes! Yes! Yes! Medication, people to talk to and things to do. 
+
+* https://www.nimh.nih.gov/health/publications/depression
+* https://www.hopkinsmedicine.org/health/conditions-and-diseases/major-depression
+
+>>It will be important to function.
+
+Yep. Not easy to function if you are ruminating.
+
+People like me tend to give advice. Example: How to stop ruminating:
+
+* https://www.perplexity.ai/search/primary-methods-to-counter-dep-ZQgQYZYZRKe0MZlIIOFoaw
+
+
+>>As much as I enjoy reading your messages, 
+
+Nice to hear!
+
+>>mine are probably too dark.
+
+Interesting point. Thinking out loud: Perhaps, am I here because your messages are so dark? Would I be messaging you if your messages were all jolly? Who knows? 
+
+We are living in the moment. And messages seem to just happen.
+
+>>Right now, I have a sense of being abandoned.  
+
+By whom? Peer? It seems to me that he abandoned ship long ago. 
+
+My theory: The only person who can abandon you — is you
+
+>>Perhaps it is my fault.
+
+Yes, depression takes you down deep dark passages, and you can blame yourself for taking yourself, while ruminating, into even deeper darker places. 
+
+We have to live with the choices we make, so make good choices.
+
+Did I really say that? If you are depressed, the choices are mostly not good ones. And there's nothing you can do about it. 
+
+But if you do get a chance to make a good choice, it's pretty straightforward: ask people for help.
+
+
+
+
+
+
 ## 2025-06-18
 
 
