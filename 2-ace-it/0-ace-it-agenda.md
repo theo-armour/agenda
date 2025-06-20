@@ -7,7 +7,7 @@
 * [https://www.instagram.com/cbarmour/](https://www.instagram.com/cbarmour/)
 * https://www.instagram.com/eloeezy/
 * [https://www.instagram.com/armourisabelle/](https://www.instagram.com/armourisabelle/)
-* [https://www.instagram.com/armour.theo/](https://www.instagram.com/armour.theo/)
+* https://www.instagram.com/armour.theo/
 
 ## Agenda
 
