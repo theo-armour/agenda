@@ -31,7 +31,7 @@ Waiting
 * Josh: estimated payments
 * Josh: class action suits: ignore them OK?
 * DWA/Josh: note re Estimated payments not sent??
-* DWA: Send Will &amp; Trust docs / Olivia to look
+* DWA: Send Will & Trust docs / Olivia to look
 
 Done
 
@@ -50,7 +50,7 @@ Done
 
 ## Tiller
 
-~&nbsp;<a href="https://www.tillerhq.com/">https://www.tillerhq.com/</a>
+~ https://www.tillerhq.com/
 
 * Tiller: PayPal deposits
 * Tiller: import 2nd CSV
