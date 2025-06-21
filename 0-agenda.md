@@ -11,8 +11,8 @@
 * +++
 * Dan T: Karen ~ nytimes / avatar
 * HH: June ~ Jane
-* Notsey on phone
 * Trash out
+* Scan Jane's photos
 
 more
 
