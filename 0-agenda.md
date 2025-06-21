@@ -11,16 +11,19 @@
 * +++
 * Dan T: Karen ~ nytimes / avatar
 * HH: June ~ Jane
+* Notsey on phone
+* Trash out
 
 more
 
 * +++
-* Notsey on phone
+
 * Jay & Doris: Bday cards
 
 ## Whenever
 
 * +++
+* HH Dining service ~ Drawing of the month
 * Display: pack up
 * Cynthia M
 * Drew
