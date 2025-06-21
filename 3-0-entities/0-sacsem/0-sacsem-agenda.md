@@ -2,8 +2,9 @@
 
 ## Agenda
 
+
+* My usefulness: email to Mike, Jean, Dennis, Brian
 * Mission and Vision?
-* My usefulness
 * Perry's vs North Beach Restaurant?
 
 ### https://sacsem.net
@@ -12,6 +13,10 @@
 * Jon obits: adding links
 * Links page: past speakers + links of interest
 * More mobile friendly
+
+## 2025-06-20
+
+* SacSem: nbr owner >> cables for screen
 
 ## 2025-01-15
 
@@ -88,4 +93,3 @@ Theo
 Theo Armour
 415 828 0000
 t.armour@gmail.com
-

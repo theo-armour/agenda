@@ -2,12 +2,12 @@
 
 ## Agenda
 
+* New homes for old things visit
 * Look at emails
 * Plan January
 
 ## Time tracker
 
-* https://1drv.ms/x/s!ArJ-RZ9B4UhDzuISZM3dLvyCMXL2fw?e=DYAm5E
 * 2024: https://onedrive.live.com/edit.aspx?resid=4348E1419F457EB2!1263675&cid=4348e1419f457eb2&CT=1731136952214&OR=ItemsView
 
 
@@ -39,7 +39,7 @@
 * 1-2 posts per month
 * HotM Residents and Marina Residents
 * Work with Next Village
-*
+
 More
 
 * Who do we want as our target audience this post?
@@ -80,4 +80,3 @@ Theo
 * What does SFPL do with old books?
 
 ## Web Presence
-

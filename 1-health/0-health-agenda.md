@@ -1,11 +1,12 @@
 # 1.0 Health Agenda Read Me
 
-
+* TDT Vaccine appointment
+* PPH: Speech Therapy order
 * Describe PT need
 * PPH: AI critique
 * UCSF patient advocate
 * Amanda: CVS + PT
-* https://www.ucsfhealth.org/services/case-management-and-social-work"
+* [https://www.ucsfhealth.org/services/case-management-and-social-work]
 * UCSF: Dental appointment
 * Jock rot ~ got it ~ trying lamasil
 * Delta Dental: codes
@@ -13,7 +14,7 @@
 ## 2025-05-27
 
 * Ketoconazole Shampoo 2%
-* Description of What I'm looking for in a sports medicine referral. 
+* Description of What I'm looking for in a sports medicine referral.
 * AI on the PPH website
 
 
@@ -22,8 +23,8 @@
 * PPH: make sure all meds are cancelled
 * PPH: AI on website
 * PPH: UCSF sports medicine doctors
-* https://profiles.ucsf.edu/lee.tan ~ neurological
-* https://profiles.ucsf.edu/alekos.theologis ~ orthopedic 
+* [https://profiles.ucsf.edu/lee.tan] ~ neurological
+* <https://profiles.ucsf.edu/alekos.theologis> ~ orthopedic
 * Brine at upcoming talk
 
 ## Appointments
@@ -34,7 +35,7 @@
 * Martha: PPH report
 * Daniel B: appointment
 * Senior Doc?
-* <a href="https://papa.com">https://papa.com</a>
+* ["https://papa.com]
 * Sports medicine reference
 * Colonoscopy report??
 

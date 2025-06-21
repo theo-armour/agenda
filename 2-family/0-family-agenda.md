@@ -7,7 +7,7 @@
 * Tania: concierge in Durham
 * John Choate: Eloise + Corwin
 
-## Healdsburg in October 
+## Healdsburg in October
 
 * https://www.ciafoodies.com/cia-restaurants/#california
 * Eames Center
@@ -15,10 +15,10 @@
 ## Agenda
 
 * Peyton: hello theater
-* Rob &amp; Peyton: Suno &amp; Kaiber / frank?
+* Rob & Peyton: Suno &; Kaiber / frank?
 * Alex: Perry's?
 * Bennet: HotM
-* Dan E: triads &amp; AI
+* Dan E: triads & AI
 
 ## Tania
 
@@ -27,10 +27,6 @@
 ## Allison
 
 * Santa Barbara housing project
-
-## Philip
-
-* Alex
 
 ## Questions
 

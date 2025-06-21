@@ -3,6 +3,7 @@
 * ?
 * A: toothpicks
 * A: thin erasable pens
+* A: 22" Monotor?
 * Journey: reverse seat ~ review ~ 800 958 8324
 * Dog Tags?
 * Tom King book 2
@@ -26,4 +27,3 @@
 
 * Goodwill: shoes
 * Computer books
-

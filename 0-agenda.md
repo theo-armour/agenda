@@ -8,26 +8,20 @@
 
 ## Today
 
-* ?
-* Jay & Doris: Bday cards
+* +++
 * Dan T: Karen ~ nytimes / avatar
+* HH: June ~ Jane
 
 more
 
 * +++
-* Drew
-* HH: Jane
-* F: application
-* John Maeck
 * Notsey on phone
-* TDT Vaccine appointment
-* PPH: Speech Therapy order
-* Cynthia M
-* CTO: my donations
+* Jay & Doris: Bday cards
 
 ## Whenever
 
 * +++
-* Pharmerica
-* Stop markdown lint from doubling URLs
+* Display: pack up
+* Cynthia M
+* Drew
 * Nancy: <ntrogman@icloud.com>

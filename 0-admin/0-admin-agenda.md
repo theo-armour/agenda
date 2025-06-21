@@ -3,6 +3,8 @@
 ## Agenda
 
 * ?
+* CTO: my donations
+* Pay Pharmerica
 * Taxes
 * Tiller
 * Personal Assistant

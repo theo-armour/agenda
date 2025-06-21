@@ -2,9 +2,12 @@
 
 ## Agenda
 
+* Aselia
+* 9am club
 * John Maeck
 * Andrea SFPL: documentalist + lunch
 * Paul Goldsmith
+* Jack O: talk at H + Guestroom?
 * Krea: Liam ~ Absolom??
 * Nancy Pelosi ~ (415) 556-4862
 * John Choate: wall image ~ PGE no public ros ~ planter
@@ -60,7 +63,7 @@
 * Nienke
 * Nicolas: First mac??
 * Vinod Sheth
-* 
+*
 
 ## Peeps 2024-05-03
 

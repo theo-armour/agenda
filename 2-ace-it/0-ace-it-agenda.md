@@ -1,10 +1,13 @@
 # 2.0 ace-it Agenda
 
-
-
 ## Agenda
 
-* Draft a strategy
+* I need help
+  * Direct, in-person, physical help
+  * Three x one hour sessions a quarter
+  * Mia?
+* Gdrive
+  * Draft a strategy
   * Videos to YouTube
   * ace-it@gmail.com
 * ICE: ms365
