@@ -9,13 +9,12 @@
 ## Today
 
 * ?
-* Jay& Doris: Bday cards
+* Jay & Doris: Bday cards
 * Dan T: Karen ~ nytimes / avatar
 
 more
 
 * +++
-* Laundry
 * Drew
 * HH: Jane
 * F: application
