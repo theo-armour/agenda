@@ -1,6 +1,30 @@
 # Phyllis Wedvick
 
 
+## 2025-06-20
+
+I fell apart today and snapped at Peer's brother in a message.  I should count to 10.  My neighbors who had me for dinner and who brought food to me have dropped me as a friend.  Perhaps I alienate people.
+
+Today after going to the DMV this morning to renew my license, I could not do anything else.  I did pick up two prescriptions. Now I will wait to hear Peer's voice in my head.  Not really.  I miss him.
+
+***
+
+Dear Phyllis
+
+Your message almost made me smile. "welcome to the world of people in morning".
+
+People can be helpful but that does not mean that they actually feel or understand what is going on - let alone have any idea how to deal with grief.
+
+I say this because it reminds me of being disabled. People will stop and help disabled people but they rarely feel a need  to talk to disabled people.
+
+I can't say I know myself how to deal with grief, but I readily admit to not knowing.
+
+Anyway, the main thing is that today you got out of the house and talked to some people.
+
+But I'm wondering what you do when you're at home. Do you just sit somewhere and think about Peer?
+
+
+
 ## 2025-06-19
 
 I spoke to my regular doctor today.  I will need treatment for depression.  It will be important to function.
@@ -11,7 +35,7 @@ As much as I enjoy reading your messages, mine are probably too dark.  Right now
 
 >> I will need treatment for depression.
 
-Yes! Yes! Yes! Medication, people to talk to and things to do. 
+Yes! Yes! Yes! Medication, people to talk to and things to do.
 
 * https://www.nimh.nih.gov/health/publications/depression
 * https://www.hopkinsmedicine.org/health/conditions-and-diseases/major-depression
@@ -25,29 +49,29 @@ People like me tend to give advice. Example: How to stop ruminating:
 * https://www.perplexity.ai/search/primary-methods-to-counter-dep-ZQgQYZYZRKe0MZlIIOFoaw
 
 
->>As much as I enjoy reading your messages, 
+>>As much as I enjoy reading your messages,
 
 Nice to hear!
 
 >>mine are probably too dark.
 
-Interesting point. Thinking out loud: Perhaps, am I here because your messages are so dark? Would I be messaging you if your messages were all jolly? Who knows? 
+Interesting point. Thinking out loud: Perhaps, am I here because your messages are so dark? Would I be messaging you if your messages were all jolly? Who knows?
 
 We are living in the moment. And messages seem to just happen.
 
->>Right now, I have a sense of being abandoned.  
+>>Right now, I have a sense of being abandoned.
 
-By whom? Peer? It seems to me that he abandoned ship long ago. 
+By whom? Peer? It seems to me that he abandoned ship long ago.
 
 My theory: The only person who can abandon you — is you
 
 >>Perhaps it is my fault.
 
-Yes, depression takes you down deep dark passages, and you can blame yourself for taking yourself, while ruminating, into even deeper darker places. 
+Yes, depression takes you down deep dark passages, and you can blame yourself for taking yourself, while ruminating, into even deeper darker places.
 
 We have to live with the choices we make, so make good choices.
 
-Did I really say that? If you are depressed, the choices are mostly not good ones. And there's nothing you can do about it. 
+Did I really say that? If you are depressed, the choices are mostly not good ones. And there's nothing you can do about it.
 
 But if you do get a chance to make a good choice, it's pretty straightforward: ask people for help.
 
@@ -73,7 +97,7 @@ I hear you. If I were in your situation, I would be beside myself. A past that t
 
 It's not easy to reconcile your position with mine. In recent months, I have been telling people that I have been the most at ease with my life I as I have ever been. (This does not make my life easy, pain free or even simple. It's just a state of mind.)
 
-Anyway, I am reading your message and considering it. I try to not offer advice. I think advice that is given because it has been asked for can be genuine. Unasked for advice that is given freely says more about the advisor than the advisee. So, I just do my best in my messages to you to observe and comment. 
+Anyway, I am reading your message and considering it. I try to not offer advice. I think advice that is given because it has been asked for can be genuine. Unasked for advice that is given freely says more about the advisor than the advisee. So, I just do my best in my messages to you to observe and comment.
 
 And adding comment is critical I think. I ain't no shrink. It's not about "tell me more". I write to you because I find the dialog challenging. And the challenge is to read your words very carefully and the come up with observations that are meaningful and resonates with you.
 
@@ -92,7 +116,7 @@ Would it not be somehow possible to reverse the scenarios??
 Past: Peer was great and then he lost it.
 Future: Phyllis was lost and found again
 
-I offer these words not as a cure or a fix but only as a possible nudge. 
+I offer these words not as a cure or a fix but only as a possible nudge.
 
 ***
 
@@ -100,12 +124,12 @@ I think I've had too much to drink. Because:
 
 All of this brings up a vision:
 
-We are in a tennis match. 
+We are in a tennis match.
 
-The tennis ball is volleyed back and forth between: 
+The tennis ball is volleyed back and forth between:
 
 * The Court of Despair
-* and the Court of Joy 
+* and the Court of Joy
 
 
 
@@ -134,7 +158,7 @@ You are grieving for your late husband. And that's a real problem. At the same t
 
 >>To lose a partner this way is far worse than you can imagine.
 
-Holding a child who is beside herself or injured or even merely "misbehaving" can bang on your brain very hard. My uncle was killed in WWII and my grandparents never fully recovered. 
+Holding a child who is beside herself or injured or even merely "misbehaving" can bang on your brain very hard. My uncle was killed in WWII and my grandparents never fully recovered.
 
 Putting it another way, I don't think there is a maximum joy or pain benchmark. We've all been hurt.
 
@@ -146,12 +170,12 @@ Lunch with Laura Burgess. She is a Buddhist "personage" at the San Francisco Zen
 
 Then this afternoon, a bunch of us, including admins, our CEO, layers, consultants, attended the San Francisco Board of Supervisors meeting. The Supervisors voted on our planning permission for our plan to add 23 apartments to the campus. I had two minutes to speak. Looking back on it, I think my words were a bit lightweight. Not to worry, the supervisors voted on a number of different aspects and our side won.
 
-There was a meeting this evening that I wanted to attend, the demo day for a tech incubator. The premises are just a 10-minute walk from here, and I hope to be an advisor, but we got home too late from the meeting for me to be able to do that.  
+There was a meeting this evening that I wanted to attend, the demo day for a tech incubator. The premises are just a 10-minute walk from here, and I hope to be an advisor, but we got home too late from the meeting for me to be able to do that.
 
 
 ## 2025-06-16
 
-Yes, his brain on medications was not normal by any means.  
+Yes, his brain on medications was not normal by any means.
 
 I am suffering from grief and now what seems to be depression, which I know well.  It is difficult for me to write.
 
@@ -159,13 +183,13 @@ Yes, old age is now a challenge that is present.
 
 ***
 
-Today, fingers crossed,  I finally stopped obsessing about writing software and started back on a more normal life. I had two outdoor walks and was more careful about what I ate. I got through a lot of emails, phoned my sister and got a lot of stuff done. 
+Today, fingers crossed,  I finally stopped obsessing about writing software and started back on a more normal life. I had two outdoor walks and was more careful about what I ate. I got through a lot of emails, phoned my sister and got a lot of stuff done.
 
 The trick was that coming upstairs after breakfast was not just about starting automatically to keep on with the things I was doing last night, but to stop, think, prepare and reflect upon what I should be doing today, not just jumping in.
 
 We are in the process of adding some new units to the property and we are seeking planning permission and other matters that need clearing up through the San Francisco Board of Supervisors. Tomorrow I will be appearing before the Board of Supervisors and giving a two or three minute talk. Today I presented my draft to the CEO and the board of directors and they liked what I wrote. ;-)
 
->> I am suffering from grief and now what seems to be depression, which I know well. 
+>> I am suffering from grief and now what seems to be depression, which I know well.
 
 Yes, without people to talk to, it is so easy fall into difficult moods. Having people to talk to, even strangers, is so helpful. It often starts with finding the motivation to get out of the house, but even that can be hard. Does binge-watching help?
 
@@ -185,19 +209,19 @@ Happy Father's Day to you.
 
 ***
 
-My day was a bit unusual. I text chatted with my daughters. My friend Vish Ratnaswamy joined me for the Father's Day celebration in the dining room. He is a Caltech graduate in his 30s. Smart but conflicted. Among other things, for several years he has been teaching foster kids math and science. He applied for a grant from Caltech and just received $65,000 to fulfill his dream of doing something more long-term and constructive with the kids he is helping. We talked about how to maximize the benefits. How to create long-term solutions that go beyond this sum of money. After lunch, I had to go to the bank, and then after, we stopped at my favorite French cheese store and had three cheeses and a glass of wine. 
+My day was a bit unusual. I text chatted with my daughters. My friend Vish Ratnaswamy joined me for the Father's Day celebration in the dining room. He is a Caltech graduate in his 30s. Smart but conflicted. Among other things, for several years he has been teaching foster kids math and science. He applied for a grant from Caltech and just received $65,000 to fulfill his dream of doing something more long-term and constructive with the kids he is helping. We talked about how to maximize the benefits. How to create long-term solutions that go beyond this sum of money. After lunch, I had to go to the bank, and then after, we stopped at my favorite French cheese store and had three cheeses and a glass of wine.
 
-Then I came home and had a nap. 
+Then I came home and had a nap.
 
 >>  He lived in his imaginary life with a transplant.
 
-I can quite believe this. And I can believe sometimes he would feel that life would be beautiful afterwards, and then sometimes he would feel that "this is the way I will die." and all of this compounded by what happens to a brain that's on serious medications.  
+I can quite believe this. And I can believe sometimes he would feel that life would be beautiful afterwards, and then sometimes he would feel that "this is the way I will die." and all of this compounded by what happens to a brain that's on serious medications.
 
 >> Loneliness and rumination led to tears again
 
 Old age and solitude do not mix well. Study after study — will tell just you what you already know.
 
-My solution was to find a group of people to live with. I now have 75 friends, and I always will, if any of them died, they get replaced. 
+My solution was to find a group of people to live with. I now have 75 friends, and I always will, if any of them died, they get replaced.
 
 
 
@@ -205,32 +229,32 @@ My solution was to find a group of people to live with. I now have 75 friends, a
 
 At least I had a $400 gift card from AT&T and some cash.  The other MacBook Air essentially died.
 
-Today is full of tears and sadness.  I have Peer's glasses and wallet on his bureau.  He will of course not need them.  
+Today is full of tears and sadness.  I have Peer's glasses and wallet on his bureau.  He will of course not need them.
 
 Theo, it is too easy to argue with the person you love.  The pettiness I sometimes displayed upsets me when I remember.
 
-So-I do hope that you are having a good day.  
+So-I do hope that you are having a good day.
 
 ***
 
 Hi Phyllis
 
 
->> I have Peer's glasses and wallet on his bureau. He will of course not need them.  
+>> I have Peer's glasses and wallet on his bureau. He will of course not need them.
 
 Ah, yes, the reminders. What to do about all the reminders? The clothes in the closet, the papers in the drawers, a favorite snack hidden in a drawer.
 
-Do you have two bedrooms? Could you take in a roommate? And then you'd have to clean up the whole place, which would take care of much of the reminders. 
+Do you have two bedrooms? Could you take in a roommate? And then you'd have to clean up the whole place, which would take care of much of the reminders.
 
 ***
 
-I had a curious day. In the morning, working on AI. 
+I had a curious day. In the morning, working on AI.
 
-In the afternoon, I went to an assisted living place for the 90th birthday of a person of a friend He has dementia and it's very difficult. Even sillier, his daughter is on the wagon, so there was no booze there. And the food was full of carbs and sugars and things, and not terribly good for me, even though it was too delicious. 
+In the afternoon, I went to an assisted living place for the 90th birthday of a person of a friend He has dementia and it's very difficult. Even sillier, his daughter is on the wagon, so there was no booze there. And the food was full of carbs and sugars and things, and not terribly good for me, even though it was too delicious.
 
 ***
 
-But the good thing was that this evening I walked about two miles. 
+But the good thing was that this evening I walked about two miles.
 
 
 
@@ -249,18 +273,18 @@ Hi Phyllis
 
 Bravo! The people I live with, mostly women who are in their 90s or 100s and who are competent, all are daily computer users.
 
-Most of them say they hate computers. Nonetheless, they can't stop playing solitaire. 
+Most of them say they hate computers. Nonetheless, they can't stop playing solitaire.
 
-For me, a computer is almost like a magic wand. I can make a computer make almost anything happen. 
+For me, a computer is almost like a magic wand. I can make a computer make almost anything happen.
 
-By the way, I also just bought a computer today. A second-hand, renewed iPad for $150 including tax from Amazon. I am not an Apple user, but I am building a website for residents and many residents are Apple users. So I better be able to have a system where I can test the website I'm making and to see if it works on Apple products. 
+By the way, I also just bought a computer today. A second-hand, renewed iPad for $150 including tax from Amazon. I am not an Apple user, but I am building a website for residents and many residents are Apple users. So I better be able to have a system where I can test the website I'm making and to see if it works on Apple products.
 
 Cheers,
 
 Theo
 
 
-  
+
 
 
 ## 2025-06-11
@@ -271,13 +295,13 @@ I hope you had a good chat with the counselor in Minnesota and gained a better u
 
 And the past is what it is, immutable apart from our acceptance and understanding of it.
 
-My daughter Cynthia returned from France last night. She took part in her aunt's 80th birthday and is staying a couple of nights, cat-sitting in our cousin's place in Oakland. 
+My daughter Cynthia returned from France last night. She took part in her aunt's 80th birthday and is staying a couple of nights, cat-sitting in our cousin's place in Oakland.
 
-She came over for dinner tonight and we met at Green's restaurant in Fort Mason, the vegetarian restaurant. We had a lovely meal and even better conversation. 
+She came over for dinner tonight and we met at Green's restaurant in Fort Mason, the vegetarian restaurant. We had a lovely meal and even better conversation.
 
 One issue of discussion was particularly interesting. I'm finding that there are new ways of writing software with AI. I'm using the new, but I don't yet know how to explain what I'm doing. It's so strange or wrong or whacky that I can't find the words to explain this strange abstraction that is occurring. It's like using buildings to create blueprints. Or poems to create math equations.  
 
-Anyway, I'm obsessed over all this stuff. And I think it's kind of wonderful that I can be 78 and obsessed about anything. 
+Anyway, I'm obsessed over all this stuff. And I think it's kind of wonderful that I can be 78 and obsessed about anything.
 
 Cheers,
 
@@ -310,11 +334,11 @@ Extensive career
 
 I've seen him. "Batman" and "Around the world in 80 days."
 
-But he doesn't ring a bell in my brain. But from the Wikipedia entry, it looks like he was an interesting person. After all, he was involved with remote control airplane drones. What is the war thing of the day. 
+But he doesn't ring a bell in my brain. But from the Wikipedia entry, it looks like he was an interesting person. After all, he was involved with remote control airplane drones. What is the war thing of the day.
 
-Anyway, the main thing with me is that I don't really go to movies anymore. 
+Anyway, the main thing with me is that I don't really go to movies anymore.
 
-Why should I be sitting silently next to somebody I would rather be talking to? 
+Why should I be sitting silently next to somebody I would rather be talking to?
 
 >>I will explain how odd it seems that Peer is gone.
 
@@ -322,7 +346,7 @@ He is not gone. You brain is full of living thoughts about him. Deep down your b
 
 For all intents and purposes, my mother is still alive in my brain, but actually she died in a car accident in 1983.
 
-And that's what I'm finding with all the people that have died since I moved into my wrinkly home. As much as possible, treat people as if they're still living. It can't hurt you. It's not likely to bother them. 
+And that's what I'm finding with all the people that have died since I moved into my wrinkly home. As much as possible, treat people as if they're still living. It can't hurt you. It's not likely to bother them.
 
 
 
@@ -364,9 +388,9 @@ I've learned to live by myself - and to enjoy it. But it took me forever to lear
 
 Of course it helps having 75 people living in my house along with 70 or so staff. And everybody is on a first name basis. And if any goes, they get replaced. ;-)
 
->> I am also mentally tired from all.  
+>> I am also mentally tired from all.
 
-I hear you. Living the same scenes over and over again is toatally draining and wearisome. 
+I hear you. Living the same scenes over and over again is toatally draining and wearisome.
 
 Have you figured out what stage you are in?
 
@@ -374,7 +398,7 @@ https://en.wikipedia.org/wiki/Five_stages_of_grief
 
 >> What do you do when you program?
 
-;-) 
+;-)
 
 It's like asking a chef, "what do you cook?"
 
@@ -387,15 +411,15 @@ https://www.ladybug.tools/spider-gbxml-tools/spider-gbxml-viewer/v-0-17-08/app-v
 
 ## 2025-06-07 2
 
->> It's not easy or clear, 
+>> It's not easy or clear,
 
 I hear you. Some days are better. Some days are worse.
 
-It's no way the same thing, but I also had a better and worse day, and I'm not sure which it was. 
+It's no way the same thing, but I also had a better and worse day, and I'm not sure which it was.
 
-There's a part of the software I'm working on that is quite complex. I just tonight realized that there is a much simpler way of handling things. The realization happened after working on the complicated way for weeks. And a part of this code has been lurking in my software, perhaps, for years. 
+There's a part of the software I'm working on that is quite complex. I just tonight realized that there is a much simpler way of handling things. The realization happened after working on the complicated way for weeks. And a part of this code has been lurking in my software, perhaps, for years.
 
-Now, should I be angry with myself for having spent so many months and hours doing the wrong thing? Or should I be totally pleased with myself for finding the right thing? 
+Now, should I be angry with myself for having spent so many months and hours doing the wrong thing? Or should I be totally pleased with myself for finding the right thing?
 
 Well, I won't try the new easy way until tomorrow. Maybe it it will have complications too. Anyway, the questions remains: how did I allow my brain to play such a trick on me?
 
@@ -410,24 +434,24 @@ A most positive and forward-thinking thought! Let that search begin.
 
 ## 2025-06-06
 
-You are being very quiet. I would like to be able to say "I hope you're doing okay", but I'm sure that's not actually the way things are for you today. 
+You are being very quiet. I would like to be able to say "I hope you're doing okay", but I'm sure that's not actually the way things are for you today.
 
-I'm at a bit of a loss as to what to say or do. In the past, I've been talking about my day and things that I'm doing and thinking about. But that doesn't seem to be fair or equal if the things I'm doing are any fun, which in my life they are. 
+I'm at a bit of a loss as to what to say or do. In the past, I've been talking about my day and things that I'm doing and thinking about. But that doesn't seem to be fair or equal if the things I'm doing are any fun, which in my life they are.
 
-This is so hard. 
+This is so hard.
 
 For you, of course, for me on how to be helpful or useful.
 
-I do hope that you have been getting out, getting some fresh air, and have been to Avenidas. and I hope that you have some plans for the weekend. 
+I do hope that you have been getting out, getting some fresh air, and have been to Avenidas. and I hope that you have some plans for the weekend.
 
-And did you know that today was National Donut Day? And that our dining room had a zillion donuts. And me trying to avoid carbs and sugars and lose weight and things like that consumed a scrumptious diet-busting artisan donut covered in a maple syrup glaze. 
+And did you know that today was National Donut Day? And that our dining room had a zillion donuts. And me trying to avoid carbs and sugars and lose weight and things like that consumed a scrumptious diet-busting artisan donut covered in a maple syrup glaze.
 
 
 ## 2025-06-05
 
-So today I did a lot of programming. Though I did do some admin in the morning. 
+So today I did a lot of programming. Though I did do some admin in the morning.
 
-The nice thing was that I overdrew my bank account. I haven't done this for years, and it wasn't much. So the easiest thing to do was to go to the bank, take some money out from a credit card and pay it into the checking account. 
+The nice thing was that I overdrew my bank account. I haven't done this for years, and it wasn't much. So the easiest thing to do was to go to the bank, take some money out from a credit card and pay it into the checking account.
 
 Well, one of my quite elderly fellow residents here has had a stroke and now he gets around by an electric wheelchair. I invited him to come along with me on the walk down to the bank. To my surprise, he agreed. and he had a lovely time getting out of the house.
 
@@ -435,29 +459,29 @@ Well, one of my quite elderly fellow residents here has had a stroke and now he 
 
 ## 2025-06-04
 
-I'm thinking that grieving must be very, very hard. It's been decades since I've lost anybody close. My wife and I split up around 25 years ago, but we've been on reasonably good terms with each other ever since. 
+I'm thinking that grieving must be very, very hard. It's been decades since I've lost anybody close. My wife and I split up around 25 years ago, but we've been on reasonably good terms with each other ever since.
 
 So there you are, stuck with all these thoughts, and there's nothing, zero, nada you can do about the circumstances that happened that is causing those thoughts.
 
-What I am very familiar with, however, is ruminating over the same thoughts over and over again. 
+What I am very familiar with, however, is ruminating over the same thoughts over and over again.
 
 I spent much of my teens and twenties ruminating and being depressed and being lonely and not knowing what to do about it.
 
-I'm trying to think of something that would be helpful to say, but all I can say is I've been there. 
+I'm trying to think of something that would be helpful to say, but all I can say is I've been there.
 
-Actually, I guess I could also add that I'm no longer there. But even then, I do understand that while you're down, you never know how you're not going to be down. 
+Actually, I guess I could also add that I'm no longer there. But even then, I do understand that while you're down, you never know how you're not going to be down.
 
-And even more bizarre since I live with a lot of old people. Guess what? Death happens quite frequently. On average, 10% of us die every year and there are 75 people living here. Of course, it's not anybody like a spouse, but nonetheless, people that you know and are very fond of. 
+And even more bizarre since I live with a lot of old people. Guess what? Death happens quite frequently. On average, 10% of us die every year and there are 75 people living here. Of course, it's not anybody like a spouse, but nonetheless, people that you know and are very fond of.
 
-So I think one way I process it is that in my brain, they're still alive. I could eat something and say, "Oh, that's what Eleanor likes." or walk past a restaurant that is Bernie's favorite. Something like: what is remembered lives. 
+So I think one way I process it is that in my brain, they're still alive. I could eat something and say, "Oh, that's what Eleanor likes." or walk past a restaurant that is Bernie's favorite. Something like: what is remembered lives.
 
-I think the main thing is having things to do, places to go, and most important, people to talk to. 
+I think the main thing is having things to do, places to go, and most important, people to talk to.
 
-One of my favorite things to do when I'm lonely is to go to a bar and sit at the bar. Unlike most bars around the world, in an American bar, if you're sitting, you can talk to the person next to you. It took me a long time to figure it out and to overcome my inability to talk to strangers. 
+One of my favorite things to do when I'm lonely is to go to a bar and sit at the bar. Unlike most bars around the world, in an American bar, if you're sitting, you can talk to the person next to you. It took me a long time to figure it out and to overcome my inability to talk to strangers.
 
 And, BTW, bartenders are like free analysts.
 
-But now you could drop me in almost any American city, and by the end of the evening, I would have a nice new friend. 
+But now you could drop me in almost any American city, and by the end of the evening, I would have a nice new friend.
 
 I'm just saying, because it took a hell of a long time to get there. ;-)
 
@@ -467,15 +491,15 @@ I'm just saying, because it took a hell of a long time to get there. ;-)
 
 ## 2025-06-03
 
-There are 75 residents here. Probably at least 30 of them have hearing loss issues. Remember, the average age is over 90. 
+There are 75 residents here. Probably at least 30 of them have hearing loss issues. Remember, the average age is over 90.
 
-Today we had a woman come in and conduct a hearing loss support group meeting. As far as I'm concerned, she was a total loss, a wipeout, a fail. She actually knew almost nothing about the clinical condition of hearing or the technology tools available. All she wanted was people to talk about their hearing loss issues. 
+Today we had a woman come in and conduct a hearing loss support group meeting. As far as I'm concerned, she was a total loss, a wipeout, a fail. She actually knew almost nothing about the clinical condition of hearing or the technology tools available. All she wanted was people to talk about their hearing loss issues.
 
-I am conflicted. We could have had dozens of people here, but I'm glad they didn't come. They would have learned nothing.But that is speaking with the the bias of a being a comparatively younger "techie". 
+I am conflicted. We could have had dozens of people here, but I'm glad they didn't come. They would have learned nothing.But that is speaking with the the bias of a being a comparatively younger "techie".
 
-On the other hand, these people have allowed themselves to go deaf without seeking help. What she was offering was an opportunity to discuss the personal issues of hearing loss. Not my cup of tea, but what certainly a number of my fellow residents should be considering. 
+On the other hand, these people have allowed themselves to go deaf without seeking help. What she was offering was an opportunity to discuss the personal issues of hearing loss. Not my cup of tea, but what certainly a number of my fellow residents should be considering.
 
-How do these people allow themselves to be difficult to communicate with when there are readily available tools to help them? 
+How do these people allow themselves to be difficult to communicate with when there are readily available tools to help them?
 
 ***
 
@@ -489,29 +513,29 @@ How about a San Francisco visit next Monday or Tuesday? Or possibly Thursday?
 
 ## 2025-05-27
 
-Were you able to get to Avenidas today? I hope so. 
+Were you able to get to Avenidas today? I hope so.
 
-What do you like to do when you're there? 
+What do you like to do when you're there?
 
 ***
 
-I'm always amazed at the brain. Thoughts just keep coming in, day in and day out, year in and year out. You can't stop them. They are incessant. And you have little or no control over them. 
+I'm always amazed at the brain. Thoughts just keep coming in, day in and day out, year in and year out. You can't stop them. They are incessant. And you have little or no control over them.
 
-Well, I have learned that if a bad thought comes into your brain, you can tell it to go away. Not always, of course. 
+Well, I have learned that if a bad thought comes into your brain, you can tell it to go away. Not always, of course.
 
-The result is that, for me anyway, every day is different. Even if I stick to a schedule, every day is not quite the same as the day before. 
+The result is that, for me anyway, every day is different. Even if I stick to a schedule, every day is not quite the same as the day before.
 
-Anyway, today was rather nice for me. I caught up on email and sent out several emails of introduction, one of which has already worked. Connecting people always feels satisfying. 
+Anyway, today was rather nice for me. I caught up on email and sent out several emails of introduction, one of which has already worked. Connecting people always feels satisfying.
 
-I also completed, or fixed, or kind of finalized the program that I'm working on. and installed it on a bunch of websites and they seem to be working. 
+I also completed, or fixed, or kind of finalized the program that I'm working on. and installed it on a bunch of websites and they seem to be working.
 
-and I've just finished doing my 5,000 steps which even included two little short trips outdoors. and I didn't eat too much, so the weight should be good when I check in the morning. 
+and I've just finished doing my 5,000 steps which even included two little short trips outdoors. and I didn't eat too much, so the weight should be good when I check in the morning.
 
-I think I check or record or keep track of a bunch of little things in my life. And so it's always possible to find some happiness somewhere in what I did during the day. 
+I think I check or record or keep track of a bunch of little things in my life. And so it's always possible to find some happiness somewhere in what I did during the day.
 
-And maybe that's part of a little sort of life rules thing that I like to think about: Look for something beautiful. 
+And maybe that's part of a little sort of life rules thing that I like to think about: Look for something beautiful.
 
-I hope your day went well. 
+I hope your day went well.
 
 
 
@@ -528,9 +552,9 @@ I live with 75 others and have three meals a day with them. And almost as many s
 
 Nonetheless, there's nobody here I can talk to about linear algebra, JavaScript, artificial intelligence, and other STEM topics.
 
-There are very few that could talk about economics, political science, historiography, medicine and in any depth. 
+There are very few that could talk about economics, political science, historiography, medicine and in any depth.
 
-Of course I do have these online, but there's nothing better than a good face-to-face discussion that can go on for hours, floating from topic to topic, with somebody who knows what they're talking about. 
+Of course I do have these online, but there's nothing better than a good face-to-face discussion that can go on for hours, floating from topic to topic, with somebody who knows what they're talking about.
 
 So it goes
 

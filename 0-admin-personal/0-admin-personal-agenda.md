@@ -3,7 +3,10 @@
 * ?
 * A: toothpicks
 * A: thin erasable pens
-* A: 22" Monotor?
+* A: 22" Monitor?
+
+More
+
 * Journey: reverse seat ~ review ~ 800 958 8324
 * Dog Tags?
 * Tom King book 2

@@ -2,9 +2,9 @@
 
 ## First impressions
 
-Given the name and what I see on "Forget Mer Not"
+Given the name and what I see on "Forget Mr Not"
 
-* The target audience (client) is is a son or daughter or a very close relative or friend of a special person 
+* The target audience (client) is is a son or daughter or a very close relative or friend of a special person
 * Given the name "Grief Tech" the special person (subject) has recently died or is about to die.
 
 ## Observations
@@ -32,7 +32,3 @@ Given the name and what I see on "Forget Mer Not"
 * Data can be collected from a variety of available sources including:
 * AI can speed up, simplify, and reduce the cost of the process of creating a replica.
 * The process of creating a replica can be instrumental in progressing  grieving transitions process.
-
-
-
-
