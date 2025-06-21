@@ -11,7 +11,7 @@
 * +++
 * Dan T: Karen ~ nytimes / avatar
 * HH: June ~ Jane
-* Scan Jan
+* Scan Jane's photos
 
 more
 
