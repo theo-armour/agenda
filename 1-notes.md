@@ -11,7 +11,7 @@ BoD interview questions from residents&nbsp;
 [https://www.linkedin.com/in/theoa/](https://www.linkedin.com/in/theoa/)
 
 [https://pushme-pullyou.github.io/tootoo-2025/](https://pushme-pullyou.github.io/tootoo-2025/)
-
+%
 Kay's friend Tony knows western artists
 Priest mother's Day
 Bob [bbardell@comcast.net](mailto:bbardell@comcast.net)
