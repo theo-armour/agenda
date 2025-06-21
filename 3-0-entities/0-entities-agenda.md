@@ -3,13 +3,13 @@
 ## Agenda
 
 * ?
+* Dan T: Karen ~ nytimes / avatar
 * F: application
 * NV:
 * Leading Age: Join CA
 * Spider
-* Dan T: Karen ~ nytimes / avatar
 * SF heritage: donation
-* GBXML
+
 * Kayakomat
 
 ## Maybe

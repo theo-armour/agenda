@@ -4,6 +4,11 @@
 
 * Personal productivity software and tools
 
+Agendas
+
+* vscode
+* vscode extensions
+
 ## Agenda
 
 * ?
@@ -13,8 +18,8 @@
 * Securest place for files
 * PC manager
 * Fin Win Utils
-* Upgrade to bc5  
-* <a href="https://markdown-it.github.io/">https://markdown-it.github.io/</a> could be better than showdown ~&nbsp;let's explore it  
+* Upgrade to bc5
+* <a href="https://markdown-it.github.io/">https://markdown-it.github.io/</a> could be better than showdown ~&nbsp;let's explore it
 * <a href="https://meco.app/?utm_campaign=39ye">https://meco.app/?utm_campaign=39ye</a>
 * Want: instant dictation
 * TL;DV?

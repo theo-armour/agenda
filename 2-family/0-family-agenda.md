@@ -1,5 +1,6 @@
 # Family Agenda
 
+* Peyton & Carter
 * Alix P
 * Allison
 * PLE: Ronan ~ calendar
@@ -14,7 +15,7 @@
 
 ## Agenda
 
-* Peyton: hello theater
+
 * Rob & Peyton: Suno &; Kaiber / frank?
 * Alex: Perry's?
 * Bennet: HotM

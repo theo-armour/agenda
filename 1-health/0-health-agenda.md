@@ -1,5 +1,7 @@
 # 1.0 Health Agenda Read Me
 
+* Claire: coaches + article
+* Lauren: appointment?
 * TDT Vaccine appointment
 * PPH: Speech Therapy order
 * Describe PT need

@@ -1,6 +1,8 @@
 # Heritage Happenings Agenda
 
-## Agenda Open
+* Breakout agendas
+
+## Agenda
 
 * https://news.ycombinator.com/item?id=44299354 ~ hamburder menu
 * Create HH blog

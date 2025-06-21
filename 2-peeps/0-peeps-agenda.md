@@ -11,24 +11,23 @@
 * Krea: Liam ~ Absolom??
 * Nancy Pelosi ~ (415) 556-4862
 * John Choate: wall image ~ PGE no public ros ~ planter
-* Hector
+* Hector G
+* Bebo & Ron
 * Olga:
 * Jason Carman
-* Ann Seymour
-* Mike Warner
 * domimicbookbinder@gmail.com
-* Bebo & Ron
+* Jose Leos * Rob Leslie
 
 ## Peeps
 
+* Ann Seymour
+* Mike Warner
 * Shammah
 * Omar Woodworth
-* Jose Leos
 * Terrence Deacon
 * Doug Dwyer
 * George Dicke?
 * Michael Howard: Doom?
-* 2am
 * Cookie ~ bird?
 * Tim Lattimore
 * Christine &amp; Pam
@@ -38,20 +37,17 @@
 * Christine&nbsp;<a href="https://www.freefuse.com/">https://www.freefuse.com/</a>
 * Pam Choy ~ Niantic maps ~ sketchfab ~ Brilliant labs!!
 * Ashley Emory
-* Shammah: thanksgiving
-* Aaron
 * Tom Magowan
 * Santani
 * Blick
 * Manfred
 * Visit the doyles with Jane
-* Fred &amp; Laon Burke: lunch invite
+* Fred & Laon Burke: lunch invite
 * Ronan: DWA policies
 * Vish: iqLand: building codes ~ pdf AI
 * Quentin
 * Myint: thanks + photos + JW BL
 * Tu Phone ~ copilot
-* Jason Carman
 * Ashley Emory
 * Jerome: dorkbot ~ art scene ~ mushroom drink
 * Sherry ~ email ~ mexsp

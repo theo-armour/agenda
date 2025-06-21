@@ -2,14 +2,16 @@
 
 ## Agenda
 
-* I need help
-  * Direct, in-person, physical help
-  * Three x one hour sessions a quarter
-  * Mia?
 * Gdrive
   * Draft a strategy
   * Videos to YouTube
   * ace-it@gmail.com
+* I need help
+  * Direct, in-person, physical help
+  * Three x one hour sessions a quarter
+  * Mia?
+More
+
 * ICE: ms365
 * Alix: shipper
 * Alix: storage lady

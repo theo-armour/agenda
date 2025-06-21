@@ -7,7 +7,9 @@
 
 ## Agenda
 
+* Breakout into separate departments
 * CTO: my donations
+* Martha: Lauren?
 * MarthaN: medications message draft
 * Better microphone for Friendship Hall
 * Heritage: triage

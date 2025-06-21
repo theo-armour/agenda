@@ -6,3 +6,10 @@ Director Platform
 * Strategic Plan ~ architecture experience
 * Two way reporting#experience
 * BoD past ~ sec RCResidents Council
+
+Agendas?
+
+* Board
+* National Trust
+* Wikipedia
+* Strategic Plan

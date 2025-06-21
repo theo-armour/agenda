@@ -11,18 +11,20 @@
 * +++
 * Dan T: Karen ~ nytimes / avatar
 * HH: June ~ Jane
-* Trash out
 * Scan Jane's photos
+* Set up razor
 
 more
 
 * +++
-
-* Jay & Doris: Bday cards
+* Donna: Sherrill
+* Aaron ~ Vish
+* GBXML
 
 ## Whenever
 
 * +++
+* Rebuttal post to throe out all your lists substack post
 * HH Dining service ~ Drawing of the month
 * Display: pack up
 * Cynthia M
