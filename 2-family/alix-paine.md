@@ -5,6 +5,33 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-06-21
+
+Hi Alix
+
+And just like that, the question is, "Are we at war or are we not at war?"
+
+And I ask that question sitting in front of my same regular desk with my same regular computers. The world is getting worse and worse and yet here I am as happy and as comfy as ever. It makes no sense. Of course, asking the world to make any sense is nonsense. So it goes.
+
+Anyway, this day went quite well. Except on this wonderful longest day of th year, I did not party. At least I did have two good outdoor walks and did my 5,000 steps.
+
+One of the things about my life, is that I like to keep track of things. Thus I maintain extensive lists of things to do. {Perhaps, this is a counterpoint to  childhood which I remember as being intensely boring because there was nothing to do.}
+
+So when, I copy paste a good amount of stuff from the do list over to the done list, I am happy. Maybe, I've never been so happy and so at ease because I have finally reached peak to do list. ;-)
+
+Actually, what happened today is that I finally started using the new version of the way I manage my to do lists. And it seems to be working. And even better, I seem to be discovering tricks I can do with it that I had not actually designed the framework to do. It's sort of like discovering a new aspect of your personality that you never knew you had. Well, that's stretching it a bit.
+
+I will write more about my task hoarding habit another time, because what I want to share is this wonderful article:
+
+I Deleted My Second Brain
+Why I Erased 10,000 Notes, 7 Years of Ideas, and Every Thought I Tried to Save
+
+https://medium.com/westenberg/i-deleted-my-second-brain-b7a65bce3717?sk=v2%2F28b6a08d-b7ef-4ca2-ae2e-185a1c9a530e
+
+The enthusiasm, the boldness, the logic, the clarity of her writing quite enthralls me.
+
+Nonetheless I am no Joan Westenberg. And I am planning to write a counterpoint piece. It is not done yet, however, because the list of counterpoints just keeps growing.
+
 
 ## 2025-06-20 23:09
 
@@ -40,12 +67,6 @@ My advice to him was to stop being a salaryman and go help his brother build an 
 
 He has been trying to learn how to live a hardscrabble life by himself. My advice to work with this brother and build something amazing seemed to resonate.
 
-
-
-
-
-
-
 ## 2025-06-19
 
 Hi Alix
@@ -80,18 +101,6 @@ The other is talking to an imaginary person (you in a sense in relation to me) w
 Therefore: I do not "need" a response from you for any of my messages.
 
 You have let me know that you can read my messages and that they are not just going into the "ether". And that is good enough for me.
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 2025-06-18
 
@@ -138,8 +147,6 @@ The trick was that coming upstairs after breakfast was not just about starting a
 
 We are in the process of adding some new units to the property and we are seeking planning permission and other matters that need clearing up through the San Francisco Board of Supervisors. Tomorrow I will be appearing before the Board of Supervisors and giving a two or three minute talk. Today I presented my draft to the CEO and the board of directors and they liked what I wrote. ;-)
 
-
-
 ## 2025-06-15
 
 
@@ -152,8 +159,6 @@ Then I came home and had a nap.
 Cheers,
 
 Theo
-
-
 
 ## 2025-06-14
 
@@ -189,14 +194,11 @@ I will be seeing Stephen again next week. I've been asked to speak at the Board 
 
 I don't think I've ever before been as connected to my local political landscape as I am here and now.
 
-
 ox ox
-
 
 ## 2025-06-11
 
 Hi Alix
-
 
 And the past is what it is, immutable apart from our acceptance and understanding of it.
 
@@ -231,10 +233,6 @@ ox ox
 
 Theo
 
-
-
-
-
 ## 2025-06-10
 
 One of the things I find fascinating is that I can look back on my day and find multiple points in the day that, if I think about it, I could write for pages and pages about it.
@@ -250,8 +248,6 @@ One of my residents down the hall is 101. Her name is Enid. Her son came along w
 The fun thing was that Donna, the wife, is one of the most stunning, beautiful mid-70s women I've ever been in the presence of. Think of a surfer chick grown into an elder classic beauty. Old people's hair that still has tinges of blonde. Wrinkles that smile. A smile that radiates happiness.
 
 It reminds me of what some old Chinese gentleman told me back in Hong Kong a long time ago. When a beautiful woman walks into the room, the room goes calm.
-
-
 
 ## 2025-06-08
 
@@ -269,7 +265,6 @@ And I am thinking of you. You are facing imminent changes. Sometimes clarity. So
 
 Anyway. It's time for me to go and do that thing which is also not really comprehensible - enter the mind-state of a night's sleep. ;-)
 
-
 ## 2025-06-07
 
 Some days are better. Some days are worse.
@@ -282,9 +277,7 @@ Now, should I be angry with myself for having spent so many months and hours doi
 
 Well, I won't try the new easy way until tomorrow. Maybe it it will have complications too. Anyway, the questions remains: how did I allow my brain to play such a trick on me?
 
-
 ## 2025-06-06
-
 
 What would you call it when people spend decades of their lives working on something? For most people, this is probably most evident in the way they evolve and configure their domiciles.
 
@@ -309,7 +302,6 @@ Are my intuitions deceiving me? And/or: even if it all works as advertised, will
 I don't think it makes any difference to Consider if I'll be happier or not. Of course, I will be happy sometimes and unhappy at others.
 
 The skill to develop is an ability to find joy and delight, at least a smidgen, in almost any place or any circumstance.
-
 
 ## 2025-06-05
 
@@ -337,12 +329,6 @@ And it's being a good learning experience for me. and I've been trying to practi
 
 Just exchanging thoughts and feelings and observations day by day.
 
-
-
-
-
-
-
 ## 2025-02-21
 
 After the breakfast the morning after Bennet's wedding, I told Alix that I loved her.
@@ -354,7 +340,6 @@ All my life there has been a person I loved
 And always will be.
 
 So it goes.
-
 
 ## 2025-02-??  My love
 

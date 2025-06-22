@@ -1,8 +1,5 @@
 Notes
 +
-
-
-Carl and Lily Moore
 Today right now is a moment of unbridled happiness!
 Thinking about the future offers more opportunities than thinking about the past.
 You can change the future but it's difficult to change the past.&nbsp;
@@ -25,6 +22,7 @@ How can you love it if you don't know it?
 John G 415 987 8034
 Karl L: the happiest day of my life was the day I bought my boat, the second happiest day was the day I sold my boat
 Lagcardio Hearn Japan
+
 SPS
 Grant, O Lord, that in all the joys of life
 we may never forget to be kind.

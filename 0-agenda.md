@@ -9,14 +9,13 @@
 ## Today
 
 * +++
-* Dan T: Karen ~ nytimes / avatar
 * HH: June ~ Jane
-* Scan Jane's photos
-* Set up razor
 
 more
 
 * +++
+* Karl and Lillemor
+* Patrick: lunch
 * Donna: Sherrill
 * Aaron ~ Vish
 * GBXML
@@ -24,7 +23,7 @@ more
 ## Whenever
 
 * +++
-* Rebuttal post to throe out all your lists substack post
+* Rebuttal post to throw out all your lists substack post
 * HH Dining service ~ Drawing of the month
 * Display: pack up
 * Cynthia M

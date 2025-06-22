@@ -1,5 +1,35 @@
 # Phyllis Wedvick
 
+## 2025-06-21
+
+
+I am awake--I don't sleep well.
+
+When I am at home, I realize how small our home was for both of us.  Peer and I had cute rituals when I made coffee for us in the morning.  We had a slow funny way of being.  Of course we also argued.
+
+What has happened is that the anxiety and fear,  which  used to cause great pain and trouble in my past  are back now.  Very difficult to treat.  Grief is different but produces anxiety also.  I could add PTSD symptoms to the mix or mess.
+
+When I moved to California, I did not adjust well.  Then I began law school at Santa Clara.  Peter suddenly announced that he wanted a divorce.  I will never forget that moment. My reaction was anything but calm.
+
+Tonight I am tired and hope to sleep.
+
+By the way, depression can be disabling.  Many friends that I had made were scared of divorce and not aware of depression and its symptoms.
+
+TIme for sleep.
+
+Phyllis
+
+Living alone again after years of not being alone saddens me.
+
+***
+
+Hi Phyllis
+
+>> Living alone again after years of not being alone saddens me.
+
+Living alone after so many years of living with someone. I cannot think of anything more debilitating, stressful and depressing.
+
+Your grief makes complete sense. You're mourning not just Peer, but a whole way of life.
 
 ## 2025-06-20
 
