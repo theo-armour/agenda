@@ -1,7 +1,28 @@
 # Phyllis Wedvick
 
-## 2025-06-21
+## 2025-06-22
 
+Yes.  i am still in shock.
+
+***
+
+I hear you.
+
+I hear you. My eldest daughter, Alix, had a boyfriend who died just about a year ago. It took a long time for her to recover, but she recovered.
+
+
+***
+
+ I am tired and wish for one night without waking up at 2:30 am.
+
+ ***
+
+ It took me a long time to figure this out: If I wake up at 5:30 in the morning and can't go back to sleep, it's probably because I drank too much the night before and I'm sobering up.
+
+Could there be some kind of medication that you're coming off of at 2:30?
+
+
+## 2025-06-21
 
 I am awake--I don't sleep well.
 

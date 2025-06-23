@@ -4,6 +4,27 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-06-22
+
+Hi Alix
+
+So today I did a lot of work on the Heritage Happenings newsletter. I'm moving from a paper-oriented newsletter to an online email and blogging-oriented newsletter, and I'm having trouble getting everything set up and organized.
+
+I hope that not having to set it up so it fits on a page will simplify and speed up the process of getting the newsletter out. I also like the idea of having links that work and videos and all that good stuff that you can have on the web.
+
+I did get out for one nice walk down Chestnut Street for a glass of rosé with my young friend Aaron. He's leaving this week to go to France to do the Tour de France bicycle ride. He's not in the real thing, but he's in the practice run that occurs the week before the real thing in order to confirm that everything is working properly.
+
+He is having some interesting emotional problems. His brother has made a fortune and is immensely very rich. Aaron has had a boring career in tech and really wants to ride bicycles professionally. The rich brother wants Aaron to get a regular salary job. Hm, I think it will take too long to explain, so I will stop here. Unequal amounts of money leads to inequality or something.
+
+All I know is that if you gave me a billion dollars, I don't think I would move my little monk's chamber. I have lots of people to talk to; I have a neighborhood that's walkable; I have people that I love, and I have lots to do.
+
+What could be better?
+
+Having said that, Makes me remember that I saw my friend Lillimor this afternoon. and what she said took me by surprise and shock. Her husband Karl has got stage four prostate cancer (and I am assuming not long to live), She says that Karl has asked to see **me**.
+
+I wonder why me. Perhaps, because of all the people here, I may be his closest male friend on the campus.
+
+The reason we are friends is that we like to go out for dinner to restaurants in the neighborhood. I think my duty when I see him tomorrow is to say that I will make sure that Lillemor will continue to go out to restaurants.
 
 ## 2025-06-21
 

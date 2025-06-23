@@ -10,16 +10,14 @@
 ## Today
 
 * +++
-* HH: June ~ Jane
+* Donna: Sherrill
+* GBXML
+* Lillemor
 
 more
 
 * +++
-* Karl and Lillemor
-* Patrick: lunch
-* Donna: Sherrill
-* Aaron ~ Vish
-* GBXML
+* Heritage
 
 ## Whenever
 
@@ -31,3 +29,4 @@ more
 * Cynthia M
 * Drew
 * Nancy: <ntrogman@icloud.com>
+* Candy: error?
