@@ -1,16 +1,29 @@
 # Heritage Happenings Agenda
 
-* Breakout agendas
+## Breakout agendas
+
+* Dining
+* Health
+* Country of the Month
+* Books
+* Garden
+* Strategic Plan
+
+## Management
+
 * Committee
 * Style
+
+## More
+
 * Issue-topics
 * documents-historical
 * documents-reference
 
-## Repos
+## Code + Repos
 
-* triage repos
-
+* Delete breadcrumbs
+* Triage repos
 
 ## Agenda
 
@@ -24,17 +37,6 @@
 * Martha: draft letter for clinic from PCO on meds they can provide
 * Maria Church Ombundsman: email?
 * HH: future: I build web pages, somebody else turns them into paper ~ starts January 2026
-
-## June
-
-* [x] Doris ~ Art for elders
-* [x] Focus Group
-* Last of the elevator
-* Soft Opening
-* Food
-* Health topic:
-* Fathers Day
-* Puerto Rico
 
 
 

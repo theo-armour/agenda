@@ -3,6 +3,14 @@
 * https://theo-armour.github.io/agenda/readme.html#2-ace-it/eloise-reference.md
 
 
+## 2025-06-23
+
+Project proposal
+
+* Inclusion of "love of my life" made me smile. Ditto, keeping feet black. Both solid indications of personal investment.
+* Highly detailed targets and metrics: We're not just talking hot air here.
+* Tons of references indicate a willingness to "stand on the shoulders of giants".
+
 ## 2025-02-15
 
 * ICE
@@ -228,4 +236,4 @@ Then death valley! I plan on being there for the last week, and maybe have some 
 
 ## Links of Interest
 
-[https://www.buzzfeed.com/peggy/essential-winter-camping-hacks?utm\_term=.lcK27XPG5#.fuZAqL9d5](https://www.buzzfeed.com/peggy/essential-winter-camping-hacks?utm_term=.lcK27XPG5#.fuZAqL9d5) [https://www.pinterest.com.au/pin/420594052677457800/](https://www.pinterest.com.au/pin/420594052677457800/) [https://www.pinterest.com/pin/186969822003396421](https://www.pinterest.com/pin/186969822003396421) [https://www.blacks.co.uk/blog/2016/07/ultralight-backpackers-cheat-sheet-multipurpose-hiking-gear](https://www.blacks.co.uk/blog/2016/07/ultralight-backpackers-cheat-sheet-multipurpose-hiking-gear)
+[https://www.buzzfeed.com/peggy/essential-winter-camping-hacks?utm\_term=.lcK27XPG5#.fuZAqL9d5](https://www.buzzfeed.com/peggy/essential-winter-camping-hacks?utm_term=.lcK27XPG5#.fuZAqL9d5) [https://www.pinterest.com.au/pin/420594052677457800/](https://www.pinterest.com.au/pin/420594052677457800/) [https://www.pinterest.com/pin/186969822003396421](https://www.pinterest.com/pin/186969822003396421) [https://www.blacks.co.uk/blog/2016/07/ultralight-backpackers-cheat-sheet-multipurpose-hiking-gear](https://www.blacks.co.uk/blog/2016/07/ultralight-backpackers-cheat-sheet-multipurpose-hiking-gea

@@ -1,5 +1,16 @@
 # Phyllis Wedvick
 
+## 2025-06-23
+
+Today I had lunch with two "cousins" and two friends. We were at Perry's Restaurant on Union Street. We started at noon and finished at three. I'm sure we could have talked for hours more, But my legs were getting stiff and it was time to walk. Lots of good chatter about all sorts of things, intermixed with things like hip replacements, battling Lyme disease for 20 years, taking Ozempic, and all sorts of other age-related amusements.
+
+My fellow resident, Carl, it turns out, is suffering from stage 4 prostate cancer and is now at Kaiser Hospital in San Francisco. For some reason, He asked his wife if I could come and visit him. I'm not sure why, but my guess is that since the three of us have  gone out for dinner a number of times, He hopes that we will continue after he is gone, but that is just conjecture.
+
+On a happier note, on my daily walks, I often stop and chat with one of our neighbors. The other day I asked him if he would like to come over to my house for lunch, and he accepted.
+
+I am working on the Heritage Happenings newsletter, which I'm turning from a paper thing into a blog thing. And the first story should go out in the next day or so. I will send you a copy.
+
+
 ## 2025-06-22
 
 Yes.  i am still in shock.
@@ -20,6 +31,10 @@ I hear you. My eldest daughter, Alix, had a boyfriend who died just about a year
  It took me a long time to figure this out: If I wake up at 5:30 in the morning and can't go back to sleep, it's probably because I drank too much the night before and I'm sobering up.
 
 Could there be some kind of medication that you're coming off of at 2:30?
+
+***
+
+No, it's not medication.  Just fear and worry.
 
 
 ## 2025-06-21

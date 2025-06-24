@@ -10,20 +10,22 @@
 ## Today
 
 * +++
-* Donna: Sherrill
-* Sherrill
+* HH: Jane's story > send
+* Sherrill: dates
 
 
 more
 
 * +++
-* Read Eloise's submissions
+* Hmed: Claire reply
+
 
 ## Whenever
 
 * +++
-
-* HH: Jane's story
+* Lillemor & Karl: visit
+* Cookie
+* Jogn Maeck
 * HH: claire PDF
 * Nancy: <ntrogman@icloud.com>
 * Candy: error?
