@@ -11,22 +11,19 @@
 
 * +++
 * Donna: Sherrill
-* GBXML
-* Lillemor
+* Sherrill
+
 
 more
 
 * +++
-* Heritage
+* Read Eloise's submissions
 
 ## Whenever
 
 * +++
-* Laura Burges: Open Socrates?
-* Rebuttal post to throw out all your lists substack post
-* HH Dining service ~ Drawing of the month
-* Display: pack up
-* Cynthia M
-* Drew
+
+* HH: Jane's story
+* HH: claire PDF
 * Nancy: <ntrogman@icloud.com>
 * Candy: error?

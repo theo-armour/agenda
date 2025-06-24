@@ -4,6 +4,7 @@
 * A: toothpicks
 * A: thin erasable pens
 * A: 22" Monitor?
+* new eyeglasses
 
 More
 

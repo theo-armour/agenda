@@ -8,13 +8,11 @@
 ## Agenda
 
 * Breakout into separate departments
-* CTO: my donations
 * Martha: Lauren?
 * MarthaN: medications message draft
 * Better microphone for Friendship Hall
 * Heritage: triage
 * NextDoor: Larry Albukerk
-* Board of Supervisors: 17 June @ 3
 * FO: Calendars
 * French Cheese & Wine tasting
 * BobC: apt
@@ -25,7 +23,6 @@
 * Mary: talk at SacSem?
 * Mary: meeting: apt + HH + Hector
 * Hector: mtgs
-* Jon Casey: Touchtown Czar?
 * SF: Historical Plan
 * Nail Salon on site? Mary will investigate this.
 * Emergency phone numbers
@@ -51,11 +48,7 @@
 ## Staff
 
 * Fee schedule questions
-* Jon Casey: Type C Charges
-* Mary: Type A ~ Appendix H provisions ~ copy me on message to Christine
-* Mary: Type C: particulars
 
-*
 ## Men's Group
 
 * He Men's group: Lord's prayer

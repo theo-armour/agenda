@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* Laura Burges: Open Socrates?
 * Aselia
 * 9am club
 * John Maeck

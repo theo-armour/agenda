@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* Rebuttal post to throw out all your lists substack post
 * https://windsurf.com/
 * Tess: kiosk software
 * Corridor Display: Mohammed
