@@ -3,9 +3,12 @@
 ## Agenda
 
 * ?
-* CTO: my donations
+
+* Tidy desk
+* Brooke: message taxes
 * Pay Pharmerica
 * Display: pack up
+
 
 More
 
@@ -19,10 +22,12 @@ More
 * Job description: need a personal assistant
 * DonnaB: vet Job Description
 * File for admin tips
-
-* Security: set up ms vault all devices?
 * Josh: stocks to children?
 
+## Security
+
+* Lastpass too complicated. Switch
+* Security: set up ms vault all devices?
 
 ## Goodwill
 

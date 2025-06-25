@@ -1,11 +1,12 @@
 # 1.0 Health Agenda Read Me
 
+
+* PPH: Speech Therapy order
+* PPH: Describe PT need
+* PPH: AI critique
 * Claire: coaches + article
 * Lauren: appointment?
 * TDT Vaccine appointment
-* PPH: Speech Therapy order
-* Describe PT need
-* PPH: AI critique
 * UCSF patient advocate
 * Amanda: CVS + PT
 * [https://www.ucsfhealth.org/services/case-management-and-social-work]

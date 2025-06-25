@@ -1,16 +1,17 @@
 # Heritage Health Agenda
 
+
 ## Agenda
 
 * Martha: Pharmerica
-* Pine Parkm Senior Doc, UCSF?
+* Pine Park Senior Doc, UCSF?
 * Stairs: set chairs landing place
 * PPH: review and sign document
 * Chin Appointment
 
 ## 2024-12-23? ~ Martha Nkhoma
 
-* Stairs &amp; Chair Lift Safety Check
+* Stairs & Chair Lift Safety Check
 * Pharamerica Registration
 * POST review with Cynthia on Zoom
 * Heritage Medical forms update

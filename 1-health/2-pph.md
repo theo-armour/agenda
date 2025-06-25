@@ -30,10 +30,11 @@
 * Residency: Stanford Health Care
 
 Dr. Michael Genualdi, originally from New Jersey, is a dedicated physician and advocate for the well-being of older adults. He completed his Internal Medicine residency and Geriatrics fellowship at Stanford University, where he developed a commitment to providing compassionate care. As a Geriatrics and Internal Medicine Board Certified physician, **Dr. Mike’s** mission is to deliver quality-focused, evidence-based, patient-centered care.
+
 ## CEO
 
 * New CEO?
-* George Khasin: <a href="mailto:gkhasin@pineparkhealth.com">gkhasin@pineparkhealth.com</a>
+* George Khasin: gkhasin@pineparkhealth.com
 * <a href="https://www.linkedin.com/in/george-khasin-763b16132/">https://www.linkedin.com/in/george-khasin-763b16132/</a>
 
 ### Gripes
@@ -43,11 +44,12 @@ Dr. Michael Genualdi, originally from New Jersey, is a dedicated physician and a
 * Cannot add a family member
 * Cannot search messages
 * Cannot address a message to PPH and copy a family member
-* Cannot forward a reply from PPH to a family member
+* Cannot forward a reply from PPH to a family member or anybody else
 * Clinical profile is a mess, out of date
-* Communication between PPH and my specialists seems non-existent
+* Not possible to follow status of communications between PPH and my specialists
 * No connection to electronic health record (EHR) systems used by healthcare providers
-* No 
+* Irritating and not appropriate message appears at top of page each time Elation is loaded
+* The most frequent message I receive from Elation is: "Our office will be closed". If PPH supposed to be available 24/7, do you really need to tell me that your office will be closed - an office I will never ever step foot in.
 
 ## Agenda
 
