@@ -3,7 +3,7 @@
 ## Agenda
 
 * Pharmerica ~ get registration number
-* Contact Deltsa Dental  ~ get benefits for codes
+* Contact Delta Dental  ~ get benefits for codes
 
 ## Dental codes for me:
 

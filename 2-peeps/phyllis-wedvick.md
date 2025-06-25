@@ -1,5 +1,10 @@
 # Phyllis Wedvick
 
+## 2025-06-24
+
+Here I am. Reaching out. Saying hello. Wondering how Phyllis is. Wondering if there was any sunshine today.
+
+
 ## 2025-06-23
 
 Today I had lunch with two "cousins" and two friends. We were at Perry's Restaurant on Union Street. We started at noon and finished at three. I'm sure we could have talked for hours more, But my legs were getting stiff and it was time to walk. Lots of good chatter about all sorts of things, intermixed with things like hip replacements, battling Lyme disease for 20 years, taking Ozempic, and all sorts of other age-related amusements.

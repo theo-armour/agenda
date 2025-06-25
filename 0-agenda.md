@@ -10,25 +10,26 @@
 ## Today
 
 * +++
-* Gene Graham
-* SacSem
-* HH: Jane's story > send
-* Sherrill: dates
-* Chase
-
+* Cookie
 
 more
 
 * +++
+* NV: writers group
 * Hmed: Claire reply
-
+* HH: Jane's story > send
+* Lillemor & Karl: visit
+* Carmen Brooke
 
 ## Whenever
 
 * +++
-* Lillemor & Karl: visit
-* Cookie
-* Jogn Maeck
+* Tania
+* Dona
+* Carolyn Kiernat
+* Uber Survey
+* Sherrill: dates
 * HH: claire PDF
 * Nancy: <ntrogman@icloud.com>
 * Candy: error?
+* Cheese tasting

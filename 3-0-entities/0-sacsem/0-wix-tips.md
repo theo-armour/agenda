@@ -14,6 +14,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday, June 27, 2025 at North Beach Restaurant: Bridget Maley of Neighborhoods United on Mayor Lurie's up-zoning plan
 * Friday, June 20, 2025 at North Beach Restaurant: Scott Weiner, State Senator (D-San Francisco/San Mateo)
 * Friday, June 13, 2025 at North Beach Restaurant: Stephen Sherrill, the newest member of San Francisco’s Board of Supervisors, representing District 2
 * Friday, June 6, 2025 at North Beach Restaurant: Jennifer Yan (First Vice Chair) and Jay Donde (Vice Chair of Political Affairs), San Francisco County Republican Central Committee

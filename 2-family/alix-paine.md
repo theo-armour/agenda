@@ -4,6 +4,19 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-06-24
+
+I am swell headed today.
+
+I had forgotten the Heritage on the Marina had a full page ad in the San Francisco Chronicle on Sunday in a special senior living section. Anyway, I found it today. See the attached file,
+
+All the text about the building and Julia Morgan pretty much came from a talk I shared.
+
+
+## 2025-06-23
+
+Copy of what I sent to Phyllis
+
 ## 2025-06-22
 
 Hi Alix
