@@ -11,15 +11,14 @@
 
 * +++
 * Cookie
+* Tax: Carmen Brooke reply
+* Lillemor & Karl: visit
 
 more
 
 * +++
-* NV: writers group
-* Hmed: Claire reply
+
 * HH: Jane's story > send
-* Lillemor & Karl: visit
-* Carmen Brooke
 
 ## Whenever
 
