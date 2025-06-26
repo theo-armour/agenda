@@ -1,6 +1,49 @@
 # Health Journal
 
 
+## 2025-06-26
+
+Me to Office of Amanda Ilag, NP:
+
+Hi Amanda
+
+Please have a look at the attached PDF
+
+Theo
+
+Attachment Icon06/24/20252025-06-24-amanda-elation-gripes.pdf
+Responses
+
+06/26/2025 8:36 am
+Laura Fernandes, PCC:
+
+Thank you for your feedback. It is always appreciated when patients provide helpful and honest feedback that we can use to make effective changes to better serve you all! I will forward this to our team of engineers. Thanks again!
+
+06/26/2025 11:52 am
+Norman Armour:
+
+Laura
+
+Thank you for your reply
+
+Let's see what happens. The team of engineers are a large part of why the PPF online communications portal has issues.
+
+May I also request that you also send my feedback to PPH to marketing and operations?
+
+Theo
+
+
+06/26/2025 11:58 am
+Norman Armour:
+
+Laura
+
+Please also see my previous reply.
+
+I would also appreciate Dr Genualdi and Liz Breen having a look at my PDF.
+
+Theo
+
 ## 2025-05-27
 
 * Ketoconazole Shampoo 2%

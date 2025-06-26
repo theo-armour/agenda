@@ -2,10 +2,13 @@
 
 ## heritage-happenings-sf@gmail.com
 
-* Add email addresses
+* Add email addresses with labels
 * Forwarding
 * Google Calendar
-* Doc: add template
+* G Docs: add template
+* Create Charter
+* Vision Committee
+
 
 ## Management
 

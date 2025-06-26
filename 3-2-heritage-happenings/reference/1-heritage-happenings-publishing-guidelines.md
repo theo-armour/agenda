@@ -79,6 +79,11 @@ Special events text position
 File names should be descriptive and include the date of the publication. For example, `2024-07-29-Heritage-Happenings.docx`.
 * Generally, I prefer naming files so that they are ready for the web, hyphens as word separators, and for to sort by date in a folder. For example, `2024-07-29-heritage-happenings.md`.
 
+## Residents
+
+* In letter salutations, the first and all important words are typically capitalized as a matter of convention and respect.
+* "Residents" is being used as a form of address (like "Dear Students," "Dear Colleagues," or "Dear Parents"), not as a generic noun in the body of the letter.
+* In the body of the letter, you should not capitalize "residents" unless it is the first word of a sentence or part of a proper noun or official title.
 
 ## Tips
 
@@ -98,4 +103,3 @@ Remember to search for and replace double spaces with single spaces.
 ***
 
 <center title="Hello! Click me to go up to the top" ><a class=aDingbat href=javascript:window.scrollTo(0,0);> ❦ </a></center>
-

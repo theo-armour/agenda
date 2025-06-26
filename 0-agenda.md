@@ -13,22 +13,20 @@
 * Cookie
 * Tax: Carmen Brooke reply
 * Lillemor & Karl: visit
+* HH: Jane's story > discuss
+* Donna: Tea Party
 
 more
 
 * +++
 
-* HH: Jane's story > send
+* Update favorites ~ one page only? ~ git ignore
 
 ## Whenever
 
 * +++
 * Tania
-* Donna
 * Carolyn Kiernat
-* Uber Survey
-* Sherrill: dates
-* HH: claire PDF
-* Nancy: <ntrogman@icloud.com>
+* Uber Survey ~ Amazon Survey
 * Candy: error?
 * Cheese tasting

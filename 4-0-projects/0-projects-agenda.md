@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* pdf out extension footer
 * Rebuttal post to throw out all your lists substack post
 * https://windsurf.com/
 * Tess: kiosk software

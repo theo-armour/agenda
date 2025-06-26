@@ -1,10 +1,15 @@
 # June
 
+* Article drafted before the nap
+
 ## Agenda
 
 * Candy: interview doc
 * Trish
-
+* Message to Committee
+* Jane's article
+* Claire: read PDF ~ 5 questions
+* Update PDF footers
 
 
 ## Posts

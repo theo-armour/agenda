@@ -1,6 +1,7 @@
 # Health Agenda Read Me
 
 * Continue the health agenda triage
+* folders for providers ~ supplier ~ agencies
 
 ## Pharmacy
 
