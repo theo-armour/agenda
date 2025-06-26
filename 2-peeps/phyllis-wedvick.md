@@ -1,9 +1,56 @@
 # Phyllis Wedvick
 
+
+## 2025-06-25
+
+My nerves are still a problem.  I will look for sunshine today.
+
+You are so kind.
+
+***
+
+>>My nerves are still a problem.
+
+The good thing is that you are being conscious of your problem and looking at it and thinking about it.
+
+Starting to be able to look at yourself from the outside and see what happens is a good thing.
+
+>>I will look for sunshine today.
+
+Do I hear you saying "Piffle 'Light at the end of the tunnel', I want the full load"
+
+;-)
+
+
+>>You are so kind.
+
+Thank you. It took me a long time to figure out that being outgoing anf generous is more fun than ruminating
+
+***
+
+The neighbor I invited a few days ago came over for lunch today. He owns a 1932 Ford Coupe — the one with a rumble seat. Maybe I will get a ride in it one day. Anyway we had a great dialog. To be continued.
+
+
+
 ## 2025-06-24
 
 Here I am. Reaching out. Saying hello. Wondering how Phyllis is. Wondering if there was any sunshine today.
 
+***
+
+Yes, I had sunshine today.
+
+Two friends took me to dinner at a wonderful Italian Restaurant in Palo Alto.  I received a book and flowers from two other friends.
+
+A highlight was from the Volcano Theatre Company.  Four of the actors who were rehearsing sang "Happy Birthday" to me through a video.  So cute.
+
+Now i have a message from you.
+
+***
+
+Yippee and Happy Birthday!!!
+
+And may the sun come out from behind the clouds more often
 
 ## 2025-06-23
 

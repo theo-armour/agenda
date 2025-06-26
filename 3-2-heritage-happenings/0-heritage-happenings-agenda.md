@@ -1,12 +1,11 @@
 # Heritage Happenings Agenda
 
-## Breakout agendas
+## heritage-happenings-sf@gmail.com
 
-* Dining
-* Health
-* Country of the Month
-* Garden
-* Strategic Plan
+* Add email addresses
+* Forwarding
+* Google Calendar
+* Doc: add template
 
 ## Management
 

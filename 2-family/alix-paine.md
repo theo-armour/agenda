@@ -4,6 +4,23 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-06-25
+
+
+The neighbor I invited a few days ago came over for lunch today. He owns a 1932 Ford Coupe — the one with a rumble seat. Maybe I will get a ride in it one day. Anyway we had a great dialog. To be continued.
+
+***
+
+Today was one of those days which would cause most people to shriek. or something.
+
+I keep extensive lists of things to do. Too extensive and too many. But if it gets on the list, it gets done. This can take years, of course, for some items.
+
+I guess the main thing is that I can't forget what I said I would do.
+
+Anyway, because there are so many things to do and so many lists, they get convoluted, overlap, conflict, and have issues. Today I cleaned up a whole bunch of them. Makes me feel good.
+
+
+
 ## 2025-06-24
 
 I am swell headed today.
