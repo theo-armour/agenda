@@ -4,6 +4,7 @@
 
 * Cheese tasting
 * Underperforming activities department
+* Praveen: Remote Dir Activities
 
 ## More
 
@@ -18,3 +19,4 @@
 * Karina: TheKey ~ email Dan
 * Calendar: items in mine
 * Karina: Touchtown errors
+
