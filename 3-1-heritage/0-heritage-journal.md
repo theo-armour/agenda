@@ -49,6 +49,7 @@ Centenary: Laura ~ Wednesday
 Officers?
 
 Heritage Happenings
+
 ## 2023-11-14
 
 Jeff
