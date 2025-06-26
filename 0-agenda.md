@@ -24,7 +24,7 @@ more
 
 * +++
 * Tania
-* Dona
+* Donna
 * Carolyn Kiernat
 * Uber Survey
 * Sherrill: dates

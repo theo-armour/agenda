@@ -1,23 +1,52 @@
 # June
 
+## Agenda
+
+* Candy: interview doc
+* Trish
+
+## Posts
+
 * [x] Doris ~ Art for elders
 * [x] Values Focus Group
 * Last of the elevator
 * Blog: Soft Opening
 
+
+## 2025-06-25
+
+* Email address
+* SF Chronic Ad
+* Pony Person Photos
+
+## SFLPRS
+
+* Strategic Plan
+* Affiliation
+* Nominating Committee
+
 ## Events
 
 * Fathers Day ~ M Johnson
 
+## Next Village
+
+* Tea party August
+* Sherrill Townhall
+
+## Garden Committee
+
+* Photos
+
 ## Library Corner
 
-* Book club: The accidental Tourist ~ book of the month in HH
+* Book club: The Accidental Tourist ~ book of the month in HH
 
 ## Accounts
 
 ## Activities
 
-* Cheese tasting
+* Cheese tasting ~ leader ~ bread ~ Dylan ~ theo: descriptions
 * Pony Person Photos
 
 ## Admin
@@ -31,7 +60,7 @@
 
 ## Health
 
-* Topic:
+* Topic: Mia: Hobbies, Passions, Inspiration
 * Martha: Heritage Medical forms update
 * Martha: draft letter for clinic from PCO on meds they can provide
 
@@ -41,7 +70,7 @@
 
 ## Marketing & Sales
 
-* SF Chronicle Add
+
 
 ## Residents
 

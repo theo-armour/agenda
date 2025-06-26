@@ -5,7 +5,6 @@
 * Dining
 * Health
 * Country of the Month
-* Books
 * Garden
 * Strategic Plan
 
