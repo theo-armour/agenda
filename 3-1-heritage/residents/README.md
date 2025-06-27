@@ -1,5 +1,6 @@
 # Residents Read Me
 
+* Residents agendas
 * Drafts of messages to residents
 * Every message is its own text file ~ makes it easier to find
 

@@ -12,7 +12,7 @@
 * +++
 * Cookie
 * Tax: Carmen Brooke reply
-* Lillemor & Karl: visit
+* Lillemor & Karl: advocate
 * HH: Jane's story > discuss
 * Donna: Tea Party
 
@@ -28,5 +28,5 @@ more
 * Tania
 * Carolyn Kiernat
 * Uber Survey ~ Amazon Survey
-* Candy: error?
+* Candy: add the dot
 * Cheese tasting

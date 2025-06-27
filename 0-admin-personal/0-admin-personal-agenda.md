@@ -1,8 +1,10 @@
 # 0 Admin Personal Agenda
 
 * ?
+* Safeway: esomaprazole
 * A: toothpicks
 * A: thin erasable pens
+* A: Diapers
 * A: 22" Monitor?
 * new eyeglasses
 

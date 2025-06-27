@@ -1,5 +1,6 @@
 # SFPLRS Agenda
 
+* Elected by 40 to 32 ~ feels suspicious to me
 * HH: Randy Gridley thanks
 Director Platform
 * NDA

@@ -1,1 +1,0 @@
-(function(window,document,$,undefined){var EDDUH={init:function(){EDDUH.trackHistory()},trackHistory:function(){$.ajax({type:"POST",url:edduh.ajaxUrl,data:{action:'edduh_track_history',page_url:edduh.currentUrl,referrer:document.referrer},success:function(response){}}).fail(function(response){})}};EDDUH.init()})(window,document,jQuery)
