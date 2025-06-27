@@ -1,6 +1,6 @@
 Notes
 +
-
+Big challenge how to stop old people from becoming boring
 
 
 Today right now is a moment of unbridled happiness!
