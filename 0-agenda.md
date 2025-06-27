@@ -12,21 +12,24 @@
 * +++
 * Cookie
 * Tax: Carmen Brooke reply
-* Donna: Tea Party
+
 
 more
 
 * +++
 * Tidy desk
 * Update favorites ~ one page only? ~ git ignore
-
+* Patti: Tea Party
+* RCex: Tea Party
 ## Whenever
 
 * +++
+
+* nextdoor
 * HH: Jane's story > discuss
 * Tania
-* Carolyn Kiernat
+* Carolyn Kiernat: reply
 * Uber Survey ~ Amazon Survey
-* Candy: add the dot
-* Cheese tasting
+* Candy: add the dot ~ paper ~ TT
+* Actv: Cheese tasting
 * Pimm Fox?

@@ -1,16 +1,28 @@
 # SFPLRS Agenda
 
+
+
+
+## 2025-05-30
 * Elected by 40 to 32 ~ feels suspicious to me
 * HH: Randy Gridley thanks
-Director Platform
-* NDA
-* Strategic Plan ~ architecture experience
+architecture experience
 * Two way reporting#experience
-* BoD past ~ sec RCResidents Council
+* BoD past ~ sec RC Residents Council
 
-Agendas?
+## Board of Directors
 
-* Board
-* National Trust
-* Wikipedia
-* Strategic Plan
+## Wikipedia
+
+* To Gauger
+
+## Strategic Plan
+
+* Non-negotiable: docs
+
+
+## NRHP
+
+* Carolyn Kiernat
+
+## NextDoor
