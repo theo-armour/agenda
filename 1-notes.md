@@ -1,7 +1,10 @@
 Notes
 +
 Big challenge how to stop old people from becoming boring
-Do you really want to have children if the end result is old people that d
+Do you really want to have children if the end result is old people that have nothing interesting to say 
+
+
+
 
 Today right now is a moment of unbridled happiness!
 Thinking about the future offers more opportunities than thinking about the past.
