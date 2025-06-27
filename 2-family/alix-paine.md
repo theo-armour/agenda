@@ -4,6 +4,15 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+
+## 2025-06-26
+
+My day was okay, not great, but okay. I did get three outdoor walks. Said hello to My neighbour who came over for lunch yesterday. I was careful about what I ate. I made pretty good progress on the online blogging system that I'm building to replace the monthly paper newsletter I produce for residents.
+
+A little bit of magic did occur. I asked Claude AI to produce an app that talks and tells you to perform a sitting at your desk exercise every few minutes. Mission accomplished. Quite scary.
+
+The interesting thought of the day is this: I am probably spending too much time carousing with people in their 20s and 30s. Yes, I'm being a mentor, but they don't really need mentors. The people who really need help are the people my age and just 10 years or so younger than me. I'm talking about their technical literacy - which is mostly highly lacking.
+
 ## 2025-06-25
 
 

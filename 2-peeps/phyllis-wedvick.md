@@ -1,5 +1,51 @@
 # Phyllis Wedvick
 
+## 2025-06-26
+
+Ah, rumble seats.  I first learned about a rumble seat in a Nancy Drew book.  I remember wanting to see a car that had one.
+
+I am learning to have boundaries and to pause before I take action.  Tomorrow, I am making a trip to the storage unit to face my fear about what the unit contains.  Then, perhaps, I will be able to dispose of old furniture, of which only a few items remain.  Then I will see how many boxes of books are available.
+
+As for nerves:  I've always had anxiety as a problem in life.  I also ruminate  more than is helpful.  I am a bit calmer tonight because I realize that I have to stay awake until later than I had.
+
+I am also looking and wondering about purpose.  Perhaps most of my energy went to solving problems for Peer who escaped all of his by dying.
+
+More tomorrow.
+
+***
+
+>>trip to the storage unit
+
+My "Bête noire". I have three storage units: papers, furniture and art.
+
+* The papers are to be scanned and then destroyed unless absolutely valuable.
+* The furniture goes to my daughters.
+* The paintings go either to museums or daughters.
+
+Over the past 10 years, only tiny amounts of progress have been made. Real life keeps getting in the way.
+
+So I suppose I'm not the one to give good advice. But here goes.
+
+But unless you have a specific new home for an item, dispose of it. Old furniture, books and paintings currently have near zero monetary value.
+
+>> I am also looking and wondering about purpose.
+
+Keep looking. It may be hidden under a rock somewhere, but it's out there.
+
+***
+
+My day was okay, not great, but okay. I did get three walks. I was careful about what I ate. I made pretty good progress on the online blogging system that I'm building to replace the monthly paper newsletter I produce for residents.
+
+A little bit of magic did occur. I asked Claude AI to produce an app that talks and tells you to perform a sitting at your desk exercise every few minutes. Mission accomplished. Quite scary.
+
+***
+
+Death. One of the interesting things about living in an old people's home is that people do die. Quite frequently. but it's okay because they get replaced.
+
+I think that's put too light-hearted for this moment. Two of the people who died I've known over twenty years. One of my things is that I like to think of them as living people. As in "what is remembered lives".
+
+
+
 
 ## 2025-06-25
 

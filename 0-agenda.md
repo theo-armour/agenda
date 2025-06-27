@@ -12,7 +12,6 @@
 * +++
 * Cookie
 * Tax: Carmen Brooke reply
-* Lillemor & Karl: advocate
 * HH: Jane's story > discuss
 * Donna: Tea Party
 
