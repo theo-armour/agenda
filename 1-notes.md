@@ -4,7 +4,7 @@ Big challenge how to stop old people from becoming boring
 Do you really want to have children if the end result is old people that have nothing interesting to say 
 
 
-
+Do you really want to be with people for whom the major decision of the day is whether to have more almond or chocolate chip mint chocolate chip?
 
 Today right now is a moment of unbridled happiness!
 Thinking about the future offers more opportunities than thinking about the past.
