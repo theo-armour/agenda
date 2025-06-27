@@ -12,20 +12,21 @@
 * +++
 * Cookie
 * Tax: Carmen Brooke reply
-* HH: Jane's story > discuss
 * Donna: Tea Party
 
 more
 
 * +++
-
+* Tidy desk
 * Update favorites ~ one page only? ~ git ignore
 
 ## Whenever
 
 * +++
+* HH: Jane's story > discuss
 * Tania
 * Carolyn Kiernat
 * Uber Survey ~ Amazon Survey
 * Candy: add the dot
 * Cheese tasting
+* Pimm Fox?
