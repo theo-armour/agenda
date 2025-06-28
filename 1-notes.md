@@ -1,7 +1,8 @@
 Notes
 +++
 
-BoD interview questions from residents&nbsp;
+BoD interview ques eyeglasses prescription 
+tions from residents&nbsp;
 [https://www.linkedin.com/in/theoa/](https://www.linkedin.com/in/theoa/)
 
 [https://pushme-pullyou.github.io/tootoo-2025/](https://pushme-pullyou.github.io/tootoo-2025/)
