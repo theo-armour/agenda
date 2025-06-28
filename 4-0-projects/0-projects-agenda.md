@@ -22,9 +22,8 @@
 * About Theo: use AI
 * Time to Fidget app
 * Create text-to voice app that barks out u-instructions every xx minutes&nbsp;
-* GH &gt; HH: add HH/private repo
-* GH &gt; ta/reference &gt; update?
-
+* GH > HH: add HH/private repo
+* GH > ta/reference > update?
 * Add that translates HTML bookmark files to JSO or CSV
 * Add gbxml files
 * WSL: ubuntu

@@ -1,16 +1,8 @@
-# Toronto to San Francisco, 1962
+**Toronto to San Francisco, 1962:**
 
 **Snowstorms, Stetsons, and Sunsets**
 
 *By Jane Standing*
-
-***
-
-_The American Dream is the belief that anyone, regardless of their background, can achieve success and upward mobility through hard work and determination in the United States. An oft-repeated and essential part of this narrative is that special and particular journey to the destination where the Dream comes true._
-
-_Jane's telling of her journey is complete in itself. We have no need to enquire further. From her writing — observant, engaged and lively — we know that Jane's American Dream will come true._
-
-***
 
 This is how we came to America.
 
@@ -40,17 +32,4 @@ At last, we crossed into California with its green hills rolling out like foldin
 
 The city sparkled white under a brilliant blue sky. As we rounded what I now know is Hospital Curve the city was laid out before us. There were no high rises then, just the Ferry Building and Coit Tower, standing prominent against the landscape. We found our motel in the Marina at the end of Lombard Street, with painted bougainvillea on the walls. It is still there, and Sarah stayed a few nights on her last visit.
 
-We'd made it. Barry and I, our young children, and my mother — all of us together in this magnificent city. Time for us to settle in and make our new life here.
-
-
-***
-
-The Claude artificial intelligence (AI) has this:
-
-Here are three particularly interesting aspects of Jane's story:
-
-**1. The remarkable car financing story** - Despite having no address or jobs in America, Jane and Barry managed to get financing for a new Pontiac Tempest after their old car nearly gave up. They simply crossed from Sarnia into Port Huron, and somehow convinced a car salesman to finance their purchase. The salesman initially "looked doubtful but came back smiling" - a testament to either their persuasiveness or the more trusting business culture of 1962.
-
-**2. The timing of their journey through American history** - They traveled in February 1962 and witnessed America at a fascinating moment. They drove past St. Louis while the iconic Gateway Arch was still under construction, had their first McDonald's experience (described as "Golden Arches hamburger"), and arrived in a San Francisco that had "no high rises then, just the Ferry Building and Coit Tower." They were literally driving through an America that was transforming.
-
-**3. The memorable encounter in Tulsa** - When they went to a recommended private house for dinner, they opened the door to find "seven men in Stetson hats" who "stared at us as if we'd come from the moon." This perfectly captures the cultural clash of an English-Canadian family with young children suddenly finding themselves in the heart of cowboy country - yet they ended up having "a lovely evening" with excellent veal, showing how initial strangeness often gave way to American hospitality.
+We'd made it. Barry & I, our young children, and my mother — all of us together in this magnificent city. Time for us to settle in and make our new life here.
