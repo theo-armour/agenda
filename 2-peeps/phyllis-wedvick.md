@@ -1,5 +1,30 @@
 # Phyllis Wedvick
 
+
+## 2025-06-27
+
+
+>> He became someone whom I did not know.
+
+Meds, disease and pain: alter the brain. Concentrate on what you love about Peer.
+
+>> You seem to be out for dinner during the week.
+
+I think I've been staying at home a lot this week. When I go out, it's to be with young people and have serious, interesting dialogues. When I'm at home, it's to it's to be with my old people.
+
+Here is one thing I did today. My friend Pimm wrote this post:
+
+https://substack.com/home/post/p-166992592
+The Most Inconvenient Truth: Growing Old in an America Not Meant for the Aged
+_As the U.S. population ages, everyday life—from theaters to taxis to terminals—remains an obstacle course of indifference, revealing a society unprepared to honor the dignity of its elders._
+
+Here is my rebuttal:
+
+
+
+
+
+
 ## 2025-06-26
 
 Ah, rumble seats.  I first learned about a rumble seat in a Nancy Drew book.  I remember wanting to see a car that had one.

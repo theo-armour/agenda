@@ -4,6 +4,8 @@
 
 ## Agenda
 
+* Updated values
+* Advocacy ~ form ~ directory
 * Candy: interview doc
 * Trish
 * Message to Committee

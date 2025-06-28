@@ -5,6 +5,13 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-06-27
+
+Hi Alix
+
+I was looking at photos of Jeff and Luren Bezos' weddong in Venice. They were hettong into a motoscafo. On the wall behind them, I saw the word "Gritti". This proably means that they are staying at the Gritti Palace Hotel—where we stayed in 1963. And it probably means in the the room that Daddy and Cynie usually stayed in: the Presidential Suite. So: we've been there.
+
+
 ## 2025-06-26
 
 My day was okay, not great, but okay. I did get three outdoor walks. Said hello to My neighbour who came over for lunch yesterday. I was careful about what I ate. I made pretty good progress on the online blogging system that I'm building to replace the monthly paper newsletter I produce for residents.
