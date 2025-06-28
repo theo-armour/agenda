@@ -28,6 +28,7 @@ more
 * +++
 * Taxes
 * Coding?
+* Rod: Douthat Thiel
 * Karl: Mary Todd play review + top ten films
 * SFLPRS: Nextdoor
 * HH: Jane's story > discuss

@@ -3,11 +3,13 @@
 
 ## Agenda
 
-* Martha: Pharmerica
+* Get glasses prescription
+* New Eyeglasses
 * Pine Park Senior Doc, UCSF?
 * Stairs: set chairs landing place
 * PPH: review and sign document
 * Chin Appointment
+* Emergency Call Button Updates
 
 ## 2024-12-23? ~ Martha Nkhoma
 
