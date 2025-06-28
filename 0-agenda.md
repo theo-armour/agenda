@@ -13,7 +13,7 @@
 * +++
 * Cookie
 * Tax: Carmen Brooke reply
-
+* Tx: 1hr
 
 more
 
@@ -36,5 +36,5 @@ more
 * Uber Survey ~ Amazon Survey
 * Candy: add the dot ~ paper ~ TT
 * Actv: Cheese tasting
-* Pimm Fox?
-* https://pimmfox.substack.com/p/the-most-inconvenient-truth-growing
+* PT: try the chair
+* glasses presciption

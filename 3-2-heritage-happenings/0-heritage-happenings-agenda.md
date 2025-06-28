@@ -41,9 +41,4 @@
 
 
 
-## May
-
-* [x] San Francisco Landmark Plaque
-* [x] Visit to Zen Center
-
 ## Whenever
