@@ -1,6 +1,7 @@
 Notes
 +++
-eyeglasses prescription
+
+
 BoD interview questions from residents&nbsp;
 [https://www.linkedin.com/in/theoa/](https://www.linkedin.com/in/theoa/)
 
