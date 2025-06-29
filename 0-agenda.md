@@ -31,7 +31,6 @@ more
 * Rod: Douthat Thiel
 * Karl: Mary Todd play review + top ten films
 * SFLPRS: Nextdoor
-* HH: Jane's story > discuss
 * Tania
 * Carolyn Kiernat: reply
 * Uber Survey ~ Amazon Survey
