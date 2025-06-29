@@ -5,6 +5,19 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-06-28
+
+Hi Alix
+
+When I talked with Tania a few days ago, she said that the move to Templeton has worked out quite well, that you seem to be enjoying it. She also mentions that they allowed you to bring your dog.
+
+I've never really been a dog person, but now I can see some nice advantages about having a dog around. Having someone who adores you must be wonderful. And knowing that you have to do certain things at certain times helps you maintain a schedule. Both good.
+
+I did a ton of writing today. and quite a bit of it was my favorite kind of writing. It's where I have to read something very carefully and reply to it in a detailed, constructive, and pushing-the-envelope-forward way.
+
+
+
+
 ## 2025-06-27
 
 Hi Alix

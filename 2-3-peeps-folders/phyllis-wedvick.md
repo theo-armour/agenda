@@ -1,5 +1,52 @@
 # Phyllis Wedvick
 
+## 2025-06-28
+
+Your friend's article addresses the problems of being an aging adult in this country.  I understand what he writes because I am experiencing so much in my own life, especially now that I am alone with grief.
+
+In fact, an article appeared in the Mercury News this week.  I am quoted.
+
+I am merely too sad and tired to respond. My disability is not visible--people don't see depression.
+
+From what Peer told me, your family has not been impoverished.  I am and have been in the past.  I am merely wanting to survive each day without despair.
+
+***
+
+All interesting thoughts.
+
+>>I understand what he writes because I am experiencing so much in my own life
+
+I have little or no disagreement with Pimm's observations.
+
+Nonetheless, they kind of make me smile.
+
+>> The entrances are narrow, the lighting inadequate, the bathrooms elusive. The entire affair feels like an obstacle course—one where the prize is the privilege of sitting uncomfortably in a cramped seat.
+
+Um, Pimm's observations references include "Broadway theaters", "New York City taxi" and "Airports", "country home".
+
+Very much "first world" rich people's issues in my mind.
+
+>> In fact, an article appeared in the Mercury News this week.
+
+I am not a subscriber. All I can see is:
+
+"3 days ago — On Wednesday, she met with Phyllis Wedvick, a Palo Alto resident in her 70s. Wedvick's husband died just two months ago, and she sought out ..."
+
+>>From what Peer told me, your family has not been impoverished.
+
+Depends on what you mean by impoverished.
+
+Both my parents and I were primarily raised by uneducated immigrant servants.
+
+For the first decades of my life no friend of mine was allowed to or invited to set foot or have a meal at my house.
+
+Museums, theater, libraries were never part of my life. etc etc
+
+>> I am merely wanting to survive each day without despair.
+
+I'm with you. I live with numerous people in their late eighties and nineties for whom despair with their predicament is ever present.
+
+
 
 ## 2025-06-27
 
