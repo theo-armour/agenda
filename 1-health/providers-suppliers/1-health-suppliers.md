@@ -8,15 +8,6 @@ testing 12 tes tests the quick brown f
 
 * Pharmerica: 888 588 1633 ~ option 3: representative
 
-## 180 medical
-
-* https://my.180medical.com/orders
-* Orders every 30 day?
-* 2024-09-24 delivery ~ 2024-08-25 ~ 2024-07-27 ...
-* Allow for a minimum of 50 in my possession
-* Use website to update order
-
-
 ## CVS
 
 https://www.caremark.com/
@@ -49,4 +40,3 @@ CHANDLER AZ 85286-7201
 ## UCSF Willed Body ~ (415) 476-1981
 
 * Administration Offices 513 Parnassus Avenue, S-1334
-

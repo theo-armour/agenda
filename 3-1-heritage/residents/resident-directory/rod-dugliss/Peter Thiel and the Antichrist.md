@@ -100,15 +100,12 @@ I did not watch the interview. I read the transcript.
 
 I skimmed through hundreds of the comments. None of the comments found the article "fascinating". All the ones I read were derogatory.
 
-I did not see one comment where I felt that the writer had actually heard or read the entire interview.
-
-I did not read one comment that tried to refute directly or even analyze any of Thiel's points.
+I did not see one comment where I felt that the writer had actually heard or read the entire interview. I did not read one comment that tried to refute directly or even analyze any of Thiel's points.
 
 Points of interest
-
 * Stagnation
+* How do we know how stuck we are?
 * Single world authority
 * Disruption required
-* AI is more complicated is replete with unknown unknowns
-* Born again???
-
+* AI is more complicated — replete with unknown unknowns
+* Thiel: Born again???

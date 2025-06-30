@@ -11,30 +11,24 @@
 ## Today
 
 * +++
-* Cookie
 * Tax: Carmen Brooke reply
 * Tx: 1hr
 
 more
 
 * +++
-* Tidy desk
 * Update favorites ~ one page only? ~ git ignore
 * Patti: Tea Party
 * RCex: Tea Party
+* Hteam: event photos
 
 ## Whenever
 
 * +++
-* Taxes
 * Coding?
-* Rod: Douthat Thiel
-* Karl: Mary Todd play review + top ten films
-* SFLPRS: Nextdoor
 * Tania
 * Carolyn Kiernat: reply
 * Uber Survey ~ Amazon Survey
-* Candy: add the dot ~ paper ~ TT
 * Actv: Cheese tasting
 * PT: try the chair
-* glasses presciption
+* Glasses prescription
