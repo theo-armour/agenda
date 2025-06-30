@@ -4,6 +4,17 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-06-29
+
+Hi Alix
+
+So it was one of those days where I crossed a ton of stuff off my to-do list. At least 14 different things. And I had a friend, John, over for lunch and had a nice conversation in the garden with another friend, Rod.
+
+Unfortunately, only tiny parts of those things were things where I felt any real happiness. The dialogue with Rod was okay and could lead to even better discussion.
+
+For me, real happiness happens when I'm programming or writing a complicated text or doing something mentally challenging. Ultimately, it's highly solitary. And it's not just a moment. It's an upwelling of something that is happening over a long period of time that expresses a kind of joy.
+
+Ah! Writing these words about my day makes me happy. ;-)
 
 ## 2025-06-28
 

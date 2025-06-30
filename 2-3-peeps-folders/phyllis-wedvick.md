@@ -1,5 +1,26 @@
 # Phyllis Wedvick
 
+
+## 2025-06-29
+
+Where did you grow up?  Who were your parents and why were they brought up by servants?  Why were you brought up by servants.  All is not clear.
+
+Who were your grandparents?  Please explain.
+
+Peer thought that your family had wealth.  Peer was obsessed with having money.  Of course when he had much, he basically threw it all away.
+
+
+***
+
+Your questions are interesting. And I'm in an interesting life, so it would take forever to answer them. I do not want to be dismissive, but are such topics the point of our discussions?
+
+Are we on the topic of helping Phyllis find her way out of her despair? Is our discussion about helping Phyllis build up her will to live?
+
+I care about you and want to focus on how you're doing.
+
+
+
+
 ## 2025-06-28
 
 Your friend's article addresses the problems of being an aging adult in this country.  I understand what he writes because I am experiencing so much in my own life, especially now that I am alone with grief.
