@@ -4,10 +4,11 @@
 
 ## Agenda
 
+* test large print messages
 * Updated values
 * Advocacy ~ form ~ directory
 * Candy: interview doc
-* Trish
+* Trish ~ claire ~ Tess ~ NancyT
 * Message to Committee
 * Jane's article
 * Claire: read PDF ~ 5 questions

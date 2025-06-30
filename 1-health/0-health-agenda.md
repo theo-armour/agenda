@@ -1,17 +1,22 @@
 # Health Agenda Read Me
 
 * Continue the health agenda triage
-* folders for providers ~ supplier ~ agencies
+* Folders for providers ~ supplier ~ agencies
 
 ## Pharmacy
 
 * TDT Vaccine appointment
 
+## Eyes
+
+* Check new glasses online prices
+
 ## PPH
 
-* PPH: Describe PT needs. Description of What I'm looking for in a sports medicine referral.
 * PPH: Speech Therapy order
-* Bllod Draw? Prostate? White blood cells?
+* PPH: gripes follow-up
+* PPH: Describe PT needs. Description of What I'm looking for in a sports medicine referral.
+* Blood Draw? Prostate? White blood cells?
 * Urology checkup
 
 Waiting

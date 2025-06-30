@@ -9,6 +9,12 @@
 * What about eye tests?
 * Call first week of September
 
+## Optical Prescription ~ 2023-01-25
+
+        Sphere	Cylinder	Add
+Right	-3.00	DS	        +2.50
+Left	-3.50	DS	        +2.50
+
 ## Glasses Prescription (9/27/2021) 
 
 * Sphere Cylinder Axis Add 
