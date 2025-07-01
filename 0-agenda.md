@@ -13,7 +13,7 @@
 * +++
 * Tax: Carmen Brooke reply
 * Tx: 1hr
-* Naughton: draft
+
 
 more
 
@@ -24,7 +24,7 @@ more
 * Hteam: event photos
 
 ## Whenever
-
+appendi
 * +++
 * Coding?
 * Tania
@@ -32,4 +32,3 @@ more
 * Uber Survey ~ Amazon Survey
 * Actv: Cheese tasting
 * PT: try the chair
-* Glasses prescription

@@ -2,25 +2,37 @@
 
 * Article drafted before the nap
 
+
 ## Agenda
 
-* test large print messages
-* Updated values
-* Advocacy ~ form ~ directory
-* Candy: interview doc
-* Trish ~ claire ~ Tess ~ NancyT
+* Photos 143 ~ <3 ~ Christy "Love is in tha Air, er, on the
+pavement"
+* Cheese tasting ~ leader ~ bread ~ Dylan ~ theo: descriptions
 * Message to Committee
-* Jane's article
-* Claire: read PDF ~ 5 questions
-* Update PDF footers
+* Hteam: event ~ Pony Person Photos
+* Fathers Day ~ M Johnson
+* Topic: Mia: Hobbies, Passions, Inspiration
+* Martha: Heritage Medical forms update
+* Martha: draft letter for clinic from PCO on meds they can provide
+
+### Done
+
+* [x] test large print messages
+* Updated values
+* [x] Advocacy ~ form ~ directory
+* [x] Candy: interview doc
+* Trish ~ claire ~ Tess ~ NancyT
+* [x]Jane's article
+* [x] Claire: read PDF ~ 5 questions
+* [?] Update PDF footers
 
 
 ## Posts
 
 * [x] Doris ~ Art for elders
 * [x] Values Focus Group
-* Last of the elevator
-* Blog: Soft Opening
+* [x[ Last of the elevator
+* [x] Blog: Soft Opening
 
 
 ## 2025-06-25
@@ -79,7 +91,6 @@
 * Elevators
 
 ## Marketing & Sales
-
 
 
 ## Residents
