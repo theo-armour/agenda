@@ -4,6 +4,14 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+
+## 2025-06-30 "Love is in the Air, er, in the Pavement"
+
+Hi Alix
+
+Walking with a walker and cane, I look down at the pavement more than most people. Here are three things I photographed today
+
+
 ## 2025-06-29
 
 Hi Alix

@@ -24,7 +24,7 @@ more
 * Hteam: event photos
 
 ## Whenever
-appendi
+
 * +++
 * Coding?
 * Tania

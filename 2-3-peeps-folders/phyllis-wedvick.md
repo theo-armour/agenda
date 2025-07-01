@@ -1,5 +1,35 @@
 # Phyllis Wedvick
 
+## 2025-06-30
+
+I would prefer conversation to discussion. To know about your life increases my understanding of you.
+
+Grief is complex.  Having been through a traumatic divorce in 1981, I know the difference between loss that results from divorce and death.  What I am experiencing now is far worse.
+
+Peer was always fighting to survive cancer.  In the end he could not fight anymore.  We never had a meaningful discussion while he was in the hospital.  We did not share our feelings towards each other.  This still has a devastating effect.  Despair is present and will be.  My will to live is not relevant nor part of my grief process.
+
+Each day presents a challenge.  Creating a stable financial base and a direction uses my energy and adds to anxiety.  This is my life now.
+
+If I were to make an observation about you, I think that I would not drink as much as you do.  Why do you drink?
+
+
+
+
+***
+
+>> To know about your life increases my understanding of you.
+
+My life is public. Start here: https://www.google.com/search?q=%22theo+armour%22
+
+>>  Why do you drink?
+
+I drink for the fun of it.
+
+I hear the pain in your message, especially about not having those final meaningful conversations with Peer. That kind of regret is one of the most difficult aspects of grief.
+
+I care about your wellbeing but I do not know how to be of help. I understand you're looking for deeper conversation and connection, but I'm concerned that I can't provide what you need.
+
+
 
 ## 2025-06-29
 
