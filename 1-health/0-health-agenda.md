@@ -9,7 +9,7 @@
 
 ## Eyes
 
-* Check new glasses online prices
+* new glasses online prices: ~$300
 
 ## PPH
 

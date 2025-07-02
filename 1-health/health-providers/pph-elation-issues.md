@@ -1,5 +1,8 @@
 # PPH Elation Issues
 
+
+## issues
+
 * No terms and conditions ~ "I am the product"
 * No contract
 * Cannot add a family member
@@ -25,5 +28,3 @@ I drafted a lengthy reply. In order to check on on my thoughts I clicked on the 
 * No choice of addresses
 * No CC
 * No text formatting
-
-
