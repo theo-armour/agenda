@@ -1,5 +1,47 @@
 # Phyllis Wedvick
 
+
+## 2025-07-01
+
+Here is text about one of the things that occurred today:
+
+Larry the nurse stopped me in the hall. My friend Lillemor is distraught, needs help. She is in the ambulance taking her husband Karl to the Hospital. I get a ride in our van. Here is what I wrote there:
+
+At Kaiser ER, in the waiting room listening to a woman wailing while another woman rubs her back. The woman has been bent over and crouching — not standing or kneeling — for half an hour. She does not talk or do anything other than wail.
+
+At last: The first woman is standing. Now the other woman took her ino ER. Now its a room full of people looking at their devices.
+
+Thank goodness I have my computer and can write.
+
+Karl has been diagnosed with stage 4 prostate cancer that has metastasized. He has a had a blast of radiation to his hip.
+
+He was brought to ER because he almost fell off the toilet being so light-headed. Also very low blood pressure.
+
+They've done x-rays and taken many blood samples.
+
+I've been to see him twice. He is happy to see me and smiles.
+
+Lillemor just came out. Karl is napping. Waiting for test results. I'd like to be there, but only one visitor at a time is allowed in the ER with the patient. By being there, I could help explain things to them later. We shall see.
+
+The results should tell whether he should stay or go hom
+How am I doing? Well, I'm inside one of my favorite aphorisms from living on England: "A change is as good as a rest". This is certainly a change from my daily life.
+
+And here I am with perhaps a couple of dozen people all simply getting older while sitting in a chair.
+
+Am I the only one alive here? Is there anybody else actually reflecting on things here? I guess it makes no difference. I am "living in the moment" and that is that counts for me.
+
+OK, brain: what to type out next?
+
+Everybody is wearing rubber soled shoes and jeans or jean-type pants.
+
+Hm. Should I be wearing a mask. I'm about 25 feet from an open door, so maybe I'm OK. There's no coffee here so that is very sad. And I even brought my mug but did not have time to fill it before evening.
+
+***
+
+After writing this, Lillemor and I returned to Heritage and had lunch.
+
+She returned to hospital later in the afternoon. This time Yvonne want with her. Karl returned around 8pm, weak but OK.
+
 ## 2025-06-30
 
 I would prefer conversation to discussion. To know about your life increases my understanding of you.
