@@ -15,7 +15,7 @@
 * Tx: 1hr
 * SacSem Update
 * Hactv: Wine&Cheese invite + message to Dylan
-* J14W&C: 
+* J14W&C: pla
 
 more
 
