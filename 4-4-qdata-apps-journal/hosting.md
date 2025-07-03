@@ -3,7 +3,7 @@
 
 ## ToDo
 
-* Get all domians pointing to good things
+* Get all domains pointing to good things
 * Export all old content to GitHub?
 
 ## old

@@ -1,5 +1,49 @@
 # Phyllis Wedvick
 
+## 2025-07-02
+
+Yes, so it goes.  John Rice who was also at St. Paul's has prostate cancer, but not stage 4.  Suddenly cancer seems to be everywhere--my lawyer, John, the person you know, Peer, a friend of Faith.
+
+I went to the drop-in group at Kara.  More women than men usually attend.  Tonight 3 other women had recently become widows because of the death by cancer of their husbands.  The stories would also include mine.
+
+Now it's late and fatigue takes over.
+
+Sorry about your friend.  The choices of what to do at Stage 4 metastatic cancer are few.
+
+All we have is the present.
+
+***
+
+>> Suddenly cancer seems to be everywhere
+
+Yup, Cancer is the second most common cause of death for people over 65.
+
+https://www.cdc.gov/nchs/fastats/older-american-health.htm
+
+Approximately 30–35% of Americans born in 1947 have died as of 2025, with about 65–70% still living.
+
+>https://www.chicagotribune.com/2021/08/16/how-many-people-are-still-alive-from-the-year-you-were-born/
+
+My colon is 18" shorter than it used to be. ;-)
+
+>>The choices of what to do at Stage 4 metastatic cancer are few.
+
+I was surprised. Survival rates are better than I thought.
+
+>>Five-year relative survival rate for men with distant (metastatic) prostate cancer in the United States is about 28–38%
+
+https://www.hopkinsmedicine.org/health/conditions-and-diseases/prostate-cancer/prostate-cancer-prognosis
+
+Karl turned 89 last Sunday. So his chances of living into his nineties are not bad.
+
+Frankly, after living with all these old people for five years, I hope I go by 88 or before. Very few people in their nineties are interesting or interested.
+
+***
+
+Several of us had a meeting in the garden this afternoon, and I took some photos. I like my garden.
+
+Click to see an album of photos: Today in the Porter Garden https://photos.app.goo.gl/RGGRZPNnHjWQZYxB9
+
 
 ## 2025-07-01
 
