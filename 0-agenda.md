@@ -11,24 +11,25 @@
 ## Today
 
 * +++
-* Hactv: Calendar to Google
+
 * Tax: Carmen Brooke reply
 * Tx: 1hr
+* SacSem Upa
 
 more
 
 * +++
-* Update favorites ~ one page only? ~ git ignore
-* Patti: Tea Party
-* RCex: Tea Party
+* SFLPRS: CV
 * Hteam: event photos
+* Dan _ Karen
 
 ## Whenever
 
 * +++
-* Coding?
-* Tania
+* Andrea
+* PA
+* NV Donna: party after elevator
+* SFH terri+woody: party after elevator
 * Carolyn Kiernat: reply
 * Uber Survey ~ Amazon Survey
-* Actv: Cheese tasting
 * PT: try the chair

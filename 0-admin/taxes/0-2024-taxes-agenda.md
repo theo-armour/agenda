@@ -30,6 +30,12 @@ Payments
 
 ## Done
 
+### 2025-07-02
+
+* Downloaded 3 Chase accounts ~ too easy ~ well categorized
+
+### 2025-01-15
+
 * Check January 15th 2025 FTB payment
 * 11,600 per month
 *

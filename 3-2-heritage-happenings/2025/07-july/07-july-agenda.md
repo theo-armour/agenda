@@ -5,7 +5,10 @@
 
 ## Agenda
 
-
+* Cheese tasting ~ leader ~ bread ~ Dylan ~ theo: descriptions
+* Speech Therapy ~ Claire
+* Interview: Candy & Jim
+* Fathers Day ~ M Johnson
 * Cheese tasting ~ leader ~ bread ~ Dylan ~ theo: descriptions
 * Message to Committee
 * Hteam: event ~ Pony Person Photos
@@ -28,21 +31,6 @@
 * [x] Claire: read PDF ~ 5 questions
 * [?] Update PDF footers
 
-
-## Posts
-
-* [x] Doris ~ Art for elders
-* [x] Values Focus Group
-* [x[ Last of the elevator
-* [x] Blog: Soft Opening
-
-
-## 2025-06-25
-
-* Email address
-* SF Chronic Ad
-* Pony Person Photos
-
 ## SFLPRS
 
 * Strategic Plan
@@ -51,16 +39,9 @@
 
 ## Events
 
-* Fathers Day ~ M Johnson
+
 
 ## Next Village
-
-* Tea party August
-* Sherrill Townhall
-
-## Garden Committee
-
-* Photos
 
 ## Library Corner
 
@@ -70,7 +51,6 @@
 
 ## Activities
 
-* Cheese tasting ~ leader ~ bread ~ Dylan ~ theo: descriptions
 * Pony Person Photos
 
 ## Admin
@@ -96,5 +76,3 @@
 
 
 ## Residents
-
-* Interview: Candy & Jim
