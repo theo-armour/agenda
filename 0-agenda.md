@@ -14,7 +14,8 @@
 * Tax: Carmen Brooke reply
 * Tx: 1hr
 * SacSem Update
-* Hactv: Wine&Cheese invite _ message to Dylan
+* Hactv: Wine&Cheese invite + message to Dylan
+* 
 
 more
 
