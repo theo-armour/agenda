@@ -1,5 +1,16 @@
 # Phyllis Wedvick
 
+## 2025-07-03
+
+>>Are you indicating that you had colon cancer?
+
+2017 ~ Colectomy for level 0/1 cancer ~ did not reach lymph nodes
+
+***
+
+Dinner with Margaret Johnson, who is 101, and her son, daughter, and grandson. Margaret is a frequent contributor to the newsletter. I have a meal with her two or three times a week. It was great to have people my age along with her.
+
+
 ## 2025-07-02
 
 Yes, so it goes.  John Rice who was also at St. Paul's has prostate cancer, but not stage 4.  Suddenly cancer seems to be everywhere--my lawyer, John, the person you know, Peer, a friend of Faith.

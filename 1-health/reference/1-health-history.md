@@ -68,10 +68,13 @@ Problems mostly relate to the wear and tear due to aging
 
 * 1950 ~ Tonsillectomy
 * 1955? ~ broken tibia
+* 1960 ~ Pneumonia
 * 1968 ~ Wisdom teeth removal
 * 1969 ~ Vertebrae T12 to L5 broken and fused; Both arms broken ~ due to four story fall off roof
 * 1970 ~ Right forearm amputated - after multiple surgeries to save it
 * 1973 ~ Badly cut left foot
+* 1990s ~ Anal prolapse
+* 2005?-2010? ~ Dysphagia
 * 2015 ~ Right hip arthroplasty
 * 2016 ~ Blood in stool
 * 2017 ~ Colectomy for Level 0/1 cancer ~ did not reach lymph nodes

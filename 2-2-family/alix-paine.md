@@ -5,6 +5,71 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-07-03
+
+Dinner with Margaret Johnson, who is 101, and her son, daughter, and grandson. Margaret is a frequent contributor to the newsletter. I have a meal with her two or three times a week. I have heard many stories many times. It was great to have people more my age along with her for a change.
+
+
+## 2025-07-02
+
+Several of us had a meeting in the garden this afternoon, and I took some photos. I like my garden.
+
+Click to see an album of photos: Today in the Porter Garden
+
+***
+
+I had an interesting discussion with the CEO of our organization today.
+
+She wants me to do one thing and I want another thing. We are both right. What she wants is perfectly rational, and ditto me. So, you cannot say that she is right and I am wrong, or vice versa. We are both right. I think the difference is that what I want to do could be of higher priority and is certainly more to my liking. She wants me to do paper newsletters and I want to do digital newsletters.
+
+## 2025-07-01
+
+
+It was nice to hear your voice and to hear that life is good for you.
+
+Here is text about one of the things that occurred today:
+
+Larry the nurse stopped me in the hall. My friend Lillemor is distraught, needs help. She is in the ambulance taking her husband Karl to the Hospital. I got a ride in our van. Here is what I wrote there:
+
+At Kaiser ER, in the waiting room listening to a woman wailing while another woman rubs her back. The woman has been bent over and crouching — not standing or kneeling — for half an hour. She does not talk or do anything other than wail.
+
+At last: The first woman is standing. Now the other woman took her into ER. Now it's a room full of people looking at their devices.
+
+Thank goodness I have my computer and can write.
+
+Karl has been diagnosed with stage 4 prostate cancer that has metastasized. He has had a blast of radiation to his hip.
+
+He was brought to the ER because he almost fell off the toilet being so light-headed. Also very low blood pressure.
+
+They've done x-rays and taken many blood samples.
+
+I've been to see him twice. He is happy to see me and smiles.
+
+Lillemor just came out. Karl is napping. Waiting for test results. I'd like to be there, but only one visitor at a time is allowed in the ER with the patient. By being there, I could help explain things to them later. We shall see.
+
+The results should tell whether he should stay or go home.
+How am I doing? Well, I'm inside one of my favorite aphorisms from living on England: "A change is as good as a rest". This is certainly a change from my daily life.
+
+And here I am with perhaps a couple of dozen people all simply getting older while sitting in a chair.
+
+Am I the only one alive here? Is there anybody else actually reflecting on things here? I guess it makes no difference. I am "living in the moment" and that is that counts for me.
+
+OK, brain: what to type out next?
+
+Everybody is wearing rubber soled shoes and jeans or jean-type pants.
+
+Hm. Should I be wearing a mask? I'm about 25 feet from an open door, so maybe I'm OK. There's no coffee here so that is very sad. And I even brought my mug but did not have time to fill it before evening.
+
+***
+
+After writing this, Lillemor and I returned to Heritage and had lunch.
+
+She returned to hospital later in the afternoon. This time Yvonne went with her. Karl returned around 8pm, weak but OK.
+
+***
+
+Such are the bizarre thoughts of the waiting room. So it goes.
+
 ## 2025-06-30 "Love is in the Air, er, in the Pavement"
 
 Hi Alix
