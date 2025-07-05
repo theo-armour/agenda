@@ -1,9 +1,11 @@
 # Heritage Happenings Agenda
 
+## Website
+
+
 ## heritage-happenings-sf@gmail.com
 
-* Add email addresses with labels
-* Forwarding
+* Delete the "<>"
 * Google Calendar
 * G Docs: add template
 * Create Charter

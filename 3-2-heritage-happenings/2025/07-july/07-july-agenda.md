@@ -1,18 +1,16 @@
-# June
+# July
 
 * Article drafted before the nap
 
 
 ## Agenda
 
-* Cheese tasting ~ leader ~ bread ~ Dylan ~ theo: descriptions
+
+* Cheese tasting ~ Dylan ~ theo: descriptions
+* Hteam: event ~ Pony Person Photos
 * Speech Therapy ~ Claire
 * Interview: Candy & Jim
-* Fathers Day ~ M Johnson
-* Cheese tasting ~ leader ~ bread ~ Dylan ~ theo: descriptions
 * Message to Committee
-* Hteam: event ~ Pony Person Photos
-* Fathers Day ~ M Johnson
 * Topic: Mia: Hobbies, Passions, Inspiration
 * Martha: Heritage Medical forms update
 * Martha: draft letter for clinic from PCO on meds they can provide
@@ -20,6 +18,7 @@
 
 ### Done
 
+* Fathers Day ~ M Johnson: OK to Go?
 * 2025-07-02 Community Apps Superpowers
 * 2025-07-02 Porter Garden
 * Photos 143 ~ <3 ~ Christy "Love is in tha Air, er, on the pavement"

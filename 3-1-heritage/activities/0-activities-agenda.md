@@ -1,8 +1,15 @@
 # Activities
 
+
+## Cheese tasting
+
+* Plumpjack visit
+* Fromagerie visit ~ baguette
+* Wines and cheeses blurb
+* Update To Do list
+
 ## Agenda
 
-* Cheese tasting
 * Underperforming activities department
 * Praveen: Remote Dir Activities
 

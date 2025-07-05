@@ -1,13 +1,23 @@
 # 0.1 Schedule Daily
 
-tags #habits
+tags #habits #schedule #fitness
 
+* Thing one: Just recognize the time/event each day
+* Thing two: Just go for a pee
 * 2023-11-12 ~ Establish routine consistency
 * How many rituals do I perform in a a day?
 * Prepare for a new style of weekend ~ Use the style
 
+Possibilities
+
+* Walk up three flights of stairs
+* Do some arm weight stuff
+
+And that might just be enough
+
 ## In bed ~ when the music starts
 
+* Don't think ~ jump into it
 * See 1-health\\pt-exercise-routines-daily.md
 
 ## Peeing
@@ -18,6 +28,8 @@ tags #habits
 
 ## Showering
 
+* Tuesday & Friday
+* Wash hair
 * Touching toes
 * Squats
 
@@ -44,7 +56,7 @@ tags #habits
 
 ## First task
 
-\*  "Crowd pleaser" task to start the day ~ note something I adore doing to start the day ~ trick the brain into not spending the morning doomscrolling
+*  "Crowd pleaser" task to start the day ~ note something I adore doing to start the day ~ trick the brain into not spending the morning doomscrolling
 
 ## Checking messages
 
@@ -58,20 +70,12 @@ tags #habits
 * 10 oz coffee
 * Raise arm exercises / Squats / dancing
 
-Morning coffee break @ 11:30
+## Pre-lunch
 
-* Pee ~ Poo ~ Miralax || Metamucil
-
-11:30 habit
-
-Thing one: Just recognize it each day Thing two: Just go for a pee
-
-Possibilities
-
-* Walk up three flights of stairs
-* Do some arm weight stuff
-
-And that might just be enough
+* Start at 11:30
+* Pee ~ Poo
+* Miralax || Metamucil
+* Morning walk
 
 ## After lunch
 
@@ -87,6 +91,7 @@ And that might just be enough
 ## Before dinner
 
 * Pee ~ poo
+* Evening walk before except Thursday
 
 ## After dinner
 
@@ -94,8 +99,17 @@ And that might just be enough
 
 ## Bedtime
 
-* Start at 9:30!
-* Hacker news by 10:15
+* Start winding down at 9:30!
+* Book 0r Hacker news by 10:15
+
+### 11:30
+
+* Devices off
+* Undressed
+* 1/3 A bottle of airline wine remains
+* Sit and be quiet before the exercises
+
+
 * Water ~ The trigger??
 * Glass to bathroom ~
 * Lights and shade

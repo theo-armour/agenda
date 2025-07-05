@@ -1,6 +1,13 @@
 # Dining Agenda
 
 
+## Agenda 2025-07-08
+
+* "One More Thing" ~ Plaque Presentation
+* Deli meats
+* Special requests form on Community App
+* Simplify Food Comment card
+
 ## Agenda
 
 * Go to Saturday lunch?
@@ -17,5 +24,6 @@
 * Official dining times
 
 ## Secret Menu
+
 * hand wipes available
 * Granola photo
