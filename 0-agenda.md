@@ -7,6 +7,7 @@
 * 2025-07-03 ~ Theo: What are you going to do when you grow old?
 * 2025-07-03 ~ Theo: In the same way that it's not guns that kill people, it's people that kill people: It's not AI that spreads disinformation, it's people that spread disinformation.
 * 2025-07-04 ~ Steve Jobs: One more thing
+* 2025-07-05 ~ Correlation is not causality
 
 ## Today
 
