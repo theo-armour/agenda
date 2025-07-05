@@ -12,8 +12,9 @@
 ## Today
 
 * +++
-* Tax: Carmen Brooke reply
+* Val: Reply
 * Tx: 1hr
+* SFLPRS: CV
 
 hh
 
@@ -24,11 +25,9 @@ hh
 more
 
 * +++
-* SFLPRS: CV
-* Hteam: event photos
 * Dan & Karen
-* Drew
-* context
+* Drew & Espoir ~ Quincy & Adam: reflections
+* context engineering
 
 ## Whenever
 
