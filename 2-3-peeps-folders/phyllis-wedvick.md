@@ -1,5 +1,17 @@
 # Phyllis Wedvick
 
+## 2025-07-05
+
+When I am less tired.
+
+***
+
+It turns out that most of the effort I put in the last two days into building a website for Heritage was not worth the effort. This happens from time to time when you are programming something complicated that takes a good number of days to complete. Some things you try are just wrong. Not a happy camper here. And this too shall pass.
+
+## 2025-07-04
+
+I'm quite certain this event will be full, but most any day is open for for a meal and a visit.
+
 ## 2025-07-03
 
 >>Are you indicating that you had colon cancer?
