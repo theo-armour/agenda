@@ -13,17 +13,18 @@
 ## Today
 
 * +++
-* Mia: Wednesday
 * Tx: 1hr
+* Food Committee: letter
+* Plumpjack + New Specs
 * SFLPRS: CV
+* ReadMe: update
+* SFLP: scan non-disclosure
 
 ## Whenever
 
 * +++
-* New Specs
 * Andrea
-* PA
-* NV Donna: party after elevator
+* Personal Assistant
 * SFH terri+woody: party after elevator
 * Carolyn Kiernat: reply
 * Uber Survey ~ Amazon Survey

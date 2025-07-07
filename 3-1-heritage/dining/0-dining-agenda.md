@@ -1,8 +1,5 @@
 # Dining Agenda
 
-
-
-
 ## Agenda
 
 * Go to Saturday lunch?

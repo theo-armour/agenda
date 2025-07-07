@@ -1,4 +1,4 @@
-# July
+# Heritage Happenings July 2025
 
 * Article drafted before the nap
 
@@ -33,13 +33,7 @@
 
 ## SFLPRS
 
-* Strategic Plan
-* Affiliation
-* Nominating Committee
-
 ## Events
-
-
 
 ## Next Village
 
@@ -59,8 +53,6 @@
 
 ## Dining Services
 
-* Puerto Rico
-* Cheese Tasting
 
 ## Health
 

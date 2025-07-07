@@ -11,7 +11,6 @@
 * Create Charter
 * Vision Committee
 
-
 ## Management
 
 * Committee
