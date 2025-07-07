@@ -5,7 +5,8 @@
 
 ## Agenda
 
-
+* Email posts to hhReadMe
+* hhReadMe: subtexts
 * Cheese tasting ~ Dylan ~ theo: descriptions
 * Hteam: event ~ Pony Person Photos
 * Speech Therapy ~ Claire

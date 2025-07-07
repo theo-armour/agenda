@@ -4,6 +4,31 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-07-06
+
+My friend Vish came here for lunch today and we talked for about three hours. He is working on a variety of projects and I provide feedback. In particular, we talked about a program his company is building and I gave feedback on the user experience.
+
+Of course, I thoroughly enjoy doing this sort of thing. It's far more fun than talking to my old people. Of course, I would never charge or even think about asking for shares in this startup or whatever. It's too much fun for me now.
+
+But now, as I write this, I'm thinking, should I ask for some feedback? Is my mentoring worthwhile? Is it helping him?
+
+Actually, I couldn't care what his ideas about me in particular are, because I'm having too much fun. But I think the interesting thing is, does he realize he's leaning on somebody who's older, who's experienced, who's done good things? And, if so, is he aware that he's taken advantage of it and might he acknowledge it?
+
+And all this is part of "what you want to do when you grow old?", Oldster's can do startups too, and the "Don't tell me you're playing solitaire again." movement: Old people should be useful people!
+
+more later
+
+
+
+
+## 2025-07-05
+
+It turns out that most of the effort I put in the last two days into building a website for Heritage was not worth the effort. This happens from time to time when you are programming something complicated that takes a good number of days to complete. Some things you try are just wrong. Not a happy camper here. And this too shall pass.
+
+
+## 2025-07-04
+
+Probably too far for you to attend. ;-) Here's an event I'm putting together.
 
 ## 2025-07-03
 

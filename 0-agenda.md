@@ -13,26 +13,14 @@
 ## Today
 
 * +++
-* Val: Reply
+* Mia: Wednesday
 * Tx: 1hr
 * SFLPRS: CV
-
-hh
-
-* Send flyer
-* Letters to editor
-* Val + mJa ~ advocacy
-
-more
-
-* +++
-* Dan & Karen
-* Drew & Espoir ~ Quincy & Adam: reflections
-* context engineering
 
 ## Whenever
 
 * +++
+* New Specs
 * Andrea
 * PA
 * NV Donna: party after elevator
@@ -40,3 +28,15 @@ more
 * Carolyn Kiernat: reply
 * Uber Survey ~ Amazon Survey
 * PT: try the chair
+* Dan & Karen
+* Drew & Espoir ~ Quincy & Adam: reflections
+* Context engineering
+
+## Wine & Cheese
+
+* Plumpjack visit
+* Fromagerie visit
+* Baguette
+* Updated To Do
+* Sign-up sheet
+* $$ to EAF?

@@ -1,5 +1,28 @@
 # Phyllis Wedvick
 
+## 2025-07-06
+
+Yes.  My mother used to use that phrase.
+
+What do you do on weekends?
+
+***
+
+>> Yes.  My mother used to use that phrase.
+
+https://en.wikipedia.org/wiki/This_too_shall_pass
+
+For me, it's an alternative to "So It Goes".
+
+>>What do you do on weekends?
+
+I think the last time I had to clock in was around 1979.
+
+So it's been something like "whatever works 24/7" ever since.
+
+Luckily, I am the sort of person that creates content.
+And, there's always room for more.
+
 ## 2025-07-05
 
 When I am less tired.

@@ -1,14 +1,12 @@
 # 0 Admin Personal Agenda
 
 * ?
-* Safeway: esomaprazole
 * A: toothpicks
 * A: thin erasable pens
-* A: Diapers
 * A: 22" Monitor?
-* new eyeglasses
+* New eyeglasses
 
-More
+## More
 
 * Journey: reverse seat ~ review ~ 800 958 8324
 * Dog Tags?
@@ -17,7 +15,6 @@ More
 * LL Bean ~ blanket
 * EyeBuyDirect: small specs
 * Jeans ~ jacket
-
 
 ## 2024-06-28 + 7 days: What to do?
 
