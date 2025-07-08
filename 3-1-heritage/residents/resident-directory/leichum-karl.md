@@ -13,7 +13,7 @@
 
 ## dexamethasone
 
-* eople with cancer undergoing chemotherapy are often given dexamethasone to counteract certain side effects of their antitumor treatments.
+* People with cancer undergoing chemotherapy are often given dexamethasone to counteract certain side effects of their antitumor treatments.
 * https://en.wikipedia.org/wiki/Dexamethasone
 
 ## John Ransom Phillips
