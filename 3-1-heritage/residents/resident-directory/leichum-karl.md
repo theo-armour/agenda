@@ -8,10 +8,13 @@
 
 ## Medications
 
+### Bicalutamide
+
+* Bicalutamide, sold under the brand name Casodex among others, is an antiandrogen medication that is primarily used to treat prostate cancer.[
 * https://en.wikipedia.org/wiki/Bicalutamide
 * https://en.wikipedia.org/wiki/Comparison_of_bicalutamide_with_other_antiandrogens
 
-## dexamethasone
+### dexamethasone
 
 * People with cancer undergoing chemotherapy are often given dexamethasone to counteract certain side effects of their antitumor treatments.
 * https://en.wikipedia.org/wiki/Dexamethasone
