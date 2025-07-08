@@ -14,8 +14,6 @@
 
 * +++
 * Tx: 1hr
-* Food Committee: letter
-* Plumpjack + New Specs
 * SFLPRS: CV
 * ReadMe: update
 * SFLP: scan non-disclosure

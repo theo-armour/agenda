@@ -11,9 +11,14 @@
 
 ## Optical Prescription ~ 2023-01-25
 
-        Sphere	Cylinder	Add
+        Sphere	Cylinder        Add
 Right	-3.00	DS	        +2.50
+
 Left	-3.50	DS	        +2.50
+
+
+Distance PD: 65mm Near PD: 63mm
+
 
 ## Glasses Prescription (9/27/2021) 
 

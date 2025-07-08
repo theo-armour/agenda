@@ -5,6 +5,17 @@
 * Lillemor and Karl \<leichum@earthlink.net>
 * Karl: germany, real estate
 
+
+## Medications
+
+* https://en.wikipedia.org/wiki/Bicalutamide
+* https://en.wikipedia.org/wiki/Comparison_of_bicalutamide_with_other_antiandrogens
+
+## dexamethasone
+
+* eople with cancer undergoing chemotherapy are often given dexamethasone to counteract certain side effects of their antitumor treatments.
+* https://en.wikipedia.org/wiki/Dexamethasone
+
 ## John Ransom Phillips
 
 * https://johnransomphillips.com/
