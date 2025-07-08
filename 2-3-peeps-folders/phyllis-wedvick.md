@@ -1,5 +1,28 @@
 # Phyllis Wedvick
 
+## 2025-07-07
+
+>> Very tough night with little sleep.  Not much to say or write this morning.
+
+***
+
+I'm sorry to hear this. From what you had been writing recently, the intensity and duration of acute grief seemed to have diminished. Looking around the Internet, I see that episodes of acute grief can last 6 to 12 months or more. And that the periods of grief are to be expected and are normal and that triggers and onsets are unpredictable.
+Me being a perpetual optimist — I'm always looking for the bright side, my brain comes up with this thought:
+The only people who can truly grieve for another person are sensitive, caring and loving people
+So I hope you are not blaming or criticizing yourself and deal with life as you would with a physica pain in a non judgmental way
+
+***
+
+Clause:
+
+I'm so sorry you had such a rough night. I know you've been having some better stretches lately, so these hard waves must feel especially difficult when they hit.
+
+From what I've read, grief really does come in these unpredictable waves, even months down the road. There's no timeline for it, and those sleepless nights can just knock you sideways without warning.
+
+You know me - always trying to find something hopeful to hold onto. And here's what strikes me: the depth of your grief is really just the other side of how deeply you loved. Only people with big, caring hearts feel loss this intensely.
+
+Please be gentle with yourself today. You wouldn't judge yourself for limping if you had a broken leg, and this kind of pain deserves the same compassion. Your heart is doing exactly what it needs to do.
+
 ## 2025-07-06
 
 Yes.  My mother used to use that phrase.

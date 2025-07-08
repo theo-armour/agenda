@@ -4,6 +4,19 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+
+## 2025-07-07
+
+The day had a bit of sparkle. I think what defines sparkle is probably
+
+* doing quite a few quite different things in the day
+* getting out of the house.
+* Having one or two conversations about some topic where I learned something.
+
+So today Looking at my journal, I did about 15 things. I got out of the house and went and bought some wine for our French cheese and wine tasting next week. Stopped at another store to get new eyeglasses and then went to my regular wine bar. There, I talked to a fairly new bartender about https://en.wikipedia.org/wiki/
+Manila_galleon — a history topic no normal person would ever know about. And oh yes, I got really good feedback on a new little web app I'm building, so that residents who are blind or have visual impairments can read the heritage happenings on their phones and iPads. 
+
+
 ## 2025-07-06
 
 My friend Vish came here for lunch today and we talked for about three hours. He is working on a variety of projects and I provide feedback. In particular, we talked about a program his company is building and I gave feedback on the user experience.
