@@ -4,6 +4,17 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-07-08
+
+The events of the day were that I attended the Food Committee meeting and spoke quite a bit there. Then I had lunch with Philip Engelhardt up at Perry's on Union Street, and then dinner with Margaret Johnson, my 101-year-old friend.
+
+But the real event was that I cracked the technology for how to write a file for an article that looks good in email, that looks good on a webpage, and that looks good as a PDF - and that is relatively painless to update. It did, however, take a painful week of hacking to get there.
+
+Fingers crossed: a pain in the hand is worth ten in the bush. Or something.
+
+
+
+
 
 ## 2025-07-07
 
@@ -14,7 +25,7 @@ The day had a bit of sparkle. I think what defines sparkle is probably
 * Having one or two conversations about some topic where I learned something.
 
 So today Looking at my journal, I did about 15 things. I got out of the house and went and bought some wine for our French cheese and wine tasting next week. Stopped at another store to get new eyeglasses and then went to my regular wine bar. There, I talked to a fairly new bartender about https://en.wikipedia.org/wiki/
-Manila_galleon — a history topic no normal person would ever know about. And oh yes, I got really good feedback on a new little web app I'm building, so that residents who are blind or have visual impairments can read the heritage happenings on their phones and iPads. 
+Manila_galleon — a history topic no normal person would ever know about. And oh yes, I got really good feedback on a new little web app I'm building, so that residents who are blind or have visual impairments can read the heritage happenings on their phones and iPads.
 
 
 ## 2025-07-06

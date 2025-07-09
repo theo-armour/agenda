@@ -1,5 +1,29 @@
 # Phyllis Wedvick
 
+
+## 2025-07-08
+
+I woke up this morning with the same panic and the sense that Peer is missing that has been present since he entered the hospital and then died.  This was never supposed to happen or that is what I believed.
+
+Your message has warmth and understanding of the challenge I face each day.  I am grateful.
+
+***
+
+What you believed then, what you understand now, What was supposed to happen, what didn't happen, what did happen.
+
+I can feel all of these thoughts running through your mind. And then I can see you getting outside  of your thoughts and and quietly observing your thoughts running around. And then, poof, your are transported back inside and it all gets complicated again.
+
+***
+
+The panic when you wake up, that sense of him being missing - I can only imagine how that hits you each morning. It's so hard when your heart hasn't caught up to what your mind knows.
+
+You're right that this wasn't supposed to happen. That belief made sense then, and the shock of it still makes sense now.
+
+I'm thinking of you as you navigate each day with this impossible absence.
+
+
+
+
 ## 2025-07-07
 
 >> Very tough night with little sleep.  Not much to say or write this morning.
