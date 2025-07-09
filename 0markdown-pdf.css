@@ -13,7 +13,7 @@ https: //github.com/yzane/vscode-markdown-pdf/tree/master
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 5em;
 	margin: 0 0 1rem 0;
 	/* border-bottom-width: 0px; */
 }
@@ -38,7 +38,7 @@ hr {
 }
 
 p {
-	color: #000;
+	color: #f00;
 	font-size: 14pt;
 	margin: 0 0 1.2rem 0;
 	/* padding: 0; */
