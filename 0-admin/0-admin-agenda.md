@@ -3,6 +3,8 @@
 ## Agenda
 
 * ?
+* Date with Mia
+* Clean Carp
 * Tidy desk
 * Brooke: message taxes
 * Pay Pharmerica

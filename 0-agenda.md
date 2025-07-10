@@ -13,13 +13,14 @@
 ## Today
 
 * +++
-* SFLP: scan non-disclosure
 * Tx: 1hr
 * ReadMe: update
 
 ## Whenever
 
 * +++
+* Jay Ludwig: ??
+* Apartments WiFi
 * Andrea
 * Personal Assistant
 * SFH terri+woody: party after elevator
@@ -32,6 +33,8 @@
 
 ## Wine & Cheese
 
+* Email
+* Stephen
 * Fromagerie visit
 * Baguette
 * Updated To Do

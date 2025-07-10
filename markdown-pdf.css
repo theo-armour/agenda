@@ -29,19 +29,20 @@ em {
 }
 
 h1 {
-	font-size: 150%;
+	color: #880000;
+	border-width: 0;
+	font-size: 120%;
 	margin: 0 0 2rem 0;
 }
 
 h2 {
-	font-size: 1rem;
+font-size: 100%;
 }
 
 h3 {
-	font-size: 1.1rem;
+
 }
 
-h1,
 h2,
 h3 {
 	border-width: 0;
@@ -78,7 +79,7 @@ ul {
 
 @media print {
 	body {
-		font-size: 24pt;
+		font-size: 14pt;
 		background: #fff !important;
 	}
 
@@ -93,7 +94,7 @@ ul {
 	}
 
 	h2 {
-		font-size: 120%;
+		font-size: 90%;
 		margin: 0 0 0 0;
 	}
 
@@ -117,6 +118,6 @@ ul {
 
 	p,
 	li {
-		font-size: 24pt;
+
 	}
 }

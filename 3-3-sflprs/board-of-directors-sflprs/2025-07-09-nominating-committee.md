@@ -1,4 +1,4 @@
-# 2025-07-10
+# 2025-07-10 Questions for an Applicant to the SFPL&S Board of Directors
 
 ## 1. What specific skills, experience, or connections can you bring to help advance our mission?
 
@@ -75,5 +75,6 @@ Yes, of course, it's the revenues. Can I fix these? Of course not. But I can be 
 ## 13. What have we missed talking about?
 
 OMG! There's wellness and security and maintenance of old buildings, and IT, and activities that suck, and much, much more.
+
 
 To be continued...

@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* GuiKui
 * Laura Burges: Open Socrates?
 * Aselia
 * 9am club
@@ -14,10 +15,10 @@
 * John Choate: wall image ~ PGE no public ros ~ planter
 * Hector G
 * Bebo & Ron
-* Olga:
+* Olga, terry & Nina:
 * Jason Carman
 * domimicbookbinder@gmail.com
-* Jose Leos * Rob Leslie
+* Jose Leos & Rob Leslie
 
 ## Peeps
 
@@ -29,7 +30,6 @@
 * Doug Dwyer
 * George Dicke?
 * Michael Howard: Doom?
-* Cookie ~ bird?
 * Tim Lattimore
 * Christine &amp; Pam
 * Ronan: PLE ~ endiatx ~ jason ~ intro text

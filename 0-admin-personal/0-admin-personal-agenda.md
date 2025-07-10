@@ -8,6 +8,7 @@
 
 ## More
 
+* New bow tie: #880000
 * Journey: reverse seat ~ review ~ 800 958 8324
 * Dog Tags?
 * Tom King book 2
