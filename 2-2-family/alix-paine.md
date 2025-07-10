@@ -4,6 +4,14 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-07-09
+
+There was a knock on my door around 8 am this morning. My friend Lillemor told me that her husband Karl was being taken to Kaiser. She was not fit to go, would I go?
+
+After hesitating, I said yes, and so I spent the morning by his hospital bed. He was having internal bleeding and needed a blood transfusion. He has stage 4 prostate cancer. He took it all very stoically. Eventually, I went home, and Lillemor and a friend of hers came to be with Karl.
+
+I like Karl, and yet I have no deep feelings for this man. So it is all a strange, very grey experience. Nonetheless, I do admire his stoicism and equanimity. I hope I would behave in a similar manner if it were me.
+
 ## 2025-07-08
 
 The events of the day were that I attended the Food Committee meeting and spoke quite a bit there. Then I had lunch with Philip Engelhardt up at Perry's on Union Street, and then dinner with Margaret Johnson, my 101-year-old friend.

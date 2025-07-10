@@ -13,10 +13,9 @@
 ## Today
 
 * +++
-* Tx: 1hr
-* SFLPRS: CV
-* ReadMe: update
 * SFLP: scan non-disclosure
+* Tx: 1hr
+* ReadMe: update
 
 ## Whenever
 
@@ -33,7 +32,6 @@
 
 ## Wine & Cheese
 
-* Plumpjack visit
 * Fromagerie visit
 * Baguette
 * Updated To Do
