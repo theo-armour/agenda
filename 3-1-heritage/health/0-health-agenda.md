@@ -3,7 +3,6 @@
 
 ## Agenda
 
-* Get glasses prescription
 * New Eyeglasses
 * Pine Park Senior Doc, UCSF?
 * Stairs: set chairs landing place

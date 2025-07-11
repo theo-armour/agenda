@@ -14,7 +14,6 @@
 
 * Non-negotiable: docs
 
-
 ## NRHP
 
 * Carolyn Kiernat

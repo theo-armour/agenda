@@ -15,28 +15,27 @@
 * +++
 * Tx: 1hr
 * ReadMe: update
+* Dan & Karen
+* Walgreens: Vaccine appt
+* Fromagerie visit ~ photo of plate ~ Baguette
+* Tyler Sterkel
+
 
 ## Whenever
 
 * +++
-* Jay Ludwig: ??
-* Apartments WiFi
 * Andrea
-* Personal Assistant
-* SFH terri+woody: party after elevator
+* Martha: Personal Assistant
 * Carolyn Kiernat: reply
-* Uber Survey ~ Amazon Survey
-* PT: try the chair
-* Dan & Karen
 * Drew & Espoir ~ Quincy & Adam: reflections
 * Context engineering
+* Maintenance: Apts WiFi
+* Uber Survey ~ Amazon Survey
+* PT: try the chair
 
 ## Wine & Cheese
 
-* Email
-* Stephen
-* Fromagerie visit
-* Baguette
+* Email update to residents
 * Updated To Do
-* Sign-up sheet
-* $$ to EAF?
+
+
