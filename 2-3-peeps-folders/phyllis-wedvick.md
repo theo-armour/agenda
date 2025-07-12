@@ -1,12 +1,31 @@
 # Phyllis Wedvick
 
+
+## 2025-07-11
+
+How is Karl?  How are you?
+
+***
+
+Last night I was working something and completely forgot to send a message. So it goes.
+
+Karl is still under observation at Kaiser. Lillemor is more under control and she has not asked me to cover for her.
+
+Last night I was walking back from an event on Chestnut Street. A group of perhaps eight or ten young people, all talking with each other, were coming toward me. Just as they were passing by, I heard a woman say, "this idiotic man from New York." So I blurted out "Like me!"  And they all cracked up. Fifteen seconds of impromptu street theater. Made my evening.
+
+## 2025-07-11
+
+This seems difficult. I don't know. When Peer received treatment at Kaiser, I would sometimes go also. Infusions and transfusions-not pleasant memories. Cancer is awful but Peer would pretend to himself and his sons that all was not a problem. Honestly, I do not miss either son.
+
+***
+
 ## 2025-07-09
 
 There was a knock on my door around 8 am this morning. My friend Lillemor told me that her husband Karl was being taken to Kaiser. She was not fit to go, would I go?
 
 After hesitating, I said yes, and so I spent the morning by his hospital bed. He was having internal bleeding and needed a blood transfusion. He has stage 4 prostate cancer. He took it all very stoically. Eventually, I went home, and Lillemor and a friend of hers came to be with Karl.
 
-I like Karl, and yet I have no deep feelings for this man. So it is all a strange, very grey experience. Nonetheless, I do admire his stoicism and equanimity. I hope I would behave in a similar manner if it were me. 
+I like Karl, and yet I have no deep feelings for this man. So it is all a strange, very grey experience. Nonetheless, I do admire his stoicism and equanimity. I hope I would behave in a similar manner if it were me.
 
 ## 2025-07-08
 

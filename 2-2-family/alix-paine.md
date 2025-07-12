@@ -4,6 +4,11 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+
+## 2025-07-11
+
+Last night I was walking back from an event on Chestnut Street. A group of perhaps eight or ten young people, all talking with each other, were coming toward me. Just as they were passing by, I heard a woman say, "this idiotic man from New York." So I blurted out "Like me!"  And they all cracked up. Fifteen seconds of impromptu street theater. Made my evening.
+
 ## 2025-07-09
 
 There was a knock on my door around 8 am this morning. My friend Lillemor told me that her husband Karl was being taken to Kaiser. She was not fit to go, would I go?

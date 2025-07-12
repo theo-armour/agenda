@@ -15,9 +15,6 @@
 * +++
 * Tx: 1hr
 * ReadMe: update
-* Dan & Karen
-* Walgreens: Vaccine appt
-* Fromagerie visit ~ photo of plate ~ Baguette
 * Tyler Sterkel
 
 
