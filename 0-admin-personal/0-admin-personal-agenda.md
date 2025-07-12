@@ -1,14 +1,15 @@
 # 0 Admin Personal Agenda
 
 * ?
-* A: toothpicks
-* A: thin erasable pens
 * A: 22" Monitor?
 * New eyeglasses
+* Johnny Walker Blue miniatures
 
 ## More
 
-* New bow tie: #880000
+* A: toothpicks
+* A: thin erasable pens
+* MonoCircus: New bow tie: #880000
 * Journey: reverse seat ~ review ~ 800 958 8324
 * Dog Tags?
 * Tom King book 2

@@ -15,7 +15,11 @@
 * +++
 * Tx: 1hr
 * ReadMe: update
+* A: diapers
+* HH: wine & cheese
+* HH: 2x PDF
 * Tyler Sterkel
+* Tidy desk
 
 
 ## Whenever
@@ -34,5 +38,3 @@
 
 * Email update to residents
 * Updated To Do
-
-
