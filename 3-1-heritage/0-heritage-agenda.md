@@ -1,4 +1,4 @@
-# 3.0 Heritage Agenda
+# Heritage Agenda
 
 ## Continuing Care Contract Statutes
 

@@ -3,7 +3,7 @@
 
 ## Agenda
 
-* New Eyeglasses
+* PT: try the chair
 * Pine Park Senior Doc, UCSF?
 * Stairs: set chairs landing place
 * PPH: review and sign document
@@ -12,6 +12,7 @@
 
 ## 2024-12-23? ~ Martha Nkhoma
 
+* Martha: Personal Assistant
 * Stairs & Chair Lift Safety Check
 * Pharamerica Registration
 * POST review with Cynthia on Zoom

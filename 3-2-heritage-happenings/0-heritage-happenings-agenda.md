@@ -1,6 +1,8 @@
 # 3.1 Heritage Happenings
 
-## Website
+## Website ~ Destop
+
+## Website ~ Mobile
 
 
 ## heritage-happenings-sf@gmail.com
@@ -10,6 +12,8 @@
 * G Docs: add template
 * Create Charter
 * Vision Committee
+
+## Distribution on Paper
 
 ## Management
 

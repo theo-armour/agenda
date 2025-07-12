@@ -1,6 +1,7 @@
 # 0 Admin Personal Agenda
 
 * ?
+* Tidy desk
 * A: 22" Monitor?
 * New eyeglasses
 * Johnny Walker Blue miniatures

@@ -4,13 +4,13 @@
 * Mary: Type A ~ Appendix H provisions
 * Jon Casey: Type C Charges
 * Jon Casey: Touchtown Czar?
+* Jon Casey: IT guy ~ Find phone ~ TouchTown
+* Hacct Vivien: Donations
 * CTO: my donations
-* He: Donations
+* CTO ~ better reports
 * McGinley Computer: W10??
 * HH cfo: billing split + eaf + email
-* Jon Casey: IT guy ~ Find phone ~ TouchTown
 * Carl: Resident MS365 ~ mailing list
-* CTO ~ better reports
 
 ## Financial Study Group
 

@@ -2,6 +2,10 @@
 
 * Article drafted before the nap
 
+## Wine & Cheese
+
+* Email update to residents
+* Updated To Do
 
 ## Agenda
 

@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* Peeps: Tyler Sterkel
 * GuiKui
 * Laura Burges: Open Socrates?
 * Aselia

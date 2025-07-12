@@ -15,26 +15,14 @@
 * +++
 * Tx: 1hr
 * ReadMe: update
-* A: diapers
 * HH: wine & cheese
 * HH: 2x PDF
-* Tyler Sterkel
+* Peeps: Tyler Sterkel
 * Tidy desk
-
 
 ## Whenever
 
 * +++
-* Andrea
-* Martha: Personal Assistant
 * Carolyn Kiernat: reply
 * Drew & Espoir ~ Quincy & Adam: reflections
-* Context engineering
-* Maintenance: Apts WiFi
 * Uber Survey ~ Amazon Survey
-* PT: try the chair
-
-## Wine & Cheese
-
-* Email update to residents
-* Updated To Do
