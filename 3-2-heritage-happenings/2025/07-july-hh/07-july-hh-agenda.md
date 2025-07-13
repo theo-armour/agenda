@@ -2,24 +2,21 @@
 
 * Article drafted before the nap
 
-## Wine & Cheese
+## Soon
 
-* Update ReadMe
-* 2025-07-13: writers ws + $$ to Stephen
-* Updated To Do
+* Speech Therapy ~ Claire
+
 
 ## Agenda
 
-* Email posts to hhReadMe
-* Speech Therapy ~ Claire
+* Tom King ~ Chime article
 * Message to Committee
-* Topic: Mia: Hobbies, Passions, Inspiration
-* Martha: Heritage Medical forms update
-* Martha: draft letter for clinic from PCO on meds they can provide
-* Updated values
+
 
 ### Done
 
+* Email posts to hhReadMe
+* Update ReadMe
 * hhReadMe: subtexts
 * Hteam: event ~ Pony Person Photos
 * Cheese tasting ~ Dylan ~ theo: descriptions
@@ -62,9 +59,11 @@
 
 ## Health
 
+* Speech Therapy ~ Claire
 * Topic: Mia: Hobbies, Passions, Inspiration
 * Martha: Heritage Medical forms update
 * Martha: draft letter for clinic from PCO on meds they can provide
+
 
 ## Maintenance & Housekeeping
 
@@ -72,5 +71,9 @@
 
 ## Marketing & Sales
 
+
+## Residents Council
+
+* Updated Residents Council Values Doc
 
 ## Residents

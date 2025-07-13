@@ -10,9 +10,11 @@
 * 2025-07-05 ~ Correlation is not causality
 * 2025-07-06 ~ Theo: What are you going to do when you grow old?
 * 2025-07-13 ~ fs ~ Swim in your lane
+
 ## Today
 
 * +++
+* Jon: hotm website down
 * Tx: 1hr
 * ReadMe: update
 * HH: wine & cheese: Mary + staff
@@ -21,6 +23,11 @@
 * HH: binders & covers
 * Peeps: Tyler Sterkel
 * Tidy desk
+
+## Wine & Cheese
+
+* 2025-07-13: writers ws + $$ to Stephen
+* Updated To Do
 
 
 ## Whenever
