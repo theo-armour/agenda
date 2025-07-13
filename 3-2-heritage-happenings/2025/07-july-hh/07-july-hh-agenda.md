@@ -4,17 +4,14 @@
 
 ## Wine & Cheese
 
-* Email update to residents
+* Update ReadMe
+* 2025-07-13: writers ws + $$ to Stephen
 * Updated To Do
 
 ## Agenda
 
 * Email posts to hhReadMe
-* hhReadMe: subtexts
-* Cheese tasting ~ Dylan ~ theo: descriptions
-* Hteam: event ~ Pony Person Photos
 * Speech Therapy ~ Claire
-* Interview: Candy & Jim
 * Message to Committee
 * Topic: Mia: Hobbies, Passions, Inspiration
 * Martha: Heritage Medical forms update
@@ -23,6 +20,11 @@
 
 ### Done
 
+* hhReadMe: subtexts
+* Hteam: event ~ Pony Person Photos
+* Cheese tasting ~ Dylan ~ theo: descriptions
+* Interview: Candy & Jim
+* Email update to residents
 * Fathers Day ~ M Johnson: OK to Go?
 * 2025-07-02 Community Apps Superpowers
 * 2025-07-02 Porter Garden
