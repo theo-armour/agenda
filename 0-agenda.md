@@ -15,7 +15,8 @@
 * +++
 * Tx: 1hr
 * ReadMe: update
-* HH: wine & cheese
+* HH: wine & cheese: Mary + staff
+* HH: wine & cheese: dylan
 * HH: 2x PDF
 * Peeps: Tyler Sterkel
 * Tidy desk
