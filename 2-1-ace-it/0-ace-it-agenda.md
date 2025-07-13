@@ -2,6 +2,7 @@
 
 ## Agenda
 
+* ACE: soap photo
 * Gdrive
   * Draft a strategy
   * Videos to YouTube

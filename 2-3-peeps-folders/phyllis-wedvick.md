@@ -1,5 +1,55 @@
 # Phyllis Wedvick
 
+## 2025-07-12
+
+
+How funny.
+
+I used to walk along Chestnut years ago.  I remember a music box store.
+
+My days are odd.  Today I brought cupcakes to Faith at the bookstore.  We sat in the very back of the store--many little rooms--and drank tea and chatted for almost two hours.  Part of the conversation was about aging.  Faith's husband is 84--14 years older than she is.
+
+I spoke to Marie by telephone for an hour--she lives near where we both were born and grew up in houses next door to each other.
+
+Somehow, despite crying much this morning, the day became less lonely.
+
+Did you know Mal Calder?  He was a close friend of Peer.
+
+***
+
+>> Mal Calder
+
+The last time saw Mal was Either at our graduation or at the party that Nat Prentice gave a few days after.
+
+There was another encounter, however: A few years ago, Mal started messaging the SPS 65 email group pleading poverty and requesting financial support. As you might imagine, this is not the thing to do when returning to the playground of the elite.
+
+>> music box store on Chestnut
+
+Sadly, it's no longer playing here, but Silver Cloud does a nice Karaoke, they say.
+
+>> Faith's husband is 84--14 years older than she is.
+
+"Growing old is not for sissies"
+
+>> the day became less lonely.
+
+Be thankful for those moments
+
+***
+
+My effort for the day:
+
+French Wine and Cheese Tasting: The Menu
+
+https://heritage-happenings.github.io/print.html#https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-12-French-Wine-and-Cheese-Tasting/French-Wine-and-Cheese-Tasting.md
+
+Two aspects:
+
+1. I've organized yet another event, just because the staff are under-equipped and the residents are too old.
+
+2. The website for this page is also my effort: Trying to make it all work on the phones of people in their late nineties
+
+
 
 ## 2025-07-11
 

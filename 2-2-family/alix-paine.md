@@ -5,6 +5,25 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-07-12
+
+My effort for the day:
+
+French Wine and Cheese Tasting: The Menu
+
+https://heritage-happenings.github.io/print.html#https://heritage-happenings.github.io/Blog/2025/07-july/2025-07-12-French-Wine-and-Cheese-Tasting/French-Wine-and-Cheese-Tasting.md
+
+Two aspects:
+
+1. I've organized yet another event, just because the staff are under-equipped and the residents are too old.
+
+2. The website for this page is also my effort: Trying to make it all work on the phones of people in their late nineties.
+
+Actually three aspects
+
+3. Because I ate all the cheeses, somehow the poo was greater than anticipated. ;-)
+
+
 ## 2025-07-11
 
 Last night I was walking back from an event on Chestnut Street. A group of perhaps eight or ten young people, all talking with each other, were coming toward me. Just as they were passing by, I heard a woman say, "this idiotic man from New York." So I blurted out "Like me!"  And they all cracked up. Fifteen seconds of impromptu street theater. Made my evening.
