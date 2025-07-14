@@ -6,7 +6,7 @@ Aaron drop
 425833 3450 7323
 Question of the day what are you going to do when you grow old?
 BoD interview questions from residents&nbsp;
-[https://www.linkedin.com/in/theoa/](https://www.
+[https://www.linkedin.com/in/theoa
 
 [https://pushme-pullyou.github.io/tootoo-2025/](https://pushme-pullyou.github.io/tootoo-2025/)
 %
