@@ -1,6 +1,8 @@
 Notes
 +++
 Josh 
+Alex Payne 
+Aaron drop
 
 Question of the day what are you going to do when you grow old?
 BoD interview questions from residents&nbsp;
