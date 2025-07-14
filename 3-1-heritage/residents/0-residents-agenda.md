@@ -18,6 +18,13 @@
 * Margaret jacobs: fun & games
 * MargaretM: TechPubs son
 
+## Residents Council
+
+* Me: Willing to serve as a member of the executive committee but not as an officer
+
+## Men's Group
+
+* He Men's group: Lord's prayer
 
 ## Margaret Jacobs
 

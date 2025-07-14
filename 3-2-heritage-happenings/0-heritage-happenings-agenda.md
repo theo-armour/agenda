@@ -1,6 +1,9 @@
 # 3.1 Heritage Happenings
 
-## Website ~ Destop
+* Emergency phone numbers
+* Tess: Audiobook app
+
+## Website ~ Desktop
 
 ## Website ~ Mobile
 

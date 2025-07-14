@@ -4,17 +4,16 @@
 
 ## Soon
 
-* Speech Therapy ~ Claire
-
 
 ## Agenda
 
+* Speech Therapy ~ Claire
 * Tom King ~ Chime article
-* Message to Committee
-
+* Topic: Mia: Hobbies, Passions, Inspiration
 
 ### Done
 
+* Message to Committee
 * Email posts to hhReadMe
 * Update ReadMe
 * hhReadMe: subtexts

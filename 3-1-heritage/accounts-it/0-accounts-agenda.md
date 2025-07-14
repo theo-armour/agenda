@@ -1,5 +1,6 @@
 # Accounts Agenda
 
+* Fee schedule questions
 * Mary: Type C: particulars
 * Mary: Type A ~ Appendix H provisions
 * Jon Casey: Type C Charges

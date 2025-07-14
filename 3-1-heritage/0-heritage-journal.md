@@ -1,5 +1,18 @@
 # Heritage 2023 Journal
 
+
+## 2025-07-13
+
+* Breakout into separate departments
+* Heritage: triage
+* Nail Salon on site? Mary will investigate this.
+* Mary: talk at SacSem?
+* Mary: meeting: apt + HH + Hector
+* hSP: Landmark designation details
+* EIR: roses
+* EIR: access
+* EIR: Historic milieu
+
 ## 2025-03-05
 
 * Irving invite

@@ -3,6 +3,8 @@
 
 ## Agenda
 
+* Martha: Lauren?
+* MarthaN: medications message draft
 * PT: try the chair
 * Pine Park Senior Doc, UCSF?
 * Stairs: set chairs landing place
