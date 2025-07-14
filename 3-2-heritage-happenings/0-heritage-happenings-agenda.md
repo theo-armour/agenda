@@ -18,6 +18,8 @@
 
 ## Distribution on Paper
 
+* Set max-width divContent text
+
 ## Management
 
 * Committee

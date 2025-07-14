@@ -5,6 +5,19 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-07-13
+
+I'm in the middle of transitioning the Heritage Happenings newsletter from Paper First publication to Digital First publication. And this is a complicated process. In particular I am trying to address the needs of people in assisted living who have cognitive, vision and dexterity issues.
+
+Here is a link to the app I am working - which is primarily designed for iPads and tablets:
+
+https://heritage-happenings.github.io/
+
+The mission is to keep everything as simple and foolproof as possible and give access to every article published in the month.
+
+
+
+
 ## 2025-07-12
 
 My effort for the day:

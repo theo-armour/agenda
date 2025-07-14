@@ -1,5 +1,33 @@
 # Phyllis Wedvick
 
+
+## 2025-07-13
+
+Theo--Peer thought of Mal Calder often and cared about him.  What you wrote was not kind.
+
+I attended and graduated from Mount Holyoke College.  Many classmates had graduated from boarding schools with elite names.  I did not. I did not spend my summers in Europe.
+
+Having had many unfortunate financial crises in my own life, and having received help from many, I would not judge Mal.  I have my own worries and received help from many sources.  Peer did as well.
+
+Maybe you never needed to ask for financial help.  From what Peer told me about your family, I realize that you did not have this kind of need.
+
+
+***
+
+>> What you wrote was not kind.
+
+I absolutely agree. People who attended posh boarding schools tend to have curious sentiments about a number of topics — particularly about wealth and lack of it. Our class is no different.
+
+Looking at my message, I do not get a sense that I was judging Mal. What I was judging yesterday and today was the class of '65 as a group.
+
+>>Maybe you never needed to ask for financial help.
+
+I have looked to investors on several occasions for financial help, but that is not what you were looking for, I guess. On the other hand, I have been seriously scammed three times, once for over a hundred thousand. Finding out that your "very good friend" is not a friend is debilitating.
+
+I have also worked very hard, saved a good amount of money, put money aside for contingencies, planned my life quite diligently and, in the whole, been very very lucky.
+
+All humans have deep needs of one sort or another.
+
 ## 2025-07-12
 
 

@@ -14,13 +14,10 @@
 ## Today
 
 * +++
-* Jon: hotm website down
+
 * Tx: 1hr
-* ReadMe: update
 * HH: wine & cheese: Mary + staff
 * HH: wine & cheese: dylan
-* HH: 2x PDF
-* HH: binders & covers
 * Peeps: Tyler Sterkel
 * Tidy desk
 
