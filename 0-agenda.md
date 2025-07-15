@@ -29,6 +29,7 @@
 
 * +++
 * Vada: prep?
+* Katie: my text + NV
 * Peeps: Tyler Sterkel
 * Hector: Illumination
 * PPH: gripes follow-up

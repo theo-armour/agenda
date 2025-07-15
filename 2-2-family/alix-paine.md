@@ -5,6 +5,12 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-07-14
+
+Wow, a complicated day, completed a text I like for a writers workshop, spent a lot of time with Lillemor, the woman who is having a ton of trouble looking after her husband because he used to do all the medical interactions before, and now she is both grieving and dealing with the paperwork. I met with a med tech about Lillemor, wrote a lot of emails, drafted a good set of notes for a meeting tomorrow and had a good outdoor walk, and had dinner with the two people with good comments about the new newsletter format I am working on. Emails were a bit tricky — two people had issues with what I sent. So it goes.
+
+
+
 ## 2025-07-13
 
 I'm in the middle of transitioning the Heritage Happenings newsletter from Paper First publication to Digital First publication. And this is a complicated process. In particular I am trying to address the needs of people in assisted living who have cognitive, vision and dexterity issues.
