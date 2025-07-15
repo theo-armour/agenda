@@ -13,8 +13,8 @@
 ## 2025-07-14
 
 * lolo ~ africa
-* Alix ~ wife
-*
+* Alix ~ saw wife
+* https://www.cynthiaarmour.com/ not secure
 
 ## 2025-06-23
 

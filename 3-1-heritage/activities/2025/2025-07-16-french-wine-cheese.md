@@ -1,4 +1,4 @@
-##
+## 2025-07-16
 
 ### Bubbles: Vouvray Pettilant
 
@@ -31,6 +31,7 @@ The Tasting will be on Wednesday, July 16th at 3:00PM in Friendship Hall. I'm pl
 * Toothpicks
 
 ### Agenda
+
 Types and number of wines
 Mixed or single color?
 similar types or varied (bubbles, dry & desert)?

@@ -4,6 +4,11 @@
 
 * https://ww2.arb.ca.gov/
 
+[1:01 PM, 7/3/2025] Cynthia Burrage Armour: Haha I love it.
+
+My actual title is Air Pollution Specialist within the CA Air Resources Board's Sustainable Transportation and Communities Division.
+
+In effect, I work on transportation and land use policy at the intersection of city planning and climate action.
 
 ## CBA
 

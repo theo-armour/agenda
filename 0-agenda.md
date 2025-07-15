@@ -19,20 +19,18 @@
 
 ## Wine & Cheese
 
-* HH: wine & cheese: Mary + staff
 * HH: wine & cheese: dylan
 * Updated To Do
+* Perrier & baguette
+* $20 to Stephen
+* Post attendees / Kay Tim
 
 ## Whenever
 
 * +++
 * Vada: prep?
 * Peeps: Tyler Sterkel
-* Rob: Suhail
-* Asol: Seddique
 * Hector: Illumination
-* Alex Pain: Golfing
-* Aaron Dropp: ??
 * PPH: gripes follow-up
 * Carolyn Kiernat: reply
 * Drew & Espoir ~ Quincy & Adam: reflections
