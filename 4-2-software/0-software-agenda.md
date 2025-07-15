@@ -12,14 +12,14 @@ Agendas
 ## Agenda
 
 * ?
-* Windows backup &amp; restore setup??
+* Windows backup and restore setup??
 * Move from Bing to Chrome
 * Split up AutoHotKey files
 * Securest place for files
 * PC manager
 * Fin Win Utils
 * Upgrade to bc5
-* <a href="https://markdown-it.github.io/">https://markdown-it.github.io/</a> could be better than showdown ~&nbsp;let's explore it
+* https://markdown-it.github.io/" could be better than showdown ~ let's explore it
 * <a href="https://meco.app/?utm_campaign=39ye">https://meco.app/?utm_campaign=39ye</a>
 * Want: instant dictation
 * TL;DV?

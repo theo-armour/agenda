@@ -1,13 +1,13 @@
 # 0 Admin Personal Agenda
 
 * ?
-* Tidy desk
-* A: 22" Monitor?
 * New eyeglasses
-* Johnny Walker Blue miniatures
+
 
 ## More
 
+* A: 22" Monitor?
+* Johnny Walker Blue miniatures
 * A: toothpicks
 * A: thin erasable pens
 * MonoCircus: New bow tie: #880000

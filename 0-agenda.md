@@ -14,21 +14,26 @@
 ## Today
 
 * +++
-
 * Tx: 1hr
-* HH: wine & cheese: Mary + staff
-* HH: wine & cheese: dylan
-* Peeps: Tyler Sterkel
-* Tidy desk
+* Tidy desk + clean carpet
 
 ## Wine & Cheese
 
-* 2025-07-13: writers ws + $$ to Stephen
+* HH: wine & cheese: Mary + staff
+* HH: wine & cheese: dylan
 * Updated To Do
 
 ## Whenever
 
 * +++
+* Vada: prep?
+* Peeps: Tyler Sterkel
+* Rob: Suhail
+* Asol: Seddique
+* Hector: Illumination
+* Alex Pain: Golfing
+* Aaron Dropp: ??
+* PPH: gripes follow-up
 * Carolyn Kiernat: reply
 * Drew & Espoir ~ Quincy & Adam: reflections
 * ACE: soap photo

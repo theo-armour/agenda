@@ -5,7 +5,6 @@
 * ?
 * NextDoor: photos
 * Leading Age: Join CA
-* Dan T: Karen ~ nytimes / avatar
 * F: application
 * NV:
 * Spider

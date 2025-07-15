@@ -4,10 +4,10 @@
 
 * Peeps: Tyler Sterkel
 * GuiKui
-* Laura Burges: Open Socrates?
 * Aselia
-* 9am club
 * John Maeck
+* Laura Burges: Open Socrates?
+* 9am club
 * Andrea SFPL: documentalist + lunch
 * Paul Goldsmith
 * Jack O: talk at H + Guestroom?

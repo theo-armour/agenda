@@ -3,11 +3,9 @@
 ## Agenda
 
 * Rejig Agenda into a tootoo
-* Outlook email replies
-* AudioPen: Pens to Journal
-* Create topic folders (?)
 
-Old
+
+### Old
 
 * Check three.js examples page: Is it sill vanilla JavaScript? Ditto mrdoob.com
 * Inspirations: move to pages sections??

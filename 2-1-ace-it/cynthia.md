@@ -9,6 +9,13 @@
 * Finish hand
 * Mariposa
 
+
+## 2025-07-14
+
+* lolo ~ africa
+* Alix ~ wife
+*
+
 ## 2025-06-23
 
 * Kyle

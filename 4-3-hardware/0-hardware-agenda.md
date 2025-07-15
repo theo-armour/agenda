@@ -6,8 +6,9 @@
 
 ## Old
 
+* Plaud: ??
 * James Scanlon ~ olga ~ stairs tracking
-* Watch: learn 
+* Watch: learn
 * Otter: watch app
 * Hover: joystick try
 * Rrmnl: update ~ use for checklists
