@@ -4,6 +4,13 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+## 2025-07-15
+
+My Alix has a new boyfriend, Jerry. He has three young sons. They are all going to spend ten days camping in France. Alix took a photo of the boys playing with their devices in the car. I used AI to animate the photo. Here the link to the album:
+
+https://photos.app.goo.gl/9SXyz9GcjcztqeFx6
+
+
 
 ## 2025-07-14
 

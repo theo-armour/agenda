@@ -1,5 +1,14 @@
 # Phyllis Wedvick
 
+
+## 2025-07-15
+
+Fingers crossed you had a good and got out and chatted with some interesting people.
+
+Tonight I had dinner with one of my fellow residents who is very conservative, a faithful Trump supporter and basically dislikes all government. Somehow she and me, the lefty progressive, always seem to get along. We almost never agree on anything and yet somehow keep the dialog going. I don't really understand how we actually do this. I guess somehow we are "accommodating" of each other but I can't actually put my finger on what "accommodating" actually means.
+
+
+
 ## 2025-07-14
 
 Theo,
