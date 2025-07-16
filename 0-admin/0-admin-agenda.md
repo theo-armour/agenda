@@ -4,11 +4,11 @@
 
 * ?
 * Date with Mia
-* Clean Carp
+* Clean Carpet
 * Tidy desk
+* Display: pack up
 * Brooke: message taxes
 * Pay Pharmerica
-* Display: pack up
 
 
 More
@@ -22,7 +22,6 @@ More
 * Samsung
 * Job description: need a personal assistant
 * DonnaB: vet Job Description
-* File for admin tips
 * Josh: stocks to children?
 
 ## Security
@@ -53,7 +52,7 @@ Done
 ## Chase
 
 * Check subscriptions
-*loan pay back
+* loan pay back
 
 ## IRS
 

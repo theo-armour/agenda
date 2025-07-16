@@ -4,7 +4,6 @@
 
 * Gustavus: files
 * Andrea Grimes SFPL: lunch
-* Tania boxes to storage
 * Internet Archive: take books?
 * Armour Collection Item Selector
 * IA: storage photos

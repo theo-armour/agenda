@@ -17,19 +17,10 @@
 * Tx: 1hr
 * Tidy desk + clean carpet
 
-## Wine & Cheese
-
-* HH: wine & cheese: dylan
-* Updated To Do
-* Perrier & baguette
-* $20 to Stephen
-* Post attendees / Kay Tim
 
 ## Whenever
 
 * +++
-* Vada: prep?
-* Katie: my text + NV
 * Peeps: Tyler Sterkel
 * Hector: Illumination
 * PPH: gripes follow-up
@@ -37,3 +28,7 @@
 * Drew & Espoir ~ Quincy & Adam: reflections
 * ACE: soap photo
 * Uber Survey ~ Amazon Survey
+* Pay Pharmerica
+* Donna: Admin??
+* GuiKui
+* Aselia

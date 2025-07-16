@@ -8,7 +8,7 @@ tags #habits #schedule #fitness
 * How many rituals do I perform in a a day?
 * Prepare for a new style of weekend ~ Use the style
 
-Possibilities
+## Possibilities
 
 * Walk up three flights of stairs
 * Do some arm weight stuff

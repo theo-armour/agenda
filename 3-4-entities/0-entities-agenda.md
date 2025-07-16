@@ -13,7 +13,7 @@
 
 ## Maybe
 
-* awesome: zelle?
+* Awesome: zelle?
 * Joel P
 * Peter Otis + Bob Hall:
 * George Smart: woody

@@ -5,8 +5,6 @@
 
 ## Pharmacy
 
-* TDT Vaccine appointment
-
 ## Eyes
 
 * new glasses online prices: ~$300
