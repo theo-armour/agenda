@@ -1,5 +1,26 @@
 # Phyllis Wedvick
 
+## 2025-07-16
+
+I have not felt well for the past two days.  Too much anxiety exhausts me.
+
+Today, I did go to storage to find my way to the end of the project.  Boxes of books are left.
+
+Accommodating is an odd word.
+
+***
+
+>>I have not felt well for the past two days.  Too much anxiety exhausts me.
+
+It’s very understandable. Anxiety is so draining.
+
+>>Today, I did go to storage to find my way to the end of the project.  Boxes of books are left.
+
+I find going to storage is so tricky because all the memories keep jumping out. It can be difficult to get things done. I hope you were able to make progress.
+
+>> Accommodating
+
+To me :accommodating" means being willing to understand, accept, and adapt to each other's differences in order to create harmony and mutual respect. It involves patience, flexibility, and effort to meet the other’s needs while valuing and honoring each other's unique perspectives.
 
 ## 2025-07-15
 

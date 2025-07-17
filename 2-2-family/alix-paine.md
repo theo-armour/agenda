@@ -4,6 +4,13 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+
+## 2025-07-16
+
+I organize the French wine and cheese tasting that took place here today. Four cheeses and four wines, all French. I was worried it was going to be too much, but every plate was scraped clean and every glass was empty. I don't have the other people's photos yet, but all I have is a photo of the chef who prepared the layout.
+
+
+
 ## 2025-07-15
 
 My Alix has a new boyfriend, Jerry. He has three young sons. They are all going to spend ten days camping in France. Alix took a photo of the boys playing with their devices in the car. I used AI to animate the photo. Here the link to the album:

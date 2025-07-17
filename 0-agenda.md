@@ -32,4 +32,4 @@
 * Donna: Admin??
 * GuiKui
 * Aselia
-* Scans
+* Scan
