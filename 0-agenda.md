@@ -16,7 +16,7 @@
 * +++
 * Tx: 1hr
 * Tidy desk + clean carpet
-* HH: tom King
+* HH: tom King"
 * Karen & Dan
 
 ## Whenever
