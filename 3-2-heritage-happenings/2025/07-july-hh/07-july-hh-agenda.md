@@ -9,6 +9,8 @@
 
 * Speech Therapy ~ Claire
 * Tom King ~ Chime article
+* Tasting photos
+* Library ~ Sherrill
 * Topic: Mia: Hobbies, Passions, Inspiration
 
 ### Done
@@ -47,7 +49,7 @@
 
 ## Activities
 
-* Pony Person Photos
+* Tasting Photos
 
 ## Admin
 

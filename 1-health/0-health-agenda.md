@@ -1,5 +1,7 @@
 # Health Agenda Read Me
 
+* set up talking coach to run every morning
+* more exercises, use and agent to buold up a verbal coaching system
 * Continue the health agenda triage
 * Folders for providers ~ supplier ~ agencies
 

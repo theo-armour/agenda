@@ -17,6 +17,7 @@
 * Tx: 1hr
 * Tidy desk + clean carpet
 * HH: tom King
+* Sherrill ~ reconfirm
 * Karen & Dan
 
 ## Whenever
@@ -36,3 +37,4 @@
 * Aselia
 * Res Dir
 * Per Asst: job description ~ prject manager
+* scan vaccine etc

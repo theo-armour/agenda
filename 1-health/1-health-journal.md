@@ -1,5 +1,11 @@
 # Health Journal
 
+
+## 2025-07-18
+
+I went and got a coffee while doing the stair, actually the reverse.
+
+
 ## 2025-07-01
 
 Message to Amanda: Please reply to my message.
