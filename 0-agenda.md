@@ -16,7 +16,7 @@
 * +++
 * Tx: 1hr
 * Tidy desk + clean carpet
-* HH: tom King"
+* HH: tom King
 * Karen & Dan
 
 ## Whenever
@@ -34,3 +34,5 @@
 * Uber Survey ~ Amazon Survey
 * Donna: Admin??
 * Aselia
+* Res Dir
+* Per Asst: job description ~ prject manager
