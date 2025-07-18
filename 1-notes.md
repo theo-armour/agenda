@@ -4,8 +4,6 @@ Notes
 
 
 
-
-
 https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?smid=nytcore-android-share
 
 Question of the day what are you going to do when you grow old?
