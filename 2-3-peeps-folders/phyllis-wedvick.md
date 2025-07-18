@@ -1,5 +1,15 @@
 # Phyllis Wedvick
 
+* https://www.pastheritage.org/inv/invF/forest345.html
+* 2025-05-04 ~ Peer died
+
+## 2025-07-17
+
+Are you hanging out at Avenidas these days?
+
+I had lunch with my "cousin" Phillip at Perry's on Union Street — a good long uphill walk for me. When he lived in Palo Alto, we had lunch at Il Fornaio.
+
+
 ## 2025-07-16
 
 I have not felt well for the past two days.  Too much anxiety exhausts me.

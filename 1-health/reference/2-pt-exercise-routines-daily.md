@@ -34,7 +34,7 @@ Lying on stomach in bed
 
 * Stretch right arm and wiggle the fingers
 * Arch the back, pushing up with the elbows 15 seconds
-* List head, shoulders and legs ~ 10 reps
+* Lift head, shoulders and legs ~ 10 reps
 
 Lying on back in bed
 
@@ -45,8 +45,13 @@ Lying on back in bed
 * Legs in air ~ touch toes
 * Legs in air ~ rotate
 * 10 leg lifts
-* Trunk twist - right & Left
-* 10 Head ups ( or arches?)
+* Lying on left side: 5 trunk twists + 10 right leg list
+* Lying on right side: ditto
+* On back: 10 butt ups ( or arches?)
+* 20 dying bugs
+
+Deprecated
+
 * 10 Angels
 * 10 Bicycles each ~ forwards then backwards
 
@@ -56,9 +61,12 @@ Sitting up on the edge of the bed
 
 Standing up
 
-* 10 swing raised arms from side to front ~ stretching fingers
-* 6 sit to stand ~ raising arms above head while wiggling fingers and doing Kegel tightening ~ upon siting: rotate shoulders
+* 10 squats
+* 10 lift right leg
+* Stand on right foot : 20 seconds
+* 10 sit to stand ~ raising arms above head while wiggling fingers and doing Kegel tightening ~ upon siting: rotate shoulders
 * 30 seconds each ~ sitting with one leg crossed and leaning forward ~ left and right ~ then stretch and wiggle toes
+* 10 swing raised arms from side to front ~ stretching fingers
 
 ## Bathroom upon waking up
 
@@ -75,7 +83,7 @@ Showering
 
 * Bend down & clean toes
 * Legs straight and touch the ground
-* 10 squats
+* 12 squats
 
 Brushing teeth
 
@@ -108,7 +116,7 @@ Goals
 * 5,000 steps
 * (10 minutes Google heart points)
 * 12 flights of stairs ~ up and down
-* 2024-08-21 ~ Brittany OT ~ Hold scupalas back and down for ten seconds six times a day
+* 2024-08-21 ~ Brittany OT ~ Hold scapulas back and down for ten seconds six times a day
 
 ## Elevenses
 

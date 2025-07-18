@@ -5,6 +5,12 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-07-17
+
+I had lunch with Phillip up at Perry's.
+
+The florist on the way home is a joy and a delight
+
 ## 2025-07-16
 
 I organize the French wine and cheese tasting that took place here today. Four cheeses and four wines, all French. I was worried it was going to be too much, but every plate was scraped clean and every glass was empty. I don't have the other people's photos yet, but all I have is a photo of the chef who prepared the layout.
