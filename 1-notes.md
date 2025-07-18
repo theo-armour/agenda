@@ -1,13 +1,13 @@
 Notes
 +++
-Josh 
+
+
 
 
 
 
 https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?smid=nytcore-android-share
-Alex P
-425833 3450 7323
+
 Question of the day what are you going to do when you grow old?
 BoD interview questions from residents&nbsp;
 [https://www.linkedin.com/in/theoa
