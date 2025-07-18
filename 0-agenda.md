@@ -16,20 +16,21 @@
 * +++
 * Tx: 1hr
 * Tidy desk + clean carpet
-
+* HH: tom King
+* Karen & Dan
 
 ## Whenever
 
 * +++
+* WineTasting: Lessons Learned
+* Val: delivery
+* RC: HH talk
+* Gukhui
 * Peeps: Tyler Sterkel
-* Hector: Illumination
 * PPH: gripes follow-up
 * Carolyn Kiernat: reply
 * Drew & Espoir ~ Quincy & Adam: reflections
 * ACE: soap photo
 * Uber Survey ~ Amazon Survey
-* Pay Pharmerica
 * Donna: Admin??
-* GuiKui
 * Aselia
-* Scan

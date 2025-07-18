@@ -2,11 +2,14 @@
 
 ## Agenda
 
+Resdir
 
 ## Volunteers
 
 * David: Peritz: readable slides
 * Tess?
+* Pay Pharmerica
+* Hector: Illumination
 
 ## Reminders
 

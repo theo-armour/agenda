@@ -14,6 +14,7 @@ Wix dashboard > Edit website > Pages & Menu ? Newsletter
 
 ## Title samples
 
+* Friday, July 25, 2025 at North Beach Restaurant: Donne Brownsey, past chair of California’s Coastal Commission
 * Friday, July 11, 2025 at North Beach Restaurant: David Todd of Abundant San Francisco
 * Friday, June 27, 2025 at North Beach Restaurant: Bridget Maley of Neighborhoods United on Mayor Lurie's up-zoning plan
 * Friday, June 20, 2025 at North Beach Restaurant: Scott Weiner, State Senator (D-San Francisco/San Mateo)
