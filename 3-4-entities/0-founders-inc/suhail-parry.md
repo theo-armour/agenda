@@ -5,9 +5,34 @@
 * Uses elevenlabs
 * very low latency
 
+
 ## Frenemies
 
 * https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr
+
+
+## 2025-07-18
+
+@ for &copy;
+
+Site
+
+V clean ~ I know what you do
+
+And
+
+Are you real people?
+
+In this day of AI, what is real? Do you have vibes or do you have wisdom?
+
+Want  ~ links, transcripts?
+
+Opportunities
+
+* NACC ~ https://directory.contactcenterpipeline.com/
+* https://www.norcalcontactcenters.org/
+
+
 
 
 ## 2025-05-27

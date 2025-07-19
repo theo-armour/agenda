@@ -5,6 +5,7 @@
 * Children at Lone Mountain
 * Andover, upper East side NYC
 
+## 
 ## Lorenzo Rosa
 
 * Legislative Aide
@@ -19,11 +20,11 @@ Thank you for attending the Sacramento seminar lunch last Friday. I continue to 
 
 So here I am reaching out. ;-)
 
-Over the weekend, in several discussions with residents here where I live at Heritage on the Marina, I was pleased to hear that residents would be very pleased to have the Supervisor come and talk to us about his future agenda for the District. 
+Over the weekend, in several discussions with residents here where I live at Heritage on the Marina, I was pleased to hear that residents would be very pleased to have the Supervisor come and talk to us about his future agenda for the District.
 
-I imagine we could have between 40 and 60 residents and perhaps more if we invited residents in the neighborhood. 
+I imagine we could have between 40 and 60 residents and perhaps more if we invited residents in the neighborhood.
 
-If you feel am appearance might be possible, I would be very pleased to discuss date and time and other details. 
+If you feel am appearance might be possible, I would be very pleased to discuss date and time and other details.
 
 Cheers,
 
@@ -35,4 +36,3 @@ Hi Lorenzo,
 Thank you for attending the Sacramento seminar lunch last Friday. I continue to be impressed with Supervisor Sherrill's capabilities and knowledge of the city's challenges. I appreciate your support role in helping constituents connect with him.
 Over the weekend, I spoke with several Heritage on the Marina residents who expressed strong interest in having the Supervisor discuss his future agenda for the District. We could expect 40-60 residents, potentially more if we include the broader neighborhood.
 If an appearance might be possible, I'd be happy to discuss scheduling and details.
-

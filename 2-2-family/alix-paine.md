@@ -5,6 +5,22 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-07-18
+
+Good evening Alix
+
+I haven't the faintest idea what I'm going to say. The day had lots of little things, but nothing extraordinary. Well, actually, I had a cup of coffee with Suhail Parry, a guy from Kashmir who's doing a software startup. And we just had a lovely conversation for about an hour or so down at Fort Mason.
+
+And I showed an error on his website: In the website copyright notice, he put an "at" sign instead of the copyright sign. Also I gave him ideas for contacts groups he'd never thought about. I am frequently amazed and delighted by how useful I can be to people half my age. While sitting around many people my age and older, I tend to feel bored and boring. It's like they're working on finish-ups instead of start-ups.
+
+Well, I'm finishing up as well, but that doesn't stop me from wanting to go out kicking and thriving.
+
+Gee, I guess I had something to say.
+
+
+
+
+
 ## 2025-07-17
 
 I had lunch with Phillip up at Perry's.

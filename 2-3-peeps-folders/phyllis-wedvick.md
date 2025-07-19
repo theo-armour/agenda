@@ -3,6 +3,34 @@
 * https://www.pastheritage.org/inv/invF/forest345.html
 * 2025-05-04 ~ Peer died
 
+## 2025-07-18
+
+
+## 2025-07-18
+
+I enjoy your evening messages.  A gift.
+
+If Fornaio was the favorite place for dinner for Peer and me.  We often sat at the end of the bar and shared grilled salmon.  Peer loved pasta of any type.
+
+For years, we would go.  When Peer and I had more money we would also drink wine.
+
+No, I have not been to Avenidas lately but rather prefer a tiny cafe on Ramona Street called Marvel.  Four little tables and fabulous pastry, coffee, and tea.
+
+Today was an up and down day but I managed to survive.
+
+***
+
+>> I enjoy your evening messages.  A gift.
+
+And I enjoy the writing from my end as well.
+
+And yet I wonder how and why it came to happen. But not too much. And just let it happen.
+
+>> https://marvelcake.com/
+
+Looks like yummy calories! ;-)
+
+
 ## 2025-07-17
 
 Are you hanging out at Avenidas these days?
