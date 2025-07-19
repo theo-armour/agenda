@@ -19,10 +19,14 @@
 * HH: tom King
 * Sherrill ~ reconfirm
 * Karen & Dan
+* Tania
 
 ## Whenever
 
 * +++
+* Diana
+* Tony Hanley
+* Kay Tim
 * WineTasting: Lessons Learned
 * Val: delivery
 * RC: HH talk

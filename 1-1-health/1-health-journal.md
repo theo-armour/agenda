@@ -1,5 +1,8 @@
 # Health Journal
 
+## 2025-07-19
+
+So I'm thinking about writing about fitness, but this is a health journal and health and fitness are different. So I should probably start a fitness section on my to-do list agenda.
 
 ## 2025-07-18
 
