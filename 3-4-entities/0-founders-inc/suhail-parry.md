@@ -32,8 +32,16 @@ Opportunities
 * NACC ~ https://directory.contactcenterpipeline.com/
 * https://www.norcalcontactcenters.org/
 
+***
 
+To the future.
 
+* Soon the medical insurance companies will have their own bots, so it will be bot against bot.
+* Gather the knowledge about how to deal with these companies.
+* Sell the information about which companies create the longest accounts receivable, which ones are the most problematic and why, and what could be done.
+Learn how to build bots for the insurance companies to reply to your bots.
+* Create a secret language between the bots.
+* Eventually, computers imitating people will be hated. Be prepared. Have some other irons in the fire.
 
 ## 2025-05-27
 
