@@ -41,3 +41,7 @@
 * Res Dir
 * Per Asst: job description ~ prject manager
 * scan vaccine etc
+
+## just in case
+
+* support@dictanote.co
