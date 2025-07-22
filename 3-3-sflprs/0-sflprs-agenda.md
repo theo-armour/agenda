@@ -4,6 +4,7 @@
 * Affiliation
 * Nominating Committee
 * Strategic Plan: Community organization alternative
+
 ## Board of Directors
 
 ## Wikipedia

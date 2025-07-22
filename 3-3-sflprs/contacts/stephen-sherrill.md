@@ -1,11 +1,16 @@
 # Stephen Sherill
 
 * https://en.wikipedia.org/wiki/Stephen_Sherrill
+* https://sfbos.org/supervisor-sherrill-district-2
+* https://www.linkedin.com/in/stephen-sherrill-6b9490b8/
 * Green Mini Cooper
 * Children at Lone Mountain
 * Andover, upper East side NYC
+* Helen dated his father-in-law
 
-## 
+## Lauren
+
+
 ## Lorenzo Rosa
 
 * Legislative Aide
