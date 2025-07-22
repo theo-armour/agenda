@@ -16,7 +16,6 @@
 * +++
 * Taxes: 1hr!!!
 * Tidy desk
-* Wix
 * Karen & Dan
 * HH: Sherrill
 * HH: cheese photos

@@ -1,4 +1,16 @@
-# 2024-07-07 Sensay Journal
+# 0 Sensay Journal
+
+## 2025-07-21
+
+Karen and Dan
+
+Sorry for my slow reply. I have a fairly tasty reply brewing, one that uses ingredients from both of your messages: "Searching for the Wise Heroes".
+
+Fingers crossed: it's frothy by Friday.
+
+Cheers,
+
+Theo
 
 ## 2024-07-31
 

@@ -3,7 +3,39 @@
 * https://www.pastheritage.org/inv/invF/forest345.html
 * 2025-05-04 ~ Peer died
 
+
+## 2025-07-21
+
+Good Morning.
+
+***
+
+Last night I went out carousing and got home way too late, but it was too much fun. At the end of a long walk, I stopped to have a beer. At Silver Cloud, a karaoke bar that's close to home. Well, it turns out that I'd met the DJ a couple of times at another place and we had talked about his day job, which is being a Physical Therapist. Now we are old friends. Anyway, a lovely evening and  even got a bit of time on the dance floor (with my walker).
+
+My friend Lillemor stops by a few times every day. It's her husband that has stage 4 prostate cancer. She has no idea about how long he will live. And I guess the doctors don't either. He is heavily medicated, so seems to be doing okay. But she is beside herself and cannot sleep. Is it okay if I tell you things like this?
+
+Also I've been working on a browser app version of the Heritage Happenings newsletter. I hope some of the old people that have tremors and bad vision will be able to do their reading using the app eventually.
+
+https://heritage-happenings.github.io/
+
+
+Did you get your almond croissant today?
+
+Cheers,
+
+Theo
+
+## 2025-07-19
+
+Left things too late
+
+night night
+
 ## 2025-07-18
+
+Yes, very yummy--almond croissants.  Peer loved to eat chocolate croissants.
+
+One of our favourite places was Douce France in Palo Alto.  I have not been back since he died.
 
 
 ## 2025-07-18
