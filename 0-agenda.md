@@ -14,22 +14,21 @@
 ## Today
 
 * +++
-* Tx: 1hr
-* Tidy desk + clean carpet
-* HH: tom King
-* Sherrill ~ reconfirm
+* Taxes: 1hr!!!
+* Tidy desk
+* Wix
 * Karen & Dan
-* Tania
+* HH: Sherrill
+* HH: cheese photos
+* HH: WineTasting: Lessons Learned
+
 
 ## Whenever
 
 * +++
-* Diana
-* Kay Tim
-* WineTasting: Lessons Learned
-* Val: delivery
+* Petaluma ~ you can pet a cat...
+* Eastern Bank
 * RC: HH talk
-* Gukhui
 * Peeps: Tyler Sterkel
 * PPH: gripes follow-up
 * Carolyn Kiernat: reply
@@ -37,9 +36,8 @@
 * ACE: soap photo
 * Uber Survey ~ Amazon Survey
 * Donna: Admin??
-* Aselia
 * Res Dir
-* Per Asst: job description ~ prject manager
+* Per Asst: job description ~ project manager
 * scan vaccine etc
 
 ## just in case

@@ -2,6 +2,9 @@
 
 tags #habits #schedule #fitness
 
+* Skip two or more dinners per week
+* 2025-07-21: triage agendas daily
+* 2025-07-21: daily old email triage
 * Thing one: Just recognize the time/event each day
 * Thing two: Just go for a pee
 * 2023-11-12 ~ Establish routine consistency
@@ -10,6 +13,8 @@ tags #habits #schedule #fitness
 
 ## Possibilities
 
+* 2025-07-21 ~ App reminder: clean o-ring at 10pm
+* 2025-07-21 ~ App reminder: 11:30: take a walk
 * Walk up three flights of stairs
 * Do some arm weight stuff
 
