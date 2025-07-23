@@ -17,7 +17,6 @@
 * Taxes: 1hr!!!
 * Tidy desk
 * Karen & Dan
-* HH: Sherrill
 * HH: cheese photos
 * HH: WineTasting: Lessons Learned
 
@@ -25,7 +24,6 @@
 ## Whenever
 
 * +++
-* Petaluma ~ you can pet a cat...
 * Eastern Bank
 * RC: HH talk
 * Peeps: Tyler Sterkel

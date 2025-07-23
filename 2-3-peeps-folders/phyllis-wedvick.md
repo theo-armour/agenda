@@ -3,6 +3,20 @@
 * https://www.pastheritage.org/inv/invF/forest345.html
 * 2025-05-04 ~ Peer died
 
+## 2025-07-22
+
+The past few days presented a challenge.  All might seem better for one day.  Then, grief returns with tears and anxiety.
+
+Because of all that I had to do after Peer died, my energy level dropped.  I have a second ceramics class today and might feel better being with people.
+
+Otherwise, depression remains with me and happiness eludes me.
+
+***
+
+Fingers crossed: throwing yourself into throwing pots could be wonderful. and with other people: even better!
+
+I was with people today and I left my computers behind. We had an outing to go up to Petaluma. And our tour guide was a former resident here who moved up to Marin. She knows Petaluma well and led an excellent tour with some really nice architectural works, and lunch by the river.
+
 
 ## 2025-07-21
 
