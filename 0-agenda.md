@@ -19,6 +19,9 @@
 * Karen & Dan
 * HH momo ~ tootoo ~ phopho
 * RC: HH talk
+* Paula & Katie
+* Trish
+* Sherrill staff ~ Instagram
 
 
 ## Whenever

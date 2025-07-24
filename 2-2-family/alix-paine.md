@@ -4,6 +4,21 @@
 
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
+
+## 2025-07-23
+
+
+Today we had a special event at Heritage on the marina. Our new San Francisco District Supervisor, Steven Sherrill, came and gave us a talk and a Q&A. He is wonderful. He shook almost everybody's hand, answered a thousand questions in a hugely informed and engaging manner. He took the place by storm.
+
+Well, it was me that organized the event. I engineered the invite and wrangled the positive response. And there's a ton of details: making sure that security is aware, that chairs are set up, that sound and audio-visual is set up, and a million other things. and I also invited members of the Next Village senior group to join in, and we had about 10 of those. And they and their next village leader needed wrangling. Made sure that our CEO was in the room to make the introduction. And so on.
+
+And then as soon as it was nearly over, I went off to the Library because I have been elected to the board of directors of the San Francisco Ladies Protection and Relief Society. Today was my first meeting with the board of directors.
+
+That was much easier. Having lived here five years, every topic they discussed I was very familiar with and at home thinking and discussing.
+
+BTW, did you know that Helen dated Stephen Sherrill's father-in-law? ;-)
+
+
 ## 2025-07-21
 
 Yummmm
