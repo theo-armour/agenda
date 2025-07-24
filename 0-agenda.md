@@ -17,15 +17,14 @@
 * Taxes: 1hr!!!
 * Tidy desk
 * Karen & Dan
-* HH: cheese photos
-* HH: WineTasting: Lessons Learned
+* HH momo ~ tootoo ~ phopho
+* RC: HH talk
 
 
 ## Whenever
 
 * +++
 * Eastern Bank
-* RC: HH talk
 * Peeps: Tyler Sterkel
 * PPH: gripes follow-up
 * Carolyn Kiernat: reply
@@ -33,10 +32,13 @@
 * ACE: soap photo
 * Uber Survey ~ Amazon Survey
 * Donna: Admin??
-* Res Dir
+
 * Per Asst: job description ~ project manager
 * scan vaccine etc
 
 ## just in case
 
+* Res Dir
 * support@dictanote.co
+* HH: cheese photos
+* HH: WineTasting: Lessons Learned
