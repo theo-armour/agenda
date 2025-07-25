@@ -2,6 +2,7 @@ Notes
 +++
 
 
+Tony's article by Myra 
 
 
 https://www.nytimes.com/2025/07/18/opinion/ai-chatgpt-school.html?smid=nytcore-android-share
