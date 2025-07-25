@@ -5,8 +5,13 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
-## 2025-07-23
+## 2025-07-24
 
+Today was my lunch-with-Philip day. I was pretty good about getting him to keep to the present and future and not just to dive back into talking about the long gone past. ;-)
+
+Also I did quite a bit of writing. One piece was quite fun. I wrote a rough draft. I told AI to improve it - which it did. Then I asked AI to criticize the project. The results were wonderful. The results picked up all the holes in my argument but they did not in any way tell me what to write. Thus the second draft will be improved but using my words without being influenced by AI "improvements".
+
+## 2025-07-23
 
 Today we had a special event at Heritage on the marina. Our new San Francisco District Supervisor, Steven Sherrill, came and gave us a talk and a Q&A. He is wonderful. He shook almost everybody's hand, answered a thousand questions in a hugely informed and engaging manner. He took the place by storm.
 
