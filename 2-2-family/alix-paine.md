@@ -5,6 +5,31 @@
 * https://en.wikipedia.org/wiki/Progressive_supranuclear_palsy
 
 
+## 2025-07-25
+
+Today was one of those days when you know it's good to be alive. A half a dozen or so things, perhaps more, happened that were unusual, special, and electric.
+
+Now is that because now that I am older, I have antennae that sense Wonderful things, which I didn't have when I was younger? Or is that because when I was younger, magical things did not happen so much?
+
+Actually, I think I have an even more diabolical sense about these things. The things I did in my past are causing these good things to happen now.
+
+So here's one of the magical things. We have a Construction Foreman Who has led dozens of significant construction jobs over the past five years that I've been living here. From my moderately experienced eye, John is a really good foreman, If nothing else, because he is a really good people person with tradesmen, resident and our staff.
+
+We know each other quite well. And we also know that we're very different people in terms of our intellectual background or whatever. He is good at small talk and I suck or whatever.
+
+Anyway, several years ago, I invited him to come to lunch in our dining room. Ever since, I think he has kept his antennae up to know that I have antennae that he has antennae.
+
+Anyway, this afternoon as I was going out to go to the life-expanding event (truly) I was going to go to, I asked John how his weekend was going to be.
+
+And he opened up. His wife of 25 years had left him. And it's complicated. And we could talk about it.
+
+The thing is that he knew that I knew that we were people. It took four or five years to get there. And talking was good
+
+I think in some ways I suck as an architect, but I'm actually not bad at building things. ;-)
+
+Sometimes it takes years, but some of those silly things that you did years ago actually were magic of sorts.
+
+
 ## 2025-07-24
 
 Today was my lunch-with-Philip day. I was pretty good about getting him to keep to the present and future and not just to dive back into talking about the long gone past. ;-)

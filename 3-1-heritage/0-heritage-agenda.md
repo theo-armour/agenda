@@ -3,6 +3,12 @@
 ## Agenda
 
 Resdir
+* Microphone
+* Candy: roses
+* RC: two days before exec committee: request for issues/questions
+* Sunday movie: Friendship Hall
+* Gene & Yvonne
+
 
 ## Volunteers
 

@@ -22,6 +22,9 @@
 * Paula & Katie
 * Trish
 * Sherrill staff ~ Instagram
+* Candy: roses
+* Donna
+
 
 
 ## Whenever

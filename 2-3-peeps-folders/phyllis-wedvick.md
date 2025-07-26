@@ -3,6 +3,26 @@
 * https://www.pastheritage.org/inv/invF/forest345.html
 * 2025-05-04 ~ Peer died
 
+## 2025-07-25
+
+Today was one of those days when you know it's good to be alive. A half a dozen or so things, perhaps more, happened that were unusual, special, and electric.
+
+Now here I am, sitting down late at night, trying to write a message to you.
+
+If I had a pretty wonderful day, and I assume that your day was not as nice, what am I supposed to say?
+
+I can say I care. I know I have said that before, and I can say it again. and I can say it in different ways. I know how you feel. I am thinking of you and all the other ways we can say that we are caring for somebody.
+
+Ah! I think what's interesting is that I'm comparing my day with the way I assume your day went.
+
+Or even worse, by saying I had a wonderful day, I am virtue or social signaling in some way.
+
+How does one communicate with another person who is in a completely different life?
+
+I ask: How does happy talk to unhappy? But that is not a good thing to ask. What do you think I can say that shares my life and yet responds to your life? 
+
+Cheers, maybe
+
 ## 2025-07-24
 
 How well do you play the piano? Have you ever performed?
